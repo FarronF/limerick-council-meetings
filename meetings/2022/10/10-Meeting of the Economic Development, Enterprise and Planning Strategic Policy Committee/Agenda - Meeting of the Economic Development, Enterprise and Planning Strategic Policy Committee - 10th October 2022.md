@@ -1,0 +1,35 @@
+**20th** **September, 2022**
+
+**To / Each Member of the Economic Development, Enterprise and Planning SPC**
+
+Dear Member,
+
+A meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee will
+
+be held**on Monday, 10th** **October 2022 at 2.00pm in Council Chamber, Dooradoyle and Online.**
+
+The Agenda is as set out hereunder and your attendance at this meeting is requested.
+
+1. Adoption of Minutes from Economic Development, Enterprise and Planning SPC Meeting
+
+of 20th June, 2022 (copy attached).
+
+2. Presentation on Local Economic & Community Plan (LECP)
+
+3. Nomination of Sectoral Interest to LECP Advisory Group
+
+4. Presentation on Residential Zoned Land Tax
+
+5. Update on Shannon Estuary Task Force – Consultation
+
+6. Update on E-Planning
+
+7. Correspondence
+
+8. Any Other Business
+
+Yours sincerely
+
+***Cecilia Larkin, A/SEO,***
+
+***Economic Development & Enterprise Directorate***---

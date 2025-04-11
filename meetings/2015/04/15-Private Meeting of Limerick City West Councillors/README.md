@@ -1,0 +1,7 @@
+# Meeting Details
+
+**Meeting Name:** Private Meeting of Limerick City West Councillors
+
+**Date and Time:** 2015-04-15 14:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-meeting-limerick-city-west-councillors)**
