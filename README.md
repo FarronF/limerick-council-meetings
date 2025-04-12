@@ -87,4 +87,7 @@ If you have feedback for this project feel free to message me directly or open a
 
 ## Support
 If this project is useful, feel free to let me know. Star the repo. 
-Or if you really want: <a href="https://www.buymeacoffee.com/farronf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Or if you really want, you can sponser me using the button below. It may go towards coffee, delicious pints or a virtual machine that can scan the poor quality pdfs better.
+
+<a href="https://www.buymeacoffee.com/farronf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
