@@ -76,7 +76,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
-such interests were declared.---
+such interests were declared.
+---
 2
 
 3. Deputation
@@ -151,7 +152,8 @@ and Sycamore Crescent, Newcastle West.
 
 A discussion followed and the Members referred to a number of matters including housing
 
-projects in progress in the District, various timeframes and the number of outstanding---
+projects in progress in the District, various timeframes and the number of outstanding
+---
 3
 
 housing maintenance cases on Dynamics CRM. The success of compulsorily acquisition of
@@ -226,7 +228,8 @@ Following the presentation, the Members welcomed safety measures at this locatio
 
 however raised a number of queries including what engagement had taken place with the
 
-Board of Management of the school, the number of students driving to school and the---
+Board of Management of the school, the number of students driving to school and the
+---
 4
 
 provision of car parking within the school. Concerns were raised with regard to the layout of
@@ -301,7 +304,8 @@ REPLY:
 
 The existing light no. 13 on Sheehan’s Road has been upgraded to LED. The
 
-lights within the Liosán Development will be upgraded to LED as part Limerick---
+lights within the Liosán Development will be upgraded to LED as part Limerick
+---
 5
 
 City and County Council’s participation in the South West Region Public Light
@@ -376,7 +380,8 @@ REPLY:
 
 The Electoral Commission and Department of Housing, Local Government and Heritage ran
 
-campaigns to promote voter participation prior to recent electoral events and will continue---
+campaigns to promote voter participation prior to recent electoral events and will continue
+---
 6
 
 to promote participation.
@@ -443,7 +448,8 @@ with representatives of the Community Centre and revert to the Members on this m
 
 ***Roads.***
 
-The Motion was seconded by Councillor Collins.---
+The Motion was seconded by Councillor Collins.
+---
 7
 
 REPLY:
@@ -516,7 +522,8 @@ it was agreed that a site meeting would be arranged to discuss this matter furth
 
 ***way, back yards to be upgraded and drainage issues to be addressed at House No. 32 to 37***
 
-***and House No. 39 to 42.***---
+***and House No. 39 to 42.***
+---
 8
 
 The Motion was seconded by Councillor Sheahan.
@@ -589,7 +596,8 @@ An update was sought on the repair of the boundary wall at Reilig Íde Naofa, Th
 
 Abbeyfeale, and in replying, the Director stated that tender documents are to issue this week.
 
-An update was also sought on the provision of a new burial ground for Abbeyfeale.---
+An update was also sought on the provision of a new burial ground for Abbeyfeale.
+---
 9
 
 An update was sought on the western wall of the new graveyard in Templeglantine and the
@@ -642,4 +650,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

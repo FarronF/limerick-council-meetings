@@ -42,7 +42,8 @@ as it will provide funding certainty and is fundamental to the Limerick Developm
 
 2028.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Item 1: LSMATS Update**
@@ -115,7 +116,8 @@ momentum behind Active Travel and all schemes will be complementary to LSMATS. H
 
 examples of schemes such as the recently opened Castletroy Urban Greenway, and the fully
 
-segregated cycleways on Dooradoyle Road and at Groody Road. He added that Part VIII planning---
+segregated cycleways on Dooradoyle Road and at Groody Road. He added that Part VIII planning
+---
 3
 
 has been secured for Mill Road, Corbally and Part VIII planning should be secured soon for the
@@ -182,7 +184,8 @@ engage with private landowners. She also asked if users with reduced mobility ca
 
 for and if e-bikes would be included in the scheme. She agrees that competition is good and
 
-needs to be done in conjunction with the Council’s Park and Ride.---
+needs to be done in conjunction with the Council’s Park and Ride.
+---
 4
 
 Cllr. Butler added that there is a great need to have bike access for the UL campus to city centre
@@ -257,7 +260,8 @@ of Transport, the NTA and TII. He advised that TII are taking over the role as a
 
 for the development of Greenway schemes from the DoT and will be managed through the Mid-
 
-West National Road Design Office (NWMRDO) and there will be a requirement to comply with TII---
+West National Road Design Office (NWMRDO) and there will be a requirement to comply with TII
+---
 5
 
 guidelines and spending codes. Some of the Greenway schemes include the Rathkeale to City
@@ -322,7 +326,8 @@ City Greenway, and asked about the timeline for this scheme. Mr. Kennedy advised
 
 projects will be subject to a process involving an Environmental Impact Assessment (EIA) and An
 
-Bord Pleanála approval and all schemes have the potential to be referred for judicial review.---
+Bord Pleanála approval and all schemes have the potential to be referred for judicial review.
+---
 6
 
 **Item 5: Notice of Motion submitted by Cllr. S. Hartigan (referred from Metro** **Meeting)**
@@ -383,4 +388,5 @@ The Chair added that there is value in the Notice of Motion and thanked all for 
 
 confirmed that the next Meeting is scheduled for Tuesday, 14th December, 2021.
 
-The Meeting then concluded.---
+The Meeting then concluded.
+---

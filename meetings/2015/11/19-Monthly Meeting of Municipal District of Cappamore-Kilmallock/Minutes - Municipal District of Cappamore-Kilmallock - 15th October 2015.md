@@ -70,7 +70,8 @@ Circulated, Report of the Director, Home and Community in relation to Local
 
 Economic and Community Plan Socio-Economic Statement and High Level Goals
 
-dated September, 2015.---
+dated September, 2015.
+---
 2
 
 The Administrative Officer, Home and Community stated that the Local Economic
@@ -149,7 +150,8 @@ He also outlined the benefits for the young people:
 
  Teaches interview skills.
 
- Improves financial literacy.---
+ Improves financial literacy.
+---
 3
 
 Members thanked Mr. Walsh for his presentation and asked that he would come
@@ -222,7 +224,8 @@ Question submitted by Councillor B. Teefy
 
 ***General Operatives and Gangers in the Cappamore-Kilmallock Municipal***
 
-***District.***---
+***District.***
+---
 4
 
 REPLY:
@@ -307,7 +310,8 @@ so that they are visible approaching villages/junctions. If there are
 
 areas where there are issues with signage, please submit details so we
 
-can order and erect replacement signs.---
+can order and erect replacement signs.
+---
 5
 
 NOTICES OF MOTION
@@ -374,7 +378,8 @@ REPLY:
 
 Operations-South Division will investigate junctions and will arrange for
 
-extra signage/road markings if appropriate.---
+extra signage/road markings if appropriate.
+---
 6
 
 11.
@@ -435,7 +440,8 @@ Hospital Handball Club.
 
 Following a short discussion, it was agreed that further clarification would be sought
 
-from the Handball Club and that this would be reported back to the next Meeting.---
+from the Handball Club and that this would be reported back to the next Meeting.
+---
 7
 
 The Members enquired about the possibility of purchasing a backdrop for Municipal
@@ -460,4 +466,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

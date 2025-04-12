@@ -56,7 +56,8 @@ Seconded by Cmhlr. Ó Ceallaigh;
 
 to fill the casual vacancy caused by the election of Councillor Maurice Quinlivan to Dáil
 
-Éireann.”---
+Éireann.”
+---
 **2**
 
 As there were no other nominations, the Mayor declared Mr. John Costelloe co-
@@ -111,4 +112,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

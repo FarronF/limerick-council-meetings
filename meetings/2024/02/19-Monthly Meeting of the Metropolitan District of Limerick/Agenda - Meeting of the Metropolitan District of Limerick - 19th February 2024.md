@@ -75,7 +75,8 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **3.Disposal of Land**
@@ -144,7 +145,8 @@ Development Act, 2000 (as amended) and Part 8 of the Planning and Development Re
 
 Travel Scheme.
 
-(Report Enclosed).---
+(Report Enclosed).
+---
 3
 
 **QUESTIONS**
@@ -211,7 +213,8 @@ compliant with the condition to provide a creche where such condition was part o
 
 permission, and what steps will be taken to address this issue, given that no operational creche
 
-has been provided under any of those permissions to-date.---
+has been provided under any of those permissions to-date.
+---
 4
 
 **13.Question submitted by Councillor E. Secas**
@@ -278,7 +281,8 @@ that was passed on 8/7/2019, that safety barrier and footpath be put in place be
 
 and the roundabout on the N69 at Clarina Village which is for the safety of pedestrians and when
 
-will work commence.---
+will work commence.
+---
 5
 
 **21.Question submitted by Councillor C. Sheehan**
@@ -341,7 +345,8 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 
 both the NTA and Bus Eireann calling on them to provide a school bus service for the Raheen,
 
-Dooradoyle and Mungret areas to serve all six local schools.---
+Dooradoyle and Mungret areas to serve all six local schools.
+---
 6
 
 **29.Notice of Motion submitted by Councillor E. Secas**
@@ -396,4 +401,5 @@ Garryowen now meets the criteria for CCTV cameras.
 
 **35.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

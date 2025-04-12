@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-05-17 19:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/citizen-engagement/abbeyfeale-public-meeting-draft-river-basin-management-plan)**
+**<a href="https://www.limerick.ie/council/whats-on/citizen-engagement/abbeyfeale-public-meeting-draft-river-basin-management-plan" target="_blank">Link to meeting</a>**

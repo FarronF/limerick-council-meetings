@@ -52,7 +52,8 @@ position in Limerick, was read into the minutes. The Elected Members held a fran
 
 discussion on the response, and agreed to correspond with Minister Peter Burke’s Office
 
-requesting further clarification regarding---
+requesting further clarification regarding
+---
  Details of the role of the Directly Elected Mayor
 
  Whether a Citizens Assembly will be made available in Limerick as has been in the
@@ -117,7 +118,8 @@ Trust and Friars Gate that the nomination for funding from the General Municipal
 
 Allocation is on behalf of all Elected Members of the Cappamore Kilmallock Municipal
 
-District.---
+District.
+---
 A suggestion was made that funding be provided from the Central budget towards Friars
 
 Gate Theatre and The Maigue Rivers Trust to a minimum of €3000 each as opposed to
@@ -166,7 +168,8 @@ undertaken on the buildings to date. These discussions will take place prior to 
 
 Municipal District Meeting and the Notice of Motion above will carry over to the June
 
-Municipal District Meeting.---
+Municipal District Meeting.
+---
 7.Any other Business
 
 **Expressions of Sympathy**
@@ -215,4 +218,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

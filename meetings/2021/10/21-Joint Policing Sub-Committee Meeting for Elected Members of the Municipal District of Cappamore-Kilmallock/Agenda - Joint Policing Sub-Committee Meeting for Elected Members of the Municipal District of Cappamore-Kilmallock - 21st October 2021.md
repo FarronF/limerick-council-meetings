@@ -36,4 +36,5 @@ Sub-Committee held on 15th July , 2021.
 
 **2.Policing Issues**
 
-To discuss policing issues in the District.---
+To discuss policing issues in the District.
+---

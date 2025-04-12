@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-04-15 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/cancelled-special-meeting-municipal-district-newcastle-west)**
+**<a href="https://www.limerick.ie/council/whats-on/cancelled-special-meeting-municipal-district-newcastle-west" target="_blank">Link to meeting</a>**

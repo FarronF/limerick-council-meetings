@@ -20,4 +20,5 @@ on the 16th February 2022
 
 5. AOB
 
-Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council---
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+---

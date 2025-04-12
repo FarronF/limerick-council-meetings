@@ -64,7 +64,8 @@ said he was looking forward to working with all Members, Management and Staff ov
 
 the next twelve months in his role as Cathaoirleach of the Cappamore-Kilmallock
 
-Municipal District.---
+Municipal District.
+---
 2
 
 **To elect a Leas-Cathaoirleach of the Municipal District of Cappamore-Kilmallock to**
@@ -113,4 +114,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -70,7 +70,8 @@ Councillor Leddin proposed an amendment to the Minutes, which was seconded by Co
 
 Sheehan (C) as follows:
 
-“An adjournment was proposed by Councillor Leddin and seconded by Councillor Sheehan (C)”.---
+“An adjournment was proposed by Councillor Leddin and seconded by Councillor Sheehan (C)”.
+---
 2
 
 Proposed by Councillor Collins;
@@ -139,7 +140,8 @@ setting out details of proposed Disposal of Property, by way of a Lease, at 9A &
 
 Thomondgate, Limerick and the intention to bring a Section 183 Notice to Full Council in this
 
-regard, for approval.---
+regard, for approval.
+---
 3
 
 The report, as circulated, was noted by Members.
@@ -226,7 +228,8 @@ funding for this project €25,000
 
 Circulated, Report of the Senior Architect, Place-Making and Public Realm Department dated 9th
 
-March, 2023 and enclosed Chief Executive’s Report dated 9th March, 2023 setting out details in---
+March, 2023 and enclosed Chief Executive’s Report dated 9th March, 2023 setting out details in
+---
 4
 
 relation to the construction of Residential Scheme at Nos. 33 & 34 Thomas Street, Limerick.  The
@@ -299,7 +302,8 @@ works can take place.
 
 **REPLY:** In the next month, two new small road sweepers are due to be delivered to the Cleansing
 
-Section. These sweepers will be available to sweep streets and laneways throughout the---
+Section. These sweepers will be available to sweep streets and laneways throughout the
+---
 5
 
 city and their provision will allow the two existing compact sweepers to focus more on cycle
@@ -368,7 +372,8 @@ to give a definitive timeline for the delivery of the project.
 
 ***work will commence on Father Russell Road and South Circular Road Active Travel Schemes and***
 
-***when detailed design will be brought to Limerick City West Councillors for input.***---
+***when detailed design will be brought to Limerick City West Councillors for input.***
+---
 6
 
 **REPLY:** Detail design of the Fr. Russell Road scheme is progressing and the Active Travel Unit will
@@ -449,7 +454,8 @@ the RCT system would apply.
 
  In exceptional circumstances, we do authorise payment to contractors where an
 
-applicant does not have a bank account. These are considered on a case-by-case basis.---
+applicant does not have a bank account. These are considered on a case-by-case basis.
+---
 7
 
 The Members noted the response received in relation to the Motion and agreed that it was vital
@@ -520,7 +526,8 @@ agreed.
 
 In proposing the Motion, Councillor Secas referred to the urgent need to progress the extension
 
-project at Monaleen N.S., which had been ongoing for many years.---
+project at Monaleen N.S., which had been ongoing for many years.
+---
 8
 
 It was proposed by Councillor Sheahan (M) and seconded by Councillor Murphy to also write to the
@@ -589,7 +596,8 @@ The contractor’s programme has identified a potential start on site in June, w
 
 consideration the lead in time for the delivery of equipment.
 
-The Members welcomed the response received and looked forward to the completion of the---
+The Members welcomed the response received and looked forward to the completion of the
+---
 9
 
 upgrade works at the Peoples Park in the coming months.
@@ -608,4 +616,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

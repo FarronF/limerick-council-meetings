@@ -60,7 +60,8 @@ Under Matters Arising, Councillor E. Ryan requested clarification on additional 
 
 granted to Pallasgreen, in respect of the amount, purpose and source of funding.
 
-Clarification was received.---
+Clarification was received.
+---
 2
 
 Councillor E. Ryan also requested clarification regarding Councillor M. Ryan’s Notice of
@@ -117,7 +118,8 @@ workshop to the Municipal District in 2021.
 
 The Elected Members requested that Ian O’Mahoney, Irish Water be invited to meet with
 
-the Municipal District to discuss Waste Water and Water services in the District.---
+the Municipal District to discuss Waste Water and Water services in the District.
+---
 3
 
 NOTICE OF MOTION Update
@@ -184,7 +186,8 @@ homestead of former American President, John Fitzgerald Kennedy, in Ballycampion
 
 The Elected Members also wished to acknowledge the work undertaken regarding the
 
-footpaths and approach roads.---
+footpaths and approach roads.
+---
 4
 
 **Reply:**
@@ -237,7 +240,8 @@ Signage regarding the *Dromkeen Ambush* has being approved by Limerick City and 
 
 Council’s *Libraries & Museums Department*. It is scheduled to be erected during the week
 
-ending 13th December 2020.---
+ending 13th December 2020.
+---
 5
 
 8. Notice of Motion submitted by Councillor M. Ryan
@@ -314,7 +318,8 @@ communities to quickly access free pubic high speed broadband in advance of the 
 
 deployment under the National Broadband Plan. Under this programme, Limerick City and
 
-County Council has had five Broadband Connection Point locations approved in the---
+County Council has had five Broadband Connection Point locations approved in the
+---
 6
 
 Cappamore/Kilmallock Municipal District, as listed below. Works have already started in
@@ -381,7 +386,8 @@ Water reference number is 59046, which you can keep for your own records.
 
 In understand that this issue is a source of concern for you and your constituents, please
 
-bear with us while this matter is being investigated.”---
+bear with us while this matter is being investigated.”
+---
 7
 
 QUESTIONS
@@ -444,7 +450,8 @@ I will ask at the next meeting of the Municipal District of Cappamore-Kilmallock
 
 any progress in plans to establish a Civic amenity centre in the east if the
 
-Cappamore/Kilmallock area.---
+Cappamore/Kilmallock area.
+---
 8
 
 **Reply:**
@@ -509,7 +516,8 @@ Councillor Teefy requested that an update be provided on the availability of Cha
 
 Cappamore Kilmallock District. An update is to be provided by Director, Support Services-Finance,
 
-Corporate, HR & ICT.---
+Corporate, HR & ICT.
+---
 9
 
 **Limerick/Cork Motorway/Railline**
@@ -546,4 +554,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

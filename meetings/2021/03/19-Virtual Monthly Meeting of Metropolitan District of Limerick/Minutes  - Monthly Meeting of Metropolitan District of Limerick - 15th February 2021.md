@@ -60,7 +60,8 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **2.Disposal of Land / Proposed Sub-Lease**
@@ -125,7 +126,8 @@ And Resolved:
 
 Avenue be taken in charge in accordance with Section 180 of the Planning and Development Act
 
-2000 (as amended) and Section 11 of the Roads Act 1993”.---
+2000 (as amended) and Section 11 of the Roads Act 1993”.
+---
 3
 
 **4.Capital Investment Directorate**
@@ -174,7 +176,8 @@ City and County Council Vacant Site Register. In accordance with Urban Regenerat
 
 Housing Act 2015 the total amount Vacant Levies charged for 2019 was €506,45O. To date
 
-LCCC have not received any payments in respect of the Vacant Site Levies owning.---
+LCCC have not received any payments in respect of the Vacant Site Levies owning.
+---
 4
 
 **6.Question submitted by Councillor C. Slattery**
@@ -219,7 +222,8 @@ that they are approaching the junction, anti-skid surfacing in buff colour on al
 
 There are road markings on the R525 to warn drivers that they are approaching the junction.
 
-(Image omitted)---
+(Image omitted)
+---
 5
 
 There is a driver feedback sign on the R525 O’Brien bridge approach to the junction and
@@ -298,7 +302,8 @@ to seek ownership of the building. As the castle is of national importance, Lime
 
 County Council will arrange to discuss the matter further with the National Monuments
 
-Service and the Office of Public Works (OPW).---
+Service and the Office of Public Works (OPW).
+---
 6
 
 **11.Question submitted by Councillor C. Sheehan**
@@ -361,7 +366,8 @@ An average of 18-20 calls are logged weekly in relation to these matters.
 
 is therefore not liable for any levies.
 
-**NOTICES OF MOTION**---
+**NOTICES OF MOTION**
+---
 7
 
 **15.Notice of Motion submitted by Councillor S. Hartigan (to be referred to the Climate Action,**
@@ -436,7 +442,8 @@ the Notice of Motion as follows:
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
 
-***County Council engage with Bus Eireann and the NTA to provide Glasgow Park and Flanker Court***---
+***County Council engage with Bus Eireann and the NTA to provide Glasgow Park and Flanker Court***
+---
 8
 
 ***with a bus service and invite a representative of Bus Eireann and the NTA to attend a Meeting***
@@ -511,7 +518,8 @@ trading. At its core, it is a regulatory function of local authorities.
 
 Casual Trading is regulated by the Casual Trading Act 1995, as amended, together with
 
-Limerick City and County Council’s Casual Trading Byelaws. It is an offence under this Act to---
+Limerick City and County Council’s Casual Trading Byelaws. It is an offence under this Act to
+---
 9
 
 trade without a valid casual trading licence.  Casual Trading is divided into Designated Area
@@ -578,7 +586,8 @@ Members supported the motion and referenced the issue of increased litter, parti
 
 the Three Bridges walk in the City Centre, as this was much busier at the present time. They also
 
-noted the increased amount of dog fouling.---
+noted the increased amount of dog fouling.
+---
 10
 
 The Members also commended the voluntary work being done by some individuals and groups
@@ -655,7 +664,8 @@ be a further undermining of the powers of local authorities, which was disappoin
 
 **Correspondence**
 
-Correspondence was noted and taken as read.---
+Correspondence was noted and taken as read.
+---
 11
 
 **25.** **Condolences**
@@ -676,4 +686,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

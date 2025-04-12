@@ -66,7 +66,8 @@ setting out proposals to dispose of Freehold Interest of premises consisting of 
 
 situate at 4 Mitchell Street, Limerick and the intention to bring a Section 183 Notice to Full
 
-Council in this regard, for approval.---
+Council in this regard, for approval.
+---
 2
 
 The report, as circulated, was noted by Members.
@@ -135,7 +136,8 @@ Limerick and the intention to bring a Section 183 Notice to Full Council in this
 
 approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 3.
@@ -216,7 +218,8 @@ Castleconnell
 
 2
 
-Birch - Health & Safety, Brittle Crindle---
+Birch - Health & Safety, Brittle Crindle
+---
 4
 
 Rathlinn
@@ -337,7 +340,8 @@ Council will notify the Forestry Service of its intention to fell trees where it
 
 7.
 
-**Question submitted by Councillor C. Slattery**---
+**Question submitted by Councillor C. Slattery**
+---
 5
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can Limerick City and County***
@@ -426,7 +430,8 @@ One of the benefits from the aforementioned exercise is that the majority of ten
 
 much more conscious of the need to advise the Rents Unit of household changes which may
 
-impact on their rent and, as a result, there is a steady stream of rent assessment forms---
+impact on their rent and, as a result, there is a steady stream of rent assessment forms
+---
 6
 
 being submitted on a daily basis and every effort is made to process these as promptly as
@@ -505,7 +510,8 @@ consultation as part of the Part 8 Planning process in the coming weeks.
 
 13.
 
-**Question submitted by Councillor E. O’Donovan**---
+**Question submitted by Councillor E. O’Donovan**
+---
 7
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick to request that railings on***
@@ -588,7 +594,8 @@ currently programmed to commence in August 2023 and be completed by May 2024.
 
 in Ireland was invited to submit an expression of interest to participate in the initiative. Only
 
-two of the five schools in the Roxboro Road / Sexton Street area applied to be part of the---
+two of the five schools in the Roxboro Road / Sexton Street area applied to be part of the
+---
 8
 
 Safe Routes to School programme, Scoil Íosagáin CBS, Sexton Street and St. Michael's Infant
@@ -669,7 +676,8 @@ The Council is developing a brief to that described above and will seek quotatio
 
 Consultants to design and deliver the new playground for People’s Park. It is expected that
 
-Consultants will be appointed by the end of March and the project delivered by the end of---
+Consultants will be appointed by the end of March and the project delivered by the end of
+---
 9
 
 this year.
@@ -744,7 +752,8 @@ the need to fund further medical research for women’s health issues and the ne
 
 Safety Bill to be prioritised. She stated that other countries had already established a Minister for
 
-Women’s Health and that this should be seriously considered by the Government.---
+Women’s Health and that this should be seriously considered by the Government.
+---
 10
 
 22.
@@ -821,7 +830,8 @@ Members also requested that clarification be provided for Members on the Part 8 
 
 previously been approved for Bloodmill Road and an update on the possibility for traffic lights at
 
-the Parkway Roundabout.---
+the Parkway Roundabout.
+---
 11
 
 **REPLY**: The draft Limerick Shannon Metropolitan Area Transport Strategy (LSMATS) identifies a
@@ -896,7 +906,8 @@ budget setting process for 2022. This will allow for an increase of approximatel
 
 grant, from approximately €350 to €450. This increased grant amount will be issued to all
 
-burial ground committees.---
+burial ground committees.
+---
 12
 
 15. **Correspondence**
@@ -919,4 +930,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

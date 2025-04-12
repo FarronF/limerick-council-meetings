@@ -68,7 +68,8 @@ amended, and the Code of Conduct, he was inviting those present to notify the Ca
 
 any declaration of interest in any item due for discussion at the Meeting. No such interests were
 
-declared.---
+declared.
+---
 2
 
 **3.Disposal of Land**
@@ -141,7 +142,8 @@ of bollards that would be used in the scheme. These were responded to by the Sen
 
 Engineer, Roads, Traffic and Cleansing.
 
-The report, as circulated, was noted by the Elected Members.---
+The report, as circulated, was noted by the Elected Members.
+---
 3
 
 **QUESTIONS**
@@ -210,7 +212,8 @@ lights before the turn to Carey’s Road will provide 4no ramps at the following
 
 ***I will ask at the next**Meeting of the Metropolitan District of Limerick for the Council to present***
 
-***its policy on dealing with reports of attacks on people by dogs in public places.***---
+***its policy on dealing with reports of attacks on people by dogs in public places.***
+---
 4
 
 **REPLY**: There is no formal policy for the investigation of dog attacks.
@@ -321,7 +324,8 @@ received. No evidence case
 
 closed.
 
-Immediate---
+Immediate
+---
 5
 
 2 large Alsatians followed
@@ -480,7 +484,8 @@ cemetery from a hydrological perspective. The Council continue to review a numbe
 
 and will advise in due course when a preferred site has been identified.
 
-**13.Question submitted by Councillor E. Secas**---
+**13.Question submitted by Councillor E. Secas**
+---
 6
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick if the NTA have approved***
@@ -681,7 +686,8 @@ Approved in Principle
 
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 7
 
 available on-street bike parking in conjunction with the NTA programme.
@@ -752,7 +758,8 @@ under the Cost Rental Tenant in Situ Scheme.
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for the number of HAP and***
 
-***RAS inspections carried out this year and the results of same.***---
+***RAS inspections carried out this year and the results of same.***
+---
 8
 
 **REPLY:** In total 615 inspections have taken place to date in 2023 – 287 HAP Inspections, 140 RAS
@@ -823,7 +830,8 @@ of the Economic Assessment Report.
 
 Economic Assessment Schedule:
 
- September 2023: Phase 1 - Discovery Phase---
+ September 2023: Phase 1 - Discovery Phase
+---
 9
 
  October 2023: Phase 2 - Analysis and Plan Development
@@ -896,7 +904,8 @@ difficult.
 
 ***to ensure that the pontoon that is located on the Shannon at Montpellier is retained to continue***
 
-***allowing access to the water for residents and visitors, including Dragon Boat personnel.***---
+***allowing access to the water for residents and visitors, including Dragon Boat personnel.***
+---
 10
 
 The Notice of Motion was proposed by Councillor Pond, seconded by Councillor Benson and
@@ -969,7 +978,8 @@ Committee.
 
 ***infrastructure for Community Space, as in Community Centres and spaces, are included in large-***
 
-***scale projects in Limerick City and County.*** ***Economic growth has been introduced in Limerick but***---
+***scale projects in Limerick City and County.*** ***Economic growth has been introduced in Limerick but***
+---
 11
 
 ***we are lacking physical infrastructure for our communities and community groups.***
@@ -1048,7 +1058,8 @@ procedure to take place given the time that has lapsed since the original planni
 
 development was granted over 20 years ago.
 
-**29.Notice of Motion submitted by Councillor S. Hartigan**---
+**29.Notice of Motion submitted by Councillor S. Hartigan**
+---
 12
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
@@ -1125,7 +1136,8 @@ Street is currently being cleaned in accordance with current cleansing operation
 
 ***The Castletroy Greenway to combat increasing incidents of antisocial behaviour both on the***
 
-***Greenway and in adjoining estates.***---
+***Greenway and in adjoining estates.***
+---
 13
 
 The Notice of Motion was proposed by Councillor Pond, seconded by Councillor Secas and agreed.
@@ -1208,7 +1220,8 @@ presence of Gardaí in the area.
 
 ***County Council write to the Minister for Justice to request that the Immigration Appointment***
 
-***waiting time be reduced.*** ***Presently the waiting time is 14 weeks.***---
+***waiting time be reduced.*** ***Presently the waiting time is 14 weeks.***
+---
 14
 
 The Notice of Motion was proposed by Councillor Talukder, seconded by Councillor Slattery and
@@ -1281,7 +1294,8 @@ Park, Shannon Airport, and Adare Heritage Centre.
 
  **New Map Guides.** Fáilte Ireland produces a Limerick Town and a Limerick Regional Map
 
-Guide(s) in five languages.---
+Guide(s) in five languages.
+---
 15
 
  **New Literature Distribution Service.** Fáilte Ireland has begun a direct-to-Hotels literature
@@ -1354,7 +1368,8 @@ applicants were having in proving vacancy and the need to ease the criteria.
 
 ***take pride in the appearance of their business and to ensure that their shop front is kept free from***
 
-***litter and food waste.***---
+***litter and food waste.***
+---
 16
 
 The Notice of Motion was proposed by Councillor Sheehan (C), seconded by Councillor O’Donovan
@@ -1387,4 +1402,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

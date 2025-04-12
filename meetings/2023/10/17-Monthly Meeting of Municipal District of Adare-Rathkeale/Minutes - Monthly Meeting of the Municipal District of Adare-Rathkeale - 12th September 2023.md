@@ -68,7 +68,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 of any declaration of interest in any item due for discussion at the Meeting. No such
 
-interests were declared.---
+interests were declared.
+---
 2
 
 **3.**
@@ -139,7 +140,8 @@ and the intention to bring the Section 183 Notice to Full Council for approval.
 
 The report, as circulated, was noted by Members.
 
-It was agreed Item 7 on the Agenda would be taken next.---
+It was agreed Item 7 on the Agenda would be taken next.
+---
 3
 
 **7.**
@@ -208,7 +210,8 @@ margin on the N69 at Askeaton to Ballyengland be filled in. The Senior Executive
 
 Engineer, Roads, Traffic and Cleansing advised he would convey this to Traffic
 
-Infrastructure Ireland.---
+Infrastructure Ireland.
+---
 4
 
  Councillor Collins stated diversion routes around Adare village from the N21 are
@@ -281,7 +284,8 @@ recommendations in September 2022:
 
 increase or improvement in usable space as universal public access is
 
-not possible to the upper floor.---
+not possible to the upper floor.
+---
 5
 
 3. The most optimal solution is to configure the building to accommodate
@@ -342,7 +346,8 @@ allocate €1,000 to St. Senans GAA Bord na nÓg.
 
 I located the attached notices which would have been displayed at
 
-Lismakeera in Askeaton in 2014.---
+Lismakeera in Askeaton in 2014.
+---
 6
 
 **Licensing Notice - Reg 25(c)(i) Acknowledgement - 1 for Askeaton Housing**
@@ -391,10 +396,12 @@ Office of Climate, Licensing & Resource Use
 
 Tel: 01-2680100
 
-(Image omitted)---
+(Image omitted)
+---
 7
 
-(Image omitted)---
+(Image omitted)
+---
 8
 
 **11.**
@@ -467,7 +474,8 @@ Councillor Keary and agreed.
 
 Officer had requested a date for a private workshop be convened regarding
 
-personal security of Elected Members. Members agreed to discuss and revert.---
+personal security of Elected Members. Members agreed to discuss and revert.
+---
 9
 
  Councillor Keary requested the costings for the original macadam surfacing of the
@@ -484,4 +492,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -42,7 +42,8 @@ The minutes of the previous committee meeting held on the 7th September 2015 wer
 
 proposed by Cllr Butler, seconded by Cllr Secas, and unanimously agreed and adopted.
 
-(Image omitted)---
+(Image omitted)
+---
 **Item 2: Presentation by the Director of Service of the Physical Development Directorate**
 
 Mr. Lehane explained that the Physical Development Directorate has responsibility for
@@ -109,7 +110,8 @@ years.
 
 The Members raised the issue of traffic congestion in a number of areas such as Abbeyfeale,
 
-Adare and Newcastle West and the insufficient access from the M7 to Janesboro.---
+Adare and Newcastle West and the insufficient access from the M7 to Janesboro.
+---
 Mr Lehane acknowledged that the issue of traffic congestion in Abbeyfeale has been raised
 
 previously and stated that the proposed Adare-Foynes motorway may offer a quicker route
@@ -168,4 +170,5 @@ proposed by Cllr Donegan and seconded by Cllr O’ Donoghue and unanimously agre
 
 ***Transport requesting that funding be provided for the proposed M20 Motorway.***
 
-The Meeting then concluded.---
+The Meeting then concluded.
+---

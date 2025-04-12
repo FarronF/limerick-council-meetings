@@ -54,7 +54,8 @@ Cappamore-Kilmallock held on 14th July, 2022.
 
 Councillor Carey wished to for the word “abstained” to be removed from the voting under
 
-Notice of Motion submitted by Councillors Carey, Mitchell and E. Ryan. This was agreed.---
+Notice of Motion submitted by Councillors Carey, Mitchell and E. Ryan. This was agreed.
+---
 3.Housing Directorate Quarterly update on Housing
 
 Circulated, responses to queries submitted by the Elected Members at the previous
@@ -111,7 +112,8 @@ One submission was received on this.
 
 **Proposed: Councillor Donegan**
 
-**Seconded: Councillor Teefy**---
+**Seconded: Councillor Teefy**
+---
 6. Disposal of Property
 
 The following disposal of properties were noted:
@@ -180,7 +182,8 @@ District Office is currently replacing signage on a priority basis across the di
 
 A new county wide review of speed limits across the public road network will commence
 
-in Q4 this year and continue into 2023.---
+in Q4 this year and continue into 2023.
+---
 8.Notice of Motion submitted by Councillor Egan
 
 I will move at the next meeting of the Cappamore Kilmallock Municipal District that
@@ -247,7 +250,8 @@ It is not clear as to the type of property that would be required by the South L
 
 Branch of the Irish Red Cross, so I would recommend that a detailed report be submitted
 
-to Limerick City and County Council’s Property Department (email:---
+to Limerick City and County Council’s Property Department (email:
+---
 tinaknox@limerick.ie) with further details of the requirements in relation to the desired
 
 property type, property size and level of investment should be addressed.
@@ -310,7 +314,8 @@ Cemetery.
 
 **Proposed: Councillor Carey**
 
-**Seconded: Councillor Donegan**---
+**Seconded: Councillor Donegan**
+---
 **Reply:**
 
 There are a number of mature trees in Kilfinane Graveyard. The Council will arrange
@@ -377,7 +382,8 @@ Hospital are complete. The raised table top at the junction and the pedestrian
 
 crossing will be installed as soon as a power supply is made available to the Council.
 
-It is anticipated that all works will be completed before the end of November.---
+It is anticipated that all works will be completed before the end of November.
+---
 14.Question submitted by Councillor Donegan
 
 I will ask at the next meeting of the Cappamore Kilmallock Municipal District for an
@@ -448,7 +454,8 @@ passed away on 12th August.
 
  Bridget Reale, Hospital, who passed away on 15th September.
 
- Paddy Leddin, Hospital, who passed away on 20th September.---
+ Paddy Leddin, Hospital, who passed away on 20th September.
+---
 **Hidden Heartlands**
 
 The Elected Members wished to invite Hidden Heartlands to a Municipal District Meeting in
@@ -509,7 +516,8 @@ Orders regarding deputations.
 
 **Proposed: Councillor Teefy**
 
-**Seconded: Councillor Donegan.**---
+**Seconded: Councillor Donegan.**
+---
 Next Meeting
 
 The date for the next meeting of the Cappamore Kilmallock District was agreed by the
@@ -520,4 +528,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

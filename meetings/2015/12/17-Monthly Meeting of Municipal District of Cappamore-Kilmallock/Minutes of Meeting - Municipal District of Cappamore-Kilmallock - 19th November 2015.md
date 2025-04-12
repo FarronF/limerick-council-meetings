@@ -62,7 +62,8 @@ support of the Council. They proposed, subject to receiving approval, to submit 
 
 to CIE for a medium to long term lease of the site with Limerick City and County Council as the
 
-Holding Company. In response to a query from the Members, it was confirmed that CIE would---
+Holding Company. In response to a query from the Members, it was confirmed that CIE would
+---
 2
 
 only consider entering into a lease if the Council was involved as a partner. It was stated that
@@ -137,7 +138,8 @@ the Joint Policing Committee be written to expressing disappointment that there 
 
 a Joint Policing Committee Meeting for some time. It was also agreed to copy the Chief
 
-Executive on this matter.---
+Executive on this matter.
+---
 3
 
 Members thanked Inspector Conlon for the update.
@@ -220,7 +222,8 @@ property at this time as there is no budget available.
 
 ***safety railing on the footpath at Lower Main Street, Bruff between the Church of Ireland and***
 
-***the Bridge in the interest of road safety for pedestrians and in particular children walking to***---
+***the Bridge in the interest of road safety for pedestrians and in particular children walking to***
+---
 4
 
 ***school.***
@@ -305,7 +308,8 @@ However significant funding is required to repair/replace worn sections of
 
 footpath, which is not available from the General Maintenance Budget but may
 
-become available from other funding sources.---
+become available from other funding sources.
+---
 5
 
 **9.**
@@ -374,4 +378,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -68,7 +68,8 @@ wished him every success in the coming year. Councillor O’Donoghue asked for
 
 Members to consider him and Councillor Hartigan for Cathaoirleach and Leas
 
-Cathaoirleach at some point during the five year term.---
+Cathaoirleach at some point during the five year term.
+---
 2
 
 On taking the Chair, Councillor Teskey thanked his proposer and seconder and said he
@@ -137,7 +138,8 @@ Mayor Moran asked Members to compile a list of eight to ten objectives that can 
 
 included in the Mayoral Programme for the next five years and suggested a Workshop
 
-be convened by Members to assist in compiling these objectives on or before the 12th---
+be convened by Members to assist in compiling these objectives on or before the 12th
+---
 3
 
 July. It was agreed the Mayoral Programme be circulated in advance of this Workshop
@@ -176,4 +178,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

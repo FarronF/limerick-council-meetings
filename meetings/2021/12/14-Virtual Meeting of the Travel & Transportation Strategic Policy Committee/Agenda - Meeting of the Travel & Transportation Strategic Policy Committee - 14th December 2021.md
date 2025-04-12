@@ -27,7 +27,8 @@ Committee, **to be held by MS Teams Video Conference**, on Tuesday 14th December
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -44,4 +45,5 @@ Strategic Policy Committee held on the 19th October, 2021.
 
 **4.Park Magic Disabled Parking App (Brian Kennedy)**
 
-**5.Connecting Ireland** **–** **Rural Mobility Plan (Peter Williams)**---
+**5.Connecting Ireland** **–** **Rural Mobility Plan (Peter Williams)**
+---

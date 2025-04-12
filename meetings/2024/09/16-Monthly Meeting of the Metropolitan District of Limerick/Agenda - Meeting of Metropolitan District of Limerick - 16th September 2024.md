@@ -75,7 +75,8 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **3.Disposal of Land**
@@ -142,7 +143,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 
 purchased in the Metropolitan District area to enable tenants remain in situ under the
 
-Government Scheme since it was launched, and how many are projected for purchase in 2024.---
+Government Scheme since it was launched, and how many are projected for purchase in 2024.
+---
 3
 
 **7.Question submitted by Councillor J. Leddin**
@@ -205,7 +207,8 @@ deliver this project.
 
 I will ask at the next Meeting of the Metropolitan District of Limerick what progress has been
 
-made on the taking in charge of the road at the back of Dochas building on Parnell Street.---
+made on the taking in charge of the road at the back of Dochas building on Parnell Street.
+---
 4
 
 **15.Question submitted by Councillor S. Kiely**
@@ -272,7 +275,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 
 housing units are there in the Metropolitan District. What is the average turnaround time to bring
 
-these back into use and the average cost per house.---
+these back into use and the average cost per house.
+---
 5
 
 **23.Question submitted by Councillor U. Gavan**
@@ -339,7 +343,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 
 City Transport Plan with reference to the approaches to the city from Pa Healy Road and the
 
-Corbally Road and the timeline for implementation.---
+Corbally Road and the timeline for implementation.
+---
 6
 
 **30.Question submitted by Councillor C. Sheehan**
@@ -404,7 +409,8 @@ stipulated in the planning conditions in respect to Irish Cement.
 
 I will move at the next meeting of the Metropolitan District of Limerick that the choice based
 
-letting scheme be extended to the Metropolitan area.---
+letting scheme be extended to the Metropolitan area.
+---
 7
 
 **37.Notice of Motion submitted by Councillor S. Kiely**
@@ -469,4 +475,5 @@ Limerick City at weekends, so as to increase footfall and business activity in t
 
 **43.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

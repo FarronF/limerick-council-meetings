@@ -62,7 +62,8 @@ Officer, Newcastle West (Ms. A. Lenihan).
 
 **buildings and site including utilities, drainage, landscaping and public realm. Widening of**
 
-**the existing entrance to accommodate 2-way traffic.**---
+**the existing entrance to accommodate 2-way traffic.**
+---
 2
 
 ***The Development of the West Limerick Tourism Hub @ Fullers Folly***
@@ -139,7 +140,8 @@ Director also acknowledged the work which has gone into the all the projects to-
 
 thanked the elected members for their ongoing support. The Members expressed full
 
-support for the projects.---
+support for the projects.
+---
 3
 
 Following discussion, the Part 8 Reports for **(a)** the development of a services building at
@@ -166,4 +168,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

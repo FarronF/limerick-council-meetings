@@ -56,7 +56,8 @@ Community Development Directorate
 
 **change of use to a community and tourism use along with ancillary site works.**
 
-At the outset of the Meeting, the Cathaoirleach welcomed everyone to the Meeting.---
+At the outset of the Meeting, the Cathaoirleach welcomed everyone to the Meeting.
+---
 The Director commenced by referring to the Chief Executive’s Reports on the Part 8 applications.
 
 He stated that no major objections to the proposals had been received during the public
@@ -125,7 +126,8 @@ and change of use to commercial, community and tourism use along with ancillary 
 
 The refurbishment of Barnagh Station house (which is a protected structure) and change of use
 
-to a community and tourism use along with ancillary site work,---
+to a community and tourism use along with ancillary site work,
+---
 were proposed by Councillor Collins, seconded by Cllr Scanlan and resolved.
 
 **2. General Municipal Allocation**
@@ -178,4 +180,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

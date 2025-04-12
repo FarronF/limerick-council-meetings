@@ -72,7 +72,8 @@ At the outset, the Mayor stated that the 2017 budgetary process had had signific
 
 and feedback from the Members through formal Statutory Meetings and numerous
 
-Workshops.---
+Workshops.
+---
 2
 
 He outlined the process which had commenced on 12th September, 2016, when there was
@@ -141,7 +142,8 @@ ensure competitiveness, smart decisions on organisational structure, smart decis
 
 resource investment, smart partnerships, both public and private, and, most importantly,
 
-the right attitude.---
+the right attitude.
+---
 3
 
 The Chief Executive stated that 9,000 jobs and €1.5bn of investment had been announced in
@@ -220,7 +222,8 @@ recent times increased. While this was welcome, it was not in itself sufficient.
 
 addition to the extensive social housing programme already underway through 'Rebuilding
 
-Ireland,” the Council had sought from Government funding under the Local Infrastructure---
+Ireland,” the Council had sought from Government funding under the Local Infrastructure
+---
 4
 
 Fund of €21.4 million to release significant development land, both private and public, in
@@ -297,7 +300,8 @@ increase in the rate of 5% would apply to 10% of the Council’s ratepayers, whi
 
 would not only be shielded from the increase but, for those who paid on time, they would
 
-actually see a reduction. In this way, the wishes of the Council were being adhered to by---
+actually see a reduction. In this way, the wishes of the Council were being adhered to by
+---
 5
 
 protecting the small to medium business throughout Limerick and, at the same time,
@@ -366,7 +370,8 @@ Step 1 - Decision by the Council on the adjustment factor to the Local Property 
 
 following a public consultation process. This decision was made at the Council Meeting on
 
-the 19th September.---
+the 19th September.
+---
 6
 
 Step 2 - Allocation of the General Municipal Allocation (GMA). The Draft Budgetary Plan
@@ -447,7 +452,8 @@ The key objectives of the 2017 Budget are to:
 
 facilitated by the members decision to vary the rate of LPT
 
-• To move to a proactive approach to maintenance of our social housing stock---
+• To move to a proactive approach to maintenance of our social housing stock
+---
 7
 
 • Continue and where possible enhance our programme of supports to our
@@ -548,7 +554,8 @@ GDP deflator
 
 1.0
 
-Balance of Payments---
+Balance of Payments
+---
 8
 
 Current account (per cent of GDP)
@@ -663,7 +670,8 @@ that there is significant and positive change for Limerick. Since 2013, over 9,0
 
 been announced for Limerick with over 2,500 of these jobs in construction, and 627 of the
 
-jobs in the retail sector.---
+jobs in the retail sector.
+---
 9
 
 These positive announcements are reflected in the local unemployment rate which has
@@ -744,7 +752,8 @@ As this expenditure is matched by an increase in corresponding income, it has no
 
 effect on the Budgetary Provisions. The following Table 2 depicts Revenue expenditure by
 
-Division.---
+Division.
+---
 Division
 
 A - Housing & Building
@@ -5254,7 +5263,8 @@ get 2016
 
 57.6%
 
-ure---
+ure
+---
 The following bar chart show
 
 comparative figures for 2016
@@ -9472,7 +9482,8 @@ Services
 
 €2
 
-€16---
+€16
+---
 2. HAP Su
 
 Su
@@ -15322,7 +15333,8 @@ tes
 
 %
 
-P)---
+P)
+---
 Local Property Tax Allocation
 
 Local Property Tax is now
@@ -19599,7 +19611,8 @@ from DHPCLG
 
 €60
 
-€'m---
+€'m
+---
 14
 
 Limerick City and County Council - 2017 LPT Allocation
@@ -19700,7 +19713,8 @@ Tourism Development & Promotion
 
 €200k
 
-Table 5: Allocation of additional resources---
+Table 5: Allocation of additional resources
+---
 15
 
 In addition, the draft budget includes an increased investment in our social housing stock
@@ -19773,7 +19787,8 @@ ensure that the structures in place fully support effective service delivery and
 
 strong alignment between the strategic planning, human resources and financial
 
-constraints of the Council.---
+constraints of the Council.
+---
 16
 
 Chart 5 below highlights the trend in numbers employed and on pension with the Council
@@ -19864,7 +19879,8 @@ Analysis of staff numbers and numbers receiving pension
 
 Number Receiving Pension
 
-Nunber Staff---
+Nunber Staff
+---
 17
 
 Limerick City and County Council has now reached a point where it is moving away from
@@ -19943,7 +19959,8 @@ of €1.2m was received during 2016 from the DHPCLG.
 
 The combined reduction therefore of €2.55 million equates to a drop of almost 5% in the
 
-annual rate of valuation. Limerick City and County Council had a rate demand in 2016 of---
+annual rate of valuation. Limerick City and County Council had a rate demand in 2016 of
+---
 18
 
 €51.6m compared to a figure in 2008 of €55.607m. This indicates a reduction of €4m or
@@ -20044,7 +20061,8 @@ authority.
 
 2016
 
-Analysis of Commercial Rates Income €'m---
+Analysis of Commercial Rates Income €'m
+---
 19
 
 Article 29 of the Local Government (Financial & Audit Procedures) Regulations 2014
@@ -20119,7 +20137,8 @@ Business & Retail Incentive Scheme 2017
 
 The Proposed Business & Retail Incentive Scheme for 2017 will continue to be available
 
-for Businesses in all towns and villages across Limerick City and County Council. The---
+for Businesses in all towns and villages across Limerick City and County Council. The
+---
 20
 
 scheme is intended to address property vacancy rates, improve streetscapes and to
@@ -20232,7 +20251,8 @@ I would like to take this opportunity to thank the Mayor and the Council Members
 
 their assistance and support, particularly the Members of the Corporate Policy Group in
 
-preparing this budget. I also wish to express my appreciation to the Management Team---
+preparing this budget. I also wish to express my appreciation to the Management Team
+---
 21
 
 and their own teams for their commitment and hard work in preparing this document.
@@ -20307,7 +20327,8 @@ million rate base. If the Council were to get back to pre-merger levels, it woul
 
 rate increase to do so, this would be unwise, unmanageable for the Council’s customers -
 
-the ratepayers.---
+the ratepayers.
+---
 22
 
 But the Council needed money so it was proposed in this Budget to increase the ARV by 5%.
@@ -20388,7 +20409,8 @@ these were in the Northern Operations Division, which included the City - circa 
 
 houses: 2 calls per house. The South and West Operations Division received 1,890 service
 
-calls for circa 1,700 houses: 1 call per house.---
+calls for circa 1,700 houses: 1 call per house.
+---
 23
 
 On the spend in housing maintenance, an average €254 per house was spent in the North
@@ -20457,7 +20479,8 @@ past number of weeks.
 
 Councillor Sheahan then formally proposed the adoption of this Budget, as presented, with
 
-the following Amendments:---
+the following Amendments:
+---
 24
 
 (1)“Amend the Vacant Property Refund Scheme (Item 5 on the Meeting agenda) and
@@ -20520,7 +20543,8 @@ by €50,000.
 
 • Increase Service H0301 “Administration of Rates Office” Income: Income
 
-Property Entry Levy (PEL) by €50,000.”---
+Property Entry Levy (PEL) by €50,000.”
+---
 25
 
 Councillor Collins (M)
@@ -20611,7 +20635,8 @@ they had the detail.
 
 • Traffic Management €200,000.
 
-• Community €65,000.---
+• Community €65,000.
+---
 26
 
 • Litter Management €20,000.
@@ -20686,7 +20711,8 @@ hospitality sector.
 
 The continued efforts to encourage owners of unoccupied property to reduce vacancy must
 
-continue as a priority of the Council. They supported the proposed scheme as presented but---
+continue as a priority of the Council. They supported the proposed scheme as presented but
+---
 27
 
 again must deliver the message that the Council did not condone or accept properties
@@ -20755,7 +20781,8 @@ economy.
 
 Sinn Fein was proposing that the 10% band in the Vacant Property Scheme for property with
 
-a rate over €55,000 be reduced to 0%. This measure would only affect a very small number---
+a rate over €55,000 be reduced to 0%. This measure would only affect a very small number
+---
 28
 
 of properties in the Local Authority area - and these properties needed to be developed in
@@ -20830,7 +20857,8 @@ vacant sites in this city. He would also be proposing an Amendment to the Budget
 
 allocate these funds instead to homeless services. This money would be enough to support
 
-15 people through the Housing First Scheme which helped homeless people find rented---
+15 people through the Housing First Scheme which helped homeless people find rented
+---
 29
 
 accommodation, supporting them with deposits and other initial costs, and giving them
@@ -20897,7 +20925,8 @@ fund the expansion of the refuse waiver scheme. He also proposed that a limit of
 
 should be placed on any refund on rates on vacant property as set out in the Vacant
 
-Property Refund Scheme and that, at the end of the 3 year period, action would then be---
+Property Refund Scheme and that, at the end of the 3 year period, action would then be
+---
 30
 
 taken by the Council under the Derelict Sites legislation. This was seconded by Councillor
@@ -20968,7 +20997,8 @@ On resumption, Members asked questions on several aspects of the provisions made
 
 in the Annual Budget for 2017 which were responded to by the Chief Executive and the
 
-A/Head of Finance.---
+A/Head of Finance.
+---
 31
 
 The Meetings Administrator then referred to his earlier request that any proposed
@@ -21037,7 +21067,8 @@ These amendments have been costed in consultation with the Finance Department
 
 to be an additional cost of €50,000. The following amendments to Draft Budget
 
-2017, which have been discussed with the Finance Department, are now proposed:---
+2017, which have been discussed with the Finance Department, are now proposed:
+---
 32
 
 • Increase Service D0905 “Economic Development & Promotion” Expenditure:
@@ -21098,7 +21129,8 @@ Sheehy:
 
 • “Amend the Vacant property Refund Scheme (Item 5 on the Meeting agenda) by
 
-removing the top tier band of 10% relief for properties over €55,000.---
+removing the top tier band of 10% relief for properties over €55,000.
+---
 33
 
 o Decrease Service Area H0303 “Refund and Irrecoverable Rates”
@@ -21157,7 +21189,8 @@ Administrator:
 
 “THAT the draft Annual Budget for the financial year ending 31st December, 2017, prepared
 
-and circulated by the Chief Executive, be amended as follows:---
+and circulated by the Chief Executive, be amended as follows:
+---
 34
 
 (1) “Amend the Vacant Property Refund Scheme (Item 5 on the Meeting agenda) and
@@ -21220,7 +21253,8 @@ by €50,000.
 
 • Increase Service H0301 “Administration of Rates Office” Income: Income
 
-Property Entry Levy (PEL) by €50,000.”---
+Property Entry Levy (PEL) by €50,000.”
+---
 35
 
 “AND THAT, as so amended, the Annual Budget of €371,257,490 be and is hereby adopted
@@ -21289,7 +21323,8 @@ until 31/12/2017 in accordance with Section 66 of the Local Government Act, 2001
 
 amended by the Local Government Reform Act, 2014, subject to finances available, is
 
-adopted, as circulated, without amendment (Item 8 on Meeting agenda).”---
+adopted, as circulated, without amendment (Item 8 on Meeting agenda).”
+---
 36
 
 The Mayor indicated that a vote would be taken on the adoption of the draft Budget as
@@ -21348,4 +21383,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

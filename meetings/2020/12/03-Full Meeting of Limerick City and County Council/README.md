@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-12-03 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council-46)**
+**<a href="https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council-46" target="_blank">Link to meeting</a>**

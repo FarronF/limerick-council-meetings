@@ -76,7 +76,8 @@ The report stated that the aims of the CFRAM Studies were to:
 
 • Identify viable structural and non-structural measures and options for managing the
 
-flood risks for localised high-risk areas.---
+flood risks for localised high-risk areas.
+---
 2
 
 • Work towards strategic Flood Risk Management Plan (FRMP) that sets out the
@@ -143,7 +144,8 @@ Hazard Maps. After receipt of observations on the Flood Hazard Maps, the OPW wou
 
 proceed with the next stage of the process which would involve the preparation of the
 
-Flood Risk Management Plans.---
+Flood Risk Management Plans.
+---
 3
 
 The Senior Engineer went on to state that under the relevant regulations, the Council could
@@ -226,7 +228,8 @@ maintained and protected.
 
 That flooding protection and embankments be provided at Castleconnell and
 
-Corbally.---
+Corbally.
+---
 4
 
 •
@@ -297,4 +300,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -54,9 +54,11 @@ of 9th October 2023 (copy attached)
 
 Yours sincerely
 
-(Image omitted)---
+(Image omitted)
+---
 (Image omitted)
 
 ***Cecilia Larkin,***
 
-***Planning, Environment and Place-Making Directorate***---
+***Planning, Environment and Place-Making Directorate***
+---

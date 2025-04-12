@@ -94,7 +94,8 @@ Special Projects – LA Infrastructure
 
 Special Projects – LPT
 
-€65,000---
+€65,000
+---
 2
 
 Director of Services, Support Services suggested that over the 5 year period of the current council,
@@ -179,7 +180,8 @@ Following further discussion, the Members queried if the amount of strategic pro
 
 increased from three to four projects. Director, Support Services confirmed that the monies would
 
-be ringfenced in the Capital Account and allocated up to four strategic projects per electoral area.---
+be ringfenced in the Capital Account and allocated up to four strategic projects per electoral area.
+---
 3
 
 Proposed by Councillor Secas;
@@ -212,4 +214,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

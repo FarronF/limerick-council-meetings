@@ -62,7 +62,8 @@ The outgoing Cathaoirleach, Councillor Keary thanked the Director, the Meetings
 
 Administrator, the staff of the Area Office and Members for all their courtesy, help and
 
-support during his term as Chairman of the Adare - Rathkeale District.---
+support during his term as Chairman of the Adare - Rathkeale District.
+---
 2
 
 On taking the Chair, Councillor Teskey thanked his proposer and seconder and said he
@@ -127,4 +128,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

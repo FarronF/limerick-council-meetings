@@ -66,7 +66,8 @@ the Requisition calling for a Special Meeting, emphasised that Bank of Ireland�
 
 contrary to its Mission Statement which committed to making a positive contribution to
 
-businesses and communities where the Bank operated; and that the proposed action would---
+businesses and communities where the Bank operated; and that the proposed action would
+---
 2
 
 further reduce the quality of service which was essential to meet its customers’ needs in
@@ -147,7 +148,8 @@ made by them in the ensuing discussion:
 
 internet banking and so would be forced to make long commutes to a Bank of Ireland
 
-branch.---
+branch.
+---
 3
 
 • The public wanted the personal touch at their banks and did not wish to have to do all
@@ -222,7 +224,8 @@ would also be affected - many of whom did not have access to Internet banking.
 
 to be closed. This had not been replicated in Ireland; not enough notice had been
 
-given.---
+given.
+---
 4
 
 The Chief Executive also lent his support to the Motion and agreed to explore the options that
@@ -245,4 +248,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

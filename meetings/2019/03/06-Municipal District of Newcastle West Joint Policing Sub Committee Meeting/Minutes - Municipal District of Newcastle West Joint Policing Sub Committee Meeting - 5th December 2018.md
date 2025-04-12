@@ -74,7 +74,8 @@ with over the past year including public order offences, criminal damage, road t
 
 accidents, drink and drugs, assaults, and thefts. He stated that there has been a 50% increase
 
-in the number of check points the Gardai have carried out. He also noted a number of---
+in the number of check points the Gardai have carried out. He also noted a number of
+---
 2
 
 successful prosecutions and paid tribute to members of the public, witnesses and injured
@@ -151,4 +152,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

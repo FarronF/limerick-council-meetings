@@ -58,7 +58,8 @@ Tourism and Culture regarding the Wolfe Tone Apartments in Kilmallock. The Elect
 
 Members were advised that this was an item for discussion on the agenda and it was agreed
 
-to continue the discussion when the item arose.---
+to continue the discussion when the item arose.
+---
 3. Disposal of Property
 
 The following disposal of properties were outlined:
@@ -117,7 +118,8 @@ It was also noted that, following the National CFRAM Flood Study, this site is l
 
 Flood Zone A location.
 
-It was noted that the Original planning permission would no longer apply.---
+It was noted that the Original planning permission would no longer apply.
+---
 A portion of the Malachy Walsh report was read to the Elected Members, and it was noted
 
 that this was available for the Elected Members to view at any time by contacting the Senior
@@ -188,7 +190,8 @@ of the AGM.
 
 **Proposed: Councillor Donegan**
 
-**Seconded: Councillor Mitchell.**---
+**Seconded: Councillor Mitchell.**
+---
 NOTICES OF MOTION
 
 6.Notice of Motion submitted by Councillor Carey
@@ -249,7 +252,8 @@ Bewleys.
 
 **Proposed: Councillor Teefy**
 
-**Seconded: Councillor Donegan**---
+**Seconded: Councillor Donegan**
+---
 8. Notice of Motion submitted by Councillor Donegan
 
 I will move at the next meeting of the Cappamore/Kilmallock Municipal District calling on
@@ -322,7 +326,8 @@ prepared for the relevant funding authority.
 
 **Proposed: Councillor Mitchell**
 
-**Seconded: Councillor Egan**---
+**Seconded: Councillor Egan**
+---
 QUESTIONS
 
 11.
@@ -397,7 +402,8 @@ required for the crossing is put in place by the ESB. All materials and the nece
 
 Contractors to deliver the works have been procured so there will be no delay once power is
 
-available.---
+available.
+---
 15.
 
 Question submitted by Councillor Mitchell
@@ -464,7 +470,8 @@ on June 8th 2022
 
 It was noted that batteries were being stolen from Driver Feedback signs. It was agreed that
 
-this item would be included on the agenda for the Joint Policing Committee Meeting in July.---
+this item would be included on the agenda for the Joint Policing Committee Meeting in July.
+---
 Next Meeting
 
 The date for the next meeting of the Cappamore Kilmallock District was agreed by the
@@ -479,4 +486,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

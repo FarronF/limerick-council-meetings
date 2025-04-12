@@ -54,7 +54,8 @@ Meetings from 3:30 to 3:00 p.m.
 
  Wayfinding Project
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Item 3: - Park and Ride**
@@ -115,7 +116,8 @@ Castletroy area and there will be various different models in the coming years.
 
 Cllr. Teefy asked if Park & Ride is identified in Ballysimon and what is the timeframe. She added
 
-that there is large volume of traffic on the N24 and R512.---
+that there is large volume of traffic on the N24 and R512.
+---
 3
 
 Mr. Kennedy confirmed that Ballysimon is identified in the Transport Strategy. As there is a train
@@ -178,7 +180,8 @@ in Europe.
 
 Mr. Harper was pleased that TFI Bike Scheme is going to UL. He raised concerns regarding the
 
-€5 fee and suggested the need to put in extra bike stands as they can fill up.---
+€5 fee and suggested the need to put in extra bike stands as they can fill up.
+---
 4
 
 Ms. McDonnell advised that it is intended to extend to the city centre with agreement with the
@@ -237,7 +240,8 @@ Cllr. Teefy was very pleased to see extra charging points in the county and city
 
 area. Mr. O’Leary added that the draft EV Strategy is to be issued for consideration during Q1
 
-2023 and the final strategy is expected Q2 2023. An implementation plan will follow on from this.---
+2023 and the final strategy is expected Q2 2023. An implementation plan will follow on from this.
+---
 5
 
 It was agreed to circulate the presentations as requested by Cllr. Secas.
@@ -298,7 +302,8 @@ has a right to stand as sculpture and is attractive. Mr. Hanrahan advised that t
 
 have longevity and referenced the recent branding of Adare, which is built into the County & City
 
-Development Plan. Mr. Farrell also added that tree cages will be examined.---
+Development Plan. Mr. Farrell also added that tree cages will be examined.
+---
 6
 
 **Item 4: Review of Budget Allocations for 2023:**
@@ -341,4 +346,5 @@ Directorate will continue to work with the NTA during the year.
 
 The Chair thanked the presenters and members for their contribution. The meeting then
 
-concluded.---
+concluded.
+---

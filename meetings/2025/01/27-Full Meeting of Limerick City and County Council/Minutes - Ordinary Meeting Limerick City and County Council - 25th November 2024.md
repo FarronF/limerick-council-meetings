@@ -62,7 +62,8 @@ Circulated, copy of draft Minutes of the following Meetings:
 
 (a) Ordinary Meeting of the Council held on 23rd September, 2024.
 
-(b) Adjourned Ordinary Meeting of the Council held on 4th October, 2024.---
+(b) Adjourned Ordinary Meeting of the Council held on 4th October, 2024.
+---
 2
 
 (c) Special Meeting of the Council held on 29th October, 2024.
@@ -141,7 +142,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 Knockatanna, Caherconlish, Co. Limerick (LK4127L), to James Fanning, for the sum of €195.42,
 
-the disposal to be by way of Deed of Conveyance of the freehold interest of Limerick City and---
+the disposal to be by way of Deed of Conveyance of the freehold interest of Limerick City and
+---
 3
 
 County Council in the property, particulars of which were contained in Statutory Notice dated
@@ -224,7 +226,8 @@ to be by way of Deed of Conveyance of the freehold interest of Limerick City and
 
 Council in the property, particulars of which were contained in Statutory Notice dated 23rd
 
-October, 2024.”---
+October, 2024.”
+---
 4
 
 (f)
@@ -301,7 +304,8 @@ Toureen, Croom, Co. Limerick (LK9543L), to Brendan and Mary Conmy, for the sum o
 
 City and County Council in the property, particulars of which were contained in Statutory
 
-Notice dated 23rd October, 2024.”---
+Notice dated 23rd October, 2024.”
+---
 5
 
 Rural, Culture, Community and Tourism Development Directorate
@@ -380,7 +384,8 @@ which were contained in Statutory Notice dated 14th November, 2024.”
 
 Circulated, copy of Statutory Notice dated 14th November, 2024, concerning disposal of
 
-0.03 acres (0.012 hectares) at Baunacloka, Mungret, Limerick.---
+0.03 acres (0.012 hectares) at Baunacloka, Mungret, Limerick.
+---
 6
 
 Proposed by Councillor Teskey;
@@ -463,7 +468,8 @@ Circulated, copy of Statutory Notice dated 14th November, 2024, concerning dispo
 
 land comprising 16.50 acres (6.677 hectares) at Churchtown, Newcastle West, Co.
 
-Limerick.---
+Limerick.
+---
 7
 
 Proposed by Councillor Teskey;
@@ -544,7 +550,8 @@ Proposed by Councillor Teskey;
 
 Seconded by Councillor Galvin;
 
-And Resolved:---
+And Resolved:
+---
 8
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -621,7 +628,8 @@ Proposed by Councillor Sheahan;
 
 Seconded by Councillor Teefy;
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, (i) the Strategic Policy Committee Scheme 2024-2029, as circulated, be and is
@@ -700,7 +708,8 @@ Customer Services dated 19th November, 2024, seeking the Council’s approval fo
 
 attendance and participation by a delegation from the Council in the Annual St. Patrick’s
 
-Day Parade 2025, in Savannah, Georgia, USA---
+Day Parade 2025, in Savannah, Georgia, USA
+---
 10
 
 Proposed by Councillor Sheahan;
@@ -779,7 +788,8 @@ Circulated, report of the Mayor of Limerick, John Moran, dated 19th November, 20
 
 in relation to the appointment of a Chairperson to the Limerick Traveller Accommodation
 
-Consultative Committee.---
+Consultative Committee.
+---
 11
 
 The making of the appointment was a Reserved Function.
@@ -848,7 +858,8 @@ And Resolved:
 
 under the Strategic Fund for Culture and Arts, as set out in report of the Arts Officer/Creative
 
-Ireland Co-Ordinator dated 13th November, 2024.”---
+Ireland Co-Ordinator dated 13th November, 2024.”
+---
 12
 
 MAYOR’S QUESTIONS
@@ -915,7 +926,8 @@ further cameras. Transport Infrastructure Ireland (TII) expects that at least on
 
 Average Speed Site will be in County Limerick. The location of this will be
 
-determined in consultation with the Local Authority and TII.---
+determined in consultation with the Local Authority and TII.
+---
 13
 
 11.
@@ -1000,7 +1012,8 @@ Question submitted by Councillor S. Hickey-O’Mara
 
 ***dog waste bins across Limerick as I have been asked about this on numerous occasions by***
 
-***residents.***---
+***residents.***
+---
 14
 
 **REPLY:**
@@ -1083,7 +1096,8 @@ administration and five technical.
 
 The Unit deals with derelict sites, vacant homes and vacant sites across all the
 
-Municipal Districts. It advises and guides owners of unproductive properties---
+Municipal Districts. It advises and guides owners of unproductive properties
+---
 15
 
 on the various supports available to bring their properties back to more
@@ -1158,7 +1172,8 @@ landowners were still required to enable qualification for Scheme. He emphasised
 
 a big issue for people living in areas with roadways badly in need of improvement, and
 
-stressed the importance of removing this condition to allow more people apply.---
+stressed the importance of removing this condition to allow more people apply.
+---
 16
 
 It was agreed to write to the Minister for Rural and Community Development.
@@ -1237,7 +1252,8 @@ In response to the Members’ queries, the Director of Planning and Place-Making
 
 advised the Meeting the Planning Department operate under current 2006 Wind Energy
 
-Development Guidelines, and advised a review of the current guidelines was underway to---
+Development Guidelines, and advised a review of the current guidelines was underway to
+---
 17
 
 address key aspects, including noise. This review included a public consultation but he noted
@@ -1312,7 +1328,8 @@ Members fully supported the Motion and thanked Councillor Hickey-O’Mara for
 
 bringing it forward. The Members outlined the need to encourage more men to engage in
 
-various community based organisations that provide a space where men feel included and---
+various community based organisations that provide a space where men feel included and
+---
 18
 
 safe. They stressed the importance of this matter, outlining how supporting these
@@ -1389,7 +1406,8 @@ before opening the bus lane and the short time frame to deliver on this was outl
 
 Mayor agreed to examine the issue with the Director of Transportation and Mobility,
 
-including the need for a consultation process.---
+including the need for a consultation process.
+---
 19
 
 MAYOR’S QUESTIONS
@@ -1470,7 +1488,8 @@ disappointment to me with the plans for Christmas in Limerick this
 
 year. Although I think we still have a very varied and rich programme, I share
 
-their views that we can do better.---
+their views that we can do better.
+---
 20
 
 But we all know that the best things need investment. The Christmas offering
@@ -1551,7 +1570,8 @@ the redevelopment of the Markets Field. If one is identified over the next few
 
 days, I shall ask officials to immediately assess if that approach could instead
 
-be agreed in time for our Budget meeting on Friday.---
+be agreed in time for our Budget meeting on Friday.
+---
 21
 
 **Suspension of Standing Order No. 4:** The Príomh Chomhairleoir drew attention to the time
@@ -1632,7 +1652,8 @@ The DAC boards have important responsibilities to carry out for each DAC and
 
 we have to make sure that they are fully enabled and supported to do that. I
 
-shall ask the reviewer to assess the range of skills on each board and the---
+shall ask the reviewer to assess the range of skills on each board and the
+---
 22
 
 functioning of the boards up to now to guide me in the selection of new
@@ -1711,7 +1732,8 @@ period of higher demands for delivery and therefore continuation of the
 
 business as usual with which we have become accustomed may no longer be
 
-the right choice. Furthermore, many of the plans for the DACs require---
+the right choice. Furthermore, many of the plans for the DACs require
+---
 23
 
 considerable additional funding which has not yet been committed to by
@@ -1750,4 +1772,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

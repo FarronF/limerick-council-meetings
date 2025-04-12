@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-07-01 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-52)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-52" target="_blank">Link to meeting</a>**

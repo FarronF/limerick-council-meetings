@@ -64,7 +64,8 @@ Limerick and Savannah, Georgia, United States of America. He extended a warm wel
 
 to the Mayor of Savannah, Mr. Van R. Johnson II and the delegation from Savannah that
 
-travelled to Limerick for this momentous occasion.---
+travelled to Limerick for this momentous occasion.
+---
 **2**
 
 The Príomh Chomhairleoir outlined the history that is shared between Limerick and
@@ -135,7 +136,8 @@ Limerick and the City of Savannah, particularly the Foynes Port, the Port of Sav
 
 the colleges and schools, highlighting how they hoped businesses and connections would
 
-grow and benefit from this partnership.---
+grow and benefit from this partnership.
+---
 **3**
 
 The Members also referred to the strong Irish connections with Savannah and highlighted
@@ -204,7 +206,8 @@ develop and cultivate relationships in order to promote and broaden their econom
 
 partnerships and cultural exchanges. Both will work together to examine issues of
 
-common interest and to look for areas of future cooperation.---
+common interest and to look for areas of future cooperation.
+---
 **4**
 
 Now, therefore, be it proclaimed that Limerick, Ireland, and Savannah, Georgia,
@@ -229,4 +232,5 @@ Príomh Chomhairleoir
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

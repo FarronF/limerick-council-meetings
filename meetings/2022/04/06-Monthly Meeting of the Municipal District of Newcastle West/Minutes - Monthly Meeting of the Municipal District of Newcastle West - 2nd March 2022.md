@@ -76,7 +76,8 @@ behalf and on behalf of Management and Staff to the family of Detective Ben O’
 
 for those affected by the conflict in the Ukraine.
 
-A minute’s silence and reflection was observed as a mark of respect.---
+A minute’s silence and reflection was observed as a mark of respect.
+---
 2
 
 1.
@@ -157,7 +158,8 @@ Circulated, report of Head of Property and Community Facilities, dated 21st
 
 February, 2022, concerning proposal to dispose of property at 6 Radharc Na Féile,
 
-Abbeyfeale , Co. Limerick.---
+Abbeyfeale , Co. Limerick.
+---
 3
 
 Members noted the proposal.
@@ -230,7 +232,8 @@ been prepared in accordance with Section 179 of the Planning and Development Act
 
 amended) and Part 8 of the Planning and Development Regulations, 2001 (as amended) and
 
-it is proposed to proceed in accordance with Section 5 of the report.---
+it is proposed to proceed in accordance with Section 5 of the report.
+---
 4
 
 The Senior Engineer addressed the Meeting and referred to the proposed development
@@ -309,7 +312,8 @@ The Members referred to a number of matters including the acquisition of turnkey
 
 at Woodfield Manor, Newcastle West, criteria required for getting a Council loan and funding
 
-for the Voids Programme.---
+for the Voids Programme.
+---
 5
 
 It was agreed that a further update from the Housing Directorate would be given at the June
@@ -374,7 +378,8 @@ Directorate and to the concerns raised at the February Meeting of the District.
 
 Following discussion, it was proposed by Councillor Collins and seconded by Councillor
 
-Scanlan that a Special Meeting be held on the Distributor Roads for Newcastle West and---
+Scanlan that a Special Meeting be held on the Distributor Roads for Newcastle West and
+---
 6
 
 Abbeyfeale. It was also requested that representatives from the Transportation and Mobility
@@ -437,7 +442,8 @@ On the proposal of Councillor Galvin, seconded by Councillor Sheahan, it was agr
 
 allocate €2,000 to Newcastle West Coursing Club.
 
-QUESTIONS---
+QUESTIONS
+---
 7
 
 9.
@@ -502,7 +508,8 @@ update should occur at least every 5 years.
 
 The next review should commence no later than November 2022 to allow
 
-adequate time for consultation.---
+adequate time for consultation.
+---
 8
 
 12.
@@ -575,7 +582,8 @@ NOTICES OF MOTION
 
 ***I will move at the next Meeting that*** **this Council repair the floor of the bridge crossing the**
 
-**Greenway at Bill Kelly’s next to Devon Road station.**---
+**Greenway at Bill Kelly’s next to Devon Road station.**
+---
 9
 
 The Motion was seconded by Councillor Foley.
@@ -640,7 +648,8 @@ under an advance purchase turnkey arrangement for the provision of affordable ho
 
 primarily. The call was targeted at advance purchase opportunities for a minimum of 10 and
 
-a maximum of 150 dwellings in any one scheme.---
+a maximum of 150 dwellings in any one scheme.
+---
 10
 
 Limerick City and County Council targeted the following areas in the initial campaign:
@@ -703,4 +712,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

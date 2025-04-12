@@ -68,7 +68,8 @@ enabling remote working, e-health initiatives, online education and job creation
 
 stated that access to services was vital and would be a key enabler for the sustainment of
 
-local businesses and communities.---
+local businesses and communities.
+---
 2
 
 Mr. Hanrahan gave an update on the Broadband Programme in Limerick confirming that
@@ -137,7 +138,8 @@ City and County. Mr. Hanrahan agreed to revert to Members with details.
 
 Mr. Hanrahan noted the comments expressed by Members and emphasised the importance
 
-of the National Broadband Plan to ensure connectivity to every household.---
+of the National Broadband Plan to ensure connectivity to every household.
+---
 3
 
 **2.Economic Development Directorate**
@@ -192,4 +194,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

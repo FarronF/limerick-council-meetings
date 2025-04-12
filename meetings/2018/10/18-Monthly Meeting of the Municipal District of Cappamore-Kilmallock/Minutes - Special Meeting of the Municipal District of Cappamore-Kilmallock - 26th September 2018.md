@@ -60,7 +60,8 @@ this decision may have implications for the future of this business.
 
 The Cathaoirleach said that following a recent meeting with Planning they had become a
 
-lot more knowledgeable on the Part VIII process. The Members were unanimous in saying---
+lot more knowledgeable on the Part VIII process. The Members were unanimous in saying
+---
 2
 
 there had been campaigns ongoing for some time seeking safety measures to be installed
@@ -113,4 +114,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

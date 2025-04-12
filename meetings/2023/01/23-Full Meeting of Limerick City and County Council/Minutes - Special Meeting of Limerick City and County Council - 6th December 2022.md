@@ -54,7 +54,8 @@ Michael was first elected as a TD for Limerick West in 1997, a seat he held unti
 
 2007. The Mayor confirmed that the Collins family held that seat in Dail Eireann since 1948,
 
-and noted that Michael took the seat previously held by his brother, Gerry, and his late father,---
+and noted that Michael took the seat previously held by his brother, Gerry, and his late father,
+---
 2
 
 James, before that. Michael was a very warm, generous, humble man who dedicated his time
@@ -119,4 +120,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

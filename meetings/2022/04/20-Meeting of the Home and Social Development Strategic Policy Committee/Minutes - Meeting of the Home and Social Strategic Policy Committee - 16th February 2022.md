@@ -72,7 +72,8 @@ meeting.
 
 **Seconded:** Cllr. Stephen Keary
 
-**Item 2: Matters arising from the Minutes**---
+**Item 2: Matters arising from the Minutes**
+---
 -
 
 Cllr. Stephen Keary queried the status of Ballywilliam Close, Rathkeale. Ms. Caroline
@@ -171,7 +172,8 @@ into what accommodation is suitable for applicants.
 
 Cllr. Eddie Ryan flagged a concern in relation to tenants taking out a loan to do work
 
-on an LA house.---
+on an LA house.
+---
 **Proposal to write to the Minister for Housing to ask him implement a scheme which would**
 
 **allow an existing Local Authority tenant to extend property where needed due to social or**
@@ -274,7 +276,8 @@ tenant. Ms. Phillips advised rent is based on differential rent which is based o
 
 income. Ms. Curley advised that HAP is considered social housing and if a person/s
 
-financial situation changes, they are to advise LCCC.---
+financial situation changes, they are to advise LCCC.
+---
 **Item 5: AOB**
 
  An Cathaoirleach, Cllr. Murphy complimented Mr. Patrick English on the GAA
@@ -311,4 +314,5 @@ END OF MEETING
 
 The Chair thanked everyone for joining the SPC, the contributions made and Threshold for
 
-their presentation. The next SPC is the 20th April.---
+their presentation. The next SPC is the 20th April.
+---

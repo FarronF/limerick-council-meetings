@@ -66,7 +66,8 @@ Seconded by Councillor O’Donoghue;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 **(d)**
@@ -149,7 +150,8 @@ Circulated, report of the Staff Officer, Planning and Environmental Services, da
 
 November, 2018 setting out an update in relation to the taking in charge of An Curran,
 
-Pallaskenry. The report was noted by Members.---
+Pallaskenry. The report was noted by Members.
+---
 3
 
 **5.**
@@ -220,7 +222,8 @@ the OPW.
 
 Shiels for her achievements in both European and National Clay Pigeon Shooting
 
-competitions. This was seconded by Councillor O’Donoghue.---
+competitions. This was seconded by Councillor O’Donoghue.
+---
 4
 
  The Meetings Administrator informed Members she had been in contact with Ray
@@ -287,7 +290,8 @@ O’Donoghue.
 
 Monthly Meeting from both Irish Water and Limerick City and County Council
 
-Water Services Department:---
+Water Services Department:
+---
 5
 
 Report to identify where lead pipes are being used for drinking water in the area.
@@ -354,4 +358,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -66,7 +66,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
 
-No such interest was declared.---
+No such interest was declared.
+---
 2
 
 **3.**
@@ -147,7 +148,8 @@ leading to construction sites presently and stated damage to these roads should 
 
 repaired on a weekly basis. Councillor O’Donoghue added such repairs should not be
 
-funded by the Adare-Rathkeale District local road maintenance budget. The Senior---
+funded by the Adare-Rathkeale District local road maintenance budget. The Senior
+---
 3
 
 Executive Engineer, Mid West National Road Design Office advised a haulage road has
@@ -220,7 +222,8 @@ increase on current funding levels for Active Travel projects in Limerick City a
 
 Councillor Collins requested an update on the proposed extension of the footpath from
 
-Kilcornan Church to the Burial Ground. The Senior Executive Engineer, Roads, Traffic---
+Kilcornan Church to the Burial Ground. The Senior Executive Engineer, Roads, Traffic
+---
 4
 
 and Cleansing advised this was not an Active Travel project as funding is provided by the
@@ -293,7 +296,8 @@ again as a matter of urgency and was of the opinion it should be a priority of t
 
 to make this happen as soon as possible and he acknowledged that there are only a
 
-limited number of operators in the market who operate this type of resource.---
+limited number of operators in the market who operate this type of resource.
+---
 5
 
 Members welcomed Joe Delaney, Director, Regeneration, Sports and Recreation and
@@ -368,7 +372,8 @@ Report which was submitted in October 2024. An updated Options and Feasibility R
 
 was submitted to the Traffic Infrastructure Ireland in January 2025 and we await
 
-confirmation of funding to prepare the detailed design and contract documents to---
+confirmation of funding to prepare the detailed design and contract documents to
+---
 6
 
 construct the scheme. It is hoped funding will be allocated in 2025 to complete the
@@ -445,7 +450,8 @@ agreed to allocate the following:
 
  €1,000 to Adare Saint Patrick’s Day Parade.
 
- €2,000 to Askeaton Saint Patrick’s Day Parade.---
+ €2,000 to Askeaton Saint Patrick’s Day Parade.
+---
 7
 
  €1,000 to Rathkeale Community Council.
@@ -520,7 +526,8 @@ further discussion would take place on this matter and would revert in due cours
 
 **11.**
 
-**Request to receive a briefing from Tusla**---
+**Request to receive a briefing from Tusla**
+---
 8
 
 The Meetings Administrator informed Members that a request had been received from
@@ -545,4 +552,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

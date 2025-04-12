@@ -30,7 +30,8 @@ A G E N D A
 
 To consider the adoption of Minutes of Meeting of the Municipal District of
 
-Cappamore-Kilmallock held on the 19th November, 2020.---
+Cappamore-Kilmallock held on the 19th November, 2020.
+---
 2
 
 2. Community Development Directorate
@@ -81,7 +82,8 @@ I will move at the next meeting of the Municipal district of Cappamore/ Kilmallo
 
 Limerick City and County Council will erect signage to the spot where the Dromkeen Ambush
 
-took place.---
+took place.
+---
 3
 
 12. Notice of Motion submitted by Councillor M. Ryan
@@ -138,4 +140,5 @@ I will ask at the next Municipal District meeting of Cappamore-Kilmallock that c
 
 given to carrying out improvement works at the bad bend on the Lough Gur to Holy Cross road
 
-L1500.---
+L1500.
+---

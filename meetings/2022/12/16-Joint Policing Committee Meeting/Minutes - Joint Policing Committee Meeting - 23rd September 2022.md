@@ -74,7 +74,8 @@ to ensure balanced representation. It was agreed that the Meetings Administrator
 
 write to the Minister conveying the concerns of the JPC Members regarding the proposed
 
-changes.---
+changes.
+---
 As part of a general discussion, Members discussed the following issues:
 
  Anti-social behavior in the Askeaton area and the need for an enhanced Garda presence;
@@ -141,7 +142,8 @@ Sabhalta and agencies working together and the need for further resources in thi
 
 The Chairman and Members extended good wishes to Inspector Niall Flood who had been
 
-injured in a recent accident and wished him well in his recovery.---
+injured in a recent accident and wished him well in his recovery.
+---
 **4.UPDATE ON GARDA OPERATING FUNCTIONAL MODEL**
 
 The Chief Superintendent outlined details of changes to the Limerick Garda Division, arising
@@ -200,7 +202,8 @@ While this year on year comparison can be seen as an increase, historic data ind
 
 there has been a marked downward trend of road deaths in Limerick where there were 23
 
-deaths in Limerick in 2009 with 18 losing their lives the following year.---
+deaths in Limerick in 2009 with 18 losing their lives the following year.
+---
 Limerick
 
 Year
@@ -275,7 +278,8 @@ designed to stop criminals travelling across the region on busy nights over the 
 
 number of mandatory intoxicant checkpoints are carried in towns and villages over the
 
-(Image omitted)---
+(Image omitted)
+---
 weekend period most recently in the St Marys Park and Corbally areas of Limerick City
 
 following a recent fatal traffic collision.
@@ -348,7 +352,8 @@ Other: Retired member has completed research; locations of relevance to be inclu
 
 namely original station & railway stop. Local “actors” with suitable attire have been
 
-sourced;---
+sourced;
+---
 o **Medal/Coin Ceremony**
 
 Location: NCW Library. When: in conjunction with re-enactment.
@@ -411,7 +416,8 @@ Noted.
 
 Submitted email dated 4th July, 2022 from the Office of the Minister for Justice in relation to
 
-Resolution from the Joint Policing Committee in respect of Criminal Legal Aid. Noted.---
+Resolution from the Joint Policing Committee in respect of Criminal Legal Aid. Noted.
+---
 **11.QUESTION SUBMITTED BY MAURICE QUINLIVAN, T.D.**
 
 ***I will ask at the next meeting for a progress re**port on operation ‘Operation Copóg’, how it***
@@ -480,7 +486,8 @@ be completed in developing a training programme with our HSE partners.
 
 out the strategy for implementation. It is currently at an advanced stage. Central to
 
-implementation is the appointment of key full time positions.---
+implementation is the appointment of key full time positions.
+---
 **13.QUESTION SUBMITTED BY COUNCILLOR SHARON BENSON**
 
 ***I will ask at the next meeting for a breakdown of Garda resources and numbers at***
@@ -631,7 +638,8 @@ Sep-22
 
 7
 
-33---
+33
+---
 In proposing the motion, Councillor Slattery highlighted serious incidents that had occurred
 
 on the bridges and the damage that was caused to vehicles. She stated that Gardai should be
@@ -698,7 +706,8 @@ sanctioned by the Chief Superintendent Limerick and will begin on the 25th of Se
 
 2022. That plan is in addition to the regular and now increased policing of the estates that is
 
-currently taking place.---
+currently taking place.
+---
 As part of that plan the Limerick Roads Policing Unit have altered their MIT checkpoints to
 
 bolster the policing presence in the Castletroy area and especially on Plassey Park road and
@@ -725,4 +734,5 @@ This concluded the business of the Meeting.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

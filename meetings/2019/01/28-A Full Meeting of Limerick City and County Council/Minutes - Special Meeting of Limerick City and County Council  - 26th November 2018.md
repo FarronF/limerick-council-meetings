@@ -66,7 +66,8 @@ And Resolved;
 
 “That, in accordance with the provisions of Section 16(5)(b)(iv) of the Universities Act, 1997
 
-and Part 8 of the Regulations on Governing Body Elections of University College Cork,---
+and Part 8 of the Regulations on Governing Body Elections of University College Cork,
+---
 2
 
 Councillor O’Dea is hereby nominated to represent Limerick City and County Council on the
@@ -85,4 +86,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

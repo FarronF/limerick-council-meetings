@@ -64,7 +64,8 @@ Seconded by Councillor McMahon;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 The following issues were raised by Members, after the adoption of the Minutes with the
@@ -131,7 +132,8 @@ crushing machines for the area. On the proposal of Councillor Sheahan, seconded 
 
 Councillor Teskey it was agreed this request be forwarded for the Environment
 
-Departement for the inclusion on the Agenda of the next Environmental SPC Meeting.---
+Departement for the inclusion on the Agenda of the next Environmental SPC Meeting.
+---
 3
 
 **3.**
@@ -200,7 +202,8 @@ Circulated, report of the Staff Officer, Planning and Environmental Services dat
 
 June, 2018 setting out the position in relation to the taking in charge of Deel Manor,
 
-Askeaton.---
+Askeaton.
+---
 4
 
 The Cathaoirleach welcomed Assistant Planner, Planning and Environmental Services to
@@ -261,7 +264,8 @@ Circulated, report of the Senior Executive Engineer, Operations and Maintenance
 
 Services, dated 1st June, 2018 setting out the update on the proposed traffic calming
 
-measures at Kilcornan. The report was noted by Members.---
+measures at Kilcornan. The report was noted by Members.
+---
 5
 
 **9.**
@@ -326,7 +330,8 @@ investigation is required at the location.
 
 **(a)The commitment to allocate 20** **–** **40 acres of land to be made availabel for**
 
-**indigenous small enterprises has not taken place.**---
+**indigenous small enterprises has not taken place.**
+---
 6
 
 **(b)There is no evidence of any success in attracting any foreign direct investment**
@@ -391,7 +396,8 @@ Meeting.
 
 Heritage Centre would like to address Members at the July Meeting. It was agreed
 
-Mr. Gleeson would be taken at 9.00 a.m.---
+Mr. Gleeson would be taken at 9.00 a.m.
+---
 7
 
 This concluded the Meeting.
@@ -404,4 +410,5 @@ Signed :
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

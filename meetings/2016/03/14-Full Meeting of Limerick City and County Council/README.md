@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-03-14 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council-16)**
+**<a href="https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council-16" target="_blank">Link to meeting</a>**

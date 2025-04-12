@@ -72,7 +72,8 @@ The Acting Superintendent also confirmed that additional resources had been depl
 
 targeted patrols are being carried out across the District as part of Operation Portable which
 
-was a Garda operation to address the increase in burglary crimes this year. Because of---
+was a Garda operation to address the increase in burglary crimes this year. Because of
+---
 2
 
 Operation Portable, the Gardaí had six separate individuals who were arrested and
@@ -145,4 +146,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -76,7 +76,8 @@ General Municipal Allocation (GMA)
 
 On the proposal of Councillor Foley, seconded by Councillor Collins, it was agreed to allocate
 
-€500 to footpath upgrades at Daar River, Newcastle West.---
+€500 to footpath upgrades at Daar River, Newcastle West.
+---
 2
 
 On the proposal of Councillor Foley, seconded by Councillor Collins, it was agreed to allocate
@@ -149,7 +150,8 @@ Question submitted by Councillor L. Galvin
 
 ***if not, can they be included:***
 
-***(a)**L7093 Dromtrasna***---
+***(a)**L7093 Dromtrasna***
+---
 3
 
 ***(b)**Healy’s Forge to Horan’s Cross***
@@ -224,7 +226,8 @@ Executive Officer stated that approval of the CFRAM schemes from the Office of P
 
 is awaited. It was agreed that the Senior Executive Engineer would follow up on this matter
 
-with the Office of Public Works.---
+with the Office of Public Works.
+---
 4
 
 8.
@@ -297,7 +300,8 @@ Councillor Sheahan also noted pipe laying by Gas Networks Ireland and compliment
 
 Roads Executive Engineer, Adare/Rathkeale Municipal District on ensuring that road
 
-standards are being maintained following these works.---
+standards are being maintained following these works.
+---
 5
 
 12.
@@ -364,7 +368,8 @@ The Motion was seconded by Councillor Browne.
 
 In replying, the Senior Executive Officer stated that the Director, Service Operations had
 
-committed to commence a Public Realm Study for Dromcollogher Town.---
+committed to commence a Public Realm Study for Dromcollogher Town.
+---
 6
 
 REPLY**:**
@@ -439,7 +444,8 @@ Discussion took place on the maintenance of public lighting and the length of ti
 
 out repairs. It was agreed that the Members would forward their comments with regard to
 
-this matter to the Senior Executive Engineer for follow up with the service provider.---
+this matter to the Senior Executive Engineer for follow up with the service provider.
+---
 7
 
 It was also agreed to hold a Meeting of the Joint Policing Committee (JPC) Sub Committee on
@@ -460,4 +466,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

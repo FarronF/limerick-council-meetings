@@ -76,7 +76,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
-such interests were declared.---
+such interests were declared.
+---
 2
 
 3.
@@ -149,7 +150,8 @@ number of matters including ways to reduce noise, the impact of surface material
 
 roads to reduce noise in residential areas, speed ramps and what measures can be taken to
 
-reduce the effect of noise from traffic on nearby dwelling houses.---
+reduce the effect of noise from traffic on nearby dwelling houses.
+---
 3
 
 4.
@@ -222,7 +224,8 @@ West Municipal District.
 
 Circulated, report of Senior Executive Officer, Strategy and Non LA Housing Construction
 
-dated 8th February, 2024.---
+dated 8th February, 2024.
+---
 4
 
 The Senior Executive Officer, Strategy and Non LA Housing Construction provided a summary
@@ -297,7 +300,8 @@ allocate €1,000 to St. Ita’s Parish Hall.
 
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
 
-allocate €1,000 to Newcastle West Music Trail Festival.---
+allocate €1,000 to Newcastle West Music Trail Festival.
+---
 5
 
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
@@ -362,7 +366,8 @@ Question submitted by Councillor L. Galvin
 
 REPLY:
 
-TII are not in a position to confirm funding for this scheme at the moment. However, they---
+TII are not in a position to confirm funding for this scheme at the moment. However, they
+---
 6
 
 have flagged that there may be an opportunity in the coming weeks for LA’s to apply for
@@ -431,7 +436,8 @@ between the Church and the GAA field. In order to strengthen the road additional
 
 reinforcement will have to be made to sub grade which will be quite expensive. We may not
 
-be in a position to upgrade the footpaths in 2024 due to lack of financial resources.---
+be in a position to upgrade the footpaths in 2024 due to lack of financial resources.
+---
 7
 
 12.
@@ -518,7 +524,8 @@ Question submitted by Councillor M. Collins
 
 ***speed limits in place for our towns and villages in the District with particular emphasis on***
 
-***our schools where pedestrian activity is highest.***---
+***our schools where pedestrian activity is highest.***
+---
 8
 
 REPLY:
@@ -585,7 +592,8 @@ REPLY:
 
 The Newcastle West District Office is awaiting a plebiscite from the businesses
 
-of the Desmond Business Park in order to progress this.---
+of the Desmond Business Park in order to progress this.
+---
 9
 
 In proposing the Motion, Councillor Scanlan referred to the condition of the road at the
@@ -652,7 +660,8 @@ erect any sign or notice that makes a traffic sign less visible to road users.
 
 These are the current regulations with regard to election posters. It is open to members of
 
-the Newcastle West Municipal District to voluntarily agree not to erect election posters in the---
+the Newcastle West Municipal District to voluntarily agree not to erect election posters in the
+---
 10
 
 area in the run up to the Local Government Elections in June, however this agreement would
@@ -719,7 +728,8 @@ In proposing the Motion, Councillor Sheahan referred to various accidents which 
 
 occurred at the above location and wished to amend the Notice of Motion to read “I will move
 
-at the next Meeting that Limerick City and County Council realign the traffic movement at the---
+at the next Meeting that Limerick City and County Council realign the traffic movement at the
+---
 11
 
 bridge at the entrance to Costello Aluminium in Kilfergus, Glin, due to the high volume of
@@ -796,7 +806,8 @@ policy, this item was referred to the Travel and Transportation SPC for consider
 
 An update was sought on the issue of speeding on the R523 from The Pike in Ardagh to the
 
-Kerry bounds along with other roads in the District and in replying, the Senior Engineer stated---
+Kerry bounds along with other roads in the District and in replying, the Senior Engineer stated
+---
 12
 
 that a speed survey can be carried out at various locations on the R523. He stated that if
@@ -841,4 +852,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

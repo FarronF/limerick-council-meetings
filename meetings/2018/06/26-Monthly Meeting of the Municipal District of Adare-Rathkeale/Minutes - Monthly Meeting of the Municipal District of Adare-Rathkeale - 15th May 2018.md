@@ -58,7 +58,8 @@ areas of the District due to fear of recrimination from the individuals involved
 
 The Superintendent acknowledged the issues raised by Members and responded to each
 
-of their concerns.---
+of their concerns.
+---
  Drug use is on the increase due to more disposable income being available. The
 
 Gardaí have a limited capacity to investigate in Newcastle West District, however,
@@ -133,7 +134,8 @@ footage to use as evidence for criminal investigations.
 
  Data is retained for 30 days, if an investigation is pending the data can then be
 
-downloaded by the Gardai.---
+downloaded by the Gardai.
+---
  The CCTV is commissioned under the Garda Siochana Act. The Head of Digital
 
 Strategy informed Members they are currently waiting on legal advise as regards
@@ -166,4 +168,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

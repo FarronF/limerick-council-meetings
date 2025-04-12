@@ -66,7 +66,8 @@ roads.
 
 It was agreed that the Meetings Administrator would seek a date for the holding of the Special
 
-Meeting(s) to discuss these matters.---
+Meeting(s) to discuss these matters.
+---
 2
 
 1.
@@ -145,7 +146,8 @@ contract will go to construction in Q3 2025.
 
 6.
 
-Question submitted by Councillor J. Scanlan---
+Question submitted by Councillor J. Scanlan
+---
 3
 
 ***I will ask at the next Meeting when the footpath extension towards the Community House***
@@ -216,7 +218,8 @@ In proposing the Motion, Councillor Scanlan requested that a premises for a Menâ
 
 Newcastle West be sourced in the interests of wellbeing. He stated that the Day Hospital in
 
-Newcastle West had been vacated by the HSE and if this building could be considered as a---
+Newcastle West had been vacated by the HSE and if this building could be considered as a
+---
 4
 
 suitable location for a Menâ€™s Shed. Councillor Scanlan also made reference to the Parish Hall
@@ -283,5 +286,7 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
-5---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
+5
+---

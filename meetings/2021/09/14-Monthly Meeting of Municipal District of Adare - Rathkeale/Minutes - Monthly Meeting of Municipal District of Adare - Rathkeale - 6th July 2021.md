@@ -66,7 +66,8 @@ discussion, Members raised concerns over the spiralling costs of the works and r
 
 a report be prepared outlining the full breakdown of where exactly the current
 
-expenditure of €177,585.50 was spent given the original estimate for the works was in---
+expenditure of €177,585.50 was spent given the original estimate for the works was in
+---
 2
 
 the region of €40,000 together with the consultancy cost to date.  Councillor Sheahan
@@ -141,7 +142,8 @@ Adare Footpaths
 
 Total
 
-€ 50,000---
+€ 50,000
+---
 3
 
 The recommended allocations were proposed by Councillor O’Donoghue, seconded by
@@ -202,7 +204,8 @@ facilities would have a bathroom available for use of a toilet and hand basin. C
 
 Collins agreed to same. Following discussion it was agreed to refer this Motion to the
 
-SPC to relook at improving the litter byelaws.---
+SPC to relook at improving the litter byelaws.
+---
 4
 
 **Reply:**
@@ -277,7 +280,8 @@ Act 2000 (as amended). Sites must be shown to be of special interest
 
 under one or more of the following headings: Architectural; Artistic;
 
-Archaeological; Historic; Scientific; Technical; Cultural; Social significance.---
+Archaeological; Historic; Scientific; Technical; Cultural; Social significance.
+---
 5
 
 As the Covid-19 restrictions are lifted the standard research repositories,
@@ -344,7 +348,8 @@ Correspondence, as circulated, was noted by Members.
 
 Councillor Sheahan proposed the painting grant scheme for painting external Council
 
-houses would be reintroduced. This was seconded by Councillor Teskey, and agreed.---
+houses would be reintroduced. This was seconded by Councillor Teskey, and agreed.
+---
 6
 
 Councillor Teskey raised the issue of Pyrite damaged homes in Limerick and requested
@@ -375,4 +380,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

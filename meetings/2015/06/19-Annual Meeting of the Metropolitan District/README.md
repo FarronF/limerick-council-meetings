@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-06-19 19:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-metropolitan-district)**
+**<a href="https://www.limerick.ie/council/whats-on/annual-meeting-metropolitan-district" target="_blank">Link to meeting</a>**

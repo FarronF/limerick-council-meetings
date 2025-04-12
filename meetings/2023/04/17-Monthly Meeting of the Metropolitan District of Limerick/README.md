@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-04-17 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-1)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-1" target="_blank">Link to meeting</a>**

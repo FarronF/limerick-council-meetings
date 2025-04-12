@@ -66,7 +66,8 @@ Following the adoption of the Minutes, Councillor Teskey requested an update on 
 
 for Kilteery Pier following a Deputation from the group at the April District Meeting. The
 
-Senior Executive Engineer, Roads, Traffic and Cleansing advised a number of funding---
+Senior Executive Engineer, Roads, Traffic and Cleansing advised a number of funding
+---
 2
 
 streams are being pursued and a meeting with a Kilteery Group representative has already
@@ -143,7 +144,8 @@ District.
 
  Councillor Sheahan added vehicles parking on footpaths are also causing damage
 
-and requested this be included as an item on the Agenda for the next JPC Sub----
+and requested this be included as an item on the Agenda for the next JPC Sub-
+---
 3
 
 Committee Meeting. He further requested the District write to the
@@ -212,7 +214,8 @@ On the proposal of Councillor Collins, seconded by Councillor O’Donoghue, it w
 
 to receive a Deputation from the Adare Community First Responders group at the June
 
-Meeting of the Municipal District of Adare-Rathkeale.---
+Meeting of the Municipal District of Adare-Rathkeale.
+---
 4
 
 **7.**
@@ -281,7 +284,8 @@ to allocate the following:
 
  €2,000 to Croagh/Kilfinny Community Games.
 
- €1,500 to Limerick Garden Plants Group.---
+ €1,500 to Limerick Garden Plants Group.
+---
 5
 
 On the proposal of Councillor Sheahan, seconded by Councillor Teskey, it was agreed to
@@ -356,7 +360,8 @@ The Derelict site programme, as operated by Limerick City and County
 
 Council, is one of the most successful programmes nationally. Since 2019 to
 
-the end of Feb 2023,the following Stats apply:---
+the end of Feb 2023,the following Stats apply:
+---
 6
 
 4,721 Site Inspections carried out
@@ -433,7 +438,8 @@ subsidiary companies linked to the Council is €53,500.
 
 **of hospitality for visiting delegations and also to provide wayfinding signage at the**
 
-**various towns involved in twinning.**---
+**various towns involved in twinning.**
+---
 7
 
 The Notice of Motion was proposed by Councillor Collins, seconded by Councillor
@@ -510,7 +516,8 @@ Councillor Teskey advised he wished to withdraw his Notice of Motion.
 
 **Infrastructure Ireland to our District to view and inspect the absolute appalling state of**
 
-**our national roads.**---
+**our national roads.**
+---
 8
 
 The Notice of Motion was proposed by Councillor Teskey, seconded by Councillor
@@ -577,7 +584,8 @@ Swim” notice currently in place in the River Deel.
 
  Members paid tribute to the outgoing Director, Housing and thanked her for all
 
-her help during her term as Director of the Adare-Rathkeale Municipal District.---
+her help during her term as Director of the Adare-Rathkeale Municipal District.
+---
 9
 
 They wished her well in the future. The Cathaoirleach then made a presentation
@@ -594,4 +602,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

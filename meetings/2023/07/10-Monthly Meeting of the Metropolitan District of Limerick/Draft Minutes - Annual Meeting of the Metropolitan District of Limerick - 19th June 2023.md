@@ -66,7 +66,8 @@ Seconded by Councillor Slattery;
 
 “That Councillor Azad Talukder be appointed Cathaoirleach of the Metropolitan District of Limerick
 
-to hold office until the next Annual Meeting or until a successor has been appointed”.---
+to hold office until the next Annual Meeting or until a successor has been appointed”.
+---
 2
 
 Proposed by Councillor Hartigan;
@@ -149,7 +150,8 @@ congratulated the Limerick Senior Hurling Team on their recent five-in-a-row Mun
 
 success and he looked forward to the challenge of the All-Ireland Semi-Final against Galway and
 
-hopefully further All Ireland success in 2023.---
+hopefully further All Ireland success in 2023.
+---
 3
 
 The Director, National and Regional SSC, on behalf of Management and Staff congratulated
@@ -222,4 +224,5 @@ This concluded the Meeting.
 
 **SIGNED: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Cathaoirleach**---
+**Cathaoirleach**
+---

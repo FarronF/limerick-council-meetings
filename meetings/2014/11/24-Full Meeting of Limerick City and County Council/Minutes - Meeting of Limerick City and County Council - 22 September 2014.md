@@ -78,7 +78,8 @@ Special Meeting of Limerick City and County Council held on 7th July, 2014.
 
 Special Meeting of Limerick City and County Council held on 29th August,
 
-2014.---
+2014.
+---
 2
 
 • The Meetings Administrator referred to the Minutes of the Inaugural Meeting
@@ -153,7 +154,8 @@ Inaugural Meeting held on 6th June, an amendment be made to the Minutes to refle
 
 the fact that each of the Party Leaders had, in turn, spoken at the Meeting.
 
-Both amendments were agreed.---
+Both amendments were agreed.
+---
 3
 
 Proposed by Councillor Sheahan (J);
@@ -234,7 +236,8 @@ dated 10th September, 2014.”
 
 Circulated, copy of Statutory Notice dated 10th September, 2014, concerning
 
-lease of office space at Lissanalta House, Dooradoyle, Limerick.---
+lease of office space at Lissanalta House, Dooradoyle, Limerick.
+---
 4
 
 Proposed by Councillor Collins (M);
@@ -313,7 +316,8 @@ for Limerick City Council be and is hereby adopted.”
 
 additional expenditure over budget for Limerick City Council for financial year
 
-ending 31st December, 2013, including capital transfers.---
+ending 31st December, 2013, including capital transfers.
+---
 5
 
 Proposed by Councillor Galvin;
@@ -454,7 +458,8 @@ D10
 
 Property Management
 
-48,694.71---
+48,694.71
+---
 6
 
 **Recreation & Amenity**
@@ -557,7 +562,8 @@ the historic financial situation of Limerick County Council and was reflective o
 
 continuous efforts of the staff of the Council in achieving better value for money and
 
-increasing overall efficiencies during challenging times.---
+increasing overall efficiencies during challenging times.
+---
 7
 
 Proposed by Councillor Sheahan (J);
@@ -692,7 +698,8 @@ Agency & Recoupable Services
 
 Forward Planning
 
-51,353---
+51,353
+---
 8
 
 **D02**
@@ -845,7 +852,8 @@ Raising of Loan
 
 Circulated, Chief Executive’s report dated 17th September, 2014, seeking the
 
-Council’s approval to seek sanction from the Minister for the Environment,---
+Council’s approval to seek sanction from the Minister for the Environment,
+---
 9
 
 Community and Local Government for a loan of €32m for re-financing of Limerick
@@ -928,7 +936,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Leddin;
 
-And Resolved:---
+And Resolved:
+---
 10
 
 “That, in accordance with Section 106 of the Local Government Act, 2001, the
@@ -1009,7 +1018,8 @@ provided.
 
 On the proposal of Councillor Collins (M), seconded by Councillor O’Hanlon, it
 
-was agreed to take a 15 minute adjournment.---
+was agreed to take a 15 minute adjournment.
+---
 11
 
 **Suspension of Standing Orders:** On resumption of the Meeting and on the
@@ -1086,7 +1096,8 @@ Circulated, report of the Senior Executive Officer, Corporate Services, dated
 
 and Local Government, and (ii) Guidelines for Establishment and Operation of
 
-Corporate Policy Groups and Strategic Policy Committees.---
+Corporate Policy Groups and Strategic Policy Committees.
+---
 12
 
 Proposed by Councillor Sheahan (J);
@@ -1149,7 +1160,8 @@ A Vote was taken which resulted as follows:
 
 Councillors Browne, Gilligan, Keller, Loftus, McCreesh, McMahon, Cmhlr Ó
 
-Ceallaigh, Prendiville, Quinlivan, Sheehy.  **(10)**---
+Ceallaigh, Prendiville, Quinlivan, Sheehy.  **(10)**
+---
 13
 
 **For Councillor Daly**
@@ -1222,7 +1234,8 @@ Circulated, report of the Senior Executive Officer, Corporate Services, dated
 
 guidelines received for the establishment and operation of Joint Policing
 
-Committees.---
+Committees.
+---
 14
 
 The Meetings Administrator stated that the Council was required to consider
@@ -1279,7 +1292,8 @@ The Calendar was noted by the Members.
 
 As earlier agreed, the remaining items on the Agenda were deferred to the
 
-Special Meeting to be held on Tuesday, 30th September.---
+Special Meeting to be held on Tuesday, 30th September.
+---
 15
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -1304,4 +1318,5 @@ An Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -92,7 +92,8 @@ amount of €150,000 from Special Projects – LA Infrastructure to D05 Tourism 
 
 Recreation and Amenity be adopted, in accordance with Section 102 of the Local Government
 
-Act, 2001, as amended.”---
+Act, 2001, as amended.”
+---
 This concluded the Meeting.
 
 **Signed:**
@@ -103,4 +104,5 @@ This concluded the Meeting.
 
 **Dated :**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

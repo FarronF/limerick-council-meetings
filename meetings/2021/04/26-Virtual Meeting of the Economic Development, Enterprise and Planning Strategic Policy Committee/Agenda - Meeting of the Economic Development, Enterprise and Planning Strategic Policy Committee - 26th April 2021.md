@@ -32,4 +32,5 @@ Yours sincerely
 
 ***Pat Fitzgerald***
 
-***SEO, Economic Development Directorate***---
+***SEO, Economic Development Directorate***
+---

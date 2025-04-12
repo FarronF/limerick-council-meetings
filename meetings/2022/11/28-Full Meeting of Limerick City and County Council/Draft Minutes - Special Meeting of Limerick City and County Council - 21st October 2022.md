@@ -56,7 +56,8 @@ consideration as follows:
 
  The need to activate residential development land for housing in a timely manner, to
 
-meet the Housing For All plan;---
+meet the Housing For All plan;
+---
 2
 
  RZLT was announced in Budget 2022 and is part of the Finance Act 2021;
@@ -139,7 +140,8 @@ from the map, or alternatively may also make a submission to include land which 
 
 on a map. She outlined that landowners can apply for referral, and noted there are 16
 
-settlements in Limerick City and County identified as meeting criteria for the Land Tax which---
+settlements in Limerick City and County identified as meeting criteria for the Land Tax which
+---
 3
 
 will be displayed in the map from 1st November 2022. The Senior Planner stated that if the
@@ -176,4 +178,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

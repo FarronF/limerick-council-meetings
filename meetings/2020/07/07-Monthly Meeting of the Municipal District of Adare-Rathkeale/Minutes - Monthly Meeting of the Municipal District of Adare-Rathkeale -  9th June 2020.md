@@ -60,7 +60,8 @@ The Senior Executive Engineer informed Councillor O’Brien the list could be ac
 
 through Tom Hernon, Central Services, HQ to ascertain how many schemes are proposed
 
-for completion in 2021.---
+for completion in 2021.
+---
 2
 
 Councillor Collins requested an update regarding training with Transport Infrastructure
@@ -133,7 +134,8 @@ due course.
 
 Glenameade, Kildimo area following a recent oil spill on the N69. Councillor
 
-O’Brien advised some residents in that area have fresh water wells and asked the---
+O’Brien advised some residents in that area have fresh water wells and asked the
+---
 3
 
 Environment Department make contact with them due to the possibility of
@@ -226,7 +228,8 @@ Ballingarry Town Park
 
 Ballingarry Development Association
 
-€1,000---
+€1,000
+---
 4
 
 **Councillor Teskey**
@@ -297,7 +300,8 @@ Councillor Teskey proposed a letter be sent from the District to the Bank of Ire
 
 asking what the current status for the reopening schedule of all branches in the District.
 
-This was seconded by Councillor Sheahan and agreed.---
+This was seconded by Councillor Sheahan and agreed.
+---
 5
 
 Councillor Keary advised he has serious reservations about the condition of some parts
@@ -316,4 +320,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

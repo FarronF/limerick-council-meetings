@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-06-15 12:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-newcastle-west-6)**
+**<a href="https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-newcastle-west-6" target="_blank">Link to meeting</a>**

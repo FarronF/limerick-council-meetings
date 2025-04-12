@@ -77,7 +77,8 @@ Metropolitan District of Limerick.
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **2.Minutes**
 
 To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on
@@ -142,7 +143,8 @@ dividers to a divider that will leave cars pull in to let an ambulance pass. I h
 
 paramedics about this matter. Lives are being saved in the back of an ambulance and every second
 
-counts.---
+counts.
+---
 3
 
 **7.Question submitted by Councillor C. Slattery**
@@ -195,7 +197,8 @@ HAP inspections were carried out in 2022 and what the outcome of these inspectio
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on when the
 
-planning application for housing at Donnellan's Field in Thomondgate will be submitted.---
+planning application for housing at Donnellan's Field in Thomondgate will be submitted.
+---
 4
 
 **14.Question submitted by Councillor E. O’Donovan**
@@ -246,7 +249,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 
 the Metropolitan District do not have a central heating system and what plans will now be put in
 
-place to rectify this situation.---
+place to rectify this situation.
+---
 5
 
 **NOTICES OF MOTION**
@@ -301,7 +305,8 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 
 providing additional safety measures for Caherdavin Boys School and Caherdavin Girls School, as
 
-part of the safe routes to school programme.---
+part of the safe routes to school programme.
+---
 6
 
 **26.Notice of Motion submitted by Councillor S. Benson (to be referred to the Community, Leisure**
@@ -360,7 +365,8 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 
 recycling public bins within the city is recycled and an education campaign is run to inform people
 
-of appropriate precyclable waste.---
+of appropriate precyclable waste.
+---
 7
 
 **31.Notice of Motion submitted by Councillor T. Collopy**
@@ -377,4 +383,5 @@ I will move at the next Meeting of the Metropolitan District of Limerick that we
 
 for Transport and Irish Rail and impress upon them the need to allow leap cards to be used across
 
-the rail network especially the Limerick routes to Dublin and Cork which should be a priority.---
+the rail network especially the Limerick routes to Dublin and Cork which should be a priority.
+---

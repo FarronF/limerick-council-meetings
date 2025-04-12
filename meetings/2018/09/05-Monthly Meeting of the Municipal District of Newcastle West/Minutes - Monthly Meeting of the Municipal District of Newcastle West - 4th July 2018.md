@@ -78,7 +78,8 @@ The Executive Engineer, Roads, gave a presentation to Members on Japanese Knotwe
 
 County Limerick in the absence of the Senior Executive Engineer, Physical Development, who
 
-sent her apologies for her inability to attend the Meeting.---
+sent her apologies for her inability to attend the Meeting.
+---
 2
 
 The Executive Engineer informed the Members that there are three different types of
@@ -153,7 +154,8 @@ The Members welcomed the Draft City and County of Limerick (Segregation, Storage
 
 Presentation of Household and Commercial Waste) Bye-Laws, 2018, which were proposed by
 
-Councillor Foley and seconded by Councillor Collins.---
+Councillor Foley and seconded by Councillor Collins.
+---
 3
 
 SUPPLEMENTARY ITEM
@@ -218,7 +220,8 @@ Unit.
 
 On the proposal of Councillor Browne, seconded by Councillor Collins, it was agreed to
 
-allocate €1,000 to Men’s Shed, Glin.---
+allocate €1,000 to Men’s Shed, Glin.
+---
 4
 
 On the proposal of Councillor Collins, seconded by Councillor Browne, it was agreed to
@@ -289,7 +292,8 @@ The Motion was seconded by Councillor Galvin.
 
 REPLY:
 
-Limerick City & County Council are required to provide an adequate painting---
+Limerick City & County Council are required to provide an adequate painting
+---
 5
 
 standard at the time of letting a property. Tenants sign a Tenancy Agreement
@@ -370,7 +374,8 @@ The above site was re-inspected by Planning and Environmental Services on
 
 the week beginning 25th June, 2018.
 
-All loose asbestos has been removed and bagged by a specialist contractor.---
+All loose asbestos has been removed and bagged by a specialist contractor.
+---
 6
 
 Planning and Environmental Services are awaiting final documentation from
@@ -453,7 +458,8 @@ projects in West Limerick e.g. Ballyhahill. Limerick City and County Council
 
 seeks to avail of all appropriate opportunities under each mechanism to
 
-meet current housing need.---
+meet current housing need.
+---
 7
 
 10.
@@ -546,7 +552,8 @@ Notice of Motion submitted by Councillor J. Sheahan
 
 ***planning) for the provision of a new Graveyard for the people of Abbeyfeale and its***
 
-***hinterland.***---
+***hinterland.***
+---
 8
 
 In proposing the Motion, Councillor Sheahan asked when a suitable site for a new Graveyard
@@ -615,7 +622,8 @@ The repair and relocating of litterbins in Mouncollins Village was also raised a
 
 repairs to the road at Gleann Cryle, Abbeyfeale and the Executive Engineer agreed to follow
 
-up on these matters.---
+up on these matters.
+---
 9
 
 Prior to the conclusion of the Meeting, the Senior Executive Engineer stated that funding had
@@ -662,4 +670,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

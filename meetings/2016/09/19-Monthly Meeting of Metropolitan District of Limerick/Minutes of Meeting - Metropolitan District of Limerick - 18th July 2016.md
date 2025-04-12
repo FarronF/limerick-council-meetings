@@ -72,7 +72,8 @@ Circulated, Report of the Deputy Chief Executive dated 1st July, 2016 setting ou
 
 dispose of 27 Lord Edward Street and to bring a Section 183 Notice to Full Council for approval in
 
-respect of same. Members noted the proposed disposal, as circulated.---
+respect of same. Members noted the proposed disposal, as circulated.
+---
 2
 
 As Mr. Macken had a conflicting appointment later in the morning it was agreed to take Item
@@ -151,7 +152,8 @@ and Development Act 2000-2015, it was proposed to proceed in accordance with the
 
 Executive’s Report.
 
-Members welcomed the proposed development, as circulated.---
+Members welcomed the proposed development, as circulated.
+---
 3
 
 **4(a)**
@@ -236,7 +238,8 @@ The three storey block at Bourke Avenue contains 12 housing units, 6 apartment
 
 and 6 duplex type units. Two of these are occupied with the remainder vacant
 
-pending major refurbishment of the overall block. Stage 1 approval, which---
+pending major refurbishment of the overall block. Stage 1 approval, which
+---
 4
 
 included an approved budget, was received from the Department of Housing,
@@ -317,7 +320,8 @@ advise any local community group who are considering the possibility
 
 of developing a playground in their own area including the suitability of a site for
 
-this specific project.---
+this specific project.
+---
 5
 
 **9.**
@@ -416,7 +420,8 @@ the potential of Limerick in this area. Members highlighted the need for a major
 
 city. The benefits of achieving Purple Flag Status was raised along with the need for guidance on
 
-how best to achieve this goal.---
+how best to achieve this goal.
+---
 6
 
 **13.**
@@ -501,7 +506,8 @@ realistically compared to the merger of the Limerick and Waterford Authorities.
 
 the City Council at the time of the merger and a boundary extension would have had serious
 
-financial implications for the County Council.---
+financial implications for the County Council.
+---
 7
 
 There was general agreement among the Members that a review of the merger was timely with
@@ -580,7 +586,8 @@ horse project to be located in both the north and south of the city.
 
 The Working Group on Horses can be reconvened after the Summer subject to
 
-the availability of the Members.---
+the availability of the Members.
+---
 8
 
 **17.**
@@ -661,7 +668,8 @@ medical grounds and that this should be the overriding factor.
 
 The motion was proposed by Councillor O’Dea and seconded by Councillor Lynch.
 
-In proposing the motion Councillor O’Dea noted that he had raised issues regarding the---
+In proposing the motion Councillor O’Dea noted that he had raised issues regarding the
+---
 9
 
 maintenance of the course at Rathbane six weeks previously and had received a good response
@@ -706,4 +714,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

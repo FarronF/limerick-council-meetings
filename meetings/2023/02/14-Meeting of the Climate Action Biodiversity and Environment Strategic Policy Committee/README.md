@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-02-14 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-climate-action-biodiversity-and-environment-strategic-policy-committee-15)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-climate-action-biodiversity-and-environment-strategic-policy-committee-15" target="_blank">Link to meeting</a>**

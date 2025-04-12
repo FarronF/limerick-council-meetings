@@ -50,4 +50,5 @@ Any Other Business
 
 **Chairperson,**
 
-**Limerick City & County Council**---
+**Limerick City & County Council**
+---

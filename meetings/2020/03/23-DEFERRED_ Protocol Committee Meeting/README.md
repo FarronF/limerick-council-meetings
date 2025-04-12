@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-03-23 13:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/protocol-committee-meeting-1)**
+**<a href="https://www.limerick.ie/council/whats-on/protocol-committee-meeting-1" target="_blank">Link to meeting</a>**

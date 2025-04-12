@@ -74,7 +74,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -155,7 +156,8 @@ Circulated, report of Senior Engineer, Mid West National Road Design Office, dat
 
 21st June 2019, concerning proposal to dispose of 0.053 Ha. land at Garryduff,
 
-Newcastle West, Co. Limerick, to Hannah and Nora Collins.---
+Newcastle West, Co. Limerick, to Hannah and Nora Collins.
+---
 3
 
 Members noted the proposal.
@@ -230,7 +232,8 @@ Circulated, report of the A/Senior Planner, Planning and Environmental Services,
 
 June, 2019.
 
-Proposed by Councillor Galvin, seconded by Councillor Foley and resolved:---
+Proposed by Councillor Galvin, seconded by Councillor Foley and resolved:
+---
 4
 
 “That, Estates:
@@ -309,7 +312,8 @@ on the installation of traffic calming measures at the location near Glin Pier.
 
 The Senior Executive Engineer agreed to attend the September meeting of the District in
 
-order to finalise the above.---
+order to finalise the above.
+---
 5
 
 6.
@@ -378,7 +382,8 @@ Question submitted by Councillor J. Scanlan
 
 REPLY:
 
-Footpath renewal works will be carried out at the above location during 2019.---
+Footpath renewal works will be carried out at the above location during 2019.
+---
 6
 
 9.
@@ -463,7 +468,8 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 ***I will move at the next Meeting that double yellow lining be renewed on either side of the***
 
-***R544 approach road to Kilcolman Drive, Gortboy, Newcastle West.***---
+***R544 approach road to Kilcolman Drive, Gortboy, Newcastle West.***
+---
 7
 
 REPLY:
@@ -538,7 +544,8 @@ available to install new public lighting schemes.
 
 ***completion of documentation by undertakers prior to the opening of a grave for burial with***
 
-***the Elected Representatives and undertakers before this new procedure is enforced.***---
+***the Elected Representatives and undertakers before this new procedure is enforced.***
+---
 8
 
 In proposing the Motion, Councillor Galvin stated that it may prove difficult in some instances
@@ -613,7 +620,8 @@ The delegation from Cryleview Residents who attended the May meeting of the Dist
 
 also raised and it was noted that the group needed to be updated on the matters they raised
 
-at the meeting. A brief discussion took place on the ongoing proposals for the estate and it---
+at the meeting. A brief discussion took place on the ongoing proposals for the estate and it
+---
 9
 
 was noted that an onsite meeting had also taken place with representatives of the estate. It
@@ -670,4 +678,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

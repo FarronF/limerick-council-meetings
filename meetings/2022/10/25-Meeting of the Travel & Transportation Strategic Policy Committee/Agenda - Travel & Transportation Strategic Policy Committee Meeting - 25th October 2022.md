@@ -29,7 +29,8 @@ set out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -80,5 +81,7 @@ Category B Approved Driving Instructor Training syllabus to result in greater
 
 awareness of the illegality of parking on any footpath and/or footway, as per *Article*
 
-*36(i) of S.I. No. 182/1997 - Road Traffic (Traffic and Parking) Regulations, 1997*.---
-3---
+*36(i) of S.I. No. 182/1997 - Road Traffic (Traffic and Parking) Regulations, 1997*.
+---
+3
+---

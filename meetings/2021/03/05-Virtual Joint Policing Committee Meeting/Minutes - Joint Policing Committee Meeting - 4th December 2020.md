@@ -76,7 +76,8 @@ working from home in the city which has resulted in reduced house burglaries in 
 
 **3.Overview on Crime Statistics from Senior Analyst**
 
-Ms. L. Collins gave a brief statistical overview of current crime statistics.---
+Ms. L. Collins gave a brief statistical overview of current crime statistics.
+---
 The Chief Superintendent stated that the Gardaí in Limerick launched an initiative a few years ago in
 
 relation to domestic violence. Procedures are in place nationally, however, this initiative is the only
@@ -161,7 +162,8 @@ the period 24th November, 2020 to 10th January, 2021 which is an increase of two
 
 additional budget was applied for and granted. The Gardai have an extensive engagement with key
 
-stakeholders in Rathkeale and the main aim is to identify any breach of legislation. Loitering on the---
+stakeholders in Rathkeale and the main aim is to identify any breach of legislation. Loitering on the
+---
 street is an issue so Gardai are on the streets to address this problem and are also targeting illegal
 
 parking. There has been a significant increase in the number of people coming into Rathkeale for
@@ -258,7 +260,8 @@ Traffic Act were as follows :
 
 “I will ask at the next Meeting how many illegal scramblers and quad bikes have been seized in the
 
-Limerick policing district in 2019 and 2020 to date”.---
+Limerick policing district in 2019 and 2020 to date”.
+---
 The Chief Superintendent replied as follows :
 
 2018 :
@@ -335,7 +338,8 @@ area who are supported by divisional resources from traffic and local crime unit
 
 assist with all investigations and policing matters. Garda Edel Moloney operates between Oola and
 
-Pallasgreen Garda Stations providing policing to both areas.---
+Pallasgreen Garda Stations providing policing to both areas.
+---
 **12.Question submitted by Councillor Martin Ryan**
 
 *“I will ask at the next Meeting will Garda Management increase it’s operation in Johnsg**ate Village*
@@ -406,7 +410,8 @@ public in Rathkeale, the Chief Superintendent stated that it is not mandatory to
 
 out in pubic but are required to be worn on all public transport, shops, shopping centres, libraries
 
-etc. He added that it is the responsibility of the retailers to ensure compliance by people entering---
+etc. He added that it is the responsibility of the retailers to ensure compliance by people entering
+---
 their premises. From 7th December members of the public can be subject to on the spot fines for not
 
 wearing a face covering in mandated areas.
@@ -463,4 +468,5 @@ This concluded the Meeting.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

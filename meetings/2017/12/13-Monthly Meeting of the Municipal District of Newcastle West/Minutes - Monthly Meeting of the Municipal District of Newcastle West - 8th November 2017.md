@@ -74,7 +74,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 Councillor Galvin expressed his disappointment at the distribution of the Development Fund
@@ -151,7 +152,8 @@ On the proposal of Councillor Browne, seconded by Councillor Scanlan, it was agr
 
 allocate a further €500 to the Newcastle West Business Association for the Christmas Santa
 
-Grotto.---
+Grotto.
+---
 3
 
 4.
@@ -222,7 +224,8 @@ The area referred to above is on the N21 and the approval of the TII would
 
 have to be sought prior to any works being carried out.
 
-Members requested an onsite meeting to discuss this matter and this would be arranged.---
+Members requested an onsite meeting to discuss this matter and this would be arranged.
+---
 4
 
 **8.**
@@ -297,7 +300,8 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 ***I will move at the next Meeting that an audit of all Japanese Knotweed black spot***
 
-***locations within the Municipal District be compiled.***---
+***locations within the Municipal District be compiled.***
+---
 5
 
 Councillor Scanlan in proposing the Motion stated that the National Parks and Wildlife
@@ -370,7 +374,8 @@ on the width of the footpaths. It was agreed that the provision of a pedestrian 
 
 this location would be reviewed as a safety measure in consultation with the Transport
 
-Infrastructure Ireland (TII).---
+Infrastructure Ireland (TII).
+---
 6
 
 The Motion was seconded by Councillor Foley.
@@ -445,4 +450,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

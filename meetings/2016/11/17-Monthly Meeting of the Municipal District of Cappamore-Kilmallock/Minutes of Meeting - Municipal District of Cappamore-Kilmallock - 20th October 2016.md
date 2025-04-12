@@ -68,7 +68,8 @@ Members thanked the Senior Planner for his presentation and welcomed the initiat
 
 Members noted the success of the “Love Your Street” Initiative in Kilmallock and suggested
 
-that it could be rolled out in other towns.---
+that it could be rolled out in other towns.
+---
 2
 
 Councillor O’Donnell noted that he had made representations in relation to a derelict building
@@ -145,7 +146,8 @@ a number of people in each community.
 
 The Meetings Administrator stated that she had been in contact with the Water Services and
 
-Communications Departments in relation to the Motion. In addition, she confirmed that she---
+Communications Departments in relation to the Motion. In addition, she confirmed that she
+---
 3
 
 had sent the Motion to Irish Water for a response but that a reply had not been received in
@@ -220,7 +222,8 @@ to Members. Councillor Sheehy stated that she would not be available on Wednesda
 
 Members thanked staff for carrying out repairs to the bridges in Bruff, Grange, Knocklong and
 
-Garryspillane.---
+Garryspillane.
+---
 4
 
 The Cathaoirleach requested that the road between Garryspillane Co-Op and Ballylanders be
@@ -257,4 +260,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

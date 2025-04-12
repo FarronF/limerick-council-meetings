@@ -62,7 +62,8 @@ the longest period of service of any Mayor of Limerick since 1842. Pat was also 
 
 Alderman in the history of Limerick City as the title was subsequently abolished by the
 
-Government.---
+Government.
+---
 2
 
 Pat had also served in Seanad Éireann on two occasions, both on the Administrative Panel
@@ -127,7 +128,8 @@ acknowledged his successful career in politics as a testament to his character.
 
 Councillor Hartigan also wished to be associated with expressions of sympathy to Pat’s wife
 
-Loretto and family.---
+Loretto and family.
+---
 3
 
 Councillor Leddin (J) acknowledged Pat’s distinguished career in politics and referred to him
@@ -172,4 +174,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

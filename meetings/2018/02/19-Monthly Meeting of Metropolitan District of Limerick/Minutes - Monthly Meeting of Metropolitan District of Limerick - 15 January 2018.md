@@ -68,7 +68,8 @@ Proposed by Councillor Hourigan;
 
 Seconded by Councillor Hurley;
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -151,7 +152,8 @@ appreciation for this gracious gesture.
 
 I am not aware of any contracts between Limerick City and County Council and
 
-Aramark for food, property, or other goods or services.---
+Aramark for food, property, or other goods or services.
+---
 3
 
 **6.**
@@ -282,7 +284,8 @@ Merchants Quay.
 
 Launch of Science Foundation Ireland’s new SFI Research
 
-Centres in Dublin Castle.---
+Centres in Dublin Castle.
+---
 4
 
 11th September
@@ -415,7 +418,8 @@ This query refers to an issue raised by a resident of the LP1122 who lives on th
 
 Left Hand Side of road between the railway bridge and Ahane Church. There is an
 
-old masonry wall along this stretch of road that is maintained by the---
+old masonry wall along this stretch of road that is maintained by the
+---
 5
 
 residents and the wall is kept in good condition. The boundary ditch opposite this
@@ -496,7 +500,8 @@ Electoral Area Briefings.
 
 ***austerity cuts imposed on our health services to pay for the bank bailouts.***
 
-The motion was proposed by Councillor Prendiville and seconded by Councillor McCreesh.---
+The motion was proposed by Councillor Prendiville and seconded by Councillor McCreesh.
+---
 6
 
 In proposing the motion Councillor Prendiville highlighted the ongoing issues with overcrowding
@@ -581,7 +586,8 @@ prospective tenants which contain a section regarding minimum standards. In
 
 addition, a copy of the Department of Housing, Planning and Local Government
 
-“Guide to Minimum Standards in Rented Accommodation (Sept 2017)” is---
+“Guide to Minimum Standards in Rented Accommodation (Sept 2017)” is
+---
 7
 
 included in the pack. A copy of this document can be found at the following link:
@@ -654,7 +660,8 @@ It was agreed to refer this Notice of Motion to the Local Electoral Area Briefin
 
 Councillor Hurley expressed disappointment with the decision to refer this item to the Local
 
-Electoral Area Briefings.---
+Electoral Area Briefings.
+---
 8
 
 **17.**
@@ -737,7 +744,8 @@ vacant sites in the Metropolitan District.
 
 **Correspondence**
 
-Correspondence was noted.---
+Correspondence was noted.
+---
 9
 
 This concluded the Meeting.
@@ -750,4 +758,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

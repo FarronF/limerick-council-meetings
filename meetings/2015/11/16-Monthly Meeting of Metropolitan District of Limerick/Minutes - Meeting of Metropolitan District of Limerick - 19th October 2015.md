@@ -72,7 +72,8 @@ to the full Council for approval.
 
 Members noted the proposal for the disposal of land as follows :
 
- Dwelling situate at 258 Deer Court, Carew Park in the City of Limerick.---
+ Dwelling situate at 258 Deer Court, Carew Park in the City of Limerick.
+---
 2
 
 3.
@@ -155,7 +156,8 @@ the company went into receivership. An enforcement notice will be served
 
 on the appointed receiver in order to have the estate completed to a
 
-satisfactory standard.---
+satisfactory standard.
+---
 3
 
 **Caislean na hAbhann, Castletroy**
@@ -242,7 +244,8 @@ and 14 of these units are currently vacant. In addition to the above eight
 
 families have been provided with emergency accommodation within or
 
-adjacent to the sites.---
+adjacent to the sites.
+---
 4
 
 The Council Executive will prepare a report on the current status, size,
@@ -273,4 +276,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-01-27 09:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/briefing-update-draft-southern-environs-local-area-plan-2021-2027)**
+**<a href="https://www.limerick.ie/council/whats-on/briefing-update-draft-southern-environs-local-area-plan-2021-2027" target="_blank">Link to meeting</a>**

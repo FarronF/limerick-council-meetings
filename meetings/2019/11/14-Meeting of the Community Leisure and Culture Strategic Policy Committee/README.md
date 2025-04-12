@@ -4,4 +4,4 @@
 
 **Date and Time:** 2019-11-14 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-community-leisure-and-culture-strategic-policy-committee)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-community-leisure-and-culture-strategic-policy-committee" target="_blank">Link to meeting</a>**

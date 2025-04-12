@@ -62,7 +62,8 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **2.**
@@ -139,7 +140,8 @@ Meetings were agreed as follows:-
 
 • March Meeting of the Metropolitan District of Limerick on Tuesday, 20th March, 2018 at
 
-9.45am.---
+9.45am.
+---
 3
 
 • Annual Meeting of the Metropolitan District of Limerick on Monday, 25th June, 2018 at
@@ -220,7 +222,8 @@ February 2017. Limerick City and County Council placed fill material at the rear
 
 of the wall to support the footpath and erected hessian fencing to protect the
 
-public. The wall is located in an SAC and consequently permission is required---
+public. The wall is located in an SAC and consequently permission is required
+---
 4
 
 from the National Parks & Wildlife Service before commencing any remedial
@@ -297,7 +300,8 @@ A total of five fines were issued for dog fouling offences in 2017. To date, non
 
 of these fines has been paid. However, further enforcement action is being
 
-taken in two cases.---
+taken in two cases.
+---
 5
 
 **NOTICES OF MOTION**
@@ -372,7 +376,8 @@ Full Council / Metropolitan / Municipal / Strategic Policy Committees, etc.
 
 As the Local Electoral Area Briefings are not statutory meetings, in accordance
 
-with the legislation formal agendas / minutes are not maintained in respect of---
+with the legislation formal agendas / minutes are not maintained in respect of
+---
 6
 
 such briefings.
@@ -447,7 +452,8 @@ It was agreed to refer this Notice of Motion to the Environment Strategic Policy
 
 Correspondence was noted.
 
-At the conclusion of the Agenda and with the consent of the Mayor the following issue was---
+At the conclusion of the Agenda and with the consent of the Mayor the following issue was
+---
 7
 
 raised:-
@@ -480,4 +486,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

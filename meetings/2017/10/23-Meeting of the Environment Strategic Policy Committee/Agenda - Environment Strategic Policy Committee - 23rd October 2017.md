@@ -21,7 +21,8 @@ held in the Council Chamber, Dooradoyle, Co. Limerick, on Monday 23rd October, 2
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -68,4 +69,5 @@ prosecution, and the need to make it accountable to the Ombudsman”.
 
 5. **River Basin Management Plan: Feedback on Public Consultation and Prioritisation of**
 
-**Areas for Action** **–** **Ms. Anne Goggin**---
+**Areas for Action** **–** **Ms. Anne Goggin**
+---

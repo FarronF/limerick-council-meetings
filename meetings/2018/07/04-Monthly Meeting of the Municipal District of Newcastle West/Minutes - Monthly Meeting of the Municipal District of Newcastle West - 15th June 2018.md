@@ -78,7 +78,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -149,7 +150,8 @@ before the Full Council for adoption at the July Meeting and the adoption of CFR
 
 facilitate further detailed design studies and assessments in relation to the development of
 
-appropriate flood mitigation and defences.---
+appropriate flood mitigation and defences.
+---
 3
 
 The Members welcomed the Flood Risk Management Plans, which included Newcastle West
@@ -214,7 +216,8 @@ A brief is currently being finalised for the Newcastle West Integrated
 
 Movement Plan, which will take traffic flow on the Boherbui area into
 
-consideration.---
+consideration.
+---
 4
 
 This brief will be forwarded to consultants for tendering within the next two
@@ -289,7 +292,8 @@ Question submitted by Councillor L. Galvin
 
 ***I will ask at the next Meeting for an update on the takeover of Brewery Lane, Newcastle***
 
-***West.***---
+***West.***
+---
 5
 
 REPLY:
@@ -368,7 +372,8 @@ policy.
 
 Councillor Collins requested that the process as outlined in the Traffic Calming in Urban Areas
 
-commence for this request.---
+commence for this request.
+---
 6
 
 NOTICES OF MOTION
@@ -437,7 +442,8 @@ The Council will work with both groups over the coming weeks and, if
 
 appropriate, a licence agreement could be issued to allow for this land to be
 
-developed.---
+developed.
+---
 7
 
 18.
@@ -508,7 +514,8 @@ apartments are currently being allocated and he referred to the large number of 
 
 within the Abbeyfeale area seeking accommodation.
 
-The following items were also raised.---
+The following items were also raised.
+---
 8
 
 The provision of a graveyard in Tournafulla was noted and Members asked if contact could
@@ -555,4 +562,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

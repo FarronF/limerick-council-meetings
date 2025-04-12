@@ -32,4 +32,5 @@ To consider the General Municipal Allocation for the Municipal District of Newca
 
 for the financial year ending 31st December, 2015.
 
-(Report attached).---
+(Report attached).
+---

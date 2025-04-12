@@ -74,7 +74,8 @@ A vote was taken which resulted as follows :
 
 **For Councillor Sheahan**
 
-Councillors Butler, Byrne, Clifford, Collins, Crowley, Hourigan, Hurley, Lynch, O'Dea,---
+Councillors Butler, Byrne, Clifford, Collins, Crowley, Hourigan, Hurley, Lynch, O'Dea,
+---
 O'Hanlon and Sheahan (11)
 
 **For Councillor Quinlivan**
@@ -155,7 +156,8 @@ Limerick.
 
 Proposed by Councillor Hourigan;
 
-Seconded by Councillor Collins;---
+Seconded by Councillor Collins;
+---
 “That, Councillor Maria Byrne be appointed Deputy Mayor of the Metropolitan District of
 
 Limerick to hold office to the next Annual Meeting or until her successor is appointed”.
@@ -238,7 +240,8 @@ Councillors which was circulated to members and specifically to the one taking p
 
 Cork on 26th June. He said that Members who wished to attend same should inform
 
-Corporate Services Department accordingly.---
+Corporate Services Department accordingly.
+---
 6.
 
 ANY OTHER BUSINESS
@@ -257,4 +260,5 @@ Riarthóir Chruinnithe
 
 Dáta:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

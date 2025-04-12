@@ -66,7 +66,8 @@ Cappamore-Kilmallock held on 8th December, 2022.
 
 **And Resolved:**
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2. Matters Arising:
 
 Councillor Teefy acknowledged that the issue of the availability of charging points had been
@@ -131,7 +132,8 @@ was submitted by and supported by all Elected Members regarding the reorientatio
 
 zoning for housing and recreation at Gregane Close.
 
-The Elected Members therefore resolved as follows:---
+The Elected Members therefore resolved as follows:
+---
 -
 
 On behalf of all the Elected Members of the Cappamore – Kilmallock Municipal
@@ -176,7 +178,8 @@ Development Act 2000 (as amended). “
 
 **Supported by all Elected Members.**
 
-(Image omitted)---
+(Image omitted)
+---
 The Cathaoirleach and Senior Executive Planner wished to acknowledge the work of the
 
 Elected Members and staff in bringing the Draft Caherconlish Local Area Plan to this stage.
@@ -221,7 +224,8 @@ A debate was held between the Elected Members to discuss the impact of such a ch
 
 An Cathaoirleach noted that further to the outcome of the debate, the number of Notices of
 
-Motion and Questions would remain.---
+Motion and Questions would remain.
+---
 Notices of Motion
 
 8.Notice of Motion submitted by Councillor Carey
@@ -276,7 +280,8 @@ received, I will forward it to you without delay.
 
 *Irish Water Clinics for Elected Members were noted. The work of the Limerick City and*
 
-*County Council Water Services staff was acknowledged.*---
+*County Council Water Services staff was acknowledged.*
+---
 Questions
 
 10.
@@ -335,7 +340,8 @@ I will ask at the next meeting of The Cappamore/Kilmallock Municipal District wh
 
 Transport Ireland intend to build Bus shelters urgently in The Cappamore/Kilmallock District
 
-in 2023.---
+in 2023.
+---
 **Reply:**
 
 The Cappamore Kilmallock Municipal District Office are currently working with the Limerick
@@ -394,7 +400,8 @@ A request was made that communication be made with Uisce Eireann in relation to 
 
 ongoing issues with the water supply in Doon. The Director of Services also agreed to
 
-discuss this with Anne Peters (Senior Engineer, Water Services).---
+discuss this with Anne Peters (Senior Engineer, Water Services).
+---
 **Grants**
 
 The Elected Members wished to thank Sarah McCutcheon (Executive Archeologist), Tom
@@ -445,4 +452,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

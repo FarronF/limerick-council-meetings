@@ -82,7 +82,8 @@ SPC meeting.
 
  
 
-**Proposed:** Cllr. Mike Donegan  **Seconded:** Cllr. Tom Collopy---
+**Proposed:** Cllr. Mike Donegan  **Seconded:** Cllr. Tom Collopy
+---
 **Item 2: Matters arising from the Minutes** 
 
 No matters arising from previous minutes.
@@ -157,7 +158,8 @@ for Toppins Field. Mr. Forde-Bradley advised the trees are not in imminent dange
 
 maintenance plan will be put in place and as the trees are not now being removed & the council
 
-does not see it as being a possible planning concern for the local residents.---
+does not see it as being a possible planning concern for the local residents.
+---
 Cllr. Kiely also enquired if MMC (Modern Methods of Construction) are quicker. Mr. Forde-Bradley
 
 advised that MMC are 10-50% quicker, there is often a higher quality of work and are broadly cost
@@ -220,4 +222,5 @@ Cllr. Collopy thanked Cllr. Keary for sitting as An Cathaoirleach of the Home an
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

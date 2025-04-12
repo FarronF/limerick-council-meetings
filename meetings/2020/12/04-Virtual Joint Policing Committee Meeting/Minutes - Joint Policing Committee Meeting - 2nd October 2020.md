@@ -78,7 +78,8 @@ not lockdown.
 
 **3.Overview on Crime Statistics from Senior Crime and Policing Analyst**
 
-Ms. L. Collins gave a brief statistical overview of current crime statistics.---
+Ms. L. Collins gave a brief statistical overview of current crime statistics.
+---
 The Chief Superintendent stated that there has been an increase in drug use with 175 people
 
 presently before the Courts. He said that there is a very worrying trend nationally in relation to
@@ -149,7 +150,8 @@ Officers and work under certain legislative powers and could not be redeployed t
 
 compliance with covid regulations. However, he would revert if there were different practices in
 
-Galway or other local authorities.---
+Galway or other local authorities.
+---
 **Presentation on Policing Plan, University of Limerick Academic Year 2020/2021**
 
 Superintendent Sugrue gave Presentation on The Policing Plan at The University of Limerick. He
@@ -220,7 +222,8 @@ these areas have seen a 20 – 25% reduction in theft and property crime.
 
 Members requested that the presentation on Property Marking be circulated to each of the
 
-Municipal Districts.---
+Municipal Districts.
+---
 **6.Question submitted by Councillor Conor Sheehan (referred from Metropolitan District**
 
 **Meeting held on 21st** **September, 2020)**
@@ -293,7 +296,8 @@ LCCC, in relation to providing statistics to support his application for CCTV in
 
 domestic violence for the period of March to August of this year ? Can a comparison be provided for
 
-the same period in 2019 ?”.---
+the same period in 2019 ?”.
+---
 In reply, the Chief Superintendent stated that he could not give out domestic violence figures for
 
 operational reasons, however, added that the number of cases this year was up by 12% compared to
@@ -408,7 +412,8 @@ staff). He stated that there had been an increase of three Gardaí to the Roxbor
 
 Policing Unit and that there had been an increase of two Gardaí to Mayorstone Community Policing
 
-with an additional two Community Gardaí to the Henry Street unit in the coming days.---
+with an additional two Community Gardaí to the Henry Street unit in the coming days.
+---
 **15.**
 
 **Question submitted by Kieran O’Donnell, T.D.**
@@ -491,7 +496,8 @@ prior to the meeting for Members consideration.
 
 He stated that Members can submit a maximum of two Questions and two Notices of Motion each
 
-for future JPC Meetings.---
+for future JPC Meetings.
+---
 It was agreed that the next meeting of the Joint Policing Committee be held on Friday, 4th December,
 
 2020 at 10.00 a.m.
@@ -502,4 +508,5 @@ This concluded the Meeting.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

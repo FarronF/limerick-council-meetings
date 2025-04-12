@@ -68,7 +68,8 @@ Cuidithe ag Cllr. J. Leddin, agus glacadh leis:
 
 “That the draft Standing Orders as presented be adopted”
 
-**CULTURAL STRATEGIC POLICY COMMITTEE**---
+**CULTURAL STRATEGIC POLICY COMMITTEE**
+---
 2
 
 Cllr. Hogan noted that the minimum three clear day notice is still a tight lead in time. The
@@ -149,7 +150,8 @@ Mr. D. Brady, City & County Librarian
 
 o Limerick Gallery of Art: Overview of exhibition programme and plans
 
-Ms. U. McCarthy, Director/Curator, Limerick Gallery---
+Ms. U. McCarthy, Director/Curator, Limerick Gallery
+---
 3
 
 o Limerick Arts Office: Overview, Creative Ireland, Participation and
@@ -220,7 +222,8 @@ meetings”.
 
 **Consideration of criteria for the open call bursary schemes.**
 
-Ar moladh Cllr M. Sheahan---
+Ar moladh Cllr M. Sheahan
+---
 4
 
 Cuidithe ag Cllr J. Leddin, agus glacadh
@@ -291,7 +294,8 @@ alternative, family friendly events to celebrate bonfire night (23rd June) or St
 
 The events were established in 2007 by local communities, in partnership with Cork City
 
-Council and other statutory agencies in response to what had become a difficult night for---
+Council and other statutory agencies in response to what had become a difficult night for
+---
 5
 
 these communities; a night synonymous with litter and dumping, illegal fires and serious
@@ -342,4 +346,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

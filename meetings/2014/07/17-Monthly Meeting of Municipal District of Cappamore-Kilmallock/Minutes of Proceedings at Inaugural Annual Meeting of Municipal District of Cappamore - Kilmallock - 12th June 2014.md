@@ -76,7 +76,8 @@ the coming year.
 
 Proposed by Councillor Donegan;
 
-Seconded by Councillor Gleeson;---
+Seconded by Councillor Gleeson;
+---
 2
 
 “*That, Councillor Eddie Ryan be appointed Cathaoirleach of the Municipal District of*
@@ -153,7 +154,8 @@ Act, 2014.
 
 5.
 
-Training/Briefing for Members:---
+Training/Briefing for Members:
+---
 3
 
 The Members were appraised of training that was scheduled by the Corporate
@@ -192,4 +194,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

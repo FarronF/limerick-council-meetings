@@ -66,7 +66,8 @@ Declaration of Interest
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government
 
-Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the---
+Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
+---
 2
 
 Mayor of any declaration of interest in any item due for discussion at the Meeting. No such
@@ -147,7 +148,8 @@ Crawford Lane, Bruff, Co. Limerick, to Peter Crotty, for the sum of ……€53,
 
 covenants and conditions contained within the Contract, particulars of which were contained
 
-in Statutory Notice dated 27th June, 2022.”---
+in Statutory Notice dated 27th June, 2022.”
+---
 3
 
 (d)
@@ -226,7 +228,8 @@ contained in Statutory Notice dated 27th June, 2022.”
 
 Circulated, copy of Statutory Notice dated 27th June, 2022, concerning disposal of
 
-property at Montpelier, O’Briensbridge, Co. Limerick.---
+property at Montpelier, O’Briensbridge, Co. Limerick.
+---
 4
 
 Proposed by Councillor Sheahan (J);
@@ -303,7 +306,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -384,7 +388,8 @@ amended), the approval of the Council be and is hereby given to the disposal by 
 
 of King John’s Castle and Interpretive Centre to Discover Limerick DAC, for the sum of €10 per
 
-year rent, the length of the lease being 22 years and subject to the covenants and conditions---
+year rent, the length of the lease being 22 years and subject to the covenants and conditions
+---
 6
 
 contained in the lease, particulars of which were contained in Statutory Notice dated 1st July,
@@ -459,7 +464,8 @@ to either re-appoint the existing Chairs or appoint new Chairs. Where two or mor
 
 were to be appointed by a Local Authority, the Grouping System as provided for in Paragraph
 
-18 of Schedule 10 of the Local Government Act, 2001, as amended, could apply if so desired.---
+18 of Schedule 10 of the Local Government Act, 2001, as amended, could apply if so desired.
+---
 7
 
 Proposed by Councillor Sheahan (J);
@@ -546,7 +552,8 @@ July, 2022, seeking retrospective approval of foreign travel in respect of invit
 
 the Mayor of the City and County of Limerick to attend a number of Civic and Economic
 
-Meetings in Austin, Texas, and Santa Clara, California.---
+Meetings in Austin, Texas, and Santa Clara, California.
+---
 8
 
 Proposed by Councillor Galvin;
@@ -621,7 +628,8 @@ On the proposal of Councillor O’Sullivan, seconded by Councillor O’Hanlon, t
 
 approved the placing of the Draft Limerick City and Environs Green and Blue Infrastructure
 
-Strategy on public display.---
+Strategy on public display.
+---
 9
 
 **Recommendation 2:**
@@ -692,7 +700,8 @@ chaired between both himself and John Coleman in the LDA in order to progress
 
 developments quicker and he confirmed that the LDA would be invited to present to the
 
-Members at the September Meeting.---
+Members at the September Meeting.
+---
 10
 
 6.
@@ -765,7 +774,8 @@ Details of the following Conference had been circulated electronically to the
 
 Members: European Inland Fisheries and Aquaculture Advisory Commission (EIFAAC)
 
-Symposium 2022 held in Killarney, Co. Kerry, on 20th/21st June, 2022.---
+Symposium 2022 held in Killarney, Co. Kerry, on 20th/21st June, 2022.
+---
 11
 
 On the proposal of Councillor O’Hanlon, seconded by Councillor Sheahan (J), the
@@ -840,7 +850,8 @@ lead in some cases to significant arrears having to be ultimately applied to the
 
 account. Individual tenants, or members on their behalf, should contact the
 
-rent account manager for their area with any concerns.---
+rent account manager for their area with any concerns.
+---
 12
 
 **Suspension of Standing Orders:** It was noted that the time was approaching 5.30 p.m. and
@@ -915,7 +926,8 @@ Based on the table below, every Councillor in his/her respective membership
 
 of the Full Council/Municipal or Metropolitan District/two SPCs currently
 
-attends **30 meetings** per year from those meetings alone as follows:---
+attends **30 meetings** per year from those meetings alone as follows:
+---
 13
 
  Plenary Council Bi-Monthly, Annual and Budget Meetings
@@ -988,7 +1000,8 @@ Any change to Monthly Meetings would require a realignment of all meetings
 
 to synchronise with this change, including the current integrated series of
 
-Council Meetings / SPC Meetings to deal with policy matters of the Council. A---
+Council Meetings / SPC Meetings to deal with policy matters of the Council. A
+---
 14
 
 change to Monthly Full Council Meetings would require SPCs to change to
@@ -1065,7 +1078,8 @@ Requests for maintenance are received through Customer Services, cases are
 
 created and logged and entered onto the Sugar CRM system. They are then
 
-allocated to the relevant area and team for action (Housing Maintenance).---
+allocated to the relevant area and team for action (Housing Maintenance).
+---
 15
 
 As background, the level of cases in Newcastle West received per month and
@@ -1164,7 +1178,8 @@ nine have been returned and are to be inspected.
 
 **(c)**
 
-**Allocation of Houses**---
+**Allocation of Houses**
+---
 16
 
 The allocation of houses is an Executive Function carried out in accordance
@@ -1239,7 +1254,8 @@ Notice of Motion submitted by Councillor E. Ryan
 
 **I will move at the next Meeting that this Council seek to increase the Operation and**
 
-**Maintenance budget for Cemeteries in the amount of €100,000 per annum, to provide for**---
+**Maintenance budget for Cemeteries in the amount of €100,000 per annum, to provide for**
+---
 17
 
 **adequate repairs and maintenance on Ancient and Historic structures in Burial Grounds, in**
@@ -1306,7 +1322,8 @@ PLANNING AND DEVELOPMENT:
 
 The Register of Decisions on Applications under the Planning and Development Act,
 
-2000, as amended, was also available on SharePoint for inspection by the Members.---
+2000, as amended, was also available on SharePoint for inspection by the Members.
+---
 18
 
 Signed:
@@ -1317,4 +1334,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

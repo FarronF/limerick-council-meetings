@@ -26,7 +26,8 @@ agenda.
 
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -67,4 +68,5 @@ schools, sporting facilities and future housing developments”.
 
 **6.Presentation on National Transport Authority Grant Allocations 2017**
 
-**7.Update on Major Infrastructural Projects**---
+**7.Update on Major Infrastructural Projects**
+---

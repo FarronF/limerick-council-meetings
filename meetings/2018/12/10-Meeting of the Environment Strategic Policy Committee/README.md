@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-12-10 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-environment-strategic-policy-committee-2)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-environment-strategic-policy-committee-2" target="_blank">Link to meeting</a>**

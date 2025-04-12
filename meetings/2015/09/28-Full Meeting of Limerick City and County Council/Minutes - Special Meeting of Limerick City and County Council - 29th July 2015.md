@@ -68,7 +68,8 @@ Members welcomed the announcement which built on the success of Limerick City
 
 of Culture and would further benefit the Arts by putting Limerick on the map as the
 
-Film Capital of Ireland.---
+Film Capital of Ireland.
+---
 **2**
 
 1.Economic Development & Planning
@@ -143,7 +144,8 @@ Varying views were expressed by Members, both in favour of the proposed route
 
 for the Northern Relief Road and against, and in response to issues raised by
 
-Members, Mr. Conroy clarified the following:----
+Members, Mr. Conroy clarified the following:-
+---
 **3**
 
 • The need for the Northern Relief Road had been identified in the Spatial
@@ -214,7 +216,8 @@ Authority’s Development Plan. It was anticipated that the Department of
 
 Transport, Tourism & Sport and the National Roads Authority would be
 
-reluctant to fund any road project under such circumstances.---
+reluctant to fund any road project under such circumstances.
+---
 **4**
 
 • A crossing of the headrace associated with the Ardnacrusha power plant,
@@ -283,7 +286,8 @@ Ceallaigh, O’Dea, O’Donoghue, Prendiville, Ryan, Secas, Sheahan (J), Sheahan
 
 There were no abstentions.
 
-The Deputy Mayor declared the proposed Variation rejected.---
+The Deputy Mayor declared the proposed Variation rejected.
+---
 **5**
 
 2.Environment & Water Services
@@ -322,4 +326,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

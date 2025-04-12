@@ -66,7 +66,8 @@ chimney.
 
 Cllr. M. Murphy and Cllr. S. Novak O’Conchuir requested to be disassociated from the
 
-recommendation.---
+recommendation.
+---
 **Item 2**
 
 **To consider Notice of Motion referred from Metropolitan Meeting of the Council held on**
@@ -147,7 +148,8 @@ jobs, used local pension funds to invest in local areas, 4,000 more people being
 
 living wage and moved out of the bottom 20% deprivation index all of which led to a positive
 
-effect on the health and wellbeing of residents.---
+effect on the health and wellbeing of residents.
+---
 Members thanked Mr Lloyd Goodwin for the very interesting presentation and queried the
 
 availability of funding for companies, how to address procurement schemes and what steps
@@ -226,7 +228,8 @@ allowable for other use - 15% under SHD)
 
  Focus on Pre-Planning Consultation - a 2 Step Process
 
- Application made to Planning Authority as opposed to ABP---
+ Application made to Planning Authority as opposed to ABP
+---
  Appeal LRD decision to ABP
 
  Transitional Arrangements for developers who had commenced consultation with ABP
@@ -295,7 +298,8 @@ of services in rural towns, but the major difficulty is the availability of fund
 
 to provide the facilities at various stages.
 
-It was agreed that an update on the Town Centre First Plan Initiative be given at next meeting.---
+It was agreed that an update on the Town Centre First Plan Initiative be given at next meeting.
+---
 **Item 7**
 
 **Any Other Business**
@@ -328,4 +332,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

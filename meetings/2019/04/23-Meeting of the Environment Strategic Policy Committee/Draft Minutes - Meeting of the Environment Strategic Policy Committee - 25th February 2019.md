@@ -52,7 +52,8 @@ weather events, to minimise the harmful effects and exploit any beneficial oppor
 
 climate change.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 The local authority sector is one of 12 sectors nationally which are charged with producing
@@ -123,7 +124,8 @@ be sent to Full Council for consideration. Cllr O’Hanlon seconded the Motion.
 
 “I will move at the next meeting that this Council immediately enact local bye-laws making
 
-all refuse collectors charge customers only on a pay by weight basis.”---
+all refuse collectors charge customers only on a pay by weight basis.”
+---
 3
 
 In proposing the Motion, Cllr. Gilligan stated that the only payment option open to waste
@@ -148,4 +150,5 @@ appropriate.
 
 Following discussion by the Members, Cllr Gilligan thanked the Director for his response.
 
-Themeeting then concluded.---
+Themeeting then concluded.
+---

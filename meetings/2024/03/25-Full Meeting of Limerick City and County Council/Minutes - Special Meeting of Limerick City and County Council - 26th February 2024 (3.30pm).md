@@ -64,7 +64,8 @@ schemes. It was the view of some Members that the allocation was more favourable
 
 City, while others pointed out that a lot of money was allocated to rural areas, in particular, the
 
-Limerick Greenway and they felt the allocation was fair and appropriate.---
+Limerick Greenway and they felt the allocation was fair and appropriate.
+---
 During discussions, Members called on the Director for Transportation and Mobility to give an
 
 update on the various funding received for Active Travel schemes in Limerick City and County, and
@@ -125,4 +126,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

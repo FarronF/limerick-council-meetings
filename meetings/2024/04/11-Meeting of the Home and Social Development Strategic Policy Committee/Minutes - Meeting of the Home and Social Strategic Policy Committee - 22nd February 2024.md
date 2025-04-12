@@ -70,7 +70,8 @@ Mr. Noel Lindsey, Clerical Officer, Housing
 
 **Apologies:** Mr. Mike McNamara, Ms. Tracy McElligott, Ms. Dee Ryan, Mr. PJ O’Grady, Ms. Anne
 
-Cronin---
+Cronin
+---
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
 
 An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed all members to the
@@ -141,7 +142,8 @@ Ms. Patricia Phillips A/ Head of Unit for Housing Welfare & Traveller Accommodat
 
 and Mr. Jamie Butler, Executive Engineer, Housing Welfare & Traveller Accommodation gave a
 
-presentation on the Traveller Accommodation Programme.---
+presentation on the Traveller Accommodation Programme.
+---
 The presentation highlighted progress to-date under the current plan and Ms. Phillips confirmed
 
 that the Council have commenced the preparation of the next 5-year Traveller Accommodation
@@ -224,7 +226,8 @@ engaged with the families and made offers of accommodation. Ms. Phillips stated 
 
 Accommodation Unit works very closely with Planning Enforcement and that the matter will have to
 
-go through the Court System.---
+go through the Court System.
+---
 Cllr. Tom Collopy enquired (a) if rent was payable by families occupying unofficial sites, (b) if the
 
 caravan loan repayments are additional to rent paid and (c) how are maintenance issues addressed.
@@ -293,7 +296,8 @@ period as long as there is no break in social housing support.
 
 Cllr. Tom Collopy asked what the income was required before the current €11,000. Mr. McDonald
 
-confirmed the amount was reduced from €15,000 to €12,500 on 1st February 2022.---
+confirmed the amount was reduced from €15,000 to €12,500 on 1st February 2022.
+---
 **Item 6: SPC Programme of Work 2024**
 
 Ms. Caroline Curley, Director of Service outlined the following SPC Programme of Work 2024 as
@@ -374,7 +378,8 @@ the importanhoce of sustaining our current stock and that there will be addition
 
 Cllr. Tom Collopy asked how we get families out of emergency accommodation. Ms. Phillips stated
 
-that no-one wants to see a family in temporary accommodation but added that in some---
+that no-one wants to see a family in temporary accommodation but added that in some
+---
 circumstances people have made themselves homeless on purpose having regard to the order of
 
 priority in the Council’s allocation scheme. Ms. Phillips added that vulnerable people are looked
@@ -397,4 +402,5 @@ stated that the properties were refurbished under the Rural Regeneration and Dev
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

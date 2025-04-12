@@ -58,7 +58,8 @@ With the permission of the Mayor and in response to queries raised regarding tak
 
 in-charge of Steamboat Quay, Limerick, the Director, Physical Development, confirmed that
 
-he would revert with an update.---
+he would revert with an update.
+---
 2
 
 With the permission of the Mayor, Councillor Collins (B) referred to Notice of Motion No. 26
@@ -131,7 +132,8 @@ allocations for Strategic Investment of €375,000 for delivery of the Limerick 
 
 in 2020, as set out in the report of the Director, Community Development, dated 12th June,
 
-2020.”---
+2020.”
+---
 3
 
 (c)
@@ -202,7 +204,8 @@ Dolores O’Riordan Music Bursary Award 2020
 
 Circulated, report of the A/Arts Officer dated 15th June, 2020, seeking the Council’s
 
-approval to the Dolores O’Riordan Music Bursary Award 2020.---
+approval to the Dolores O’Riordan Music Bursary Award 2020.
+---
 4
 
 Proposed by Councillor Teefy;
@@ -273,7 +276,8 @@ Question submitted by Councillor D. McSweeney
 
 **I will ask at the next Meeting for an update on the progress being made in securing funding**
 
-**to complete Phase Two of Patrickswell Village Renewal Scheme.**---
+**to complete Phase Two of Patrickswell Village Renewal Scheme.**
+---
 5
 
 **REPLY:**
@@ -376,7 +380,8 @@ additional section of trail.
 
 What design features are included in this project towards accommodating people with
 
-special needs who wish to use the Greenway.---
+special needs who wish to use the Greenway.
+---
 6
 
 **REPLY:**
@@ -451,7 +456,8 @@ Fehily Timoney Consulting Engineers.
 
 ***2.***Limerick City and County Council is carrying out this work by direct labour. The
 
-estimated cost is €120,000.---
+estimated cost is €120,000.
+---
 7
 
 **(g) Did this farm building receive grant-aid from the Department of Agriculture.**
@@ -532,7 +538,8 @@ gradient in the opposite direction. In areas where the current Greenway exceeds 
 
 national standards for gradients, works will be carried out to reduce the gradients,
 
-bringing them into line with the applicable standard.---
+bringing them into line with the applicable standard.
+---
 8
 
 
@@ -625,7 +632,8 @@ mobile homes, the provision of chemical toilets, the provision of signage in
 
 Traveller Specific Accommodation, preparing an area in Rathkeale in
 
-conjunction with the HSE to provide an isolation area in Rathkeale, if required,---
+conjunction with the HSE to provide an isolation area in Rathkeale, if required,
+---
 9
 
 and the rehousing of families from Traveller Specific Accommodation to
@@ -698,7 +706,8 @@ position on the Wild Atlantic Way. As part of the campaign, Limerick City and
 
 County Council has been engaging with this forum and also local hotels and
 
-attractions to profile them as part of the campaign.---
+attractions to profile them as part of the campaign.
+---
 10
 
 NOTICES OF MOTION
@@ -775,7 +784,8 @@ Notice of Motion submitted by Councillor J. Leddin **(to be referred to Home and
 
 It was agreed to refer the Motion to the Home and Social Development Strategic Policy
 
-Committee for consideration.---
+Committee for consideration.
+---
 11
 
 18.
@@ -846,7 +856,8 @@ Notice of Motion submitted by Councillor T. Ruddle **(to be referred to Protocol
 
 **who secured global recognition over several generations.**
 
-It was agreed to refer the Motion to the Protocol Committee for consideration.---
+It was agreed to refer the Motion to the Protocol Committee for consideration.
+---
 12
 
 21.
@@ -923,7 +934,8 @@ Notice of Motion submitted by Councillor C. Sheehan **(to be referred to the**
 
 **people who are banned from owning animals to obtain new animals; that the Council**
 
-**amend the Control of Horses Bye-Laws to ban horses in housing estates; and that the**---
+**amend the Control of Horses Bye-Laws to ban horses in housing estates; and that the**
+---
 13
 
 **Council engage with the relevant authorities on education and outreach programme around**
@@ -974,4 +986,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

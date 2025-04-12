@@ -64,7 +64,8 @@ House, Grange and thanked staff from the Property Department and all those invol
 
 carrying out the works. In addition, the Cathaoirleach thanked Councillor Gleeson for his
 
-ongoing work as their representative on the Committee.---
+ongoing work as their representative on the Committee.
+---
 2
 
 **QUESTIONS**
@@ -151,7 +152,8 @@ and the estate taken in charge.
 
 The Council seeks to effectively maintain its roads assets within its resources. At
 
-present as many patching crews as Health and Safety Regulations allow are---
+present as many patching crews as Health and Safety Regulations allow are
+---
 3
 
 operating until the severe weather damage has been alleviated. During the
@@ -228,7 +230,8 @@ The following items were raised at the completion of the Agenda:
 
 Members thanked staff in the Kilmallock Office who were available over the Christmas period
 
-when houses in Galbally had been at risk of flooding.---
+when houses in Galbally had been at risk of flooding.
+---
 4
 
 On the proposal of Councillor O’Donnell, seconded by Councillor Mitchell it was unanimously
@@ -271,4 +274,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

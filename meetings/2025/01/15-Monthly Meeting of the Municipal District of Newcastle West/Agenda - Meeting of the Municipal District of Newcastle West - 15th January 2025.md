@@ -88,7 +88,8 @@ Glin, Co. Limerick.
 
 **061 - 556 000**
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **4.**
@@ -159,7 +160,8 @@ that they have been vacant.
 
 I will move at the next Meeting that the Council expedite the Flood Relief Scheme in Athea particularly
 
-after recent floods nearly causing flooding in the village.---
+after recent floods nearly causing flooding in the village.
+---
 3
 
 **13.**
@@ -182,4 +184,5 @@ fronting the Longcourt House Hotel.
 
 I will move at the next Meeting that the road lighting at Killoughteen school be adjusted and placed on a
 
-timer to limit its levels of glare and intrusiveness on neighbouring residential properties.---
+timer to limit its levels of glare and intrusiveness on neighbouring residential properties.
+---

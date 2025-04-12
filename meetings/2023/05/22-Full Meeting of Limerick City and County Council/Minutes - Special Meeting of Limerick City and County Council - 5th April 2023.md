@@ -58,7 +58,8 @@ also.
 
 Due to disruption in the Chamber while discussing this motion, the Mayor adjourned the
 
-meeting for 10 minutes. After reconvening the Meeting, the Mayor considered that the---
+meeting for 10 minutes. After reconvening the Meeting, the Mayor considered that the
+---
 meeting, owing to disorder, could not continue, and in line with Standing Orders adjourned
 
 the meeting until such time as the Mayor shall decide.
@@ -73,4 +74,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

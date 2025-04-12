@@ -64,7 +64,8 @@ I call at the next Meeting on Limerick City and County Council to develop an inv
 
 of all Limerick's historical and artistic assets to ensure their preservation and to exploit
 
-their potential as tourist attractions and encourage civic pride.---
+their potential as tourist attractions and encourage civic pride.
+---
 **Item 9**.
 
 Notice of Motion referred from full Council Meeting of January 2018
@@ -109,4 +110,5 @@ Any Other Business
 
 **Cathaoirleach**
 
-**Cultural SPC, Limerick City & County Council**---
+**Cultural SPC, Limerick City & County Council**
+---

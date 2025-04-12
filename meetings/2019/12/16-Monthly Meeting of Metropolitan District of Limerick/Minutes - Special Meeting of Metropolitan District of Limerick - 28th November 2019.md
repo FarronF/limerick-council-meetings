@@ -56,7 +56,8 @@ Councillors Collins, Costelloe, Kilcoyne, Leddin (B), O’Dea, Sheehan and Taluk
 
 (7)
 
-The Meetings Administrator declared the Motion defeated and the meeting was adjourned.---
+The Meetings Administrator declared the Motion defeated and the meeting was adjourned.
+---
 2
 
 Members wished to express their support to Cllr Kilcoyne and his family on the recent incident
@@ -75,4 +76,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -40,7 +40,8 @@ Cappamire-Kilmallock held on the 2nd September, 2021.
 
 (i) Response from Irish Water to a request to attend the Cappamore Kilmallock
 
-Municipal District Meeting.---
+Municipal District Meeting.
+---
 2
 
 3.Support Services Directorate
@@ -107,4 +108,5 @@ I will ask at the next meeting of the Cappamore Kilmallock Municipal District th
 
 full presentation on the regeneration process as outlined at a recent Metropolitan meeting as
 
-this has a huge bearing on our overall budget.---
+this has a huge bearing on our overall budget.
+---

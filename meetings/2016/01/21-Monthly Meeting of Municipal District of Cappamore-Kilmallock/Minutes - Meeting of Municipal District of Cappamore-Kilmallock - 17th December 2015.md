@@ -64,7 +64,8 @@ The Acting Head of Finance/Human Resources/Corporate/ICT, (Mr. S. Coughlan) join
 
 Meeting at that stage. Members welcomed Mr. Coughlan as Director of the Municipal District
 
-adding that they were looking forward to working with him.---
+adding that they were looking forward to working with him.
+---
 2
 
 **QUESTIONS**
@@ -151,7 +152,8 @@ location and will look at improving the drainage of this area.
 
 Limerick City and County Council will repair the mouth of this entrance damaged
 
-by passing water.---
+by passing water.
+---
 3
 
 **NOTICES OF MOTION**
@@ -222,7 +224,8 @@ bereavements:
 
  Mrs. Eileen Crean, on the death of their husband, Liam Finn, Jamestown, Kilmallock.
 
- The O’Malley family on the death of Nodie O’Malley, Dromalty, Cappamore.---
+ The O’Malley family on the death of Nodie O’Malley, Dromalty, Cappamore.
+---
 4
 
 It was agreed that Councillor Sheehy would discuss the allocation of €10,000 to Limerick Youth
@@ -241,4 +244,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

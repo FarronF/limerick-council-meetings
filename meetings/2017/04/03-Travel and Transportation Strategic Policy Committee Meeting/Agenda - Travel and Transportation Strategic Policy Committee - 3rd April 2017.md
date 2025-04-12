@@ -26,7 +26,8 @@ Committee to be held in the Council Chamber, Dooradoyle, Limerick, on Monday 3rd
 
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -75,4 +76,5 @@ public transportation would be free in order to encourage more people to use thi
 
 public service, in order to help tackle pollution and climate change”.
 
-**6.Progress Report on the proposed Northern Distributor Road Project**---
+**6.Progress Report on the proposed Northern Distributor Road Project**
+---

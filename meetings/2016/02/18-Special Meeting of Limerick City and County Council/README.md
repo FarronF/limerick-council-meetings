@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-02-18 09:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-21)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-21" target="_blank">Link to meeting</a>**

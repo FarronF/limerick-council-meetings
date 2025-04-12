@@ -30,7 +30,8 @@ Kilmallock held on the 16th February 2023
 
 2.Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 16th February 2023.---
+Relating to the Minutes of the Municipal District Meeting of 16th February 2023.
+---
 2
 
 3.Property Services
@@ -77,7 +78,8 @@ Limerick City and County Council to explore the possibility of a twinning partne
 
 and Acton town, Massachusetts, USA, home to Mary Josephine Hannon, wife of John Francis
 
-"Honey Fitz" Fitzgerald.---
+"Honey Fitz" Fitzgerald.
+---
 3
 
 QUESTIONS
@@ -124,4 +126,5 @@ on the Oola wastewater treatment plant.
 
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District to get the
 
-capacity and load of the wastewater treatment plant in Kilmallock.---
+capacity and load of the wastewater treatment plant in Kilmallock.
+---

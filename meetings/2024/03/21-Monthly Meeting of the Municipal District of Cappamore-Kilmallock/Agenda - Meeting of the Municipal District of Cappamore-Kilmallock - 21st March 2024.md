@@ -48,7 +48,8 @@ Special Meeting to approve the General Muncipal Allocation 2024 held on 28th
 
 February 2024
 
-(Copy Enclosed)---
+(Copy Enclosed)
+---
 2
 
 2.
@@ -107,7 +108,8 @@ District
 
 Environment and Climate Action - Cemeteries
 
-Kilteely Dromkeen Cemetery---
+Kilteely Dromkeen Cemetery
+---
 3
 
 NOTICES OF MOTION
@@ -174,7 +176,8 @@ I will move at the next meeting of the Cappamore/Kilmallock Municipal District c
 
 Limerick City and County Council to complete a review of the footpaths, road signage and
 
-public lighting in Ballyorgan village.---
+public lighting in Ballyorgan village.
+---
 4
 
 QUESTIONS
@@ -209,4 +212,5 @@ Question submitted by Councillor Teefy
 
 charge (how many and where?)
 
-2. What progress is being made regarding taking these outstanding estates in charge”---
+2. What progress is being made regarding taking these outstanding estates in charge”
+---

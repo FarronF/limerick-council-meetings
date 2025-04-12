@@ -54,7 +54,8 @@ had been known as a gentleman and who was a great character. He was very interes
 
 local community, and also had an interest in politics. One Member who had worked with him
 
-in the construction industry remembered him also as a first class tradesman.---
+in the construction industry remembered him also as a first class tradesman.
+---
 2
 
 The Chief Executive, on behalf of Management and staff, expressed his condolences to Cllr
@@ -75,4 +76,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

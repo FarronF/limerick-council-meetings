@@ -60,7 +60,8 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.
+---
 2
 
 **2.Disposal of Land**
@@ -131,7 +132,8 @@ review. Subject to approval, a 5-year timeframe is envisaged for project deliver
 
 ***based on current pre planning discussions and planning approvals within the next two years.***
 
-**REPLY**: Within Limerick City and Environs, 2,450 residential units have the benefit of planning---
+**REPLY**: Within Limerick City and Environs, 2,450 residential units have the benefit of planning
+---
 3
 
 permission, on sites where no development has commenced, there is an additional 373
@@ -214,7 +216,8 @@ Spend to date.
 
 paperwork has been submitted payment is issued in the following two weeks in line with
 
-accounts payable payment runs.---
+accounts payable payment runs.
+---
 4
 
 **9.Question submitted by Councillor C. Slattery**
@@ -289,7 +292,8 @@ road.
 
 **REPLY**: The Council is in the process of seeking quotations for Consultants to prepare a design for
 
-an extension to the Castleconnell playground. It is intended that a Consultant will be---
+an extension to the Castleconnell playground. It is intended that a Consultant will be
+---
 5
 
 appointed by the end of the year.
@@ -374,7 +378,8 @@ v.
 
 ***Fund, if so please advise the number of units.***
 
-**REPLY:** i. In May 2022, Limerick City and County Council applied for 10 posts.---
+**REPLY:** i. In May 2022, Limerick City and County Council applied for 10 posts.
+---
 6
 
 ii.
@@ -461,7 +466,8 @@ sweeping. Public roads are continuously assessed for leaf fall and to decide the
 
 of available resources. The Council gives additional attention to areas where large amounts
 
-of leaf fall are a regular occurrence.---
+of leaf fall are a regular occurrence.
+---
 7
 
 **19.Question submitted by Councillor S. Novak Uí Chonchúir**
@@ -540,7 +546,8 @@ be planted in four groups of three in the raised planter boxes on the four corne
 
 Roche’s St / Shannon St junction. The remainder of the raised and long planters will be
 
-planted with a variety of bulbs, shrubs and grasses.---
+planted with a variety of bulbs, shrubs and grasses.
+---
 8
 
 Planting works will be undertaken by the Contractor on the site on Thomas St and on
@@ -619,7 +626,8 @@ requirement to acquire some lands by CPO. This scheme is managed by Active Trave
 
 **24.Question submitted by Councillor J. Pond**
 
-***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***---
+***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
+---
 9
 
 ***approved Road Widening and Bridge Upgrade Works at the Junction of Golf Links Road L1116***
@@ -694,7 +702,8 @@ support more cyclists and ensuring the security of their bicycles and equipment.
 
 ***meeting to answer questions about the deterioration of the Guinness canal between the city***
 
-***centre and UL and to outline the management plans they have for the canal.***---
+***centre and UL and to outline the management plans they have for the canal.***
+---
 10
 
 The Notice of Motion was proposed by Councillor Sheehan (C), seconded by Councillor O’Sullivan
@@ -773,7 +782,8 @@ improved communication from the team, as members of the public were not clear re
 
 locations where they could meet with Active Travel so as to make submissions on schemes;
 
- Members agreed that Section 38 could be considered appropriate to use in certain---
+ Members agreed that Section 38 could be considered appropriate to use in certain
+---
 11
 
 circumstances, but not for segregated cycle lanes in accordance with the adopted motion.
@@ -844,7 +854,8 @@ Limerick in a timely manner. Members supported the motion.
 
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor McSweeney and
 
-agreed.---
+agreed.
+---
 12
 
 In proposing the motion, Councillor Kiely highlighted a number of arts projects, which had been
@@ -917,7 +928,8 @@ travel infrastructure in Business Parks would facilitate employees to switch to 
 
 of transport and that it was important that these facilities complimented what were being provided
 
-by Active Travel.---
+by Active Travel.
+---
 13
 
 **35.Correspondence**
@@ -934,4 +946,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -68,7 +68,8 @@ setting out proposals to dispose of 1 Grennan Villas, St. Joseph’s Terrace, Li
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 2
 
 (c)
@@ -143,7 +144,8 @@ Members on the proposed Strategic Housing Development Application and briefed th
 
 on the content of the proposed application.
 
-Following a detailed discussion of the application, the Members highlighted the following in---
+Following a detailed discussion of the application, the Members highlighted the following in
+---
 3
 
 relation to the application:
@@ -228,7 +230,8 @@ to ensure that their comments had been accurately captured, before they were sub
 
 Bord Pleanála and the A/Senior Executive Officer, Planning and Environmental Services agreed to
 
-circulate this summary to the Members.---
+circulate this summary to the Members.
+---
 4
 
 **QUESTIONS**
@@ -305,7 +308,8 @@ of the site. Limerick City and County Council will open a Vacant Site case and c
 
 inspection in relation to the lands that remain vacant.
 
-d. No---
+d. No
+---
 5
 
 **7.Question submitted by Councillor S. Benson**
@@ -440,7 +444,8 @@ taken not to
 
 enter the site
 
-on the---
+on the
+---
 6
 
 register due
@@ -599,7 +604,8 @@ LK67743F
 
 NO
 
-Submission---
+Submission
+---
 7
 
 (155083.452,156714.3
@@ -772,7 +778,8 @@ Gerald Griffin Street
 
 LK41562F
 
-YES---
+YES
+---
 8
 
 **8.Question submitted by Councillor C. Slattery**
@@ -847,7 +854,8 @@ completion of the planning documentation and internal consultation.
 
 ***Government funding, or a commitment of Government funding, and if there are commitments***
 
-***existing for funding from the University of Limerick, Clare County Council or Waterways Ireland***---
+***existing for funding from the University of Limerick, Clare County Council or Waterways Ireland***
+---
 9
 
 ***to contribute to the development of the Black Bridge in Plassey and if any discussions have been***
@@ -934,7 +942,8 @@ the COVID 19 pandemic and the emerging needs that arose, particular attention wa
 
 those considered high risk such as persons in direct provision, undocumented persons and those
 
-considered highly vulnerable.---
+considered highly vulnerable.
+---
 10
 
 The IWG meets on a quarterly basis and monitors the progress of the working groups and it is
@@ -1009,7 +1018,8 @@ noise levels and highlighted the importance of having national guidelines in pla
 
 health and wellbeing of communities, especially those communities located close to major road
 
-networks and infrastructure.---
+networks and infrastructure.
+---
 11
 
 **17.Notice of Motion submitted by Councillor S. Kiely (to be referred to the Climate Action,**
@@ -1076,4 +1086,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

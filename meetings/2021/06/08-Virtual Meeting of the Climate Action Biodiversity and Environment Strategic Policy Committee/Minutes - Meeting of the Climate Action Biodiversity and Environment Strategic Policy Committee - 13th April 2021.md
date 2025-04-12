@@ -46,7 +46,8 @@ Mr. Kennedy presented the Director’s Report and referred to the correspondence
 
 the Minister for Enterprise and Trade, Mr Leo Varadkar TD and Minister for the Environment,
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 Climate and Communications, Mr Eamon Ryan TD, regarding the CETA Agreement between
@@ -101,7 +102,8 @@ which will be suitable for use on footpaths.
 
 Ms. Goggin assured him that the Tree Policy will ensure that tree planting will be site specific.
 
-**Item 4(a). Notice of Motion referred from the Metropolitan District Meeting held on**---
+**Item 4(a). Notice of Motion referred from the Metropolitan District Meeting held on**
+---
 3
 
 **Monday 15th** **February, 2021**
@@ -166,7 +168,8 @@ Mr. Kennedy then read the reply to the Motion:
 
 **Item 4(b).** **Notice of Motion referred from the Metropolitan District Meeting held on**
 
-**Monday 15th** **February, 2021**---
+**Monday 15th** **February, 2021**
+---
 4
 
 **(submitted by Councillor E. Secas)**
@@ -237,7 +240,8 @@ submitted to Full Council as a recommendation.
 
 **19th** **March, 2021**
 
-**(submitted by Councillor S. Hartigan)**---
+**(submitted by Councillor S. Hartigan)**
+---
 5
 
 “I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City
@@ -298,7 +302,8 @@ Mr. Kennedy then read the reply to the Motion:
 
 **2021 (submitted by the Municipal District of Adare-Rathkeale -** **Councillors J. O’Donoghue**
 
-**(Proposer), B. Collins, S. Keary, E. O’Brien, K. Sheahan, A. Teskey)**---
+**(Proposer), B. Collins, S. Keary, E. O’Brien, K. Sheahan, A. Teskey)**
+---
 6
 
 “We will move at the next Meeting that Limerick City and County Council immediately address
@@ -365,7 +370,8 @@ Mr. Kennedy then read the reply to the Motion:
 
 *the land is not a hazard or potential hazard to persons using a public road and that it does not*
 
-*obstruct or interfere with the safe use of a public road or the maint**enance of a public road. “*---
+*obstruct or interfere with the safe use of a public road or the maint**enance of a public road. “*
+---
 7
 
 *It goes on to state that* *“Where a tree, shrub, hedge or other vegetation is a hazard or potential*
@@ -430,7 +436,8 @@ The Motion was not seconded.
 
 the Committee recommends that the Annacotty Weir be removed because of its negative
 
-impact on biodiversity and critically endangered species.”---
+impact on biodiversity and critically endangered species.”
+---
 8
 
 In proposing the Motion, Ms. Hayes that there are three main issues she wished to raise:
@@ -501,7 +508,8 @@ to in his response.
 
 Mr. Kennedy outlined that there are five FRS as follows; Castleconnell, Athea, Rathkeale,
 
-King’s Island & Adare. The city environs FRS includes Annacotty. Mr. Kennedy said he would---
+King’s Island & Adare. The city environs FRS includes Annacotty. Mr. Kennedy said he would
+---
 9
 
 arrange for clarification by email to all Members within a few days. Cllr. Sheahan (M) wished
@@ -558,5 +566,7 @@ This concluded the meeting. The Chair thanked all the members for their contribu
 
 Jerome Scanlan
 
-**Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee**---
-10---
+**Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee**
+---
+10
+---

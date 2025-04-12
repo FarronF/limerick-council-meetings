@@ -60,7 +60,8 @@ And Resolved:
 
 The Cathaoirleach and Members extended their condolences to B. Kennedy, Senior
 
-Executive Officer, on his recent bereavement.---
+Executive Officer, on his recent bereavement.
+---
 2.
 
 Economic Development Directorate
@@ -137,7 +138,8 @@ funding and completed a Technical and Feasibility Study on the possibility of co
 
 old convent into a Technology Hub to improve employment prospects within the area. It is
 
-possible to convert this building but some financial support would be required.---
+possible to convert this building but some financial support would be required.
+---
 The Members acknowledged the work of Abbeyfeale Community Council and the challenges
 
 facing the group.
@@ -208,7 +210,8 @@ Ireland, as appropriate. The Members approval was now being sought to proceed wi
 
 publication of Draft Bye Laws for public consultation, in accordance with the guidelines.
 
-Also Circulated:---
+Also Circulated:
+---
 • Limerick City and County Council, County Limerick Road Traffic Special Speed Limit
 
 Bye Laws 2018 for Regional and Local Roads (Draft);
@@ -281,7 +284,8 @@ it was agreed that a traffic count would be carried out for this road.  It was a
 
 an update on this item would be provided at the February 2018 Meeting of the Municipal
 
-District of Newcastle West.---
+District of Newcastle West.
+---
 7.
 
 Support Services Directorate – Corporate Services
@@ -352,7 +356,8 @@ To receive update on the provision of new graveyard in Abbeyfeale
 
 The Senior Executive Engineer, stated that a further trial hole tests had been carried out at
 
-the Clash Road site along with trial hole testing at three other sites. The GPR survey on St.---
+the Clash Road site along with trial hole testing at three other sites. The GPR survey on St.
+---
 Mary’s Graveyard and the Church of Ireland Graveyard was carried out and results will be
 
 available shortly. The Members requested they be informed of the results when available.
@@ -421,7 +426,8 @@ No. 1 (West). Limerick City & County Council Water Services staff are liaising w
 
 Irish Water Site Security team in order to complete the procurement process on this
 
-project. The elected Members will be updated when contractor has been appointed.---
+project. The elected Members will be updated when contractor has been appointed.
+---
 12.
 
 Question submitted by Councillor L. Galvin
@@ -484,7 +490,8 @@ The Members also queried if there was any update from Corporate Services with re
 
 the conflict of interest item which was raised at a previous meeting. The Director advised
 
-that he would follow up this matter with Corporate Services.---
+that he would follow up this matter with Corporate Services.
+---
 **REPLY:**
 
 The following is an extract from the Limerick City and County Council Standing Orders for
@@ -575,7 +582,8 @@ Notice of Motion submitted by Councillor L. Galvin
 
 In proposing the Motion Councillor Galvin stated a voluntary group are willing to develop a
 
-community graveyard in this area. Councillor Browne stated that he had raised this matter---
+community graveyard in this area. Councillor Browne stated that he had raised this matter
+---
 previously. The Director of Services advised that he would discuss this matter with the
 
 Planning and Environmental Services Department.
@@ -626,4 +634,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

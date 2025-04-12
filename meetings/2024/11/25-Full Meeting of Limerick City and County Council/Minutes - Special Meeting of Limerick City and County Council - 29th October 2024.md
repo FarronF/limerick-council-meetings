@@ -68,7 +68,8 @@ close. In a subsequent press release issued by the Council, reference was only m
 
 Members so the suggestion was that the Elected Members were to blame for the closure,
 
-which he believed was very unfair on Members. He stated that both Council Management---
+which he believed was very unfair on Members. He stated that both Council Management
+---
 **2**
 
 and the Mayor had a role to play in the process and he believed it was unfair that the Elected
@@ -145,7 +146,8 @@ The International Rugby Experience was very early in its life cycle and there wa
 
 grow the attraction in terms of visitors and revenue. However, it was estimated that the
 
-projected breakeven figure was 70,000- 80,000 visitors p.a. which was not currently being---
+projected breakeven figure was 70,000- 80,000 visitors p.a. which was not currently being
+---
 **3**
 
 achieved, and that the IRE will require direct operating financial subvention in the short to
@@ -222,7 +224,8 @@ provided by the local authority. They also asked as to when the Mayor was made a
 
 the issues in relation to the proposed transfer and what he had done subsequently to
 
-address the issue.---
+address the issue.
+---
 **4**
 
 The Director General confirmed that it was not intended to disrespect the Members in the
@@ -303,7 +306,8 @@ with the representatives of the International Rugby Experience.
 
 It was agreed that this proposal would be communicated to the representatives of the
 
-International Rugby Experience and that an invitation be issued to Barry Hannon, CEO of the---
+International Rugby Experience and that an invitation be issued to Barry Hannon, CEO of the
+---
 **5**
 
 International Rugby Experience to attend a meeting with the Elected Members to further
@@ -316,4 +320,5 @@ Signed:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Príomh Chomhairleoir**---
+**Príomh Chomhairleoir**
+---

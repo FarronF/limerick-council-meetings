@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-07-20 18:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west-3)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west-3" target="_blank">Link to meeting</a>**

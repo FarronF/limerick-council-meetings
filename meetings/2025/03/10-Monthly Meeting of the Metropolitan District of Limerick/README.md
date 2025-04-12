@@ -4,4 +4,4 @@
 
 **Date and Time:** 2025-03-10 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-28)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-28" target="_blank">Link to meeting</a>**

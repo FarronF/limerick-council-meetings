@@ -30,7 +30,8 @@ Kilmallock held on the 20th October 2022
 
 2.Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 20th October 2022.---
+Relating to the Minutes of the Municipal District Meeting of 20th October 2022.
+---
 2
 
 3.Property Services
@@ -85,7 +86,8 @@ up to look into, advise, discuss comprehensively the logistics and recommendatio
 
 The Directly Elected Mayor for Dublin report their findings back to us in the interest of
 
-fairness,balance, transparency and clarity to the proposed office of DEM in Limerick.”---
+fairness,balance, transparency and clarity to the proposed office of DEM in Limerick.”
+---
 3
 
 QUESTIONS
@@ -128,4 +130,5 @@ estate.”
 
 relation to Electronic Speed Go Safe Feed Back Signs where batteries were and are being
 
-stolen. This is about health and safety procedures and is urgent accordingly.”---
+stolen. This is about health and safety procedures and is urgent accordingly.”
+---

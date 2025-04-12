@@ -70,7 +70,8 @@ Dooradoyle and Merchant’s Quay as a mark of respect.
 
 Following the minute’s silence, the Mayor welcomed students from Transition Year,
 
-Hazelwood College, Dromcollogher, who were in the public gallery observing the Meeting.---
+Hazelwood College, Dromcollogher, who were in the public gallery observing the Meeting.
+---
 2
 
 1.
@@ -145,7 +146,8 @@ Strategic Policy Committees
 
 As the filling of the casual vacancy on the Council consequent on the election of
 
-former Councillor, Maria Byrne, to Seanad Éireann was deferred to the November Meeting,---
+former Councillor, Maria Byrne, to Seanad Éireann was deferred to the November Meeting,
+---
 3
 
 the nomination of a replacement to the following Strategic Policy Committees was also
@@ -206,7 +208,8 @@ Statutory Budget Meeting:
 
 Friday, 11th November, 2016, at 10am.
 
-With the permission of the Mayor, it was agreed to take Item No. 3 at this time.---
+With the permission of the Mayor, it was agreed to take Item No. 3 at this time.
+---
 4
 
 3.
@@ -279,7 +282,8 @@ o
 
 • Preparedness
 
-• Protection---
+• Protection
+---
 5
 
 Following the presentation, the following issues were raised by the Members:
@@ -408,7 +412,8 @@ built-up?
 
 Confirmation that the OPW had liaised with the National Parks and Wildlife Services
 
-in relation to dredging as a possible alternative to capital infrastructure was sought.---
+in relation to dredging as a possible alternative to capital infrastructure was sought.
+---
 6
 
 Mr. Adamson responded to some of the issues raised as follows:
@@ -471,7 +476,8 @@ Suspension of Standing Orders: On resumption of the Meeting, the Mayor drew atte
 
 to the time and on the proposal of Councillor Sheahan (J), seconded by Councillor Collins
 
-(M), Standing Orders were suspended in order to complete the agenda.---
+(M), Standing Orders were suspended in order to complete the agenda.
+---
 7
 
 (d)
@@ -544,7 +550,8 @@ Councillor Collins (M) proposed an amendment that, in accordance with Section 20
 
 of the Finance (Local Property Tax) Act, 2012, to vary the LPT basic rate upwards by 10% for
 
-2017. This proposal was seconded by Councillor Sheahan (J).---
+2017. This proposal was seconded by Councillor Sheahan (J).
+---
 8
 
 The Mayor directed that a Vote be taken on the proposal put forward by Councillor
@@ -611,7 +618,8 @@ Strategic Policy Committee Meeting held on 3rd June, 2016; (iii) Chairperson’s
 
 Home and Social Development Strategic Policy Committee Meeting held on 13th June, 2016;
 
-(iv) Chairperson’s report - Community, Leisure and Emergency Services Strategic Policy---
+(iv) Chairperson’s report - Community, Leisure and Emergency Services Strategic Policy
+---
 9
 
 Committee Meeting held on 6th July, 2016; (iv) Chairperson’s report – Economic
@@ -684,7 +692,8 @@ Tourism, Leisure and Urban Renewal
 
 Circulated, report of the A/Director, Social Development, dated 16th September,
 
-2016, setting out proposals for Tourism, Leisure and Urban Renewal Projects.---
+2016, setting out proposals for Tourism, Leisure and Urban Renewal Projects.
+---
 10
 
 The A/Director, Social Development Directorate, in his report stated that Limerick
@@ -757,7 +766,8 @@ Proposed by Councillor McCreesh;
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 11
 
 “That, the approval of the Council be and is hereby given to application for sanction
@@ -836,7 +846,8 @@ Techniques to be held in Clonakilty, Co. Cork, from 23rd to 25th September, 2016
 
 National Road and Rail Infrastructure Conference 2016 to be held in Dún Laoghaire, Co.
 
-Dublin, on 20th October, 2016.---
+Dublin, on 20th October, 2016.
+---
 12
 
 On the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), it was
@@ -899,7 +910,8 @@ Horses Seized: 141
 
 Horses Reclaimed: 12
 
-Horses Re-Homed: 8---
+Horses Re-Homed: 8
+---
 13
 
 (ii)
@@ -982,7 +994,8 @@ Council’s ownership in appropriate locations; assess their potential; and
 
 when they are likely to be developed in line with the targets set out in the
 
-Social Housing Strategy 2020. The methodology outlined in the ASH selected---
+Social Housing Strategy 2020. The methodology outlined in the ASH selected
+---
 14
 
 Limerick City and Newcastle West as ‘pilot’ settlements. Further analysis is
@@ -1175,7 +1188,8 @@ Total potential unit yield of sites that have passed Stage A:
 
 Strategic Constraints
 
-359---
+359
+---
 15
 
 As part of the pilot analysis, the ASH identified 2 sites in Newcastle West
@@ -1264,7 +1278,8 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Hourigan, the
 
 Motion was adopted. It was also agreed to refer this Motion to the Home and Social
 
-Development Strategic Policy Committee for further consideration.---
+Development Strategic Policy Committee for further consideration.
+---
 16
 
 11.
@@ -1347,7 +1362,8 @@ Castle outside of these opening times on request. However, the Economic
 
 Development Department will progress talks with the OPW with a view to
 
-extending the opening period to include April and all of September.---
+extending the opening period to include April and all of September.
+---
 17
 
 14.
@@ -1412,7 +1428,8 @@ Mayor declared the Motion defeated.
 
 Correspondence
 
-The Correspondence circulated with the Agenda was taken as read.---
+The Correspondence circulated with the Agenda was taken as read.
+---
 18
 
 CIVIC RECEPTION – MARY IMMAGULATE COLLEGE SENIOR HURLING
@@ -1447,4 +1464,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

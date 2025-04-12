@@ -56,7 +56,8 @@ Mayor Galvin pointed out that he had opened a Book of Condolence on the
 
 Monday and it was his intention to travel to England to the funeral to
 
-represent the people of Limerick.---
+represent the people of Limerick.
+---
 2
 
 Councillor Leddin pointed out that he had been Mayor of Limerick City when
@@ -111,7 +112,8 @@ on behalf of the staff, in paying tribute to Sir Terry Wogan. He referred to his
 
 upbringing in Limerick and to his father’s grocery shop which was located on
 
-the corner of Shannon Street and O’Connell Street.---
+the corner of Shannon Street and O’Connell Street.
+---
 3
 
 On the proposal of Councillor O’Donnell, seconded by Councillor Sheahan (J), it
@@ -130,4 +132,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

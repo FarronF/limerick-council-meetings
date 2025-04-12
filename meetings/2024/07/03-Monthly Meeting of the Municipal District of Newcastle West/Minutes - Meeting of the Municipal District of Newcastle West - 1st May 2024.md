@@ -76,7 +76,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
-such interests were declared.---
+such interests were declared.
+---
 2
 
 3.
@@ -157,7 +158,8 @@ Support Services Directorate
 
 To Receive Update on the Voter Registration Process.
 
-The Cathaoirleach welcomed the Administrative Officer and Staff Officer to the Meeting.---
+The Cathaoirleach welcomed the Administrative Officer and Staff Officer to the Meeting.
+---
 3
 
 The Staff Officer gave a presentation to the Members. She stated that the total Local
@@ -236,7 +238,8 @@ and Ortec, new Primary Health Care Centre in 2020
 
  20 Small and Medium Enterprises supported in the Newcastle West Municipal District
 
-€398,076 in grants approved by the LEO---
+€398,076 in grants approved by the LEO
+---
 4
 
  National Enterprise Awards 2023 and Student Enterprise Programme 2022/2023 –
@@ -315,7 +318,8 @@ air, water, food, materials, medicines, health benefits and recreation. She stat
 
 biodiversity also supports pollination and soil fertility, regulates climate and is a protection
 
-from extreme weather and other effects of climate change.---
+from extreme weather and other effects of climate change.
+---
 5
 
 She made reference to the 4th National Biodiversity Action Plan and that each Local Authority
@@ -390,7 +394,8 @@ allocate €3,000 to Clounleharde Massacre Memorial Committee.
 
 On the proposal of Councillor Sheahan, seconded by Councillor Ruddle, it was agreed to
 
-allocate €2,000 to Roads Section, Newcastle West, for drainage works.---
+allocate €2,000 to Roads Section, Newcastle West, for drainage works.
+---
 6
 
 On the proposal of Councillor Sheahan, seconded by Councillor Ruddle, it was agreed to
@@ -457,7 +462,8 @@ Question submitted by Councillor L. Galvin
 
 ***investment have each of the Districts spent on private operators opening water tables in***
 
-***2023 (d) who inspects that all the above works are done correctly.***---
+***2023 (d) who inspects that all the above works are done correctly.***
+---
 7
 
 REPLY:
@@ -554,7 +560,8 @@ as follows:
 
 • 22nd of Sept 23 St Mary's Road N21 Ncw.
 
-• 26th of Sept 23 St Mary's Road N21 Ncw.---
+• 26th of Sept 23 St Mary's Road N21 Ncw.
+---
 8
 
 • 3rd Oct 23 St Mary's Road N21 Ncw.
@@ -617,7 +624,8 @@ Ardagh
 
 All roadworks in the District that are carried out in the Newcastle West District are
 
-inspected by Foremen, Senior Supervisors, Technicians and Engineers.---
+inspected by Foremen, Senior Supervisors, Technicians and Engineers.
+---
 9
 
 9.
@@ -746,7 +754,8 @@ DS-165-20
 
 Church Street, Abbeyfeale
 
-On Derelict Sites Register---
+On Derelict Sites Register
+---
 10
 
 DS-137-20
@@ -919,7 +928,8 @@ Main Street, Abbeyfeale
 
 **4.Cases where there is development by LCCC through the Rural Limerick Housing**
 
-**Development (RLHD) Programme**---
+**Development (RLHD) Programme**
+---
 11
 
  DS-042-18
@@ -1026,7 +1036,8 @@ This project will be sent to the NTA office as a potential scheme for the future
 
 as the NTA projects in the Schedule of Municipal District Works 2024 have
 
-already been approved.---
+already been approved.
+---
 12
 
 12.
@@ -1091,7 +1102,8 @@ speeding and to the importance of having average speed cameras put in place in t
 
 The Motion was seconded by Councillor Foley.
 
-REPLY:---
+REPLY:
+---
 13
 
 Commercial rates are legally payable on all commercial properties. A Vacant Property
@@ -1164,7 +1176,8 @@ reviewed on completion of the Limerick Transport Plan and updated as necessary.
 
 17. Notice of Motion submitted by Councillor T. Ruddle
 
-***I will move at the next Meeting that*** ***the Council consider purchasing extra ground off***---
+***I will move at the next Meeting that*** ***the Council consider purchasing extra ground off***
+---
 14
 
 ***Nash's Lane to provide more badly needed parking for the*** ***t**own.***
@@ -1229,7 +1242,8 @@ An update was sought on the current system of payment of car parking in the town
 
 replying, the Meetings Administrator stated that park magic is in operation in the town and
 
-signage will be in place shortly.---
+signage will be in place shortly.
+---
 15
 
 A discussion took place on the contractor Enerveo who are currently contracted by the
@@ -1298,5 +1312,7 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
-16---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
+16
+---

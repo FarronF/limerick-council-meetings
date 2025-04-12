@@ -62,7 +62,8 @@ in writing.
 
 *Quarter”.*
 
-In the absence of Cllr E. O’Donovan, this item was deferred to the next meeting of the SPC.---
+In the absence of Cllr E. O’Donovan, this item was deferred to the next meeting of the SPC.
+---
 **Item 3:**
 
 **Presentation on Shannon Foynes Port** **–** **Jerry Hallissey, Head of Business Development**
@@ -169,7 +170,8 @@ on the framework, including The University of Limerick, Arthur’s Quay Shopping
 
 and the owner of the Debenhams building. The Council is currently seeking tenders for a multi-
 
-disciplinary team to prepare a Framework Plan for the area. In advance of full development, the---
+disciplinary team to prepare a Framework Plan for the area. In advance of full development, the
+---
 council is considering some meanwhile uses of some of the area, specifically Honan’s Quay/ rear of
 
 UL and Kings Island Green.
@@ -270,7 +272,8 @@ Funding from Failte Ireland is for the city only but they may look at other vill
 
 at a later stage and any opportunity for signage in county towns will be taken up.
 
-**Item 6**---
+**Item 6**
+---
 **Nomination of Sectoral Interest to LECP Advisory Group**
 
 The Limerick PPN have nominated Brian Thompson as their representative on the LECP Advisory
@@ -293,4 +296,5 @@ Cllr. Stephen Keary asked if there had been a response from the Minister to his 
 
 Director of Service Economic Development and Enterprise, confirmed that the notice went to the
 
-Minister but no response has been received to date.---
+Minister but no response has been received to date.
+---

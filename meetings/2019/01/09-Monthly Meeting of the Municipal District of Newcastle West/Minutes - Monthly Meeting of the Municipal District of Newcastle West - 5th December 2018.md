@@ -82,7 +82,8 @@ And Resolved:
 
 Circulated, copy of draft Minutes of Special Meeting of the Municipal District of
 
-Newcastle West on Housing developments held on 21st November, 2018.---
+Newcastle West on Housing developments held on 21st November, 2018.
+---
 2
 
 Proposed by: Councillor Collins
@@ -151,7 +152,8 @@ November, 2018, concerning proposal to dispose of land at Devon Road, Templeglan
 
 Limerick, to Teresa Mahony Dee.
 
-Members noted the proposal.---
+Members noted the proposal.
+---
 3
 
 4.
@@ -222,7 +224,8 @@ Shannon International, for the presentation and supported the idea of a tourism 
 
 Director stated that the development of this Hub could be further explored with
 
-organisations within the town to secure a Summer 2019 opening.---
+organisations within the town to secure a Summer 2019 opening.
+---
 4
 
 6.
@@ -295,7 +298,8 @@ Ireland”.
 
 The Members approval was now being sought to proceed with the adoption of Special Speed
 
-Limit Bye-Laws, in accordance with the guidelines.---
+Limit Bye-Laws, in accordance with the guidelines.
+---
 5
 
 The Members raised concerns on some of the proposed speed limits as follows:
@@ -366,7 +370,8 @@ Galvin that the remainder of the Agenda with regard to Questions 9 to 14 on the 
 
 Notices of Motion 15 to 16 on the Agenda be deferred to the January Meeting of the
 
-Municipal District of Newcastle West.---
+Municipal District of Newcastle West.
+---
 6
 
 The following items were also raised.
@@ -411,4 +416,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

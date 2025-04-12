@@ -62,7 +62,8 @@ Engineer (J.B.O’Callaghan) who submitted the applications for the bus shelters
 
 An Cathaoirleach also requested that consideration be given to additional bus shelters in the
 
-2024 submission.---
+2024 submission.
+---
 Councillor Donegan wished that the suggestion for travelling to Boston to represent the
 
 Municipal District and the connection with Bruff and the Kennedy family be added to the
@@ -127,7 +128,8 @@ planning unit in the development of the plan, and the planning staff thanked the
 
 Members for their contribution.
 
-6. General Municipal Allocation---
+6. General Municipal Allocation
+---
 The Community Grants and Roads/Tourism Projects nominated by the Elected Members
 
 were presented to the meeting, and were unanimously agreed.
@@ -182,7 +184,8 @@ order of €40,000 per annum. The cost of such a facility would have to be sourc
 
 existing Council budget and if approved would result in funding being reallocated from
 
-other essential Council services such as the maintenance of roads, housing, parks, etc.---
+other essential Council services such as the maintenance of roads, housing, parks, etc.
+---
 ***A discussion took place on the costs associated with providing and operating/maintaining***
 
 ***a public toilet. A query was raised as to whether a pilot scheme could be used to introduce***
@@ -237,7 +240,8 @@ Any Other Business
 
 **Meetings**
 
-o The Meetings administrator requested potential dates for the following meetings:---
+o The Meetings administrator requested potential dates for the following meetings:
+---
  Briefing by Sergeant Ber Leetch on Personal Safety for the Elected Members
 
 (suggested 4th May)
@@ -308,7 +312,8 @@ The Elected Members wished Robert Gallagher well on his retirement and thanked T
 
 McKechnie for his work. They wished him well in his acting position in the coming 3
 
-months.---
+months.
+---
 Next Meeting
 
 The next meeting of the Cappamore Kilmallock Municipal District will be held on Thursday
@@ -319,4 +324,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

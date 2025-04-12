@@ -70,7 +70,8 @@ Council at their next meeting.
 
 **COMMUNITY, LEISURE AND EMERGENCY SERVICES STRATEGIC POLICY**
 
-**COMMITTEE**---
+**COMMITTEE**
+---
 **Item 4:**
 
 **Presentation on National Physical Activity Plan, Get Ireland Walking, Phase 1 of**
@@ -129,4 +130,5 @@ Minutes Proposed By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Minutes Seconded By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

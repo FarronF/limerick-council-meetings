@@ -58,7 +58,8 @@ In accordance with Section 177 of the Local Government Act, 2001 (as amended) Co
 
 removed himself from the meeting, declaring that a family member was the owner of land in the
 
-area.---
+area.
+---
 The Director of Planning, Environment and Place-Making, advised the Members that this meeting
 
 was called to consider the proposed Material Alterations of the Draft Patrickswell Local Area Plan
@@ -101,7 +102,8 @@ lands to the east of the village (which benefits from a grant of permission) are
 
 proximity to the motorway, remote from the village and without pedestrian infrastructure.
 
-(Image omitted)---
+(Image omitted)
+---
 Members sought clarification on various aspects of the proposed amendment to the Draft
 
 Patrickswell Local Area Plan, and what the process was if the proposed amendment was
@@ -170,7 +172,8 @@ The Mayor then directed that a vote be taken on the proposal to defer the meetin
 
 and the result of the vote was as follows:
 
-**In Favour:**---
+**In Favour:**
+---
 Councillors Butler, Egan, Galvin, Hartigan, Keary, Kiely, Mitchell, Murphy, Novak Uí Chonchúir,
 
 O’Donovan, O’Sullivan, Sheahan (J), Sheahan (M), Teskey **(14)**
@@ -225,7 +228,8 @@ the Patrickswell Local Area Plan is made inclusive of Site No. 17 of the Settlem
 
 provided in the Material Alterations report at Ballyhanrahan East, to provide a ‘Serviced Sites’ zoning
 
-on the subject lands.”---
+on the subject lands.”
+---
 This concluded the meeting.
 
 Signed:
@@ -236,4 +240,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

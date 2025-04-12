@@ -78,7 +78,8 @@ committee of SPC to review how the Council could best engage with this process.
 
 The notice of motion was proposed by Cllr. Sheehy and seconded by Cllr. Collins.
 
-The members discussed the merits of the Motion.---
+The members discussed the merits of the Motion.
+---
 Josephine Cotter Coughlan informed the meeting that the HSE appointed Suicide Prevention
 
 Officer for the Mid-West Area is Mr Martin Ryan. His office is in the process of beginning
@@ -157,7 +158,8 @@ Next Steps:
 
 Registration is to re-open in November 2015.
 
-PPN.ie communication platform will be launched.---
+PPN.ie communication platform will be launched.
+---
 Resource worker finalised and appointed in December.
 
 Nominations and elections to fill SPC, JPC and LCDC seats to be completed by year end.
@@ -236,7 +238,8 @@ Josephine Cotter-Coughlan, Director of Service, and wished her well in her new r
 
 Director with responsibility for Customer Service. The Chair thanked Josephine for her
 
-assistance to him in his role as Chair both currently and in previous SPCs.---
+assistance to him in his role as Chair both currently and in previous SPCs.
+---
 Ms Cotter-Coughlan thanked the members for their dedication, and thanked the staff in her
 
 Directorate for their support over the years.
@@ -253,4 +256,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

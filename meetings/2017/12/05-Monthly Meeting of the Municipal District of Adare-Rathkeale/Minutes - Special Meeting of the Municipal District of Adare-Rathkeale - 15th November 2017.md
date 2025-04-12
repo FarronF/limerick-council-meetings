@@ -64,7 +64,8 @@ Proposed by Councillor Teskey;
 
 Seconded by Councillor O’Donoghue;
 
-And Resolved:---
+And Resolved:
+---
 2
 
 That the proposed development, as set out in the Chief Executives Report be varied to
@@ -89,4 +90,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

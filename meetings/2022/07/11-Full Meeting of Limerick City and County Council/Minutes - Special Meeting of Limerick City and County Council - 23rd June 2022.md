@@ -70,7 +70,8 @@ present, and raised concerns over the lack of emergency accommodation available 
 
 Limerick. They went on to say that many people fall outside the threshold for housing support
 
-but find it difficult to obtain a mortgage, stating action needs to be taken to address this.---
+but find it difficult to obtain a mortgage, stating action needs to be taken to address this.
+---
 2
 
 Members queried the delays in certain projects. They asked the Executive if anything can be
@@ -137,7 +138,8 @@ Members raised concerns in relation to the risks associated with the uses of AHB
 
 executive agreed to add an agenda item to the July Full Council Meeting on affordable
 
-housing.---
+housing.
+---
 3
 
 Signed:
@@ -148,4 +150,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

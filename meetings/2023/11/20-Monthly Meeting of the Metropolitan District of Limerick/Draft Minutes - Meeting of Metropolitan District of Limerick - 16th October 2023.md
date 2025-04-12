@@ -68,7 +68,8 @@ of Limerick, which had been discussed at a Workshop earlier, if approved by the 
 
 be included in the main budget for the Council.
 
-The proposed breakdown was outlined as follows:---
+The proposed breakdown was outlined as follows:
+---
 2
 
 **Svc**
@@ -189,7 +190,8 @@ And Resolved:
 
 (b) Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan District of
 
-Limerick held on 18th September, 2023.---
+Limerick held on 18th September, 2023.
+---
 3
 
 Proposed by Councillor Slattery;
@@ -258,7 +260,8 @@ The report, as circulated, was noted by Members.
 
 proposals for disposal of 27 Assumpta Park, Limerick, Regeneration House Exchange, and the
 
-intention to bring a Section 183 Notice to Full Council in this regard, for approval.---
+intention to bring a Section 183 Notice to Full Council in this regard, for approval.
+---
 4
 
 The report, as circulated, was noted by Members.
@@ -325,7 +328,8 @@ Members welcomed the proposed development which would introduce improved safety 
 
 to the area and in particular for Scoil Ide. Members thanked the Active Travel Team for their work
 
-on the project.---
+on the project.
+---
 5
 
 **(b)Taking-in-Charge of Estates - Declaration of Roads to be Public Roads**
@@ -406,7 +410,8 @@ adequate parking available within a short walking distance of the village core.
 
 and the Active Travel / NTA funded scheme. However, Active Travel will engage with the
 
-Operations / Placemaking Departments to ensure this commitment is acted on.---
+Operations / Placemaking Departments to ensure this commitment is acted on.
+---
 6
 
 **e)** There is no legal definition of material changes, it is interpreted on a case-by-case basis.
@@ -465,7 +470,8 @@ permeable paving to the community centre plaza area (separate planning), extensi
 
 road upgrades to include access road to the graveyard, surfacing of the existing carpark at
 
-Marian Park and adjustments to drainage and paving within previous Phase 1 area---
+Marian Park and adjustments to drainage and paving within previous Phase 1 area
+---
 **Patrickswell Phase 2** **Parking Review**
 
 **Location**
@@ -622,7 +628,8 @@ A bus-stop has been provided at this location and at detailed design the
 
 requirements for distance from junction and sightline were addressed. These
 
-resulted in design amendments, which reduced parking by 2 spaces.---
+resulted in design amendments, which reduced parking by 2 spaces.
+---
 8
 
 Ch 350 -
@@ -667,7 +674,8 @@ Overall Change
 
 vehicles.
 
-# From Construction Drawings Rev A---
+# From Construction Drawings Rev A
+---
 **7.Question submitted by Councillor D. McSweeney**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick, following the commitment***
@@ -738,7 +746,8 @@ regularly maintain when required.
 
 ***and the Roads Department consider funding for Knockea National School so a safe route to school***
 
-***can be provided to the children and parents attending the school.***---
+***can be provided to the children and parents attending the school.***
+---
 10
 
 **REPLY:** The Safe Routes to School Programme was launched in March 2021 and every school in
@@ -809,7 +818,8 @@ area over the period 2019 – 2023.
 
 ***authorities plans to upgrade O'Dwyer Bridge on Athlunkard Street and if a bridge restoration***
 
-***grant has been applied for.***---
+***grant has been applied for.***
+---
 11
 
 **REPLY:** Limerick City and County Council Road’s Department has recently acquired funding to
@@ -884,7 +894,8 @@ We have identified two potential sites in Council ownership directly behind the 
 
 Shopping Centre and adjacent to both primary and secondary schools. The identification
 
-of a site is a key milestone in advancing this important project.---
+of a site is a key milestone in advancing this important project.
+---
 12
 
 Further progress will be set in the context of available funding both Local and National,
@@ -961,7 +972,8 @@ night to minimise disruption and the cleaning of debris by the contractor normal
 
 place in the following days during daylight hours.
 
-The Council’s contractor has returned to the Raheen area and has removed the debris---
+The Council’s contractor has returned to the Raheen area and has removed the debris
+---
 13
 
 associated with their works. The contractor will be reminded to ensure that debris is
@@ -1064,7 +1076,8 @@ EAST SINGLAND ROAD, GARYOWEN
 
 1
 
-(Image omitted)---
+(Image omitted)
+---
 14
 
 ELLEN STREET
@@ -1249,7 +1262,8 @@ SEXTON STREET NORTH
 
 SIR HARRYS MALL
 
-3---
+3
+---
 15
 
 THE BISHOPS QUAY
@@ -1410,7 +1424,8 @@ OLD CLARE STREET
 
 Plan is currently being prepared and is anticipated to be published for public consultation
 
-in early November for a period of 6 weeks.---
+in early November for a period of 6 weeks.
+---
 16
 
 **24.Question submitted by Councillor S. Novak Uí Chonchúir**
@@ -1523,7 +1538,8 @@ carried out in conjunction with an appointed service provider(s) where feasible.
 
 will revert with an update as soon as we have completed a detailed review on whether such
 
-a basis can be justified.---
+a basis can be justified.
+---
 17
 
 **26.Question submitted by Councillor S. Benson**
@@ -1608,7 +1624,8 @@ is considered on a case-by-case basis in respect of any new applications receive
 
 throughout the year. The ability to accommodate additional works will be dependent on
 
-the scope and complexity of the works (and the needs of the applicant).---
+the scope and complexity of the works (and the needs of the applicant).
+---
 18
 
 **NOTICES OF MOTION**
@@ -1677,7 +1694,8 @@ The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor
 
 agreed.
 
-In proposing the Motion, Councillor Slattery referred to the importance of the community policing---
+In proposing the Motion, Councillor Slattery referred to the importance of the community policing
+---
 19
 
 unit to the city. Members supported the motion and agreed it was essential that the community
@@ -1744,7 +1762,8 @@ It was agreed to refer this Notice of Motion to the Local Electoral Area Briefin
 
 **36.Notice of Motion submitted by Councillor S. Novak Uí Chonchúir (to be referred to the Climate**
 
-**Action, Biodiversity and Environment Strategic Policy Committee)**---
+**Action, Biodiversity and Environment Strategic Policy Committee)**
+---
 20
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Council liaise***
@@ -1805,4 +1824,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

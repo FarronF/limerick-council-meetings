@@ -29,7 +29,8 @@ out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -84,5 +85,7 @@ scale implementation for the full rollout of the BusConnects project.
 
 **3.Limerick City Centre Transport Plan Update:**
 
-**4.Presentation of the Active Travel Interactive Map - Toby Goodwin**---
-3---
+**4.Presentation of the Active Travel Interactive Map - Toby Goodwin**
+---
+3
+---

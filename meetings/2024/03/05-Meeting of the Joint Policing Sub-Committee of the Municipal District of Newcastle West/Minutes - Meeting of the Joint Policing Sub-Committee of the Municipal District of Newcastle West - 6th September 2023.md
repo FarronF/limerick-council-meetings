@@ -76,7 +76,8 @@ Seconded by: Councillor Scanlan
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2. Policing Issues in the District
@@ -149,7 +150,8 @@ plan to be put in place over the Halloween period. He stated that the Gardaí wi
 
 plan under the nationwide Operation Tombolo which is focused on the prevention and detection
 
-of the sale of fireworks and associated public order and anti-social behaviour issues during the---
+of the sale of fireworks and associated public order and anti-social behaviour issues during the
+---
 3
 
 Halloween period. He stated that resources will be made available which will include one
@@ -210,7 +212,8 @@ four to a five unit roster in November.
 
 The Cathaoirleach and Members acknowledged the work of An Garda Síochána and thanked the
 
-Superintendent and the Gardaí on the overview of policing matters in the District.---
+Superintendent and the Gardaí on the overview of policing matters in the District.
+---
 4
 
 This concluded the Meeting.
@@ -219,4 +222,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

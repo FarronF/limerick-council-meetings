@@ -82,7 +82,8 @@ Seconded by Councillor Ryan;
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 Arising from the Minutes of Adjourned Meeting of the Council held on 23rd March,
@@ -153,7 +154,8 @@ Disposal of Land
 
 Circulated, copy of Statutory Notice dated 27th April, 2016, concerning disposal of
 
-land at Rathmale, Mungret, Co. Limerick.---
+land at Rathmale, Mungret, Co. Limerick.
+---
 3
 
 Proposed by Councillor Collins (M);
@@ -234,7 +236,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, the approval of the Council be and is hereby given to the disposal of 2 areas of
@@ -307,7 +310,8 @@ Keary, seconded by the Mayor, it was agreed to forward a letter of thanks to the
 
 Forces for their contribution, support and participation in the various ceremonies.
 
-The Chief Executive’s Reports were noted by the Members.---
+The Chief Executive’s Reports were noted by the Members.
+---
 5
 
 (d)
@@ -378,7 +382,8 @@ West Limerick Resources
 
 Circulated, correspondence dated 11th May, 2016, from the Manager, West Limerick
 
-Resources.---
+Resources.
+---
 6
 
 The nomination of 2 Members of the Council to the Board of West Limerick
@@ -449,7 +454,8 @@ in the ICT infrastructure.
 
 • €3m legacy insurance commitments now fully provided for.
 
-He then gave an analysis of over-expenditure by Service and outlined the following:---
+He then gave an analysis of over-expenditure by Service and outlined the following:
+---
 7
 
 • Comparison of actual versus budget for 2015 and identifying services where actual
@@ -540,7 +546,8 @@ significant variance in Revenue expenditure.
 
 • Legacy claims - still outstanding claims but these had now been provided for in the
 
-accounts.---
+accounts.
+---
 8
 
 • Decrease in loan financing as loans were not drawn down last year. In addition, loans
@@ -617,7 +624,8 @@ Circulated, report of the Senior Executive Officer, Corporate Services, dated 10
 
 May, 2016, together with copy of Charter for Limerick City and County Council’s Audit
 
-Committee.---
+Committee.
+---
 9
 
 The report stated that Section 8 of the Local Government (Audit Committee)
@@ -692,7 +700,8 @@ Committee) Regulations, 2014, the Audit Committee was required to prepare a repo
 
 detailing its considerations and findings for the year just expired in relation to all matters
 
-within its authority, duties and functions and send same to the Local Authority for---
+within its authority, duties and functions and send same to the Local Authority for
+---
 10
 
 consideration. As the inaugural meeting of the Audit Committee was held in December
@@ -759,7 +768,8 @@ to host a Civic Reception on Tuesday, 14th June, 2016, at 6pm in the Council Off
 
 Dooradoyle, to honour the Religious Orders in Limerick which came under the auspices of
 
-the Diocese of Cashel and Emly.---
+the Diocese of Cashel and Emly.
+---
 11
 
 4.
@@ -830,7 +840,8 @@ capacity to deliver the project. The indicative budget for Limerick as the Europ
 
 Culture was €37m over 5 years. Formal approval from the Council was being sought to
 
-proceed with the submission of the Limerick 2020 bid for European Capital of Culture.---
+proceed with the submission of the Limerick 2020 bid for European Capital of Culture.
+---
 12
 
 The Director and Deputy Director, Limerick 2020 Bid Team, responded to queries
@@ -901,7 +912,8 @@ Eighty-two projects with a value of €27.8m had been put forward for considerat
 
 for funding. The Council was in a position to allocate funding to 30 projects/initiatives. The
 
-criteria for assessment of projects included: meeting the City/County split, and---
+criteria for assessment of projects included: meeting the City/County split, and
+---
 13
 
 apportioning the funds across the Transport, Recreation/Amenity, and Community/Ancillary
@@ -970,7 +982,8 @@ transformation of Limerick. In that regard, there remained an urgent need to mov
 
 identify viable uses and advance movement on the remaining strategic locations: Cleeves
 
-Site, Colbert Station Phase ll, Opera Site and the Georgian area.---
+Site, Colbert Station Phase ll, Opera Site and the Georgian area.
+---
 14
 
 It was recommended that the LCO Enterprise Development Company be requested
@@ -1043,7 +1056,8 @@ Proposed by Councillor Ryan;
 
 Seconded by Councillor Scanlan;
 
-And Resolved:---
+And Resolved:
+---
 15
 
 “That, in addition to the Local Authority Members on the LCDC (namely, Councillors
@@ -1154,7 +1168,8 @@ Members: (a) Conference on The Value of Local Government held in Wexford from 11
 
 13th March, 2016; (b) Conference on the Seanad and the Councillor held in Wexford on
 
-15th/16th April, 2016; (c) Open House Information Session on Lobbying Regulation held in---
+15th/16th April, 2016; (c) Open House Information Session on Lobbying Regulation held in
+---
 16
 
 Dublin on 19th April, 2016; (d) Conference on 2014 Freedom of Information Act and W.R.C.
@@ -1225,7 +1240,8 @@ cancel all outstanding bills and to refund those who had paid. He added that the
 
 water charges was not over and pointed out that over 1 million households were in arrears.
 
-The Motion was seconded by Councillor Keller.---
+The Motion was seconded by Councillor Keller.
+---
 17
 
 Councillor Sheahan (J) proposed the following Motion and this was seconded by
@@ -1298,7 +1314,8 @@ commercial properties. Limerick went through a rates revaluation process
 
 during 2014 with the new valuations taking effect from 1st January, 2015.
 
-These valuations will form the basis for commercial rates in Limerick for---
+These valuations will form the basis for commercial rates in Limerick for
+---
 18
 
 current and subsequent years. As the revaluation has only recently been
@@ -1371,7 +1388,8 @@ Corbally Flood Mitigation Measures: An application for €500,000 was
 
 submitted to the Office of Public Works for funding for this scheme in 2015
 
-and we await a response from the Office of Public Works.---
+and we await a response from the Office of Public Works.
+---
 19
 
 Browns Quay Flood Mitigation Measures: An application for €320,000 was
@@ -1446,7 +1464,8 @@ I will ask at the next Meeting when Limerick City and County Council is going to
 
 waste bye-laws for City and County for the purpose of regulating and controlling the early
 
-morning collection of waste.---
+morning collection of waste.
+---
 20
 
 REPLY:
@@ -1523,7 +1542,8 @@ REPLY:
 
 Councillors were previously notified of the membership of the Limerick
 
-Economic Forum, details as set out hereunder:---
+Economic Forum, details as set out hereunder:
+---
 21
 
 • Denis Brosnan, Chairman.
@@ -1600,7 +1620,8 @@ Councillor Butler, in seconding the Motion, said that any information to educate
 
 people in the dangers of taking drugs was to be welcomed.
 
-The Motion was agreed.---
+The Motion was agreed.
+---
 22
 
 17.
@@ -1673,7 +1694,8 @@ for Health, Simon Harris, TD, to appoint a Consultant to the Infectious Diseases
 
 University Hospital Limerick and to ensure that those infected with the Hepatitis C virus
 
-can get adequate Infectious Disease assessment and treatment here in Limerick.---
+can get adequate Infectious Disease assessment and treatment here in Limerick.
+---
 23
 
 In proposing the Motion, Councillor Loftus stated that while there were facilities at
@@ -1740,7 +1762,8 @@ the Council’s support in writing to the Minister for Health and the HSE asking
 
 provide this training.
 
-The Motion was seconded by Councillor Sheehy and agreed.---
+The Motion was seconded by Councillor Sheehy and agreed.
+---
 24
 
 23.
@@ -1809,7 +1832,8 @@ The Motion was supported by the Council.
 
 As the Mayor had to leave the Meeting at this point, the Deputy Mayor, Councillor
 
-Mitchell, took the Chair for the remainder of the Meeting.---
+Mitchell, took the Chair for the remainder of the Meeting.
+---
 25
 
 25.
@@ -1880,7 +1904,8 @@ In proposing the Motion, Councillor McCreesh called on the Minister for Transpor
 
 buy back the Shannon Tunnel and make it a toll free route. He added that, in theory, the
 
-Tunnel was a great idea, it was a great way to avoid the city but that people were still---
+Tunnel was a great idea, it was a great way to avoid the city but that people were still
+---
 26
 
 coming through the city to avoid the toll. Councillor McCreesh stated that the 30-year
@@ -1953,7 +1978,8 @@ Members also referred to the system of referring Motions to the various Strategi
 
 Policy Committees and said that an amendment had previously been made to the Standing
 
-Orders for Strategic Policy Committees so that Meetings would be held two weeks in---
+Orders for Strategic Policy Committees so that Meetings would be held two weeks in
+---
 27
 
 advance of bi-monthly Council Meetings so as to accommodate Motions that had been
@@ -1994,4 +2020,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

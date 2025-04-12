@@ -72,7 +72,8 @@ The Draft Socio Economic Statement and High Level Goals went to public consultat
 
 and 18 submissions had been received. Following a review of the submissions the Draft
 
-was amended. He outlined that the main changes to the Socio Economic Statement and---
+was amended. He outlined that the main changes to the Socio Economic Statement and
+---
 2
 
 High Level Goals document were at Sections 1.4.2 (pages 11 to 21 inclusive) which
@@ -155,7 +156,8 @@ Question submitted by Councillor L. Galvin
 
 ***Friday, 11**th*** ***September, 2015 and Sunday, 13**th*** ***September, 2015 at the following***
 
-***locations:***---
+***locations:***
+---
 3
 
 ***(1) Church Road, Templeglantine.***
@@ -240,7 +242,8 @@ Question submitted by Councillor L. Galvin
 
 Meeting to be arranged on site with relevant persons by Roads Engineer
 
-in order to investigate this matter.---
+in order to investigate this matter.
+---
 4
 
 A discussion ensued regarding Standing Orders and in particular regarding the
@@ -313,7 +316,8 @@ p.m. to 7.30 p.m.The dredging of rivers is not under the jurisdiction of the
 
 Council and therefore the Council are not in a position to carry out works
 
-in this case.---
+in this case.
+---
 5
 
 As agreed at the beginning of the Meeting, the following items were taken in committee:
@@ -368,4 +372,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cathaoirleach**
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

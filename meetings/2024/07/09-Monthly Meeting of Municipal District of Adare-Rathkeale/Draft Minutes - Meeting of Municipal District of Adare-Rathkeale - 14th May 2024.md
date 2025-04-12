@@ -70,7 +70,8 @@ Councillor Sheahan raised the matter of Askeaton Swimming Pool and misinformatio
 
 regarding the proposed upgrade works and completion date of same which had been
 
-circulated in the Askeaton area.---
+circulated in the Askeaton area.
+---
 2
 
 **2.**
@@ -145,7 +146,8 @@ is provided by the Traveller Accommodation Programme for Traveller-specific
 
 accommodation such as halting site accommodation and in agreement with the current
 
-tenants in Hillview Halting Site. The A/Senior Executive Officer, Traveller Accommodation---
+tenants in Hillview Halting Site. The A/Senior Executive Officer, Traveller Accommodation
+---
 3
 
 Unit concluded the proposed development may go to Part 8 Planning in the coming weeks
@@ -214,7 +216,8 @@ Climate Action to the Meeting.
 
 Following discussion on grass cutting in Rathkeale, the following issues were raised by
 
-Members:---
+Members:
+---
 4
 
  Councillor Teskey stated St. Mary’s Park, Rathkeale green area is neglected and
@@ -287,7 +290,8 @@ On the proposal of Councillor Collins, seconded by Councillor O’Donoghue it wa
 
 to allocate the following:
 
- €1,000 to Adare Soccer Club.---
+ €1,000 to Adare Soccer Club.
+---
 5
 
  €1,500 to Ballyhahill Development Association.
@@ -364,7 +368,8 @@ allocate the following:
 
  €500 to Rathkeale Music Club.
 
- €600 to Kilcornan Soccer Club.---
+ €600 to Kilcornan Soccer Club.
+---
 6
 
  €500 to Rathkeale Scout Group 3rd Limerick.
@@ -441,7 +446,8 @@ undertake maintenance works along the N21 Traffic Calming at Croagh.
 
 **compensation paid out by Limerick City and County Council to date for car damage**
 
-**due to potholes or poor road surface.**---
+**due to potholes or poor road surface.**
+---
 7
 
 **Reply:**
@@ -546,7 +552,8 @@ funding.
 
 **I move at the next Meeting that Limerick City and County Council carry out a safety audit**
 
-**at Kilfinny Cross with a view to making it safer for pedestrians.**---
+**at Kilfinny Cross with a view to making it safer for pedestrians.**
+---
 8
 
 The Motion was proposed by Councillor Teskey, seconded by Councillor O’Brien and
@@ -621,7 +628,8 @@ In proposing the Motion Councillor Sheahan stated his Motion would have to be
 
 referred to the next Full Meeting of Limerick City and County Council, recommending a
 
-policy change to the calculation of social housing rents at the next estimates Meeting.---
+policy change to the calculation of social housing rents at the next estimates Meeting.
+---
 9
 
 Councillor Sheahan is calling for the removal of Carers Allowance when calculating the
@@ -666,4 +674,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

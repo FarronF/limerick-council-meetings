@@ -66,7 +66,8 @@ Seconded by Councillor Sheahan (M);
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.
+---
 2
 
 **2.Disposal of Land**
@@ -135,7 +136,8 @@ The report, as circulated, was noted by Members.
 
 setting out details of proposed Disposal of Property at Ballyclough Avenue, Castletroy, Limerick
 
-and the intention to bring a Section 183 Notice to Full Council in this regard, for approval.---
+and the intention to bring a Section 183 Notice to Full Council in this regard, for approval.
+---
 3
 
 The report, as circulated, was noted by Members.
@@ -250,7 +252,8 @@ in accordance with Section 179 3(a) of the Planning and Development Act 2000 (as
 
 Part 8 of the Planning and Development Regulations, 2001 (as amended) and noted that it was
 
-proposed to proceed in accordance with Section 10 of the report.---
+proposed to proceed in accordance with Section 10 of the report.
+---
 4
 
 The A/Senior Engineer, Active Travel stated that a number of Workshops had taken place in relation
@@ -333,7 +336,8 @@ Sheahan (M), Slattery and Talukder
 
 **Against the Proposal:**
 
-Councillors Collins, Hartigan, Kilcoyne, Leddin, Novak Uí Chonchúir, O’Donovan, Secas and---
+Councillors Collins, Hartigan, Kilcoyne, Leddin, Novak Uí Chonchúir, O’Donovan, Secas and
+---
 5
 
 Sheehan (C)
@@ -408,7 +412,8 @@ contractor to carry out sampling on a monthly basis to monitor the profile of th
 
 parameters discharging to the canal. This monthly sampling will begin in February.
 
-**7.Question submitted by Councillor E. O’Donovan**---
+**7.Question submitted by Councillor E. O’Donovan**
+---
 6
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick as to what mechanisms and***
@@ -481,7 +486,8 @@ ongoing advertising on local radio; (ii) the purchase of promotional dog fouling
 
 distribution to the public at events; to dog owners via renewal licences; to the public by
 
-Environment Inspectors/Park Wardens; (iii) the dispensing of refills for Castletroy Park and---
+Environment Inspectors/Park Wardens; (iii) the dispensing of refills for Castletroy Park and
+---
 7
 
 Newcastle West Demesne; (iv) anti-dog poo stencils and signage; and (v) social media
@@ -554,7 +560,8 @@ Limerick City and County Council will continue to monitor the case.
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for the Council to outline***
 
-***the long-term plans for Donnellan's Field / Thomondgate Weir.***---
+***the long-term plans for Donnellan's Field / Thomondgate Weir.***
+---
 8
 
 **REPLY**: These locations (Donnellan’s Field and Thomondgate Weir) form part of the Shannon
@@ -625,7 +632,8 @@ Details were circulated as part of the reply.
 
 **REPLY:** Limerick City and County Council do not automatically send out application forms with the
 
-reminder letter for Household Waste Refuse Scheme. The reason for this decision is to---
+reminder letter for Household Waste Refuse Scheme. The reason for this decision is to
+---
 9
 
 encourage the usage of the online system. This has many benefits including environmental
@@ -698,7 +706,8 @@ and to Area West on Wednesday 8th June 2022.
 
 ***allows dogs to gain access. Can the local authority close off these gaps to prevent dogs gaining***
 
-***access, as people visiting the graves of their loved ones are extremely frightened of these dogs.***---
+***access, as people visiting the graves of their loved ones are extremely frightened of these dogs.***
+---
 10
 
 **REPLY:** The Council will plant appropriate planting to block off the gaps in the existing hedging at
@@ -775,7 +784,8 @@ scheme area is anticipated to be completed by early autumn 2023. The programme f
 
 potential advance flood protection works to Annacotty is subject to the above and is
 
-currently under review with a view to submitting for planning consent in mid to late 2025.---
+currently under review with a view to submitting for planning consent in mid to late 2025.
+---
 11
 
 Limerick City & County Council has been in recent contact with landowners from the
@@ -852,7 +862,8 @@ which will require a Part 8 approval process. Subject to approval of the Part 8,
 
 for which will commence in March, these works will be included in the Mill Road
 
-Construction Project.---
+Construction Project.
+---
 12
 
 **22.Question submitted by Councillor S. Novak Uí Chonchúir**
@@ -925,7 +936,8 @@ agreed.
 
 In proposing the Motion, Councillor O’Donovan referred to the lack of funding for gritting footpaths
 
-and that these should be prioritised in the future. Members agreed with the Motion, highlighting---
+and that these should be prioritised in the future. Members agreed with the Motion, highlighting
+---
 13
 
 the importance of it and the need for more funding.
@@ -1000,7 +1012,8 @@ introducing a one-way traffic management system on the Fairgreen Road from the
 
 Ballysimon Cresent junction to the St. Patricks Road junction which would include a public
 
-consultation process. This proposal could also cater for a new raised footpath on the---
+consultation process. This proposal could also cater for a new raised footpath on the
+---
 14
 
 Fairgreen Road from Fairview AFC to the St. Patricks Road junction. The delivery of this
@@ -1073,7 +1086,8 @@ agreed.
 
 In proposing the Motion, Councillor Kiely referred to the difficulties and stress caused to families
 
-whose children were not allocated a Secondary School place. She highlighted that there is a need---
+whose children were not allocated a Secondary School place. She highlighted that there is a need
+---
 15
 
 to amend the current application system to ensure all sixth class children are guaranteed a school
@@ -1134,4 +1148,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

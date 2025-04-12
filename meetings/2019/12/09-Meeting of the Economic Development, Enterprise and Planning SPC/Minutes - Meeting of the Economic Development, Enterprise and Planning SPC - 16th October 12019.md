@@ -76,7 +76,8 @@ necessary, and the quorum required for meetings was 8 members.
 
 On the proposition of Cllr. Ryan, seconded by Cllr. Collins, it was unanimously
 
-agreed to adopt the Draft Standing Orders.---
+agreed to adopt the Draft Standing Orders.
+---
 .
 
 **Item 2**
@@ -159,7 +160,8 @@ final RSES.
 
  Prematurity of South Clare SDZ pending development of city centre –
 
-amendments to proposed SDZ not carried.---
+amendments to proposed SDZ not carried.
+---
  MASP fails to set out a clear strategic and co-ordinated approach for the future
 
 growth, development and investment of the Metropolitan Area – to be amended.
@@ -234,7 +236,8 @@ in developing a masterplan for the areas, with the purpose of increasing employm
 
 and residential in the city centre. She stated that the local authority would not have
 
-the financial resources itself to carry out such a masterplan.---
+the financial resources itself to carry out such a masterplan.
+---
 V. Murray informed members that board members from the Land Development
 
 Agency will be convening a meeting in Limerick in the next few weeks to look at
@@ -255,4 +258,5 @@ That concluded the business of the meeting.
 
 **Councillor Stephen Keary**
 
-**Deputy Chairperson**---
+**Deputy Chairperson**
+---

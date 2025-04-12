@@ -34,7 +34,8 @@ Kilmallock held on the 18th February 2021.
 
 Draft Schedule of Municipal District Works (SMDW) 2021
 
-To consider Draft Schedule of Municipal District Works for 2021.---
+To consider Draft Schedule of Municipal District Works for 2021.
+---
 2
 
 (ii)
@@ -97,7 +98,8 @@ additional car parking be provided in Hospital to support the commercial activit
 
 volume of traffic passing through and coming to the town and improve the safety of vehicles
 
-and pedestrians and road users.---
+and pedestrians and road users.
+---
 3
 
 8.Notice of Motion submitted by Councillor Teefy
@@ -154,7 +156,8 @@ I will ask at the next meeting of the Cappamore-Kilmallock Municipal District fo
 
 on works planned for the R512/L1502 junction at Holycross and when is the planned
 
-commencement date.---
+commencement date.
+---
 4
 
 15.Question submitted by Councillor Donegan
@@ -193,4 +196,5 @@ I will ask at the next meeting of the Cappamore-Kilmallock Municipal District fo
 
 on remedial works at the Holy Cross Junctions on the R512, further to my previous
 
-motion.---
+motion.
+---

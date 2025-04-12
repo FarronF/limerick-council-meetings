@@ -68,7 +68,8 @@ The following grouping was nominated:
 
 Councillors Browne, McCreesh, McMahon, Cmhlr Ó Ceallaigh, Quinlivan, Sheehy,
 
-Keller, Loftus, Prendiville, Gilligan.  **(10)**---
+Keller, Loftus, Prendiville, Gilligan.  **(10)**
+---
 2
 
 The Cathaoirleach declared Councillor Browne appointed to the Local
@@ -139,7 +140,8 @@ following:
 
 stamp duty paid or the forthcoming water charges.
 
-• The tax would not be used to pay for local services.---
+• The tax would not be used to pay for local services.
+---
 3
 
 Councillor Quinlivan argued that a 10% improvement in the collection of rates
@@ -214,7 +216,8 @@ reduce the LPT by 15%. In order to protect services and benefit the community, h
 
 proposed an amendment to the original Motion and proposed a reduction of 15%
 
-over 5 years at a rate of 3% per annum to be reviewed annually.---
+over 5 years at a rate of 3% per annum to be reviewed annually.
+---
 4
 
 The Chief Executive advised that, in its current state, the amended Motion
@@ -285,7 +288,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Clifford;
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, in accordance with Section 20 of the Finance (Local Property Tax) Act,
@@ -372,7 +376,8 @@ follows and as set out in the report of the Director dated 20th September. It wa
 
 recommended that they be appointed to the Committee as was prescribed in Section
 
-22 (1) of the Housing (Traveller Accommodation) Act, 1998:---
+22 (1) of the Housing (Traveller Accommodation) Act, 1998:
+---
 6
 
 **Traveller Representatives**
@@ -457,7 +462,8 @@ The report referred to legislation in relation to the extension of certain
 
 Development Plans, namely those in respect of merging Planning Authorities. In
 
-accordance with Section 28 of the Electoral, Local Government and Planning and---
+accordance with Section 28 of the Electoral, Local Government and Planning and
+---
 7
 
 Development Act, 2013, the Planning Authority proposed **not** to commence the
@@ -534,7 +540,8 @@ September, 2014, seeking the Council’s approval to the raising of a loan of �
 
 towards A Cemeteries Development Programme 2014-2015, the details of which
 
-were outlined in the report.---
+were outlined in the report.
+---
 8
 
 The Cathaoirleach stated that he proposed taking his own Motion – Notice of
@@ -607,7 +614,8 @@ and Local Government, the approval of the Council be and is hereby given to the
 
 raising of a loan of €300,000 to finance the Cemeteries Development Programme
 
-2014-2015.”---
+2014-2015.”
+---
 9
 
 8.
@@ -690,7 +698,8 @@ August, 2014; (e) Kennedy Summer School 2014 ‘History Repeats Itself’ held i
 
 Ross, Co. Wexford, from 11th to 13th September, 2014; (f) The 13th Benedict Kiely
 
-Literary Weekend held in Omagh, Co. Tyrone, from 12th to 14th September, 2014; (g)---
+Literary Weekend held in Omagh, Co. Tyrone, from 12th to 14th September, 2014; (g)
+---
 10
 
 Seminar on Social Housing in Ireland held in Dublin from 12th to 14th September,
@@ -765,7 +774,8 @@ Council advertised regarding pending deadlines and this was done
 
 through the media and also by publishing details on the Council
 
-websites.---
+websites.
+---
 11
 
 Guidance issued by the Department of the Environment, Community
@@ -864,7 +874,8 @@ Specials – Community House
 
 For Sale
 
-1---
+1
+---
 12
 
 Occupied
@@ -1011,7 +1022,8 @@ Road Grader
 
 4
 
-95.15/hr---
+95.15/hr
+---
 13
 
 Phoenix Chip Spreader
@@ -1146,7 +1158,8 @@ Municipal District of Newcastle West
 
 **Total:**
 
-**4,203**---
+**4,203**
+---
 14
 
 15.
@@ -1221,7 +1234,8 @@ Councillor Leddin, in proposing the Motion, stated that there was a
 
 considerable number of estates not yet taken-in-charge and asked if funding could
 
-be provided for essential maintenance work.---
+be provided for essential maintenance work.
+---
 15
 
 The Motion was seconded by Councillor Daly and generally agreed.
@@ -1298,7 +1312,8 @@ building was over 50 years old. She added that it was the fifth busiest of the 1
 
 maternity units in the country and had no Intensive Care or High Dependency Unit.
 
-The Motion was seconded by Councillor Foley.---
+The Motion was seconded by Councillor Foley.
+---
 16
 
 The Cathaoirleach stated that he would call a Special Meeting of the Council
@@ -1371,7 +1386,8 @@ Councillor Sheahan (J), in proposing the Motion, asked that the bin waiver
 
 scheme be reviewed to ensure equality in the City and County.
 
-Councillor Mitchell seconded the Motion.---
+Councillor Mitchell seconded the Motion.
+---
 17
 
 **REPLY:**
@@ -1446,7 +1462,8 @@ Notice of Motion submitted by Councillor E. Ryan
 
 The Motion was proposed by Councillor Ryan and seconded by Councillor
 
-Scanlan.---
+Scanlan.
+---
 18
 
 26.
@@ -1529,7 +1546,8 @@ the NPPR and if he or she is not satisfied with a response given, then
 
 they have the option to raise the matter with the Office of the
 
-Ombudsman.---
+Ombudsman.
+---
 19
 
 27.
@@ -1602,7 +1620,8 @@ During the ensuing debate, it was suggested that the Motion would be
 
 modified to read ‘domestic’ water charges as businesses and the farming community
 
-were already paying water charges.---
+were already paying water charges.
+---
 20
 
 Following further discussion, the Cathaoirleach directed that a vote be taken
@@ -1685,7 +1704,8 @@ with Limerick City of Culture.
 
 The Schemes have had a positive impact for both the participants and
 
-the local communities where they operate.---
+the local communities where they operate.
+---
 21
 
 30.
@@ -1702,4 +1722,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -60,7 +60,8 @@ January, March, May and July and that the Order of Business for the Meeting of t
 
 Some Members view was that Workshops should be held with each of the Municipal
 
-Districts and the Metropolitan District to agree and prioritise items to be included in the---
+Districts and the Metropolitan District to agree and prioritise items to be included in the
+---
 **2**
 
 Mayoral Programme, while others were in agreement to amend the Schedule of Ordinary
@@ -85,4 +86,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

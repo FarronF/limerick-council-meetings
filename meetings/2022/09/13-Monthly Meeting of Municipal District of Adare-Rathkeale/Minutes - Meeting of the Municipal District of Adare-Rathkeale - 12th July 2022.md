@@ -60,7 +60,8 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 (b)
@@ -127,7 +128,8 @@ address the issue of Ash die back in the City and County.
 
  Councillor Teskey proposed the District write to the McManus family to thank them
 
-for the success of the Pro-Am held in The Adare Manor in July. Councillor Teskey---
+for the success of the Pro-Am held in The Adare Manor in July. Councillor Teskey
+---
 3
 
 further proposed the District write to the Chief Superintendent of An Garda
@@ -192,7 +194,8 @@ allocate €1,000 to Askeaton Ballysteen Tennis Club.
 
 On the proposal of Councillor Sheahan, seconded by Councillor Keary, it was agreed to
 
-allocate €3,000 to Robertstown Church.---
+allocate €3,000 to Robertstown Church.
+---
 4
 
 On the proposal of Councillor Keary, seconded by Councillor Sheahan, it was agreed to
@@ -253,7 +256,8 @@ provide roof finish to arrest further deterioration, until such time as a use ha
 
 found for the property.
 
-Any interest or funded proposals for the future of this property would be most welcome.---
+Any interest or funded proposals for the future of this property would be most welcome.
+---
 5
 
 **(b)**
@@ -316,7 +320,8 @@ agreed.
 
 Correspondence, as circulated, was noted by Members.
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 6
 
 Signed:
@@ -327,4 +332,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

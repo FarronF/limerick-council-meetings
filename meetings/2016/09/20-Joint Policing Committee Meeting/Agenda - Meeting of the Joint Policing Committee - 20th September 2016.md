@@ -34,7 +34,8 @@ Strategy.
 
 3.
 
-To note activities under ‘Operations Hands Free’.---
+To note activities under ‘Operations Hands Free’.
+---
 2
 
 4.
@@ -59,4 +60,5 @@ nights every week”.
 
 6.
 
-Date of next meeting.---
+Date of next meeting.
+---

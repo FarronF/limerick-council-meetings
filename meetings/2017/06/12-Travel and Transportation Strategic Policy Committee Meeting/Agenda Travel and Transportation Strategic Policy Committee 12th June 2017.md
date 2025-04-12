@@ -24,7 +24,8 @@ June, 2017 at 10:00 a.m. The business to be transacted is set out in the appende
 
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -59,4 +60,5 @@ implementation of ramps, across the Metropolitan District”.
 
 **6.Presentation on Government Road Funding** **–** **Capital Plan** **–** **Kieran Lehane and Vincent**
 
-**Murray**---
+**Murray**
+---

@@ -62,7 +62,8 @@ by the Municipal District of Adare-Rathkeale did not appear on the agenda. The M
 
 confirmed that the Motion had been removed following receipt of legal advice, which was
 
-subsequently circulated to the Municipal District Members.---
+subsequently circulated to the Municipal District Members.
+---
 2
 
 1.
@@ -141,7 +142,8 @@ Disposal of Land
 
 Circulated, copy of Statutory Notice dated 29th July, 2021, concerning disposal of land
 
-at Ballywilliam, Rathkeale, Co. Limerick.---
+at Ballywilliam, Rathkeale, Co. Limerick.
+---
 3
 
 Proposed by Councillor Collins (M);
@@ -222,7 +224,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheehan (C);
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -305,7 +308,8 @@ property at 56, Delmege Park, Moyross, Limerick, to Mr. James Daly, in exchange 
 
 Delmege Park, Moyross, Limerick, particulars of which were contained in Statutory Notice
 
-dated 2nd September, 2021.”---
+dated 2nd September, 2021.”
+---
 5
 
 (h)
@@ -386,7 +390,8 @@ Moneymohill, Ballyhahill, Co. Limerick (V94WK4W), to Mr. Leon Fitzpatrick, for t
 
 €37,000, particulars of which were contained in Statutory Notice dated 14th September,
 
-2021.”---
+2021.”
+---
 6
 
 (k)
@@ -463,7 +468,8 @@ be by way of Lease Agreement for a period of three years and subject to the cove
 
 conditions contained therein, particulars of which were contained in Statutory Notice dated
 
-16th September, 2021.”---
+16th September, 2021.”
+---
 7
 
 Members discussed the process in relation to the disposal of properties and sought
@@ -544,7 +550,8 @@ Circulated, report of the Senior Executive Officer, Corporate Services, Governan
 
 Customer Services dated 13th September, 2021, seeking retrospective approval to a
 
-visit by the Mayor of the City and County of Limerick to Huy and Landen, Belgium, from---
+visit by the Mayor of the City and County of Limerick to Huy and Landen, Belgium, from
+---
 8
 
 19th to 21st July, 2021, to attend a Presentation of the ‘Sarsfield Homecoming Project’
@@ -623,7 +630,8 @@ Policy Committee dated 9th September, 2021, in relation to Meeting of the Commit
 
 held on 8th July, 2021.
 
-The Report was noted by the Council.---
+The Report was noted by the Council.
+---
 9
 
 (iv)
@@ -704,7 +712,8 @@ Circulated, report of the Arts Officer dated 14th September, 2021, seeking the C
 
 approval to recommended allocations under Limerick City and County Council Festivals and
 
-Events Grant Scheme 2021/2022.---
+Events Grant Scheme 2021/2022.
+---
 10
 
 Proposed by Councillor O’Hanlon;
@@ -777,7 +786,8 @@ the approval of the Council be and is hereby given to the grant of a Civic Recep
 
 the Limerick Senior Hurlers in recognition of their achievement in winning the 2021 All-Ireland
 
-Senior Hurling Championship.”---
+Senior Hurling Championship.”
+---
 11
 
 6.
@@ -852,7 +862,8 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 
 Meeting / Event.
 
-The reports were noted by the Council.---
+The reports were noted by the Council.
+---
 12
 
 **Irish Water**
@@ -927,7 +938,8 @@ QUESTIONS
 
 Replies to the following Questions on the agenda were circulated to all Members prior
 
-to the Meeting and the Questions were therefore considered as having been dealt with:---
+to the Meeting and the Questions were therefore considered as having been dealt with:
+---
 13
 
 8.
@@ -1012,7 +1024,8 @@ The presence of the algal bloom was also discussed with Waterways Ireland. It
 
 is expected that the algae will dissipate as the temperature drops over the next
 
-number of weeks.---
+number of weeks.
+---
 14
 
 The Council is commencing discussions with Waterways Ireland regarding the
@@ -1093,7 +1106,8 @@ Sheahan, A. Teskey)
 
 **central government to change the current protocol on the grass-cutting process, in the**
 
-**interests of safety.**---
+**interests of safety.**
+---
 15
 
 In proposing the Motion, Councillor Keary referred to the grass-cutting process and,
@@ -1168,7 +1182,8 @@ Notice of Motion submitted by Councillor E. Secas
 
 **Health Service for their risk, sacrifice and exceptional efforts during the COVID-19 crisis.**
 
-This Motion was adjourned to the November Meeting of the Council.---
+This Motion was adjourned to the November Meeting of the Council.
+---
 16
 
 15.
@@ -1229,4 +1244,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

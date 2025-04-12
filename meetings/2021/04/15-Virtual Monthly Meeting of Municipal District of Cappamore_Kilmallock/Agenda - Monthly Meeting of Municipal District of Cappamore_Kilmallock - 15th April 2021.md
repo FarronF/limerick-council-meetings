@@ -34,7 +34,8 @@ Disposal of Property
 
 To note proposal for the disposal of property at Gragane, Caherconlish, Co. Limerick.
 
-(Report enclosed)---
+(Report enclosed)
+---
 2
 
 3.Environment
@@ -91,7 +92,8 @@ I will ask at the next Meeting of the Cappamore-Kilmallock Municipal District wh
 
 going to commence on the Housing Project at the Old Creamery site in Cappamore.
 
-9.Question submitted by Councillor Donegan---
+9.Question submitted by Councillor Donegan
+---
 3
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update
@@ -136,4 +138,5 @@ investigate the possibility of putting a footpath on the R513 from the Primary S
 
 Hospital to Sully’s Cross (O’Sullivans) L8504 which is used as a loop walk by a large
 
-number of walkers.---
+number of walkers.
+---

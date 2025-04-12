@@ -60,7 +60,8 @@ As there were no other nominations, the outgoing Cathaoirleach declared Councill
 
 Donegan elected as Cathaoirleach of the Municipal District of Cappamore-Kilmallock and
 
-offered him best wishes for the coming year.---
+offered him best wishes for the coming year.
+---
 2
 
 The outgoing Cathaoirleach, Councillor J Egan thanked the Director of Services,
@@ -127,7 +128,8 @@ Promotion of the Thomas Fitzgerald Centre in Bruff, as well as strengthening
 
 connections with the town of Acton in Boston and supporting the development of the
 
-Stone Mansion in Kilmallock were among the priorities of the incoming Cathaoirleach.---
+Stone Mansion in Kilmallock were among the priorities of the incoming Cathaoirleach.
+---
 3
 
 Acknowledgement of the issues being highlighted by the Retained Firefighters, as well as
@@ -154,4 +156,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

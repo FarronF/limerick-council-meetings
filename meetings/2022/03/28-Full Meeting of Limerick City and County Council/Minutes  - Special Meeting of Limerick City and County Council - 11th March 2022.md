@@ -68,7 +68,8 @@ Government Departments, Agencies and outside expertise. It is his intention that
 
 teams would connect with Local Authorities and coordinate to achieve results in the next
 
-three years.---
+three years.
+---
 2
 
 He indicated the first area of focus for the interagency team is sustainable mobility. The
@@ -149,7 +150,8 @@ They also queried if there was any update on progress with the legislation for t
 
 Elected Mayor for Limerick. Minister Ryan agreed that Ireland is a mosaic and rural farmers
 
-need to be incentivised to restore biodiversity and develop clear water where appropriate.---
+need to be incentivised to restore biodiversity and develop clear water where appropriate.
+---
 3
 
 He agreed with the Members views that fuel poverty is a critical issue and it would be
@@ -174,4 +176,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

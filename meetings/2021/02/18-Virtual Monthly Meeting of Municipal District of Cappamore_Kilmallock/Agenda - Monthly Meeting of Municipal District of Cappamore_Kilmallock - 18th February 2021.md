@@ -38,7 +38,8 @@ Cappamore-Kilmallock held on the 10th December 2020.
 
 2. Support Services Directorate
 
-To receive an update on the Kilmallock Business Park.---
+To receive an update on the Kilmallock Business Park.
+---
 2
 
 NOTICE OF MOTIONS
@@ -91,4 +92,5 @@ District at the 31st Dec 2020 and
 
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District if there are any
 
-plans to upgrade Kilmallock Business Park to fibre optic broadband.---
+plans to upgrade Kilmallock Business Park to fibre optic broadband.
+---

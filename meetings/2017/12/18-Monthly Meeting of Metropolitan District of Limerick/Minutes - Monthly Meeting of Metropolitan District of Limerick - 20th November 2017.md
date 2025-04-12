@@ -70,7 +70,8 @@ November, 2017 setting out proposals to dispose of the freehold interest in a dw
 
 18 Sycamore Avenue, Rathbane, Limerick and to bring a Section 183 Notice to Full Council in this
 
-regard, for approval. The report, as circulated, was noted by Members.---
+regard, for approval. The report, as circulated, was noted by Members.
+---
 2
 
 **3.**
@@ -153,7 +154,8 @@ looked at.
 
 Boundary from 80 km/hr to 100 km/hr to match the speed limit on the Tipperary side of the
 
-boundary.---
+boundary.
+---
 3
 
 • The high density and extent of school traffic at Ballybrown and it was noted that the request
@@ -234,7 +236,8 @@ street junction.
 
 ***I will ask at the next meeting when is it envisaged that the Committee established to oversee***
 
-***the Northern Distributor Road will meet, in order to progress this vital piece of infrastructure.***---
+***the Northern Distributor Road will meet, in order to progress this vital piece of infrastructure.***
+---
 4
 
 **REPLY**:
@@ -327,7 +330,8 @@ also invite visitors to bring gifts to donate to a local charity in Limerick.
 
 **4.Introduce a New Years Eve Event to Limerick** with a fireworks display on New
 
-Years Eve at King John’s Castle---
+Years Eve at King John’s Castle
+---
 5
 
 **Audience**
@@ -414,7 +418,8 @@ to local charities, carol singers, musicians, buskers and choirs.
 
 **Christmas in Limerick:** Santa’s Postbox
 
-**Date:** 9th – 10th of December---
+**Date:** 9th – 10th of December
+---
 6
 
 **Time:** All Day
@@ -515,7 +520,8 @@ It has been reported that the Minister made a decision to omit cycling on
 
 footpaths from the penalties list for fear it would discourage families who cycle to
 
-school with their young children.---
+school with their young children.
+---
 7
 
 **NOTICES OF MOTION**
@@ -598,7 +604,8 @@ at €1m.
 
 The Council will engage with DTTAS to establish if funding could be sourced
 
-under the Specific Improvement Grant Scheme.---
+under the Specific Improvement Grant Scheme.
+---
 8
 
 The Council will also seek to ascertain if other relevant statutory or non statutory
@@ -647,4 +654,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

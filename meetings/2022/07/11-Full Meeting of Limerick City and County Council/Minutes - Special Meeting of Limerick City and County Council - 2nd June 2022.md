@@ -60,7 +60,8 @@ the time, was the first female Cathaoirleach of the County. He added that she wa
 
 of life and full of energy, stating that she remained very active within her own community
 
-after her political career was over.---
+after her political career was over.
+---
 2
 
 Members thanked the Mayor for calling the Special Meeting. They recalled Mary as an
@@ -103,4 +104,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

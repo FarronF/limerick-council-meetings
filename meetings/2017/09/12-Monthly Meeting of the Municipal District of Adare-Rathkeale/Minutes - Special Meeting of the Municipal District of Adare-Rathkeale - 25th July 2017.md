@@ -70,7 +70,8 @@ Members:
 
 • Planning for Christmas in Rathkeale had commenced in April and the Gardaí had
 
-engaged with the Facilitator.---
+engaged with the Facilitator.
+---
 2
 
 • Response time was an ongoing issue as any accident involving injury could take a
@@ -149,7 +150,8 @@ as outlined in the report.
 
 Following discussion it was agreed that this item would be discussed further at a Special
 
-Meeting of the District at a date and time to be confirmed.---
+Meeting of the District at a date and time to be confirmed.
+---
 3
 
 This concluded the Meeting.
@@ -162,4 +164,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

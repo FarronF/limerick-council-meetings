@@ -66,7 +66,8 @@ The Members acknowledged the work to date on this matter and welcomed the provis
 
 new housing. However there was still concern on the density of houses in the area and the
 
-Members also referred to the existing derelict houses on Colbert Terrace. Discussion also took---
+Members also referred to the existing derelict houses on Colbert Terrace. Discussion also took
+---
 2
 
 place on the need for car parking in the area and for the housing scheme to be reduced to
@@ -147,4 +148,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -34,4 +34,5 @@ e. Recommendations from Council meetings
 
 8. AOB
 
-Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council---
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+---

@@ -28,4 +28,5 @@ Sectoral representative change:
 
 Martina Brennan replacing Tracy McElligott
 
-Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council---
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

@@ -56,7 +56,8 @@ He also informed the Members that a total of €1,403,000 had been allocated to 
 
 Municipal Allocation with €270,000 of this assigned to the Municipal District of Newcastle
 
-West as follows:---
+West as follows:
+---
 2
 
 **Svc**
@@ -159,7 +160,8 @@ community.
 
 He outlined marketing examples some of which include Invest Limerick, the Creation of a suite
 
-of new invest assets to promote Limerick as a prime location for investment---
+of new invest assets to promote Limerick as a prime location for investment
+---
 3
 
 He referred to the Collaborative campaigns with Third Level partners on CAO Deadline Social
@@ -218,4 +220,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

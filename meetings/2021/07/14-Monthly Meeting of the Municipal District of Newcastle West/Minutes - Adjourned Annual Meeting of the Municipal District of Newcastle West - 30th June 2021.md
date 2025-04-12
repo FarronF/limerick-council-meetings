@@ -58,7 +58,8 @@ during a challenging twelve months due to the Covid 19 pandemic. They also thank
 
 outgoing Leas-Chathaoirleach, Councillor Michael Collins.
 
-The Director on behalf of Management and staff, also paid tribute to Councillor Foley.---
+The Director on behalf of Management and staff, also paid tribute to Councillor Foley.
+---
 2
 
 **1.**
@@ -127,7 +128,8 @@ Proposed by: Councillor J. Scanlan
 
 Proposed by: Councillor T. Ruddle
 
-Seconded by: Councillor M. Collins---
+Seconded by: Councillor M. Collins
+---
 3
 
 *“That, Councillor* *J. Sheahan be appointed Leas-Chathaoirleach of the Municipal District of*
@@ -152,4 +154,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

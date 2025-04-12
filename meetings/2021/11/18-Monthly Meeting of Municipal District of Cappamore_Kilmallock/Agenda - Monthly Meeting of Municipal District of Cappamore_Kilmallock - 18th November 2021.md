@@ -40,7 +40,8 @@ areas to present to the Elected Members.
 
 Deputation by Pallasgreen Residents regarding reinstatement of footpath and loop
 
-walk.---
+walk.
+---
 2
 
 NOTICE OF MOTIONS
@@ -99,7 +100,8 @@ the taking in charge of Castle Court estate in Kilmallock.
 
 Also to confirm that the assessment has taken place and a snag list has been compiled and
 
-costed as per the reply to my previous question at the September 2020 meeting.---
+costed as per the reply to my previous question at the September 2020 meeting.
+---
 3
 
 10.
@@ -112,4 +114,5 @@ I will ask at the next Municipal District meeting
 
 district (b) and what is the breakdown of locations.
 
-(c) How many Council houses are vacant in the District.---
+(c) How many Council houses are vacant in the District.
+---

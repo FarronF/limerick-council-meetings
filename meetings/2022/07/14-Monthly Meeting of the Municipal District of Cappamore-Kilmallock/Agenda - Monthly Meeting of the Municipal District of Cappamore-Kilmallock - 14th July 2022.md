@@ -36,7 +36,8 @@ Kilmallock Municipal District held on the 16th June 2022.
 
 2.Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 16th June.---
+Relating to the Minutes of the Municipal District Meeting of 16th June.
+---
 2
 
 3.Correspondence.
@@ -85,7 +86,8 @@ I will move at the next meeting of the Cappamore-Kilmallock Municipal District t
 
 of averaging Speed cameras in towns and villages be considered in the Municipal District
 
-where speed is a concern.---
+where speed is a concern.
+---
 3
 
 QUESTIONS
@@ -134,4 +136,5 @@ Question submitted by Councillor Mitchell
 
 I will ask at the next meeting of the Cappamore-Kilmallock District for ramps to be installed in
 
-Knocklong immediately in the interest of health and safety.---
+Knocklong immediately in the interest of health and safety.
+---

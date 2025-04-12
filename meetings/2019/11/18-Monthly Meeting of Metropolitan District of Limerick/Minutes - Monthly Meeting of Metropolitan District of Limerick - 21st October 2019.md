@@ -64,7 +64,8 @@ Certificate and photobook to Newtown Cottage Association, Clarina and St. Mary�
 
 shed to acknowledge their nomination in the Pride of Place 2019 competition. The Cathaoirleach
 
-invited a representative from each group to brief the Members on their work to date.---
+invited a representative from each group to brief the Members on their work to date.
+---
 2
 
 **Newtown Cottage Association, Clarina**
@@ -143,7 +144,8 @@ Seconded by Councillor O’Dea;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 3
 
 (c)
@@ -226,7 +228,8 @@ Circulated, report of the Head of Property Services dated 11th October, 2019 set
 
 proposals to dispose of the Council’s Freehold (Ground Rent) Interest at 16 Revington Park,
 
-North Circular Road, Limerick and the intention to bring a Section 183 Notice to the---
+North Circular Road, Limerick and the intention to bring a Section 183 Notice to the
+---
 4
 
 November Meeting of Council in this regard, for approval.
@@ -303,7 +306,8 @@ Councillor O’Sullivan and agreed.
 
 **Housing Development Directorate**
 
-Circulated, Report of Director of Services, Housing Development dated 27th September, 2019.---
+Circulated, Report of Director of Services, Housing Development dated 27th September, 2019.
+---
 5
 
 Members welcomed the report but requested additional information to be included such as the
@@ -388,7 +392,8 @@ objectives were outlined to Members;
 
 •Re-activation of vacant homes; in particular in areas of high demand for social housing
 
-•Mapping of vacant homes to gain an accurate picture of vacancy.---
+•Mapping of vacant homes to gain an accurate picture of vacancy.
+---
 6
 
 Members were informed that Limerick City & County Council are taking part in a Pilot Vacancy
@@ -471,7 +476,8 @@ to date approximately 25-30 properties have been completed and expects this to i
 
 **REPLY:** A meeting has been requested between Limerick City and County Council and the
 
-relevant group/project promoter to receive an update on this project. A progress---
+relevant group/project promoter to receive an update on this project. A progress
+---
 7
 
 report will be circulated to the Elected Members of the Metropolitan District after
@@ -542,7 +548,8 @@ capital investment which must be funded from the Council’s own resources. Give
 
 that 99% of the users of Park Road arrived by car, the Dock Road site is readily
 
-available to such users.---
+available to such users.
+---
 8
 
 **9.**
@@ -633,7 +640,8 @@ The average vacancy rate of Council properties at year end over the past five ye
 
 is set out below. A single point of contact is being rolled out to manage the return
 
-of vacant properties ensuring that inspections of same are carried out as a priority,---
+of vacant properties ensuring that inspections of same are carried out as a priority,
+---
 9
 
 allowing specification, cost and timeframe to be identified for the property and
@@ -734,7 +742,8 @@ Committee.
 
 ***designer to provide professional advice to all Directorates in the Council on plans and capital***
 
-***projects for the betterment of Limerick City.***---
+***projects for the betterment of Limerick City.***
+---
 10
 
 The motion was proposed by Councillor Leddin (B) and seconded by Councillor Hartigan.
@@ -813,7 +822,8 @@ an examination of the costs, options and available technologies will be conducte
 
 There are a number of local authorities that allow for live streaming of Council
 
-meetings deemed open to the public and we will liaise with these local authorities---
+meetings deemed open to the public and we will liaise with these local authorities
+---
 11
 
 in relation to procedures, protocols and safeguards that they have in place.
@@ -884,4 +894,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

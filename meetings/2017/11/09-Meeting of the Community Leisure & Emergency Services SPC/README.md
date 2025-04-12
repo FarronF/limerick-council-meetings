@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-11-09 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-community-leisure-emergency-services-spc)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-community-leisure-emergency-services-spc" target="_blank">Link to meeting</a>**

@@ -74,7 +74,8 @@ training courses, volunteering opportunities and full and part time options. The
 
 applauded the work being undertaken by the group and pledged their support to
 
-EmployAbility.---
+EmployAbility.
+---
 **Item 3:**
 
 **Presentation on Community Participation Network (CPN) Family Resource**
@@ -159,4 +160,5 @@ Cllr. Hurley thanked her predecessor Cllr. F. Foley
 
 **Minutes Signed By Chair:**
 
-**Date:**---
+**Date:**
+---

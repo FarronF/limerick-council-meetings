@@ -28,4 +28,5 @@ office until the next Annual Meeting or until a successor has been elected.
 
 2. To elect a Leas Cathaoirleach of the Municipal District of Cappamore Kilmallock to hold
 
-office until the next Annual Meeting or until a successor has been elected.---
+office until the next Annual Meeting or until a successor has been elected.
+---

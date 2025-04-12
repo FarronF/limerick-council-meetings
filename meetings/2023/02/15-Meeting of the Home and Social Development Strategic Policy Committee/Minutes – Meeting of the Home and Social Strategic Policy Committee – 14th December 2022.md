@@ -78,7 +78,8 @@ No matters arising from previous minutes.
 
 Mr. Joe Delaney, Director of Service, Limerick Regeneration updated the Group on
 
-The Economic and Social Intervention Fund (ESIF) Plans for funding after 2023.---
+The Economic and Social Intervention Fund (ESIF) Plans for funding after 2023.
+---
 2
 
 A discussion took place and the main points were:
@@ -179,7 +180,8 @@ be a key requirement of any online platform.
 
 Cllr. Stephen Keary requested that the line in the draft housing one-rep policy “One
 
-Councillor or one Oireachtas member can make representations on behalf of a customer in---
+Councillor or one Oireachtas member can make representations on behalf of a customer in
+---
 3
 
 relation to housing matters” be amended to “One Councillor or TD or Senator can make
@@ -276,7 +278,8 @@ November, 2022:
 
 -
 
-*Mid-West Homeless Plan 2022-2025*---
+*Mid-West Homeless Plan 2022-2025*
+---
 4
 
 -
@@ -371,7 +374,8 @@ present that this would take a number of years.
 
 Cllr. Tom Collopy welcomed inviting the AHB’s as it would be a learning curve and education
 
-for all Councillors.---
+for all Councillors.
+---
 5
 
 Cllr. Sarah Kiely stated she would be of the opinion not to overload the SPC in relation to
@@ -398,4 +402,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC and 
 
 Merry Christmas.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

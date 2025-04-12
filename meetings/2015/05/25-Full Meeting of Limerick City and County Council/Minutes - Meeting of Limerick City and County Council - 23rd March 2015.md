@@ -78,7 +78,8 @@ Ordinary Meeting of the Council held on 26th January, 2015.
 
 (c)
 
-Special Meeting of the Council held on 23rd February, 2015.---
+Special Meeting of the Council held on 23rd February, 2015.
+---
 2
 
 Proposed by Councillor Collins (M);
@@ -157,7 +158,8 @@ proposal before making a decision on the disposal. He asked for the matter to be
 
 deferred to a future Meeting pending a full presentation and this proposal was
 
-seconded by Councillor Loftus.---
+seconded by Councillor Loftus.
+---
 3
 
 Further discussion took place on the matter and it was agreed to take a vote,
@@ -234,7 +236,8 @@ Circulated, copy of Statutory Notice dated 11th March, 2015, concerning
 
 disposal of land at Rathkeale, together with report of the Director of Economic
 
-Development and Planning dated 16th March, 2015.---
+Development and Planning dated 16th March, 2015.
+---
 4
 
 Proposed by Councillor Sheahan (J);
@@ -315,7 +318,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, the approval of the Council be and is hereby given to the disposal of
@@ -402,7 +406,8 @@ the property at 528 Castle Oaks View, O’Malley Park, Southill, Limerick, to be
 
 transferred to the property at No. 2 Wallers Well, Roxboro, Limerick, particulars of
 
-which were contained in Statutory Notice dated 12th March, 2015.”---
+which were contained in Statutory Notice dated 12th March, 2015.”
+---
 6
 
 (h)
@@ -483,7 +488,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 7
 
 “That, the approval of the Council be and is hereby given to the disposal of
@@ -564,7 +570,8 @@ following:
 
 • Library Service/Caherdavin Branch Library Closure.
 
-• Rent Collection.---
+• Rent Collection.
+---
 8
 
 The Chief Executive’s Reports for the months of January and February were
@@ -657,7 +664,8 @@ And Resolved:
 
 Membership of the 5 Strategic Policy Committees as follows and as set out in the
 
-report of the Meetings Administrator dated 2nd March, 2015:---
+report of the Meetings Administrator dated 2nd March, 2015:
+---
 9
 
 Agriculture / Farming
@@ -724,7 +732,8 @@ Denis Doyle, Vice-President Manufacturing, Analog.
 
 David Jeffreys, M.D. Action Point, Limerick Office (Main Office), Unit 8B, Plassey
 
-Enterprise Centre, National Technology Park, Limerick.---
+Enterprise Centre, National Technology Park, Limerick.
+---
 10
 
 •
@@ -805,7 +814,8 @@ be held at least two weeks in advance of bi-monthly meetings so as to accommodat
 
 Motions moved at full Council level and, as a consequence, SPC Meetings will total
 
-six Meetings a year.”---
+six Meetings a year.”
+---
 11
 
 Proposed by Councillor Sheahan (J);
@@ -882,7 +892,8 @@ by Councillor Keary, and agreed as follows:
 
 **Committee Meeting that the Motion is referred to if not already a**
 
-**Member.”**---
+**Member.”**
+---
 12
 
 (e)
@@ -959,7 +970,8 @@ Hohenlohekreis, Germany, in accordance with Section 142(5) of the Local
 
 Government Act, 2001, and as set out in report of the Meetings Administrator dated
 
-18th March, 2015.”---
+18th March, 2015.”
+---
 13
 
 5.
@@ -1038,7 +1050,8 @@ Retail Incentive Scheme for Vacant Property in Limerick City Centre, Abbeyfeale,
 
 Kilmallock, Newcastle West and Rathkeale, together with *‘Application Form and*
 
-*Guidelines for Business & Retail Incentive Scheme for Vacant Properties Grant.’*---
+*Guidelines for Business & Retail Incentive Scheme for Vacant Properties Grant.’*
+---
 14
 
 The report recommended that the Scheme should remain focussed on the
@@ -1135,7 +1148,8 @@ ICT responded to queries raised. He also advised that the Council was working wi
 
 some customers in relation to drawing up and agreeing payment plans for
 
-outstanding rates.---
+outstanding rates.
+---
 15
 
 9.
@@ -1210,7 +1224,8 @@ Regions” held in Carlingford, Co. Louth, from 27th February to 1st March, 2015
 
 Seminar “The New Companies Act, 2014” held in Clonakilty, Co. Cork, from 6th to 8th
 
-March, 2015; (d) Seminar “The Councillor and Irish Water (Water Service Bill, 2014)”---
+March, 2015; (d) Seminar “The Councillor and Irish Water (Water Service Bill, 2014)”
+---
 16
 
 held in Letterkenny, Co. Donegal, from 6th to 8th March, 2015; (e) Seminar “Domestic
@@ -1277,7 +1292,8 @@ Question submitted by Councillor J. Scanlan
 
 ***extensions, and (f) in the case of those without bonds, what action is being***
 
-***taken to procure funding required to complete these developments.***---
+***taken to procure funding required to complete these developments.***
+---
 17
 
 **REPLY:**
@@ -1350,7 +1366,8 @@ centres in Limerick.
 
 The Motion was seconded by Councillor Quinlivan and unanimously agreed.
 
-With the permission of the Mayor, the following Motion was taken as this time:---
+With the permission of the Mayor, the following Motion was taken as this time:
+---
 18
 
 17.
@@ -1429,7 +1446,8 @@ Accordingly, the Mayor declared the Motion as proposed by Councillor Lynch
 
 and seconded by Councillor Collins (M) carried.
 
-The Mayor indicated that he would take Motion No. 15 at this time:---
+The Mayor indicated that he would take Motion No. 15 at this time:
+---
 19
 
 15.
@@ -1510,7 +1528,8 @@ Notice of Motion submitted by Councillor L.M. Sheehy *(To be*
 
 ***issue and circulating this Motion to all other Local Authorities in the state for***
 
-***their consideration.***---
+***their consideration.***
+---
 20
 
 It was agreed to refer this Motion to the Travel and Transportation Strategic
@@ -1583,7 +1602,8 @@ to Economic Development, Enterprise and Planning Strategic Policy Committee)
 
 It was agreed to refer this Motion to the Economic Development, Enterprise
 
-and Planning Strategic Policy Committee.---
+and Planning Strategic Policy Committee.
+---
 21
 
 20.
@@ -1662,7 +1682,8 @@ Notice of Motion submitted by Councillor M. Quinlivan
 
 ***Dunnes workers; (iii) a review of Dunnes excessive use of temporary contracts***
 
-***of employment; (iv) fair pay for all workers in Dunnes Stores.***---
+***of employment; (iv) fair pay for all workers in Dunnes Stores.***
+---
 22
 
 Councillor Quinlivan, in proposing the Motion, stated that the dispute between
@@ -1739,7 +1760,8 @@ to Environment Strategic Policy Committee)
 
 It was agreed to refer this Motion to the Environment Strategic Policy
 
-Committee.---
+Committee.
+---
 23
 
 25.
@@ -1768,4 +1790,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -68,7 +68,8 @@ setting out details of proposed disposal of property at 58 St. Lawrence Park, Ga
 
 Limerick and the intention to bring a Section 183 Notice to Full Council in this regard, for
 
-approval.---
+approval.
+---
 2
 
 The report, as circulated, was noted by Members.
@@ -103,4 +104,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

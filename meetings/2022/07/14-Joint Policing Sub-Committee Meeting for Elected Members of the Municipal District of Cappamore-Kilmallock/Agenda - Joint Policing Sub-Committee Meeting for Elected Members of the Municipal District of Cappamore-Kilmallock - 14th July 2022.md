@@ -32,4 +32,5 @@ Sub-Committee held on 21st April, 2022.
 
 **2.Policing Issues**
 
-To discuss policing issues in the District.---
+To discuss policing issues in the District.
+---

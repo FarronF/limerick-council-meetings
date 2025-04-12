@@ -44,7 +44,8 @@ The Chair thanked Mr. McGrath and Mr. O’Reilly for the presentation and opened
 
 questions/comments.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 Cllr. E. O’Donovan raised three observations/queries as follows:
@@ -129,7 +130,8 @@ club, located in the estate is in favour of traffic calming measures at entrance
 
 He also enquired if the new speed limit reduction of 50kp/h would apply on the Ballinacurra
 
-Road.---
+Road.
+---
 3
 
 Cllr. Butler stated that much work goes into a plebiscite and asked if using Section 38 would be
@@ -198,7 +200,8 @@ The next step in the Traffic Calming Measures Policy is to consider the views ex
 
 and subject to further comments, to finalise the policy wording and recommend that it goes to
 
-the Full Council for adoption.---
+the Full Council for adoption.
+---
 4
 
 **Item 3: Notice of Motion submitted by Councillor S. Hartigan (referred from Metro Meeting)**
@@ -269,5 +272,7 @@ The Chair thanked all for their contribution and confirmed that the next Travel 
 
 SPC Meeting is scheduled for Tuesday, the 16th of April 2024. This concluded the business of the
 
-meeting.---
-5---
+meeting.
+---
+5
+---

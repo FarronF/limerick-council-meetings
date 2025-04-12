@@ -66,7 +66,8 @@ Councillors Code of Conduct. Councillor O’Donoghue subsequently withdrew his N
 
 of Motion from the Agenda of the April Adare-Rathkeale Municipal District Meeting.
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 Signed:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -75,4 +76,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

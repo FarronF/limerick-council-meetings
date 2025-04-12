@@ -29,7 +29,8 @@ The business to be transacted is set out in the appended agenda.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -60,4 +61,5 @@ after this Covid-19 pandemic. I believe that to bring footfall back into our cit
 
 shoppers should be given 3 hours free car parking at any time of the day to help
 
-retailers”.---
+retailers”.
+---

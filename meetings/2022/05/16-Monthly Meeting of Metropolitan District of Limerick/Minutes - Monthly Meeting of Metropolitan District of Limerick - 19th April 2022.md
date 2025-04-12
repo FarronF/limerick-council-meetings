@@ -66,7 +66,8 @@ setting out proposals to dispose of the Freehold Interest of premises consisting
 
 house situate at 28 Quins Cottages, Rosbrien, Limerick and the intention to bring a Section 183
 
-Notice to Full Council in this regard, for approval.---
+Notice to Full Council in this regard, for approval.
+---
 2
 
 The report, as circulated, was noted by Members.
@@ -135,7 +136,8 @@ Limerick and the intention to bring a Section 183 Notice to Full Council in this
 
 approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 **3.Community Initiative Scheme - General Municipal Allocation (GMA)**
@@ -304,7 +306,8 @@ Southill Women’s Group
 
 Woodhaven Residents Association
 
-500---
+500
+---
 4
 
 **Limerick City West**
@@ -481,7 +484,8 @@ CARI Foundation Ennis Road
 
 Coonagh Infant Burial Ground
 
-500---
+500
+---
 5
 
 Coonagh Sports and Social
@@ -636,7 +640,8 @@ Geraldines FC
 
 Irish Wildlife Trust Limerick Branch
 
-750---
+750
+---
 6
 
 Janesboro Tidy Towns
@@ -819,7 +824,8 @@ Patrickswell NS
 
 Patrickswell Tidy Towns
 
-1500---
+1500
+---
 7
 
 Raheen Active Retired
@@ -980,7 +986,8 @@ St Mary’s NS Bishop Street
 
 Thomondgate Residents Association
 
-1000---
+1000
+---
 8
 
 **QUESTIONS**
@@ -1061,7 +1068,8 @@ construction would commence in Q4 2022.
 
 out extensive consultation to inform the preparation of the Draft Zoning Map for the area.
 
-In order to comply with national and regional planning policy in terms of achieving compact---
+In order to comply with national and regional planning policy in terms of achieving compact
+---
 9
 
 growth, numerous sites were rezoned to deliver residential development and meet the
@@ -1134,7 +1142,8 @@ An electronic brochure of One Opera Square was circulated as part of the respons
 
 ***the process to complete master plan for the Limerick 2030 Cleeves site and what is the timeframe***
 
-***for completing this master plan.***---
+***for completing this master plan.***
+---
 10
 
 **REPLY**: There has been a lot of excellent work done in the preparation of the delivery of the Cleeves
@@ -1213,7 +1222,8 @@ in house selection.
 
 **13.Question submitted by Councillor S. Hartigan**
 
-***I will ask at the next Meeting of the Metropolitan District of Limerick for a report on how***---
+***I will ask at the next Meeting of the Metropolitan District of Limerick for a report on how***
+---
 11
 
 ***procurement works for energy retrofitting works undertaken by the Council and whether there***
@@ -1290,7 +1300,8 @@ necessity for crossing, by pedestrians from the existing Pelican crossing on Upp
 
 Street and from Barrington Street. There is also a layby at Pery Square for school buses to
 
-park at the same side of school entrance, which also reduces the need of crossing. Limerick---
+park at the same side of school entrance, which also reduces the need of crossing. Limerick
+---
 12
 
 City and County Council have no current plans to install a pedestrian crossing in this location
@@ -1359,7 +1370,8 @@ forthcoming Climate Action Plan.
 
 ***to city centre active travel project.***
 
-**REPLY**: Limerick Active Travel has been liaising with the NTA on updated preliminary design---
+**REPLY**: Limerick Active Travel has been liaising with the NTA on updated preliminary design
+---
 13
 
 drawings. We are now progressing environmental assessments, landscape plans and
@@ -1434,7 +1446,8 @@ In proposing the Motion, Councillor Kiely highlighted the need for a library ser
 
 should be given to providing a temporary premises so as to provide a service to the community.
 
-**REPLY**: The need for a library for Castletroy was identified as a priority action in the new Limerick---
+**REPLY**: The need for a library for Castletroy was identified as a priority action in the new Limerick
+---
 14
 
 Library Development Plan published June 2021.
@@ -1507,7 +1520,8 @@ developments, in accordance with the new Limerick City and County Development Pl
 
 It was agreed to refer this Notice of Motion to the Protocol Committee.
 
-**23.Notice of Motion submitted by Councillor J. Leddin**---
+**23.Notice of Motion submitted by Councillor J. Leddin**
+---
 15
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick***
@@ -1584,7 +1598,8 @@ continuing to consult with the EPA in relation to the investigation and associat
 
 ***for properties by investment funds and the impact that this is having on potential first time***
 
-***buyers.***---
+***buyers.***
+---
 16
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Collins and
@@ -1661,7 +1676,8 @@ type of tenure
 
 confirmation that First Time Buyers are not engaging/bidding on the property. If it is
 
-confirmed that First Time Buyers are bidding, the Housing Directorate will not support the---
+confirmed that First Time Buyers are bidding, the Housing Directorate will not support the
+---
 17
 
 unit under Long Term Lease.
@@ -1728,7 +1744,8 @@ further requests for public toilets in our Parks will require funding to be made
 
 **28.Correspondence:**
 
-Correspondence was noted and taken as read.---
+Correspondence was noted and taken as read.
+---
 18
 
 This concluded the Meeting.
@@ -1741,4 +1758,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

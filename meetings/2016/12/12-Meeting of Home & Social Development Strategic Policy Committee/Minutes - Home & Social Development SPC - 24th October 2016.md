@@ -74,7 +74,8 @@ be included on the Agenda.
 
 **Item 6:**
 
-**To receive a report from the Homeless Action Team**---
+**To receive a report from the Homeless Action Team**
+---
 It was agreed to take Item 6 next.
 
 S. McNamara circulated an update to the members on the current details of homelessness
@@ -147,7 +148,8 @@ campaign had taken place and that staff members worked overtime contacting peopl
 
 outside office hours. In response to requests from members Ms Liddy stated that there will
 
-be flexibility for applicants who have had their Housing Waiting List place closed.---
+be flexibility for applicants who have had their Housing Waiting List place closed.
+---
 **Item 5:**
 
 **Presentation of ‘*Rebuilding Ireland’***
@@ -192,4 +194,5 @@ and ask for sites to be given to local authorities. This will be advertised.
 
 Cllr. Keary asked for an update on his query at the June SPC on the Adare scheme.
 
-The meeting concluded.---
+The meeting concluded.
+---

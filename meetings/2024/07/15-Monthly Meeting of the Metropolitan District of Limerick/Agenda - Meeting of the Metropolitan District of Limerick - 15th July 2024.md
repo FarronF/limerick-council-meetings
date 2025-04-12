@@ -77,7 +77,8 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **3.Disposal of Land**
@@ -142,7 +143,8 @@ Council can contact the Department of Children, Equality, Disability, Integratio
 
 what steps have been taken to inform local residents and traders about the proposed use of River
 
-House and the Ballysimon Centre as IPAS refugee centres?---
+House and the Ballysimon Centre as IPAS refugee centres?
+---
 3
 
 **10.Question submitted by Councillor J. Pond**
@@ -203,7 +205,8 @@ in Limerick City water supply and if it’s now compliant with EPA recommendatio
 
 I will ask at the next Meeting of the Metropolitan District of Limerick how many homeless beds
 
-have been supplied by Limerick City and County Council over the last 5 years.---
+have been supplied by Limerick City and County Council over the last 5 years.
+---
 4
 
 **19.Question submitted by Councillor S. Beasley**
@@ -264,7 +267,8 @@ Shopping Centre to explore the possibility of an extra entrance / exit from the 
 
 Centre in Dooradoyle, parallel to the railway line and then connected to the N18 Motorway
 
-Section, so as to alleviate congestion on the Dooradoyle Road.---
+Section, so as to alleviate congestion on the Dooradoyle Road.
+---
 5
 
 **26.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
@@ -285,4 +289,5 @@ County Council consider the development of a Village Enhancement Plan for Clarin
 
 **28.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

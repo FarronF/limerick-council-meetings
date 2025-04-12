@@ -68,7 +68,8 @@ accordingly of the date for same.
 
 Votes of Sympathy
 
-Sympathy was extended to the following on their recent bereavements:---
+Sympathy was extended to the following on their recent bereavements:
+---
 2
 
  Former Member of Limerick County Council, William (Willie) Sampson, Spittle,
@@ -147,7 +148,8 @@ Grima to facilitate the construction of the new road to provide future access to
 
 College lands and the newly constructed schools, particulars of which were contained in
 
-Statutory Notice dated 28th June, 2018.”---
+Statutory Notice dated 28th June, 2018.”
+---
 3
 
 (b)
@@ -230,7 +232,8 @@ subject to the covenants and conditions contained therein and a right-of-way to 
 
 place in favour of the Lessees, particulars of which were contained in Statutory Notice dated
 
-28th June, 2018.”---
+28th June, 2018.”
+---
 4
 
 (e)
@@ -305,7 +308,8 @@ Montpelier, O’Brien’s Bridge, Limerick, to Teresa Burns, for the sum of €1
 
 to be by way of Deed of Conveyance of the interest of Limerick City and County Council in
 
-the property, particulars of which were contained in Statutory Notice dated 5th July, 2018.”---
+the property, particulars of which were contained in Statutory Notice dated 5th July, 2018.”
+---
 5
 
 3.
@@ -376,7 +380,8 @@ And Resolved:
 
 “That, the Annual Report 2017 for Limerick City and County Council be and is hereby
 
-adopted.”---
+adopted.”
+---
 6
 
 (e)
@@ -439,7 +444,8 @@ Seconded by Councillor Donegan:
 
 Policy Committee consequent on the resignation of Cmhlr. Ó Ceallaigh as Chairperson of the
 
-Committee.”---
+Committee.”
+---
 7
 
 Proposed by Councillor Secas;
@@ -502,7 +508,8 @@ Circulated, report of the A/Senior Executive Officer, Corporate Services, dated 
 
 July, 2018, setting out Schedule of proposed dates for Strategic Policy Committee Meetings
 
-up to May 2019.---
+up to May 2019.
+---
 8
 
 On the proposal of Councillor Sheahan (J), seconded by Councillor Crowley, the
@@ -575,7 +582,8 @@ Recommendation No. 1 was agreed.
 
 On the proposal of Councillor O’Donnell, seconded by Councillor Galvin,
 
-Recommendation No. 2 was agreed.---
+Recommendation No. 2 was agreed.
+---
 9
 
 **Recommendation No. 3**
@@ -644,7 +652,8 @@ Recommendation No. 1, as amended, was agreed.
 
 On the proposal of Councillor Sheahan (K), seconded by Councillor Ryan,
 
-Recommendation No. 2 was agreed.---
+Recommendation No. 2 was agreed.
+---
 10
 
 (iii)
@@ -717,7 +726,8 @@ Recommendations which were agreed at the SPC Meeting:
 
 **the Festivals and Events Grant Scheme Strand 1 be recommended to the Council for**
 
-**approval.”**---
+**approval.”**
+---
 11
 
 **Recommendation No. 2**
@@ -788,7 +798,8 @@ Town).
 
  Unit of Management (UoM) 18 Blackwater (Munster), Flood Risk Management Plan
 
-2018 (Freemount, Mitchelstown).”---
+2018 (Freemount, Mitchelstown).”
+---
 12
 
 5.
@@ -863,7 +874,8 @@ Agenda.
 
 on the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), Standing
 
-Orders were suspended in order to complete the Agenda.---
+Orders were suspended in order to complete the Agenda.
+---
 13
 
 6.
@@ -948,7 +960,8 @@ Proposed by Councillor Hurley;
 
 Seconded by Cmhlr. Ó Ceallaigh;
 
-And Resolved:---
+And Resolved:
+---
 14
 
 “That, Limerick City and County Council agrees to the making of an Agreement, as
@@ -1023,7 +1036,8 @@ Replies to the following Questions on the Agenda were circulated to all Members
 
 prior to the Meeting and the Questions were therefore considered as having been dealt
 
-with:---
+with:
+---
 15
 
 8.
@@ -1112,7 +1126,8 @@ was provided in 2018 by the Department of Transport, Tourism and Sport to
 
 continue advancing this important road scheme. The timelines for this
 
-scheme are dependent on the completion of design work and environmental---
+scheme are dependent on the completion of design work and environmental
+---
 16
 
 assessments by the Design Team which must be submitted to the
@@ -1243,7 +1258,8 @@ Leases
 
 **169**
 
-**1,365**---
+**1,365**
+---
 17
 
 NOTICES OF MOTION
@@ -1308,7 +1324,8 @@ Economic Development, Enterprise and Planning Strategic Policy Committee)
 
 It was agreed to refer this Motion to the Economic Development, Enterprise and
 
-Planning Strategic Policy Committee.---
+Planning Strategic Policy Committee.
+---
 18
 
 16.
@@ -1367,4 +1384,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

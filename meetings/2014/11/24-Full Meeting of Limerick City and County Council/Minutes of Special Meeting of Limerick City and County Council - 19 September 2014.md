@@ -56,7 +56,8 @@ that the Meeting would commence with a Powerpoint Presentation by Mr. Conroy in
 
 relation to the National Programme of Revaluation of Commercial and Industrial
 
-Properties with particular emphasis on the Limerick Revaluation.---
+Properties with particular emphasis on the Limerick Revaluation.
+---
 2
 
 Mr. Conroy addressed the Meeting and outlined the background, objectives and
@@ -115,7 +116,8 @@ Office could be extended.
 
 stated that not only did businesses pay rates, which funded services, but they
 
-also created employment and brought vibrancy and growth to the County.---
+also created employment and brought vibrancy and growth to the County.
+---
 3
 
 • Members referred to the fact that over 70% of all Irish workers were employed
@@ -166,4 +168,5 @@ An Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

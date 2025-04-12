@@ -52,7 +52,8 @@ attend this meeting.”
 
 In proposing the Motion, Cllr Teskey thanked the Mayor for agreeing to call this Special
 
-Meeting to discuss the issue of boil water notices being issued by Uisce Éireann.---
+Meeting to discuss the issue of boil water notices being issued by Uisce Éireann.
+---
 2
 
 He outlined how the boil water notice issued by Uisce Éireann was affecting approximately
@@ -119,7 +120,8 @@ finished in July 2023 and that all staff were now fully under the control of Uis
 
 Limerick City and County Council therefore no longer has any direction or control over these
 
-staff and that a Master Co-Operation Agreement was now in place with Uisce Éireann---
+staff and that a Master Co-Operation Agreement was now in place with Uisce Éireann
+---
 3
 
 instead. She agreed to arrange for the circulation to the Elected Members of the link on the
@@ -150,4 +152,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -76,7 +76,8 @@ West District.
 
 The Cathaoirleach welcomed the Director, Housing Development and the A/Senior
 
-Executive Planner, Housing Development to the Meeting.---
+Executive Planner, Housing Development to the Meeting.
+---
 2
 
 The Director and Acting Senior Executive Planner gave an update to the Members on the
@@ -155,7 +156,8 @@ Item added to the Standing Orders to regulate the holding of remote meetings sho
 
 approved. The addition of the Supplementary Item to Standing Order was proposed by
 
-Councillor Sheahan and seconded by Councillor Scanlan with the recommendation that the---
+Councillor Sheahan and seconded by Councillor Scanlan with the recommendation that the
+---
 3
 
 need for this Supplementary item be reviewed in June, 2021. Councillor Galvin also noted his
@@ -222,7 +224,8 @@ tenants of this option has been limited.
 
 Once the pilot project is complete, a full review will be undertaken which will
 
-formulate the basis of any future “self-help” scheme.---
+formulate the basis of any future “self-help” scheme.
+---
 4
 
 In addition, for clarity purposes, under insurance advice previously sought by
@@ -303,7 +306,8 @@ Infrastructure Ireland to Kerry County Council for road improvements and noted t
 
 should also be made available to Limerick City and County Council to progress the necessary
 
-works at Wards Cross and Devon Cross.---
+works at Wards Cross and Devon Cross.
+---
 5
 
 7.
@@ -382,7 +386,8 @@ REPLY:
 
 The above can be considered for a Low Cost Safety Scheme. However as an
 
-interim measure road markings will be improved in this area.---
+interim measure road markings will be improved in this area.
+---
 6
 
 NOTICES OF MOTION
@@ -453,7 +458,8 @@ Roads allocation.
 
 In proposing the Motion, Councillor Galvin requested that a pedestrian crossing be provided
 
-in the interest of child safety and that funding of this crossing be considered under the Great---
+in the interest of child safety and that funding of this crossing be considered under the Great
+---
 7
 
 Southern Greenway Project.
@@ -520,7 +526,8 @@ referred to. In replying, the Executive Engineer gave an update to the Members o
 
 matter. He agreed to follow up on overgrown hedges at forestry owned lands in the Municipal
 
-District.---
+District.
+---
 8
 
 The Senior Executive Engineer gave an update to the Members on the Newcastle West
@@ -567,4 +574,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

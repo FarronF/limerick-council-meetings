@@ -88,7 +88,8 @@ Development, Recreation and Amenity.
 
 The Acting Head of Finance confirmed that Members would have flexibility in relation to the
 
-allocation of same.---
+allocation of same.
+---
 2
 
 Proposed by Councillor O’Donnell;
@@ -121,4 +122,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

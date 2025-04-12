@@ -62,7 +62,8 @@ Council Standing Order Nos. 15 and 16, to discuss the following issues:
 
 I will move at a Special Meeting of Limerick City and County Council that the Council
 
-call on all associated with the Design Process of the Foynes to Limerick Road---
+call on all associated with the Design Process of the Foynes to Limerick Road
+---
 **2**
 
 Improvement Scheme, namely Transport Infrastructure Ireland (TII), the Department
@@ -135,7 +136,8 @@ Department of Transport, Tourism and Sport
 
 “Thank you for your e-mail of 13th October, 2016, on behalf of Limerick City and
 
-County Council and invitation to attend a Special Meeting of Elected Members on---
+County Council and invitation to attend a Special Meeting of Elected Members on
+---
 **3**
 
 Friday, 21st October, 2016, to discuss the Foynes to Limerick Road Improvement
@@ -214,7 +216,8 @@ when the route corridor selection was open for submissions under the public
 
 consultation process. As part of that consultative process, I made a submission to
 
-have an interchange for the village of Croagh provided in the route as it was---
+have an interchange for the village of Croagh provided in the route as it was
+---
 **4**
 
 proposed at the time and the rationale for this interchange is as valid in this revised
@@ -287,7 +290,8 @@ to raise unrelated matters or raise false hopes I want to be very clear that the
 
 purpose of this meeting is to create accessibility from the new road proposal to the
 
-existing N21 at Croagh village.---
+existing N21 at Croagh village.
+---
 **5**
 
 I want to stress that I am not here today to advocate for or against any particular
@@ -366,7 +370,8 @@ provision for this interchange.
 
 In excess of 50 % of these people are employed directly in tourism and related
 
-services and are completely reliant on passing traffic from the existing N21.---
+services and are completely reliant on passing traffic from the existing N21.
+---
 **6**
 
 This interchange will not only safeguard but enhance the future growth of the
@@ -441,7 +446,8 @@ and Adare.
 
 Other comparable locations where such entry points have been accommodated are
 
-Bunratty, Ennis and Nenagh. In the case of Nenagh the NRA, the Mid West Road---
+Bunratty, Ennis and Nenagh. In the case of Nenagh the NRA, the Mid West Road
+---
 **7**
 
 Design Office and North Tipperary County Council inserted a 3rd access point during
@@ -520,7 +526,8 @@ the Council again. Also I would propose that a progress report on this motion be
 
 presented by the executive to the Full Council at the November Meeting of Limerick
 
-City and County Council.”---
+City and County Council.”
+---
 **8**
 
 In seconding the Motion, Councillor Galvin stressed the need to promote and
@@ -591,7 +598,8 @@ The report stated that this matter had previously come before the Adare-Rathkeal
 
 Municipal District in July 2015. It had subsequently received the approval of the Council at a
 
-Special Meeting on 5th August, 2015, for a land exchange of similar value.---
+Special Meeting on 5th August, 2015, for a land exchange of similar value.
+---
 **9**
 
 Difficulty arose in the administration of transfer of title to Limerick Community
@@ -668,4 +676,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -30,4 +30,5 @@ Yours sincerely
 
 ***Cecilia Larkin,***
 
-***Planning, Environment and Place-Making Directorate***---
+***Planning, Environment and Place-Making Directorate***
+---

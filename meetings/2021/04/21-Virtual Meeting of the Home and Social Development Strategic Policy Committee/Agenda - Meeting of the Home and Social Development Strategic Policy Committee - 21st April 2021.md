@@ -32,4 +32,5 @@ c. Revision to Household Means Policy Circular Information
 
 9. AOB
 
-Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council---
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+---

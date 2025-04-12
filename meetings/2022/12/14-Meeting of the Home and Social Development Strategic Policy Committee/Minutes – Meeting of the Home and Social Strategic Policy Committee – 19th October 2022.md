@@ -84,7 +84,8 @@ Cllr. Stephen Keary opened the meeting and welcomed all members to the October S
 
 **Seconded:** Cllr. Tom Ruddle
 
-**Item 2: Matters arising from the Minutes**---
+**Item 2: Matters arising from the Minutes**
+---
 2
 
 No matters arising from previous minutes.
@@ -161,7 +162,8 @@ being done.
 
 Ms. Mary Hayes, Senior Executive Officer, Housing Support Services presented the draft “Homeless
 
-Policy Document”---
+Policy Document”
+---
 3
 
 A discussion took place and the main points were:
@@ -234,7 +236,8 @@ A discussion ensued on the matter and Mr. Hayes, Ms. Patricia Phillips and Ms. M
 
 to a number of questions on a variety of topics including:
 
-1. Enforcement powers available to Council.---
+1. Enforcement powers available to Council.
+---
 4
 
 2. Number of cases dealt with by Community Sustainment Unit.
@@ -313,7 +316,8 @@ Ms. Newell explained that the Council arrange for an independent valuation of th
 
 provided an example of the financial contribution payable by the applicant and as set out in Limerick
 
-City and County Council’s Allocation Scheme.---
+City and County Council’s Allocation Scheme.
+---
 5
 
 Cllr. Keary, asked what the Council do with the 25% financial contribution. Ms. Curley advised that
@@ -392,7 +396,8 @@ stating that she was aware of cases where tenants who had agreed payment plans t
 
 arrears, and were adhering to such plans, had nevertheless received such letters thereby causing
 
-them distress. Mr. Hayes advised that he would be very surprised if that was the case and it was---
+them distress. Mr. Hayes advised that he would be very surprised if that was the case and it was
+---
 6
 
 agreed that Cllr. Benson would engage with him subsequent to the meeting with specific details so
@@ -415,4 +420,5 @@ Income thresholds for social housing.
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

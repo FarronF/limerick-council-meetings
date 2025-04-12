@@ -42,7 +42,8 @@ The minutes of the previous committee meeting held on the 2nd June 2016 were pro
 
 by Cllr Lynch, seconded by Cllr Butler, and unanimously agreed and adopted.
 
-(Image omitted)---
+(Image omitted)
+---
 **Item 2: To Consider Notice of Motion submitted by Councillor D. Butler**
 
 **I will move at the next meeting that Limerick City and County Council request Shannon**
@@ -113,7 +114,8 @@ successful. Members expressed concern in relation to removing a name that has be
 
 associated with Limerick City for hundreds of years and pointed out that William Street is
 
-very well known both nationally and internationally.---
+very well known both nationally and internationally.
+---
 After a vote, the motion was defeated by 10 votes to 3.
 
 **Item 4: Presentation on Winter Road Maintenance Programme**
@@ -188,7 +190,8 @@ on the Council’s website. The Government also has a winter ready website:
 
 www.winterready.ie. The Council’s winter service plan, in as far as reasonably practicable,
 
-facilitates the safe movement of vehicular traffic, in accordance with agreed priorities, on---
+facilitates the safe movement of vehicular traffic, in accordance with agreed priorities, on
+---
 the more important defined routes of the road network, while minimising delays &
 
 accidents directly attributable to adverse weather conditions.
@@ -239,4 +242,5 @@ required for salting than to provide salt bins in housing estates to be used for
 
 salting.
 
-The Meeting then concluded.---
+The Meeting then concluded.
+---

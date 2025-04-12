@@ -52,4 +52,5 @@ Strategy 2015-2017.
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

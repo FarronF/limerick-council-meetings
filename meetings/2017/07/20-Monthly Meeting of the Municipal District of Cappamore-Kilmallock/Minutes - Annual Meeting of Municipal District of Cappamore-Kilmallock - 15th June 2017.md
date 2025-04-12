@@ -56,7 +56,8 @@ As there were no other nominations, the outgoing Cathaoirleach declared Councill
 
 elected as Cathaoirleach of the Municipal District and offered him his congratulations and best
 
-wishes for the coming year.---
+wishes for the coming year.
+---
 2
 
 On taking the Chair, Councillor Mitchell thanked his Proposer and Seconder and said that he was
@@ -129,4 +130,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

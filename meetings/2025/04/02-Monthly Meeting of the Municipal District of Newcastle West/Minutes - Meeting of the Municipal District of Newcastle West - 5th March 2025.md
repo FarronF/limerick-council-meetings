@@ -72,7 +72,8 @@ Declaration of Interest.
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
-2001, as amended, and the Code of Conduct, she was inviting those present to notify the---
+2001, as amended, and the Code of Conduct, she was inviting those present to notify the
+---
 2
 
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
@@ -149,7 +150,8 @@ Mr. Reid outlined the progress to date on the scheme which includes the followin
 
  Scheme Refinement, Environmental Impact Assessment Reporting and Preparation of
 
-Planning Documentation.---
+Planning Documentation.
+---
 3
 
 He made reference to the measures which are to address flooding from the River Galey and
@@ -222,7 +224,8 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
 
-allocate €500 to Athea United Football Club.---
+allocate €500 to Athea United Football Club.
+---
 4
 
 On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agreed to allocate
@@ -287,7 +290,8 @@ REPLY:
 
 A survey to warrant a crossing at this location has been carried out and it has
 
-been submitted to TII for approval and possible funding.---
+been submitted to TII for approval and possible funding.
+---
 5
 
 7.
@@ -366,7 +370,8 @@ the burial ground project.
 
 The project which is the Limerick Greenway Hub at Abbeyfeale has had Part 8 planning
 
-since March 2024, planning reference 24/8000.---
+since March 2024, planning reference 24/8000.
+---
 6
 
 The project currently has Category 2 funding under the RRDF in order to bring it to
@@ -441,7 +446,8 @@ more active” due to the ease of access to Limerick Greenway for exercise.
 
 Limerick Greenway use exceeds national recreational walking averages, compared to
 
-national walking data reported in the Irish Sports Monitor.---
+national walking data reported in the Irish Sports Monitor.
+---
 7
 
 
@@ -520,7 +526,8 @@ REPLY:
 
 Signage has already been erected and further signage has been ordered and
 
-will be in place once delivery has been received.---
+will be in place once delivery has been received.
+---
 8
 
 In proposing the Motion, Councillor Ruddle requested that signage be displayed around the
@@ -585,7 +592,8 @@ Abbeyfeale due to limited availability of parking. He requested that a site asse
 
 provision of a school warden at Templeglantine also take place and that clarification be
 
-sought on where funding for the school wardens in Adare and Newcastle West is sourced.---
+sought on where funding for the school wardens in Adare and Newcastle West is sourced.
+---
 9
 
 16. Notice of Motion submitted by Councillor L. Galvin
@@ -650,7 +658,8 @@ Demesne car park to encourage more use of the car park. In replying, the Senior 
 
 Engineer stated that ducting for the lights is in place and a costing for the poles will be sought
 
-shortly.---
+shortly.
+---
 10
 
 18. Correspondence
@@ -719,7 +728,8 @@ support, contribution and his excellent work while in the District. The Members 
 
 also wished the Director well in his new role. In replying, the Director thanked the Members
 
-and colleagues for their kind words.---
+and colleagues for their kind words.
+---
 11
 
 It was agreed to hold the April Meeting of the District on Wednesday, 2nd April, 2025, at 10.00
@@ -736,4 +746,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

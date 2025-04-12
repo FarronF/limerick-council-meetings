@@ -50,7 +50,8 @@
 
 **To consider the appointment of Chairs-designate to the Strategic Policy**
 
-**Committees.**---
+**Committees.**
+---
 2
 
 **6.**
@@ -121,7 +122,8 @@
 
 **To consider the appointment of the Cathaoirleach to the Board of Adare**
 
-**Heritage Trust Limited.**---
+**Heritage Trust Limited.**
+---
 3
 
 **17.**
@@ -184,7 +186,8 @@
 
 **24.**
 
-**To consider the nomination of 1 Member to Limerick Civic Trust.**---
+**To consider the nomination of 1 Member to Limerick Civic Trust.**
+---
 4
 
 **25.**
@@ -215,4 +218,5 @@
 
 **To consider the nomination of 1 Member of Limerick City and County Council**
 
-**to the Board of Innovate Limerick.**---
+**to the Board of Innovate Limerick.**
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2025-03-12 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy" target="_blank">Link to meeting</a>**

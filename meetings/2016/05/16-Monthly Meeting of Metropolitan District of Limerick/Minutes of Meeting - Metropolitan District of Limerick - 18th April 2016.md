@@ -68,7 +68,8 @@ Proposed Material Alterations to Proposed Amendment No. 2 to the Southern Enviro
 
 Area Plan, which related to an Amended Zoning and Master Plan for the Mungret Loughmore
 
-Area of Limerick.---
+Area of Limerick.
+---
 2
 
 Members acknowledged the level of consultation engaged in by the Planning Department in
@@ -151,7 +152,8 @@ with Department of Transport guidelines.
 
  In relation to the ongoing pothole repair at Islanduane, Mungret, this road was included in
 
-the three year roads programme.---
+the three year roads programme.
+---
 3
 
  Irish Water was mandated to carry out reinstatement works in St. Mary’s Park and it was
@@ -234,7 +236,8 @@ allocate the units once completed.
 
 We will raise this question with Iarnrod Eireann who are in the process of
 
-refurbishment of the Plaza in front of Colbert Station.---
+refurbishment of the Plaza in front of Colbert Station.
+---
 4
 
 **7.**
@@ -323,7 +326,8 @@ The Public Bike Scheme is funded and managed by the National Transport
 
 Authority (NTA). Limerick City and County Council has assisted the NTA in the
 
-roll-out of this facility.---
+roll-out of this facility.
+---
 5
 
 The sponsorship of the bikes and the contract for the maintenance of the facility
@@ -406,7 +410,8 @@ provisions of Section 36 of the Road Traffic Act 1994. This legislation empowers
 
 Limerick City and County Council as a Roads Authority to make provision for the
 
-management and control of on street parking and parking charges.---
+management and control of on street parking and parking charges.
+---
 6
 
 The Control and Management of traffic and on street parking is vital to enabling
@@ -489,7 +494,8 @@ forward best practice guidelines for energy efficient public lighting procuremen
 
 acknowledged that, given the scale of public lighting, this was an issue that needed to be
 
-addressed at a national level. In relation to carbon footprints, he noted that a presentation was---
+addressed at a national level. In relation to carbon footprints, he noted that a presentation was
+---
 7
 
 to be made to the Environment Strategic Policy Committee on foot of the COP21 Paris Climate
@@ -570,7 +576,8 @@ parent accommodation and an adjacent maternity hospital where high risk cases co
 
 with and thereby ensuring the best care for both mother and child.
 
-Some Members spoke in favour of the St. James’ site noting that a new children’s hospital was---
+Some Members spoke in favour of the St. James’ site noting that a new children’s hospital was
+---
 8
 
 first mooted in 1993 and was still not built and to change plans at this point would result in
@@ -589,4 +596,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

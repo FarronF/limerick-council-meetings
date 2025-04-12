@@ -68,7 +68,8 @@ twelve months in his role as Cathaoirleach of the Adare-Rathkeale Municipal Dist
 
 Councillor Sheahan formally announced he will be a candidate for the next Election and
 
-hoped all Councillors of the District would be re-elected with him.---
+hoped all Councillors of the District would be re-elected with him.
+---
 2
 
 **2.**
@@ -119,4 +120,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -60,7 +60,8 @@ In formally introducing the Draft Budget for the financial year ending 31st Dece
 
 the Budget had been complied with. In recommending the Budget to the Council for
 
-consideration, the Chief Executive said the following:---
+consideration, the Chief Executive said the following:
+---
 **2**
 
 **Today I present the first Budget of Limerick City and County Council. In doing so, I**
@@ -143,7 +144,8 @@ consideration, the Chief Executive said the following:---
 
 **identifying opportunities for the construction programme throughout the county**
 
-**and these decisions will be progressed at District Level over the coming months.**---
+**and these decisions will be progressed at District Level over the coming months.**
+---
 **3**
 
 **Housing maintenance is consistently raised by Members throughout the year.**
@@ -228,7 +230,8 @@ consideration, the Chief Executive said the following:---
 
 **direction of the services going forward will be presented to Council for**
 
-**consideration by mid-2015.**---
+**consideration by mid-2015.**
+---
 **4**
 
 **As mentioned earlier, Limerick, the Mid-West Region and Ireland have been**
@@ -305,7 +308,8 @@ It was unanimously agreed that the Chief Executive’s Report on the Draft Budge
 
 I attach, for your consideration, the Draft Annual Revenue Budget for Limerick City
 
-and County Council for year ending 31st December, 2015. This is an historic Budget---
+and County Council for year ending 31st December, 2015. This is an historic Budget
+---
 **5**
 
 mainly due to the fact that it is the first Budget of the newly formed Limerick City and
@@ -390,7 +394,8 @@ Limerick, during 2014, went through a rates revaluation process. This involved t
 
 Valuation Office posting over 6,700 final Valuation Certificates to commercial and
 
-industrial ratepayers in the Limerick City and County Council Rating Authority area---
+industrial ratepayers in the Limerick City and County Council Rating Authority area
+---
 **6**
 
 on 11th December, 2014. The new valuations will take effect from 1st January, 2015,
@@ -527,7 +532,8 @@ Unemployment rate
 
 9.4
 
-8.9---
+8.9
+---
 **7**
 
 **Limerick Top Ten to Invest In**
@@ -614,7 +620,8 @@ and the ‘Granny’ which brought the world’s media to our doorstep. The posi
 
 this production brought for those three days in September will live long in the
 
-memory and the gathering of over 230,000 people helped to showcase the finest that---
+memory and the gathering of over 230,000 people helped to showcase the finest that
+---
 **8**
 
 this City and County has to offer. The legacy part of the programme will continue and
@@ -729,7 +736,8 @@ M. Miscellaneous Services
 
 **155,872,135**
 
-**173,156,191**---
+**173,156,191**
+---
 **9**
 
 ***Draft Budget 2015 v Budget 2014:***
@@ -806,7 +814,8 @@ and to comply with the Government Directive to reduce payroll costs, a number of
 
 2015
 
-2014---
+2014
+---
 **10**
 
 measures have been reflected in the Budget for 2015. These include the non
@@ -889,7 +898,8 @@ i.e. from 2014 to 2012 in that whilst the rate demand peaked in 2012 (€59.276m
 
 significant reductions, especially to the City demand, have seen total rates billed
 
-decrease to €53.667m. This represents a drop of €5.6m, (9.4%) in the 3 year period.---
+decrease to €53.667m. This represents a drop of €5.6m, (9.4%) in the 3 year period.
+---
 **11**
 
 Along with parking, this makes Limerick the most cost effective location in order to
@@ -998,7 +1008,8 @@ and will help to stimulate the local and regional economy. Below, please find a
 
 summary of potential spend and source of funding for the 3-year capital plan 2015 to
 
-2017.---
+2017.
+---
 **12**
 
 **Capital**
@@ -1111,7 +1122,8 @@ The PowerPoint presentation was delivered under the following headings:
 
 • Background to the Budget/Macro Environment.
 
-• Comparison with Previous Years.---
+• Comparison with Previous Years.
+---
 **13**
 
 • Analysis of Income/Expenditure.
@@ -1174,7 +1186,8 @@ would cost the Council some €485,000. He stated that the introduction of the 5
 
 levy on vacant properties was unacceptable. He welcomed the fact that the
 
-commercial rate would be maintained at the same level as the previous year.---
+commercial rate would be maintained at the same level as the previous year.
+---
 **14**
 
 From a Housing perspective, he welcomed the Housing Assistance Payment (HAP)
@@ -1239,7 +1252,8 @@ Initiative and also disappointment that no provision had been made in the Budget
 
 the Community Horse Stables project. He concluded by saying that he would not be
 
-supporting the Budget.---
+supporting the Budget.
+---
 **15**
 
 Councillor Leddin acknowledged the historic nature of the occasion and thanked the
@@ -1304,7 +1318,8 @@ City which should attract new businesses.
 
 • The allocation for roads.
 
-• The Council’s interest in economic development.---
+• The Council’s interest in economic development.
+---
 **16**
 
 • The Gateway Initiative.
@@ -1353,7 +1368,8 @@ in order to complete the Agenda.
 
 On resumption of the Meeting, it was agreed to proceed with consideration and
 
-questions under the various Divisions.---
+questions under the various Divisions.
+---
 **17**
 
 **Division A - Housing & Building**
@@ -1410,7 +1426,8 @@ considered by the Strategic Policy Committee in due course. He added that the
 
 National Roads Authority would be contacted in relation to repair and maintenance of
 
-footpaths on National Roads.---
+footpaths on National Roads.
+---
 **18**
 
 The Director confirmed that Public Lighting was funded fully from the Council’s Own
@@ -1469,7 +1486,8 @@ ownership of the Office of Public Works.
 
 Some Members expressed disappointment in relation to the level of funding provided
 
-for Tourism Development and Promotion.---
+for Tourism Development and Promotion.
+---
 **19**
 
 Councillor Hourigan proposed that an audit of all housing estates not yet taken-in -
@@ -1530,7 +1548,8 @@ It was agreed that if the Council’s bid for the title of European National Cit
 
 was unsuccessful, the allocation provided of €600,000 could be re-allocated to
 
-Tourism.---
+Tourism.
+---
 **20**
 
 In response to queries and concerns regarding the introduction of a new Bin Waiver
@@ -1599,7 +1618,8 @@ For properties with a liability of rates €10,000 +, no grant.
 
 • He confirmed that there would be no change to the imposition of LPT on the
 
-Council’s housing tenants as requested by the Members.---
+Council’s housing tenants as requested by the Members.
+---
 **21**
 
 In addition, the Chief Executive outlined the following schedule of amendments to
@@ -1662,7 +1682,8 @@ Increase allocation to Waivers (E0406) + €100,000
 
 Reduction in Bad Debt
 
-Provision – Commercial Rates (H0303) - €100,000---
+Provision – Commercial Rates (H0303) - €100,000
+---
 **22**
 
 Councillor Prendiville, at this point, stated that he would not be supporting the
@@ -1725,7 +1746,8 @@ of €155,872,135, forming part of the said Draft Annual Budget, in accordance
 
 with Section 103 of the Local Government Act, 2001, as amended by the
 
-Local Government Reform Act, 2014, subject to the following amendments:---
+Local Government Reform Act, 2014, subject to the following amendments:
+---
 **23**
 
 **Schedule of Amendments:** **Decrease/Increase Expenditure**
@@ -1762,4 +1784,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Mayor**
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

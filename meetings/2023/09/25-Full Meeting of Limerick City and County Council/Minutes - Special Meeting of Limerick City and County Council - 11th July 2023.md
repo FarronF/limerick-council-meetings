@@ -62,7 +62,8 @@ had served the people of Limerick extremely well, and they remembered him as a
 
 trustworthy, honourable and committed public representative, who was heavily involved in
 
-many aspects of his local community.---
+many aspects of his local community.
+---
 2
 
 Members paid tribute to John and the commitment he had to his community, his family, his
@@ -99,4 +100,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

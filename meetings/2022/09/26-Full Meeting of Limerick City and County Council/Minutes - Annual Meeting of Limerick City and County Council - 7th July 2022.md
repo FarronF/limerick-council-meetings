@@ -70,7 +70,8 @@ Council.
 
 He thanked the Chief Executive, Management and staff across all Departments, including
 
-District Offices, and outdoor staff, for their work on a daily basis for all of Limerick. He thanked---
+District Offices, and outdoor staff, for their work on a daily basis for all of Limerick. He thanked
+---
 2
 
 the staff in Corporate Services for their support during the year and in particular, Eleanor
@@ -143,7 +144,8 @@ Before I continue it important for me to mention our colleague Jerry O’Dea RIP
 
 a huge personal moment for my family, and me it would be remiss of me not to mention my
 
-friend and colleague. It was his sudden passing that triggered this event for me and while it is---
+friend and colleague. It was his sudden passing that triggered this event for me and while it is
+---
 3
 
 a hugely joyous day for me, it is bittersweet. Again, I would like to express my condolences
@@ -226,7 +228,8 @@ remains very strong.
 
 Limerick is a place that people from many different countries and creeds call home. I will
 
-represent all communities in Limerick and ensure that every section of these communities---
+represent all communities in Limerick and ensure that every section of these communities
+---
 4
 
 receives and acknowledges due recognition and service for our council and that nobody is left
@@ -299,7 +302,8 @@ huge amounts of joy and happiness, at a time when collectively we were at a low 
 
 hope their and our dream of a three-in-a-row becomes a reality on Sunday week.
 
-Luimneach Abú-Go raibh míle maith agaibh---
+Luimneach Abú-Go raibh míle maith agaibh
+---
 5
 
 2.
@@ -374,4 +378,5 @@ Signed:
 
 Mayor
 
-Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

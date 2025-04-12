@@ -48,7 +48,8 @@ Cllr. Leddin for his contribution to the work achieved through the Agendas of th
 
 The Chair acknowledged apologies from Cllrs. Ryan and Butler.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Item 1: Minutes**
@@ -125,7 +126,8 @@ Mr. Terry Brennan delivered a presentation on Active Travel communications inclu
 
 4. Community engagement
 
-5. Updates to Elected Members---
+5. Updates to Elected Members
+---
 3
 
 Mr. Sean Mc Glynn updated the members on a recent visit to Dun Laoghaire where ideas were
@@ -196,7 +198,8 @@ Travel team had previously refused to engage with communities prior to Part 8. H
 
 see a commitment from Active Travel that in the event of any Part 8 impacting residents, there
 
-will be prior consultation in the form of pop up clinics to engage with residents.---
+will be prior consultation in the form of pop up clinics to engage with residents.
+---
 4
 
 In reply to Cllr. O’ Donovan, Mr. McGlynn advised that a Brief is being worked on for consultants
@@ -263,4 +266,5 @@ utilised. The Chair advised that this would be a matter for discussion at an ope
 
 She advised that the next meeting is scheduled for Tuesday, the 25th October 2022.
 
-The meeting then concluded.---
+The meeting then concluded.
+---

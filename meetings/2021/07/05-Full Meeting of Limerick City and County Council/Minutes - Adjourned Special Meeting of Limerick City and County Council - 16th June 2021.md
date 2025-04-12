@@ -60,7 +60,8 @@ notice of this Adjourned Meeting was not possible in the time available since th
 
 Meeting on the 14th June and confirmed that on the proposal of Councillor J. Sheahan, seconded
 
-by Councillor O’Hanlon that Standing Orders had been suspended to allow for this.---
+by Councillor O’Hanlon that Standing Orders had been suspended to allow for this.
+---
 **1.Change Record of Protected Structures**
 
 Cllr Scanlon proposed the following amendment:
@@ -107,7 +108,8 @@ The removal of the wording “and the potential of the former Fisheries building
 
 Quay”
 
-The amendment was proposed by Cllr Hartigan, seconded by Cllr Costelloe.---
+The amendment was proposed by Cllr Hartigan, seconded by Cllr Costelloe.
+---
 **3.Change to Chapter 7- Objective IN 010, Part g**
 
 Cllr Hartigan proposed the following amendment:
@@ -160,7 +162,8 @@ A vote then took place on the proposed amendment:
 
 Costelloe, Hartigan, Novak Uí Chonchúir.
 
-(3)---
+(3)
+---
 **Against proposed amendment:**
 
 Councillors Collins (B), Collins (J), Collins (M), Daly, Foley, Galvin, Keary, Kiely, Kilcoyne, Mitchell,
@@ -213,7 +216,8 @@ Proposed the inclusion of text and objective from the existing City Development 
 
 inserted in Chapter 5 as follows:
 
-Historic Gardens & Designed Landscapes---
+Historic Gardens & Designed Landscapes
+---
 The DEHLG have undertaken a ‘Survey of Historic Gardens & Designed Landscapes’ where this
 
 inventory includes over 6,000 records of historic gardens and designed landscapes throughout
@@ -266,7 +270,8 @@ The Members noted the costs associated with the provision of public toilet and d
 
 facilities but agreed the importance of providing such facilities where at all possible.
 
-The amendment was proposed by Cllr Novak Uí Chonchúir, seconded by Cllr. Hartigan.---
+The amendment was proposed by Cllr Novak Uí Chonchúir, seconded by Cllr. Hartigan.
+---
 **9.Change to Chapter 6**
 
 Cllr. Novak Uí Chonchúir proposed the following amendment:
@@ -317,7 +322,8 @@ Include 3 locations in the list of Public Rights of Ways – Coonagh, Condell Ro
 
 Pier as these were already shown on the map.
 
-The amendment was proposed by Cllr Novak Uí Chonchúir, seconded by Cllr. Hartigan.---
+The amendment was proposed by Cllr Novak Uí Chonchúir, seconded by Cllr. Hartigan.
+---
 **12.Change to Chapter 11**
 
 Cllr. Novak Uí Chonchúir proposed the following amendment:
@@ -372,7 +378,8 @@ Inclusion of an Objective to Section 3: ‘It is an objective of the Council to 
 
 value of Limerick’s towns and villages such as Adare, Kilmallock and Askeaton and seek
 
-opportunities to enhance their tourism potential’---
+opportunities to enhance their tourism potential’
+---
 Some Elected Members highlighted that other towns and village names be also included, or else
 
 not refer specifically to the names of actual towns and villages in the amendment. After
@@ -419,7 +426,8 @@ of houses in scenic areas.
 
 Following some discussion and clarification from Council officials on this proposed amendment,
 
-Cllr K. Sheahan agreed to withdraw the proposed amendment.---
+Cllr K. Sheahan agreed to withdraw the proposed amendment.
+---
 **18.Change to Chapter 9**
 
 Cllr. J. Sheahan proposed the following amendment:
@@ -462,7 +470,8 @@ Amend M 01 (e)(v) to read: Create a new **road** connection between LIT and the 
 
 at Watch House Cross.
 
-The amendment was proposed by Cllr Benson, seconded by Cllr. Costelloe.---
+The amendment was proposed by Cllr Benson, seconded by Cllr. Costelloe.
+---
 **22.Change to Chapter 10**
 
 Cllr. Benson proposed the following amendment:
@@ -509,7 +518,8 @@ to address the play and recreation needs of children and young people **with spe
 
 **consideration given to the needs of children and young adults with disabilities.**
 
-The amendment was proposed by Cllr Costelloe, seconded by Cllr. O’Brien.---
+The amendment was proposed by Cllr Costelloe, seconded by Cllr. O’Brien.
+---
 **25.Changes to Chapter 9**
 
 Cllr. Costelloe proposed the following amendment:
@@ -558,4 +568,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

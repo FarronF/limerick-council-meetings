@@ -66,7 +66,8 @@ level of rainfall over the past few months was also noted along with the increas
 
 made available through grants and the budget process. He stated that 80km of roadway was
 
-surface dressed in 2017 and 95km of roadway would be surface dressed in 2018.---
+surface dressed in 2017 and 95km of roadway would be surface dressed in 2018.
+---
 Discussion also took place on the possibility of appointing a Clerk of Works to oversee projects
 
 by third parties in order to ensure that road reinstatement works are carried out correctly.
@@ -99,4 +100,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -64,7 +64,8 @@ Site would be transferred to Limerick Twenty Thirty, who would then deal with th
 
 agreements, contracts, wayleaves and servicing of common areas, as this was seen as the most
 
-efficient method of managing the multiple leases and agreements across the site. The Library,---
+efficient method of managing the multiple leases and agreements across the site. The Library,
+---
 2
 
 Revenue and Granary Buildings would be subsequently transferred back to Limerick City and
@@ -147,7 +148,8 @@ to date, which related to development, planning, enabling and demolition works. 
 
 confirmed that loan funding secured to date from the European Investment Bank (EIB) was in the
 
-amount of €25m.---
+amount of €25m.
+---
 3
 
 The Disposal was noted by the Members.
@@ -162,4 +164,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

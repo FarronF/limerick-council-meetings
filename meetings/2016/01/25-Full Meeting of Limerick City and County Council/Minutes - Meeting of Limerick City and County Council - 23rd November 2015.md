@@ -80,7 +80,8 @@ report of the Director, Environment and Water Services, dated 16th
 
 September, 2015, in relation to the disposal of land, by means of lease, at
 
-Ballinacarriga, Kildimo.---
+Ballinacarriga, Kildimo.
+---
 2
 
 Proposed by Councillor Gilligan;
@@ -159,7 +160,8 @@ Strategic Policy Committee and the Director of Environment and Water, dated 4th
 
 November, 2015, together with Draft Limerick City and County Council (Cemeteries)
 
-Bye-Laws, 2015.---
+Bye-Laws, 2015.
+---
 3
 
 The report stated that the Draft Bye-Laws had been prepared and considered
@@ -228,7 +230,8 @@ Circulated, report of the A/Head of Finance dated 19th November, 2015,
 
 attaching Schedules setting out details of the Revenue and Capital Accounts for the
 
-nine month period ended 30th September, 2015.---
+nine month period ended 30th September, 2015.
+---
 4
 
 The report stated that the total expenditure on the Revenue Account for the
@@ -299,7 +302,8 @@ Compassionate Communities Project
 
 In view of time constraints, the scheduled presentation on this item was
 
-deferred to the January Meeting.---
+deferred to the January Meeting.
+---
 5
 
 5.
@@ -380,7 +384,8 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Collins
 
 **Dublin (7th** **November, 2015):** Councillor O’Brien.
 
-**Sligo:** Councillor Gilligan.---
+**Sligo:** Councillor Gilligan.
+---
 6
 
 (ii)
@@ -467,7 +472,8 @@ per hour varies depending on type of incident as follows:
 
 € 550 per hour for private domestic, road traffic accidents,
 
-refuse skip/refuse bin fires etc.---
+refuse skip/refuse bin fires etc.
+---
 7
 
 € 1,100 per hour for Commercial Buildings.
@@ -560,7 +566,8 @@ Committee)
 
 It was agreed to refer this Motion to the Home and Social Development
 
-Strategic Policy Committee.---
+Strategic Policy Committee.
+---
 8
 
 10.
@@ -625,7 +632,8 @@ The Motion was agreed.
 
 Correspondence
 
-The Correspondence circulated with the Agenda was taken as read.---
+The Correspondence circulated with the Agenda was taken as read.
+---
 9
 
 MACRA NA FEIRME ANNUAL CONFERENCE:
@@ -662,4 +670,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

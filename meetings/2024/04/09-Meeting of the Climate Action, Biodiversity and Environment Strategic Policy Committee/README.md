@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-04-09 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-5)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-5" target="_blank">Link to meeting</a>**

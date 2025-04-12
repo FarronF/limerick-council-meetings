@@ -72,7 +72,8 @@ The Minutes were proposed by Cllr J Leddin and seconded by Cllr S Keary.
 
 Seamus O’ Connor informed the members that a review is required before the current
 
-strategy expires. This will need to be done in the next six to eight months.---
+strategy expires. This will need to be done in the next six to eight months.
+---
 **Item 3:**
 
 **Update on Syrian Resettlement Programme**
@@ -149,7 +150,8 @@ house’s structural condition
 
 has to carry out reconstruction or improvement works under section 12 of the Housing Act
 
-1988 or for the regeneration of the area in which the house is located.---
+1988 or for the regeneration of the area in which the house is located.
+---
 It was proposed that based on the high level of demand and the low level of turnover (i.e.
 
 stock returned for allocation) single occupancy units should be excluded due to the high
@@ -166,4 +168,5 @@ No other business was raised
 
 The meeting concluded.
 
-**Next Meeting: 24th** **of October 2016**---
+**Next Meeting: 24th** **of October 2016**
+---

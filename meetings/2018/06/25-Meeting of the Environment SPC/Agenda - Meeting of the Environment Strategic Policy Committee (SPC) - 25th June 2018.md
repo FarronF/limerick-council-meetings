@@ -25,7 +25,8 @@ appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -50,4 +51,5 @@ held on 26th February 2018.
 
 5. **Update on the Draft Noise Action Plan** **–** **Ms. Anne Goggin**
 
-6. **Discussion in relation to the Eradication of Japanese Knotweed**---
+6. **Discussion in relation to the Eradication of Japanese Knotweed**
+---

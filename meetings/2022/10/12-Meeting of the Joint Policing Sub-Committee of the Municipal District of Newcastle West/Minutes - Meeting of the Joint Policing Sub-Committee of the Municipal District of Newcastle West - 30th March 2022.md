@@ -64,7 +64,8 @@ Seconded by: Councillor Galvin
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2. Policing Issues in the District
@@ -139,7 +140,8 @@ increase in fraud and economic crimes which he stated is likely to continue, the
 
 cautious when disclosing bank details and to delete suspicious text messages. He stated that the
 
-Gardaí has identified persons and prosecutions are pending against this type of crime. He also---
+Gardaí has identified persons and prosecutions are pending against this type of crime. He also
+---
 3
 
 referred to the work which is ongoing with the banks at national level with a view to reducing
@@ -212,7 +214,8 @@ Path, Newcastle West and to any potential issues of anti-social behaviour which 
 
 as a result. In replying, Sergeant Barry noted that no incidents of anti-social behaviour has been
 
-highlighted and there are no concerns to date with regard to this matter.---
+highlighted and there are no concerns to date with regard to this matter.
+---
 4
 
 The Senior Executive Engineer referred to speeding on the Ardnacrohy Road, Newcastle West,
@@ -247,4 +250,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

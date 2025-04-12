@@ -608,7 +608,8 @@ Leasing Sub-Total as at 3rd January 2023
 
 **3rd January 2023**
 
-(Image omitted)---
+(Image omitted)
+---
 **Delivery Stream**
 
 **Explanation of the Delivery Stream**
@@ -727,4 +728,5 @@ become available to buy.
 
 **EXPLANATION OF LEASING DELIVERY STREAMS**
 
-(Image omitted)---
+(Image omitted)
+---

@@ -68,7 +68,8 @@ Proposed by Councillor O’Brien;
 
 Seconded by Councillor Scanlan;
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and
@@ -151,7 +152,8 @@ particulars of which were contained in Statutory Notice dated 4th November, 2014
 
 Circulated, copy of Statutory Notice dated 4th November, 2014, concerning
 
-disposal of land at 20, Linden Court, Kennedy Park, Limerick.---
+disposal of land at 20, Linden Court, Kennedy Park, Limerick.
+---
 3
 
 Proposed by Councillor Collins (M);
@@ -228,7 +230,8 @@ taken first and the result of the voting was as follows:
 
 Councillors Butler, Byrne, Galvin, Hourigan, Hurley, Keary, Mitchell, Neville,
 
-O’Donnell, Scanlan, Sheahan (K), Sheahan (M). **(12)**---
+O’Donnell, Scanlan, Sheahan (K), Sheahan (M). **(12)**
+---
 4
 
 **Against**
@@ -293,7 +296,8 @@ Management, Staff, Unions and Members. The Chief Executive acknowledged the
 
 efforts of the Staff and Elected Members in these achievements. The Mayor stated
 
-that the trophies were on display in the Chamber.---
+that the trophies were on display in the Chamber.
+---
 5
 
 **Vote of Congratulations**
@@ -382,7 +386,8 @@ invited to make submissions in relation to same. The closing date was Monday, 17
 
 November, and submissions were received from the Agriculture/Farming and
 
-Environment/Conservation Pillars.---
+Environment/Conservation Pillars.
+---
 6
 
 The proposed Sectoral Representation on each Strategic Policy Committee
@@ -473,7 +478,8 @@ Councillors O’Donnell, Sheahan (J), Galvin, Scanlan, Keary, Neville, McMahon,
 
 Quinlivan, Prendiville, Keller, Leddin, Donegan (Chair), Clifford, Foley, O’Dea,
 
-O’Donoghue, Teefy, Gilligan.---
+O’Donoghue, Teefy, Gilligan.
+---
 7
 
 **Travel and Transportation**
@@ -538,7 +544,8 @@ follows:
 
 Councillors Browne, Gilligan, McCreesh, McMahon, O’Brien, Cmhlr. Ó Ceallaigh,
 
-Quinlivan, Sheahan (K), Sheehy, Teefy. **(10)**---
+Quinlivan, Sheahan (K), Sheehy, Teefy. **(10)**
+---
 8
 
 **For Councillor Keary**
@@ -601,7 +608,8 @@ Galvin, Gleeson, Hourigan, Hurley, Keary, Leddin, Lynch, Mitchell, Neville, O’
 
 O’Donnell, O’Hanlon, Scanlan, Secas, Sheahan (J), Sheahan (K), Sheahan (M),
 
-Teefy. **(26)**---
+Teefy. **(26)**
+---
 9
 
 **For Councillor McMahon**
@@ -680,7 +688,8 @@ The Head of Finance stated that approval was required to overdraft
 
 accommodation amounting to €31.5 million for the twelve month period
 
-ending 31st December, 2015.---
+ending 31st December, 2015.
+---
 10
 
 The Head of Finance explained that the request for approval for overdraft
@@ -765,7 +774,8 @@ Circulated, report of Director of Economic Development and Planning dated
 
 3rd November, 2014, in relation to the taking-in-charge of a number of estates as
 
-outlined.---
+outlined.
+---
 11
 
 The report stated that in accordance with Section 180 of the Planning and
@@ -848,7 +858,8 @@ seconded by Councillor Scanlan, and agreed that the item be deferred until such
 
 time as it was ascertained what the funding was for and that the matter be discussed
 
-at a Meeting of the Municipal District and then brought back to the full Council.---
+at a Meeting of the Municipal District and then brought back to the full Council.
+---
 12
 
 ***Suspension of Standing Orders:*** As the time was approaching 5.30pm, on the
@@ -929,7 +940,8 @@ was agreed that the following Members would attend:
 
 **Clonakilty, Co. Cork (21st/22nd** **November, 2014):** Councillors Lynch and Gilligan.
 
-**Wexford:** Councillors O’Hanlon and Collins (M).---
+**Wexford:** Councillors O’Hanlon and Collins (M).
+---
 13
 
 **Galway (5th/6th** **December, 2014):** Councillors Gleeson and Donegan.
@@ -990,7 +1002,8 @@ Question submitted by Councillor L. Galvin
 
 ***Water be charging / litre; (c) what allowance, if any, will apply to farmers; and***
 
-***(d) what happens where leaks are found regarding write-offs.***---
+***(d) what happens where leaks are found regarding write-offs.***
+---
 14
 
 **REPLY:**
@@ -1073,7 +1086,8 @@ Consultation on a proposed future company structure and strategy for
 
 69 O’Connell Street has taken place and which included a World Café
 
-with practitioners, on-line survey and questionnaires.---
+with practitioners, on-line survey and questionnaires.
+---
 15
 
 The report on the proposed strategy called for the establishment of a
@@ -1146,7 +1160,8 @@ Notice of Motion submitted by Councillor S. Browne
 
 **amend the Social Welfare Bill to make provision for the restoration of the**
 
-**Respite Care Grant.**---
+**Respite Care Grant.**
+---
 16
 
 Councillor Browne, in proposing the Motion, stated that Limerick City and
@@ -1217,7 +1232,8 @@ Councillor Loftus seconded the Motion.
 
 The Mayor indicated that Notices of Motion Nos. 15 and 18 would be taken
 
-together:---
+together:
+---
 17
 
 **15.**
@@ -1300,7 +1316,8 @@ Councillor O’Donoghue stated that the speed limit in Banogue was 50 km/h
 
 and that the road was not fit for purpose. He added that he had made several
 
-submissions to the National Roads Authority in this regard.---
+submissions to the National Roads Authority in this regard.
+---
 18
 
 Councillor Donegan, in seconding the Motion, said that 90% of the traffic
@@ -1375,7 +1392,8 @@ Councillor Gilligan stated that J.P. McManus had given well over €100m and
 
 time and energy to local charities and that this needed to be acknowledged.
 
-The Motion was seconded by Councillor Donegan and agreed.---
+The Motion was seconded by Councillor Donegan and agreed.
+---
 19
 
 In response to a suggestion that there should be a Civic Reception held in his
@@ -1446,7 +1464,8 @@ were not being used should not be required to make an annual declaration. In the
 
 event that they were brought back into use, they could then be declared.  He
 
-requested that this Motion be circulated to all Local Authorities and this was agreed.---
+requested that this Motion be circulated to all Local Authorities and this was agreed.
+---
 20
 
 Councillor Sheahan (J), in seconding the Motion, stated that it made sense
@@ -1533,7 +1552,8 @@ stated that there should be public representation on the Committee via the Strat
 
 Policy Committees. Councillor Prendiville stated that they did not wish to be
 
-represented on the proposed Committee.---
+represented on the proposed Committee.
+---
 21
 
 20.
@@ -1616,7 +1636,8 @@ open countryside, it is an objective to prevent avoid linear roadside
 
 frontage development on roads leading out of towns and villages
 
-except in exceptional circumstances.---
+except in exceptional circumstances.
+---
 22
 
 The proposal is also to amend the following Objectives:
@@ -1695,7 +1716,8 @@ Development Plan to implement the changes. The variation is an
 
 onerous process and, in this case, would not achieve any difference in
 
-the outcome of the policy.---
+the outcome of the policy.
+---
 23
 
 Councillor Sheahan (J) stated that he had no problem going to the Minister.
@@ -1762,7 +1784,8 @@ wording of the Motion to read as follows: “I will move at the next Meeting *th
 
 The Motion, as amended, was seconded by Councillor Sheahan (J).
 
-Councillor Donegan stated that he wanted the matter dealt with speedily.---
+Councillor Donegan stated that he wanted the matter dealt with speedily.
+---
 24
 
 24.
@@ -1831,7 +1854,8 @@ the Minister and on the National Roads Authority.
 
 The Director of Travel and Transportation stated that public consultation
 
-would take place early in the New Year regarding Foynes-Limerick route.---
+would take place early in the New Year regarding Foynes-Limerick route.
+---
 25
 
 **Request from Limerick City Business Association:**
@@ -1864,4 +1888,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

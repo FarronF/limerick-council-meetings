@@ -58,7 +58,8 @@ right across Limerick, and how they will miss his great support and guidance.
 
 The Mayor stated that he was elected to Limerick City and County Council on his very first
 
-time running as a candidate in 2014, and subsequently re-elected to Limerick City and County---
+time running as a candidate in 2014, and subsequently re-elected to Limerick City and County
+---
 2
 
 Council in 2019. Jerry was elected Mayor of Limerick Metropolitan District in 2015 – 2016,
@@ -105,4 +106,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

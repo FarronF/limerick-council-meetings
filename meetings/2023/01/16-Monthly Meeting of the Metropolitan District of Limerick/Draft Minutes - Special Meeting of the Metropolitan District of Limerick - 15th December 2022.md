@@ -66,7 +66,8 @@ envisaging a replacement report by the Council and not merely a supplemental rep
 
 She confirmed that the High Court had ordered that the process should be reverted to the
 
-Council’s Chief Executive’s Report phase, and had further ordered that the Council had until the---
+Council’s Chief Executive’s Report phase, and had further ordered that the Council had until the
+---
 2
 
 21st December 2022 (17 days from the date of perfection of the High Court Order) to submit an
@@ -153,7 +154,8 @@ mini public plaza and provision for future public subscription bicycle stands;
 
 total number of build-to-rent apartments is 30, containing 104 bed spaces. Overall building
 
-area at or above ground level is 14,358m2.---
+area at or above ground level is 14,358m2.
+---
 3
 
 Following a detailed consideration and discussion of the application, the Members highlighted the
@@ -226,4 +228,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -29,7 +29,8 @@ out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -64,4 +65,5 @@ policy in relation to its stance on non-national tertiary roads and include a mi
 
 of two per year in the Schedule of Municipal District Works for reconstruction to
 
-start the process.---
+start the process.
+---

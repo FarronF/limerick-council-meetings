@@ -62,7 +62,8 @@ Infrastructure Development :
 
  Lack of consultation with community groups in the area;
 
- Traffic safety---
+ Traffic safety
+---
 **2**
 
 In reply to Members queries, the Senior Planner noted the Members’ comments and
@@ -135,7 +136,8 @@ Proposed by Councillor S. Kiely;
 
 Seconded by Councillor J. Sheahan;
 
-And Resolved:---
+And Resolved:
+---
 **3**
 
 “That, in accordance with Section 142 (5) of the Local Government Act, 2001, as
@@ -192,4 +194,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

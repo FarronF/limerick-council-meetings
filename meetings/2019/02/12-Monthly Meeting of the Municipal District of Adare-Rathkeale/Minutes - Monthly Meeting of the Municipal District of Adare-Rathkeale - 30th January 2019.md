@@ -64,7 +64,8 @@ Councillor Keary requested an update on the results of the Economic Assessment w
 
 was sought in January 2018, however, this was only reported to a meeting of party
 
-leaders.---
+leaders.
+---
 2
 
 **2.**
@@ -139,7 +140,8 @@ This was seconded by Councillor McMahon. The Director informed Councillors that 
 
 members could only pass resolutions based on delegated functions to the District. As a
 
-result their proposal would have to be submitted to a full Council meeting for approval.---
+result their proposal would have to be submitted to a full Council meeting for approval.
+---
 3
 
 She also advised that a similar proposal had already been passed by the Council at its
@@ -184,4 +186,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

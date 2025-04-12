@@ -62,9 +62,11 @@ Development Act, 2000 (as amended), in relation tothe **Refurbishment and Renova
 
 Proposed: Councillor Donegan
 
-Seconded: Councillor E Ryan.---
+Seconded: Councillor E Ryan.
+---
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cathaoirleach**
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

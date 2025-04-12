@@ -73,7 +73,8 @@ on 20th February, 2023.
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **2.Disposal of Land**
@@ -134,7 +135,8 @@ Development Act 2000 (as amended), and Part 8 of the Planning and Development Re
 
 Street, Limerick.
 
-(Reports Enclosed).---
+(Reports Enclosed).
+---
 3
 
 **QUESTIONS**
@@ -189,7 +191,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for the 
 
 work will commence on Father Russell Road and South Circular Road Active Travel Schemes and
 
-when detailed design will be brought to Limerick City West Councillors for input.---
+when detailed design will be brought to Limerick City West Councillors for input.
+---
 4
 
 **NOTICES OF MOTION**
@@ -246,9 +249,11 @@ be stopped as it causes accessibility issues on footpaths.
 
 I will move at the next Meeting of the Metropolitan District of Limerick that the upgrade works
 
-for the children’s playground at The People’s Park are commenced without delay.---
+for the children’s playground at The People’s Park are commenced without delay.
+---
 5
 
 **19.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

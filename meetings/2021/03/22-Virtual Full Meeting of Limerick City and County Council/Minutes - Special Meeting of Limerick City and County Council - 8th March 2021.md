@@ -68,7 +68,8 @@ that Iconic Newspapers’ unwillingness to enter dialogue with their workers str
 
 heart of what news media was there to protect and enshrine – namely, accountability and
 
-transparency.---
+transparency.
+---
 2
 
 He went on to say that the Limerick Leader was part of Limerick’s culture and heritage since
@@ -145,7 +146,8 @@ to request that the Group recognise the National Union of Journalists and engage
 
 NUJ worker representatives to address concerns of their employees working in the Limerick
 
-Leader newspaper.---
+Leader newspaper.
+---
 3
 
 It was proposed by Councillor C. Sheehan that the resolution of the Council should also be
@@ -164,4 +166,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

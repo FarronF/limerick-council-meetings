@@ -74,7 +74,8 @@ Cllr. J Leddin who had submitted Notices of Motion.
 
 ***working in Limerick, endorse the introduction of a regularisation scheme***
 
-***for undocumented migrants in Ireland”.***---
+***for undocumented migrants in Ireland”.***
+---
 Cllr. Leddin acknowledged the work of NGO’s in Limerick especially Doras Luimní who do
 
 great work with migrants and the undocumented in Limerick. He asked the members of this
@@ -149,7 +150,8 @@ for more details on the groups behind this proposal.
 
 ***of outdoor public gym facilities across the Metropolitan area over the next***
 
-***year”.***---
+***year”.***
+---
 Cllr. O’ Ceallaigh advised the meeting that this is an initiative that he would like the Council
 
 to consider in 2017. He asked that the Council be more encouraging of people leading
@@ -202,4 +204,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

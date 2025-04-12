@@ -50,7 +50,8 @@ on the 20th October 2020 were proposed by Cllr. Foley, seconded by Cllr. Ryan an
 
 Mr. Kennedy updated the Committee on items arising from the last meeting:
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 Response to Mr. Bruce Harper’s question if it was known how much the LSMATS will increase
@@ -125,7 +126,8 @@ efficiency targets contained in the Climate Action Plan 2019. Ministerial guidan
 
 content and preparation of the local authority climate action plan is also provided for under
 
-Section 14A of the Bill.---
+Section 14A of the Bill.
+---
 3
 
 5. Forthcoming guidelines from the Environmental Protection Agency relating to Green
@@ -196,7 +198,8 @@ see more focus on pedestrians as part of the Council’s strategy. He stated tha
 
 a particular problem for residents and added that the importance of having students and
 
-parents drive this will give the best results.---
+parents drive this will give the best results.
+---
 4
 
 Cllr. O’Donovan fully supports the initiative and the pilot is very welcome. She advised that
@@ -271,7 +274,8 @@ Scheme. The purpose of the presentation is primarily to inform the members and a
 
 a proposal in relation to how the schemes should be ranked and prioritised going forward.
 
-The Chair opened up the floor to comments / questions.---
+The Chair opened up the floor to comments / questions.
+---
 5
 
 Cllr. Michael Sheahan stated that a lot of rural members are very dissatisfied with the
@@ -342,7 +346,8 @@ concerns that the Members have raised.
 
 **Item 5: Notice of Motion submitted by Councillor F. Kilcoyne (referred from the**
 
-**Metropolitan District).**---
+**Metropolitan District).**
+---
 6
 
 “I will move at the next Metropolitan Meeting, to request free car parking for Limerick city to
@@ -417,7 +422,8 @@ Mr. McGrath replied that bollards were installed owing to concerns regarding pub
 
 issues, and that this decision was now being reviewed. He stressed the need to come up with
 
-a solution that meets the needs of all concerned parties.---
+a solution that meets the needs of all concerned parties.
+---
 7
 
 Mr. Harper advised that it was reported in the Limerick Leader that a commitment was given
@@ -430,4 +436,5 @@ In response Mr. Gallagher replied that consultation is progressing to resolve th
 
 Chair asked for forbearance whilst consultation is ongoing.
 
-The Chair closed the meeting by wishing all a safe, peaceful and happy Christmas.---
+The Chair closed the meeting by wishing all a safe, peaceful and happy Christmas.
+---

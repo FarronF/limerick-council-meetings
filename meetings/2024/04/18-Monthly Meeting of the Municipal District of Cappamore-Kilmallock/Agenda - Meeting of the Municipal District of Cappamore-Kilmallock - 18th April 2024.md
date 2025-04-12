@@ -44,7 +44,8 @@ Matters Arising
 
 3.
 
-Declaration of Interest---
+Declaration of Interest
+---
 2
 
 4.
@@ -105,7 +106,8 @@ Limerick City & County Council extend the speed limit on the approach road on th
 
 from Bruff in Kilmallock, to include a 60Km section, installation of public lights and traffic
 
-calming measures for pedestrians.---
+calming measures for pedestrians.
+---
 3
 
 10.Notice of Motion submitted by Councillor Carey
@@ -150,4 +152,5 @@ built in the District between 2019 and present, the number of vacant houses refu
 
 and reallocated in the District in the same period and the number of vacant houses in the
 
-area at present.”---
+area at present.”
+---

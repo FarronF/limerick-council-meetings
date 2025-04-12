@@ -68,7 +68,8 @@ That the minutes from Cultural Strategic Policy Committee meeting held on 12th D
 
 2017 be adopted.
 
-**CULTURAL STRATEGIC POLICY COMMITTEE**---
+**CULTURAL STRATEGIC POLICY COMMITTEE**
+---
 2
 
 **Item 2.**
@@ -141,7 +142,8 @@ concepts for new festivals/events.
 
 An independent panel made a number of recommendations that were approved at the July
 
-2017 meeting of the Limerick Metropolitan District meeting, including;---
+2017 meeting of the Limerick Metropolitan District meeting, including;
+---
 3
 
 **Electronic Music Festival (CWB)**
@@ -206,4 +208,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

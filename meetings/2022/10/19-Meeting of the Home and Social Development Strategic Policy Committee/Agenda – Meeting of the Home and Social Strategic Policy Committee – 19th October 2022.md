@@ -40,4 +40,5 @@ Services and provide more transitional housing.
 
 10. AOB
 
-Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council---
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

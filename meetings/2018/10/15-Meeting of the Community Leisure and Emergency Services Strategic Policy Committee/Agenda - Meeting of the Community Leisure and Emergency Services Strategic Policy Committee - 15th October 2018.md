@@ -60,4 +60,5 @@ Calendar of SPC Meetings 2018/2019
 
 **Community, Leisure and Emergency Services SPC**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

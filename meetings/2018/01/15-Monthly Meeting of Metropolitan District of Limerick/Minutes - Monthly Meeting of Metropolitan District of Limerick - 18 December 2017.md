@@ -68,7 +68,8 @@ Circulated, Report of the Acting Director, Social Development dated 28th Novembe
 
 outlining proposals for the disposal of land at 5 Byrne Avenue, Prospect, Limerick in
 
-consideration of ownership of 33 Byrne Avenue, Prospect, Limerick being transferred to the---
+consideration of ownership of 33 Byrne Avenue, Prospect, Limerick being transferred to the
+---
 2
 
 Council and the intention to bring a related Section 183 Notice to the Full Council for approval.
@@ -185,7 +186,8 @@ facilities, in conjunction with same.
 
 Circulated, Report of the Director of Services, Service Operations Directorate dated 13th
 
-December, 2017 and enclosed Chief Executive’s Report dated 13th December, 2017 setting out---
+December, 2017 and enclosed Chief Executive’s Report dated 13th December, 2017 setting out
+---
 3
 
 details of proposed residential refurbishment / development (12 units) at 1-12 Bourke Avenue,
@@ -266,7 +268,8 @@ to technical faults. The O'Connell Street monitor was offline from 25th May unti
 
 12th June due to a cable fault. The Mungret monitor was offline from 28th Nov.
 
-to 13th Dec. due to a blown transformer.---
+to 13th Dec. due to a blown transformer.
+---
 4
 
 The results from the monitors show the air quality in the three locations to be
@@ -429,7 +432,8 @@ properties by this Council utilising choice based letting.
 
 CSS is to examine the feasibility of undertaking a pilot CBL project in 2018 and
 
-will report on this matter to the Housing SPC in advance of same.---
+will report on this matter to the Housing SPC in advance of same.
+---
 5
 
 **9.**
@@ -650,7 +654,8 @@ Temporary Emergency Provision – Lord Edward Street
 
 21
 
-20---
+20
+---
 6
 
 24
@@ -771,7 +776,8 @@ community. A number of Developers have opted, in consultation with Limerick
 
 City and County Council, to meet their Part V obligations with the provision of
 
-community dwellings and elderly accommodation.---
+community dwellings and elderly accommodation.
+---
 7
 
 **13.**
@@ -852,7 +858,8 @@ into consideration.
 
 ***I move at the next Meeting that, given the scale of the housing crisis in the City, the***
 
-***Metropolitan District call for a halt to the sell off of Council owned lands suitable for housing,***---
+***Metropolitan District call for a halt to the sell off of Council owned lands suitable for housing,***
+---
 8
 
 ***and instead for these lands to be used for public housing, including a mix of social rental and***
@@ -933,7 +940,8 @@ planning application for the development would have to be submitted to An Bord P
 
 noted the Chief Executive’s commitment to brief the Members, prior to submission of the
 
-planning application, which would take into consideration any submissions already made.---
+planning application, which would take into consideration any submissions already made.
+---
 9
 
 **17.**
@@ -1014,7 +1022,8 @@ Full Council.
 
 It was agreed that this Notice of Motion be referred to the Travel and Transportation Strategic
 
-Policy Committee.---
+Policy Committee.
+---
 10
 
 **19.**
@@ -1059,4 +1068,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

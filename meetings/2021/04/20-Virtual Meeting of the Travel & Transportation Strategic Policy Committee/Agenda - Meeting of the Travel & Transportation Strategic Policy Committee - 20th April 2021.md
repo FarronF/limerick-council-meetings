@@ -29,7 +29,8 @@ business to be transacted is set out in the appended agenda.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -84,7 +85,8 @@ pollution all have a significant negative impact on outdoor spaces.
 
 What plans, if any, are in progress for Limerick City Centre and county town centres
 
-for covid mobilty, walking and cycling and pedestrianisation of streets for outdoor---
+for covid mobilty, walking and cycling and pedestrianisation of streets for outdoor
+---
 3
 
 dining, performance and urban animation? How are LCCC engaging with business
@@ -127,4 +129,5 @@ route?”
 
 **7.b**
 
-**Presentation by The Limerick Pedestrian Network - Three Bridges Walking Route**---
+**Presentation by The Limerick Pedestrian Network - Three Bridges Walking Route**
+---

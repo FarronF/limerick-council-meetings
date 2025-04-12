@@ -62,7 +62,8 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **2.**
@@ -145,7 +146,8 @@ In response, the Munster CEO welcomed the support from the Members and looked fo
 
 working with them on creating a strategy and financial model that would benefit both Munster
 
-Rugby and Limerick City and County Council.---
+Rugby and Limerick City and County Council.
+---
 3
 
 **3.**
@@ -230,7 +232,8 @@ of sections of the footpath in the core city centre area in the most efficient m
 
 stated that the product used was Ecoflex, which causes minimum disruption to the public, is
 
-environmentally friendly and is the most economical footpath repair.---
+environmentally friendly and is the most economical footpath repair.
+---
 4
 
 **(c)**
@@ -309,7 +312,8 @@ The number of approved applicants for all categories, on the Housing Waiting Lis
 
 in the Metropolitan Area of Limerick for the same period is 2,640. This figure
 
-excludes HAP, RAS and Local Authority Tenant transfers.---
+excludes HAP, RAS and Local Authority Tenant transfers.
+---
 5
 
 **7.**
@@ -390,7 +394,8 @@ this site.
 
 The Members further requested that no development progress on this site until the zoning issues
 
-are resolved.---
+are resolved.
+---
 6
 
 **10.**
@@ -471,7 +476,8 @@ all three Notices of Motion would be forwarded to the Environmental Protection A
 
 submission from the Members of the Metropolitan District of Limerick.
 
-“The Irish Cement Plant in Mungret is currently before the courts due to poor environmental---
+“The Irish Cement Plant in Mungret is currently before the courts due to poor environmental
+---
 7
 
 performance and fugitive dust emissions. This prosecution was due to public pressure, and
@@ -558,7 +564,8 @@ understand or investigate the clusters of cancer and pulmonary ailments that hav
 
 in the vicinity of the plant over many decades. If there are significant unknown health risks with
 
-the existing process how can we allow that risk to be radically increased, by a firm just emerging---
+the existing process how can we allow that risk to be radically increased, by a firm just emerging
+---
 8
 
 from the penalty box and currently facing prosecution, with an EPA that refuses to enforce and a
@@ -639,7 +646,8 @@ and greater profits for CRH.
 
 CRH’s application identifies 114 categories of industrial waste, used both as fuel and as
 
-“alternative raw materials” for cement to be incinerated. We are concerned that no evidence has---
+“alternative raw materials” for cement to be incinerated. We are concerned that no evidence has
+---
 9
 
 been provided to show that these compilations of “fuels” and “raw materials” have been
@@ -720,7 +728,8 @@ The remaining two properties require further pre-letting works following
 
 significant stabilisation works carried out in recent years. Therefore, these two
 
-buildings are not currently available for letting in the short-term.---
+buildings are not currently available for letting in the short-term.
+---
 10
 
 On the proposal of Councillor Butler seconded by Councillor Hourigan, Standing Orders were
@@ -765,4 +774,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

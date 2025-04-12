@@ -24,7 +24,8 @@ business to be transacted is set out in the appended agenda.
 
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -97,7 +98,8 @@ Change Adaption Strategy 2019-2024”.
 
 City and County Council identify suitable locations for additional public toilets within
 
-the Metropolitan area”.---
+the Metropolitan area”.
+---
 3
 
 **8.Notice of Motion submitted by Councillor E. Secas (to be referred to the Climate**
@@ -136,4 +138,5 @@ registration numbers on all packaging for food and drinks items that are purchas
 
 and to call on the Minister for Transport, Environment and Climate Change to roll out
 
-the initiative nationwide”.---
+the initiative nationwide”.
+---

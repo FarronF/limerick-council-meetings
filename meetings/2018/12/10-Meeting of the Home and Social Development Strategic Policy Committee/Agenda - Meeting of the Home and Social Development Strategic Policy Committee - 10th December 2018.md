@@ -42,4 +42,5 @@ payments be introduced that will apply to all tenants of the Joint Authority fro
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

@@ -46,4 +46,5 @@ and (ii) ensuring the household that is right-sizing has a quality home to move
 
 into. (PPN Linkage Group)
 
-Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council---
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

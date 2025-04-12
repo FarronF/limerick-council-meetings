@@ -68,7 +68,8 @@ Discussion took place in relation to the policing plan for the Adare-Rathkeale D
 
 the Christmas period. Members complimented the Superintedent and his staff for the
 
-excellent policing of the District over the season. While some residents of the town of---
+excellent policing of the District over the season. While some residents of the town of
+---
 Rathkeale had complained of over policing due to checkpoints etc. it was agreed that the
 
 District experienced a relatively crime free Christmas season as a result of this policing
@@ -141,4 +142,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

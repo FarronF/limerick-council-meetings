@@ -90,7 +90,8 @@ The Chairman stated that a lot of good work has been done in addressing the issu
 
 good structure is now in place. He confirmed that many meetings have taken place with representatives
 
-of the organisations Councillor Keary referred to and stressed the importance that the Chairperson of---
+of the organisations Councillor Keary referred to and stressed the importance that the Chairperson of
+---
 this group is a non-political person. He also confirmed that a joint collaboration report would be going
 
 back to the District Members every three months. He stressed the importance of the Minister coming
@@ -163,7 +164,8 @@ raised at the last meeting. He welcomed the announcement of a focused approach t
 
 He added that this is also an issue in Southill and pointed out that some people do not use scrambler
 
-bikes and e scooters responsibly and participate in anti-social behaviour. The noise from these bikes are---
+bikes and e scooters responsibly and participate in anti-social behaviour. The noise from these bikes are
+---
 causing a problem for people working from home. He stated that there are children as young as four or
 
 five years of age using e scooters which is a major cause of concern.
@@ -240,7 +242,8 @@ Councillor O’Donoghue acknowledged the very difficult job that first responder
 
 thanked them for their dedicated service. He pointed out that there are a lot of pedestrians walking on
 
-rural roads some of whom have dogs so it is important that people are educated about the dangers of---
+rural roads some of whom have dogs so it is important that people are educated about the dangers of
+---
 walking the roads and that cyclists be made aware also. He asked that this message go out to rural
 
 schools and ensure that young people are made aware of the dangers of our roads.
@@ -317,7 +320,8 @@ Limerick City and County. He stated that there are 353 community CCTV cameras ac
 
 county – 121 in Northside of the city, 122 in the Southside, 22 on Canal and Riverside and 88 in
 
-hinterland.---
+hinterland.
+---
 The Chairman thanked Mr. Dooley on his work to date in relation to CCTV and for his detailed
 
 presentation. He referred to the recent fine imposed on the Council by the Office of the Data Protection
@@ -396,7 +400,8 @@ criminal investigation before Gardaí can request CCTV footage.
 
 **9.TO RECEIVE CORRESPONDENCE**
 
-There was no correspondence---
+There was no correspondence
+---
 **10.QUESTION SUBMITTED BY MAURICE QUINLIVAN, T.D. :**
 
 ***“I will ask at the next Meeting of the Joint Poli**cing Committee for details of the number of illegal***
@@ -531,7 +536,8 @@ appropriate persons to the care of healthcare and other professionals. Diverting
 
 services results in the overall reduction in drug use, sale and supply of drugs, and anti-social
 
-behaviour.---
+behaviour.
+---
 Community Engagement Limerick City North also provides information to relevant persons via a Drug
 
 and Alcohol Services Mid-West Support Card. Cards are issued to persons on release from custody
@@ -606,7 +612,8 @@ March.
 
 **(REFERRED FROM METROPOLITAN DISTRICT OF LIMERICK MEETING HELD ON 20TH** **FEBRUARY,**
 
-**2023)**---
+**2023)**
+---
 ***“We will move at the next Meeting that Limerick City and County Council write to An Garda Síochána***
 
 ***to request that extra garda patrols are dispatched regularly to St. John’**s Square to alleviate anti-social***
@@ -659,4 +666,5 @@ caller’s name and address.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

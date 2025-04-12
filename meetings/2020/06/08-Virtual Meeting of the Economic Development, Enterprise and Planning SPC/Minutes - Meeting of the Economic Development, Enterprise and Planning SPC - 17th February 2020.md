@@ -60,7 +60,8 @@ P. Fitzgerald stated that this Notice of Motion would not be considered as Cllr.
 
 no longer a member of the committee. However, he stated that the matter regarding a Tall
 
-Buildings Strategy will be dealt with in Item 4.---
+Buildings Strategy will be dealt with in Item 4.
+---
 **Item 3**
 
 **Update on Limerick Food Strategy**
@@ -145,7 +146,8 @@ formed to consider the following topics: City & Environs, County Towns, Local Ar
 
 Infrastructure, Recreation & Social, Economic Development and Climate Change. Workshops
 
-and training will be provided for elected members.---
+and training will be provided for elected members.
+---
 She also updated members on the following:
 
 **RSES** – adopted on 31/1/20 and working with Regional Assembly on implementation of the
@@ -218,4 +220,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

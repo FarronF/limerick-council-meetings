@@ -76,7 +76,8 @@ Seconded by: Councillor J. Sheahan
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -151,7 +152,8 @@ maps.
 
 **Proposer:** Councillor Collins
 
-**Seconder:** Councillor Scanlan---
+**Seconder:** Councillor Scanlan
+---
 3
 
 **Reason:** As outlined previously, to alleviate and deal with traffic congestion in the town.
@@ -224,7 +226,8 @@ Authority must state the reasons for such decisions.
 
 it, and in such an instance, there is potential for a Draft Ministerial Direction.
 
- Otherwise the Local Area Plan will be effective by the 26th January 2024.---
+ Otherwise the Local Area Plan will be effective by the 26th January 2024.
+---
 4
 
 4. Rural, Community and Culture Development Directorate
@@ -297,7 +300,8 @@ L1211 from the south.
 
 He also stated that following a detailed application in 2022 the Department provided €25,000
 
-to progress the scheme through planning in 2023. He made reference to a number of issues---
+to progress the scheme through planning in 2023. He made reference to a number of issues
+---
 5
 
 identified with the current junction layout including sightlines onto the R518/R520 main
@@ -374,7 +378,8 @@ General Municipal Allocation (GMA)
 
 On the proposal of Councillor Scanlan, seconded by Councillor Sheahan, it was agreed to
 
-allocate €2,000 to West Limerick Radio.---
+allocate €2,000 to West Limerick Radio.
+---
 6
 
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
@@ -443,7 +448,8 @@ fence type will have to be in compliance with the new TII standards.
 
 ***Terrace, (b) Main Street (c) Old Church Street (d) New Street (e) Convent Street (e) the***
 
-***Convent building.***---
+***Convent building.***
+---
 7
 
 REPLY:
@@ -616,7 +622,8 @@ Main Street, Abbeyfeale
 
 Open case
 
-**Cases in the area may be further categorised as follows:**---
+**Cases in the area may be further categorised as follows:**
+---
 8
 
 **1.Cases where the property which has been acquired by LCCC**
@@ -749,7 +756,8 @@ Convent Road, Abbeyfeale
 
  DS-075-22
 
-Convent Road, Abbeyfeale---
+Convent Road, Abbeyfeale
+---
 9
 
  DS-156-20 Colbert Terrace, Abbeyfeale
@@ -832,7 +840,8 @@ Question submitted by Councillor T. Ruddle
 
 ***I will ask at the next Meeting*** **(a)** ***How many houses have been purchased or in the***
 
-***process of being purchased for the Tenant In Situ Scheme since it was introduced (b)How***---
+***process of being purchased for the Tenant In Situ Scheme since it was introduced (b)How***
+---
 10
 
 ***many houses have been offered to the Council and have not been purchased (c) What***
@@ -929,7 +938,8 @@ the terms of the scheme.
 
  landlords not engaging despite repeated attempts
 
- no agreement with owner on an independent market valuation---
+ no agreement with owner on an independent market valuation
+---
 11
 
  tenant has alternative accommodation or
@@ -998,7 +1008,8 @@ to consider these works and to revert to the Members on this matter at the Febru
 
 ***Desmond crèche and Desmond complex. It is very slippery and dangerous.***
 
-The Motion was seconded by Councillor Scanlan.---
+The Motion was seconded by Councillor Scanlan.
+---
 12
 
 REPLY:
@@ -1071,7 +1082,8 @@ Community carpark. He stated that an update will follow at the next Meeting.
 
 ***speed limit reductions, driver feedback signs and average speed cameras.***
 
-The Motion was seconded by Councillor Collins.---
+The Motion was seconded by Councillor Collins.
+---
 13
 
 REPLY:
@@ -1142,7 +1154,8 @@ Newcastle West.
 
 Reference was also made to the deterioration of roads over the last number of years and to
 
-the number of tar patchers in the District. In replying, the Senior Executive Engineer stated---
+the number of tar patchers in the District. In replying, the Senior Executive Engineer stated
+---
 14
 
 that there are two patching units in the District and that the street sweeper is in the District
@@ -1207,4 +1220,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

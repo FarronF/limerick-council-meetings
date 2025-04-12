@@ -78,7 +78,8 @@ attendance while Item 3(f) was being discussed.
 
 Circulated, report of the Senior Staff Officer, Housing Support Services dated 28th May,
 
-2019 setting out proposals to dispose of the Freehold Interest of premises consisting of a---
+2019 setting out proposals to dispose of the Freehold Interest of premises consisting of a
+---
 2
 
 dwelling house situate at 43 O’Dwyer Villas, Thomondgate, Limerick and the intention to
@@ -165,7 +166,8 @@ Circulated, report of the Head of Property Services dated 4th July, 2019 setting
 
 proposals to dispose of land at Galvone Industrial Estate to Limerick City Build (Regen)
 
-Limited and the intention to bring a Section 183 Notice to the September Meeting of---
+Limited and the intention to bring a Section 183 Notice to the September Meeting of
+---
 3
 
 Council in this regard, for approval.
@@ -244,7 +246,8 @@ above offences and work collaboratively with the Council on enforcement.
 
 Limerick City and County Council has a co-ordinated approach to implementing the
 
-various provisions of the Litter Pollution Act / Waste Management Acts and the---
+various provisions of the Litter Pollution Act / Waste Management Acts and the
+---
 4
 
 Waste Presentation Bye Laws. It involves the Domestic Waste & Litter, Street
@@ -333,7 +336,8 @@ protection, regulation or management of any land, services or other such matter
 
 provided by or **under the control or management** of the local authority. In that
 
-context the Council has included bye-laws regulating the use of vehicles (including---
+context the Council has included bye-laws regulating the use of vehicles (including
+---
 5
 
 motorcycles) in its existing Parks and Open Spaces Bye-Laws. However, the Council
@@ -424,7 +428,8 @@ to it.
 
 €670,232
 
-€4,021,392---
+€4,021,392
+---
 6
 
 **9.**
@@ -509,7 +514,8 @@ immediately. This will ensure that the vacated property enters a work stream
 
 based on a standard scope and timeframe, which is determined by an inspection
 
-of the property at the outset.---
+of the property at the outset.
+---
 7
 
 The above measures will be reviewed on a monthly basis to assess progress made
@@ -624,7 +630,8 @@ No. of cessations
 
 432
 
-228---
+228
+---
 8
 
 **12.**
@@ -703,7 +710,8 @@ major trip attractors will be considered. All transport modes will be considered
 
 and in addition, options including park and ride and park and stride bus
 
-connections will be examined.---
+connections will be examined.
+---
 9
 
 **14.**
@@ -786,7 +794,8 @@ applicant becomes the customer and the driver for the extension, thus funding th
 
 sewer extension to meet their needs. A link to the application forms is attached for
 
-your reference, https://www.water.ie/connections/get-connected/---
+your reference, https://www.water.ie/connections/get-connected/
+---
 10
 
 I trust you find the above information satisfactory. Thank you for contacting Irish
@@ -873,7 +882,8 @@ and ride, park and stride bus connection and cycle networks.
 
 **Correspondence**
 
-Correspondence was taken as read.---
+Correspondence was taken as read.
+---
 11
 
 Councillor Costelloe complimented the Parks Department on the excellent flower displays in the
@@ -890,4 +900,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -66,4 +66,5 @@ Any Other Business
 
 **Cultural SPC**
 
-**Limerick City & County Council**---
+**Limerick City & County Council**
+---

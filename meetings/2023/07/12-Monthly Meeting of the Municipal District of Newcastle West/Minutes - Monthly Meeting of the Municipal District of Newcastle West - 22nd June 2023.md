@@ -78,7 +78,8 @@ And Resolved:
 
 Circulated, copy of draft Minutes of Special Meeting of Municipal District of
 
-Newcastle West, held on 19th May, 2023.---
+Newcastle West, held on 19th May, 2023.
+---
 2
 
 Proposed by: Councillor Sheahan
@@ -145,7 +146,8 @@ allocate €650 to Kilcolman Drive Residents Association.
 
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
 
-€1,000 to Mountcollins Development Association.---
+€1,000 to Mountcollins Development Association.
+---
 3
 
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
@@ -220,7 +222,8 @@ REPLY:
 
 Limerick City and County Council will seek quotations for a new 75m long x
 
-1.2m wide concrete footpath located at the western boundary of the Council---
+1.2m wide concrete footpath located at the western boundary of the Council
+---
 4
 
 Graveyard situated to the rear of the Holy Trinity Church in Templeglantine
@@ -295,7 +298,8 @@ as a safety measure. In this regard, further investigations are needed as to
 
 ownership of the land involved and sourcing of finance to carry out the works
 
-should it be feasible to do same.---
+should it be feasible to do same.
+---
 5
 
 In proposing the Motion, Councillor Scanlan highlighted the various safety concerns at this
@@ -364,7 +368,8 @@ for these works and are due to commence in August 2023.
 
 ***collapsing.***
 
-The Motion was seconded by Councillor Scanlan.---
+The Motion was seconded by Councillor Scanlan.
+---
 6
 
 REPLY:
@@ -437,7 +442,8 @@ works.
 
 An update was sought on the request to have the new playground and car park in Tournafulla
 
-insured under the Council’s portfolio. In replying, the Meetings Administrator stated that a---
+insured under the Council’s portfolio. In replying, the Meetings Administrator stated that a
+---
 7
 
 response had been received from the Property and Community Facilities Section which stated
@@ -510,7 +516,8 @@ Senior Executive Engineer, Meetings Administrator and all staff of the District 
 
 and assistance during his term as Cathaoirleach. The Director, on behalf of Management and
 
-Staff thanked the Cathaoirleach for his assistance during the year.---
+Staff thanked the Cathaoirleach for his assistance during the year.
+---
 8
 
 This concluded the Meeting.
@@ -523,4 +530,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

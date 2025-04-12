@@ -64,7 +64,8 @@ for Phase One are expected to be completed by the end of 2024.
 
 Mr. Vaughan continued outlining Phase Two of the project, which will involve signalling
 
-and train control systems for the route and the installation of 13 no. CCTV level crossings---
+and train control systems for the route and the installation of 13 no. CCTV level crossings
+---
 2
 
 on public roads which will be completed by 2025, subject to funding allocations and
@@ -133,7 +134,8 @@ the project would proceed.
 
 Circulated, report of the Senior Staff Officer, Housing Support Services dated 21st
 
-October, 2022 setting out proposals to dispose of freehold interest in property at 21---
+October, 2022 setting out proposals to dispose of freehold interest in property at 21
+---
 3
 
 Ballywilliam, Rathkeale, Co. Limerick and the intention to bring the Section 183 Notice to
@@ -198,7 +200,8 @@ to allocate €4,000 to Crecora Community Council.
 
 **Correspondence**
 
-Correspondence was noted and taken as read.---
+Correspondence was noted and taken as read.
+---
 4
 
 **8.**
@@ -225,4 +228,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-07-24 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-9)**
+**<a href="https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-9" target="_blank">Link to meeting</a>**

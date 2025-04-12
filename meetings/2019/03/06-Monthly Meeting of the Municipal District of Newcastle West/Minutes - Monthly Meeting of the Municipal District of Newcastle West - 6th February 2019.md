@@ -80,7 +80,8 @@ He said that a set down area was developed in 2007 in response to concerns regar
 
 of pupils, pedestrians and motorists. He also noted that 91 of the 167 pupils walk to and from
 
-school. He mentioned that proposed upgrade roadworks on the R515 offers an ideal---
+school. He mentioned that proposed upgrade roadworks on the R515 offers an ideal
+---
 2
 
 opportunity to put warning lights, speed detectors and a pedestrian crossing in place for
@@ -153,7 +154,8 @@ representatives on the above matter.
 
 It was agreed that costings for the requested safety measures at Scoil Mhuire, Broadford, St.
 
-Fergus Glin and Killoughteen National Schools would be sought and the Members advised on---
+Fergus Glin and Killoughteen National Schools would be sought and the Members advised on
+---
 3
 
 same by the Senior Executive Engineer. Discussion also took place on the possibility of
@@ -216,7 +218,8 @@ REPLY:
 
 Footpath upgrade works along Scanlan’s Lane will be carried out within the
 
-next two weeks.---
+next two weeks.
+---
 4
 
 7.
@@ -325,7 +328,8 @@ Kerb Joints to be filled with
 
 suitable material
 
-500.00---
+500.00
+---
 5
 
 4
@@ -466,7 +470,8 @@ Contingences at 10%
 
 TOTAL
 
-60,170.00---
+60,170.00
+---
 6
 
 A brief discussion took place on the above including the bond available and the need for
@@ -535,7 +540,8 @@ NOTICES OF MOTION
 
 ***I will move at the next Meeting that a traffic management plan be created for Collins Park,***
 
-***Abbeyfeale.***---
+***Abbeyfeale.***
+---
 7
 
 In proposing the Motion, Councillor Galvin stated that it is difficult for emergency vehicles to
@@ -606,7 +612,8 @@ town.
 
 ***I will move at the next Meeting that the RSA carry out a traffic safety audit along the R520***
 
-***eastward bound approach to Ballynoe Cross.***---
+***eastward bound approach to Ballynoe Cross.***
+---
 8
 
 In proposing the Motion, Councillor Scanlan stated that there are a number of households in
@@ -665,7 +672,8 @@ The Motion was seconded by Councillor Scanlan.
 
 REPLY**:**
 
-This request will be forwarded to the TII for consideration.---
+This request will be forwarded to the TII for consideration.
+---
 9
 
 18. Correspondence
@@ -734,4 +742,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

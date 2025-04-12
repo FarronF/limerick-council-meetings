@@ -76,7 +76,8 @@ To discuss Home Improvement Scheme
 
 The Cathaoirleach welcomed the Senior Engineer, LA Housing Construction and Maintenance
 
-to the Meeting.---
+to the Meeting.
+---
 2
 
 The Senior Engineer referred to the 2022 Home Improvement Scheme and stated that this is
@@ -155,7 +156,8 @@ Planning, Environment and Place-Making Directorate
 
 To Consider Planning Compliance Report for Abbeyfeale Traffic
 
-Management Scheme.---
+Management Scheme.
+---
 3
 
 Circulated, report of Senior Executive Engineer, Planning, Environment and Place-Making
@@ -226,7 +228,8 @@ The report was proposed by Councillor Galvin, seconded by Councillor Sheahan and
 
 Transportation and Mobility Directorate
 
-To receive Update on the Mass Path, Newcastle West.---
+To receive Update on the Mass Path, Newcastle West.
+---
 4
 
 The Senior Executive Engineer, Roads, gave an update to the Members and referred to the
@@ -295,7 +298,8 @@ Estimated
 
 date of
 
-completion---
+completion
+---
 5
 
 RADHARC NA
@@ -400,7 +404,8 @@ on this matter.
 
 10.
 
-Question submitted by Councillor J. Scanlan---
+Question submitted by Councillor J. Scanlan
+---
 6
 
 ***I will ask at the next Meeting when reinstatement work is expected to commence on vacant***
@@ -471,7 +476,8 @@ NOTICES OF MOTION
 
 13. Notice of Motion submitted by Councillor L. Galvin
 
-***I will move at the next Meeting that where houses are habitable that this Council move***---
+***I will move at the next Meeting that where houses are habitable that this Council move***
+---
 7
 
 ***to get tenants housed as soon as possible.***
@@ -542,7 +548,8 @@ Under 'Housing for All', the Government's priority is to deliver 47,600 new buil
 
 over the next five years. Given the focus of support on the build programme and the need to
 
-avoid competition, Limerick City and County Council has been requested to limit acquisitions---
+avoid competition, Limerick City and County Council has been requested to limit acquisitions
+---
 8
 
 of privately owned properties to specific priority acquisitions (homeless and disability),
@@ -609,7 +616,8 @@ Directorate on this matter.
 
 ***tarmacked.***
 
-The Motion was seconded by Councillor Collins.---
+The Motion was seconded by Councillor Collins.
+---
 9
 
 REPLY:
@@ -674,7 +682,8 @@ It was agreed to hold the Annual Meeting of the District on Wednesday, 8th June,
 
 12.00 noon, Áras William Smith OBrien.
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 10
 
 Signed:
@@ -685,4 +694,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

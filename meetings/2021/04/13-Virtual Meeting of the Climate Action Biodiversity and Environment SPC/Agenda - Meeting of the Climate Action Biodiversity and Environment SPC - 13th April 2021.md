@@ -24,7 +24,8 @@ The business to be transacted is set out in the appended agenda.
 
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -85,7 +86,8 @@ and voluntary groups similar to the Maintenance of Open Spaces Grant.”
 
 City and County Council install on-street compost bins for people to dispose of
 
-compostable cups and green waste.”---
+compostable cups and green waste.”
+---
 3
 
 **6.Notice of Motion referred from the Full Council Meeting of 22 March, 2021**
@@ -118,4 +120,5 @@ of its negative impact on biodiversity and critically endangered species.”
 
 Trees (CAVAT) as a method for managing trees as public assets rather than liabilities.
 
-See https://www.ltoa.org.uk/resources/cavat"---
+See https://www.ltoa.org.uk/resources/cavat"
+---

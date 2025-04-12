@@ -21,7 +21,8 @@ a.m. The business to be transacted is set out in the appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -42,4 +43,5 @@ held on 26th February 2018.
 
 4. **Presentation on Energy Efficiency Improvements** **–** **Mr. Pat Stephens, Manager,**
 
-**Limerick Clare Energy Agency**---
+**Limerick Clare Energy Agency**
+---

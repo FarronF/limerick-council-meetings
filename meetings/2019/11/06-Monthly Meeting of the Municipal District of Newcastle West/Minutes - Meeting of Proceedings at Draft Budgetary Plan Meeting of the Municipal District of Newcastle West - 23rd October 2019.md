@@ -98,7 +98,8 @@ Special Projects – LPT
 
 **270,000**
 
-A discussion took place on the Service category as outlined and the funding assigned to each.---
+A discussion took place on the Service category as outlined and the funding assigned to each.
+---
 2
 
 The Director Support Services, noted that the Special Projects – LA Infrastructure, in the sum
@@ -149,4 +150,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

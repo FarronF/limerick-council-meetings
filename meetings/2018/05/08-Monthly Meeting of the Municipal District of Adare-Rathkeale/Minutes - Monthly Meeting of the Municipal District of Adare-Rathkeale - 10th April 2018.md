@@ -60,7 +60,8 @@ Meeting:
 
 ***funding is required in order for t**hese roads to be properly fixed”.***
 
-Circulated, reply of the A/Senior Executive Engineer:---
+Circulated, reply of the A/Senior Executive Engineer:
+---
 2
 
 *“The survey has been completed and the cost estimate for re surfacing these roads is*
@@ -131,7 +132,8 @@ landowner are ongoing.
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor O’Brien, it was agreed
 
-an update would be given at the next meeting.---
+an update would be given at the next meeting.
+---
 3
 
 It was agreed Item 5 on the Agenda would be taken next.
@@ -200,7 +202,8 @@ friendly. Members warmly welcomed the proposal. A discussion also took place at 
 
 lack of parking spaces in Adare village giving its strategic location as a gateway to the Kerry
 
-Region and asked that the parking issue be actively pursued by the Council.---
+Region and asked that the parking issue be actively pursued by the Council.
+---
 4
 
 **6.**
@@ -255,7 +258,8 @@ Circulated, report of the Senior Executive Engineer, Operations and Maintenance 
 
 dated 28th March, 2018 giving an update in relation to proposed traffic calming measures
 
-at Kilcornan. The report was noted by Members.---
+at Kilcornan. The report was noted by Members.
+---
 5
 
 **9.**
@@ -322,7 +326,8 @@ on this matter at the May Meeting.
 
 At the conclusion of the Agenda the following issues were raised by Members with the
 
-permission of the Cathaoirleach.---
+permission of the Cathaoirleach.
+---
 6
 
  Councillor O’Donoghue raised the issue of the proposed development of the new
@@ -391,7 +396,8 @@ to reinstate these roads.
 
  Councillor Teskey raised the issue of repairs to the Bridge in Shanagolden and
 
-requested this matter be resolved as a matter of urgency. The Executive Engineer,---
+requested this matter be resolved as a matter of urgency. The Executive Engineer,
+---
 7
 
 Operations & Maintenance Services infromed Members they are awaiting a report
@@ -414,4 +420,5 @@ Signed :
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

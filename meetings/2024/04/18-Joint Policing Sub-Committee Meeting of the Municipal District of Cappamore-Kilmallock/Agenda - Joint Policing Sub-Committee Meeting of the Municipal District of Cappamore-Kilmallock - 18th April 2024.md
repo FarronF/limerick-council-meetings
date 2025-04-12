@@ -32,4 +32,5 @@ Sub-Committee held on 11th December, 2024.
 
 **2.Policing Issues**
 
-To discuss policing issues in the District.---
+To discuss policing issues in the District.
+---

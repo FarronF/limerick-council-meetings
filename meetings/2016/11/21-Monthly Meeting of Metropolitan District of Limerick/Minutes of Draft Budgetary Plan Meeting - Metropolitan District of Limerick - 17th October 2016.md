@@ -88,7 +88,8 @@ of Motion would be referred to the Economic Development, Enterprise and Planning
 
 Policy Committee:
 
-“That a Company, similar to Limerick 2030, be set up to cater for tourism development”.---
+“That a Company, similar to Limerick 2030, be set up to cater for tourism development”.
+---
 2
 
 Following a discussion Members agreed to adjourn the Meeting to Monday, 24th October, 2016 at
@@ -107,4 +108,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

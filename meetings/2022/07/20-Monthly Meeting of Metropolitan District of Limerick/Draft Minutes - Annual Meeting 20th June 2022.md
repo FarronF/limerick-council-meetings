@@ -72,7 +72,8 @@ their business.
 
 **Annual Meeting or until a successor has been elected**
 
-The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach for the coming year.---
+The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach for the coming year.
+---
 2
 
 Proposed by Councillor Butler;
@@ -149,7 +150,8 @@ She referred to the wide diversity in the Metropolitan District Council and also
 
 Councillors that sit on the Metropolitan District and she hoped that this would encourage more
 
-females to consider entering into politics.---
+females to consider entering into politics.
+---
 3
 
 As a proud Limerick Women, who has been passionate about Limerick all her life, she spoke about
@@ -224,7 +226,8 @@ Councillors Benson, Collopy, Kilcoyne, Novak Uí Chonchúir and O’Donovan
 
 Councillors Secas and Sheehan (C)
 
-(2)---
+(2)
+---
 4
 
 The Cathaoirleach declared Councillor McSweeney elected as Leas Cathaoirleach of the
@@ -249,4 +252,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

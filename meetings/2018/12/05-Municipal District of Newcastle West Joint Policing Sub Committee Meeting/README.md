@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-12-05 09:15:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/municipal-district-newcastle-west-joint-policing-sub-committee-meeting-1)**
+**<a href="https://www.limerick.ie/council/whats-on/municipal-district-newcastle-west-joint-policing-sub-committee-meeting-1" target="_blank">Link to meeting</a>**

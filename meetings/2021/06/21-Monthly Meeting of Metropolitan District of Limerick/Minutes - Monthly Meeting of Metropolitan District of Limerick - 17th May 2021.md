@@ -64,7 +64,8 @@ relation to the current application:
 
 relative to other nearby developments including the Rivers Estate. They suggested that
 
-the development should be reduced to 35 units per hectare;---
+the development should be reduced to 35 units per hectare;
+---
 2
 
 • There is a general lack of adequate car parking provision for the scheme which will result
@@ -133,7 +134,8 @@ Monday, 21st June, 2021.
 
 Vacant B&R and SHIP properties, also vacant Voids 2021 and properties funded by TAP
 
-are vacant because works are not completed yet.---
+are vacant because works are not completed yet.
+---
 3
 
 **5.Question submitted by Councillor C. Sheehan**
@@ -238,7 +240,8 @@ returned.
 
 **REPLY**: The table below details the overall delivery by Municipal District since the scheme was
 
-(Image omitted)---
+(Image omitted)
+---
 4
 
 launched in 2017:
@@ -391,7 +394,8 @@ with cycle lanes and bus priority provision at junctions. Limerick City and Coun
 
 will co-ordinate with the NTA and advance the scheme once the optimum approach is
 
-agreed.---
+agreed.
+---
 5
 
 **9.Question submitted by Councillor C. Slattery**
@@ -464,7 +468,8 @@ submitted in June.
 
 ***I will ask the Director of Services, Physical Development, for an update on actions taken to date***
 
-***in response to my Notice of Motion from the July 2020 Meeting of the Climate Action,***---
+***in response to my Notice of Motion from the July 2020 Meeting of the Climate Action,***
+---
 6
 
 ***Biodiversity and Environment SPC dealing with pilot sensors for the litterbin service as well as***
@@ -545,7 +550,8 @@ the economy. The Council is currently completing an application to Failte Irelan
 
 install covered pergolas in Bedford Row and Lower Thomas Street that will enable
 
-businesses in these streets to provide al fresco dining. The infrastructure, once provided,---
+businesses in these streets to provide al fresco dining. The infrastructure, once provided,
+---
 7
 
 must last for 5 years to qualify for funding. Additionally, the proposal must be for
@@ -628,7 +634,8 @@ administered through open call; The Military, Maritime, Industrial Atlantic Heri
 
 (MMIAH) project. The location and theme for this project is site specific.
 
-Limerick City and County Council are preparing a Public Art Policy and Strategy, which will---
+Limerick City and County Council are preparing a Public Art Policy and Strategy, which will
+---
 8
 
 reference types of Public Art, and examine this issue further.
@@ -725,7 +732,8 @@ Mary Harney
 
 UL Chancellor
 
-Former Tánaiste and Government Minister---
+Former Tánaiste and Government Minister
+---
 9
 
 Josephine Feehily\*
@@ -858,7 +866,8 @@ A comprehensive landscaping plan is proposed as part of the current works, which
 
 includes for replanting this boundary with semi-mature native species, with 2 new trees
 
-proposed for each tree removed (18 no. new trees in total along this boundary).---
+proposed for each tree removed (18 no. new trees in total along this boundary).
+---
 10
 
 **19.Question submitted by Councillor S. Benson**
@@ -927,7 +936,8 @@ view.
 
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and Environment
 
-Strategic Policy Committee.---
+Strategic Policy Committee.
+---
 11
 
 **23.Notice of Motion submitted by Councillor D. Butler (to be referred to the Community,**
@@ -998,7 +1008,8 @@ hospitality sector to provide outdoor dining facilities. These include:
 
 The Winter proofing Scheme (above) is specific to the Bedford Row / Lr Thomas Street
 
-area of the City Centre where there is a concentration of hospitality type businesses. The---
+area of the City Centre where there is a concentration of hospitality type businesses. The
+---
 12
 
 traders in this area have been consulted regarding the proposals. An application for
@@ -1081,7 +1092,8 @@ bring this to our attention so that we can deal with the matter as a priority.
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Council calls on***
 
-***all restaurants and takeaways with drive through facilities to print car registration numbers on***---
+***all restaurants and takeaways with drive through facilities to print car registration numbers on***
+---
 13
 
 ***all packaging for food and drinks items that are purchased and to call on the Minister for***
@@ -1106,4 +1118,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

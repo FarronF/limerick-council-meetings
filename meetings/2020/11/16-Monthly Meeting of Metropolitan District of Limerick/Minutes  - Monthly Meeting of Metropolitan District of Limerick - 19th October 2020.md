@@ -62,7 +62,8 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-**2.Disposal of Land**---
+**2.Disposal of Land**
+---
 2
 
 (a)
@@ -141,7 +142,8 @@ Proposed by Councillor Secas;
 
 Seconded by Councillor Murphy;
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That the estate at Rathlinn, Castleconnell be taken in charge in accordance with Section 180 of the
@@ -236,7 +238,8 @@ Government Act, 2001”.
 
 ***I will ask at the next meeting of the Limerick Metropolitan District for an update on the €15***
 
-***million planned maintenance programme on Limerick City and County Council’s housing stock.***---
+***million planned maintenance programme on Limerick City and County Council’s housing stock.***
+---
 4
 
 **REPLY**:
@@ -315,7 +318,8 @@ were that while there would be space to accommodate a bus stop on the Kennedy
 
 Park side of the Childers’ Road, situating a bus stop on the opposite side would not
 
-currently be practical on safety grounds.---
+currently be practical on safety grounds.
+---
 5
 
 Bus Éireann has indicated that at present an additional bus stop is not warranted at
@@ -388,7 +392,8 @@ Hospital Limerick in an attempt to alleviate the problem.
 
 **REPLY**:
 
-Inland Fisheries Ireland, in their role in the protection, management and---
+Inland Fisheries Ireland, in their role in the protection, management and
+---
 6
 
 conservation of the inland fisheries resource, are, in conjunction with OPW,
@@ -477,7 +482,8 @@ Failing to display a current vehicle disc.
 
 Goods vehicle loading or unloading in a loading bay over 30 minutes.
 
-149---
+149
+---
 7
 
 Invalid parking disc displayed.
@@ -596,7 +602,8 @@ Total
 
 It was agreed to take Items 14 and 16 together
 
-**14.Notice of Motion submitted by Councillor F. Kilcoyne**---
+**14.Notice of Motion submitted by Councillor F. Kilcoyne**
+---
 8
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that a pedestrian crossing***
@@ -667,7 +674,8 @@ would revert to Members at a subsequent Local Electoral Area Briefing or Metropo
 
 ***of the former Limerick Racecourse to brief members on their future plans for this strategic site***
 
-***and how they will secure access in the interim to prevent anti social behaviour.***---
+***and how they will secure access in the interim to prevent anti social behaviour.***
+---
 9
 
 The motion was proposed by Councillor Kilcoyne, seconded by Councillor McSweeney and agreed.
@@ -734,7 +742,8 @@ The motion was proposed by Councillor Costelloe, seconded by Councillor M. Sheah
 
 With the permission of the Cathaoirleach, the following Motions were included – these had been
 
-submitted prior to the deadline for Motions to be submitted:---
+submitted prior to the deadline for Motions to be submitted:
+---
 10
 
 **19A. Notice of Motion submitted by Councillor C. Sheehan**
@@ -787,4 +796,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -76,7 +76,8 @@ Ms. Caroline Curley, Director of Service communicated the protocol for the SPC m
 
 **Seconded:** Cllr. Bridget Teefy
 
-**Item 2: Matters arising from the Minutes**---
+**Item 2: Matters arising from the Minutes**
+---
 2
 
 No matters arising from previous minutes.
@@ -145,7 +146,8 @@ explained that the Approved Housing Bodies Regulatory Authority (AHBRA) establis
 
 2021 is the new regulator for the AHB sector and there is a regulatory framework for approved
 
-housing bodies available from AHBRA.---
+housing bodies available from AHBRA.
+---
 3
 
 **Item 5: Questions from PPN Linkage Group**
@@ -216,7 +218,8 @@ housing fund. In addition, we advanced a joint venture with Cluid/Whitebox on 3 
 
 Table 1: Affordable Pipeline as at 2023
 
-(Image omitted)---
+(Image omitted)
+---
 4
 
 5-year target overall: 264 issued on 30th March 2022. This is the Housing for All Target for
@@ -293,7 +296,8 @@ currently focusing on advancing a key work package for a phase 1 residential-led
 
 south of Carey’s Road for approximately 270 units. We are programming an expected delivery date
 
-of 2026 and this is indicated in the Housing Delivery Action Plan for Limerick.---
+of 2026 and this is indicated in the Housing Delivery Action Plan for Limerick.
+---
 5
 
 Cllr. Keary asked how far was Carey’s Road District proposal away from a planning application. Ms.
@@ -376,7 +380,8 @@ a tenant in situ the Council will progress same promptly to put the household wh
 
 notice to quit at ease. Ms Curley advised that the properties should be in a good condition and LCCC
 
-will seek additional funding for refurbishment from the DHLGH where required. Mr. Curley advised---
+will seek additional funding for refurbishment from the DHLGH where required. Mr. Curley advised
+---
 6
 
 that the number of bedrooms would not prevent LCCC from acquiring a house to support
@@ -451,4 +456,5 @@ housing-commission-public-consultation/
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

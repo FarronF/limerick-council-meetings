@@ -64,7 +64,8 @@ Management Plan at the December District Meeting, which to date had not been
 
 furnished to Members, and again requested this matter be followed up by the Meetings
 
-Administrator.---
+Administrator.
+---
 2
 
 **2.**
@@ -135,7 +136,8 @@ allocate €2,000 to Askeaton Civic Trust.
 
 **I will ask at the next Meeting given the fact that the proposed works to the Adare**
 
-**Heritage Centre have gone on display on E tenders can the Council confirm if it has**---
+**Heritage Centre have gone on display on E tenders can the Council confirm if it has**
+---
 3
 
 **monies sanctioned for the proposed project if so how much is allocated and from what**
@@ -210,7 +212,8 @@ conditions these properties would not have heating or cooking facilities with ai
 
 installation. Councillor Teskey added there also is an extra burden on people with
 
-medial conditions who are reliant on electricity and added the Housing Adaptation Grant---
+medial conditions who are reliant on electricity and added the Housing Adaptation Grant
+---
 4
 
 scheme should be amended to include funding to purchase of generator for private
@@ -255,4 +258,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

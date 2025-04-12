@@ -76,7 +76,8 @@ projects featuring 1 and 2 bedroom units;
 
 and more focus on rebuilding communities;
 
- All Regeneration Areas should be treated the same and have the same level of focus and---
+ All Regeneration Areas should be treated the same and have the same level of focus and
+---
 2
 
 resources applied to them;
@@ -169,7 +170,8 @@ works;
 
  Connectivity projects had been carried out between Moyross and Ballynanty but further works
 
-were required.---
+were required.
+---
 3
 
  Issues relating to St. Mary’s Roundabout would be discussed with the Transportation
@@ -260,4 +262,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

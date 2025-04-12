@@ -68,7 +68,8 @@ On the proposal of Councillor Sheahan, seconded by Councillor Teskey it was agre
 
 Superintendent Tom O’Connor be invited to a Special Meeting of the District to discuss
 
-policing issues.---
+policing issues.
+---
 2
 
 The Director, Regional Services informed the Meeting that, in relation to the facilitators report
@@ -147,7 +148,8 @@ The Cathaoirleach welcomed Dr. Mihai Bilauca, the Head of Digital Strategy and M
 
 McDermott, Project Manager to the Meeting. The Head of Digital Strategy presented an
 
-overview of the background, scope and funding for the project and reviewed the detail of---
+overview of the background, scope and funding for the project and reviewed the detail of
+---
 3
 
 where it was proposed to install cameras in the towns of Foynes, Askeaton, Rathkeale, Adare
@@ -222,7 +224,8 @@ informed the Meeting of a conflict of interests as he was acting as auctioneer f
 
 under discussion and stressed that he would make a public statement of interest should the
 
-sale, as discussed, proceed. Councillor O’Brien and McMahon expressed reservations that---
+sale, as discussed, proceed. Councillor O’Brien and McMahon expressed reservations that
+---
 4
 
 Councillor Sheahan had proposed the purchase of a property in which he had a beneficial
@@ -301,7 +304,8 @@ opening hours
 
 The Environmental Awareness Officer thanked Members for their suggestions and undertook
 
-to take same into consideration.---
+to take same into consideration.
+---
 5
 
 **7.**
@@ -380,7 +384,8 @@ Planning permission for a housing development on the Blackabbey Road is still
 
 currently being applied for. The new development if granted will provide a
 
-section of footpath towards the GAA pitch.---
+section of footpath towards the GAA pitch.
+---
 6
 
 We are currently procuring a consultant to examine the feasibility of the
@@ -455,7 +460,8 @@ Rathkeale is €119,600. The estimated annual cost of street cleaning is €254,
 
 The significant balance of €134,400 is subsidised through Local Roads General
 
-Maintenance.---
+Maintenance.
+---
 7
 
 **16.**
@@ -524,7 +530,8 @@ W: www.water.ie
 
 **making a special effort to have the towns and villages in the District cleaned up.**
 
-The Motion was proposed by Councillor Sheahan and seconded by Councillor O’Brien.---
+The Motion was proposed by Councillor Sheahan and seconded by Councillor O’Brien.
+---
 8
 
 **19.**
@@ -601,7 +608,8 @@ Correspondence, as circulated, was noted by Members.
 
 On the proposal of Councillor Keary, seconded by Councillor Teskey it was agreed that
 
-standing orders be suspended to allow for the completion of the Agenda.---
+standing orders be suspended to allow for the completion of the Agenda.
+---
 9
 
 **22.**
@@ -742,7 +750,8 @@ To install 3 phase electrical fuse board and
 
 isolators to run the heaters in the large hall.
 
-€1,000---
+€1,000
+---
 10
 
 **23.**
@@ -813,7 +822,8 @@ and requested an updated report for the next Meeting and that the design team
 
 mentioned attend.
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 11
 
 Signed:
@@ -824,4 +834,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

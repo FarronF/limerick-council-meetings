@@ -50,4 +50,5 @@ housing delivery targets in Limerick.
 
 Housing Commission Public Consultation
 
-Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council---
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

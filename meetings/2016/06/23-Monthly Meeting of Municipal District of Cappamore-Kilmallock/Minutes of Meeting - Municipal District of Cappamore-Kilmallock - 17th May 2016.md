@@ -66,7 +66,8 @@ expressed his thanks to staff.
 
 Members referred to traffic congestion at John the Baptist Community School and the
 
-Executive Engineer agreed to attend the school at peak times.---
+Executive Engineer agreed to attend the school at peak times.
+---
 2
 
 **2.**
@@ -145,7 +146,8 @@ under the Community Initiative Scheme 2016 for the District.
 
 It was proposed by Councillor Gleeson, seconded by Councillor Teefy and agreed to approve
 
-the following allocations :---
+the following allocations :
+---
 3
 
 Comhaltas Fleadh Luimni
@@ -228,7 +230,8 @@ Limerick City & County Council has previously been in contact with TII in relati
 
 to this junction to facilitate the undertaking of a safety assessment here. The
 
-Council will again formally request TII to prioritise this junction for assessment.---
+Council will again formally request TII to prioritise this junction for assessment.
+---
 4
 
 **8.**
@@ -299,4 +302,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

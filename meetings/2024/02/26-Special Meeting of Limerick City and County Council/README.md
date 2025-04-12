@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-02-26 15:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-of-limerick-city-and-county-council-10)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-of-limerick-city-and-county-council-10" target="_blank">Link to meeting</a>**

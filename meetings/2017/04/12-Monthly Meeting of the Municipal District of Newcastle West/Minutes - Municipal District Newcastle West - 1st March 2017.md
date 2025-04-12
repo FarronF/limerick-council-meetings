@@ -64,7 +64,8 @@ Circulated, report of the Senior Executive Engineer dated 24th February, 2017, c
 
 proposal to dispose of land at Church Street, Newcastle West.
 
-Members noted the proposal.---
+Members noted the proposal.
+---
 2
 
 **3.**
@@ -135,7 +136,8 @@ the matter would be brought to the Full Council for consideration at the March M
 
 Members welcomed the proposed works and stated that once the Trail was up and running,
 
-marketing would be crucial.---
+marketing would be crucial.
+---
 3
 
 **(2)**
@@ -210,7 +212,8 @@ to resolve the issue of this unfinished housing development.
 
 commencing works in mid-March. The contract is expected to take 8 weeks to
 
-complete.---
+complete.
+---
 4
 
 **8.**
@@ -297,7 +300,8 @@ The estimated cost is €500,000 which will be required for:
 
 installation.
 
-• €150,000 over 3 years for annual maintenance and communication costs.---
+• €150,000 over 3 years for annual maintenance and communication costs.
+---
 5
 
 **Funding:**
@@ -376,7 +380,8 @@ a clean-up and asked that the Office of Public Works be contacted in this regard
 
 also made for clarification on extended opening hours of the Castle.
 
-The Motion was seconded by Councillor Sheahan.---
+The Motion was seconded by Councillor Sheahan.
+---
 6
 
 The Members asked for contact to be made with the Office of Public Works in relation to the
@@ -447,7 +452,8 @@ prepared by 24th March, 2017. He stated that it was hoped that this review would
 
 a Meeting of the District in May or June. The final report would be completed towards the end
 
-of the year.---
+of the year.
+---
 7
 
 **Briefings:**
@@ -478,4 +484,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -54,7 +54,8 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 **2.**
@@ -127,7 +128,8 @@ contract for the unit is with Ecofil and one water font provision was made
 
 available in each District. Other locations would be considered if more units
 
-become available.---
+become available.
+---
 3
 
  Councillor Sheahan asked the Senior Executive Engineer if he could recommend a
@@ -196,7 +198,8 @@ allocate the following:
 
  €1,000 – Lime kiln restoration, Loughill.
 
- €1,000 – Askeaton/Ballysteen GAA Club.---
+ €1,000 – Askeaton/Ballysteen GAA Club.
+---
 4
 
 On the proposal of Councillor O’Brien, seconded by Councillor Teskey, it was agreed to
@@ -273,7 +276,8 @@ An inspection took place of the boundary between this property and the
 
 Council owned lands to the rear of this property. There is a large cattle
 
-grid that captures storm water directly above the property. There is a---
+grid that captures storm water directly above the property. There is a
+---
 5
 
 bund with a fence on it extending over the lower half of the boundary, this
@@ -342,7 +346,8 @@ Killaheen was very successful and called on the Senior Executive Engineer to loo
 
 possibility of installing something similar at Blossom Hill Cross, Rathkeale.
 
-This Motion was seconded by Councillor O’Brien.---
+This Motion was seconded by Councillor O’Brien.
+---
 6
 
 **9.**
@@ -405,4 +410,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

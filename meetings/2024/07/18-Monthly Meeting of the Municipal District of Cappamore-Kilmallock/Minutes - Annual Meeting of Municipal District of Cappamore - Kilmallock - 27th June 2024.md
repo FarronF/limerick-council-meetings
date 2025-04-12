@@ -60,7 +60,8 @@ Micheál Ryan were also noted but apologies given as they were unable to attend.
 
 An Leas Cathaoirleach outlined that he believed that it is important to give respect and
 
-get respect, and handed over to the Senior Executive Engineer.---
+get respect, and handed over to the Senior Executive Engineer.
+---
 2
 
 The Senior Executive Engineer outlined that the Director of Services sent his apologies
@@ -127,7 +128,8 @@ wished him well for the forthcoming year.
 
 The Cathaoirleach welcomed An Méara John Moran to the Cappamore-Kilmallock
 
-Municipal District and congratulated him on his new role.---
+Municipal District and congratulated him on his new role.
+---
 3
 
 An Méara outlined that there the task over the next couple of months is to convert the
@@ -176,4 +178,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

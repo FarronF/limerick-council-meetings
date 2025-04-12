@@ -64,7 +64,8 @@ Act, 2001, as amended, and the Code of Conduct, she was inviting those present t
 
 Mayor of any declaration of interest in any item due for discussion at the Meeting. No such
 
-interests were declared.---
+interests were declared.
+---
 2
 
 3.
@@ -147,7 +148,8 @@ disposal to be by way of Deed of Conveyance of the interest of Limerick City and
 
 Council in the property, particulars of which were contained in Statutory Notice dated 19th
 
-January, 2023.”---
+January, 2023.”
+---
 3
 
 (d)
@@ -228,7 +230,8 @@ Circulated, copy of Statutory Notice dated 9th March, 2023, concerning disposal 
 
 comprising 28m2 (0.007 acres) at rear of 13 Michael Hartnett Close, Newcastle West,
 
-Co. Limerick.---
+Co. Limerick.
+---
 4
 
 Proposed by Councillor Galvin;
@@ -311,7 +314,8 @@ Proposed by Councillor Galvin;
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -390,7 +394,8 @@ Proposed by Councillor Galvin;
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 6
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -471,7 +476,8 @@ relating to Statutory Notice dated 27th June, 2022 – passed at Council Meeting
 
 Circulated, copy of Statutory Notice dated 13th March, 2023, concerning disposal of
 
-property at Drombanna, Co. Limerick.---
+property at Drombanna, Co. Limerick.
+---
 7
 
 It was noted that this Statutory Notice superseded a previous Statutory Notice
@@ -552,7 +558,8 @@ Council’s approval to application for sanction from the Minister for Housing, 
 
 Government and Heritage for a loan in the amount of €5,150,000 to fund the drawdown of
 
-Local Authority Home Loans.---
+Local Authority Home Loans.
+---
 8
 
 Proposed by Councillor Collins (M);
@@ -627,7 +634,8 @@ Proposed by Councillor Galvin;
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, in accordance with Section 142 (5) of the Local Government Act, 2001, as
@@ -702,7 +710,8 @@ And Resolved:
 
 amended, the Annual Service Delivery Plan 2023 for Limerick City and County Council, as
 
-circulated, be and is hereby adopted.”---
+circulated, be and is hereby adopted.”
+---
 10
 
 (h)
@@ -779,7 +788,8 @@ Circulated, report of the Chairperson of the Home and Social Development Strateg
 
 Policy Committee dated 15th February, 2023, in relation to meeting of the Committee
 
-held on 15th February, 2023, together with accompanying reports as set out below.---
+held on 15th February, 2023, together with accompanying reports as set out below.
+---
 11
 
 **Recommendation No. 1** - Circulated, report from the Working Group on Vacancy dated
@@ -840,7 +850,8 @@ And Resolved:
 
 “That, the Scheme of Priority for Affordable Dwelling Purchase Arrangements, as
 
-circulated, be and is hereby adopted.”---
+circulated, be and is hereby adopted.”
+---
 12
 
 **Recommendation No. 5**
@@ -913,7 +924,8 @@ Circulated, report of the A/Director, Economic Development and Enterprise, dated
 
 The Members noted the allocation details outlined in the Report and agreed that additional
 
-funding and resources needed to be directed at the issue of Taking in Charge of estates.---
+funding and resources needed to be directed at the issue of Taking in Charge of estates.
+---
 13
 
 They noted that approximately 75 estates were due to be taken in charge and that the
@@ -982,7 +994,8 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 
 Meeting / Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 14
 
 QUESTION
@@ -1061,7 +1074,8 @@ Notice of Motion submitted by Councillor L. Galvin
 
 **be demand for commercial properties in the future; and (b) in situations where commercial**
 
-**property owners convert their vacant commercial properties to residential units, either a**---
+**property owners convert their vacant commercial properties to residential units, either a**
+---
 15
 
 **grant be made available or tax relief be applied to defray a portion of the costs involved in**
@@ -1140,7 +1154,8 @@ Notice of Motion submitted by Councillor S. Keary
 
 **I will move at the next Meeting that as a result of this Authority deciding to change its mind**
 
-**on the intended use of the former Bank of Ireland building which it recently purchased at**---
+**on the intended use of the former Bank of Ireland building which it recently purchased at**
+---
 16
 
 **Askeaton, Co. Limerick, from Community/Commercial use to Residential use to facilitate**
@@ -1219,7 +1234,8 @@ scheme. Under such schemes, the AHB is legally required to make the property
 
 available for social renting for the duration of the mortgage or leasing
 
-agreement (e.g. 25 years).---
+agreement (e.g. 25 years).
+---
 17
 
 Section 45 of the Housing (Miscellaneous Provisions) Act, 2009, does provide
@@ -1288,7 +1304,8 @@ that the Minister for Health had agreed to the drug being provided.
 
 Correspondence
 
-The Correspondence circulated with the agenda was taken as read.---
+The Correspondence circulated with the agenda was taken as read.
+---
 18
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -1311,4 +1328,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

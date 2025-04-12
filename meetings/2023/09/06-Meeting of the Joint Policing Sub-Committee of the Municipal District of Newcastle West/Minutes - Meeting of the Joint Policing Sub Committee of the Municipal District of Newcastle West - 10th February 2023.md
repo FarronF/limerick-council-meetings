@@ -66,7 +66,8 @@ Municipal District of Newcastle West held on 12th October, 2022.
 
 Proposed by: Councillor Scanlan
 
-Seconded by: Councillor Sheahan---
+Seconded by: Councillor Sheahan
+---
 2
 
 And Resolved:
@@ -131,7 +132,8 @@ incidents to the Gardaí.
 
 Following a query on the use of e-scooters on footpaths, Sergeant Cummins stated a nationwide
 
-problem exists with regard to the use of e-scooters.---
+problem exists with regard to the use of e-scooters.
+---
 3
 
 In replying, the Acting Superintendent stated that education in our schools is ongoing and that
@@ -178,4 +180,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

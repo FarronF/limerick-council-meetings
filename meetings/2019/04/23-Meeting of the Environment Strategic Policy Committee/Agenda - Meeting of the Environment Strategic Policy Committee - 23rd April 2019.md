@@ -20,7 +20,8 @@ business to be transacted is set out in the appended agenda.
 
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -55,4 +56,5 @@ developments”.
 
 “I will move at the next meeting that the Council consider installing a network of drinking
 
-fountains in appropriate location to cut the number of plastic bottles being used.”---
+fountains in appropriate location to cut the number of plastic bottles being used.”
+---

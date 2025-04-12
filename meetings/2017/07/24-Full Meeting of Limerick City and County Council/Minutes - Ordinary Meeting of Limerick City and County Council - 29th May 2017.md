@@ -76,7 +76,8 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 2.
@@ -157,7 +158,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That, the approval of the Council be and is hereby given to the disposal of property
@@ -242,7 +244,8 @@ property, particulars of which were contained in Statutory Notice dated 15th May
 
 Circulated, copy of Statutory Notice dated 17th May, 2017, concerning disposal of
 
-land at Knockulceare, Mountcollins, Co. Limerick.---
+land at Knockulceare, Mountcollins, Co. Limerick.
+---
 4
 
 Proposed by Councillor Sheahan (J);
@@ -317,7 +320,8 @@ comprising 0.021 hectares at Knockanerry, Murroe, Co. Limerick, to Leonard Taylo
 
 Taylor, for the sum of €1 (if demanded), particulars of which were contained in Statutory
 
-Notice dated 17th May, 2017.”---
+Notice dated 17th May, 2017.”
+---
 5
 
 3.
@@ -380,7 +384,8 @@ Appointment of Chairs to Strategic Policy Committees
 
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), this
 
-item was deferred to the July Meeting.---
+item was deferred to the July Meeting.
+---
 6
 
 (e)
@@ -453,7 +458,8 @@ Services Strategic Policy Committee dated 17th May, 2017, in relation to Meeting
 
 the Committee held on 26th April, 2017.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 7
 
 (v)
@@ -526,7 +532,8 @@ to this programme during Budget 2016 - now fully provided.
 
 investment required in the ICT infrastructure.
 
- €1.2m transferred to provide funding for Corporate Building Capital Works.---
+ €1.2m transferred to provide funding for Corporate Building Capital Works.
+---
 8
 
  €0.4m transferred to provide funding for Records Management Project.
@@ -611,7 +618,8 @@ not spending the €1.2million but was setting the amount aside for essential wo
 
 improvements on Council properties. He added that it was for capital spend on buildings
 
-and that the Executive would revert to the Members with formal proposals at a later date.---
+and that the Executive would revert to the Members with formal proposals at a later date.
+---
 9
 
 The Financial Accountant responded to queries raised in relation to HAP (Housing
@@ -686,7 +694,8 @@ And Resolved:
 
 “That, the Audit Committee Annual Work Programme 2017, as circulated, be and is
 
-hereby adopted.”---
+hereby adopted.”
+---
 10
 
 (j)
@@ -765,7 +774,8 @@ The Chief Executive addressed the Meeting as follows:
 
  **Limerick Regeneration Implementation Framework.**
 
- **Ireland 2040.**---
+ **Ireland 2040.**
+---
 11
 
 **These documents have identified significant infrastructural projects that must be**
@@ -844,7 +854,8 @@ The Chief Executive addressed the Meeting as follows:
 
 **employment. This deliverable is particularly important for the redevelopment of**
 
-**the City Centre.**---
+**the City Centre.**
+---
 12
 
 **As the Council will be aware, we have a target under Limerick 2030 to deliver 5,000**
@@ -923,7 +934,8 @@ summarised as follows:
 
 2011 – Route Selection Process.
 
-2012 – Publication of Emerging Preferred Route Corridor.---
+2012 – Publication of Emerging Preferred Route Corridor.
+---
 13
 
 2012 – Route Corridor Selection Report.
@@ -994,7 +1006,8 @@ the road scheme.”
 
 **delivered at a relatively low cost, without impacting on the future delivery of Option 3b**
 
-**(or a variant).”**---
+**(or a variant).”**
+---
 14
 
 • **UL Bohemians’ Access**
@@ -1063,7 +1076,8 @@ Annacotty/University of Limerick.
 
  More than 9,000 jobs had been announced in Limerick from 2013-2016.
 
- Close to €1.4 billion of investment had been announced for Limerick from 2013-2016.---
+ Close to €1.4 billion of investment had been announced for Limerick from 2013-2016.
+---
 15
 
  500,000 sq. ft. of enterprise high-quality office space currently under development.
@@ -1122,7 +1136,8 @@ whether the Council could progress these first.
 
 • The possible financial implications for the Council vis-à-vis the operation of the Tunnel.
 
-• Concerns were raised regarding noise management.---
+• Concerns were raised regarding noise management.
+---
 16
 
 • The need to progress investment in public transport.
@@ -1183,7 +1198,8 @@ proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), this was
 
 **an appropriate flood relief scheme has been agreed for the Mountshannon area as part of**
 
-**the Limerick City Flood Relief Scheme.”**---
+**the Limerick City Flood Relief Scheme.”**
+---
 17
 
 **Recommendation No. 2:**
@@ -1248,7 +1264,8 @@ Limerick Northern Distributor Road (LNDR), as recommended in the Chief Executive
 
 dated 20th April, 2017, be made in accordance with Sections 13 (5) and (6) of the Planning
 
-and Development Act, 2000 (as amended).”---
+and Development Act, 2000 (as amended).”
+---
 18
 
 (b)
@@ -1287,7 +1304,8 @@ Councillor Leddin proposed the following Amendment:
 
 The Amendment was seconded by Councillor Crowley and agreed.
 
-(Image omitted)---
+(Image omitted)
+---
 **Amendment No. 2**
 
 Councillor Collins (J) proposed
@@ -8631,7 +8649,8 @@ s outlined above.”
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 20
 
 (c)
@@ -8700,7 +8719,8 @@ and Development Act, 2000 (as amended).”
 
 At this point, on the proposal of Councillor Sheahan (J), seconded by Councillor
 
-Collins (M), it was agreed to take the Notices of Motion on the Agenda:---
+Collins (M), it was agreed to take the Notices of Motion on the Agenda:
+---
 21
 
 NOTICES OF MOTION
@@ -8773,7 +8793,8 @@ Notice of Motion submitted by Councillor C. Prendiville
 
 In the absence of Councillor Prendiville, the Motion was proposed by Councillor
 
-Keller on his behalf.---
+Keller on his behalf.
+---
 22
 
 In proposing the Motion, Councillor Keller asked for the Council to review the
@@ -8840,7 +8861,8 @@ Riverway Crossing.
 
 A number of events were held between Tuesday, 25th April, and Friday, 28th April, and they
 
-were as follows:---
+were as follows:
+---
 23
 
 • PechaKucha 20X20 Night “Connections to Limerick’s Riverways.”
@@ -8911,7 +8933,8 @@ The Nature of the River *“It’s a wonderful thing in Limerick. Tidal Aspect i
 
 Riverway in the City: Waterways Ireland, Office of Public Works, ESB, Harbourmaster,
 
-Fáilte Ireland etc.---
+Fáilte Ireland etc.
+---
 24
 
 • These agencies needed to be pulled together and enabled by a multidisciplinary
@@ -8990,7 +9013,8 @@ for the Housing Sector in Ireland, held in Dublin on 29th March, 2017; (c) Energ
 
 Death, held in Clonakilty, Co. Cork, from 12th to 14th May, 2017; (e) 2-Day Microsoft Excel
 
-Advanced Training for Councillors, held in Clonakilty, Co. Cork, on 17th/18th May, 2017; (f)---
+Advanced Training for Councillors, held in Clonakilty, Co. Cork, on 17th/18th May, 2017; (f)
+---
 25
 
 Conference on Mná na hÉireann – Celebrating Women in Modern Ireland, held in
@@ -9065,7 +9089,8 @@ in fuel type at Irish Cement on 8th March, 2017. The permission was
 
 appealed to An Bord Pleanála on 4th April, 2017. A decision on the appeal is
 
-likely to take many months and it is possible that an Oral Hearing will take---
+likely to take many months and it is possible that an Oral Hearing will take
+---
 26
 
 place. The Environmental Protection Agency (EPA) will not make any decision
@@ -9112,7 +9137,8 @@ population increase of 12.27% from 2011 to 2016. Please refer to Figure 1.
 
 *Georgian area), Census, 2016*
 
-(Image omitted)---
+(Image omitted)
+---
 27
 
 Assuming an average vacancy rate 18.56% across the five EDs, up to 640
@@ -9197,7 +9223,8 @@ Question submitted by Councillor P. Keller
 
 ***Housing urging for rent controls to be implemented in Limerick to stem the rising tide of***
 
-***economic evictions and homelessness.***---
+***economic evictions and homelessness.***
+---
 28
 
 **REPLY:**
@@ -9288,7 +9315,8 @@ Question submitted by Cmhlr. S. Ó Ceallaigh
 
 ***Limerick City from the M7 as previously discussed at the Travel and Transportation***
 
-***Strategic Policy Committee.***---
+***Strategic Policy Committee.***
+---
 29
 
 **REPLY:**
@@ -9373,7 +9401,8 @@ mark the 50th anniversary of the introduction of free education in the Irish Sta
 
 seconded by Councillor Ryan. It was agreed to refer this matter to the Party Leaders for
 
-further consideration.---
+further consideration.
+---
 30
 
 Promotion of Limerick
@@ -9406,4 +9435,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

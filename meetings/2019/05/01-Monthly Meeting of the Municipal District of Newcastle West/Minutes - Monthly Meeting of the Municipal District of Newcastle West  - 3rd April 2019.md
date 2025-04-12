@@ -74,7 +74,8 @@ Engineer, Housing for their inability to attend the Meeting.
 
 Deferral of Notices to make a New Local Area Plan for
 
-Newcastle West and to Extend the Existing Local Area Plan.---
+Newcastle West and to Extend the Existing Local Area Plan.
+---
 2
 
 To consider the Chief Executive’s Report dated 22nd March,
@@ -149,7 +150,8 @@ Plan. The report has been prepared in accordance with Section 19 of the Planning
 
 Development Act 2000 (Amended), which provides for the extension of the valid life of a Local
 
-Area Plan.---
+Area Plan.
+---
 3
 
 A discussion took place on a number of items in the Plan including the zoning of lands and the
@@ -218,7 +220,8 @@ to allocate €1,000 to Harnett Reunion.
 
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
 
-€2,000 to Abbeyfeale Christmas Lights.---
+€2,000 to Abbeyfeale Christmas Lights.
+---
 4
 
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
@@ -281,7 +284,8 @@ On the proposal of Councillor Galvin, seconded by Councillor Collins, it was agr
 
 a Deputation from Cryleview Residents Association, Abbeyfeale, at the May Meeting of the
 
-Municipal District of Newcastle West.---
+Municipal District of Newcastle West.
+---
 5
 
 6.
@@ -370,7 +374,8 @@ NOTICES OF MOTION
 
 10.
 
-Notice of Motion submitted by Councillor L. Galvin---
+Notice of Motion submitted by Councillor L. Galvin
+---
 6
 
 ***I will move at the next Meeting that this local authority call on the Department of Housing,***
@@ -447,7 +452,8 @@ Notice of Motion submitted by Councillor M. Collins
 
 ***to be carried out by the TII on the N21 junction at Coolanoran, Newcastle West, known as***
 
-***Sweeps Cross, to make it safer for road users.***---
+***Sweeps Cross, to make it safer for road users.***
+---
 7
 
 In proposing the Motion, Councillor Collins requested a safety audit to be carried out by the
@@ -524,7 +530,8 @@ Limerick City and County Council to begin the process to apply for funding for t
 
 of a 25 metre public swimming facility/pool to be located in Newcastle West Town to serve
 
-the people of the Municipal District and its hinterland”.---
+the people of the Municipal District and its hinterland”.
+---
 8
 
 REPLY:
@@ -595,4 +602,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

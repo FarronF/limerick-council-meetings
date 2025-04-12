@@ -62,7 +62,8 @@ Limerick City and County Development Plan and Local Area Plans over the 12 year 
 
 2040. She pointed out that any submissions on the Issues Paper had to be submitted by 26th
 
-January, 2018. At that stage, the draft Regional Spatial and Economic Strategy would be---
+January, 2018. At that stage, the draft Regional Spatial and Economic Strategy would be
+---
 2
 
 prepared and would be put out to public consultation. It was anticipated that the Strategy
@@ -163,7 +164,8 @@ Region. She expressed her concerns in relation to the proposals being brought fo
 
 outlined a number of issues for consideration by the Members in relation to a possible
 
-submission on their behalf on this matter, as follows:---
+submission on their behalf on this matter, as follows:
+---
 3
 
 **Population Allocation:**
@@ -240,7 +242,8 @@ to voice their strong opposition to the proposals being brought forward. He adde
 
 3 representatives on the Southern Regional Assembly would also be voicing their opposition
 
-to proposals put forward at the forthcoming Southern Regional Assembly meeting.---
+to proposals put forward at the forthcoming Southern Regional Assembly meeting.
+---
 4
 
 There was unanimous support across the Chamber to this proposal, with Members from all
@@ -311,7 +314,8 @@ draft National Planning Framework which recognised Cork as an **Emerging Interna
 
 **Centre of Scale**, while Limerick, Galway and Waterford would be recognised at a lower tier
 
-as **Important National and Regional Drivers of Growth.** This would have significant---
+as **Important National and Regional Drivers of Growth.** This would have significant
+---
 5
 
 implications for the development of Limerick into the future. He also expressed concerns
@@ -374,4 +378,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

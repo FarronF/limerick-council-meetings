@@ -62,7 +62,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
 
-No such interests were declared.---
+No such interests were declared.
+---
 2
 
 **3.**
@@ -153,7 +154,8 @@ the Municipal Districts and the Metropolitan District to follow suit. It was fur
 
 that the amount of €270,000 be moved to Category D05 Tourism Development
 
-Recreation & Amenity.---
+Recreation & Amenity.
+---
 3
 
 Proposed by Councillor Teskey;
@@ -226,7 +228,8 @@ Circulated, report of the Housing Strategy & Non-LA Housing Construction Directo
 
 dated 2nd October, 2024 setting out details in relation to the Social Housing Delivery for
 
-the Adare-Rathkeale Municipal District.---
+the Adare-Rathkeale Municipal District.
+---
 4
 
 The Senior Engineer, LA Housing Construction and Maintenance updated Members on the
@@ -293,7 +296,8 @@ relation to the road closure, requesting the road would be made accessible from
 
  Councillor O’Donoghue asked if funds are being allocated to the R511 from the
 
-2025 roads budget. The Executive Engineer, Roads, Traffic and Cleansing advised---
+2025 roads budget. The Executive Engineer, Roads, Traffic and Cleansing advised
+---
 5
 
 significant monies had been provided for repairs on the R511 in previous years and
@@ -368,7 +372,8 @@ discuss Askeaton swimming pool refurbishment. The Cathaoirleach agreed to
 
 convene this workshop following the Garda Policing Workshop at a date to be
 
-agreed.---
+agreed.
+---
 6
 
 This concluded the Meeting.
@@ -381,4 +386,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

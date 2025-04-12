@@ -26,7 +26,8 @@ agenda.
 
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -57,4 +58,5 @@ Ireland urging it to amend signage on the M7 at Junction 28 - Northbound - and J
 
 **4.Presentation on Traffic Calming Measures – Policy Options**
 
-**5.Presentation on the Limerick Cycling Network Strategy**---
+**5.Presentation on the Limerick Cycling Network Strategy**
+---

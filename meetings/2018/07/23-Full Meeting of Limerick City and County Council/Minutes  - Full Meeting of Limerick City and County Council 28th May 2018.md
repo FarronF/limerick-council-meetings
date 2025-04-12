@@ -80,7 +80,8 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 2.
@@ -159,7 +160,8 @@ property, particulars of which were contained in Statutory Notice dated 30th Apr
 
 Circulated, copy of Statutory Notice dated 1st May, 2018, concerning disposal of the
 
-freehold interest in property at Thomastown, Kilfinane, Co. Limerick.---
+freehold interest in property at Thomastown, Kilfinane, Co. Limerick.
+---
 3
 
 Proposed by Councillor O’Hanlon;
@@ -240,7 +242,8 @@ Flood Street, Limerick (Folio LK4051L), to Jinfang Mai, for the sum of €134.45
 
 to be by way of Deed of Conveyance of the interest of Limerick City and County Council in
 
-the property, particulars of which were contained in Statutory Notice dated 8th May, 2018.”---
+the property, particulars of which were contained in Statutory Notice dated 8th May, 2018.”
+---
 4
 
 (h)
@@ -323,7 +326,8 @@ Proposed by Councillor O’Hanlon;
 
 Seconded by Councillor Daly;
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, the approval of the Council be and is hereby given to the disposal of 0.0116
@@ -400,7 +404,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Daly;
 
-And Resolved:---
+And Resolved:
+---
 6
 
 “That, in accordance with Section 108 of the Local Government Act, 2001 (as
@@ -473,7 +478,8 @@ Annual Report
 
 Circulated, report of the A/Senior Executive Officer, Corporate Services, dated 25th
 
-May, 2018, together with draft Annual Report 2017.---
+May, 2018, together with draft Annual Report 2017.
+---
 7
 
 The Meetings Administrator stated that the draft Annual Report had been prepared
@@ -546,7 +552,8 @@ May, 2018, seeking the Council’s approval of Sectoral Nomination to the Home a
 
 Development Strategic Policy Committee arising from the resignation of Ms. Caroline
 
-Kelleher from the Committee.---
+Kelleher from the Committee.
+---
 8
 
 Proposed by Councillor Sheahan (J);
@@ -621,7 +628,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Hourigan;
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, the approval of the Council be and is hereby given to visit by the Mayor of the
@@ -692,7 +700,8 @@ Councillor Daly, Chairperson of the Travel and Transportation Strategic Policy
 
 Committee, presented an overview of matters discussed at the Meeting.
 
-The Report was noted by the Council.---
+The Report was noted by the Council.
+---
 10
 
 (iii)
@@ -767,7 +776,8 @@ She outlined to the Members the following key points of the Integration Plan:
 
  Limerick Integration Working Group.
 
- Scope of Integration Plan.---
+ Scope of Integration Plan.
+---
 11
 
  Statistical Profile – Census 2016.
@@ -838,7 +848,8 @@ Recommendations which were agreed at the SPC Meeting:
 
 **Recommendation No. 2**
 
-**That the following Grants/Bursary Awards be recommended to Council for approval:**---
+**That the following Grants/Bursary Awards be recommended to Council for approval:**
+---
 12
 
  **Grants under the Arts Act Scheme 2018.**
@@ -907,7 +918,8 @@ submitted directly to the Culture and Arts Officer:
 
  Fianna Fáil – 2 Members.
 
- Labour – 1 Member.---
+ Labour – 1 Member.
+---
 13
 
  Sinn Féin – 1 Member
@@ -974,7 +986,8 @@ And Resolved:
 
 Awards 2018, as recommended, and as set out in the report of the Culture and Arts Officer
 
-dated 17th May, 2018.”---
+dated 17th May, 2018.”
+---
 14
 
 5(f) Cross-Party Committee – Centenary Events 2019-2021
@@ -1047,7 +1060,8 @@ of an Agreement under Section 85 of the Local Government Act, 2001, as amended, 
 
 Section 14 of the Roads Act, 1993, with Cork County Council, for the development of the
 
-N/M20 Cork to Limerick Road Improvement Scheme.---
+N/M20 Cork to Limerick Road Improvement Scheme.
+---
 15
 
 The Meetings Administrator advised that the Section 85 Agreement was approved by
@@ -1116,7 +1130,8 @@ On the proposal of Councillor Hurley, seconded by Councillor Mitchell, the Counc
 
 approved the attendance of the following Member:
 
-**Cork:** Councillor Sheehy.---
+**Cork:** Councillor Sheehy.
+---
 16
 
 On the proposal of Councillor Hurley, seconded by Councillor Mitchell, the Council
@@ -1189,7 +1204,8 @@ The location of this work alongside the River Shannon is in a Special Area of
 
 Conservation and an Appropriate Assessment was required and has just been
 
-completed. Limerick City and County Council is inviting tenders for this work---
+completed. Limerick City and County Council is inviting tenders for this work
+---
 17
 
 on Monday, 28th May, 2018. The tender period will be 2 weeks approx. The
@@ -1274,7 +1290,8 @@ Authority was created for Limerick in June 2014, the Schemes for both
 
 Limerick City Council and Limerick County Council were carried forward and
 
-continued to apply. It would clearly have been desirable to design and adopt---
+continued to apply. It would clearly have been desirable to design and adopt
+---
 18
 
 one uniform Scheme for the entire administrative area. However, it was
@@ -1347,7 +1364,8 @@ operational areas. He informed the Members that a review of same would be consid
 
 subject to Budget Allocation. He stated that while the Members might not agree with the
 
-current structure, services were being delivered efficiently.---
+current structure, services were being delivered efficiently.
+---
 19
 
 14.
@@ -1422,7 +1440,8 @@ what would be considered a newly created post in Limerick City and County
 
 Council. Where sanction is received, the position will be considered as part
 
-of the annual budgetary review process.---
+of the annual budgetary review process.
+---
 20
 
 16.
@@ -1499,7 +1518,8 @@ Submission, and was seconded by Councillor Hogan:
 
 **The potential adverse impact on public health of incineration of toxic substances in**
 
-**our community cannot be accurately assessed. The detrimental effects of toxic**---
+**our community cannot be accurately assessed. The detrimental effects of toxic**
+---
 21
 
 **waste incineration on public health are not, and will not, be measured or**
@@ -1582,7 +1602,8 @@ Submission, and was seconded by Councillor Hogan:
 
 **levels of exposure to pollutants than the so-called ‘safe’ levels stipulated by**
 
-**current safety standards.**---
+**current safety standards.**
+---
 22
 
 **What the Mid-West is faced with in this current standoff between concerned**
@@ -1665,7 +1686,8 @@ Submission, and was seconded by Councillor Hogan:
 
 **Substances and Disease Registry (ATSDR). This body seeks to protect communities**
 
-**from harmful health effects related to exposure to natural and man-made**---
+**from harmful health effects related to exposure to natural and man-made**
+---
 23
 
 **hazardous substances. They are a science-based public health agency tasked with**
@@ -1744,7 +1766,8 @@ Local Authority houses at Hospital and Knocklong in the Municipal District of
 
 Cappamore-Kilmallock. The Cappamore Housing Association, an Approved
 
-Housing Body, has also secured funding for a scheme in Cappamore.---
+Housing Body, has also secured funding for a scheme in Cappamore.
+---
 24
 
 Limerick City and County Council is reviewing all available Council-owned land
@@ -1799,4 +1822,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

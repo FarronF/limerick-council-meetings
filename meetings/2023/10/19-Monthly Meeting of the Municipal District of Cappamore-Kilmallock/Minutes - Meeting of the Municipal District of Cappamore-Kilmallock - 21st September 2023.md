@@ -58,7 +58,8 @@ Cappamore-Kilmallock held on 20th July, 2023.
 
 **And Resolved:**
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2. Matters Arising:
 
 Councillor Teefy requested clarification on Cleary’s Cross on the R513 at Herbertstown as
@@ -107,7 +108,8 @@ develop a 5 year climate action plan.
 
 The Climate Action co-ordinator outlined that further briefings will be provided when taking
 
-submissions for the plan and highlighted the importance of promotion of climate action.---
+submissions for the plan and highlighted the importance of promotion of climate action.
+---
 7.Property Services
 
 The following property was submitted to be noted for disposal:
@@ -158,7 +160,8 @@ process.
 
 It was noted that the Councils’ contract for a Property Service Valuer is due to expire
 
-and that a tender for a new Valuer would be advertised during the month of October.---
+and that a tender for a new Valuer would be advertised during the month of October.
+---
 It was stressed that the disposal method used for the sale of Council property should be
 
 open, transparent and likely to achieve a fair market related price.
@@ -209,7 +212,8 @@ under the Safety Improvement Measures grants in 2024.
 
 11.
 
-Notice of Motion submitted by Councillor Carey---
+Notice of Motion submitted by Councillor Carey
+---
 I will move at the next meeting of the Cappamore-Kilmallock Municipal District meeting
 
 that the public road in Kilfinane between Captains Lane and Seachnasaigh’s Bar on the
@@ -256,7 +260,8 @@ Maintenance Team will respond in a timely fashion to resolve any drainage mainte
 
 issues.
 
-QUESTIONS---
+QUESTIONS
+---
 13.
 
 Question submitted by Councillor B. Teefy
@@ -299,7 +304,8 @@ to Carry out works at Kilgarriff Cross. The contractor is due on site shortly.
 
 15.
 
-Question submitted by Councillor Carey---
+Question submitted by Councillor Carey
+---
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District that flexi-
 
 bollards are erected outside the Ardpatrick National School.
@@ -342,7 +348,8 @@ The local Tidy Towns and Going for Gold groups in the Cappamore Kilmallock Munic
 
 District were congratulated on their achievements.
 
-**Public Lighting**---
+**Public Lighting**
+---
 Councillor Teefy highlighted the issue of power to the public lighting between Bruff and
 
 Kilmallock. The Senior Executive Engineer outlined that there were various stakeholders
@@ -393,4 +400,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

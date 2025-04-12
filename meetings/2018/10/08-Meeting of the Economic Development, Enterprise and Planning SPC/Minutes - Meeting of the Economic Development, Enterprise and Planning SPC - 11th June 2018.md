@@ -100,7 +100,8 @@ consideration and ratification.
 
 Members received a presentation on Regional Skills by the Regional Skills Co-
 
-ordinator, Mr. J. Leddin. The presentation covered the following areas;---
+ordinator, Mr. J. Leddin. The presentation covered the following areas;
+---
  National Context
 
  Skills Strategy
@@ -185,7 +186,8 @@ was a consensus that Limerick needed another hotel to meet rising demand.
 
 **Item 5**
 
-**AOB Notice of Motion from Cllr. K. Sheahan**---
+**AOB Notice of Motion from Cllr. K. Sheahan**
+---
 With the permission of the Chairperson, the following Notice of Motion was
 
 discussed.
@@ -210,4 +212,5 @@ This concluded the business of the meeting
 
 **Councillor Vivienne Crowley**
 
-Chairperson---
+Chairperson
+---

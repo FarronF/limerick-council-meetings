@@ -70,7 +70,8 @@ Facilitate implementation and delivery of the proposals set out in the Draft Lim
 
 Metropolitan Area Transport Strategy or any replacement thereof.
 
-Facilitate implementation and delivery of the proposals that will be contained in the final---
+Facilitate implementation and delivery of the proposals that will be contained in the final
+---
 2
 
 Limerick Shannon Metropolitan Area Transport Strategy.
@@ -155,7 +156,8 @@ Support delivery of strategic road infrastructure identified in the RSES includi
 
 -Upgrade of arterial roads from the motorway network to increase capacity, including the R527
 
-Dock Road, with the provision of public transport infrastructure and Park and Ride facilities, as---
+Dock Road, with the provision of public transport infrastructure and Park and Ride facilities, as
+---
 3
 
 appropriate. including at the R527 Dock Road.
@@ -236,7 +238,8 @@ with N/M20 Cork to Limerick scheme throughout the document.
 
  To make all TMOs compliant with sustainable development principles already enshrined in
 
-the regional and national strategies, put the welfare of people and sustainable safety at the---
+the regional and national strategies, put the welfare of people and sustainable safety at the
+---
 4
 
 centre of all transport planning and traffic management and above convenience of motor
@@ -307,7 +310,8 @@ Include Objective TM 024 as follows:
 
 Explore improved accessibility to Limerick Southside, including the possible provision of a
 
-motorway interchange connection from the M20/M7 to Limerick Southside.---
+motorway interchange connection from the M20/M7 to Limerick Southside.
+---
 5
 
 Cllr Leddin outlined his reason for this proposed amendment, stating that it was in the interest of
@@ -380,7 +384,8 @@ The vote was 13 no. in favour of the proposed amendment and 7 no. against the pr
 
 amendment. The proposed amendment shall be included as a material amendment to the
 
-proposed public display documents.---
+proposed public display documents.
+---
 6
 
 **3.Councillor Leddin also proposed an amendment, which is outlined as follows:**
@@ -453,7 +458,8 @@ proposed public display documents.
 
 Amend Land Use Zoning Map
 
-To rezone lands located at Rosbrien and in the ownership of Shannon Group comprising of---
+To rezone lands located at Rosbrien and in the ownership of Shannon Group comprising of
+---
 7
 
 approximately 20 hectares from agriculture to enterprise and employment.
@@ -526,7 +532,8 @@ Amend Transport Map to include a new link road connecting the Dooradoyle Road an
 
 Rosbrien Road, which had been included in the 2011 – 2017 Local Area Plan (as extended).
 
-Cllr Leddin outlined his reason for this proposed amendment outlining that the provision of a link---
+Cllr Leddin outlined his reason for this proposed amendment outlining that the provision of a link
+---
 8
 
 road will facilitate the future growth of this area in terms of both residential and enterprise
@@ -603,4 +610,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

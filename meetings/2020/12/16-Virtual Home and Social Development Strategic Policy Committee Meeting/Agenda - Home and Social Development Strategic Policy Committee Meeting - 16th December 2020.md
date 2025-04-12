@@ -26,4 +26,5 @@ Policy Committee will be held on **Cisco WebEx** **on Wednesday 16th** **Decembe
 
 a. SIF Update
 
-Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council---
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+---

@@ -96,7 +96,8 @@ Local Property Tax
 
 Circulated, report from the A/Head of Finance dated 18th September, 2017, in
 
-relation to Local Property Tax (LPT) – Local Adjustment Factor 2018.---
+relation to Local Property Tax (LPT) – Local Adjustment Factor 2018.
+---
 2
 
 It was noted that discussion on this item had not concluded at the previous Meeting
@@ -165,7 +166,8 @@ DAC
 
 Circulated, report of the A/Head of Finance dated 19th September, 2017, in relation
 
-to Limerick 2030 Strategic Development DAC.---
+to Limerick 2030 Strategic Development DAC.
+---
 3
 
 The report related to Items 3 (c) raising of a loan to finance the works programme of
@@ -238,7 +240,8 @@ particular, the Opera Site, and it was proposed by Cmhlr. Ó Ceallaigh, seconded
 
 Councillor Loftus, that this item be adjourned until a Briefing was held on the development,
 
-with adequate notice given to Councillors.---
+with adequate notice given to Councillors.
+---
 4
 
 The Chief Executive stressed the importance of distinguishing between the loan, to
@@ -315,7 +318,8 @@ Members stressed the importance of the Arts and Culture Sector having
 
 representation on a Cultural Strategic Policy Committee and noted that this might not be
 
-feasible under the proposed structure. Members suggested that an additional four places be---
+feasible under the proposed structure. Members suggested that an additional four places be
+---
 5
 
 allocated on the Cultural Strategic Policy Committee to be filled directly from the Arts and
@@ -384,7 +388,8 @@ And Resolved:
 
 Mayor of the City and County of Limerick to Birmingham, under Section 142 (5) of the Local
 
-Government Act, 2001, as amended.”---
+Government Act, 2001, as amended.”
+---
 6
 
 (j)
@@ -455,7 +460,8 @@ Policy Committee dated 18th September, 2017, in relation to a meeting of the Com
 
 held on 11th September, 2017.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 7
 
 5.
@@ -530,7 +536,8 @@ and in 2017 to date, are as follows:
 
 2016 - 3 loans approved (including 1 Tenant Purchase).
 
-2017 to date - 10 loans approved (including 4 tenant purchase).---
+2017 to date - 10 loans approved (including 4 tenant purchase).
+---
 8
 
 2014 - 6 loans drawn down (4 of which approved in 2013).
@@ -635,7 +642,8 @@ completion date.
 
 ***Galey in Athea; (b) when will the proposed drainage works begin; and (c) what works***
 
-***exactly are to be carried out.***---
+***exactly are to be carried out.***
+---
 9
 
 **REPLY:**
@@ -724,7 +732,8 @@ Committee on 11th April, 2016. A total of 23 of the 80 Council-owned sites
 
 located in the Limerick City area have passed the strategic constraints filter
 
-(zoning, flood risk, environmental designations, etc.) with a number of---
+(zoning, flood risk, environmental designations, etc.) with a number of
+---
 10
 
 sites deemed developable in the short to medium term for housing and are
@@ -849,7 +858,8 @@ Site behind Bourke Ave fronting onto Russell Park
 
 71
 
-Lord Edward Street---
+Lord Edward Street
+---
 11
 
 81
@@ -960,7 +970,8 @@ average cost per room per week lies between €800 and €900.
 
 While the preparation of the Register of Electors is a matter for each local
 
-Registration Authority, the Department of Housing, Planning and Local---
+Registration Authority, the Department of Housing, Planning and Local
+---
 12
 
 Government has commenced work on the modernisation of the voter
@@ -1045,7 +1056,8 @@ No CPO acquisitions of vacant dwellings were carried out over the last two
 
 years. There have been 3 dwellings successfully acquired using CPO
 
-powers under Derelict Sites legislation over the last few years.---
+powers under Derelict Sites legislation over the last few years.
+---
 13
 
 No
@@ -1132,7 +1144,8 @@ memory. This was seconded by Councillor O’Brien.
 
 It was agreed that Councillor Galvin’s Motion would be circulated to all Local
 
-Authorities for support.---
+Authorities for support.
+---
 14
 
 **16.**
@@ -1207,7 +1220,8 @@ area.
 
 ***We will move at the next Meeting that this Council support the introduction of the Life***
 
-***Saving Equipment Bill 2017.***---
+***Saving Equipment Bill 2017.***
+---
 15
 
 In proposing the Motion, Councillor O’Brien highlighted the extent of vandalism to
@@ -1252,4 +1266,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

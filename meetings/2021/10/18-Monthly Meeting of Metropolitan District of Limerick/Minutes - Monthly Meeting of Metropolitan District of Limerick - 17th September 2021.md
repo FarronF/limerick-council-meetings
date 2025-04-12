@@ -72,7 +72,8 @@ years ago and do not have deeds to their new homes.
 
 Members expressed concern in relation to proposals to relocate the site for the Community Centre
 
-in St. Mary’s Park and highlighted the need to have the Centre in the heart of the community.---
+in St. Mary’s Park and highlighted the need to have the Centre in the heart of the community.
+---
 2
 
 Members highlighted the need for job creation in the city’s employment blackspots. Members
@@ -141,4 +142,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

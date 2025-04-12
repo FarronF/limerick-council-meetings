@@ -76,7 +76,8 @@ He referred to the numerous Briefings on various aspects of the plan which had b
 
 for the Members in the previous weeks and he thanked the Members and Management for their
 
-engagement with same. He also, on behalf of all the Members, thanked the staff in Strategic &---
+engagement with same. He also, on behalf of all the Members, thanked the staff in Strategic &
+---
 Forward Planning for their professionalism and hard work in the preparation of the plan and for
 
 being readily available to clarify and assist with any issues arising in relation to the Plan.
@@ -147,7 +148,8 @@ plan. This engagement has been more difficult than normal due to Covid, but the 
 
 Members have adopted to the new normal of online meetings to work positively for the people
 
-of Limerick.---
+of Limerick.
+---
 This Development Plan comes at a challenging time for Limerick as we try to re-build our
 
 society and our local economy due to Covid 19 and Brexit. However, it is also a fantastic
@@ -218,7 +220,8 @@ must be subject to statutory environmental assessments, to address any environme
 
 impacts of extending the current Development Plan for the intended period of extension,
 
-beyond the 'normal' two years.---
+beyond the 'normal' two years.
+---
 He confirmed that it is only when a planning authority can be satisfied that environmental
 
 assessments are not required or can be screened out, or are required and have been completed
@@ -289,7 +292,8 @@ Minister. The Plan must also be consistent with the national and regional develo
 
 objectives in the NPF and RFES, and that proposed changes need to be precise and reasons
 
-must be provided for making all proposed amendments.---
+must be provided for making all proposed amendments.
+---
 **1.Amendments to the Draft Retail Strategy**
 
 The Senior Planner, Strategic and Forward Planning explained that following discussion at the
@@ -348,7 +352,8 @@ amend the zoning matrix, as there was a number of typographical errors as follow
 
 Under Enterprise and Employment zoning, change Public House to ‘generally not
 
-permitted’ rather than ‘open for consideration’.---
+permitted’ rather than ‘open for consideration’.
+---
 -
 
 Under Agricultural zoning, change the Boarding Kennels Footnote to “No.1 Ancillary
@@ -407,7 +412,8 @@ deployment phase of telecommunications infrastructure to carefully manage
 
 Limerick’s road networks and minimise future road infrastructure works.
 
-The amendments were proposed by Cllr O’Hanlon, seconded by Cllr J. Sheahan.---
+The amendments were proposed by Cllr O’Hanlon, seconded by Cllr J. Sheahan.
+---
 **4.Bruree**
 
 Cllr Donegan proposed the following amendment:
@@ -454,7 +460,8 @@ Rural Housing Category 1 - Areas under Strong Urban Influence
 
 Rural Housing Category 2 – Rural Areas Elsewhere
 
-Objective SS O17 – Areas under Strong urban influence---
+Objective SS O17 – Areas under Strong urban influence
+---
 It is an objective of the Council to consider a single dwelling for the permanent occupation
 
 of an applicant, in the area under Strong Urban Influence, subject to demonstrating
@@ -517,7 +524,8 @@ Settlement Hierarchy.
 
 b. A person who has lived a substantial period of their lives in the local
 
-rural area, (at least 10 years), that previously owned a home and is no---
+rural area, (at least 10 years), that previously owned a home and is no
+---
 longer in possession of that home due to the home having been
 
 disposed of following legal separation/divorce/repossession and can
@@ -574,7 +582,8 @@ all settlements identified in Level’s 1 – 4 of the Settlement Hierarchy, exc
 
 where there is no capacity in the treatment plant.
 
-The amendments were proposed by Cllr J. Sheahan, seconded by Cllr Galvin.---
+The amendments were proposed by Cllr J. Sheahan, seconded by Cllr Galvin.
+---
 **7.Change to Volume 2-Hospital**
 
 Cllr Mitchell proposed the following amendment:
@@ -635,7 +644,8 @@ perspective or a value for money perspective, to now reduce the importance of Ki
 
 limit the growth of the town to well within its immediate development capacity, particularly at a
 
-time when Ireland needs housing and development to provide for a rising population.---
+time when Ireland needs housing and development to provide for a rising population.
+---
 The amendment was proposed by Cllr Donegan, seconded by Cllr Carey.
 
 **9.Change to Chapter 4-Shopfront Design Guidelines**
@@ -678,7 +688,8 @@ Cllr O’Sullivan outlined the reason for the proposed amendment, which is to su
 
 enhance the night time economy throughout Limerick.
 
-The amendment was proposed by Cllr O’Sullivan, seconded by Cllr O’Donovan.---
+The amendment was proposed by Cllr O’Sullivan, seconded by Cllr O’Donovan.
+---
 **11.Change to Chapter 4-Data Centres**
 
 Cllr O’Donovan proposed the following amendment:
@@ -725,7 +736,8 @@ resource centre, a primary school, a local food store. Sports facilities includi
 
 a GAA Club, are shared with the adjoining village of Clarina.
 
-The amendment was proposed by Cllr McSweeney, seconded by Cllr O’Sullivan.---
+The amendment was proposed by Cllr McSweeney, seconded by Cllr O’Sullivan.
+---
 **14.Changes to Volume 2** **–** **City and Environs Zoning Map and Chapter 3**
 
 Cllr Daly proposed the following amendment:
@@ -788,7 +800,8 @@ Talukder, Teefy.
 
 Benson, Costelloe, Hartigan, Novak Uí Chonchúir, O’Donovan, C. Sheehan.
 
-(6)---
+(6)
+---
 **15.Change to City and Environs Zoning Map and Tiered Approach to Zoning**
 
 Cllr Leddin proposed the following amendment:
@@ -849,7 +862,8 @@ the section 28 Flood Guidelines was also submitted by Cllr Leddin.
 
 The Members noted that this company was a long established and very good employer on the
 
-Dock Road in Limerick, which gave excellent support to the farmers of Co. Limerick and beyond.---
+Dock Road in Limerick, which gave excellent support to the farmers of Co. Limerick and beyond.
+---
 They noted the company’s intention to advance a Green Agenda and that they intend to use GM
 
 free raw materials to deliver a niche product to the farming community.
@@ -878,4 +892,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

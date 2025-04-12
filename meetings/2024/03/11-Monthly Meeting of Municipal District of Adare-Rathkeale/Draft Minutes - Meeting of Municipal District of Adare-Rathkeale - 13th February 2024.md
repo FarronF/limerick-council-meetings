@@ -72,7 +72,8 @@ order to view the draft minutes sent to the Executive before any amendments had 
 
 made. Councillor Sheahan asked it be recorded that he had never experienced any
 
-difficulty with staff on minute recording in the District. All Members concurred with---
+difficulty with staff on minute recording in the District. All Members concurred with
+---
 2
 
 Councillor Sheahan’s sentiments. The Director, Rural, Community and Culture
@@ -143,7 +144,8 @@ To consider the proposed Material Alteration of the Draft Adare Local Area Plan 
 
 2030 and the report of the Chief Executive dated 25th January 2024 on the submissions
 
-received on the Material Alterations to the Draft Adare Local Area Plan, and decide---
+received on the Material Alterations to the Draft Adare Local Area Plan, and decide
+---
 3
 
 whether the Local Area Plan be made or amended in accordance with Section 20(3)(n) of
@@ -216,7 +218,8 @@ compulsorily under the Derelict Sites Act, 1990 at 22 William Street, Askeaton, 
 
 Limerick and the intention to bring the Section 183 Notice to Full Council for
 
-approval.---
+approval.
+---
 4
 
 The report, as circulated, was proposed by Councillor Sheahan, seconded by Councillor
@@ -287,7 +290,8 @@ And Resolved:
 
 the Planning and Development Act, 2000 (as amended) and Section 11 of the Roads Act,
 
-1993”.---
+1993”.
+---
 5
 
 Councillor Keary stated a snag list had been compiled on this estate approximately two
@@ -364,7 +368,8 @@ to possible remedial works in the meantime at this location.
 
  Councillor O’Brien requested the road from the Corner House, Pallaskenry to
 
-Milltown be tarred. The Senior Executive Engineer, Roads, Traffic and Cleansing---
+Milltown be tarred. The Senior Executive Engineer, Roads, Traffic and Cleansing
+---
 6
 
 advised this location would be included in the Draft Schedule of Municipal District
@@ -443,7 +448,8 @@ allocate the following:
 
  €2,000 to Adare Saint Patrick's Day Parade.
 
- €3,000 to Dromore United Soccer Club.---
+ €3,000 to Dromore United Soccer Club.
+---
 7
 
  €500 to City of Limerick Pipe Band.
@@ -516,7 +522,8 @@ contribution as Chairperson of Knockfierna Heritage Society and Amy O’Sullivan
 
 Rathkeale for her success in competitive clay pigeon shooting. This was seconded by
 
-Councillor O’Brien and agreed.---
+Councillor O’Brien and agreed.
+---
 8
 
 The Meetings Administrator advised Members the Executive was not in favour of General
@@ -589,7 +596,8 @@ pollution as well as shadow flickers.
 
 The wind energy development guidelines (2006) are the current relevant
 
-guidelines in respect of wind farms.---
+guidelines in respect of wind farms.
+---
 9
 
 The Minister has published, **Draft Revised Wind Energy Development**
@@ -658,4 +666,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

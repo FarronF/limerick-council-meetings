@@ -70,7 +70,8 @@ days of the adoption of the Plan, who subsequently may notify the Minister of an
 
 compliance with their recommendations, who has 6 weeks to issue a direction on the
 
-Development Plan.---
+Development Plan.
+---
 Six Local Area Plans (LAPS) have been incorporated into the Development Plan and ten LAPS
 
 will require review to ensure that they are in line with the Development Plan.
@@ -145,7 +146,8 @@ tables and chairs (€125 per table) has been waived for the remainder of the cu
 
 However, business owners who wish to cater for outdoor dining on public roads require a
 
-licence under S.254 of the Regulations and have Employers and Public Liability Insurance.---
+licence under S.254 of the Regulations and have Employers and Public Liability Insurance.
+---
 While members welcomed the waiving of the fees for 2021/22, they queried the charge for
 
 future years and was informed that the fees charged were set out in the P&D Regs and such
@@ -224,7 +226,8 @@ more appropriate and would liaise directly with P. Rattigan regarding same.
 
 P. Rattigan pointed out that Foreign Direct Investment would not be affected in the mid-west
 
-region and that the Department of Enterprise, Trade and Employment, worked with---
+region and that the Department of Enterprise, Trade and Employment, worked with
+---
 stakeholders including Enterprise Ireland, the IDA and Fáilte Ireland in supporting their clients
 
 in attracting potential investments.
@@ -273,4 +276,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

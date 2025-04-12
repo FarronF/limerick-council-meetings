@@ -70,7 +70,8 @@ Seconded by Councillor Sheahan (M);
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.
+---
 2
 
 **2.Disposal of Land**
@@ -139,7 +140,8 @@ setting out proposals for the disposal of 0.706 hectares of land at Ballinacurra
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 (h) Circulated, report of the Head of Property and Community Facilities dated 17th August, 2022
@@ -214,7 +216,8 @@ Members welcomed the proposed development and acknowledged the engagement with
 
 Councillors and the general public from the Active Travel Team in relation to the proposed scheme.
 
-The Members highlighted the importance of this infrastructure, on what was a very busy road with---
+The Members highlighted the importance of this infrastructure, on what was a very busy road with
+---
 4
 
 large amounts of traffic, near a large primary school.
@@ -287,7 +290,8 @@ Environs Local Area Plan 2021 – 2027 for consideration by Members.
 
 Proposed by Councillor Butler;
 
-Seconded by Councillor McSweeney;---
+Seconded by Councillor McSweeney;
+---
 5
 
 And Resolved;
@@ -358,7 +362,8 @@ cover the proposed monthly repayments.
 
 ***the lands zoned residential in the new Limerick Development Plan within the Metropolitan area,***
 
-***and what is the timeframe for planning and delivery of units.***---
+***and what is the timeframe for planning and delivery of units.***
+---
 6
 
 **REPLY:** The adopted Limerick Development Plan 2022 – 2028 identifies existing and new residential
@@ -431,7 +436,8 @@ Protection Regulations), I am not in a position to confirm closing dates before 
 
 There was no closing date for the years 2019 and 2020, however on review of the scheme,
 
-a closing date was reintroduced in 2021 for operational / budgetary management reasons.---
+a closing date was reintroduced in 2021 for operational / budgetary management reasons.
+---
 7
 
 **10.Question submitted by Councillor S. Benson**
@@ -522,7 +528,8 @@ Metropolitan District is spent to date in 2022 (c. 73%).
 
 Breakdown by electoral area within the city is not available.
 
-**14.Question submitted by Councillor C. Slattery**---
+**14.Question submitted by Councillor C. Slattery**
+---
 8
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, for a breakdown of costs***
@@ -597,7 +604,8 @@ diverse groups and an aging population.
 
 On Council-led new-build social housing schemes, there is a target to design 15% of the
 
-overall number of units to a Universal Design (UD) standard. The UD standard will apply to---
+overall number of units to a Universal Design (UD) standard. The UD standard will apply to
+---
 9
 
 schemes being initiated now. The UD standard offers a wheelchair-liveable home and will
@@ -668,7 +676,8 @@ properties from January 2022 to June 2022 inclusive.
 
 ***to develop the site and if the Executive can ask the owners of the site to replace the*** ***fencing on***
 
-***the Dublin Road side as it is in a deplorable condition.***---
+***the Dublin Road side as it is in a deplorable condition.***
+---
 10
 
 **REPLY:** The Council has received preliminary enquiries regarding the site, however pre-planning
@@ -747,7 +756,8 @@ the landscaping scheme have occurred during the construction stage based on rest
 
 posed by ground conditions, location of existing services, etc.
 
-**22.Question submitted by Councillor E. O’Donovan**---
+**22.Question submitted by Councillor E. O’Donovan**
+---
 11
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on***
@@ -824,7 +834,8 @@ coming months in order to drive further energy efficiencies.
 
 LCCC will also host events in City Hall and County Hall as part of Energy Awareness Week
 
-between 26th and 30th September where we will advise Council employees to switch off---
+between 26th and 30th September where we will advise Council employees to switch off
+---
 12
 
 unnecessary lighting at our offices when not required and will also staff to power down
@@ -905,7 +916,8 @@ Hinterland CCTV project. These cameras have been approved at the locations outli
 
 safecommunities.limerick.ie.
 
-Work is underway to plan for the installation and commissioning of the additional cameras---
+Work is underway to plan for the installation and commissioning of the additional cameras
+---
 13
 
 in Patrickswell although a timeline has not been determined yet.
@@ -974,7 +986,8 @@ The draft Westfields Wetlands Management Plan is currently being reviewed and wi
 
 progressed through the Climate Action, Biodiversity and Environment Strategic Policy
 
-Committee.---
+Committee.
+---
 14
 
 Councillor Hartigan also queried when the Flood Risk Assessment will take place and when will the
@@ -1049,7 +1062,8 @@ Unit is currently developing a briefing document to engage consultants to undert
 
 feasibility and an options report to determine the most beneficial layout and cross section
 
-for Roxboro Road.  A consultant will be engaged in the coming weeks.---
+for Roxboro Road.  A consultant will be engaged in the coming weeks.
+---
 15
 
 31. **Notice of Motion submitted by Councillor S. Kiely**
@@ -1124,7 +1138,8 @@ Councillor Butler to suspend Standing Orders in order to complete the agenda.
 
 The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Sheahan (M) and
 
-agreed.---
+agreed.
+---
 16
 
 In proposing the motion, Councillor Secas highlighted the urgent need for a new primary school in
@@ -1199,7 +1214,8 @@ Arthurs Quay Village and events
 
 Including zip line, fireworks, entertainment, etc.
 
-€170,130---
+€170,130
+---
 17
 
 Hunt Garden Events
@@ -1288,4 +1304,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -68,7 +68,8 @@ of lands and progression of the Adare by pass. The Cathaoirleach also asked that
 
 Planner consult with the Members when composing the draft Local Area Plans. The funding
 
-costs to date for this project and the money allocated in identifying the docking points of the---
+costs to date for this project and the money allocated in identifying the docking points of the
+---
 2
 
 Distributor Roads was raised. The Members requested that a report on the funding costs to
@@ -113,4 +114,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

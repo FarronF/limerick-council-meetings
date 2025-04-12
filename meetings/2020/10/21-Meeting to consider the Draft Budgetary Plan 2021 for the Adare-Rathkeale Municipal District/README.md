@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-10-21 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2021-adare-rathkeale-municipal-district)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2021-adare-rathkeale-municipal-district" target="_blank">Link to meeting</a>**

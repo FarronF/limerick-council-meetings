@@ -68,7 +68,8 @@ councillor. Even after some setbacks, Ger's determination saw him regain his sea
 
 showing just how much his constituents trusted and respected him. In 2007, Ger hit the
 
-peak of his political career when he was elected the 811th Mayor of Limerick, a role he---
+peak of his political career when he was elected the 811th Mayor of Limerick, a role he
+---
 2
 
 absolutely loved and called the highlight of his political life. But Ger wasn't just about
@@ -139,4 +140,5 @@ This concluded the Meeting.
 
 **Date:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

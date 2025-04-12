@@ -58,7 +58,8 @@ The Elected members congratulated all groups involved with organizing St Patrick
 
 parades, and the Cathaoirleach thanked Councillors for representing LCCC at the various
 
-parades in the county.---
+parades in the county.
+---
 3. Disposal of Property
 
 The following disposals of property were noted:
@@ -119,7 +120,8 @@ An inspection of the windows and doors in Radharc Na Cille Estate will be arrang
 
 Housing Maintenance section of this Council.
 
-**Proposed: Councillor Carey**---
+**Proposed: Councillor Carey**
+---
 **Seconded: Councillor Donegan**
 
 7. Notice of Motion submitted by Councillor Teefy
@@ -162,7 +164,8 @@ Protocol Committee for consideration.
 
 **Proposed: Councillor Donegan**
 
-**Seconded: Councillor M Ryan**---
+**Seconded: Councillor M Ryan**
+---
 QUESTIONS
 
 9.  Question submitted by Councillors Carey and Mitchell
@@ -217,7 +220,8 @@ process is completed for these spaces.”
 
 The review of disability spaces across the Municipal District is ongoing. A report should be
 
-available for the May meeting of the Cappamore/Kilmallock MD---
+available for the May meeting of the Cappamore/Kilmallock MD
+---
 12. Question submitted by Councillor Teefy
 
 “I will ask at the next meeting of the Cappamore/Kilmallock Municipal District what progress
@@ -268,7 +272,8 @@ Subject to continued budget availability and statutory approvals, a construction
 
 expected to be issued to our contractor in 2024. The works will improve the performance of the
 
-wastewater treatment plant but will not result in an increase in the loading capacity of the plant.---
+wastewater treatment plant but will not result in an increase in the loading capacity of the plant.
+---
 14. Question submitted by Councillor Donegan
 
 “I will ask at the next meeting of the Cappamore/Kilmallock Municipal District to get the
@@ -329,7 +334,8 @@ her passing on 22nd March 2023.
 
 Congratulations
 
-The Elected Members wished to congratulate Betty McElholm on her 106th Birthday.---
+The Elected Members wished to congratulate Betty McElholm on her 106th Birthday.
+---
 The Elected Members also wished to congratulate Colaiste Iosaef on winning the Schools
 
 All Ireland Junior Ladies Football
@@ -344,4 +350,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

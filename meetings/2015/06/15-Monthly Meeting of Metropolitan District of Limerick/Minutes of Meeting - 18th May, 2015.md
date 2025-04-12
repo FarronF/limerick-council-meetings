@@ -78,7 +78,8 @@ Corporate Services
 
 On the proposal of Councillor Collins and seconded by Councillor Leddin it was agreed
 
-that the Annual Meeting should be held on 19th June, 2015.---
+that the Annual Meeting should be held on 19th June, 2015.
+---
 On the proposal of Councillor O’Hanlon and seconded by Councillor Collins it was
 
 agreed that the Annual Meeting should be held at 7.00 p.m.
@@ -161,7 +162,8 @@ Planning and Development Regulations 2001 – 2013 and set out details of the pr
 
 development at Park Canal Bridge / Park Road. It was proposed to proceed in
 
-accordance with the Chief Executive’s Report.---
+accordance with the Chief Executive’s Report.
+---
 Members welcomed the proposed development and noted that issues, that had been
 
 raised at the start of the process, had been resolved through consultation with local
@@ -246,7 +248,8 @@ Notice of Motion submitted by Councillor Malachy McCreesh
 
 ***I will move at the next Metropolitan meeting that the council undertake a review of***
 
-***the properties on the approach to Limerick City Centre via the Dock Road with***---
+***the properties on the approach to Limerick City Centre via the Dock Road with***
+---
 ***regard to improving the unsightly appearance of this roadway.***
 
 In proposing the motion, Councillor McCreesh highlighted the condition of some of the
@@ -329,7 +332,8 @@ The motion was proposed by Councillor Prendiville and seconded by Councillor Lof
 
 Members supporting the motion spoke of the stress that water charges place on the
 
-most vulnerable and how water charges will result in students having to pay increased---
+most vulnerable and how water charges will result in students having to pay increased
+---
 deposits for accommodation. Members also pointed out that the sums to be collected
 
 now will be inadequate to fund Irish Water and had the set up costs for Irish Water been
@@ -412,7 +416,8 @@ Notice of Motion submitted by Councillor Paul Keller
 
 **I will move at the next** **meeting that we write to Bus Eireann calling on them to**
 
-**relocate the following bus stops:**---
+**relocate the following bus stops:**
+---
 **1)**
 
 **Ballysimon Road - beside the Woodlawn Park entrance inward bound**
@@ -463,4 +468,5 @@ Natura Wetlands Report 1999 be provided at the next meeting.
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

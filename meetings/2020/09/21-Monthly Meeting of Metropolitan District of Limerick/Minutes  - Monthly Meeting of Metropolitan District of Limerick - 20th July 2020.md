@@ -68,7 +68,8 @@ Seconded by Councillor M. Sheahan;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **2.**
@@ -175,7 +176,8 @@ Hyde Rangers Football Club
 
 Pike Rovers Football Club
 
-€700.00---
+€700.00
+---
 3
 
 **LIMERICK CITY NORTH**
@@ -292,7 +294,8 @@ And Resolved:
 
 “That the estate at Bru na Gruadan, Castletroy be taken in charge in accordance with Section 180
 
-of the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.---
+of the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.
+---
 4
 
 **5. Physical Development Directorate**
@@ -357,7 +360,8 @@ Council with a further update.
 
 **REPLY:** Mungret Gate is the only LIHAF site in Limerick.
 
-To date our records show that a total of 98 LIHAF reduced properties have sold in Mungret. 20---
+To date our records show that a total of 98 LIHAF reduced properties have sold in Mungret. 20
+---
 5
 
 properties have been agreed for social rental under Part V of the Planning and Development Act
@@ -430,7 +434,8 @@ speed surveys in the city.
 
 The success of these Culture and Place Making measures is monitored by the numbers of people
 
-attending the various events and the level of interest from local artists in the public call. We will---
+attending the various events and the level of interest from local artists in the public call. We will
+---
 6
 
 also monitor the level of coverage in the local media channels.
@@ -503,7 +508,8 @@ Limerick City and County Council operates publicly tendered framework contracts 
 
 maintenance and small civil works. There are a number of contractors on this framework and
 
-Maramba Road Services Ltd is one of these contractors and was engaged for the speed limit signs---
+Maramba Road Services Ltd is one of these contractors and was engaged for the speed limit signs
+---
 7
 
 work. All contractors must produce a current tax clearance certificate to be paid and comply with
@@ -576,7 +582,8 @@ In proposing the motion, Councillor Slattery spoke of the tragedies on this road
 
 traffic calming measures and the urgency for funding to be drawn down from the National
 
-Transport Authority.---
+Transport Authority.
+---
 8
 
 Members supported the motion and queried if speed cameras could be used in the area.
@@ -645,7 +652,8 @@ Committee.
 
 **19. Notice of Motion submitted by Councillor S. Novak Uí Chonchúir**
 
-***I will move at the next meeting that the Council remove two piers of the Thomond Weir for better***---
+***I will move at the next meeting that the Council remove two piers of the Thomond Weir for better***
+---
 9
 
 ***navigation of the river and to improve safety for the rowing clubs and others using the river.***
@@ -710,7 +718,8 @@ the urgent need for a special mental health unit to be set up.
 
 **Correspondence**
 
-Correspondence was taken as read.---
+Correspondence was taken as read.
+---
 10
 
 This concluded the Meeting.
@@ -723,4 +732,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-01-09 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-spc-and-council-members-chief-executives-report-proposed-development)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-spc-and-council-members-chief-executives-report-proposed-development" target="_blank">Link to meeting</a>**

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-10-19 12:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-adare-rathkeale-24)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-adare-rathkeale-24" target="_blank">Link to meeting</a>**

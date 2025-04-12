@@ -74,7 +74,8 @@ following Motion, originally submitted by Councillor Quinlivan for the November
 
 Meeting, to be put to the Special Meeting and Members had been notified of this on
 
-4th November:---
+4th November:
+---
 2
 
 **“That, Limerick City and County Council calls on the Government to: (1)**
@@ -155,7 +156,8 @@ party had no issue with paying for water provided that people’s ability to pay
 
 taken into account.
 
-The Amendment was seconded by Councillor Gleeson.---
+The Amendment was seconded by Councillor Gleeson.
+---
 3
 
 Councillor Keller, on behalf of his party, proposed an Amendment to the Motion as
@@ -228,7 +230,8 @@ that the legislation had been rushed and that any charge should be based on a
 
 person’s ability to pay.
 
-The Amendment was seconded by Councillor Daly.---
+The Amendment was seconded by Councillor Daly.
+---
 4
 
 Councillor Sheahan (J) stated that his party would not be supporting the Motions as
@@ -289,7 +292,8 @@ Secas, Sheahan (J), Sheahan (K), Sheahan (M), Sheehy. **(29)**
 
 There were no abstentions.
 
-The Cathaoirleach declared the Amendment defeated.---
+The Cathaoirleach declared the Amendment defeated.
+---
 5
 
 **Third Amendment – Proposed by Councillor Leddin and seconded by**
@@ -346,4 +350,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

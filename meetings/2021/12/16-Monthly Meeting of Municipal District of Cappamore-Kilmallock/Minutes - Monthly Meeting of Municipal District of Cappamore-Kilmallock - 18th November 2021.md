@@ -60,7 +60,8 @@ deputation.
 
 The Elected Members wished to extend their congratulations to Lough Gur on their Green
 
-Flag award, and suggested Lough Gur as a possible venue in 2022.---
+Flag award, and suggested Lough Gur as a possible venue in 2022.
+---
 It was agreed by the Elected Members to postpone the Workshop with Irish Water as the
 
 Irish Water clinic had been held recently.
@@ -125,7 +126,8 @@ Kilmallock and Bruff on the 329 bus route.”
 
 Active Travel will submit a grant application to the National Transport Authority (NTA) in
 
-January 2022. We will include Kilfinane, Kilmallock and Bruff as well as potential locations---
+January 2022. We will include Kilfinane, Kilmallock and Bruff as well as potential locations
+---
 bus shelters. Pending NTA approval, Active Travel will progress works at these locations in
 
 2022.
@@ -190,7 +192,8 @@ food strategy at the Re-Ignite conference at the Strand Hotel on the 24th Novemb
 
 8.Question submitted by Councillor Donegan
 
-I will ask at the next meeting of the Cappamore/Kilmallock Municipal District for an update on:---
+I will ask at the next meeting of the Cappamore/Kilmallock Municipal District for an update on:
+---
 (a) the amount of local authority houses that are currently vacant in Kilmallock town.
 
 (b) how long are each vacant.
@@ -249,7 +252,8 @@ Question submitted by Councillor Teefy
 
 I will ask at the next Municipal District meeting
 
-(a) How many qualified housing applicants, first choice, are on the waiting list in this district---
+(a) How many qualified housing applicants, first choice, are on the waiting list in this district
+---
 (b) and what is the breakdown of locations.
 
 (c) How many Council houses are vacant in the District.
@@ -370,7 +374,8 @@ District
 
 As at Thursday 11th November the total number of dwellings shown as ‘vacant’ in the
 
-Cappamore/Kilmallock Municipal District was twenty four.---
+Cappamore/Kilmallock Municipal District was twenty four.
+---
 The follow table details this figure.
 
 Number vacant but available for letting
@@ -443,7 +448,8 @@ Contingent upon no unforeseen delays the dwellings should be ready for reletting
 
 November 2022.
 
-***The Questions were taken as read.***---
+***The Questions were taken as read.***
+---
 Any other Business
 
 **Notice of Motion to Full Council Meeting**
@@ -510,7 +516,8 @@ Elected Members noted potential nominees to be considered for a Civic reception 
 
 2022. These were added to the list by the Senior Staff Officer. The criteria for nomination
 
-and the process for planning a Civic reception was circulated to all Elected Members.---
+and the process for planning a Civic reception was circulated to all Elected Members.
+---
 **Housing List**
 
 Clarification was requested by the Elected Members as to how many houses are in the
@@ -561,4 +568,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

@@ -76,7 +76,8 @@ are taken in charge each year. The Council is now taking estates in charge as ph
 
 developments are completed. Pre-planning consultations with developers involve discussions on
 
-the eventual taking in charge of the estates.---
+the eventual taking in charge of the estates.
+---
 **Item 2**
 
 **National Water Resources Plan (NWRP) Draft Framework** **–** **Consultation 2**
@@ -143,7 +144,8 @@ to application of national guidelines on various issues.
 
 It was agreed that the PPN members would also be briefed on the various issues impacting on the
 
-preparation of a draft development plan.---
+preparation of a draft development plan.
+---
 **Item 4**
 
 **Any Other Business**
@@ -160,4 +162,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

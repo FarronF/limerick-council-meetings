@@ -70,7 +70,8 @@ construction of 10 No. Housing Units in O’Connor Park, Reerasta
 
 North, Ardagh, County Limerick.
 
-At the outset, the Cathaoirleach welcomed everyone to the Meeting.---
+At the outset, the Cathaoirleach welcomed everyone to the Meeting.
+---
 2
 
 The Executive Architect commenced by referring to the Chief Executive’s Report on the Part
@@ -127,5 +128,7 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
-3---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
+3
+---

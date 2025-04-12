@@ -72,7 +72,8 @@ would be amended to reflect this.
 
 Cllr. Leddin sought clarification around the Area of Choice Form and the Housing Application
 
-Form as there is confusion around which form to use when an applicant would like to choose---
+Form as there is confusion around which form to use when an applicant would like to choose
+---
 a specific area- matter to be brought to Community Support Services for update at next
 
 meeting.
@@ -141,7 +142,8 @@ allocate those units.
 
 Ms. Duke noted that the purpose of this update was to advise that the Turnkey process will
 
-have a more formal internal process.---
+have a more formal internal process.
+---
 A discussion took place around this and the main points were:
 
  Cllr. Leddin thanked Ms Duke for the update. He asked had LCCC any indicative number
@@ -232,7 +234,8 @@ are now approved to provide affordable rental and LCCC would like to work with A
 
 to carve out a percentage of affordable rental in the Limerick area. Ms. Duke noted the
 
-percentage mix is being used as a template where the numbers go above and beyond---
+percentage mix is being used as a template where the numbers go above and beyond
+---
 the settlement strategy figures. For example, when developers approach us LCCC is
 
 saying that they would like a proportion for private sale and we would take a portion of
@@ -307,7 +310,8 @@ Catherine McGuigan (Meath County Council) runs a national programme for Age Frie
 
 Ireland and has created the presentation outlining the activities – Anne Rizzo is LCCCs Age
 
-Friendly Representative.---
+Friendly Representative.
+---
 Ireland is the first country in the world to achieve full age friendly programmes across the 31
 
 Local Authorities. Ms. Duke wanted to highlight how the Age Friendly programme ties in
@@ -372,7 +376,8 @@ When the final terms and conditions of programme are agreed, Ms. Duke will rever
 
 SPC to outline the policy – it will be a limited pilot for year one. The success of pilot scheme
 
-will be assessed and it will be rolled out as programme throughout the Local Authorities.---
+will be assessed and it will be rolled out as programme throughout the Local Authorities.
+---
 The Chairperson, Mr. Murphy, also thanked Ms. Newell with her work in achieved in
 
 securing the pilot for Limerick.
@@ -449,7 +454,8 @@ will be introduced to members and updates will be provide by the Team.
 
 Ms. Duke noted that there is a slight issue with the Tenant Purchase Scheme that is relevant
 
-in some areas.---
+in some areas.
+---
 It allows a tenant for more than a year to purchase their house at a significant discount
 
 depending on their level of income and is dependent on certain terms and conditions.
@@ -518,7 +524,8 @@ Cllr. Benson noted that she had organisations on to her in relation to the timin
 
 closing date close after Christmas and in particular with Covid-19. Ms. Duke said that there
 
-should not be an issue with extending deadline.---
+should not be an issue with extending deadline.
+---
 
 
 Ms. Byrnes also echoed Cllr. Benson’s sentiment – that she would appreciate if the deadline
@@ -617,7 +624,8 @@ Cllr. Costelloe asked could he have a report on the Orchard Site for the next SP
 
 Anne’s Court as he is anxious that these get over the line. Ms. Duke agreed to have report on
 
-both for next SPC.---
+both for next SPC.
+---
 
 
 Cllr. Sheehan asked for an update on the situation in King’s Island regarding Irish Wheelchair
@@ -644,4 +652,5 @@ The Chair thanked everyone for logging in and for their valuable contributions. 
 
 thanked the members of the executive present and wished all members a very Happy
 
-Christmas.---
+Christmas.
+---

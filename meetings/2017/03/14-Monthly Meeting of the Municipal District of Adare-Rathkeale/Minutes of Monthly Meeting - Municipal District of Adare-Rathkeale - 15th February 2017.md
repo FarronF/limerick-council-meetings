@@ -68,7 +68,8 @@ Mr. Keating gave an extensive presentation to the Meeting which included the fol
 
 • The Strategic Integrated Framework Plan for the Estuary.
 
-• Details of the proposed Deep Sea Berth and Rail Integration at Foynes.---
+• Details of the proposed Deep Sea Berth and Rail Integration at Foynes.
+---
 2
 
 Mr. Keating highlighted the importance of linkage to the port and called on the Council to ensure
@@ -151,7 +152,8 @@ apparent lack of financial contribution by Irish Water to the cost of the works 
 
 similar instances, while ultimately benefiting from same. The A/Senior Executive Engineer, Service
 
-Operations West Division noted that these were legacy estates in which Irish Water had had no---
+Operations West Division noted that these were legacy estates in which Irish Water had had no
+---
 3
 
 initial involvement and the position would be different in relation to any new estates built. The
@@ -234,7 +236,8 @@ should, as appropriate to the case, take a more balanced approach to the prosecu
 
 offences. It was also noted there were inadequate facilities in place to detect night time littering
 
-offences.---
+offences.
+---
 4
 
 QUESTIONS
@@ -299,7 +302,8 @@ not completed. It is now intended to claim the bond lodged for this development
 
 and the cost of completing the outstanding works is being assessed in order to
 
-submit with bond claim.---
+submit with bond claim.
+---
 5
 
 NOTICES OF MOTION
@@ -376,7 +380,8 @@ In proposing the Motion Councillor Teskey highlighted the income accruing to the
 
 sale of gravespaces and the need to apply this income to the maintenance of graveyards.
 
-Councillor Teskey noted instances of headstone in Clounagh Cemetery which were falling over and---
+Councillor Teskey noted instances of headstone in Clounagh Cemetery which were falling over and
+---
 6
 
 the Council was preventing locals from straightening same. He requested that the appropriate
@@ -457,7 +462,8 @@ may wish to have provided for them.
 
 Correspondence
 
-Correspondence was noted.---
+Correspondence was noted.
+---
 7
 
 At the conclusion of the Agenda the following issues were raised with the consent of the
@@ -498,4 +504,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

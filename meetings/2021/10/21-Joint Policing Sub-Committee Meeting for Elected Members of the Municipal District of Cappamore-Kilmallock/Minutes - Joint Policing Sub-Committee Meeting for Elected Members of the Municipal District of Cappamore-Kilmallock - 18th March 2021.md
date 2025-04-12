@@ -74,7 +74,8 @@ Inspector Pat Brennan was welcomed by the Cathaoirleach.
 
 Councillor Donegan thanked the Gardai and welcomed the fact that Sgt Colcannon has been
 
-assigned to Kilmallock.---
+assigned to Kilmallock.
+---
 2
 
 Councillor Donegan also thanked the staff for monitoring and patrolling following recent well
@@ -135,7 +136,8 @@ In relation to the use of CCTV, there was an acknowledgement of the issue of dum
 
 rubbish, and cameras have been installed in some areas with the Environment department of
 
-LCCC undertaking spot checks.---
+LCCC undertaking spot checks.
+---
 3
 
 Councillor Teefy complimented the Gardai on their work, and requested clarification as to
@@ -204,7 +206,8 @@ Councillor Mitchell also wished to highlight that he would like to see a second 
 
 rolled out, and agreed that GDPR was an issue, but that it was important to co-operate.
 
-Councilllor Donegan fully supported the prioritisation of the vaccine rollout with the Gardai.---
+Councilllor Donegan fully supported the prioritisation of the vaccine rollout with the Gardai.
+---
 4
 
 This concluded the business of the meeting.
@@ -217,4 +220,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

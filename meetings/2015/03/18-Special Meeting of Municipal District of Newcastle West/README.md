@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-03-18 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west" target="_blank">Link to meeting</a>**

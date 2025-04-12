@@ -24,7 +24,8 @@ The business to be transacted is set out in the appended agenda.
 
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -55,4 +56,5 @@ tree in all new housing developments and suitable existing communities with the
 
 Council and community pledging to care for this individual tree until it reaches the
 
-Ancient tree category age of 400 years +.---
+Ancient tree category age of 400 years +.
+---

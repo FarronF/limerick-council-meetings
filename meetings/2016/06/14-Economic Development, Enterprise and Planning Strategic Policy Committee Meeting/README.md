@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-06-14 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/economic-development-enterprise-and-planning-strategic-policy-committee-meeting-1)**
+**<a href="https://www.limerick.ie/council/whats-on/economic-development-enterprise-and-planning-strategic-policy-committee-meeting-1" target="_blank">Link to meeting</a>**

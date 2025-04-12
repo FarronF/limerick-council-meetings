@@ -30,7 +30,8 @@ Kilmallock held on the 21st September 2022
 
 2.Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 21st September 2022.---
+Relating to the Minutes of the Municipal District Meeting of 21st September 2022.
+---
 2
 
 3. Draft Budgetary Plan 2023
@@ -75,7 +76,8 @@ I will move at the next meeting of the Cappamore-Kilmallock Municipal District c
 
 on Limerick City and County Council to carry out necessary safety improvements at the
 
-junction of Emmett Street and Gerard Road, Kilmallock.---
+junction of Emmett Street and Gerard Road, Kilmallock.
+---
 3
 
 QUESTIONS
@@ -102,4 +104,5 @@ update on the plans for the former Bank of Ireland building in Bruff, including 
 
 we expect a reply in relation to the funding application submitted to the Department of
 
-Rural and Community Development to upgrade the building.---
+Rural and Community Development to upgrade the building.
+---

@@ -64,7 +64,8 @@ And Resolved:
 
 (b) Circulated, copy of draft Minutes of the Annual Meeting of the Metropolitan District of
 
-Limerick held on 28th June, 2024:---
+Limerick held on 28th June, 2024:
+---
 2
 
 Proposed by Councillor Hartigan;
@@ -131,7 +132,8 @@ relation to identifying lands that would be suitable for the delivery of such a 
 
 the Metropolitan District of Limerick.
 
-**5.Question submitted by Councillor J. Leddin**---
+**5.Question submitted by Councillor J. Leddin**
+---
 3
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what criteria is used to***
@@ -208,7 +210,8 @@ satisfactory and therefore there is no requirement for Eircodes.
 
 ***the Council to go in and refurbish/repair the property and is there funding specifically available***
 
-***for these properties.***---
+***for these properties.***
+---
 4
 
 **REPLY:** The Department of Housing, Local Government and Heritage funds both the acquisition and
@@ -281,7 +284,8 @@ secondary schools.
 
 A facility of this size and range requires significant planning and resources, both capital and
 
-revenue and progress must be set in the context of other local authority demands.---
+revenue and progress must be set in the context of other local authority demands.
+---
 5
 
 Therefore, we are not in a position at this stage to have a definite timeline for delivery of
@@ -360,7 +364,8 @@ road markings will be considered as guidance for road traffic users in this area
 
 **REPLY:** Funding of €410,000 has been allocated for a new playground for the Caherdavin
 
-community, consisting of a combination of General Municipal Allocation and Development---
+community, consisting of a combination of General Municipal Allocation and Development
+---
 6
 
 Contributions funding. A number of sites have been reviewed and narrowed down. It is the
@@ -435,7 +440,8 @@ constructed the Canal, back drains, sluices, bridge, sections of pipeline, fenci
 
 fifty years carried out continuous maintenance work on the Canal in conjunction with various other
 
-statutory bodies including SFADCO and the IDA.---
+statutory bodies including SFADCO and the IDA.
+---
 7
 
 We have not been provided with any evidence that any party other than the Council has any
@@ -508,7 +514,8 @@ accordance with the guidelines.
 
 **REPLY:** The project for resolving the THM issues at Clareville WTP was handed over for
 
-infrastructure delivery in Q3 2023.---
+infrastructure delivery in Q3 2023.
+---
 8
 
 The solution requires extensive bench trials and experimental design to study the efficacy
@@ -701,7 +708,8 @@ Accommodation
 
 **28**
 
-**30**---
+**30**
+---
 9
 
 **January to December 2023 Exits**
@@ -1000,7 +1008,8 @@ Accommodation
 
 **19**
 
-**60**---
+**60**
+---
 10
 
 **19.Question submitted by Councillor S. Beasley**
@@ -1069,7 +1078,8 @@ Members supported the Motion and stated that the Bye-Laws should be reviewed als
 
 **REPLY**: Limerick City and County Council employs two dog wardens, a kennel assistant and
 
-administrative support in operating the LCCC Dog Shelter and in enforcing the Control of---
+administrative support in operating the LCCC Dog Shelter and in enforcing the Control of
+---
 11
 
 Dogs Act, including regulations regarding restricted dog breeds. The team responds to all
@@ -1142,7 +1152,8 @@ same. It was also agreed to include the Play and Recreation Policy for discussio
 
 ***on the progress made on the crypt in Mount St. Laurence and the commitment given to improve***
 
-***it and make it safe.***---
+***it and make it safe.***
+---
 12
 
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor Doyle and agreed.
@@ -1215,7 +1226,8 @@ national roads, relevant local and national policies and not impact on the capac
 
 safety of the existing national road infrastructure. It is noted that this section of the
 
-national road network also forms part of the Limerick Tunnel PPP concession contract.---
+national road network also forms part of the Limerick Tunnel PPP concession contract.
+---
 13
 
 **26.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
@@ -1268,4 +1280,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

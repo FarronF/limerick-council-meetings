@@ -76,7 +76,8 @@ meeting.
 
 **Proposed:** Cllr. Stephen Keary
 
-**Seconded:** Cllr. Sarah Kiely---
+**Seconded:** Cllr. Sarah Kiely
+---
 **Item 2: Matters arising from the Minutes**
 
 No matters arising from previous minutes.
@@ -149,7 +150,8 @@ Conor Culloo, Senior Engineer confirmed the grant allocation from the Department
 
 - Cllr. Sharon Benson and Cllr. Sarah Kiely, sought clarification on the Disabled Person’s
 
-Grant and transfer applications as part of the DPG process. Ms Phillips assured the---
+Grant and transfer applications as part of the DPG process. Ms Phillips assured the
+---
 committee that each DPG application is reviewed on a case-by-case basis and assessed
 
 accordingly.
@@ -234,7 +236,8 @@ locations identified came about following an expression of interest from develop
 
 January 2022 and that the next call to home builders and housing developers would be in
 
-May/June 2022. Ms. Newell added that City Centre locations are progressing through the---
+May/June 2022. Ms. Newell added that City Centre locations are progressing through the
+---
 planning application process citing Speakers Corner as an example. Ms. Newell informed
 
 the members that the Council has received over 500 submissions to date from interested
@@ -307,4 +310,5 @@ contributions and presentation given and wished former Councillor John Costelloe
 
 SPC member well on behalf of the Committee.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

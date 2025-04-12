@@ -70,7 +70,8 @@ Seconded by Councillor Sheahan;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 Members sought an update on the Area Wide CCTV Project and stressed the importance of
@@ -135,7 +136,8 @@ And Resolved:
 
 public display in accordance with Section 199 and Schedule 14A Part 1 of the Local
 
-Government Act 2001 (as amended).---
+Government Act 2001 (as amended).
+---
 3
 
 **2.**
@@ -210,7 +212,8 @@ requested that the Council make a public statement to clarify this matter.
 
 Members noted the importance of maintaining the costal infrastructure and stressed the need
 
-to make annual applications to the Department for any funding available in this regard.---
+to make annual applications to the Department for any funding available in this regard.
+---
 4
 
 Members expressed disappointment that the Minister had not allocated funding to the repair
@@ -301,7 +304,8 @@ Rock Armour:
 
 €12,500.00
 
-Topsoiling and reseeding: € 2,000.00---
+Topsoiling and reseeding: € 2,000.00
+---
 5
 
 **NOTICE OF MOTION**
@@ -366,7 +370,8 @@ that the amount of €8,000 be allocated to Rathkeale Boxing Club under the GMA 
 
 On the proposal of Councillor Teskey, seconded by Councillor McMahon it was agreed that the
 
-amount of €3,500 be allocated to Limerick City and County Motor Club under the GMA 2017.---
+amount of €3,500 be allocated to Limerick City and County Motor Club under the GMA 2017.
+---
 6
 
 **Civic Events**
@@ -397,4 +402,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

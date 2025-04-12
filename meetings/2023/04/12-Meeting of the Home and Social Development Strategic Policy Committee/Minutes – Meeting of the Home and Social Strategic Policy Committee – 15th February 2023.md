@@ -80,7 +80,8 @@ An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed all member
 
 February SPC meeting.
 
-**Item 1: Confirm minutes from meeting held on14th** **December 2022**---
+**Item 1: Confirm minutes from meeting held on14th** **December 2022**
+---
 2
 
 **Proposed:** Cllr. Adam Teskey
@@ -151,7 +152,8 @@ Working Group on Vacancy be submitted to full Council.
 
 **Proposed: Cllr. Conor Sheehan Seconded: Cllr. Tom Collopy**
 
-**Item 5: Scheme of Priority for Affordable Purchase Arrangements**---
+**Item 5: Scheme of Priority for Affordable Purchase Arrangements**
+---
 3
 
 Ms. Martina Frawley, Administrative Officer, Housing Strategy and Non-LA Housing Construction
@@ -232,7 +234,8 @@ Cllr. McSweeney also noted that the Local Authority is lacking in terms of targe
 
 should not be reliant on the private market. Ms. Newell replied that the Council have their own sites
 
-they are activating including Sonny’s Corner, Curragower Site and Toppins Field. Regular updates will---
+they are activating including Sonny’s Corner, Curragower Site and Toppins Field. Regular updates will
+---
 4
 
 be provided on Affordable Housing every quarter in tandem with the Quarterly Housing Delivery
@@ -307,7 +310,8 @@ Ms. Kathy O’Grady, Senior Staff Officer presented an update to the group.
 
 Cllr. Benson asked if the percentage of the reducing charge had been amended. Ms. O’Grady
 
-confirmed that it had not changed but may do so in the future.---
+confirmed that it had not changed but may do so in the future.
+---
 5
 
 **Item 9: AOB**
@@ -348,4 +352,5 @@ next few weeks.
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

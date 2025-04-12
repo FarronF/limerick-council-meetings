@@ -62,7 +62,8 @@ On taking the Chair, Councillor Keary thanked his proposer and seconder and said
 
 was looking forward to working with all Members, Management and Staff over the next
 
-twelve months in his role as Cathaoirleach of the Adare-Rathkeale Municipal District.---
+twelve months in his role as Cathaoirleach of the Adare-Rathkeale Municipal District.
+---
 2
 
 **2.**
@@ -105,4 +106,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

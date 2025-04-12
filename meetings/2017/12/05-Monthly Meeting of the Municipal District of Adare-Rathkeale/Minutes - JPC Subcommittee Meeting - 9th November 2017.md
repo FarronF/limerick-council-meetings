@@ -68,7 +68,8 @@ years were not repeated.
 
 In response to queries from Members, Superintendent O’Neill noted that he would be in
 
-dialogue with the various state agencies, as appropriate, as issues arose. With regard to---
+dialogue with the various state agencies, as appropriate, as issues arose. With regard to
+---
 2
 
 issues that might arise from unsupervised children on the street in Rathkeale, the Gardaí
@@ -143,7 +144,8 @@ Motion was agreed by Members.
 
 “That this District calls on the Minister for Justice and Equality to arrange for an
 
-advertising campaign on national television, targeted in particular at the elderly,---
+advertising campaign on national television, targeted in particular at the elderly,
+---
 3
 
 warning of the risks of engaging with rogue traders and builders who pressurise the
@@ -182,4 +184,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

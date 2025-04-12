@@ -68,7 +68,8 @@ Councillor Sheehy requested that the Members be informed when a reply from Irish
 
 Rail was received in relation to her Notice of Motion regarding reopening Kilmallock Railway
 
-Station.---
+Station.
+---
 2
 
 2.
@@ -153,7 +154,8 @@ school.
 
 • A curated meeting place for creative practitioners from different cultures to build
 
-relations through shared experience and achievement.---
+relations through shared experience and achievement.
+---
 3
 
 • Created the opportunity to work outside comfort zone, expanding perceptions and
@@ -230,7 +232,8 @@ towns.
 
 • 28 broadband connections between the local CCTV hubs and MCEC.
 
-• Remote access on mobile phones – linked to An Garda Síochána Mobility Project.---
+• Remote access on mobile phones – linked to An Garda Síochána Mobility Project.
+---
 4
 
 • 13 locations would be enabled in Wave 2.
@@ -305,7 +308,8 @@ Proposed by Councillor Donegan;
 
 Seconded by Councillor Teefy;
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, the following estate - Toormore, Bruree, Co. Limerick – be taken in charge, in
@@ -376,7 +380,8 @@ Question submitted by Councillor M. Donegan
 
 ***I will ask at the next Meeting for an update on the proposed footbridge at the North***
 
-***Bridge in Kilmallock***---
+***Bridge in Kilmallock***
+---
 6
 
 **REPLY:**
@@ -451,7 +456,8 @@ Other Matters Raised:
 
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the
 
-following items were raised:---
+following items were raised:
+---
 7
 
 •
@@ -534,7 +540,8 @@ Design Team which would progress the design of the junction with a view to bring
 
 revised junction design proposals to Part VIII stage. He confirmed that there would be
 
-further engagement and updates provided to the Members as the design phase progressed.---
+further engagement and updates provided to the Members as the design phase progressed.
+---
 8
 
 •
@@ -567,4 +574,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

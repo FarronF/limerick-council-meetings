@@ -29,7 +29,8 @@ out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -46,4 +47,5 @@ Policy Committee held on the 21st February 2023.
 
 & Waterfront Infrastructure Worksby Place-Making & Public Realm Team
 
-**4.Presentation:** BusConnects Programme Update by the National Transport Authority---
+**4.Presentation:** BusConnects Programme Update by the National Transport Authority
+---

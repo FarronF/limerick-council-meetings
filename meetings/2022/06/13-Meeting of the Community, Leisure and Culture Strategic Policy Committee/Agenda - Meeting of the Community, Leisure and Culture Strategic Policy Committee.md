@@ -80,7 +80,8 @@ Comhairle na Nog Presentation
 
 **Item 8**
 
-Autism Project Update---
+Autism Project Update
+---
 **Item 9**
 
 Date of next meeting
@@ -91,4 +92,5 @@ Date of next meeting
 
 **Community, Leisure and Culture SPC**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

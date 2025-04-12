@@ -84,7 +84,8 @@ Municipal District of Newcastle West as follows:
 
 • Special Projects
 
-€100,000---
+€100,000
+---
 2
 
 Members thanked the Acting Head of Finance for his presentation.
@@ -115,4 +116,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cathaoirleach**
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

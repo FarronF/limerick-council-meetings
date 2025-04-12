@@ -52,7 +52,8 @@ the Bruff Electoral Area in the Local Elections of 1999. Leonard Enright was ret
 
 Limerick County Council in June 2004. He contested the 2009 Local Elections, this time in the
 
-newly named and redrawn Adare Electoral Area, and was again returned to the Council.---
+newly named and redrawn Adare Electoral Area, and was again returned to the Council.
+---
 2
 
 The Members thanked the Mayor for calling the Special Meeting. The Members spoke of
@@ -95,4 +96,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

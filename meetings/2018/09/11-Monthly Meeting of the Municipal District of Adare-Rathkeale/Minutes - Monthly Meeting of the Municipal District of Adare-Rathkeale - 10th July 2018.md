@@ -64,7 +64,8 @@ Municipal District Members, they will then go through the public consultation pr
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor Keary it was agreed
 
-this item should also go to the Full Council Meeting.---
+this item should also go to the Full Council Meeting.
+---
 **1.**
 
 **Minutes**
@@ -135,7 +136,8 @@ the current Housing Delivery Programme. Councillor O’Donoghue suggested a diff
 
 approach be taken for the County due to restrictions on new builds. He also suggested
 
-there should be less restrictions on listed buildings. On the proposal of Councillor---
+there should be less restrictions on listed buildings. On the proposal of Councillor
+---
 O’Donoghue, seconded by Councillor Sheahan it was proposed a letter be sent to Tom
 
 Cassidy asking that a more pragmatic approach be adopted with the owners of listed
@@ -198,7 +200,8 @@ The Cathaoirleach deferred Item 4 (a) until the September Meeting.
 
 **(b)** **To note update on the Taking-In-Charge of An Curran, Pallaskenry**
 
-The Cathaoirleach deferred Item 4 (b) until the September Meeting.---
+The Cathaoirleach deferred Item 4 (b) until the September Meeting.
+---
 **5.**
 
 **Operations and Maintenance Services**
@@ -257,7 +260,8 @@ being prepared to An Bord Pleanála.
 
 **Correspondence**
 
-The Cathaoirleach deferred this item until the September Meeting.---
+The Cathaoirleach deferred this item until the September Meeting.
+---
 At the conclusion of the Agenda the following were raised by Members.
 
  Councillor Teskey requested to write to Irish Water to raise the serious issue of
@@ -314,4 +318,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

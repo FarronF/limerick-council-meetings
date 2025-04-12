@@ -64,7 +64,8 @@ one of the most professional and courteous public servants that anybody could me
 
 The Chief Executive added that Eugene would be an enormous loss to the
 
-organisation and would be sorely missed.---
+organisation and would be sorely missed.
+---
 2
 
 Mr. Griffin thanked the Members for the presentation. He stated that he had worked
@@ -143,7 +144,8 @@ amendments should read as follows:
 
 **“That the proposer of a Motion placed on the Clár be allowed to move**
 
-**said Motion and that the Motion be allowed to be seconded.”**---
+**said Motion and that the Motion be allowed to be seconded.”**
+---
 3
 
 The Meetings Administrator stated that this part was in order and that
@@ -220,7 +222,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Byrne;
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, the approval of the Council be and is hereby given to the disposal of 55
@@ -301,7 +304,8 @@ A number of Members stated that this disposal had been considered at a
 
 Meeting of the Metropolitan District and therefore should not require discussion at a
 
-Meeting of the Full Council.---
+Meeting of the Full Council.
+---
 5
 
 At this point in the Meeting, it was agreed on the proposal of Councillor
@@ -378,7 +382,8 @@ Circulated, Chief Executive’s Reports for the months of March and April.
 
 The Chief Executive’s Reports for the months of March and April were noted
 
-by the Members.---
+by the Members.
+---
 6
 
 (b)
@@ -455,7 +460,8 @@ Committee) Regulations, 2014, provided that the Audit Committee should operate i
 
 accordance with a written Charter adopted by the Local Authority, with or without
 
-amendment. The adoption of the Charter was now required.---
+amendment. The adoption of the Charter was now required.
+---
 7
 
 Proposed by Councillor Leddin;
@@ -532,7 +538,8 @@ the area of lace production which would have a long-term economic benefit for
 
 Limerick. In reply to the query on cost, he stated that the visit by the Mayor and 1
 
-official would cost approximately €1,355.00.---
+official would cost approximately €1,355.00.
+---
 8
 
 Following further discussion on the visit, it was agreed that a vote would be
@@ -609,7 +616,8 @@ before the Full Council in early 2016 for adoption.
 
 Further information in relation to the Rural Development Programme and
 
-Leader Funding was provided by the Chief Officer, LCDC.---
+Leader Funding was provided by the Chief Officer, LCDC.
+---
 9
 
 5.
@@ -686,7 +694,8 @@ The Director added that work was ongoing in relation to the preparation of a
 
 traffic management plan for Abbeyfeale.
 
-The Mayor stated that Items 5 (b) and (c) would be taken together:---
+The Mayor stated that Items 5 (b) and (c) would be taken together:
+---
 10
 
 (b)
@@ -767,7 +776,8 @@ received and these were outlined in the Chief Executive’s Reports.
 
 It was recommended that the variations be made as they were important
 
-documents for guiding the future development and management of the Estuary.---
+documents for guiding the future development and management of the Estuary.
+---
 11
 
 During discussion on this item, Councillor Gilligan read a letter received from
@@ -844,7 +854,8 @@ presentation under the following headings:
 
 • Economic Impact to the City.
 
-• Social Aspects.---
+• Social Aspects.
+---
 12
 
 • Marketing.
@@ -919,7 +930,8 @@ website. She added that Limerick had many wonderful visitor attractions but agai
 
 not one was mentioned on the website. She asked for a letter to be sent to the
 
-Minister and Fáilte Ireland asking them to include Limerick on the site and the map.---
+Minister and Fáilte Ireland asking them to include Limerick on the site and the map.
+---
 13
 
 The Motion was seconded by Councillor Sheahan (J) and unanimously
@@ -986,7 +998,8 @@ And Resolved:
 
 hereby adopted, in accordance with Section 66 of the Local Government Act, 2001
 
-(as amended).”---
+(as amended).”
+---
 14
 
 **8**.
@@ -1097,7 +1110,8 @@ amended budget.
 
 The Director was seeking the approval of the Council to draw down the
 
-additional funding of €739,188 from the Housing Finance Agency. All repayments---
+additional funding of €739,188 from the Housing Finance Agency. All repayments
+---
 15
 
 made by the Council in respect of the loan from the Housing Finance Agency would
@@ -1170,7 +1184,8 @@ estates. Limerick City and County Council proposed to introduce this limit as a 
 
 project in a limited number of housing estates prior to a more widespread rollout of
 
-30 km/h speed limits in 2016.---
+30 km/h speed limits in 2016.
+---
 16
 
 He added that the Council proposed that a 30 km/h speed limit would be
@@ -1245,7 +1260,8 @@ Circulated, reports by Members who had participated at Conference/ Seminar/
 
 Meeting/Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 17
 
 Change of Date for July Meeting of Council
@@ -1328,7 +1344,8 @@ Question submitted by Councillor J. Scanlan
 
 ***to HAP; (c) if not, how many have moved; and (d) what is the current wait time***
 
-***between validation of applications and assessment.***---
+***between validation of applications and assessment.***
+---
 18
 
 REPLY:
@@ -1407,7 +1424,8 @@ Councillor Prendiville said that while he welcomed and supported the Motion,
 
 he was proposing the following amendment and this was seconded by Councillor
 
-Loftus:---
+Loftus:
+---
 19
 
 **”I will move at the next Meeting that Limerick City and County Council**
@@ -1486,7 +1504,8 @@ referred to 1916/2016 Commemoration Committee)
 
 ***place of Con Colbert which reflects the significant role he played in the 1916***
 
-***Rising.***---
+***Rising.***
+---
 20
 
 It was agreed to refer this Motion to the 1916/2016 Commemoration
@@ -1569,7 +1588,8 @@ The names of the Senior Employees of the Local Authority
 
 present at the Meeting.
 
-(d) Reference to any report submitted to the Members at the Meeting.---
+(d) Reference to any report submitted to the Members at the Meeting.
+---
 21
 
 (e) Where there is a roll-call vote, the number and names of
@@ -1642,7 +1662,8 @@ A number of Members objected to the Motion.
 
 In the absence of agreement on the Motion, the Deputy Mayor instructed that
 
-a Vote be taken in relation to Councillor Prendiville’s Motion.---
+a Vote be taken in relation to Councillor Prendiville’s Motion.
+---
 22
 
 The result of the voting was as follows:
@@ -1693,7 +1714,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting
 
-was available for inspection by the Members.---
+was available for inspection by the Members.
+---
 23
 
 PLANNING AND DEVELOPMENT:
@@ -1710,4 +1732,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

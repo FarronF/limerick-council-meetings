@@ -74,7 +74,8 @@ Ascal Clochain, Garryowen, in the City of Limerick.
 
 Disposal of Freehold Interest of premises consisting of a dwelling house situate at
 
-Ballyguy, Murroe, Co. Limerick.---
+Ballyguy, Murroe, Co. Limerick.
+---
 2
 
 (b)
@@ -165,7 +166,8 @@ properties. At that time the Council was trying to determine what plans Dunnes
 
 Stores had for the said properties. One of the properties has since been put on
 
-the rental/lease market but currently remains unoccupied. No indication---
+the rental/lease market but currently remains unoccupied. No indication
+---
 3
 
 regarding the plans for the second building at Sarsfield Bridge have been
@@ -256,7 +258,8 @@ Headquarters.
 
 There are currently 143 outdoor staff employed in the Metropolitan District in
 
-road maintenance and 20 outdoor staff employed in parks maintenance in the---
+road maintenance and 20 outdoor staff employed in parks maintenance in the
+---
 4
 
 Metropolitan area in Limerick City and County Council. Unfortunately it is not
@@ -345,7 +348,8 @@ In accordance with the formal taking in charge process the Council has advertise
 
 its intention to declare the road at Steamboat Quay to be a public road. The
 
-public have until the 14th October, 2016 to make a submission on the proposed---
+public have until the 14th October, 2016 to make a submission on the proposed
+---
 5
 
 taking in charge. Once the public display period has expired a report will be
@@ -422,7 +426,8 @@ agenda.
 
 It was agreed to refer this motion to the Community, Leisure and Emergency Services Strategic
 
-Policy Committee.---
+Policy Committee.
+---
 6
 
 **14.**
@@ -501,7 +506,8 @@ Strategic Policy Committee.
 
 It was agreed to refer this motion to the Community, Leisure and Emergency Services Strategic
 
-Policy Committee.---
+Policy Committee.
+---
 7
 
 **17.**
@@ -584,7 +590,8 @@ Committee.
 
 ***Limerick, the traffic management study currently underway for the Dock Road area be***
 
-***expanded to include the entire area of Raheen, Dooradoyle and Mungret.***---
+***expanded to include the entire area of Raheen, Dooradoyle and Mungret.***
+---
 8
 
 It was agreed to refer this motion to the Travel and Transportation Strategic Policy Committee.
@@ -609,4 +616,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

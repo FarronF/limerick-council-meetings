@@ -72,7 +72,8 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), i
 
 that the September Meeting of the Council would take place on Monday, 19th September,
 
-2016, at the appointed time of 3pm.---
+2016, at the appointed time of 3pm.
+---
 2
 
 European Capital of Culture
@@ -153,7 +154,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That, the approval of the Council be and is hereby given to the disposal of the
@@ -230,7 +232,8 @@ of €100.42, the disposal to be by way of Deed of Conveyance of the interest of
 
 Limerick City and County Council in the property, particulars of which were
 
-contained in Statutory Notice dated 30th June, 2016.”---
+contained in Statutory Notice dated 30th June, 2016.”
+---
 4
 
 (e)
@@ -299,7 +302,8 @@ former Courthouse, Blackabbey, Adare, Co. Limerick (0.017 hectares) to The Chawk
 
 Pub Group, for the sum of €350,000, subject to planning permission being granted,
 
-particulars of which were contained in Statutory Notice dated 4th July, 2016.”---
+particulars of which were contained in Statutory Notice dated 4th July, 2016.”
+---
 5
 
 (h)
@@ -378,7 +382,8 @@ each disposal subject to planning permission being granted and, further, subject
 
 each purchaser contributing a further €10,000 towards the cost of a service road,
 
-particulars of which were contained in Statutory Notice dated 4th July, 2016.”---
+particulars of which were contained in Statutory Notice dated 4th July, 2016.”
+---
 6
 
 3.
@@ -451,7 +456,8 @@ nominate a replacement Member.
 
 Proposed by Councillor Sheahan (J);
 
-Seconded by Councillor Collins (M);---
+Seconded by Councillor Collins (M);
+---
 7
 
 “That, Councillor Frankie Daly be appointed to fill the vacancy on the Joint Policing
@@ -528,7 +534,8 @@ Union Pillars had already been received and approved by the Council. A number of
 
 nominations to Strategic Policy Committees had already been received from the Public
 
-Participation Network and approved by Council at the March 2016 Meeting.---
+Participation Network and approved by Council at the March 2016 Meeting.
+---
 8
 
 Correspondence had now been received from the Secretariat of the Public
@@ -657,7 +664,8 @@ Proposed by Councillor Galvin;
 
 Seconded by Councillor Foley;
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, the Annual Report for 2015 for Limerick City and County Council be and is
@@ -720,7 +728,8 @@ And Resolved:
 
 “That, the approval of the Council be and is hereby given for visit to Bordeaux,
 
-France, under Section 142(5) of the Local Government Act, 2001, as amended.”---
+France, under Section 142(5) of the Local Government Act, 2001, as amended.”
+---
 10
 
 (j)
@@ -789,7 +798,8 @@ And Resolved:
 
 Rhodes, Greece, in September 2016, in accordance with Section 142(5) of the Local
 
-Government Act, 2001, as amended.”---
+Government Act, 2001, as amended.”
+---
 11
 
 (l)
@@ -862,7 +872,8 @@ And Resolved:
 
 Hohenlohe, Germany, by a delegation from Limerick City and County Council, in accordance
 
-with Section 142(5) of the Local Government Act, 2001, as amended.”---
+with Section 142(5) of the Local Government Act, 2001, as amended.”
+---
 12
 
 (n)
@@ -945,7 +956,8 @@ July. To facilitate the efficient operation of the Council,
 
 Strategic Policy Committee (SPC) meetings will be held during
 
-the intervening months of October, December, February, April---
+the intervening months of October, December, February, April
+---
 13
 
 and June. A schedule of meetings to be drawn up on an
@@ -1028,7 +1040,8 @@ enhance the visitor experience of Limerick and identified the River Shannon as i
 
 to the development of a Limerick brand.
 
-• Examples of similar projects at Derry, Gateshead Manchester, Amsterdam and Perth.---
+• Examples of similar projects at Derry, Gateshead Manchester, Amsterdam and Perth.
+---
 14
 
 • Feasibility analysis, which included consultation on constraints, leading to the selection
@@ -1095,7 +1108,8 @@ The report stated that the Local Community Development Committee (LCDC) was
 
 established by resolution of the Council in accordance with the provisions set out in Section
 
-49a of the Local Government Act, 2001, as amended.---
+49a of the Local Government Act, 2001, as amended.
+---
 15
 
 The Public Participation Network had nomination rights for 5 seats on the LCDC. 4
@@ -1214,7 +1228,8 @@ Circulated, report of the Deputy Chief Executive dated 18th July, 2016, together
 
 Draft Limerick Local Economic and Community Plan (LECP) 2016-2021, dated 30th June,
 
-2016.---
+2016.
+---
 16
 
 The report stated that the purpose of the Local Economic and Community Plan was
@@ -1289,7 +1304,8 @@ which promoted cultural and local heritage and generated civic pride. The total 
 
 the scheme in 2016 was €100,000 and it was recommended that €80,000 be allocated at
 
-Municipal District level. It was further recommended that €20,000 be reserved for projects---
+Municipal District level. It was further recommended that €20,000 be reserved for projects
+---
 17
 
 that had a regional culture remit. The Members of each Municipal District had been asked
@@ -1362,7 +1378,8 @@ Edgeworthstown, Co. Longford: Councillor Scanlan.
 
 Glenties, Co. Donegal: Councillor Hurley.
 
-Clonakilty, Co. Cork (22nd/24th July, 2016): Councillor Teefy.---
+Clonakilty, Co. Cork (22nd/24th July, 2016): Councillor Teefy.
+---
 18
 
 (ii)
@@ -1431,7 +1448,8 @@ retirement/severance packages and superannuation payments for the said years;
 
 staff pensions and associated payments expressed as a percentage against the
 
-overall running costs of the Authority for the said years.---
+overall running costs of the Authority for the said years.
+---
 19
 
 Year
@@ -1598,7 +1616,8 @@ The following is a breakdown per County of Fire Service Call-Outs by Limerick
 
 City and County Council assisting in other Local Authority areas and the
 
-invoiced amounts to these Councils:---
+invoiced amounts to these Councils:
+---
 20
 
 County
@@ -1687,7 +1706,8 @@ approaching 5.30pm and on the proposal of Councillor Galvin, seconded by Council
 
 Sheahan (J), it was agreed to suspend Standing Orders for 30 minutes to facilitate
 
-completion of the Agenda.---
+completion of the Agenda.
+---
 21
 
 11.
@@ -1758,7 +1778,8 @@ In response to issues raised by Members, the Chief Executive clarified the follo
 
 The Fire Service was the only service that had not received reductions in funding or
 
-staff over the course of recent difficult budgets.---
+staff over the course of recent difficult budgets.
+---
 22
 
 •
@@ -1827,7 +1848,8 @@ Suspension of Standing Orders: On the proposal of Councillor Sheahan (J), second
 
 Councillor Ryan, it was agreed to suspend Standing Orders for a further 10 minutes to
 
-facilitate completion of the Agenda.---
+facilitate completion of the Agenda.
+---
 23
 
 15.
@@ -1896,7 +1918,8 @@ view was also expressed that even if such a poll were successful in the six coun
 
 minority would not accept the result and civil unrest would follow.
 
-Following discussion, it was agreed that the Motion was carried.---
+Following discussion, it was agreed that the Motion was carried.
+---
 24
 
 18.
@@ -1967,7 +1990,8 @@ including Limerick FC, in any way it can.
 
 Correspondence
 
-The Correspondence circulated with the Agenda was taken as read.---
+The Correspondence circulated with the Agenda was taken as read.
+---
 25
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -1990,4 +2014,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

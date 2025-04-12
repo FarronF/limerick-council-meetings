@@ -58,7 +58,8 @@ Areas to include – Protected Crops,
 
 Fruit Production – Top Fruits (apples)
 
-Soft Fruits and the Seed Potato Sector.---
+Soft Fruits and the Seed Potato Sector.
+---
 2
 
 The Members referred to the ongoing crisis in the Ukraine, condemned the invasion of
@@ -135,4 +136,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

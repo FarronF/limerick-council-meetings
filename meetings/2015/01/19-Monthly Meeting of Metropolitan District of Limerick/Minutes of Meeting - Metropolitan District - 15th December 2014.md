@@ -80,7 +80,8 @@ Community, Leisure and Emergency Services
 
 Update on the Arts, Culture and Sports Areas
 
-Mr. Damien Brady, Acting Director, Community, Leisure and Emergency Services---
+Mr. Damien Brady, Acting Director, Community, Leisure and Emergency Services
+---
 presented an update on the Arts, Culture and Sports areas which included the following :
 
 • An overview of the library service including infrastructure, vision and service
@@ -165,7 +166,8 @@ issued and the Council was committed to the continuing success of the course.
 
 establishing the appropriate structures were ongoing but no formal proposals were
 
-in place yet.---
+in place yet.
+---
 The following further points were clarified by the Acting Director, Community, Leisure and
 
 Emergency Services :
@@ -242,7 +244,8 @@ Road junction.
 
 • In relation to concerns for pedestrian safety at the rail overbridge, discussion had
 
-taken place with Irish Rail with regard to a pedestrian tunnel at this location but the---
+taken place with Irish Rail with regard to a pedestrian tunnel at this location but the
+---
 provision of same would be outside the scope of the Smarter Travel works due to
 
 funding limitations. The proposed works would however promote the rail overbridge
@@ -325,7 +328,8 @@ Question submitted by Councillor Joe Leddin
 
 ***collecting domestic rubbish so as to prevent traffic congestion especially on main***
 
-***access roads to the city.***---
+***access roads to the city.***
+---
 **REPLY**:
 
 Draft bye-laws, the "Limerick City and County Council, Storage, Presentation
@@ -408,7 +412,8 @@ In relation to painting the Black Bollards and Chain adjacent to the steps on
 
 Howley's Quay to make it more visible at night Limerick City and County
 
-Council will examine this issue and carry out paint work in quarter 1 in 2015.---
+Council will examine this issue and carry out paint work in quarter 1 in 2015.
+---
 7.
 
 Notice of Motion submitted by Councillor Joe Leddin
@@ -533,7 +538,8 @@ DS131
 
 Woodlawn Park, Ballysimon Road
 
-DS232---
+DS232
+---
 11
 
 Cogan Street
@@ -688,7 +694,8 @@ noted that the new Planning Bill includes a “use it or lose it” clause.
 
 It was agreed that derelict sites would be discussed in more detail at a forthcoming
 
-meeting.---
+meeting.
+---
 8.
 
 Notice of Motion submitted by Councillor Cian Prendiville
@@ -777,7 +784,8 @@ conjunction with the City and County Council and a further approximately
 
 €1.2 million per year from a number of Departments in the HSE.
 
-Limerick City and County Council as Lead Local Authority for Homelessness---
+Limerick City and County Council as Lead Local Authority for Homelessness
+---
 in the Mid West Region are currently in the process of reviewing the delivery
 
 of all homeless services to assess, plan and align the delivery of services to
@@ -858,7 +866,8 @@ The National Homelessness Implementation Strategy and the Regional Mid-
 
 West Homelessness Strategy is focused on the delivery of Housing Led
 
-solutions to dealing with Homelessness. This system has been proven to---
+solutions to dealing with Homelessness. This system has been proven to
+---
 deliver a greater level of success to individuals at a fraction of the cost of
 
 delivering emergency accommodation in hostel type accommodation. The
@@ -939,7 +948,8 @@ involved in the assessment of pupils and noted that the teachers unions had aske
 
 external moderators to be appointed and an independent chair. He noted that teachers did
 
-not take strike action lightly and that a further strike was planned for 22nd January, 2015.---
+not take strike action lightly and that a further strike was planned for 22nd January, 2015.
+---
 In seconding the motion, Cmhlr. Ó Ceallaigh indicated that he wished to extend his full
 
 support to both teachers and pupils in this dispute as he anticipated that the percentage of
@@ -970,4 +980,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-02-17 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-59)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-59" target="_blank">Link to meeting</a>**

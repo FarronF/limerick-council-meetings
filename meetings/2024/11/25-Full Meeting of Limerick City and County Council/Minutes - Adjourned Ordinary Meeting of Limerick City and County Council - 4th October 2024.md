@@ -66,7 +66,8 @@ following:
 
  University and Castletroy Areas of Focus
 
- Raheen-Dooradoyle Areas of Focus---
+ Raheen-Dooradoyle Areas of Focus
+---
 2
 
  Historic City Centre
@@ -149,7 +150,8 @@ works at the following locations:
 
 6. An upgrade of the drinking water treatment facility in Dromcollogher
 
-7. An upgrade of the drinking water treatment facility in Athea---
+7. An upgrade of the drinking water treatment facility in Athea
+---
 3
 
  **More Affordable Homes for Purchase**
@@ -216,7 +218,8 @@ in our key towns.
 
 villages.
 
- The upgrade and development of public parks and recreational facilities.---
+ The upgrade and development of public parks and recreational facilities.
+---
 4
 
 He thanked the Mayor for engaging with the Members on the development of the Mayoral
@@ -289,7 +292,8 @@ be made more accessible for tourism.
 
 *hub, as enterprise centres and a periodic Limerick Business and Consumer Sentiment*
 
-*Survey.**”*---
+*Survey.**”*
+---
 5
 
  **ML113** **–**Include*“**as well as Cappamore playground, including all weather basketball*
@@ -370,7 +374,8 @@ funding required to increase the provision of housing in the city and county. It
 
 view of some Members that the Land Development Agency should be invited to address the
 
-Members.---
+Members.
+---
 6
 
 Members also proposed that the Mayor should engage with outside bodies, such as Waterways
@@ -435,4 +440,5 @@ further develop Limerick in the future.
 
 **Date:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

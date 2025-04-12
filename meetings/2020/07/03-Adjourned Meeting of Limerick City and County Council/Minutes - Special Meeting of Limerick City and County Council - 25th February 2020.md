@@ -62,7 +62,8 @@ Government Act, 2001, as amended, a copy of which had been circulated to Members
 
 also confirmed that all the required documentation in relation to the co-option had been
 
-received and was in order.---
+received and was in order.
+---
 2
 
 Proposed by Councillor Hartigan;
@@ -123,7 +124,8 @@ thanked Councillor Hartigan for proposing her co-option and Councillor Kiely for
 
 the nomination. Councillor Novak thanked her family for their support and looked forward
 
-to working with the Elected Members.---
+to working with the Elected Members.
+---
 3
 
 Councillor O’Donoghue then addressed the Meeting and thanked the Mayor for the
@@ -188,7 +190,8 @@ Filling of Vacancies on Other Bodies
 
 Circulated, report of the Meetings Administrator dated 18th February, 2020, in relation
 
-to the filling of vacancies on other Bodies.---
+to the filling of vacancies on other Bodies.
+---
 4
 
 The Meetings Administrator stated that vacancies were required to be filled on a
@@ -263,4 +266,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

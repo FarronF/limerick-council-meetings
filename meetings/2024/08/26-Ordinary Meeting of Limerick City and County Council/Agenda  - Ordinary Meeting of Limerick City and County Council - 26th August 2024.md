@@ -28,4 +28,5 @@ Pursuant to Section 31(3) of the Local Government (Mayor of Limerick) and
 
 Miscellaneous Provisions Act, 2024, the Mayor is to present a draft of the Mayoral
 
-Programme for consideration by the Elected Council.---
+Programme for consideration by the Elected Council.
+---

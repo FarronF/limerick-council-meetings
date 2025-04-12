@@ -58,7 +58,8 @@ firearms issues had been successfully detected.
 
 Members thanked Superintendent Duane for his presentation and made the following points
 
-in relation to this item.---
+in relation to this item.
+---
 2
 
 • Limerick was under-resourced in terms of Garda numbers, compared to national
@@ -125,7 +126,8 @@ Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappamore-
 
-Kilmallock held on 16th February, 2017.---
+Kilmallock held on 16th February, 2017.
+---
 3
 
 Proposed by Councillor Mitchell;
@@ -200,7 +202,8 @@ proposed allocations under the Community Initiative Scheme 2017 to a total of �
 
 report noted that the available budget for the scheme was €10,000 and the remaining balance
 
-of €1,900 would have to be sourced elsewhere.---
+of €1,900 would have to be sourced elsewhere.
+---
 4
 
 Members noted that the Bloomsday Weekend Group was seeking financial assistance
@@ -271,7 +274,8 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 
 The Motion was proposed by Councillor Mitchell, in the absence of Councillor Sheehy,
 
-and seconded by Councillor O’Donnell.---
+and seconded by Councillor O’Donnell.
+---
 5
 
 **REPLY:**
@@ -364,7 +368,8 @@ permanent
 
 reinstatement works should take place. The R514 is included in the planned road
 
-condition survey.---
+condition survey.
+---
 6
 
 **13.**
@@ -441,7 +446,8 @@ forward was considered the safest. It was noted that if Part VIII approval was g
 
 Transport Infrastructure Ireland funding allocated, the project would move the Compulsory
 
-Purchase Order phase, which was preferred by some landowners and helped to clear title.---
+Purchase Order phase, which was preferred by some landowners and helped to clear title.
+---
 7
 
 **(b)**
@@ -518,7 +524,8 @@ that was required by the Department of Transport before funding for detailed des
 
 released. In relation to tolling, it was noted that shadow tolls were being looked at nationally
 
-and it could not be predicted where tolling would stand in ten years’ time.---
+and it could not be predicted where tolling would stand in ten years’ time.
+---
 8
 
 The Director stressed the importance of getting feedback from the Members and the
@@ -591,4 +598,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

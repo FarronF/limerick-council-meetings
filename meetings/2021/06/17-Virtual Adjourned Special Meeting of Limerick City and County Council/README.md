@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-06-17 09:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-special-meeting-limerick-city-and-county-council-0)**
+**<a href="https://www.limerick.ie/council/whats-on/adjourned-special-meeting-limerick-city-and-county-council-0" target="_blank">Link to meeting</a>**

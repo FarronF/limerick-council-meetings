@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-03-02 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-municipal-district-newcastle-west-5)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-municipal-district-newcastle-west-5" target="_blank">Link to meeting</a>**

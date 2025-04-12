@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-04-03 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-and-planning-spc)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-and-planning-spc" target="_blank">Link to meeting</a>**

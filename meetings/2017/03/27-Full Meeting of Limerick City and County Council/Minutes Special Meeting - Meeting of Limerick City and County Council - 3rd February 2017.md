@@ -58,7 +58,8 @@ involvement in the campaign to retain Barrington’s Hospital and also stated
 
 that he had been instrumental in establishing the Civic Week Festival which
 
-was held for the first time in March 1972. The Mayor concluded by saying that---
+was held for the first time in March 1972. The Mayor concluded by saying that
+---
 2
 
 Gus O’Driscoll had been a great servant of Limerick and his passion, empathy
@@ -111,4 +112,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

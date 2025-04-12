@@ -74,7 +74,8 @@ which would give him a great insight into the workings of local democracy.
 
 Adoption of Minutes
 
-Circulated, copy of draft Minutes of the following Meetings:---
+Circulated, copy of draft Minutes of the following Meetings:
+---
 2
 
 (a)
@@ -149,7 +150,8 @@ Yvonne O’Connell, who hold a Leasehold Interest in the property by way of 99 y
 
 from 1st March, 1928, for the sum of €212.78 (including legal fees), particulars of which
 
-were contained in Statutory Notice dated 6th January, 2016.”---
+were contained in Statutory Notice dated 6th January, 2016.”
+---
 3
 
 (b)
@@ -228,7 +230,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Dea;
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, the approval of the Council be and is hereby given to the disposal of the land
@@ -305,7 +308,8 @@ Innovate Limerick; (iii) Audit Committee; and (iv) Stakeholder Group of Limerick
 
 On the proposal of Councillor Collins (M), seconded by Councillor O’Hanlon, this item
 
-was deferred to the next Meeting.---
+was deferred to the next Meeting.
+---
 5
 
 (c)
@@ -400,7 +404,8 @@ the Local Action Group, with Limerick City and County Council acting as the Fina
 
 Partner. Ballyhoura Development Limited and West Limerick Resources Limited would be
 
-acting as Implementing Partners for their respective geographic areas.---
+acting as Implementing Partners for their respective geographic areas.
+---
 6
 
 A budget of €9.276 million had been allocated to the RDP for Limerick for the period
@@ -477,7 +482,8 @@ Executive, the Head of Finance and the Local Government Auditor and had reviewed
 
 Statutory Audit Reports for the year ended 31st December, 2014.
 
-The position was noted by the Council.---
+The position was noted by the Council.
+---
 7
 
 (h)
@@ -552,7 +558,8 @@ Proposed by Councillor Gleeson;
 
 Seconded by Councillor Teefy;
 
-And Resolved:---
+And Resolved:
+---
 8
 
 “That, the approval of the Council be and is hereby given to the provision of financial
@@ -623,7 +630,8 @@ Motion 3 – Proposed by Councillor Butler and seconded by Councillor Sheahan (M
 
 cities committee to develop a protocol on twinning in all Municipal and Metropolitan
 
-Districts to achieve a co-ordinated approach.”---
+Districts to achieve a co-ordinated approach.”
+---
 9
 
 In relation to Motion 1, the Meetings Administrator referred to Standing Order Rule
@@ -690,7 +698,8 @@ Limerick Leader), would be encouraging volunteers of all ages to register and ge
 
 the 2016 campaign.
 
-The Initiative was noted and welcomed by Members.---
+The Initiative was noted and welcomed by Members.
+---
 10
 
 6.
@@ -763,7 +772,8 @@ parking. He stated that Limerick e-parking was operated by ParkMagic Mobile Solu
 
 Limited on behalf of Limerick City and County Council. He explained that e-parking was a
 
-one-stop shop window displaying the parking offering available in Limerick City and County.---
+one-stop shop window displaying the parking offering available in Limerick City and County.
+---
 11
 
 He stated that e-parking enabled users to quickly and conveniently locate, purchase
@@ -834,7 +844,8 @@ Compassionate Communities Project
 
 The Mayor welcomed Dr. Kathleen McLoughlin, from Milford Care Centre and
 
-Maynooth University, to the Meeting.---
+Maynooth University, to the Meeting.
+---
 12
 
 Dr. McLoughlin commenced by outlining how Limerick could become the first city in
@@ -915,7 +926,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Byrne;
 
-And Resolved:---
+And Resolved:
+---
 13
 
 “That, the Council would support the proposal for Limerick to develop a
@@ -992,7 +1004,8 @@ Carlingford, Co. Louth (20th – 22nd November, 2015): Councillors Sheahan (K), 
 
 Limerick: Councillor Sheahan (M).
 
-Edgeworthstown, Co. Longford: Councillor Scanlan.---
+Edgeworthstown, Co. Longford: Councillor Scanlan.
+---
 14
 
 Carlingford (8th – 10th January): Councillors Butler, Sheahan (M), Leddin.
@@ -1059,7 +1072,8 @@ time as legal advice had been sought.
 
 At this point, on the proposal of Cmhlr. Ó Ceallaigh, seconded by Councillor Browne,
 
-it was agreed to take a 15 minute adjournment in order to discuss the matter further and to---
+it was agreed to take a 15 minute adjournment in order to discuss the matter further and to
+---
 15
 
 seek legal clarification on the proposed Motion. On resumption, the Meetings
@@ -1140,7 +1154,8 @@ comply with its bye-laws. There is provision in the bye-laws whereby
 
 monumental sculptors can be removed from the Council’s Register of
 
-Monumental Sculptors.---
+Monumental Sculptors.
+---
 16
 
 In this regard, the Council has met with three monumental sculptors
@@ -1261,7 +1276,8 @@ I will ask at the next Meeting were there any personal injury claims made agains
 
 Council in the last five years due to the poor state of the Council footpaths and, if so, what
 
-was the total cost to the Council.---
+was the total cost to the Council.
+---
 17
 
 REPLY:
@@ -1342,7 +1358,8 @@ the Agenda.
 
 The Motion was proposed by Councillor Sheahan (J) and seconded by Councillor
 
-Collins (M).---
+Collins (M).
+---
 18
 
 REPLY:
@@ -1415,7 +1432,8 @@ to the Environment Strategic Policy Committee)
 
 I will move at the next Meeting that this Council extends the Bin Waiver to those on
 
-invalidity pension.---
+invalidity pension.
+---
 19
 
 In proposing the Motion, Councillor Quinlivan stated that he felt that those on
@@ -1486,7 +1504,8 @@ valuable sector of the local economy.
 
 The Motion was seconded by Councillor Sheahan (J) and agreed.
 
-It was also agreed to circulate the Motion to all Local Authorities for support.---
+It was also agreed to circulate the Motion to all Local Authorities for support.
+---
 20
 
 23.
@@ -1563,7 +1582,8 @@ Council in relation to the proposed development of a tourist route on both sides
 
 Shannon Estuary similar to the Wild Atlantic Way. Following a short discussion on this item,
 
-the Members stated that they were in support of the proposal. The following was agreed:---
+the Members stated that they were in support of the proposal. The following was agreed:
+---
 21
 
 · That the Council would correspond with Clare County Council in relation to the matter.
@@ -1592,4 +1612,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -64,7 +64,8 @@ Muintir na Tire, would be available to attend the February Municipal District Me
 
 brief outline of the work of the Community Alert programme, to be followed up at another
 
-date by a more indepth workshop. This was agreed by the Elected Members.---
+date by a more indepth workshop. This was agreed by the Elected Members.
+---
 2
 
 3.Policing Issues in the District
@@ -225,7 +226,8 @@ Ballylanders
 
 197
 
-77---
+77
+---
 3
 
 Cappamore
@@ -330,7 +332,8 @@ Councillor Egan requested clarification on the increase in antisocial behaviour,
 
 Bruree and Ballylanders, and requested that the Drugs officer speak with 5th and 6th years in
 
-Secondary school regarding the dangers of substance use and misuse.---
+Secondary school regarding the dangers of substance use and misuse.
+---
 4
 
 Superintendent Reidy confirmed that Garda Mark O’Mahoney has visited all schools in the
@@ -363,4 +366,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

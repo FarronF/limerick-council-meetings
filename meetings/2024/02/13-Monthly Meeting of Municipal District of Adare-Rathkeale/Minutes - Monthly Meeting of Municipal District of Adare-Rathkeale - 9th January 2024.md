@@ -66,7 +66,8 @@ December, 2023 setting out proposals for the disposal of part of folio LK4965 me
 
 intention to bring the Section 183 Notice to Full Council for approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 2
 
 **4.**
@@ -135,7 +136,8 @@ condition.
 
  Councillor Keary also queried if farm entrances with potholes could be repaired
 
-with asphalt instead of tar and chip.---
+with asphalt instead of tar and chip.
+---
 3
 
 **5.**
@@ -204,7 +206,8 @@ Councillor Teskey expressed dissatisfaction at the response to his question.
 
 The motion was proposed by Councillor Teskey, seconded by Councillor Sheahan and
 
-agreed.---
+agreed.
+---
 4
 
 **8.**
@@ -277,7 +280,8 @@ Councillors Collins, O’Brien and O’Donoghue.
 
 **Against the proposal:**
 
-Councillors Keary, Sheahan and Teskey.---
+Councillors Keary, Sheahan and Teskey.
+---
 5
 
 The voting result was tied with 3 for and 3 against the proposal, as there was an equality
@@ -330,4 +334,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

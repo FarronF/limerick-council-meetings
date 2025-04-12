@@ -66,7 +66,8 @@ sent to TII beforehand.
 
 Circulated, Report of the Director, Physical Development Directorate dated 5th September,
 
-2016.---
+2016.
+---
 2
 
 The Senior Executive Officer stated that it was the intention of Limerick City and County Council
@@ -135,7 +136,8 @@ On the proposal of Councillor Teefy, seconded by Councillor Donegan, it was agre
 
 the Scheme, subject to the inclusion of the housing estates Ceol na hAbhann, Caherconlish and
 
-Ros Fearna / The Meadows, Murroe.---
+Ros Fearna / The Meadows, Murroe.
+---
 3
 
 **3.**
@@ -224,7 +226,8 @@ The following is the age profile of outdoor staff employed with the Council.
 
 75
 
-The number of outdoor staff that retired in the last 5 years is 129.---
+The number of outdoor staff that retired in the last 5 years is 129.
+---
 4
 
 **6.**
@@ -309,7 +312,8 @@ year end and that a further 5 General Operatives will be appointed permanently
 
 following completion of a competition which is currently underway within the
 
-Council.---
+Council.
+---
 5
 
 The following items were raised :
@@ -392,7 +396,8 @@ create a community facility to address rural isolation and promote social connec
 
 plans included a garden for meditation, spaces for women’s groups and youth groups to meet,
 
-a one bedroom apartment to rent and office space which would also be available to rent.---
+a one bedroom apartment to rent and office space which would also be available to rent.
+---
 6
 
 Members thanked Ms. Moore for her very interesting presentation and stated they would fully
@@ -429,4 +434,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -64,7 +64,8 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 **2.**
@@ -139,7 +140,8 @@ setting out proposals for the disposal of 2.72 acres (1.1 ha) of Land at Skagh,
 
 Croom, Co. Limerick and the intention to bring the Section 183 Notice to Full
 
-Council for approval.---
+Council for approval.
+---
 3
 
 Discussion ensued in relation to the lands being situated on a flood plain and whether a
@@ -214,7 +216,8 @@ Following discussion the following issues were raised by Members:
 
 Granagh to improve safety at this junction. The Senior Executive Engineer, Roads,
 
-Traffic and Cleansing advised the funding provided for this junction is for---
+Traffic and Cleansing advised the funding provided for this junction is for
+---
 4
 
 reconstruction works only and further advised the speed limit at this location is
@@ -281,7 +284,8 @@ allocate €2,000 to Ballingarry Soccer Club.
 
 With the current restraints on both financial and Human Resources there
 
-are currently no plans for a dedicated General Operative for Adare.---
+are currently no plans for a dedicated General Operative for Adare.
+---
 5
 
 **9.**
@@ -358,7 +362,8 @@ suggested a Joint Policing Committee meeting be convened following the
 
 September Municipal District Meeting to discuss policing plan for the Christmas
 
-period in the District and incorporate spree of crimes in Adare into the Agenda.---
+period in the District and incorporate spree of crimes in Adare into the Agenda.
+---
 6
 
  Councillor O’Donoghue raised the issue of fluoride usage in water treatment
@@ -405,4 +410,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

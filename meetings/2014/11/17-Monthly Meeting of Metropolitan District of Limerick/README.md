@@ -4,4 +4,4 @@
 
 **Date and Time:** 2014-11-17 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-12)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-12" target="_blank">Link to meeting</a>**

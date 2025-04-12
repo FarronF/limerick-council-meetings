@@ -110,7 +110,8 @@ Nil
 
 **General Municipal Allocation**
 
-**€503,000**---
+**€503,000**
+---
 2
 
 As all Members were not in favour of the proposal, a vote was taken which resulted as follows:
@@ -147,4 +148,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

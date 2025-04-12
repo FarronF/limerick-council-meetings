@@ -72,7 +72,8 @@ An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed all member
 
 SPC.
 
-The Cathaoirleach also communicated the protocol for the SPC meeting.---
+The Cathaoirleach also communicated the protocol for the SPC meeting.
+---
 2
 
 **Item 1: Confirm minutes from meeting held on12th** **April 2023.**
@@ -149,7 +150,8 @@ leavers or young people at risk of homelessness who are referred to DIAL House. 
 
 advised that both Novas and Focus work with the Education and Training Board (ETB) and run
 
-Training, life skills programme, courses and apprenticeships.---
+Training, life skills programme, courses and apprenticeships.
+---
 3
 
 **Item 4: Presentation on the Affordable Housing Launch**
@@ -228,7 +230,8 @@ affordable purchase units. Ms. Sarah Newell stated that Toppins Field is a pilot
 
 Build and that Mr. Mick Forde-Bradley gave a workshop on Modern Methods of Construction earlier
 
-this year.---
+this year.
+---
 4
 
 **Item 5: Updates**
@@ -245,4 +248,5 @@ For noting and circulation after the meeting.
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

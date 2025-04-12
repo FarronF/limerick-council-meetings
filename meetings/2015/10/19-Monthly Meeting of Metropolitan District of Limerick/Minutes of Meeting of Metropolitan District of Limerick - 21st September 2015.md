@@ -84,7 +84,8 @@ issues.
 
  Details of the NACD Drug Prevalence Survey 2010 / 11.
 
- Emerging issues.---
+ Emerging issues.
+---
 2
 
 Members thanked Mr. Prendergast for his presentation and the following points were
@@ -173,7 +174,8 @@ Circulated,
 
 Level Goals, Draft Report on Submissions and Observations received, dated August
 
-2015.---
+2015.
+---
 3
 
  Local Economic and Community Plan (LECP) for Limerick City and County,
@@ -250,7 +252,8 @@ creating attractive destinations and the benefits of same.
 
  Details of the consultation process undertaken, the launch and the ongoing
 
-evaluation that would take place.---
+evaluation that would take place.
+---
 4
 
 Members thanked Ms. Hayes for her presentation and the following items were raised by
@@ -333,7 +336,8 @@ Question submitted by Cmhlr. Séighin Ó Ceallaigh
 
 **REPLY:**
 
-Rathbane Golf Course is an 18 hole municipal golf course situated---
+Rathbane Golf Course is an 18 hole municipal golf course situated
+---
 5
 
 adjacent to Southill and Mount St. Oliver cemetery in Limerick. The course
@@ -432,7 +436,8 @@ Council.
 
 The EPA is the relevant authority for the issue of waste licences which
 
-would cover the storage of hazardous waste.---
+would cover the storage of hazardous waste.
+---
 6
 
 9.
@@ -515,7 +520,8 @@ parking would be made available as the Limerick Prison statutory parking
 
 provisions would remain. The estimated cost of the provision of this
 
-project is €5,000.---
+project is €5,000.
+---
 7
 
 10.
@@ -614,7 +620,8 @@ Notice of Motion submitted by Councillor Cian Prendiville
 
 ***Doras Luimni 'Fair Work Standards' campaign, as a step towards making Limerick***
 
-***City a great place for worker rights.***---
+***City a great place for worker rights.***
+---
 8
 
 The motion was proposed by Councillor Prendiville and seconded by Councillor Keller.
@@ -693,7 +700,8 @@ parking.
 
 Members expressed reservations in relation to the motion and made the following points
 
-during discussion of the motion;---
+during discussion of the motion;
+---
 9
 
  The motion should apply to only some spaces on certain streets.
@@ -790,7 +798,8 @@ parking operates.
 
 The Members should also be aware that income from parking is used to
 
-run the traffic light system, provide new road markings and signs, and---
+run the traffic light system, provide new road markings and signs, and
+---
 10
 
 provide school wardens as well as improvement and maintenance of city
@@ -873,7 +882,8 @@ Members supported the motion and made the following observations during discussi
 
 on the motion;
 
- The nite clubs in the area should be required to close at 2.00 p.m.---
+ The nite clubs in the area should be required to close at 2.00 p.m.
+---
 11
 
  The Council owned car park at this location should be secured at night.
@@ -960,7 +970,8 @@ fashion. He stressed the need to celebrate and cherish the river and suggested t
 
 use of extra lighting at night to ensure that the river flowed in light through the city could
 
-be used as a positive theme in this regard.---
+be used as a positive theme in this regard.
+---
 12
 
 Members supported the motion and the following points were made by Members during
@@ -1035,4 +1046,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -46,7 +46,8 @@ To consider the adoption of Standing Orders for Meetings of the Municipal Distri
 
 Cappamore-Kilmallock.
 
-(Draft Standing Orders enclosed)---
+(Draft Standing Orders enclosed)
+---
 2
 
 **3.**
@@ -119,4 +120,5 @@ City and County Council reinstate a staff member to the Board of Ballyhoura
 
 Development until the alignment process and the role of the Local Community
 
-Development Committee is agreed.---
+Development Committee is agreed.
+---

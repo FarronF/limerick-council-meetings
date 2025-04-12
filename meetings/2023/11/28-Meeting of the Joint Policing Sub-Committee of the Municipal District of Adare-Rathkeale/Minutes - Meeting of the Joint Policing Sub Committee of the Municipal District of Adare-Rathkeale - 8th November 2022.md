@@ -56,7 +56,8 @@ Pandemic.
 
 The A/Superintendent proceeded to give Members an update on crime rates in the
 
-District. He advised the biggest decrease from last year’s statistics were burglaries which---
+District. He advised the biggest decrease from last year’s statistics were burglaries which
+---
 dropped by 90% with only one incident reported in the District. He further advised the
 
 most significant increase was retail theft which had increased by 600% from one incident
@@ -125,7 +126,8 @@ inside to turn left before the Lantern Lodge Roundabout or pulling back into tra
 
 could lead to a collision. The A/Superintendent agreed to forward this request to the
 
-District Traffic Core Unit.---
+District Traffic Core Unit.
+---
 Councillor O’Donoghue stated there is a huge issue in some areas with members of the
 
 public entering private lands at night with dogs. The A/Superintendent encouraged land
@@ -186,4 +188,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

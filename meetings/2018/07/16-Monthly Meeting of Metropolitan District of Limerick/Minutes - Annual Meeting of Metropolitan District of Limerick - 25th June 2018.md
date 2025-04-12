@@ -72,7 +72,8 @@ Seconded by Councillor McCreesh.
 
 “That Councillor John Costelloe be appointed Mayor of the Metropolitan District of Limerick to
 
-hold office until the next Annual Meeting or until a successor has been appointed”.---
+hold office until the next Annual Meeting or until a successor has been appointed”.
+---
 2
 
 A vote was taken which resulted as follows:
@@ -157,7 +158,8 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 
 *the mistakes of the past. In a time of change there is always pain and that is assured in the years*
 
-*ahead but we must not take one step back because this will be our single biggest shot of a*---
+*ahead but we must not take one step back because this will be our single biggest shot of a*
+---
 3
 
 *generation. We hear of multiple jobs announcement both here and in the region that now exposed*
@@ -254,7 +256,8 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 
 *I want to ask you my colleagues to help me achieve these goals so this can be an achievement*
 
-*together for the sake of our electorate.*---
+*together for the sake of our electorate.*
+---
 4
 
 *Thank you to all those who honoured me with their vote but in particular I want to thank some*
@@ -351,7 +354,8 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 
 *my side in what has been a very tough 4 or 5 years. To all of you as a collective this is your*
 
-*achievement as much as mine and I share it with you all.*---
+*achievement as much as mine and I share it with you all.*
+---
 5
 
 *Thank you for listening and indulging me and apologies for the length but let me conclude briefly*
@@ -424,7 +428,8 @@ Councillor Hogan thanked the Members for electing her and stated that she looked
 
 working with the new Mayor and helping him in any way possible and also to assist in promoting
 
-the city over the coming year.---
+the city over the coming year.
+---
 6
 
 This concluded the Meeting.
@@ -433,4 +438,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

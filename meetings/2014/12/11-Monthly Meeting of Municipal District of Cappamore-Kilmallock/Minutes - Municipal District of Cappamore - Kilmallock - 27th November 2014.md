@@ -72,7 +72,8 @@ perception, crime was down generally. He outlined, however, that burglaries had
 
 risen as had the theft of oil, copper cylinders and equine supplies. He stated that
 
-manpower had decreased in recent years and that the trend was nationwide.---
+manpower had decreased in recent years and that the trend was nationwide.
+---
 2
 
 Members welcomed the Community Alert Programme. They felt that it was a very
@@ -149,7 +150,8 @@ copies of Location Map showing the junction with the proposed new layout, road
 
 markings and signage. The Senior Executive Engineer stated that the proposed
 
-changes had been referred to the Superintendent in Roxboro who had approved the---
+changes had been referred to the Superintendent in Roxboro who had approved the
+---
 3
 
 changes. The estimated cost of the proposed works was €10,000 and works were
@@ -224,7 +226,8 @@ Question submitted by Councillor G. Mitchell
 
 ***I will ask at the next Meeting for an update on the footpaths and road channels***
 
-***which are a health and safety hazard in the town of Hospital.***---
+***which are a health and safety hazard in the town of Hospital.***
+---
 4
 
 REPLY:
@@ -301,7 +304,8 @@ opening inlets and unblocking drainage systems throughout the areas
 
 effected by the flood. It is envisaged that this work will continue
 
-throughout the winter period.---
+throughout the winter period.
+---
 5
 
 11.
@@ -384,7 +388,8 @@ traffic calming measures, including ramps.
 
 It is proposed to undertake such a review in the coming months in
 
-conjunction with a general review of speed limits.---
+conjunction with a general review of speed limits.
+---
 6
 
 13.
@@ -453,7 +458,8 @@ In seconding the Motion, Councillor O’Donnell queried if the Council could mov
 
 design stage. The Senior Executive Engineer stated that he would liaise with the
 
-Senior Executive Engineer, Main Roads, on the matter.---
+Senior Executive Engineer, Main Roads, on the matter.
+---
 7
 
 REPLY:
@@ -516,4 +522,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

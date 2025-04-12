@@ -66,7 +66,8 @@ accommodate the needs of young people from Adare and it was noted that, in addit
 
 to the social housing proposed for the Council lands, there was potential for in excess of
 
-200 private residential units at that location.---
+200 private residential units at that location.
+---
 The Director, Regional Services pointed out that the issue being brought before the
 
 Members in relation to the approved overlay works and the implications of laying an
@@ -121,4 +122,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

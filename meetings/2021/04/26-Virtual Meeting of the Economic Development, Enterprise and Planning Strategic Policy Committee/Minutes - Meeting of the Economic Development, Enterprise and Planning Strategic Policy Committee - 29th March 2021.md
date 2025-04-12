@@ -72,7 +72,8 @@ He also outlined a range of initiatives being proposed/developed through Innovat
 
 **Abbeyfeale Hub** – Former Bank building acquired for E-Hub and works to recommence next
 
-month---
+month
+---
 **Rathkeale Enterprise Centre** –Part VIII planning application submitted for Industrial launderette
 
 **Kantoher Enterprise Centre** – Proposed new food production centre
@@ -157,7 +158,8 @@ membership of the committee would include the Mayor; 2 representatives of the Ec
 
 Development, Enterprise and Planning SPC and 2 representatives from the Business community;
 
-and a member of the Education/Training/Skills community. The committee will have a dual---
+and a member of the Education/Training/Skills community. The committee will have a dual
+---
 reporting relationship with the Board of Innovate Limerick and the Economic Development,
 
 Enterprise and Planning SPC.
@@ -170,4 +172,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

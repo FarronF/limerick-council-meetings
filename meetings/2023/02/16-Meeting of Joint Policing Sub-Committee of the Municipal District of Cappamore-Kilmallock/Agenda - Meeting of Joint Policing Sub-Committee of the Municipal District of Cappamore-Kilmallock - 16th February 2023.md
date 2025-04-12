@@ -38,4 +38,5 @@ cameras
 
 **3.Policing Issues**
 
-To discuss policing issues in the District.---
+To discuss policing issues in the District.
+---

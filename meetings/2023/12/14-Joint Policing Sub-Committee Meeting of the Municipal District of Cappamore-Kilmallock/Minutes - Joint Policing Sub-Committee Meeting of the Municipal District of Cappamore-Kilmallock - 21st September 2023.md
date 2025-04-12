@@ -96,7 +96,8 @@ Criminal damage
 
 47
 
-40---
+40
+---
 2
 
 Arson
@@ -195,7 +196,8 @@ that the perpetrators tended to cross county boundaries and were generally oppor
 
 Speed in Bruff, Bruree, Kilmallock and Elton was highlighted by the Elected Members. The
 
-speed limit review was welcomed, as were the Taoiseach’s comments regarding road safety.---
+speed limit review was welcomed, as were the Taoiseach’s comments regarding road safety.
+---
 3
 
 **Domestic Abuse**
@@ -284,7 +286,8 @@ This concluded the business of the meeting.
 
 *Municipal District is to be held on Thursday 14**th* *December at 2pm in Aras*
 
-*Mainchin Seoighe Area Office, Kilmallock.*---
+*Mainchin Seoighe Area Office, Kilmallock.*
+---
 4
 
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -293,4 +296,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

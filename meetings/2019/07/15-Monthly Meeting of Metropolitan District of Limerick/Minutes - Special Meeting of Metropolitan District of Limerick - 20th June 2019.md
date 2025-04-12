@@ -68,7 +68,8 @@ for all Council depots was established and implemented. Park Road Depot was incl
 
 part of this inspection programme as was the civic amenity centre which is in the car park of
 
-the depot. Following these inspections safety issues were highlighted.---
+the depot. Following these inspections safety issues were highlighted.
+---
 2
 
 Mr. Cooney referred to the pictures contained within the presentation and outlined the
@@ -151,7 +152,8 @@ took place and Mr. Lehane confirmed the following to the meeting:-
 
  The sequence of events leading to the closure of Park Road and that the decision to
 
-close the recycling facility was not part of the Budget.---
+close the recycling facility was not part of the Budget.
+---
 3
 
  The closure of the facility was based on health & safety obligations only and that
@@ -216,4 +218,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

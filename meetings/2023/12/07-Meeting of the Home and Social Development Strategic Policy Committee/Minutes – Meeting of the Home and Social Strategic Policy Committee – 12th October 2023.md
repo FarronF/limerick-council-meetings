@@ -78,7 +78,8 @@ Seamus Hayes, Administrative Officer, Housing, Ms. Aoife O’Brien Slater, Admin
 
 Housing, Ms. Miriam Donnelly, Administrative Officer, Housing, Ms. Jurate Andrijauskiene, Staff
 
-Officer, Housing---
+Officer, Housing
+---
 2
 
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
@@ -155,7 +156,8 @@ allowance and (e) whether there a duplication of services for example with publi
 
 Ms. Fennessy responded that the programme is a collaboration between the Department of Health
 
-and Department of Housing and Local Government. She informed the committee that the---
+and Department of Housing and Local Government. She informed the committee that the
+---
 3
 
 programme is funded by the Department of Health and operated by Age Friendly Ireland hosted in
@@ -230,7 +232,8 @@ applications not funded in 2023 will go into a planned programme of work for 202
 
 informed the committee that a workshop can be organised for the Councillors.
 
-**Item 6: AOB**---
+**Item 6: AOB**
+---
 4
 
 Ms. Dee Ryan, CEO, Limerick Chamber informed the committee that Limerick Chamber submitted a
@@ -275,4 +278,5 @@ Councillors.
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

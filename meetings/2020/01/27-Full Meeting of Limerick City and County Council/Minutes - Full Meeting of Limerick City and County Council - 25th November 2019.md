@@ -60,7 +60,8 @@ And Resolved:
 
 With the Mayor’s permission and prior to proceeding with the agenda, the Council extended
 
-its sympathy to the following:---
+its sympathy to the following:
+---
 2
 
  Councillor Eddie Ryan on the recent passing of his sister, Mary Hyland, Beechwood Grove,
@@ -143,7 +144,8 @@ Co. Limerick, to John Lynch, for the sum of €125.42, the disposal to be by way
 
 of the interest of Limerick City and County Council in the property, particulars of which were
 
-contained in Statutory Notice dated 17th September, 2019.”---
+contained in Statutory Notice dated 17th September, 2019.”
+---
 3
 
 (e)
@@ -222,7 +224,8 @@ to Nicholas Kelly and Sharon Rooney, for the sum of €125.42, the disposal to b
 
 Conveyance of the interest of Limerick City and County Council in the property, particulars of which
 
-were contained in Statutory Notice dated 22nd October, 2019.”---
+were contained in Statutory Notice dated 22nd October, 2019.”
+---
 4
 
 (h)
@@ -303,7 +306,8 @@ were contained in Statutory Notice dated 4th November, 2019.”
 
 Circulated, copy of Statutory Notice dated 4th November, 2019, concerning disposal of 81,
 
-Upper Carey’s Road, Limerick (Folio LK5269L).---
+Upper Carey’s Road, Limerick (Folio LK5269L).
+---
 5
 
 Proposed by Councillor Sheahan (J);
@@ -384,7 +388,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Ryan (E);
 
-And Resolved:---
+And Resolved:
+---
 6
 
 “That, the approval of the Council be and is hereby given to revised bank overdraft
@@ -459,7 +464,8 @@ Governance and Customer Services dated 19th November, 2019, as follows:
 
 **Travel and Transportation Strategic Policy Committee**
 
- Tim O’Brien, Carrigbeg, Doon, Co. Limerick.---
+ Tim O’Brien, Carrigbeg, Doon, Co. Limerick.
+---
 7
 
 ***Development / Construction***
@@ -536,7 +542,8 @@ we confront as a local authority and increased citizen expectations which will c
 
 lifetime of this Plan. He stated that Limerick City and County Council are well placed to meet the
 
-diverse challenges and plan to deliver the best possible to our citizens. As a council we have---
+diverse challenges and plan to deliver the best possible to our citizens. As a council we have
+---
 8
 
 continued to improve existing services and develop new projects across all service divisions.
@@ -609,7 +616,8 @@ And Resolved:
 
 “That, the Limerick City and County Council Audit Committee Work Programme 2019/2020,
 
-as circulated, be and is hereby adopted.”---
+as circulated, be and is hereby adopted.”
+---
 9
 
 (ii)
@@ -688,7 +696,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Ryan (E);
 
-And Resolved:---
+And Resolved:
+---
 10
 
 “That, the approval of the Council be and is hereby given to visit by a delegation from the
@@ -763,7 +772,8 @@ Planning Strategic Policy Committee dated 30th October, 2019, in relation to Mee
 
 Committee held on 16th October, 2019.
 
-The Report was noted by the Members.---
+The Report was noted by the Members.
+---
 11
 
 (v)
@@ -846,7 +856,8 @@ And Resolved:
 
 “That, the approval of the Council be and is hereby given to the Scheme of Priority for
 
-Affordable Dwelling Purchase Arrangements, as circulated.”---
+Affordable Dwelling Purchase Arrangements, as circulated.”
+---
 12
 
 5.
@@ -921,7 +932,8 @@ Land Development Agency – Master Planning Framework for Colbert District
 
 Circulated, report of the A/Director, Economic Development, dated 20th November, 2019, in
 
-relation to the proposed signing of a Memorandum of Understanding with the Land Development---
+relation to the proposed signing of a Memorandum of Understanding with the Land Development
+---
 13
 
 Agency and other landowners for the delivery of a Master Planning Framework on lands around
@@ -1008,7 +1020,8 @@ approved the attendance of the following Members:
 
 **Carlingford, Co. Louth (13th–** **15th** **December)** Councillors Foley, Galvin, Sheahan (J), Collins (M),
 
-Sheahan (K), Teskey, Sheahan (M), Leddin (J), Donegan, Kilcoyne.---
+Sheahan (K), Teskey, Sheahan (M), Leddin (J), Donegan, Kilcoyne.
+---
 14
 
 (ii)
@@ -1085,7 +1098,8 @@ outside of the Metropolitan District. The Environmental Protection Agency operat
 
 an indicative Air Quality Monitoring Station at the Fire Station in Abbeyfeale. This
 
-station measures particulates, and its purpose is primarily to assess the impact of---
+station measures particulates, and its purpose is primarily to assess the impact of
+---
 15
 
 solid fuel burning in a town outside of the restricted area. Results from this station
@@ -1168,7 +1182,8 @@ etc., Derelictions, Buy and Renew packages.
 
 iii. **Service Operations** – this Directorate provides a number of housing
 
-functions:---
+functions:
+---
 16
 
 **Community Support Services** – Allocations, Assessment, Rebuilding
@@ -1243,7 +1258,8 @@ transport infrastructure over its lifetime. Accordingly, significant National Tr
 
 Authority funding will be available to implement the infrastructure required for a
 
-successful transformation to active and public transport modal shift.---
+successful transformation to active and public transport modal shift.
+---
 17
 
 11.
@@ -1388,7 +1404,8 @@ Notice of Motion submitted by Councillor K. Sheahan
 
 ***instead of losing their licence for a period.***
 
-With the permission of the Meeting, this Motion was withdrawn by Councillor Sheahan (K).---
+With the permission of the Meeting, this Motion was withdrawn by Councillor Sheahan (K).
+---
 18
 
 13.
@@ -1465,7 +1482,8 @@ on the targets set out in Rebuilding Ireland Action Plan for Housing and
 
 Homelessness. The delivery of these targets is supported by Operations and
 
-Customer Services. There is no current plan to change the Organisational Structure.---
+Customer Services. There is no current plan to change the Organisational Structure.
+---
 19
 
 Suspension of Standing Orders: It was noted that the time was approaching 5.30pm and on
@@ -1526,7 +1544,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
-available on SharePoint and Alfresco for inspection by the Members.---
+available on SharePoint and Alfresco for inspection by the Members.
+---
 20
 
 PLANNING AND DEVELOPMENT:
@@ -1543,4 +1562,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

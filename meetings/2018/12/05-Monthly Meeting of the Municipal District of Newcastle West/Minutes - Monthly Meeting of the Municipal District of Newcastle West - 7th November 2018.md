@@ -78,7 +78,8 @@ Seconded by: Councillor Scanlan
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -151,7 +152,8 @@ The Director also acknowledged the work of the LCDC and the Municipal District O
 
 progressing the projects outlined. Members also asked that regular updates be given on the
 
-work of the Directorate.---
+work of the Directorate.
+---
 3
 
 3.
@@ -220,7 +222,8 @@ On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agr
 
 On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agreed to allocate
 
-€250.00 to the Scouts, Newcastle West.---
+€250.00 to the Scouts, Newcastle West.
+---
 4
 
 On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agreed to allocate
@@ -301,7 +304,8 @@ Unit 1
 
 Works such as specifications, tendering, scheduling and construction are
 
-progressing.---
+progressing.
+---
 5
 
 **Tournafulla**
@@ -390,7 +394,8 @@ REPLY:
 
 Footpath upgrade works are due to be carried out at this location within the
 
-next month.---
+next month.
+---
 6
 
 11.
@@ -499,7 +504,8 @@ Unit 1
 
 05/02/2018
 
-**Abbeyfeale** – 5 units as follows:---
+**Abbeyfeale** – 5 units as follows:
+---
 7
 
 **Name of Unit**
@@ -598,7 +604,8 @@ REPLY:
 
 As per our records held, I wish to confirm that the Peter McVerry Trust manage
 
-6 units in the Newcastle West District Area.---
+6 units in the Newcastle West District Area.
+---
 8
 
 NOTICES OF MOTION
@@ -669,7 +676,8 @@ In proposing the Motion, Councillor Scanlan stated that traffic management arran
 
 along the Boherbui road from the Church towards the junction with Old Killeline in Newcastle
 
-West be reviewed. The Senior Executive Engineer stated that tenders have been received---
+West be reviewed. The Senior Executive Engineer stated that tenders have been received
+---
 9
 
 with regard to the Newcastle West Integrated Movement Plan but additional funding is
@@ -734,4 +742,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

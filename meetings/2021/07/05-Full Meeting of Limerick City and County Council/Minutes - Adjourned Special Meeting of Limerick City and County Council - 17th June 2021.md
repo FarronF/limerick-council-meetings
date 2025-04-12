@@ -52,7 +52,8 @@ Orders had been suspended to allow for this.
 
 The Mayor explained that the purpose of the meeting was to consider proposals made by some
 
-Members regarding amendments to the Rural Settlement Strategy Map proposed.---
+Members regarding amendments to the Rural Settlement Strategy Map proposed.
+---
 1. **Changes proposed to Chapter 3**
 
 Cllr J. Sheahan proposed the following amendment:
@@ -117,7 +118,8 @@ outlined the need to be consistent in terms of how the Council determines the ru
 
 strategy map, and that if the Council is using the 15% commuters to Limerick City, you cannot
 
-include other EDs without justification.---
+include other EDs without justification.
+---
 The Mayor thanked the Members and staff for their engagement and consideration of the Draft
 
 Development Plan and their input in the many Workshops regarding same. The Chief Executive
@@ -170,4 +172,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

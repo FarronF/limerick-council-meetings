@@ -90,7 +90,8 @@ Special Projects – LPT
 
 **General Municipal Allocation**
 
-**270,000**---
+**270,000**
+---
 Following discussion, the following was agreed:
 
 Proposed by Councillor O’Donoghue;
@@ -161,7 +162,8 @@ done on the fountain some Members expressed serious concerns on the overall cost
 
 the project and asked the Executive if something could be put in place to prevent this
 
-type of overspend occurring in future project.---
+type of overspend occurring in future project.
+---
 At the conclusion of the Agenda and with the consent of the Cathaoirleach, the
 
 Meetings Administrator advised Members that due to non-availability of personnel from
@@ -182,4 +184,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

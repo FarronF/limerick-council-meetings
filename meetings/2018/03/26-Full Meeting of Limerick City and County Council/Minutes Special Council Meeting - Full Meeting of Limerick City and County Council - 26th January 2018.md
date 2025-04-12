@@ -54,7 +54,8 @@ electorate. He had served as Councillor from 1991-1999 and served as Chairman in
 
 1997/1998. He added that he was a dedicated Councillor and was totally committed to
 
-Limerick and the people of Limerick. The Mayor also referred to his role serving on many---
+Limerick and the people of Limerick. The Mayor also referred to his role serving on many
+---
 2
 
 other Bodies during his term on the Council, including Limerick Harbour Authority,
@@ -109,4 +110,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

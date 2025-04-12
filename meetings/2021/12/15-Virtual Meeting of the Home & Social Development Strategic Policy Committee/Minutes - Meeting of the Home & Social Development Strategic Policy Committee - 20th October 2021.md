@@ -68,7 +68,8 @@ Cllr. Murphy congratulated Ms. Caroline Curley on becoming the new Director of S
 
 for Housing.
 
-**Item 1: Confirm minutes from meeting held on 16th** **June 2021**---
+**Item 1: Confirm minutes from meeting held on 16th** **June 2021**
+---
 **Proposed:** Cllr. Stephen Keary
 
 **Seconded:** Cllr. Sarah Kiely
@@ -133,7 +134,8 @@ Cost Rental Homes for the first time, this means delivering affordable rental
 
 homes, which must be achieving 25% below the market rent. Ms. Newell
 
-noted that this is primarily focused on cities.---
+noted that this is primarily focused on cities.
+---
 b. The Local Authority Affordable Purchase Scheme – Ms. Newell noted the five
 
 city sites under the Service Sites Fund and the aim is to try to achieve at least
@@ -206,7 +208,8 @@ c. Ms. Newell shared summary of overall National targets under the plan until
 
 2030.
 
-**4.Addressing Vacancy and Efficient Use of Existing Stock -**---
+**4.Addressing Vacancy and Efficient Use of Existing Stock -**
+---
 a. Ms. Newell noted the importance of the ‘Croí Cónaithe (Towns) Fund’ for
 
 rural towns as it aims to refurbish existing houses and to look at affordable
@@ -283,7 +286,8 @@ period of the Housing for All programme. Cllr. Keary asked where the proposed
 
 development for 31 units in Adare is sitting at and flagged lack of progress. Cllr.
 
-Keary asked about the status of sale for land block attached to Adare scheme.---
+Keary asked about the status of sale for land block attached to Adare scheme.
+---
  Ms. Newell outlined targets to SPC members for the next five years. Ms. Newell
 
 advised delivery of new builds for 2020 and 2021 had been impacted hugely by
@@ -352,7 +356,8 @@ Murphy advised the SPC is for formulation and development of policy.
 
 asked for his Notice of Motion to be deferred to our next Home and Social SPC.
 
-**Item 6: AOB**---
+**Item 6: AOB**
+---
  Cllr. Benson flagged that she is receiving communication from Home Improvement
 
 applicants (Disabled Person Grants, Mobility Aid Grants, Housing Adaptation Grants)
@@ -431,7 +436,8 @@ to numerous factors. Ms. Burns flagged her concern about members bringing up
 
 individual cases and noted the processes are there and they adhere to them.
 
- Mr. O Grady agreed with Cllr. Kiely’s point on AHBs and anti-social behaviour.---
+ Mr. O Grady agreed with Cllr. Kiely’s point on AHBs and anti-social behaviour.
+---
 **Proposal to write to the Minister for Housing requesting a review of the maximum**
 
 **grant allocation for Housing Adaption Grants for Disabled People**
@@ -446,4 +452,5 @@ END OF MEETING
 
 The Chair thanked everyone for joining the meeting and advised the next SPC is the 15th
 
-December 2021.---
+December 2021.
+---

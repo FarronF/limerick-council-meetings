@@ -62,7 +62,8 @@ Councillor Galvin described the crisis as heartbreaking and suggested countries 
 
 Ukraine should be congratulated for embracing people fleeing the conflict. He called on the
 
-local authority, members of the public, the Department of Housing and the Government to---
+local authority, members of the public, the Department of Housing and the Government to
+---
 2
 
 help support those in need. He suggested the Council appoint a coordinator within the
@@ -137,7 +138,8 @@ Councillor Mitchell reiterated the comments of the other Elected Members and exp
 
 dismay at the heartbreaking and unprovoked action. Councillor Hartigan described the
 
-actions of Russia as a disgrace.---
+actions of Russia as a disgrace.
+---
 3
 
 Councillor Collins M. advised the Elected Members that measures were in place in Newcastle
@@ -220,4 +222,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-**Mayor**---
+**Mayor**
+---

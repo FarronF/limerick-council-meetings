@@ -80,7 +80,8 @@ The proposed breakdown was outlined as follows:
 
 **Tourism Development Recreation & Amenity**
 
-**88,000**---
+**88,000**
+---
 2
 
 **F04**
@@ -167,7 +168,8 @@ The Revised Schedule with the Proposed Amendments is as follows:
 
 **Total** **General Municipal Allocation**
 
-**800,000**---
+**800,000**
+---
 3
 
 The Financial Accountant confirmed that funding for the additional amount proposed would have
@@ -236,7 +238,8 @@ The report, as circulated, was noted by Members.
 
 Development Directorate, dated 10th October, 2024, setting out proposals for Disposal of 2a
 
-Meat Market Lane, Limerick, for the consideration of acquiring 50, St. Munchin’s Street, St.---
+Meat Market Lane, Limerick, for the consideration of acquiring 50, St. Munchin’s Street, St.
+---
 4
 
 Mary’s Park, Limerick and the intention to bring a Section 183 Notice to Full Council in this
@@ -309,7 +312,8 @@ nationally in early Summer and the Council wish to put the Draft Bye-Laws on pub
 
 licensed operator for a Shared E-Scooter Scheme, so as to gauge feedback and response. He
 
-confirmed that the preference would be to have the Bye-Laws in place as the Council would then---
+confirmed that the preference would be to have the Bye-Laws in place as the Council would then
+---
 5
 
 have control over operators. He added that as part of Road Safety Working Group that the Council
@@ -372,7 +376,8 @@ And Resolved:
 
 “That the roads in Danesfort, Corbally, Limerick, be taken in charge in accordance with Section 180
 
-of the Planning and Development Act 2000 (as amended) and Section 11 of the Roads Act 1993”.---
+of the Planning and Development Act 2000 (as amended) and Section 11 of the Roads Act 1993”.
+---
 6
 
 **QUESTIONS**
@@ -451,7 +456,8 @@ A contractor is hired quarterly and at other occasions if necessary to carry out
 
 time deep cleaning works on the entire area of the upgraded public realm on
 
-O’Connell Street.---
+O’Connell Street.
+---
 7
 
 Staining of pavements reoccurs quickly after cleaning and is more prevalent outside fast
@@ -570,7 +576,8 @@ the 1st October, 2024 is 2899.
 
  Total DBEs Paid includes Breeders, Hunt Clubs, Animal Welfare Charities and Commercial
 
-Boarding Kennels. Actual Breeders includes Breeder’s only.---
+Boarding Kennels. Actual Breeders includes Breeder’s only.
+---
 8
 
  Breeder’s pay the DBE fee based on the number of breeding bitches they have and receive
@@ -653,7 +660,8 @@ landowners.
 
 not interfere with the hazardous chemicals and put any danger to us landowners / animals /
 
-anyone working on the grounds of canal etc.---
+anyone working on the grounds of canal etc.
+---
 9
 
 **You have not specified which new licence you are referring to in your question. To clarify,**
@@ -726,7 +734,8 @@ review may offer potential for more inclusive solutions in the future.
 
 ***Council are proposing for the development of the 40 plus acres they purchased at the Mackey***
 
-***Roundabout in Lisnagry.***---
+***Roundabout in Lisnagry.***
+---
 10
 
 **REPLY:** The lands at the Mackey junction were purchased in partnership with the NTA to
@@ -803,7 +812,8 @@ registered veterinarian always carries out any euthanasia required in the Dog Sh
 
 ***emergency out of hours number went unanswered on the night of October 6**th*** ***and if the Council***
 
-***is aware of any other dates where the emergency line was not covered***---
+***is aware of any other dates where the emergency line was not covered***
+---
 11
 
 **REPLY:** On 7th October a number of calls were received from a member of the public advising that
@@ -880,7 +890,8 @@ soon as possible.
 
 ***erected on the approach to Donoughmore Cross R512 to tackle speeding in the area.***
 
-**REPLY**: A driver feedback sign was installed on the inbound approach to the Donoughmore---
+**REPLY**: A driver feedback sign was installed on the inbound approach to the Donoughmore
+---
 12
 
 junction on the R512 junction last year. LCCC Roads Department will monitor the situation
@@ -963,7 +974,8 @@ Step 3.
 
 We have had extensive liaison with the Mayor of Limerick John Moran and the NTA to
 
-ensure due consideration is given to aligning the Mayoral programme\objectives with the---
+ensure due consideration is given to aligning the Mayoral programme\objectives with the
+---
 13
 
 objectives of the Transport Plan with the subsequent implication on programme timelines.
@@ -1060,7 +1072,8 @@ The number of dogs voluntarily surrendered to the shelter over the past five yea
 
 ***proposed Ennis Road to City Centre bus route and whether such a proposed route will serve***
 
-***Ashbrook, Fortmary Park and the North Circular Road.***---
+***Ashbrook, Fortmary Park and the North Circular Road.***
+---
 14
 
 **REPLY:** Bus Connects Route 6 serves the Ennis Road area. It will operate from Coonagh Shopping
@@ -1139,7 +1152,8 @@ engagement WAW Gateway, Ireland’s Hidden Heartlands, Ballyhoura Failte, Munste
 
 Delivery of civic festivals: St Patricks’ Festival, International Band Parade, Riverfest, Halloween in
 
-Limerick, Christmas in Limerick, St Brigid’s Day; Deliver and administer Festival and Events grant call---
+Limerick, Christmas in Limerick, St Brigid’s Day; Deliver and administer Festival and Events grant call
+---
 15
 
 on behalf of LCCC; Engagement with UL and Shannon Conference Bureau on Bid-For events.
@@ -1234,7 +1248,8 @@ by the end of the year and all NTE Initiative funding will be drawn down by the 
 
 Investment Team by the end of the year. A capital funding application was made in September 2024
 
-to the Department of Tourism, Culture, Arts, Gaeltacht Sport and Media and response is awaited.---
+to the Department of Tourism, Culture, Arts, Gaeltacht Sport and Media and response is awaited.
+---
 16
 
 **34**. **Question submitted by Councillor O. O’Sullivan**
@@ -1317,7 +1332,8 @@ Limerick City and County Council makes direct investment in the festival sector 
 
 Festival and Events Scheme. This year’s competitive grant scheme offered the opportunity for
 
-funding under three Strands, for Festival and Events taking place from 1st October 2024 to 30th---
+funding under three Strands, for Festival and Events taking place from 1st October 2024 to 30th
+---
 17
 
 September 2025.
@@ -1398,7 +1414,8 @@ Councillor Slattery referred to the issue of overgrown trees in housing estates 
 
 which are causing hazardous conditions. Members agreed with the importance that trees and
 
-hedging in estates be dealt with where they become an issue in an area.---
+hedging in estates be dealt with where they become an issue in an area.
+---
 18
 
 The Director of Service, Environment, Climate Action and Shared Services, stated that trees are
@@ -1475,7 +1492,8 @@ initiative of the Department of Housing, Local Government and Heritage, the Depa
 
 Health, the Health Service Executive, the criminal justice sector (the Probation Service and Irish
 
-Prison Service), Local Authorities and NGO providers.---
+Prison Service), Local Authorities and NGO providers.
+---
 19
 
 Limerick City and County Council has exceeded its target for Housing First Tenancies and there are
@@ -1558,7 +1576,8 @@ conjunction with our HSE partners and other stakeholders. This is under ongoing 
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council writes***
 
-***to Irish Rail asking for compensation for homes within the Metropolitan District which are***---
+***to Irish Rail asking for compensation for homes within the Metropolitan District which are***
+---
 20
 
 ***currently experiencing rodent infestation due to works completed along the Limerick to Foynes***
@@ -1633,7 +1652,8 @@ Committee.
 
 It was agreed to refer this Notice of Motion to the Travel and Transportation Strategic Policy
 
-Committee.---
+Committee.
+---
 21
 
 **44.** **Notice of Motion submitted by Councillor F. Kilcoyne**
@@ -1708,7 +1728,8 @@ along the general area of the 3 Bridges route in the Limerick City area.
 
 ***I will move at the next Meeting of the Metropolit6an District of Limerick that we contact***
 
-***Waterways Ireland and ask them to attend a meeting of the Metropolitan District of Limerick to***---
+***Waterways Ireland and ask them to attend a meeting of the Metropolitan District of Limerick to***
+---
 22
 
 ***explain why they have not lodged a promised planning application to put in place a***
@@ -1789,7 +1810,8 @@ collaboration.
 
 ***temporary pop up galleries to showcase the work of local artists in Council owned properties and***
 
-***vacant spaces in the city centre in the run up to the Christmas season.***---
+***vacant spaces in the city centre in the run up to the Christmas season.***
+---
 23
 
 The Notice of Motion was proposed by Councillor Hickey-O’Mara, seconded by Councillor
@@ -1868,7 +1890,8 @@ scheme.
 
 Councillor O’Sullivan acknowledged the support received from all the Members for her Motion.
 
-She also agreed with the feedback from the Members in relation to additional amendments. The---
+She also agreed with the feedback from the Members in relation to additional amendments. The
+---
 24
 
 amended Motion was proposed by Councillor O’Sullivan and seconded by Councillor Butler as
@@ -1953,7 +1976,8 @@ The request to redesign Junction 1 of the M20 to include a direct route into the
 
 review by Limerick City and County Council in line with Development Plan Objective TR 035.
 
-Limerick City and County Council is also exploring other potential route options to improve---
+Limerick City and County Council is also exploring other potential route options to improve
+---
 25
 
 accessibility and connectivity to Limerick Southside. Please see attached correspondence
@@ -2040,7 +2064,8 @@ heritage stock while reducing vacancy and dereliction in town centres.
 
 Prioritisation, development and specification of project proposals to create a pipeline of
 
-investment-ready built heritage refurbishment, renovation and adaptive reuse projects,---
+investment-ready built heritage refurbishment, renovation and adaptive reuse projects,
+---
 26
 
 bringing one of them to a stage of readiness where it can be included in a THRIVE Strand 2
@@ -2069,4 +2094,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -44,7 +44,8 @@ Matters Arising
 
 3.
 
-Declaration of Interest---
+Declaration of Interest
+---
 2
 
 4.
@@ -103,7 +104,8 @@ I will move at the next meeting of the Municipal District of Cappamore Kilmalloc
 
 City & County Council install traffic calming and junction tightening measures to make it safe for
 
-pedestrians at the junction at Gerard road, Millmount and the new road, Gortboy in Kilmallock.---
+pedestrians at the junction at Gerard road, Millmount and the new road, Gortboy in Kilmallock.
+---
 3
 
 QUESTIONS
@@ -144,4 +146,5 @@ Sruthain in Kilfinane.
 
 I will ask at the next meeting of the Cappamore Kilmallock Municipal District for an update on
 
-the Compulsory Purchase Order for the N20 O’Rourke’s Scheme.---
+the Compulsory Purchase Order for the N20 O’Rourke’s Scheme.
+---

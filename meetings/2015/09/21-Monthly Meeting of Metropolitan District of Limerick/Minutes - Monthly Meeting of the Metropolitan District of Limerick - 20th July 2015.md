@@ -84,7 +84,8 @@ Seconded by Councillor Hourigan;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 At the outset Councillor Hourigan noted that the LPYMA Site had not yet been secured
@@ -161,7 +162,8 @@ review.
 
 now changed, an application for funding had been made to the Department and it
 
-was hoped that this matter would be resolved within months.---
+was hoped that this matter would be resolved within months.
+---
 3
 
 2.
@@ -248,7 +250,8 @@ relation to same and setting out the remaining stages for the preparation of the
 
 Members noted the contents of the report and the following points were raised by
 
-Members:---
+Members:
+---
 4
 
  Should the water / wastewater infrastructure prove inadequate to service the
@@ -329,7 +332,8 @@ Circulated, Report of the Senior Executive Officer, Corporate Services dated 8th
 
 Senior Executive Officer’s Report noted that it was necessary to prepare a new Polling
 
-Scheme as a result of the changes to the Dáil Constituencies and the establishment of---
+Scheme as a result of the changes to the Dáil Constituencies and the establishment of
+---
 5
 
 Limerick City and County Council, that the Draft Scheme was on public display for five
@@ -414,7 +418,8 @@ communication with the Department and the NRA in relation to same.
 
  The issue of a suggested 80kph speed limit on the N69 from the Dock Road to
 
-Clarina was under review by the NRA.---
+Clarina was under review by the NRA.
+---
 6
 
  Lines of communication with everyone affected by the proposed works would remain
@@ -493,7 +498,8 @@ Question submitted by Councillor Maurice Quinlivan
 
 The number of people approved on the housing waiting list for the
 
-Metropolitan Area is 3,854 as at the 30th June, 2015.---
+Metropolitan Area is 3,854 as at the 30th June, 2015.
+---
 7
 
 12.
@@ -578,7 +584,8 @@ The motion was proposed by Councillor Crowley and seconded by Councillor Lynch.
 
 In proposing the motion, Councillor Crowley pointed out that, while he acknowledged the
 
-urgent need for social housing, the site in this case was unsuitable for housing or use as---
+urgent need for social housing, the site in this case was unsuitable for housing or use as
+---
 8
 
 a green area as it was prone to flooding and was too remote with no shops, schools or
@@ -665,7 +672,8 @@ agencies such as Waterways Ireland and Birdwatch Ireland. He stressed the need t
 
 develop this area as a focal point in the city and the need to remove weed growth before
 
-the lake area was lost.---
+the lake area was lost.
+---
 9
 
 **REPLY:**
@@ -754,7 +762,8 @@ Limerick Communications Office (formerly Coordination Office) over the
 
 last ten years or so, until the Limerick Communications office ceased to
 
-exist in 2013. The service was funded by a combination of funds from the---
+exist in 2013. The service was funded by a combination of funds from the
+---
 10
 
 (then) Limerick City Council, Limerick County Council and Shannon
@@ -841,7 +850,8 @@ Notice of Motion submitted by Councillor Joe Leddin
 
 The Council owns a number of strategic sites in the Metropolitan District;
 
-these are in the main identified in Limerick 2030. Development proposals---
+these are in the main identified in Limerick 2030. Development proposals
+---
 11
 
 are being advanced for these sites in accordance with this Economic and
@@ -920,7 +930,8 @@ with Irish Rail to be opened in relation to this issue.
 
 Members supported the motion and requested that Irish Rail be asked to remove the
 
-refuse deposited along this section of the rail track.---
+refuse deposited along this section of the rail track.
+---
 12
 
 21.
@@ -1007,7 +1018,8 @@ Inspections of properties entered under the HAP scheme is governed by
 
 Section 41(2)(b) of the Housing (Miscellaneous Provisions) Act 2014 which
 
-states that the Housing Authority shall, within a prescribed period after the---
+states that the Housing Authority shall, within a prescribed period after the
+---
 13
 
 date when housing assistance commences, inspect the dwelling to ensure
@@ -1064,4 +1076,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

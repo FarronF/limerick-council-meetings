@@ -29,7 +29,8 @@ is set out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -64,4 +65,5 @@ I will move at the next meeting that the charge for resident parking permits in
 
 Newcastle West be brought in line with the rate which applies to residents of
 
-Limerick City.---
+Limerick City.
+---

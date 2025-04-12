@@ -72,7 +72,8 @@ Shared Services also advised the elected members in addition, the Council will l
 
 LAWPRO (Local Authority Water Programme) to investigate the issue at catchment level,
 
-entire River Deel plus its tributaries.---
+entire River Deel plus its tributaries.
+---
 2
 
 Following discussion, the Cathaoirleach requested the item remain on the Agenda of
@@ -125,4 +126,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

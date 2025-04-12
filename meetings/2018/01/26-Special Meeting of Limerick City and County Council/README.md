@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-01-26 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-26)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-26" target="_blank">Link to meeting</a>**

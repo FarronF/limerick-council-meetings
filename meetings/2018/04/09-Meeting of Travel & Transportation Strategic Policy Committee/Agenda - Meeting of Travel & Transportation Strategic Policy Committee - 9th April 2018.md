@@ -24,7 +24,8 @@ April 2018 at 10:00 a.m. The business to be transacted is set out in the appende
 
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -61,4 +62,5 @@ local roads within this Municipal District”.
 
 Safe' vans within Co. Limerick”.
 
-**5.Presentation on Age Friendly Limerick and Rural Transport**---
+**5.Presentation on Age Friendly Limerick and Rural Transport**
+---

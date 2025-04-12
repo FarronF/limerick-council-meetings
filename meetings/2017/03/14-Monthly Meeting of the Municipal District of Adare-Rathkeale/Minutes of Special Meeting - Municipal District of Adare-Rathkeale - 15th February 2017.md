@@ -74,7 +74,8 @@ footpath.
 
 • Should a traffic island be provided, vehicles exiting the school and turning right would have
 
-to cross two lanes of traffic, thereby increasing the risk of exiting the site safely.---
+to cross two lanes of traffic, thereby increasing the risk of exiting the site safely.
+---
 2
 
 Consideration should be given by the Community Council to purchasing adjacent lands to
@@ -123,4 +124,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

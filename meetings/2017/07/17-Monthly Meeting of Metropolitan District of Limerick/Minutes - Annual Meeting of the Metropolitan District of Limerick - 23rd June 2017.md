@@ -74,7 +74,8 @@ The outgoing Mayor, Councillor Hourigan opened the Meeting by giving the followi
 
 *Lastly, I want to thank my fellow Councillors for their support during the year. I also want to*
 
-*thank my Deputy Mayor, Daniel Butler.*---
+*thank my Deputy Mayor, Daniel Butler.*
+---
 2
 
 *I would like to thank Kieran Lehane, Chr**isty O’Connor, Freda Ryan and Siobhan and all the staff*
@@ -151,7 +152,8 @@ one or more than one Member could be proposed and seconded.
 
 
 
-where there was only one candidate that candidate would be elected.---
+where there was only one candidate that candidate would be elected.
+---
 3
 
 
@@ -242,7 +244,8 @@ On taking the Chair, the incoming Mayor, Councillor Lynch gave the following add
 
 *Keeping it on the sporting field, in my years working here with An Garda Síochána, I have never*
 
-*seen Limerick in better shape. Better prepared.*---
+*seen Limerick in better shape. Better prepared.*
+---
 4
 
 *This is now, for sure, a championship city. A top tier city. A city that now - thanks to four years of*
@@ -323,7 +326,8 @@ On taking the Chair, the incoming Mayor, Councillor Lynch gave the following add
 
 *left our city and gone on to greater things. We need to tap them on the shoulder and look for*
 
-*their support.*---
+*their support.*
+---
 5
 
 *Another fervent wish for the year ahead is that that we really put our shoulder to the wheel in*
@@ -402,7 +406,8 @@ Seconded by Councillor McCreesh.
 
 “That Councillor John Costelloe be appointed Deputy Mayor of the Metropolitan District of
 
-Limerick to hold office until the next Annual Meeting or until a successor is appointed”.---
+Limerick to hold office until the next Annual Meeting or until a successor is appointed”.
+---
 6
 
 Proposed by Councillor Prendiville;
@@ -477,4 +482,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

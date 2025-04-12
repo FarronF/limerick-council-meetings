@@ -60,7 +60,8 @@ and agreed:
 
 Environmental Protection Agency to grant a licence to Irish Cement to incinerate waste in
 
-Mungret.”---
+Mungret.”
+---
 2
 
 Members stated that in light of the public concerns the EPA should hold an oral hearing and on
@@ -111,4 +112,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

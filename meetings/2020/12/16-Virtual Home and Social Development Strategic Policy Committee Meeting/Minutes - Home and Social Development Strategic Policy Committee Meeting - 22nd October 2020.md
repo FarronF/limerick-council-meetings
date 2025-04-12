@@ -62,7 +62,8 @@ and Una Byrnes.
 
 No matters arising from previous meeting.
 
-**Item 3: Policy Documents Following Update**---
+**Item 3: Policy Documents Following Update**
+---
 A.
 
 Adare Pilot for Affordable Sites
@@ -127,7 +128,8 @@ Selection will be based on certain criteria:
 
 3. Housing management experience
 
-4. Proposals that ABH have to sites – tenure mix, feasibility etc…---
+4. Proposals that ABH have to sites – tenure mix, feasibility etc…
+---
 Ms. Newell went on to say the next step is that we will look for their funding capacity – do
 
 they have an approved borrower status with the HFA? How do they see the funding model
@@ -202,7 +204,8 @@ noted that we would welcome county sites to be brought forward for scheme.
 
  Ms. McElligott queried the timeframe of AHB tendering and that there are concerns
 
-around delays with AHBs. Ms. Newell said that we will be looking at a small number---
+around delays with AHBs. Ms. Newell said that we will be looking at a small number
+---
 of sites for first tranche and it is a pilot to see if there is an appetite in the AHB sector
 
 for the sites that LCCC have. We can only tell from their performance if it can be
@@ -271,7 +274,8 @@ LCCC have the €4 million to grant to various organisations and projects in the
 
 Limerick Regeneration areas. Once they meet the social and economic objectives, they will
 
-be grant funded.---
+be grant funded.
+---
 In 2020, there were 203 applications received and they came in from112 organisations. The
 
 amount applied for in the first round was €6, 463, 903. An independent assessment panel
@@ -346,7 +350,8 @@ tendering process
 
 **March 2020:** Icarus Properties Ltd appointed building contractor by SSE Airtricity
 
-following competitive tendering process---
+following competitive tendering process
+---
 •
 
 **May 2020:** CE Order appointing SSE Airtricity for construction works under GCCC
@@ -447,7 +452,8 @@ o Improved thermal efficiency of home
 
 o Improved air quality
 
-o No handling of dirty solid fuel---
+o No handling of dirty solid fuel
+---
 o Reduced energy costs (‘Watt watcher’ to be installed on selected homes by SSE
 
 post project)
@@ -554,7 +560,8 @@ upgrades fixtures. Cllr. Keary noted that it would be more appropriate to extern
 
 wrap a house if it was in a block of LA owned houses. Mr. Leahy said it the external
 
-insulation is robust and quite durable.---
+insulation is robust and quite durable.
+---
  Cllr. Hartigan asked could there be a possibility to include private residents in the
 
 project especially if their house is in the middle of a block of LA houses. Mr. Leahy said
@@ -633,7 +640,8 @@ A discussion took place around this:
 
  Mr. O Grady asked have we been able to reduce the number of voids in the county.
 
-Ms. Duke noted that in 2020 we have introduced the Single Point of Contact system---
+Ms. Duke noted that in 2020 we have introduced the Single Point of Contact system
+---
 were any voids properties that came back into the system were recorded, inspected
 
 and categorized based on level of works required. They either went to Operations
@@ -680,4 +688,5 @@ END OF MEETING
 
 The Chair thanked everyone for logging in and for their valuable contributions. He also
 
-thanked the members of the executive present.---
+thanked the members of the executive present.
+---

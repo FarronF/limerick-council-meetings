@@ -72,7 +72,8 @@ Proposed by Councillor Ryan;
 
 Seconded by Councillor Teefy;
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That, having considered the Chief Executive’s Report dated 24th November, 2017,
@@ -151,7 +152,8 @@ people’s concerns. Members of the Deputation asked, for safety reasons, if the
 
 the playground could be moved to the car park area. They also referred to allocation of
 
-houses in the new development and possible installation of CCTV cameras.---
+houses in the new development and possible installation of CCTV cameras.
+---
 3
 
 In conclusion, the Deputation referred to the high number of listed properties in
@@ -230,7 +232,8 @@ round of funding for 2017. When it was clarified that it was necessary to re-
 
 submit the original list, the Council did so immediately and is awaiting
 
-clarification from the Department.---
+clarification from the Department.
+---
 4
 
 (c) 6 on waiting list for Scheme in the Municipal District of Cappamore-
@@ -289,4 +292,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

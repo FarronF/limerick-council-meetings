@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-10-16 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-6)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-6" target="_blank">Link to meeting</a>**

@@ -74,7 +74,8 @@ as amended, and Part VIII of the Planning and Development
 
 Regulations, 2001 - 2018, as amended, in relation to Abbeyfeale
 
-Traffic Management Plan.---
+Traffic Management Plan.
+---
 2
 
 Circulated, report of Chief Executive, dated 29th March, 2018, in relation to Abbeyfeale Traffic
@@ -145,7 +146,8 @@ Municipal Allocation 2018.
 
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
 
-€1,500 to Abbeyfeale RFC for removal of boundary fence.---
+€1,500 to Abbeyfeale RFC for removal of boundary fence.
+---
 3
 
 On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agreed to allocate
@@ -216,7 +218,8 @@ Question submitted by Councillor L. Galvin
 
 ***I will ask at the next Meeting what capacity, if any, is remaining at the Tournafulla***
 
-***sewerage plant.***---
+***sewerage plant.***
+---
 4
 
 REPLY:
@@ -295,7 +298,8 @@ REPLY:
 
 **(a)**
 
-There are 10 Approved Housing Bodies operating in the Newcastle---
+There are 10 Approved Housing Bodies operating in the Newcastle
+---
 5
 
 West Municipal District as per the Approved Housing Body Audit 2016.
@@ -424,7 +428,8 @@ Question submitted by Councillor F. Foley
 
 ***I will ask at the next Meeting when will the trees that were removed at The Square,***
 
-***Abbeyfeale to facilitate the movement of the wind turbines through the town be replaced.***---
+***Abbeyfeale to facilitate the movement of the wind turbines through the town be replaced.***
+---
 6
 
 REPLY:
@@ -503,7 +508,8 @@ planning permission in the village of Tournafulla as there is no capacity in the
 
 sewerage treatment plant to cater for additional connections. It was also stated that there is
 
-a need for social housing in the village.---
+a need for social housing in the village.
+---
 7
 
 The Motion was seconded by Councillor Foley.
@@ -572,7 +578,8 @@ Dromcollogher was discussed previously and he awaited details of when the study 
 
 commence.
 
-The Motion was seconded by Councillor Galvin.---
+The Motion was seconded by Councillor Galvin.
+---
 8
 
 REPLY:
@@ -643,7 +650,8 @@ requested that Limerick City and County Council design, cost and provide a footp
 
 Kilfergus Housing Estate.
 
-The Motion was seconded by Councillor Galvin.---
+The Motion was seconded by Councillor Galvin.
+---
 9
 
 REPLY:
@@ -700,4 +708,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

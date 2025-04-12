@@ -75,7 +75,8 @@ November, 2023.
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **3.Disposal of Land**
@@ -144,7 +145,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick if St Br
 
 Singland is included in the Safe Routes to School scheme and if not, can St Bridget’s School be
 
-included in same.---
+included in same.
+---
 3
 
 **8.Question** **submitted by Councillor E. O’Donovan**
@@ -209,7 +211,8 @@ Time Economy Advisor position within Limerick City and County Council as adverti
 
 scheme to support the night-time economy, and an update on the Night Time Economy focused
 
-work to date.---
+work to date.
+---
 4
 
 **15.Question submitted by Councillor S. Kiely**
@@ -274,7 +277,8 @@ Bus Eireann and driving schools that operate bus, articulated truck and HGV driv
 
 city that they do not operate or drive through roads that have weight restrictions and use main
 
-roads and bus corridors.---
+roads and bus corridors.
+---
 5
 
 **22.Notice of Motion submitted by Councillor F. Kilcoyne**
@@ -327,4 +331,5 @@ in the City Centre area.
 
 **27.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

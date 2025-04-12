@@ -60,7 +60,8 @@ Items 12 and 13 would be taken first.
 
 **I will move at the next meeting that this Council update our district regarding the**
 
-**delayed time frame that was occured during the recent rent review process. In**---
+**delayed time frame that was occured during the recent rent review process. In**
+---
 2
 
 **particular how it took up to 14 months for people to learn of their newly calculated**
@@ -133,7 +134,8 @@ cases.
 
 **entrances and exits to the town of Rathkeale.**
 
-The Motion was proposed by Councillor Teskey and seconded by Councillor Keary.---
+The Motion was proposed by Councillor Teskey and seconded by Councillor Keary.
+---
 3
 
 **Reply:**
@@ -200,7 +202,8 @@ And Resolved:
 
 Circulated, report of the Chief Executive, dated 30th November, 2018 setting out the
 
-proposed amendment to the Adare Local Area Plan 2015 – 2021 which relates to the---
+proposed amendment to the Adare Local Area Plan 2015 – 2021 which relates to the
+---
 4
 
 rephasing of lands and decide by resolution, whether to make amendment, with or
@@ -265,7 +268,8 @@ Councillor Sheahan:
 
 **Service Operations Directorate** **–** **Planning and Environment**
 
-**Update on Taking-In-Charge of An Curran, Pallaskenry**---
+**Update on Taking-In-Charge of An Curran, Pallaskenry**
+---
 5
 
 Circulated, report of the A/Senior Executive Engineer, Service Operations West, dated
@@ -330,7 +334,8 @@ Applicant(s) must be in receipt of a State Contributory/Non Contributory Pension
 
 Applicant must be living alone and in receipt of a living alone allowance or with a
 
-spouse/partner who also qualifies.---
+spouse/partner who also qualifies.
+---
 6
 
 **Or**
@@ -409,7 +414,8 @@ The Operation and Maintenance contract currently in place with SSE Airtricity
 
 requires the contractor to repair public lights within 10 working days from
 
-the date faults are reported.---
+the date faults are reported.
+---
 7
 
 **NOTICE OF MOTION**
@@ -476,7 +482,8 @@ ponding the road.
 
 the Woodlands Hotel and also footpaths from the new roundabout to the village
 
-of Adare need to be considered during constrution of the Adare bypass.---
+of Adare need to be considered during constrution of the Adare bypass.
+---
 8
 
  Councillor Sheahan proposed a Civic Reception be held for the Lawlor family from
@@ -493,4 +500,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

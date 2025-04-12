@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-12-03 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-travel-and-transportation-strategic-policy-committee-1)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-travel-and-transportation-strategic-policy-committee-1" target="_blank">Link to meeting</a>**

@@ -70,7 +70,8 @@ Policing Committee to be held on 24th July, 2020 :
 
 those over 18 when scramblers are seized.
 
- Clarification that bye-laws are not required in relation to scramblers/electric scooters.---
+ Clarification that bye-laws are not required in relation to scramblers/electric scooters.
+---
 2
 
 The Cathaoirleach then adjourned the meeting for five minutes.
@@ -125,4 +126,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

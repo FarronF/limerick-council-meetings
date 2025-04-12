@@ -40,7 +40,8 @@ Disposal of Property at Ardrahin, Galbally, Co Limerick
 
 5.Community Alert – Muintir na Tire
 
-Presentation by Diarmuid Cronin, Community Alert, Muintir na Tire.---
+Presentation by Diarmuid Cronin, Community Alert, Muintir na Tire.
+---
 2
 
 6.Issuing of Bruff Public Realm Plan
@@ -103,7 +104,8 @@ remaining openings of the Church closed off.
 
 12.
 
-Question submitted by Councillor Egan---
+Question submitted by Councillor Egan
+---
 3
 
 I will ask at the next meeting of the Cappamore Kilmallock Municipal District what the cost of
@@ -126,4 +128,5 @@ l will ask at the next Cappamore/Kilmallock municipal district meeting for the a
 
 engineer to have a look and provide further proper safe parking to accommodate the residents
 
-in Sycamore Drive Estate in Bruff as residents are forced to park on green area.---
+in Sycamore Drive Estate in Bruff as residents are forced to park on green area.
+---

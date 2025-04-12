@@ -66,7 +66,8 @@ address:
 
 **Catriona, Therese, Adrian, Gareth and Ciaran, who have supported me**
 
-**throughout the year.**---
+**throughout the year.**
+---
 2
 
 **To my fellow Councillors, thank you! You have made my time as Mayor an easy**
@@ -151,7 +152,8 @@ address:
 
 **the spirit that is present across Limerick. We might not all be related, but we**
 
-**have a common bond and that is Limerick.**---
+**have a common bond and that is Limerick.**
+---
 3
 
 **When I was elected Mayor, one of my objectives was to be progressive and**
@@ -214,7 +216,8 @@ Councillors Butler, Collins (J), Collins (M), Crowley, Donegan, Foley, Galvin, G
 
 Hourigan, Hurley, Keary, Lynch, Mitchell, O’Brien, O’Dea, O’Donnell, O’Donoghue, O’Hanlon,
 
-Pond, Ryan, Scanlan, Sheahan (J), Sheahan (K), Sheahan (M), Teefy, Teskey. **(27)**---
+Pond, Ryan, Scanlan, Sheahan (J), Sheahan (K), Sheahan (M), Teefy, Teskey. **(27)**
+---
 4
 
 For Councillor Costelloe
@@ -289,7 +292,8 @@ The incoming Mayor, Councillor Keary, gave the following address to the Meeting:
 
 **Electoral Area, and now the Municipal District of Adare-Rathkeale, who have**
 
-**put their trust in me and have elected me to this Council since 2009.**---
+**put their trust in me and have elected me to this Council since 2009.**
+---
 5
 
 **I would like to thank my Fine Gael Branch in Croagh and all of my supporters,**
@@ -376,7 +380,8 @@ The incoming Mayor, Councillor Keary, gave the following address to the Meeting:
 
 **to active retirement groups and communities across Limerick, and I will use**
 
-**my influence where possible to improve their services.**---
+**my influence where possible to improve their services.**
+---
 6
 
 **I have seen in other counties the success of specific branding to market**
@@ -443,7 +448,8 @@ Limerick for the coming year.
 
 ***to hold office to the next Annual Meeting or until his successor is appointed.”***
 
-A vote was taken which resulted as follows:---
+A vote was taken which resulted as follows:
+---
 7
 
 For Councillor Hurley
@@ -512,7 +518,8 @@ The incoming Deputy Mayor, Councillor Hurley, addressed the Meeting as follows:
 
 **City and County; advancements in our infrastructure - most noticeable in**
 
-**Limerick East being the recent advancements with the Northern Distributor**---
+**Limerick East being the recent advancements with the Northern Distributor**
+---
 8
 
 **Road. (I believe from local media that the Coonagh/Knocklisheen stage is due**
@@ -593,7 +600,8 @@ outgoing Deputy Mayor, Councillor Gleeson. Members praised them for the manner i
 
 which they had performed their role and stated that they had been excellent ambassadors
 
-for Limerick.---
+for Limerick.
+---
 9
 
 Concern was expressed by a number of Members in relation to comments made by
@@ -650,7 +658,8 @@ Councillors Leddin, McCreesh, Costelloe, Loftus, Teskey, O’Dea, Collins (J), O
 
 Crowley, Pond, O’Donnell, Mitchell, Butler, Hurley, Sheahan (M) and Hogan.
 
-This was seconded by Councillor Collins (M) and agreed.---
+This was seconded by Councillor Collins (M) and agreed.
+---
 10
 
 This concluded the Meeting.
@@ -663,4 +672,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

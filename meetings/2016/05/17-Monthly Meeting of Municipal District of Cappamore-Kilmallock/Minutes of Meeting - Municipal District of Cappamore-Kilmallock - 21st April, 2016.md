@@ -70,7 +70,8 @@ to the town. A feasibility study had been carried out on the proposed Interpreta
 
 the rear of the Stone Mansion in Kilmallock. Lough Gur was an internationally important site
 
-and an excellent resource for tourism.---
+and an excellent resource for tourism.
+---
 2
 
 Members thanked the Executive Archaeologist for her detailed and interesting presentation.
@@ -143,7 +144,8 @@ prepared.
 
 As a consultative process, the Roads Section will meet with the residents of
 
-Millmount Estate, Kilmallock.---
+Millmount Estate, Kilmallock.
+---
 3
 
 A Reply to the following Question submitted by Councillor B. Teefy at Meeting held on Friday,
@@ -220,7 +222,8 @@ Garda Siochana.
 
  Revised Draft Bye Laws
 
- Adoption by Elected Members of the Local Authority.---
+ Adoption by Elected Members of the Local Authority.
+---
 4
 
 The following items were raised at the completion of the Agenda:
@@ -269,4 +272,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

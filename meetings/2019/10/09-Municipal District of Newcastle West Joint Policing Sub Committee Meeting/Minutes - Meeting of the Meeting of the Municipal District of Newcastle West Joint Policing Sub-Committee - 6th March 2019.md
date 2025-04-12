@@ -66,7 +66,8 @@ the District and asked if a review of the locations could be undertaken. A discu
 
 and the Superintendent confirmed that the Road Safety Authority designate locations in areas
 
-close to accident blackspots. The locations are also available on the Garda website.---
+close to accident blackspots. The locations are also available on the Garda website.
+---
 2
 
 2. Policing Issues in the District
@@ -141,4 +142,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

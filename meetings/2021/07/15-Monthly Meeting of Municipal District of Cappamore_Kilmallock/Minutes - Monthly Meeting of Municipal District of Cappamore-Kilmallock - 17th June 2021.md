@@ -52,7 +52,8 @@ the minor works application for Kilmallock.
 
 Councillor Egan requested his motion from the April meeting on Rail Network upgrade be
 
-forwarded for the Agenda of the next full Council meeting from the District.---
+forwarded for the Agenda of the next full Council meeting from the District.
+---
 2
 
 2.Service Operations Directorate
@@ -103,7 +104,8 @@ Council widen the Ballycullane Road L8513, just to pair back the encroaching dit
 
 two on either side.”
 
-The motion was proposed by Councillor Carey, seconded by Councillor Donegan and agreed.---
+The motion was proposed by Councillor Carey, seconded by Councillor Donegan and agreed.
+---
 3
 
 **REPLY:**
@@ -168,7 +170,8 @@ contact the relevant landowners.
 
 works be carried out such as a staggered junction at Patrickswell Cross roads on the L1140
 
-Herbertstown to Holy Cross road.”---
+Herbertstown to Holy Cross road.”
+---
 4
 
 The motion was proposed by Councillor Teefy, seconded by Councillor Mitchell and agreed.
@@ -219,7 +222,8 @@ a national guidance document. If Councillor Mitchell could give specific concern
 
 identify locations where he feels there is a signage issue, we will review the signage to
 
-ensure it complies with National Policy.---
+ensure it complies with National Policy.
+---
 5
 
 6.Question submitted by Councillor Donegan
@@ -282,7 +286,8 @@ previous weekend.
 
  Councillor John Egan asked his thanks be communicated to the Waste Water crews
 
-who worked on the sewerage blockage in Murroe---
+who worked on the sewerage blockage in Murroe
+---
 6
 
  Councillor Donegan also raised the issue of the wall collapse on graves at Temple
@@ -339,4 +344,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

@@ -70,7 +70,8 @@ Cllr. Lisa Marie Sheehy.
 
 Cllr. Sheehy asked at the last meeting that the presentation from the Share a Dream
 
-Foundation would be given to the full Council Meeting. This is to be followed up.---
+Foundation would be given to the full Council Meeting. This is to be followed up.
+---
 **Item 3:**
 
 **Consideration of Draft Fire and Emergency Operations Plan under**
@@ -139,4 +140,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

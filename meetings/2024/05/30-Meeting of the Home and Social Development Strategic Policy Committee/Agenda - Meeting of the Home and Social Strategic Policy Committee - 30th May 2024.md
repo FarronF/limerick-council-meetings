@@ -30,4 +30,5 @@ Pipeline Delivery Update
 
 7. AOB
 
-Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council---
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

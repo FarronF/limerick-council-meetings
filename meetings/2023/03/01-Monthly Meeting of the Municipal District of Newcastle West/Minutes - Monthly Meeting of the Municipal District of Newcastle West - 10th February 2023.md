@@ -64,7 +64,8 @@ his work as a public representative and as a business man, his involvement in th
 
 his love of the Irish language.
 
-A minute’s silence and reflection was observed as a mark of respect.---
+A minute’s silence and reflection was observed as a mark of respect.
+---
 2
 
 1.
@@ -135,7 +136,8 @@ concerning proposal to dispose of land at rear of 13 Michael Hartnett Close, New
 
 Co. Limerick.
 
-Members noted the proposal.---
+Members noted the proposal.
+---
 3
 
 4.
@@ -196,7 +198,8 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 
 On the proposal of Councillor Sheahan, seconded by Councillor Collins, it was agreed to
 
-allocate €1,000 to Athea Hall.---
+allocate €1,000 to Athea Hall.
+---
 4
 
 ADJOURNED NOTICE OF MOTION
@@ -267,7 +270,8 @@ Focus Housing Association received funding approval in October 2022 to refurbish
 
 Maiden Street, Newcastle West as part of lot in the Newcastle West District. Legal transfers
 
-are underway at present.---
+are underway at present.
+---
 5
 
 Following an update from Focus Housing Association on the 1st February 2023, it is
@@ -342,7 +346,8 @@ the design works are progressing with a tender during quarter two of 2023.
 
 The layout of the Abbeyfeale Traffic Management Scheme is attached overleaf.
 
-**(c) Costings**---
+**(c) Costings**
+---
 6
 
 The estimated cost of the project is €15.5m. There is a commitment of funding from Transport
@@ -367,7 +372,8 @@ It is planned to award the advance works contract for demolition of O’Riordan�
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 7
 
 13.
@@ -444,7 +450,8 @@ These footpaths can be considered under the 2023 GMA program of works.
 
 In proposing the Motion, Councillor Scanlan referred to the poor condition of sections of the
 
-footpath at the Mass Path to Assumpta Park, Bóthar Bui Road and along St. Ita’s Road to---
+footpath at the Mass Path to Assumpta Park, Bóthar Bui Road and along St. Ita’s Road to
+---
 8
 
 junction with Beechwood Estate. In replying, the Executive Engineer stated that these
@@ -517,7 +524,8 @@ where vulnerable people live.
 
 ***I will move at the next Meeting that*** ***a disability bay be put in place down Whites Passage,***
 
-***Meenoline South next to the Greenway.***---
+***Meenoline South next to the Greenway.***
+---
 9
 
 The Motion was seconded by Councillor Sheahan.
@@ -586,7 +594,8 @@ An update was sought on Devon Road Cross and Dore’s Cross, Templeglantine. In 
 
 the Executive Engineer agreed to follow up with Transport Infrastructure Ireland on this
 
-matter.---
+matter.
+---
 10
 
 An extension of the footpath and public lighting on the Killarney Road towards Dalton’s Cross
@@ -635,4 +644,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

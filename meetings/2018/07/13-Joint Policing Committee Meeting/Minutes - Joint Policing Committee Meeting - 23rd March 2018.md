@@ -66,7 +66,8 @@ wished him well in his new role. The Chair congratulated Mr. Christy O’Connor,
 
 Executive Officer, on his promotion to the position of Director of Service, Kerry County
 
-Council.---
+Council.
+---
 2
 
 1.
@@ -133,7 +134,8 @@ Programme for 2018 and outlined the following:-
 
  Joint Policing Committee Strategy 2017 – 2021
 
- Joint Policing Committee Annual Work Plans---
+ Joint Policing Committee Annual Work Plans
+---
 3
 
 He stated that the four Strategic Themes identified in JPC Plan 2017-2021 were as
@@ -208,7 +210,8 @@ not been appointed. The Members felt Bruff Garda Station was under policed and a
 
 a result, burglary crime was rising. The Chief Superintendent stated that it was
 
-under the Commissioners remit to appointed staff.---
+under the Commissioners remit to appointed staff.
+---
 4
 
 Ms. Aoife Garrard, Community Co-Ordinator gave a Powerpoint presentation on her new
@@ -257,4 +260,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

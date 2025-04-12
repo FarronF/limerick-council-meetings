@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-12-16 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-16)**
+**<a href="https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-16" target="_blank">Link to meeting</a>**

@@ -68,7 +68,8 @@ Circulated, report of the Senior Executive Officer, Community Support Services d
 
 March, 2017 setting out proposals for the disposal of the Freehold Interest in dwellings set
 
-out below and the intention to bring the related Section 183 Notice to the full Council for---
+out below and the intention to bring the related Section 183 Notice to the full Council for
+---
 2
 
 approval.
@@ -153,7 +154,8 @@ Section 179(3) of the Planning and Development Act 2000 (as amended) and Part VI
 
 Planning and Development Regulations 2001 (as amended) and it was proposed to proceed
 
-in accordance with Section 5 of the report.---
+in accordance with Section 5 of the report.
+---
 3
 
 Members welcomed the proposed development as set out in the circulated report.
@@ -220,7 +222,8 @@ Further to consultation with Cluid Housing, the Approved Housing Body (AHB)
 
 developing the Hyde Road Flats, the completion of construction is
 
-programmed for October 2017.---
+programmed for October 2017.
+---
 4
 
 **NOTICES OF MOTION**
@@ -305,7 +308,8 @@ be in a position to consider the overall Corbally area and will incorporate
 
 appropriate cycling and walking infrastructure, where possible, as part of the
 
-flood relief scheme.---
+flood relief scheme.
+---
 5
 
 Members expressed dissatisfaction with the reply and stressed the extent of flooding that
@@ -380,7 +384,8 @@ The Motion was proposed by Councillor Gilligan and seconded by Councillor Daly.
 
 Members supported the Motion and noted the importance of preserving the records that
 
-had been retained in relation to Glin to facilitate any future investigation.---
+had been retained in relation to Glin to facilitate any future investigation.
+---
 6
 
 **13.**
@@ -453,7 +458,8 @@ following points while discussing same;
 
 intended to support a single or small number of large events;
 
-• The difference in funding granted by Fáilte Ireland to Galway compared to Limerick---
+• The difference in funding granted by Fáilte Ireland to Galway compared to Limerick
+---
 7
 
 should be explored further;
@@ -530,7 +536,8 @@ Members welcomed the proposed works and the fact that an access was being provid
 
 from the proposed roundabout to the adjacent GAA facilities.
 
-Mr. Bergen confirmed that consultation with landowners had taken place and anticipated---
+Mr. Bergen confirmed that consultation with landowners had taken place and anticipated
+---
 8
 
 that additional consultation would take place when the Part VIII was published. He noted
@@ -611,7 +618,8 @@ years. The Meetings Administrator emphasised the deadlines outlined in the reply
 
 undertook to bring the concerns of Members to Design and Delivery Services. The Mayor
 
-requested that the reply, as read out, be circulated to Members.---
+requested that the reply, as read out, be circulated to Members.
+---
 9
 
 **17.**
@@ -694,7 +702,8 @@ In seconding the Motion Councillor Collins stressed that he did not support the 
 
 of toxic waste within the community. He expressed disbelief at the assertions made by Irish
 
-Cement and disappointment that Irish Cement should threaten job losses, should the---
+Cement and disappointment that Irish Cement should threaten job losses, should the
+---
 10
 
 proposed development not go ahead. He noted that the Environmental Protection Agency
@@ -765,4 +774,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

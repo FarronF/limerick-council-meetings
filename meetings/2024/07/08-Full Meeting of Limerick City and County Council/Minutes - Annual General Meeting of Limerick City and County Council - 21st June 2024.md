@@ -84,7 +84,8 @@ The Labour Party
 
 Slattery, Catherine
 
-Fianna Fáil---
+Fianna Fáil
+---
 2
 
 Local Electoral Area – Limerick City North
@@ -245,7 +246,8 @@ Fine Gael
 
 Mayor Moran invited nominations for the Office of Príomh Chomhairleoir of Limerick City and
 
-County Council for the coming year.---
+County Council for the coming year.
+---
 3
 
 Proposed by Councillor Sheahan (J);
@@ -318,7 +320,8 @@ Seconded by Councillor Collins (M);
 
  Home and Social Development SPC – Councillor S. Keary.
 
- Community, Leisure and Culture SPC – Councillor F. Kilcoyne.”---
+ Community, Leisure and Culture SPC – Councillor F. Kilcoyne.”
+---
 4
 
 As there were no other nominations, the Príomh Chomhairleoir declared Councillors Teefy,
@@ -385,7 +388,8 @@ This item was deferred to the July Meeting.
 
 The Meetings Administrator stated that Limerick City and County Council was required to consider
 
-the appointment of 1 Member to the Library Association of Ireland.---
+the appointment of 1 Member to the Library Association of Ireland.
+---
 5
 
 Proposed by Councillor Sheahan (J);
@@ -450,7 +454,8 @@ The Meetings Administrator advised that these appointments were now covered by l
 
 with the Minister making the appointments. Consequently, the Council was no longer required to
 
-fill these positions.---
+fill these positions.
+---
 6
 
 **14.**
@@ -523,7 +528,8 @@ representatives to the Board of PAUL Partnership.”
 
 It was agreed that the appointment of a Member representing Limerick City East would be
 
-deferred to the July Meeting.---
+deferred to the July Meeting.
+---
 7
 
 **17.**
@@ -594,7 +600,8 @@ Board of St. John’s Hospital.”
 
 As there were no other nominations, the Príomh Chomhairleoir declared Mayor Moran and
 
-Councillor O’Hanlon appointed as the Council’s representatives to the Board of St. John’s Hospital.---
+Councillor O’Hanlon appointed as the Council’s representatives to the Board of St. John’s Hospital.
+---
 8
 
 **21.**
@@ -665,7 +672,8 @@ The Meetings Administrator stated that the Council was required to consider the 
 
 Member of Limerick City and County Council to the Board of Management of St. Munchins
 
-Community Development Company Limited.---
+Community Development Company Limited.
+---
 9
 
 Proposed by Councillor Sheahan (J);
@@ -732,7 +740,8 @@ As there were no other nominations, the Príomh Chomhairleoir declared Councillo
 
 Sheahan (J) and Benson appointed to the Audit and Risk Committee.
 
-It was agreed to defer the appointment of the third Member to the July Meeting.---
+It was agreed to defer the appointment of the third Member to the July Meeting.
+---
 10
 
 **28.**
@@ -793,7 +802,8 @@ Belltable.
 
 **LIMERIK 2030 STRATEGIC DEVELOPMENT DAC:**
 
-This item was deferred pending legal clarification.---
+This item was deferred pending legal clarification.
+---
 11
 
 **32.**
@@ -864,7 +874,8 @@ The Director General wished Mayor Moran, the Príomh Chomhairleoir, Leas-Phríom
 
 Chomhairleoir and all Members the very best of luck and said he looked forward to working with
 
-them in the future.---
+them in the future.
+---
 12
 
 This concluded the Meeting.
@@ -877,4 +888,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

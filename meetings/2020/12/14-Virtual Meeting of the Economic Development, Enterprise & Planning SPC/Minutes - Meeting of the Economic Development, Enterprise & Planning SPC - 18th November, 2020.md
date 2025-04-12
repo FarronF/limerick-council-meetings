@@ -70,7 +70,8 @@ The report sets out a five guiding principles in supporting the SME sector;
 
  Successful SMEs need to be financially resilient
 
-A number of recommendations with short and medium actions were laid out in the Report---
+A number of recommendations with short and medium actions were laid out in the Report
+---
 1. *Make supporting SMEs a key priority for the local economy*. Actions include the
 
 mapping of all businesses across Limerick; regular reporting on SME performance
@@ -153,7 +154,8 @@ market can be satisfied by local people.
 
 On the proposal of Cllr B Collins and seconded by Cllr J Scanlan it was agreed unanimously to accept
 
-the recommendations as set out in the plan. It was further agreed that the Limerick City & County---
+the recommendations as set out in the plan. It was further agreed that the Limerick City & County
+---
 Council would forward their endorsement of the Plan to the National SME Growth Task Force for
 
 their consideration**.**
@@ -184,4 +186,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

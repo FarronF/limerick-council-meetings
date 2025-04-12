@@ -74,7 +74,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -139,7 +140,8 @@ Structure status on the J.C. Daly property and the suggested removal of this sta
 
 property. Following a brief discussion on these properties, the Staff Officer, Property Services
 
-agreed to revert to the Members with an update on these properties.---
+agreed to revert to the Members with an update on these properties.
+---
 3
 
 5.
@@ -204,7 +206,8 @@ that drawdown of funds is carried out in a timely manner.
 
 Following discussion, the Members wished to consider this matter further and revert at the
 
-September Meeting of the District.---
+September Meeting of the District.
+---
 4
 
 QUESTIONS
@@ -283,7 +286,8 @@ REPLY:
 
 Limerick City and County Council will locate a disability bay in the carpark
 
-across from the Church subject to agreement.---
+across from the Church subject to agreement.
+---
 5
 
 10.
@@ -356,7 +360,8 @@ Uisce Éireann is progressing plans to end the discharge of untreated sewage fro
 
 Limerick, to the Shannon Estuary. This important project involves the construction of a new
 
-wastewater treatment plant and sewerage infrastructure including a pumping station and---
+wastewater treatment plant and sewerage infrastructure including a pumping station and
+---
 6
 
 sewer pipelines. These essential works will ensure compliance with national and EU
@@ -419,7 +424,8 @@ Road markings are due to be inserted at this location in the coming week.
 
 In proposing the Motion, Councillor Scanlan referred to the speed of traffic on the R522 at
 
-Killeline and to the speed indicator sign on this roadway. In replying, the Executive Engineer---
+Killeline and to the speed indicator sign on this roadway. In replying, the Executive Engineer
+---
 7
 
 stated that road markings are to be installed at this location shortly and the speed indicator
@@ -486,7 +492,8 @@ calming measures in housing estates and villages in the District.
 
 ***I will move at the next Meeting that*** ***Páirc Luachra housing estate be resurfaced and***
 
-***speed ramps installed as a matter of urgency in the interest of safety.***---
+***speed ramps installed as a matter of urgency in the interest of safety.***
+---
 8
 
 The Motion was seconded by Councillor Foley.
@@ -559,7 +566,8 @@ at Marian Place Housing Estate and Corbry Housing Estate in Glin. He referred to
 
 of the Ambulance Service and the Fire Service having safe access within Marian Place in Glin
 
-and to the recently developed Glin Rovers Soccer pitch at Corbry estate. Councillor Sheahan---
+and to the recently developed Glin Rovers Soccer pitch at Corbry estate. Councillor Sheahan
+---
 9
 
 requested that a Part VIII planning application for additional car parking spaces be piloted at
@@ -612,4 +620,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-04-22 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-online-briefing-members-metropolitan-district-limerick-st-pauls-safe)**
+**<a href="https://www.limerick.ie/council/whats-on/private-online-briefing-members-metropolitan-district-limerick-st-pauls-safe" target="_blank">Link to meeting</a>**

@@ -58,7 +58,8 @@ Seconded by Councillor Secas;
 
 “That, Mr. Padraigh Reale, Garryowen, Limerick, be co-opted to the Council to fill the
 
-casual vacancy consequent on the election of Councillor Conor Sheehan to Dáil Éireann.”---
+casual vacancy consequent on the election of Councillor Conor Sheehan to Dáil Éireann.”
+---
 2
 
 As there were no other nominations, the Príomh Chomhairleoir declared Mr. Padraigh
@@ -131,7 +132,8 @@ Councillor Joe Leddin would be the replacement Chair-Designate of the Climate Ac
 
 Biodiversity and Environment Strategic Policy Committee consequent to the election of
 
-Councillor Conor Sheehan to Dáil Éireann.---
+Councillor Conor Sheehan to Dáil Éireann.
+---
 3
 
 On the proposal of Councillor Hickey-O’Mara seconded by Councillor Benson it was
@@ -198,7 +200,8 @@ Hartigan (S), Hartigan (T), Keary, Kiely, Kilcoyne, Leddin, McSweeney, Mayor Mor
 
 O’Donoghue, O’Hanlon, O’Sullivan (O), O’Sullivan (T), Pond, Reale, Ryan (E), Ryan (M),
 
-Scanlan, Secas, Sheahan, Slattery, Stokes, Talukder, Teefy, Teskey, Ward. **(34)**---
+Scanlan, Secas, Sheahan, Slattery, Stokes, Talukder, Teefy, Teskey, Ward. **(34)**
+---
 4
 
 **For Councillor Hickey-O’Mara**
@@ -257,7 +260,8 @@ McSweeney, O’Sullivan (O), O’Donoghue, Donoghue, Scanlan, Reale, Gavan, Bens
 
 Councillors Leddin, O’Hanlon, Pond, Collins (B), Foley, Kiely, Galvin, Stokes, Sheahan,
 
-Hartigan (S), Hartigan (T), Ryan (E), Daly, Secas, Hickey-O’Mara, Carey.---
+Hartigan (S), Hartigan (T), Ryan (E), Daly, Secas, Hickey-O’Mara, Carey.
+---
 5
 
 **Travel and Transportation**
@@ -338,7 +342,8 @@ And Resolved:
 
 “That, the approval of the Council be and is hereby given to Sectoral Nominations to
 
-Strategic Policy Committees as set out below:---
+Strategic Policy Committees as set out below:
+---
 6
 
 **Trade Union**
@@ -397,7 +402,8 @@ Strategic Policy Committees as set out below:---
 
 **Community, Leisure, Arts, Heritage and Culture**
 
- Khurram Iqbal, Limerick Migrants Forum---
+ Khurram Iqbal, Limerick Migrants Forum
+---
 7
 
 The Príomh Chomhairleoir concluded the meeting by wishing everyone a Happy Christmas
@@ -414,4 +420,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

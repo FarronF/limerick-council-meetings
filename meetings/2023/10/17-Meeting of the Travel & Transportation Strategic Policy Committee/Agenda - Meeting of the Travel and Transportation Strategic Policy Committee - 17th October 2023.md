@@ -29,7 +29,8 @@ set out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -56,4 +57,5 @@ implement a public engagement policy which sets out best practice for engagement
 
 with local stakeholders when this district is advancing Part 8 Planning Applications and
 
-Section 38s.---
+Section 38s.
+---

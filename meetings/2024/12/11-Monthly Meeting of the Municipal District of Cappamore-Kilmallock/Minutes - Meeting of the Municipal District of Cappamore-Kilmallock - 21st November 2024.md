@@ -52,7 +52,8 @@ Cappamore-Kilmallock held on 17th October, 2024.
 
 **And Resolved:**
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2. Matters Arising
 
 Councillor Teefy (B) referred her previous representations on Driver Feedback signs and
@@ -113,7 +114,8 @@ reflect current times for commencement and closing of District meetings.
 
 The Meetings Administrator confirmed this was an administrative error and Corporate
 
-Services would be advised to amend Standing Orders accordingly.---
+Services would be advised to amend Standing Orders accordingly.
+---
 The Standing Orders were unanimously agreed by all Elected Members
 
 And Resolved:
@@ -160,7 +162,8 @@ scheme and its success in local communities to date.
 
 The Elected Members then thanked David O’Grady and Brian Mackey for a very informative
 
-presentation.---
+presentation.
+---
 NOTICES OF MOTION
 
 7. Notice of Motion submitted by Councillor Conway
@@ -207,7 +210,8 @@ was adopted earlier this year
 
 **Proposed: Councillor M. Ryan**
 
-**Seconded: Councillor** **O’Sullivan**---
+**Seconded: Councillor** **O’Sullivan**
+---
 9. Notice of Motion submitted by Councillor Teefy
 
 “I will move at the next meeting of the Cappamore-Kilmallock Municipal District that the
@@ -256,7 +260,8 @@ Policy that was adopted earlier this year.
 
 **Proposed: Councillor Carey**
 
-**Seconded: Councillor M. Ryan**---
+**Seconded: Councillor M. Ryan**
+---
 QUESTIONS
 
 11.
@@ -321,7 +326,8 @@ to allow the project to proceed. The Design Team is preparing a tender pack for 
 
 a contractor can be procured and appointed to carry out the work. It is planned to have this
 
-tender ready before the end of December and issued in January 2025.---
+tender ready before the end of December and issued in January 2025.
+---
 12.
 
 Question submitted by Councillor M. Ryan
@@ -388,7 +394,8 @@ infrastructure implemented to allow the village of Ballyorgan to develop.
 
 Councillor O’Sullivan (T) also told the meeting he would like to see an increase in Active
 
-travel funding for the District of Cappamore-Kilmallock.---
+travel funding for the District of Cappamore-Kilmallock.
+---
 Councillor Stokes (N) requested an update on the bin waiver scheme and was advised
 
 scheme for 2025 is not active at present but would be in the coming weeks.
@@ -413,4 +420,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -58,7 +58,8 @@ RESUMPTION OF MEETING:
 
 Following the conclusion of the Ordinary Meeting of the Council, the Special Meeting resumed
 
-with Item No. 1 on the agenda.---
+with Item No. 1 on the agenda.
+---
 2
 
 1.CLOSURE OF AER LINGUS CABIN CREW BASE AT SHANNON AIRPORT:
@@ -133,7 +134,8 @@ He was also calling for the fast-tracking of the appointment of a new Chairperso
 
 Shannon Group as it had been without one now for nine months in the biggest crisis for
 
-aviation ever in Ireland and this appointment needed to be in place as a matter of urgency.---
+aviation ever in Ireland and this appointment needed to be in place as a matter of urgency.
+---
 3
 
 The Members then spoke in turn and the following additional points were made by them in
@@ -194,4 +196,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

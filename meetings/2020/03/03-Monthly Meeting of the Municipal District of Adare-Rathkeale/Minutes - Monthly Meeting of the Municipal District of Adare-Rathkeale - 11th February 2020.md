@@ -66,7 +66,8 @@ And Resolved:
 
 today’s date, in accordance with the provisions of Section 19 of the Planning and
 
-Development Act 2000 (Amended)”.---
+Development Act 2000 (Amended)”.
+---
 2
 
 **(b)**
@@ -139,7 +140,8 @@ And Resolved;
 
 “That the Part 8 report, as circulated, be adopted in accordance with Section 179 (4) (b)
 
-of the Planning and Development Act 2000 (as amended)”.---
+of the Planning and Development Act 2000 (as amended)”.
+---
 3
 
 **1.**
@@ -214,7 +216,8 @@ informed that when the dereliction process is complete the Council can then look
 
 options for the estate. Councillor Teskey requested a process be put in place for
 
-Councillors to make representations in relation to Housing queries. The Director, Housing---
+Councillors to make representations in relation to Housing queries. The Director, Housing
+---
 4
 
 Development agreed to examine this request and revert to the elected Members in due
@@ -283,7 +286,8 @@ allocate the following:
 
  €4,000 for Askeaton Tennis Club.
 
- €1,500 for Dernish Avenue Residents Association, Foynes.---
+ €1,500 for Dernish Avenue Residents Association, Foynes.
+---
 5
 
 On the proposal of Councillor Sheahan, seconded by Councillor Keary, it was agreed to
@@ -362,7 +366,8 @@ The public lighting section will assess the current lighting levels at Colasite
 
 na Trócaire Rathkeale and arrange to meet on site with Councillor A.
 
-Teskey.---
+Teskey.
+---
 6
 
 **10.**
@@ -437,7 +442,8 @@ Councillor Sheahan advised on missing signage at Ballysteen and asked for an upd
 
 the matter. The Senior Executive Engineer informed Councillor Sheahan replacement
 
-signage will be erected.---
+signage will be erected.
+---
 7
 
 Councillor Keary proposed a submission be made to An Bord Pleanala on the Limerick –
@@ -464,4 +470,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

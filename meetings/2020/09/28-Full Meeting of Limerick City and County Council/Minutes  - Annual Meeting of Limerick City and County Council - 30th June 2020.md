@@ -66,7 +66,8 @@ over the previous twelve months for their support. He then gave the following ad
 
 ***the 12 months. All very strong figures. The Gardens International Building was officially***
 
-***opened and almost 100 per cent let. Troy Studios was at capacity. The two other tentpole***---
+***opened and almost 100 per cent let. Troy Studios was at capacity. The two other tentpole***
+---
 2
 
 ***projects of Limerick 2030 Project Opera and Cleeves were progressing, so much so that***
@@ -137,7 +138,8 @@ over the previous twelve months for their support. He then gave the following ad
 
 ***have not let you down - I tried to do my best to represent Limerick as well as I could. Thank***
 
-***you again.**”***---
+***you again.**”***
+---
 3
 
 The outgoing Deputy, Mayor Teskey, then gave the following address:
@@ -202,7 +204,8 @@ Seconded by Councillor Leddin;
 
 “That, Councillor Seán Hartigan be appointed Mayor of the City and County of Limerick
 
-to hold office to the next Annual Meeting or until his successor is appointed.”---
+to hold office to the next Annual Meeting or until his successor is appointed.”
+---
 4
 
 A vote was taken which resulted as follows:
@@ -265,7 +268,8 @@ address:
 
 ***all. I pledge to be fair, approachable and considerate to all my colleagues and officials over***
 
-***the next 12 months.***---
+***the next 12 months.***
+---
 5
 
 ***I would like to thank my family, and in particular my wife Fiona, for all their support over***
@@ -346,7 +350,8 @@ address:
 
 ***year.*** ***Limerick’s Local Community Development Committee grant funded €2.2 million in***
 
-***SICAP funding, which assists groups and initiatives helping to reduce poverty and promote***---
+***SICAP funding, which assists groups and initiatives helping to reduce poverty and promote***
+---
 6
 
 ***social inclusion and equality. A hugely proactive LEADER programme has funded 29 projects***
@@ -419,7 +424,8 @@ address:
 
 ***Over the next twelve months, I will work for the betterment of Limerick. I am humbled by***
 
-***and looking forward to the challenges ahead. Go raibh maith aga**ibh go leir.”***---
+***and looking forward to the challenges ahead. Go raibh maith aga**ibh go leir.”***
+---
 7
 
 2.
@@ -486,7 +492,8 @@ The incoming Deputy Mayor, Councillor Talukder, then addressed the Meeting:
 
 ***to the Limerick people who chose me as a Councillor*** ***–*** ***someone from a different background***
 
-***- beyond their colour, ethnicity and religion.***---
+***- beyond their colour, ethnicity and religion.***
+---
 8
 
 ***I would like to take this opportunity to extend my deep condolences to Limerick families***
@@ -561,7 +568,8 @@ The incoming Deputy Mayor, Councillor Talukder, then addressed the Meeting:
 
 ***I look forward to supporting Councillor Michael Collins in his role as Mayor and I wish him***
 
-***well in the year ahead. Thank you very much.”***---
+***well in the year ahead. Thank you very much.”***
+---
 9
 
 The Members welcomed the guests who were present in the Council Chamber. They
@@ -606,4 +614,5 @@ Signed:
 
 Mayor
 
-Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

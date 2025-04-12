@@ -56,7 +56,8 @@ refurbishment and renovation of the Kilfinane Market House held on 1st February
 
 **And Resolved:**
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2. Matters Arising
 
 There were no matters arising.
@@ -109,7 +110,8 @@ and on public display until the 1st March. Depending on submissions received, th
 
 would be put on the agenda of the full Council meeting in March or May for consideration and
 
-adoption by the Elected Members. This was noted by the Elected Members.---
+adoption by the Elected Members. This was noted by the Elected Members.
+---
 A query was raised in relation to whether a bus stop at Holycross would be possible. The issue
 
 of safety regarding buses stopping here was highlighted. The Senior Executive Engineer and
@@ -182,7 +184,8 @@ example.
 
 Notice of Motion submitted by Councillor Martin Ryan deferred to
 
-March Meeting---
+March Meeting
+---
 NOTICES OF MOTION
 
 9.Notice of Motion submitted by Councillor Carey
@@ -239,7 +242,8 @@ approval. If the proposed reduced speed limit is adopted, the Municipal District
 
 assess the pedestrian crossing movements and if warranted, a design will prepared and a
 
-funding submission made to the relevant funding authority.---
+funding submission made to the relevant funding authority.
+---
 11.Notice of Motion submitted by Councillors Donegan
 
 “I will move at the next meeting of the Municipal District of Cappamore-Kilmallock that
@@ -296,7 +300,8 @@ Ash Hill estate. With respect to Ash Hill specifically, the Roads Maintenance Te
 
 scheduling minor drainage works in the estate to relieve surface water ponding at the rear
 
-of the estate. It is expected that these works will be carried out shortly.---
+of the estate. It is expected that these works will be carried out shortly.
+---
 14.Question submitted by Councillor Donegan
 
 “I will ask at the next meeting of the Cappamore-Kilmallock Municipal District when the
@@ -349,7 +354,8 @@ the Part 8 project be approved, the Municipal District office and the Active Tra
 
 make a submission to the NTA for funding.
 
-**The Questions were taken as read.**---
+**The Questions were taken as read.**
+---
 Any Other Business
 
 **Votes of Sympathy**
@@ -416,7 +422,8 @@ Sean Coughlan well on his departure from Limerick City and County Council and in
 
 role. The Elected Members complimented his professionalism and thanked him for his
 
-support when Director of Services of the Municipal District.---
+support when Director of Services of the Municipal District.
+---
 **Parking**
 
 Parking in Kilfinane was discussed. It was acknowledged that the Local Authority were aware
@@ -443,4 +450,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -74,7 +74,8 @@ vulnerable. He stressed the importance of adopting a unified scheme in line with
 
 budget adopted by the Members. He cautioned the Members that the longer the two
 
-schemes continued, the higher the risk of running out of funding.---
+schemes continued, the higher the risk of running out of funding.
+---
 **2**
 
 The Mayor then invited the Director of Environment and Water to present an
@@ -145,7 +146,8 @@ provider, in the City, would continue to provide a service until the end of Apri
 
 added that both householders and the service provider would be notified of these
 
-arrangements.---
+arrangements.
+---
 **3**
 
 He outlined the benefits of the voucher scheme which, he said, included the
@@ -204,7 +206,8 @@ County of Limerick for the year 2014 would be maintained for 2015.
 
 The Chief Executive stated that he would have to obtain legal advice on the matters
 
-raised.---
+raised.
+---
 **4**
 
 Prior to the conclusion of the Meeting and with the permission of the Mayor, a Vote
@@ -221,4 +224,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

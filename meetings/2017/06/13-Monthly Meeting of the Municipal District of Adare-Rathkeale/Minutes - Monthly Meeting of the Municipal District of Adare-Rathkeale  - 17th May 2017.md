@@ -68,7 +68,8 @@ the near future.
 
 Circulated, copy of draft Minutes of Special Meeting of the Municipal District of Adare-
 
-Rathkeale held on 27th April, 2017.---
+Rathkeale held on 27th April, 2017.
+---
 2
 
 Proposed by Councillor O’Donoghue;
@@ -139,7 +140,8 @@ in moving the proposals forward.
 
 The Cathaoirleach thanked the Deputation for their input and requested that they keep the
 
-District Members informed of progress within the coming months.---
+District Members informed of progress within the coming months.
+---
 3
 
 **3.**
@@ -214,7 +216,8 @@ Members thanked the Head of Digital Strategy for his presentation and stressed t
 
 the system would bring to crime prevention and detection in the District. Members noted the
 
-importance of controlling access to the system and discussed the importance of ensuring that---
+importance of controlling access to the system and discussed the importance of ensuring that
+---
 4
 
 any future public lighting installed or upgraded would have the facility to accommodate CCTV
@@ -291,7 +294,8 @@ Circulated, report of the A/Senior Executive Engineer, West Division Operations 
 
 2017 giving an update on proposals to address flooding issues at Foynes, Askeaton and
 
-Ballysteen.---
+Ballysteen.
+---
 5
 
 The A/Senior Executive Engineer, West Division Operations noted that, while a lowest
@@ -364,7 +368,8 @@ Facilitator in this regard.
 
 A Notice under Section 8(7) of the Derelict Sites Act, 1990 has been served on
 
-the property, entering it on the Council’s Derelict Sites Register.---
+the property, entering it on the Council’s Derelict Sites Register.
+---
 6
 
 **13.**
@@ -441,7 +446,8 @@ The Council is actively following up on illegal waste/dumping in the Ballywillia
 
 area, Rathkeale and has initiated legal proceedings under the Waste
 
-Management Act.---
+Management Act.
+---
 7
 
 **NOTICES OF MOTION**
@@ -524,7 +530,8 @@ Should this project progress it will provide funding for part of the Sewer.
 
 proposed road Scheme will not be undertaken until such time as the issue of
 
-Foul Sewer provision along this section of the N21 has been resolved.---
+Foul Sewer provision along this section of the N21 has been resolved.
+---
 8
 
 Members noted proposals in relation to the sewer and discussed the potential to carry out
@@ -599,7 +606,8 @@ earlier in the year.
 
 **Correspondence**
 
-Correspondence was noted.---
+Correspondence was noted.
+---
 9
 
 At the conclusion of the Agenda the following points were raised by Members with the
@@ -652,4 +660,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

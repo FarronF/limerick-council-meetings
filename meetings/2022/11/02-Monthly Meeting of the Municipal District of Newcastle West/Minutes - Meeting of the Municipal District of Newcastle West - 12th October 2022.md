@@ -72,7 +72,8 @@ Administrator in advance of the Meeting.
 
 The importance of showing respect and courtesy to colleagues and local authority employees
 
-was also raised.---
+was also raised.
+---
 2
 
 1.
@@ -149,7 +150,8 @@ The Members expressed satisfaction and following a brief discussion, it was prop
 
 resolution to proceed with the development as described in the Chief Executive’s Report of
 
-August 29th 2022, prepared in accordance with Section 179 3(a) of the Planning and---
+August 29th 2022, prepared in accordance with Section 179 3(a) of the Planning and
+---
 3
 
 Development Act 2000 (as amended) but to include the following variation in the interest of
@@ -212,7 +214,8 @@ On the proposal of Councillor Foley, seconded by Councillor Sheahan, it was agre
 
 On the proposal of Councillor Collins, seconded by Councillor Ruddle, it was agreed to allocate
 
-€3,000 to Newcastle West GAA public lighting.---
+€3,000 to Newcastle West GAA public lighting.
+---
 4
 
 On the proposal of Councillor Collins, seconded by Councillor Sheahan, it was agreed to
@@ -271,7 +274,8 @@ number of hedge cutting notices issued in the District. In replying, the Executi
 
 Engineer referred to the number of hedge cutting notices issued and stated that he would
 
-also be following up on blackspot areas in the District.---
+also be following up on blackspot areas in the District.
+---
 5
 
 7.
@@ -334,7 +338,8 @@ Question submitted by Councillor J. Scanlan
 
 REPLY:
 
-A site meeting will be arranged to discuss further safety measures.---
+A site meeting will be arranged to discuss further safety measures.
+---
 6
 
 NOTICES OF MOTION
@@ -423,7 +428,8 @@ DS-040-
 
 Limerick
 
-On Derelict Sites Register---
+On Derelict Sites Register
+---
 7
 
 DS-043-
@@ -650,7 +656,8 @@ DS-074-
 
 Convent Road, Abbeyfeale
 
-Open derelict sites case---
+Open derelict sites case
+---
 8
 
 DS-075-
@@ -751,7 +758,8 @@ New Street, Abbeyfeale, Co. Limerick
 
  DS-119-19
 
-Convent Road, Abbeyfeale Co. Limerick---
+Convent Road, Abbeyfeale Co. Limerick
+---
 9
 
 The former Convent of Mercy in Abbeyfeale is on the market for sale by the owner. As it
@@ -816,7 +824,8 @@ provider of the facility. He stated that Limerick City and County Council have a
 
 place for the operation and maintenance of this facility and a notice is applicable to break the
 
-contract.---
+contract.
+---
 10
 
 14. Notice of Motion submitted by Councillor J. Scanlan
@@ -881,7 +890,8 @@ In replying, the Senior Engineer stated that the above properties are included i
 
 Refurbishment Programme and gave a comprehensive overview of the current situation with
 
-regard to these properties.---
+regard to these properties.
+---
 11
 
 He also agreed to seek clarification on a query raised with regard to the passing of some of
@@ -946,5 +956,7 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
-12---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
+12
+---

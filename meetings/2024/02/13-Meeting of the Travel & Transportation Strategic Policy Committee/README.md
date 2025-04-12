@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-02-13 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-travel-transportation-strategic-policy-committee-4)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-of-the-travel-transportation-strategic-policy-committee-4" target="_blank">Link to meeting</a>**

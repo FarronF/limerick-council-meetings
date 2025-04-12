@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-03-03 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-17)**
+**<a href="https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-17" target="_blank">Link to meeting</a>**

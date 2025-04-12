@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-11-17 18:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/municipal-district-cappamore-kilmallock-reception-thursday-17th-november-2022-6pm)**
+**<a href="https://www.limerick.ie/council/whats-on/municipal-district-cappamore-kilmallock-reception-thursday-17th-november-2022-6pm" target="_blank">Link to meeting</a>**

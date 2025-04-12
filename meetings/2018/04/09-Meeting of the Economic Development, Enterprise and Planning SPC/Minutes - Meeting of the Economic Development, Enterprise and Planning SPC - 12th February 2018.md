@@ -96,7 +96,8 @@ Council at its January Meeting. All relevant Departments have been advised of th
 
 policy statement and will factor same into any discussions/agreements with
 
-organisers of food related events.---
+organisers of food related events.
+---
 **Item 3**
 
 To consider adjourned Notice of Motion referred from full Council meeting on the 22nd
@@ -187,7 +188,8 @@ Update on Limerick for IT Initiative – Presentation by Dr. Janice O’Connell
 
 Key issues covered in the presentation included:
 
- IT Talent Acquisition---
+ IT Talent Acquisition
+---
  Develop IT business Ecosystem
 
  New Business Spin out/in
@@ -242,4 +244,5 @@ This concluded the business of the meeting
 
 **Councillor Vivienne Crowley**
 
-Chairperson---
+Chairperson
+---

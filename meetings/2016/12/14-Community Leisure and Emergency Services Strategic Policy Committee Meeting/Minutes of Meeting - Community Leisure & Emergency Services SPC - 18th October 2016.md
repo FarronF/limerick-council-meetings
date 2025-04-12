@@ -72,7 +72,8 @@ Cllr. Teefy queried the possibility of rotating the meetings between City and Co
 
 to the issue with finding car parking.
 
- This was agreed by the committee.---
+ This was agreed by the committee.
+---
 **Item 3:**
 
 **Consideration of Draft Fire and Emergency Operations Plan under**
@@ -157,7 +158,8 @@ could see the database and also visit the Control Centre.
 
 **Proposed: Cllr. K. Sheehan**
 
-**Seconded: Cllr. S. Lynch**---
+**Seconded: Cllr. S. Lynch**
+---
 **Item 4:**
 
 **Update on Suicide Strategy**
@@ -222,4 +224,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

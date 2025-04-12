@@ -50,7 +50,8 @@ held on the 5th July, 2018.
 
 (Copy enclosed)
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 2.
@@ -111,4 +112,5 @@ Notice of Motion submitted by Councillor Sheehy
 
 I will move at the next meeting that Limerick City & County Council immediately erect a
 
-stop sign and put lining at L8566 Cush Crossroads.---
+stop sign and put lining at L8566 Cush Crossroads.
+---

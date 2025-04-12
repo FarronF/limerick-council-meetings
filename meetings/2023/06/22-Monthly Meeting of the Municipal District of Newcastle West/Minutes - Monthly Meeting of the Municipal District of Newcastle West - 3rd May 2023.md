@@ -80,7 +80,8 @@ Circulated, report of Head of Property and Community Facilities, dated 20th
 
 April, 2023, concerning proposal to dispose of property at 16 Hawthorn
 
-Drive, Newcastle West, Co. Limerick.---
+Drive, Newcastle West, Co. Limerick.
+---
 2
 
 Members noted the proposal.
@@ -151,7 +152,8 @@ When the estate is fully taken in charge, Limerick City and County Council will
 
 install 30km speed limit signage. Limerick City and County Council do not have
 
-the budgetary allocation to implement traffic calming at this stage.---
+the budgetary allocation to implement traffic calming at this stage.
+---
 3
 
 5.
@@ -230,7 +232,8 @@ Question submitted by Councillor J. Scanlan
 
 ***I will ask at the next Meeting*** ***for an update on car parking arrangements to complement***
 
-***our Greenway Facilities at Newcastle West.***---
+***our Greenway Facilities at Newcastle West.***
+---
 4
 
 REPLY:
@@ -307,7 +310,8 @@ REPLY:
 
 Limerick City and County Council have included this traffic calming measure as
 
-part of the NTA works which is due to commence shortly.---
+part of the NTA works which is due to commence shortly.
+---
 5
 
 NOTICES OF MOTION
@@ -374,7 +378,8 @@ the proposed works.
 
 **to keep their dogs secured on leads when in a public area.**
 
-The Motion was seconded by Councillor Scanlan.---
+The Motion was seconded by Councillor Scanlan.
+---
 6
 
 REPLY:
@@ -439,7 +444,8 @@ In proposing the Motion, Councillor Galvin stated that the new playground is at 
 
 the car park and that access to the new playground is through the car park. He requested
 
-that the playground be insured under the Council’s portfolio and that clarification be sought---
+that the playground be insured under the Council’s portfolio and that clarification be sought
+---
 7
 
 on having the car park insured also. It was agreed that the Meetings Administrator would
@@ -514,7 +520,8 @@ The Executive Engineer, Roads, gave an update to the Members on the proposed ins
 
 of double yellow lines at Gortboy, Newcastle West, and to drawings which have recently been
 
-prepared.---
+prepared.
+---
 8
 
 Reference was made to the turning count survey on Dore’s Cross and to a feasibility report
@@ -573,4 +580,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

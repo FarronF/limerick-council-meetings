@@ -74,7 +74,8 @@ West, held on 1st March, 2023.
 
 Proposed by: Councillor Foley
 
-Seconded by: Councillor Scanlan---
+Seconded by: Councillor Scanlan
+---
 2
 
 And Resolved:
@@ -145,7 +146,8 @@ the Schedule. They noted the works proposed for 2023 and referred to the funding
 
 made available for the various projects, which was also welcomed. They also noted that the
 
-works proposed in the Schedule was well distributed throughout the District.---
+works proposed in the Schedule was well distributed throughout the District.
+---
 3
 
 The Members referred to the funding made available for the N21 Newcastle West and
@@ -224,7 +226,8 @@ which is to be brought to the Working Group. He stated that the culvert in Grove
 
 to be reviewed as part of the scheme. He made reference to landowner agreements which
 
-are currently in progress and to a Tender which is to be issued in Quarter 2 2023. He outlined---
+are currently in progress and to a Tender which is to be issued in Quarter 2 2023. He outlined
+---
 4
 
 to the Members the funding made available for the project and to potential funding which is
@@ -293,7 +296,8 @@ allocate €1,250 to defibrillator in Templeglantine.
 
 On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agreed to allocate
 
-€2,000 to Tournafulla GAA.---
+€2,000 to Tournafulla GAA.
+---
 5
 
 On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agreed to allocate
@@ -340,7 +344,8 @@ All the Members noted that the monies allocated to Tournafulla GAA is given on t
 
 that it will be used for community facilities and that the money is not over allocated for the
 
-works required.---
+works required.
+---
 6
 
 QUESTIONS
@@ -489,7 +494,8 @@ follows:
 
 **3**
 
-**0**---
+**0**
+---
 7
 
 **Feenagh**
@@ -642,7 +648,8 @@ recommended option. As an improvement measure, signage was installed on the R515
 
 Dore’s Cross and are currently developing a feasibility report for submission to TII. This
 
-feasibility report will look at a number of potential improvements at the junction and aim---
+feasibility report will look at a number of potential improvements at the junction and aim
+---
 8
 
 to identify a preferred option. Assuming this report is accepted by TII, we will then
@@ -715,7 +722,8 @@ Submissions received have been considered and will be reflected in the Public Re
 
 Dromcollogher Town. The intention is to have the Plan brought to the Newcastle West
 
-Municipal District Meeting for publication in Quarter 2 of this year.---
+Municipal District Meeting for publication in Quarter 2 of this year.
+---
 9
 
 12.
@@ -776,7 +784,8 @@ it was agreed that the Senior Executive Engineer would revert to Councillor Galv
 
 matter.
 
-15. Notice of Motion submitted by Councillor J. Scanlan---
+15. Notice of Motion submitted by Councillor J. Scanlan
+---
 10
 
 ***I will move at the next Meeting that this Local Authorities vacancy and dereliction section***
@@ -841,7 +850,8 @@ published by the TII on Greenway crossings and following discussion it was agree
 
 drawings would be prepared and a submission made to the TII for a Road Safety Audit to be
 
-carried out at this location.---
+carried out at this location.
+---
 11
 
 An update was sought on a one way system for Scanlan’s Lane, Newcastle West towards
@@ -884,4 +894,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

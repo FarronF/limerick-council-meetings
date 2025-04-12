@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-06-25 17:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-cappamore-kilmallock)**
+**<a href="https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-cappamore-kilmallock" target="_blank">Link to meeting</a>**

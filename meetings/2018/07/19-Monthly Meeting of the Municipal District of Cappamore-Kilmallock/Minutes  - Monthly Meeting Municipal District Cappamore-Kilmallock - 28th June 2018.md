@@ -70,7 +70,8 @@ certain comments I made about a solicitor in Newcastlewest, whom the Limerick Le
 
 subsequently named as Rossa McMahon. I acknowledge that these comments unfairly
 
-characterised his concerns about the CCTV scheme.---
+characterised his concerns about the CCTV scheme.
+---
 2
 
 I accept that I unfairly suggested that he had an untoward motive, that he stood to profit
@@ -141,7 +142,8 @@ The Members thanked the Director of Services for his presentation but noted the 
 
 generated in areas other than road traffic, which were also a source of major nuisance and
 
-concern for the general public.---
+concern for the general public.
+---
 3
 
 Consideration and Adoption of the Draft Municipal District of
@@ -224,7 +226,8 @@ the junction improvement works currently being proposed.
 
 The Elected Members highlighted the fact that there had been significant engagement by
 
-the community in Caherconlish in the original Part 8 proposals and stressed the importance---
+the community in Caherconlish in the original Part 8 proposals and stressed the importance
+---
 4
 
 of re-engaging with the local community to update them on what works would now be
@@ -295,7 +298,8 @@ of August 2018.
 
 The Elected Members expressed disappointment at the fact that the full-time general
 
-operative who had been based in Bruff and who had recently retired, was not being---
+operative who had been based in Bruff and who had recently retired, was not being
+---
 5
 
 replaced by a full time person. They were concerned at the impact this would have on the
@@ -364,7 +368,8 @@ Herbertstown, Co. Limerick following his recent passing.
 
 
 
-Appointment of Superintendent---
+Appointment of Superintendent
+---
 6
 
 The Members welcomed the appointment of Brian Sugrue as Garda Superintendent for the
@@ -417,4 +422,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

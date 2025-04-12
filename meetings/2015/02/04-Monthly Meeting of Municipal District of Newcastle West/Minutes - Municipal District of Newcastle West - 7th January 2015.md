@@ -62,7 +62,8 @@ issue in the context of the overall Traffic Management Plan for Abbeyfeale. The 
 
 stated that they did not have enough information to make a decision and deferred the item
 
-to a future Meeting.---
+to a future Meeting.
+---
 2
 
 QUESTIONS
@@ -143,7 +144,8 @@ Question submitted by Councillor J. Scanlan
 
 **REPLY:**
 
-The above signage will be ordered and will be erected once it is delivered.---
+The above signage will be ordered and will be erected once it is delivered.
+---
 3
 
 NOTICES OF MOTION
@@ -202,7 +204,8 @@ Councillor Galvin seconded the Motion.
 
 Members stated that the bin collection service at Monagea had been suspended and that
 
-Ardagh Cemetery had no tap water.---
+Ardagh Cemetery had no tap water.
+---
 4
 
 **REPLY:**
@@ -287,7 +290,8 @@ the extension of the footpath was essential in the interest of safety for indivi
 
 families using the trail. Members asked if funding could be sought from the National
 
-Transport Authority.---
+Transport Authority.
+---
 5
 
 **REPLY:**
@@ -356,7 +360,8 @@ Newcastle West Arts Committee. On the proposal of Councillor Collins, seconded b
 
 Councillor Scanlan, it was agreed to receive a Deputation from Newcastle West Arts
 
-Committee at the next monthly Meeting to be held on 4th February, 2015.---
+Committee at the next monthly Meeting to be held on 4th February, 2015.
+---
 6
 
 Members requested that the March Meeting be held in the Community Hall in Castletown
@@ -373,4 +378,5 @@ Signed:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Cathaoirleach
 
-Dated:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Dated:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

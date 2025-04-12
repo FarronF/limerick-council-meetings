@@ -74,7 +74,8 @@ Members also paid tribute to a friend and colleague, Michael (Mike) Collopy, RIP
 
 They expressed sympathy, on behalf of the Council, to Michael’s wife, Helen, and sons
 
-Michael and Byran, on his sudden and untimely passing.---
+Michael and Byran, on his sudden and untimely passing.
+---
 2
 
 Members also extended sympathy to the family of Mary Lane, RIP, and recalled her
@@ -153,7 +154,8 @@ Circulated, copy of Statutory Notice dated 7th December, 2017, concerning dispos
 
 of the freehold interest in property at 18 Sycamore Avenue, Rathbane, Limerick
 
-(Folio LK3402L).---
+(Folio LK3402L).
+---
 3
 
 Proposed by Councillor Collins (M);
@@ -232,7 +234,8 @@ existing mortgage(s) or burden(s) and any existing mortgages or burdens on the p
 
 Prospect, Limerick; particulars of which were contained in Statutory Notice dated 4th
 
-January, 2018.”---
+January, 2018.”
+---
 4
 
 3.
@@ -309,7 +312,8 @@ Circulated, report of the Senior Executive Officer, Corporate Services, dated 15
 
 January, 2018, seeking the Council’s approval of Sectoral Nomination to the Cultural
 
-Strategic Policy Committee.---
+Strategic Policy Committee.
+---
 5
 
 Proposed by Councillor Sheahan (J);
@@ -378,7 +382,8 @@ on 14th December, 2017, the Audit Committee had met with the Local Government Au
 
 and reviewed the Statutory Audit Report for the year ended 31st December, 2016.
 
-The position was noted by the Council.---
+The position was noted by the Council.
+---
 6
 
 (e)
@@ -451,7 +456,8 @@ twinning activities was €630.83 and it was recommended that the Council would 
 
 of this expenditure. The Council’s approval for the provision of financial assistance in the
 
-amount of €315.42 towards the cost of this twinning initiative was required.---
+amount of €315.42 towards the cost of this twinning initiative was required.
+---
 7
 
 Proposed by Councillor O’Donoghue;
@@ -520,7 +526,8 @@ Councillor Crowley, Chairperson of the Economic Development, Enterprise and
 
 Planning Strategic Policy Committee, presented an overview of matters discussed at the
 
-Meeting and outlined the following Recommendation which was agreed at the SPC Meeting:---
+Meeting and outlined the following Recommendation which was agreed at the SPC Meeting:
+---
 8
 
 **Recommendation**
@@ -595,7 +602,8 @@ as follows:
 
 **order to benefit private, profit-making events, without prior agreement at**
 
-**Municipal/Metropolitan District level as appropriate.”**---
+**Municipal/Metropolitan District level as appropriate.”**
+---
 9
 
 It was agreed that the amended wording would be referred back to the next
@@ -668,7 +676,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Crowley;
 
-And Resolved:---
+And Resolved:
+---
 10
 
 “That, the approval of the Council be and is hereby given to the Bursary Schemes for
@@ -737,7 +746,8 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 
 Meeting / Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 11
 
 QUESTIONS
@@ -820,7 +830,8 @@ reduction in the use of B&B/hotel as emergency accommodation for families
 
 in 2017 from its peak. The Council’s strategy in this regard is ongoing and will
 
-continue throughout 2018.---
+continue throughout 2018.
+---
 12
 
 The Childers Road Family Initiative opened in December, operated on behalf
@@ -901,7 +912,8 @@ at this time. A number of issues are outstanding which require further
 
 examination prior to finalisation and the matter will be clarified further in the
 
-near future.---
+near future.
+---
 13
 
 10.
@@ -976,7 +988,8 @@ Notice of Motion submitted by Cmhlr. S. Ó Ceallaigh ***(to be referred to***
 
 ***events.***
 
-It was agreed to refer this Motion to the Cultural Strategic Policy Committee.---
+It was agreed to refer this Motion to the Cultural Strategic Policy Committee.
+---
 14
 
 14.
@@ -1035,7 +1048,8 @@ Denis Allen in recognition of his total commitment for decades to music in Limer
 
 especially mark his major contribution in providing Limerick’s enduring anthem *Limerick*
 
-*You’re a Lady.”*---
+*You’re a Lady.”*
+---
 15
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -1058,4 +1072,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

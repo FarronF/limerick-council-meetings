@@ -52,4 +52,5 @@ Government Reform Act, 2014.
 
 (Draft Chief Executive’s Budget and Explanatory Tables Enclosed, together with
 
-Report from Chief Executive, including Capital Programme 2015-2017)---
+Report from Chief Executive, including Capital Programme 2015-2017)
+---

@@ -82,7 +82,8 @@ A report of the discussions and recommendations from the workshop held on the 17
 
 circulated. Director of Service Aoife Duke also presented a summary of the main issues covered by the
 
-workshop as follows:---
+workshop as follows:
+---
 Planned Maintenance Programme:
 
 It is proposed that Limerick City and County Council will borrow €15 million to carry out a Planned
@@ -191,7 +192,8 @@ simplify the number of areas by expanding the
 
 geographical boundaries.
 
-There was general agreement with this objective---
+There was general agreement with this objective
+---
 A discussion took place as follows:
 
  Planned Maintenance:
@@ -340,7 +342,8 @@ Colbert Terrace, Abbeyfeale
 
 November Meeting of Municipal
 
-District of Newcastle West---
+District of Newcastle West
+---
 07
 
 Gough Place, Rosbrien Road
@@ -403,4 +406,5 @@ it is currently being proofed and it as anticipated that it will be finalised in
 
 The meeting concluded.
 
-**Date of next meeting**: Monday 10th December 2018 at 3.00pm, Corporate Building, Dooradoyle---
+**Date of next meeting**: Monday 10th December 2018 at 3.00pm, Corporate Building, Dooradoyle
+---

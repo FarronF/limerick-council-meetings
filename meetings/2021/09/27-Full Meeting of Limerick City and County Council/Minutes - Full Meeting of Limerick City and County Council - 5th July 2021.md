@@ -76,7 +76,8 @@ Declaration of Interest
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government
 
-Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify---
+Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify
+---
 2
 
 the Mayor of any declaration of interest in any item due for discussion at the Meeting. No
@@ -159,7 +160,8 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of residential
 
-property (0.010 acres) at 1, Grennan Villas, St. Joseph’s Terrace, Limerick, to Daniel Byrne, for---
+property (0.010 acres) at 1, Grennan Villas, St. Joseph’s Terrace, Limerick, to Daniel Byrne, for
+---
 3
 
 the sum of €176,000, the disposal to be subject to the covenants and conditions contained
@@ -238,7 +240,8 @@ hectares of land located between Main Street and Marian Park, Patrickswell, to U
 
 with Una Pigott to transfer 0.0034 hectares of land comprising a public footpath to the
 
-Council, particulars of which were contained in Statutory Notice dated 24th June, 2021.”---
+Council, particulars of which were contained in Statutory Notice dated 24th June, 2021.”
+---
 4
 
 (g)
@@ -325,7 +328,8 @@ necessary legislation will be enacted by the Oireachtas before the Dail summer r
 
 The legislation has brought forward the deadline for notifying Revenue of the Local
 
-Adjustment Factor (LAF) to the 31st August in a revaluation year;---
+Adjustment Factor (LAF) to the 31st August in a revaluation year;
+---
 5
 
 
@@ -424,7 +428,8 @@ importance of the funding stream from the Local Property Tax on the delivery of 
 
 important services across the local authority, including General Municipal Allocation funded
 
-works.---
+works.
+---
 6
 
 They noted that if the proposed variation of the Local Property Tax did not go ahead, that
@@ -499,7 +504,8 @@ University of the Shannon: Midlands Midwest. The campuses for this new Technolog
 
 University would be situated in Limerick City, Limerick Moylish, Athlone, Ennis, Thurles and
 
-Clonmel. This new Technological University would comprise 14,500 students and 2,000 staff---
+Clonmel. This new Technological University would comprise 14,500 students and 2,000 staff
+---
 7
 
 across the six campuses, with a total economic output of approximately €420 million per
@@ -576,7 +582,8 @@ Chief Executive’s Report
 
 Circulated, Chief Executive’s Report for the month of May 2021.
 
-The Report was noted by the Council---
+The Report was noted by the Council
+---
 8
 
 (b)
@@ -653,7 +660,8 @@ of the Committee held on 8th June, 2021.
 
 **and that Limerick City and County Council run an awareness campaign aimed at**
 
-**preventing drive-through take-away littering.**---
+**preventing drive-through take-away littering.**
+---
 9
 
 On the proposal of Councillor Sheehan (C), seconded by Councillor O’Sullivan, the
@@ -716,7 +724,8 @@ Conferences
 
 Participation by Members at Conferences
 
-Details of the following Conference had been circulated electronically to the Members:---
+Details of the following Conference had been circulated electronically to the Members:
+---
 10
 
 Conference - “Webinar - Velo City Cycle Diversity” held in Lisbon, Portugal, from 6th to 9th
@@ -795,7 +804,8 @@ publication of the Fitzgerald Report in April 2007. The publication of the
 
 Limerick Regeneration Masterplan - A vision for Moyross, Southill/Ballinacurra
 
-Weston and St. Mary's Park followed in October 2008.---
+Weston and St. Mary's Park followed in October 2008.
+---
 11
 
 **(a)Since Limerick Regeneration began, how much money has been spent on**
@@ -874,7 +884,8 @@ embedded in the Limerick Regeneration Framework Implementation Plan
 
 (LRFIP) - a robust, evidence-based, measurable Implementation Plan
 
-adopted by elected members in February 2014.---
+adopted by elected members in February 2014.
+---
 12
 
 **The number of units demolished since the adoption of the Limerick**
@@ -945,7 +956,8 @@ from 593 to 513 replacement homes.
 
  Churchfield Phase 2 – 38 units - 18 month programme – site start
 
-August 2021 - substantial completion 01/02/2023.---
+August 2021 - substantial completion 01/02/2023.
+---
 13
 
  Cosgrave Park – 30 units – site start July 2021 - substantial completion
@@ -1016,7 +1028,8 @@ City Centre in July of this year, with the Part 8 for Mary Immaculate College to
 
 City Centre to follow in September/October of this year. Both these schemes
 
-converge in the City Centre at O’Callaghan Strand/Clancy Strand and Honan’s---
+converge in the City Centre at O’Callaghan Strand/Clancy Strand and Honan’s
+---
 14
 
 Quay respectively. Cycle connectivity between the two schemes is provided
@@ -1089,7 +1102,8 @@ these locations. The Initial Preferred Option in the CFRAM Study included a
 
 combination of walls and embankments to protect properties at these
 
-locations, details as per attached drawing.---
+locations, details as per attached drawing.
+---
 15
 
 14.
@@ -1128,7 +1142,8 @@ Ann’s Court in line with Bishop Street. Sonny’s Corner was immediately outsi
 
 the city wall.
 
-(Image omitted)---
+(Image omitted)
+---
 16
 
 The chronology of the area of St Ann’s Court was that it lay immediately
@@ -1201,7 +1216,8 @@ exact location of the wall will inform the design process and there is
 
 tremendous potential for any future development to highlight and re-establish
 
-the line of the wall and the location of the gate in the public realm.---
+the line of the wall and the location of the gate in the public realm.
+---
 17
 
 NOTICES OF MOTION
@@ -1244,7 +1260,8 @@ Joint Policing Committee)
 
 It was agreed to refer this Motion to the Joint Policing Committee for consideration.
 
-(Image omitted)---
+(Image omitted)
+---
 18
 
 17.
@@ -1317,7 +1334,8 @@ Therefore, I recommend that notice of motion does not proceed so that the
 
 Directors of Limerick Twenty Thirty DAC are not put in a position where they
 
-could be liable for a potential breach of fiduciary duty.---
+could be liable for a potential breach of fiduciary duty.
+---
 19
 
 While some Members supported the general intent of the Motion, they noted the reply issued
@@ -1392,7 +1410,8 @@ works under the Pyrite Remediation Scheme.
 
 The reply also stated that similar to what is happening in other counties seeking admittance
 
-to the scheme, that the local authority would lead on the rigorous analysis required in---
+to the scheme, that the local authority would lead on the rigorous analysis required in
+---
 20
 
 accordance with the I.S. 465 protocol and on the estimation of quantum and make the
@@ -1455,4 +1474,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

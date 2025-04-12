@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-11-22 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-briefing-limerick-city-and-county-council-ul-hospitals-group-health)**
+**<a href="https://www.limerick.ie/council/whats-on/private-briefing-limerick-city-and-county-council-ul-hospitals-group-health" target="_blank">Link to meeting</a>**

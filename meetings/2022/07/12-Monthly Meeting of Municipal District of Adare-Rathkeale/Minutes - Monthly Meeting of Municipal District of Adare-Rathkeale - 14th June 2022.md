@@ -62,7 +62,8 @@ matter. This was seconded by Councillor O’Brien and agreed.
 
 Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-Rathkeale
 
-held on 11th May, 2022.---
+held on 11th May, 2022.
+---
 2
 
 Proposed by Councillor O’Donoghue;
@@ -127,7 +128,8 @@ breakdown of the number of occupied and unoccupied houses. The Senior Engineer, 
 
 Housing Construction & Maintenance agreed to attend the July District Meeting and
 
-provide requested report.---
+provide requested report.
+---
 3
 
 **4.**
@@ -196,7 +198,8 @@ agreed to allocate the following:
 
 On the proposal of Councillor Keary, seconded by Councillor O’Brien, it was agreed to
 
-allocate €4,000 to Croagh Community Council.---
+allocate €4,000 to Croagh Community Council.
+---
 4
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor O’Brien, it was agreed
@@ -259,7 +262,8 @@ Askeaton Public Realm Plan.
 
 Councillor Keary requested hedge cutting take place at Limetree Avenue, Adare and
 
-advised the avenue footpath is also damaged due to HGVs attempting to access the---
+advised the avenue footpath is also damaged due to HGVs attempting to access the
+---
 5
 
 location. The Senior Executive Engineer agreed to carry out an inspection of the
@@ -276,4 +280,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

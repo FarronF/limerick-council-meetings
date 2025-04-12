@@ -4,4 +4,4 @@
 
 **Date and Time:** 2019-12-20 13:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-cappamore-kilmallock-municipal-district-2)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-cappamore-kilmallock-municipal-district-2" target="_blank">Link to meeting</a>**

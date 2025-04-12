@@ -72,7 +72,8 @@ The Cathaoirleach welcomed representatives from the Board of Management Scoil Mh
 
 agus Íde, Newcastle West. The Deputation consisted of Ms. Sheila O’Mahony Kennedy,
 
-Principal, Sean Lane, Deputy Principal, Derek Herevin, Chairperson, Board of Management.---
+Principal, Sean Lane, Deputy Principal, Derek Herevin, Chairperson, Board of Management.
+---
 Ms. O’Mahony Kennedy addressed the Meeting and welcomed the opportunity to outline to
 
 the Members the current situation with regard to traffic issues in the vicinity of the school.
@@ -145,7 +146,8 @@ Newcastle West was noted and the proposal to have the banks moved inside the cen
 
 from 31st January. The Members stated that this deadline should be deferred as it would
 
-impact on those using the banks correctly.---
+impact on those using the banks correctly.
+---
 4.
 
 General Municipal Allocation (GMA)
@@ -212,7 +214,8 @@ Question submitted by Councillor L. Galvin
 
 ***four years ago and at what cost? (d) what state agencies are responsible for the Allaghaun***
 
-***river at that location? (e) why/how was the Roche property granted planning permission***---
+***river at that location? (e) why/how was the Roche property granted planning permission***
+---
 ***without a condition of planning that a properly designed/engineered wall be put in place***
 
 ***along the river bank? (f) can the recent report and design of works carried out at the***
@@ -281,7 +284,8 @@ section who will reply directly on the matter.
 
 **F. Can the recent report and design of works carried out at the affected**
 
-**properties on New St., be made available to the Councillors?**---
+**properties on New St., be made available to the Councillors?**
+---
 I attach herewith, for your information and consideration, copy of the
 
 Engineering Report from Dennany Reidy Associates Consulting Civil &
@@ -352,7 +356,8 @@ result in a situation whereby the final report from another appropriately
 
 qualified consultancy firm would significantly differ from the original Dennany
 
-Reidy Associates report.---
+Reidy Associates report.
+---
 Members must also have regard to the fact that commissioning a second
 
 report is likely to require expenditure in the region of €20,000. This financial
@@ -427,7 +432,8 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 ***levels that apply in the Metropolitan area and that this change apply with immediate***
 
-***effect from January 2018.***---
+***effect from January 2018.***
+---
 In proposing the Motion, CouncillorScanlan stated weekly rents within the metro area
 
 were lower than in some rural areas and there should be parity between the two areas.
@@ -510,7 +516,8 @@ permission at the Roche site, previous Council ownership of the site and the wal
 
 the Developer along the riverbank. He asked if the Roche family could be relocated and
 
-highlighted the effects of river erosion at other properties along New St. Abbeyfeale. He---
+highlighted the effects of river erosion at other properties along New St. Abbeyfeale. He
+---
 proposed that the OPW take ownership of the section of the Rivers Feale and Alaughaun
 
 which flow through Abbeyfeale and that the Minister of State with responsibility for the
@@ -583,4 +590,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

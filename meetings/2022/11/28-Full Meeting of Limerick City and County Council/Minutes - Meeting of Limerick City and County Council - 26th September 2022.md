@@ -76,7 +76,8 @@ The Mayor welcomed Mr. Barry O’Sullivan, Chairperson to the meeting and he gav
 
 PowerPoint presentation on the Shannon Estuary Economic Taskforce and outlined the
 
-membership and composition of the Taskforce.---
+membership and composition of the Taskforce.
+---
 2
 
 He also explained that the terms of reference of the Taskforce were:
@@ -147,7 +148,8 @@ The Mayor welcomed representatives from the Land Development Agency who gave a
 
 PowerPoint presentation update on the Land Development Agency to the Members. This
 
-presentation outlined how the Land Development Agency had a current staffing compliment---
+presentation outlined how the Land Development Agency had a current staffing compliment
+---
 3
 
 of 68 and had capital commitments of €500m for 2022 with sites in Shanaganagh, Dublin
@@ -228,7 +230,8 @@ facilitate wider regeneration;
 
  Detailed Masterplan for HSE lands also underway offer the potential for phased
 
-delivery of compact affordable housing delivery.---
+delivery of compact affordable housing delivery.
+---
 4
 
 Other key updates included:
@@ -313,7 +316,8 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of 6 Rossa
 
-Avenue, Mulgrave Street, Limerick, to Elaine Duffy (Nee Devane), for the sum of €195.42, the---
+Avenue, Mulgrave Street, Limerick, to Elaine Duffy (Nee Devane), for the sum of €195.42, the
+---
 5
 
 disposal to be by way of Deed of Conveyance of the interest of Limerick City and County
@@ -394,7 +398,8 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of residential
 
-property (0.031 acres) at 6 and 7 Gerard Street, Limerick, to Kevin Finucane, for the sum of---
+property (0.031 acres) at 6 and 7 Gerard Street, Limerick, to Kevin Finucane, for the sum of
+---
 6
 
 €360,000, subject to the covenants and conditions contained within the contract, particulars
@@ -475,7 +480,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 of land at Ballyanrahan, Patrickswell, Co. Limerick, to Mr. Billy Mann, for the sum of €1,
 
-subject to the purchaser being liable for legal and other costs that may arise from the disposal---
+subject to the purchaser being liable for legal and other costs that may arise from the disposal
+---
 7
 
 and subject to the covenants and conditions contained within the contract, particulars of
@@ -558,7 +564,8 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of property at
 
-48, Bengal Terrace, Kilmallock Road, Limerick, to Novas Ireland, for the sum of €130,000,---
+48, Bengal Terrace, Kilmallock Road, Limerick, to Novas Ireland, for the sum of €130,000,
+---
 8
 
 subject to the covenants and conditions contained within the contract, particulars of which
@@ -637,7 +644,8 @@ Enniskeen House, Kishikirk, Ballysimon, Co. Limerick, to James Bond, for the sum
 
 subject to the covenants and conditions contained within the contract, particulars of which
 
-were contained in Statutory Notice dated 16th September, 2022.”---
+were contained in Statutory Notice dated 16th September, 2022.”
+---
 9
 
 (n)
@@ -710,7 +718,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 subject to the covenants and conditions contained within the contract, particulars of which
 
-were contained in Statutory Notice dated 16th September, 2022.”---
+were contained in Statutory Notice dated 16th September, 2022.”
+---
 10
 
 6.
@@ -791,7 +800,8 @@ The Deputy Chief Executive advised that the approval of the Council was required
 
 revised bank overdraft accommodation in the sum of €57m for the 12-month period to 31st
 
-December, 2023.---
+December, 2023.
+---
 11
 
 Proposed by Councillor O’Hanlon;
@@ -864,7 +874,8 @@ Customer Services dated 13th July, 2022, setting out the background to a request
 
 assistance from Adare Community Council towards a twinning initiative with Buckow,
 
-Germany.---
+Germany.
+---
 12
 
 The report stated that Adare Community Council had set up a twinning arrangement
@@ -943,7 +954,8 @@ amended, the approval of the Council be and is hereby given to a visit by the Ma
 
 City and County of Limerick to Amsterdam, the Netherlands, from 9th to 11th October, 2022,
 
-to attend the Bloomberg CityLab Summit.”---
+to attend the Bloomberg CityLab Summit.”
+---
 13
 
 (h)
@@ -1028,7 +1040,8 @@ commenced on constructing a new sound stage and other supporting infrastructure.
 
 year lease gave Troy an option to purchase the property for a price that would cover the
 
-purchase and infrastructural support costs. The former Factory has an overall footprint of---
+purchase and infrastructural support costs. The former Factory has an overall footprint of
+---
 14
 
 350,000 sq. ft. under one roof, has 4 sound stages totalling 100,000 sq. ft. & with a 5-acre
@@ -1119,7 +1132,8 @@ Government Act, 2001, as amended. This loan was taken out with preferential inte
 
 rates and in the current climate, this would guarantee the best rate in lieu of going to the
 
-market place for a new loan. The balance of the funding for the above schemes for 2022---
+market place for a new loan. The balance of the funding for the above schemes for 2022
+---
 15
 
 would come from capital transfer from the Revenue Account previously approved by
@@ -1200,7 +1214,8 @@ the next speed limit review process.
 
 The following variation to the proposed Part 8 was proposed by Councillor Sheahan (J),
 
-seconded by Councillor Teskey:---
+seconded by Councillor Teskey:
+---
 16
 
 “That the proposed development be carried out as recommended in the CE Report dated 18th
@@ -1275,7 +1290,8 @@ Circulated, report of the Arts Officer dated 15th September, 2022, seeking the C
 
 approval to recommended allocations from the Assessment Panel under the Individual Arts
 
-Bursary Awards Scheme 2022.---
+Bursary Awards Scheme 2022.
+---
 17
 
 Proposed by Councillor Sheahan (J);
@@ -1350,7 +1366,8 @@ Proposed by Councillor O’Hanlon;
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 18
 
 “That, Limerick City and County Council agrees to the making of an Agreement, as
@@ -1429,7 +1446,8 @@ Question submitted by Councillor J. Sheahan
 
 **I will ask at the next Meeting what is Limerick City and County Council’s definition of an**
 
-**‘Active Farmer’ in the context of the Local Improvement Scheme.**---
+**‘Active Farmer’ in the context of the Local Improvement Scheme.**
+---
 19
 
 **REPLY:**
@@ -1514,7 +1532,8 @@ contractors on the framework are based in the Mid-West Region and employ
 
 approx. 62 no. staff collectively. They endeavour to employ further local
 
-experienced/skilled labour as the need arises.---
+experienced/skilled labour as the need arises.
+---
 20
 
 14.
@@ -1613,7 +1632,8 @@ Parking on a footpath, a grass margin or a median strip is prohibited by Section
 
 36 (2) (i) of the Road Traffic (Traffic and Parking) Regulations 1997. Limerick
 
-City and County Council’s Traffic Wardens have the authority to issue Fixed---
+City and County Council’s Traffic Wardens have the authority to issue Fixed
+---
 21
 
 Charge Offence Notices to motorists parking on a footpath. The fine for this
@@ -1694,7 +1714,8 @@ engaged in agricultural activities on the parcel of land accessed by the road
 
 project e.g. a herd/flock number and a copy of the maps associated with their
 
-Basic Payment Scheme application provided by the Department of Agriculture,---
+Basic Payment Scheme application provided by the Department of Agriculture,
+---
 22
 
 Food and the Marine, or equivalent documentation. The onus shall be on
@@ -1775,7 +1796,8 @@ Metropolitan District)
 
 **result in loss of life should emergency vehicles not be able to gain access.**
 
-It was agreed to refer this Motion to the Metropolitan District for consideration.---
+It was agreed to refer this Motion to the Metropolitan District for consideration.
+---
 23
 
 22.
@@ -1844,7 +1866,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
-available on SharePoint for inspection by the Members.---
+available on SharePoint for inspection by the Members.
+---
 24
 
 PLANNING AND DEVELOPMENT:
@@ -1861,4 +1884,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

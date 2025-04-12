@@ -74,7 +74,8 @@ Metropolitan District of Limerick meeting held on 20th July, 2020)
 
 To consider a notice of motion from Cllr Azad Talukder (Referred from the
 
-Full Council meeting held on 28th September, 2020)---
+Full Council meeting held on 28th September, 2020)
+---
 ***“I will move at the next meeting that Limerick City and County Council***
 
 ***examine the feasibility of a Shannon River Cruise Development Project as***
@@ -95,4 +96,5 @@ Amended 2021 Meeting Schedule
 
 **Community, Leisure and Culture SPC**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

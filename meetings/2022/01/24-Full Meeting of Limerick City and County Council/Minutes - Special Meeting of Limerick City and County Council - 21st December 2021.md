@@ -58,7 +58,8 @@ He also noted how Vicky has continued to face her own health challenges head-on 
 
 drive and determination that has garnered the respect and admiration of all, and how all of
 
-this encapsulates the ideals of the Freedom of Limerick.---
+this encapsulates the ideals of the Freedom of Limerick.
+---
 2
 
 He noted that since 1877, only four women have previously received the Freedom of
@@ -109,4 +110,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

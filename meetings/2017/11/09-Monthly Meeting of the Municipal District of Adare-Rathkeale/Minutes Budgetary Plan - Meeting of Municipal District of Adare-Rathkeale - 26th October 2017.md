@@ -86,7 +86,8 @@ Director, Regional Services noted the importance of inviting groups to apply for
 
 funding in terms of audit trail and inclusiveness and suggested that an advertisement be
 
-place in this regard.---
+place in this regard.
+---
 2
 
 Members discussed the raised expectations that might arise from advertising a scheme
@@ -121,4 +122,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

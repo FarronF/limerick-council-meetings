@@ -58,4 +58,5 @@ Correspondence
 
 **Cathaoirleach**
 
-**Cultural SPC, Limerick City & County Council**---
+**Cultural SPC, Limerick City & County Council**
+---

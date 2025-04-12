@@ -66,7 +66,8 @@ c) Strategic Fund
 
 **Item 6.**
 
-New Years Eve 2017 – update---
+New Years Eve 2017 – update
+---
 **Item 7.**
 
 Notice of Motion
@@ -89,4 +90,5 @@ Any Other Business
 
 **Cultural SPC**
 
-**Limerick City & County Council**---
+**Limerick City & County Council**
+---

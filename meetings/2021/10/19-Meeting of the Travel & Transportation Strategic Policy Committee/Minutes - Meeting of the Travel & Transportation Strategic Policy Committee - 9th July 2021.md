@@ -44,7 +44,8 @@ work closely together.
 
 The Chair welcomed Ms. Gallagher and welcomed her attendance at future meetings.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Item 3: Update on the new Active Travel Department - Sean Mc Glynn, A/Senior Engineer:**
@@ -107,7 +108,8 @@ Cllr. Butler urged caution on sharing design with any group ahead of the statuto
 
 He referenced a blog regarding Fr. Russell Road design which caused consternation at the
 
-time. There is a statutory process to be followed which goes through the public elected---
+time. There is a statutory process to be followed which goes through the public elected
+---
 3
 
 representative and he encouraged that process to be followed. He adding that sharing design
@@ -168,7 +170,8 @@ that clusters would be a good strategy for sharing benefits. She asked what meas
 
 going to be implemented and what the timelines are and if it is the NTA or the Council will
 
-have the biggest input.---
+have the biggest input.
+---
 4
 
 Mr. Heffernan congratulated Ms. McDonnell on all the good work to date. He remarked on
@@ -233,7 +236,8 @@ shoulders or extra wide roads for cyclists/pedestrians, ref: imminent works on C
 
 Groody Link Road and Plassey Park Road. In some instances, bollards are used to achieve the
 
-same delineation, i.e., southern approach to Kilmurray Roundabout in Castletroy.---
+same delineation, i.e., southern approach to Kilmurray Roundabout in Castletroy.
+---
 5
 
 It should be noted that many of the roads serving the city are designated as Priority Bus
@@ -300,7 +304,8 @@ In proposing the motion Cllr. Novak stated that she would like to see the Dock R
 
 reimagined and transformed and in particular had four concerns she wished the Council to
 
-consider:---
+consider:
+---
 6
 
  The financial loss to the Dock Road following the diversion of traffic through the
@@ -367,7 +372,8 @@ this area.”
 
 Cllr. O’Donovan supported the Motion and commented that the Dock Road is not an attractive
 
-entry route into the city. She added that it is a very hostile road used by HGV’s going through---
+entry route into the city. She added that it is a very hostile road used by HGV’s going through
+---
 7
 
 highly populated areas, particularly from the Atlas Avenue junction to Shannon Bridge. She
@@ -430,7 +436,8 @@ Cllr. Novak thanked Mr. Gallagher for his response and agreed there is a lot of 
 
 being done on medium to long term plans but would like to see some short term wins even
 
-of a temporary measure.---
+of a temporary measure.
+---
 8
 
 Mr. Gallagher appreciated Cllr. Novak’s comments but reiterated that any works undertaken
@@ -489,4 +496,5 @@ members to attend the conference.
 
 The Chair confirmed that the next SPC meeting is scheduled for Tuesday, the 19th October
 
-2021. This concluded the meeting.---
+2021. This concluded the meeting.
+---

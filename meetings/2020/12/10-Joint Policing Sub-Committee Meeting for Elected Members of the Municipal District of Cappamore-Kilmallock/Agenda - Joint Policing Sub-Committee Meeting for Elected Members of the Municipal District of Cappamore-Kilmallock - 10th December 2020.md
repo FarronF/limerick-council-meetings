@@ -32,4 +32,5 @@ Sub-Committee held on 17th September, 2020.
 
 **2.Policing Issues**
 
-To discuss policing issues in the District.---
+To discuss policing issues in the District.
+---

@@ -26,7 +26,8 @@ agenda.
 
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -79,4 +80,5 @@ further isolating West Limerick”.
 
 **6.Draft Traffic Calming Policy** **–** **Mr. Vincent Murray**
 
-**7.Presentation on National, Regional and Local Roads Grants 2018** **–** **Mr. Vincent Murray**---
+**7.Presentation on National, Regional and Local Roads Grants 2018** **–** **Mr. Vincent Murray**
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-09-26 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council-51)**
+**<a href="https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council-51" target="_blank">Link to meeting</a>**

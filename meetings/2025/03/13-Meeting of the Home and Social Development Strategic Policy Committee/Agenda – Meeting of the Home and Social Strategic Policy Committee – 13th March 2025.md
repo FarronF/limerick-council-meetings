@@ -54,7 +54,8 @@ Development Strategic Policy Committee) - 10th October 2024
 
 *vacant residential properties are focused on first-time buyers, owner- occupiers, older persons or*
 
-*households with changes in circumstances.*---
+*households with changes in circumstances.*
+---
 Notice of Motion submitted by Councillor S. Beasley – 31st January 2025
 
 *I will move at the next Meeting of the Metropolitan District of Limerick that there should be no more*
@@ -85,4 +86,5 @@ Home and Social Development Strategic Policy Committee)
 
 10. AOB
 
-Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council---
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

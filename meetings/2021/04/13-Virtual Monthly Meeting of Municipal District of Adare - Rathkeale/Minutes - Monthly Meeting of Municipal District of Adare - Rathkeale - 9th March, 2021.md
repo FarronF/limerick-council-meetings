@@ -64,7 +64,8 @@ The report, as circulated, was noted by Members.
 
 Circulated, report of the Senior Staff Officer, Housing Support Services, dated 5th
 
-February, 2021 setting out the position in relation the disposal of 0.046 hectares---
+February, 2021 setting out the position in relation the disposal of 0.046 hectares
+---
 2
 
 situate at Loughill West, Co. Limerick to Nora & Bernadette Normile and the
@@ -131,7 +132,8 @@ completed. The Senior Executive Engineer advised the survey had been
 
 completed and agreed to discuss findings with the Roads Technician and revert to
 
-Members in due course.---
+Members in due course.
+---
 3
 
  Councillor O’Brien requested an update on progress to complete the footpath
@@ -200,7 +202,8 @@ carried out. The Senior Executive Engineer advised he has applied to the
 
 Transport Infrastructure Ireland for funding and will provide an update at the
 
-April Meeting.---
+April Meeting.
+---
 4
 
 **6.**
@@ -265,7 +268,8 @@ City and County Council’s intentions are for the Burial Ground. This was secon
 
 Councillor Teksey and agreed.
 
-**QUESTION**---
+**QUESTION**
+---
 5
 
 **8.**
@@ -344,7 +348,8 @@ In addition, Digital Services are coordinating the delivery of public WiFi
 
 networks in Adare, Askeaton, Croom, Foynes and Rathkeale, under the
 
-WiFi4EU initiative. The delivery of these networks has been delayed by the---
+WiFi4EU initiative. The delivery of these networks has been delayed by the
+---
 6
 
 current Covid Level 5 restrictions, but if public health advice permits we
@@ -417,7 +422,8 @@ Environmental Inspectors have these signs and they can be installed on
 
 request. Furthermore, stencils have also been placed on footpaths.
 
-Stencils are available to all Area Engineers.---
+Stencils are available to all Area Engineers.
+---
 7
 
 The issuing of fines for dog fouling can be difficult to enforce and the
@@ -492,7 +498,8 @@ any regulation or bye-law made thereunder, request of the
 
 person his name and address and may request that any
 
-information given be verified;---
+information given be verified;
+---
 8
 
 (b) seize any dog and detain it in order to ascertain whether an
@@ -565,7 +572,8 @@ development would be deferred until 2026.
 
 Discussion ensued and Members all agreed they would not agree to any further social
 
-housing development projects for Pallaskenry in the future. The Director, Housing---
+housing development projects for Pallaskenry in the future. The Director, Housing
+---
 9
 
 Development informed Members their approval would have to be sought if further
@@ -608,4 +616,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -56,7 +56,8 @@ Committee will be held in the Council Chamber, County Hall, Dooradoyle, Limerick
 
 8.
 
-**Notice of Motion submitted by Councillor F. Daly**---
+**Notice of Motion submitted by Councillor F. Daly**
+---
 *“I will move at the next Meeting that, due to the fact that for a long time Nicholas Street has been*
 
 *ignored by the Council, it is now time that there is a firm commitment priority and the finances put*
@@ -99,4 +100,5 @@ Date of Next Meeting
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

@@ -29,7 +29,8 @@ transacted is set out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -98,7 +99,8 @@ Council amend our traffic calming policy to allow the delivery of traffic calmin
 
 measures where an elected member provides the funding and the necessary petition
 
-is signed and submitted by residents.---
+is signed and submitted by residents.
+---
 3
 
 **6.Notice of Motion submitted by Councillor P. Doyle (referred from October Metro**
@@ -149,5 +151,7 @@ Clare/Leitrim/Cork County Councils.
 
 **conditions**
 
-**10.Update on Bus Connects programme.**---
-4---
+**10.Update on Bus Connects programme.**
+---
+4
+---

@@ -42,7 +42,8 @@ July, 2023.
 
 Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 20th July, 2023.---
+Relating to the Minutes of the Municipal District Meeting of 20th July, 2023.
+---
 2
 
 3.
@@ -83,7 +84,8 @@ Taking in charge of Glengrove , Gortboy
 
 Housing Strategy, Capital and Maintenance
 
-Housing Construction and SPC update---
+Housing Construction and SPC update
+---
 3
 
 NOTICES OF MOTION
@@ -142,7 +144,8 @@ I will move at the next meeting of the Cappamore-Kilmallock Municipal District t
 
 programme be put in place as a matter of priority for the ongoing maintenance of inlets and
 
-drainage grates on the roads in the district.---
+drainage grates on the roads in the district.
+---
 4
 
 QUESTIONS
@@ -169,4 +172,5 @@ Question submitted by Councillor Carey
 
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District that flexi-bollards
 
-are erected outside the Ardpatrick National School.---
+are erected outside the Ardpatrick National School.
+---

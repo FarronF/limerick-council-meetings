@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-06-30 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-limerick-city-and-county-council-4)**
+**<a href="https://www.limerick.ie/council/whats-on/annual-meeting-limerick-city-and-county-council-4" target="_blank">Link to meeting</a>**

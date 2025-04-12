@@ -32,4 +32,5 @@ social housing in Limerick
 
 6. AOB
 
-Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council---
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+---

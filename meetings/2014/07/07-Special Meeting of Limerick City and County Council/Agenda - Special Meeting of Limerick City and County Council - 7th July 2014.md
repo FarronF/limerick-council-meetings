@@ -50,7 +50,8 @@ To consider the nomination of 3 Members from within the number
 
 nominated at (a) above to be permanent delegates to the Standing
 
-Policy Council of the Association for the full five-year term.---
+Policy Council of the Association for the full five-year term.
+---
 2
 
 4.
@@ -109,7 +110,8 @@ County Council on the RAPID Action Implementation Team for Rathkeale.
 
 9.
 
-To consider the nomination of 1 Member to the Limerick Sports Partnership.---
+To consider the nomination of 1 Member to the Limerick Sports Partnership.
+---
 3
 
 10.
@@ -174,7 +176,8 @@ and Development Regulations, 2001-2013, in relation to N21 Newcastle West
 
 Pavement Improvement and Pedestrian Facilities Scheme 2014.
 
-(Report Enclosed)---
+(Report Enclosed)
+---
 4
 
 (b)Section 85 Agreements
@@ -239,7 +242,8 @@ report, in accordance with Section 180 of the Planning and Development Acts,
 
 2000-2013, and Section 11 of the Roads Act, 1993.
 
-(Report Enclosed)---
+(Report Enclosed)
+---
 5
 
 17.
@@ -250,4 +254,5 @@ Standing Orders
 
 To consider draft Limerick City and County Council Standing Orders.
 
-(Copy of draft Standing Orders Enclosed)---
+(Copy of draft Standing Orders Enclosed)
+---

@@ -44,7 +44,8 @@ Notice of Motion submitted by Councillor W. O'Donnell
 
 I will move at the next meeting that Limerick City & County Council install appropriate
 
-speed ramps at Hillview Terrace, Caherconlish, in the interest of road safety.---
+speed ramps at Hillview Terrace, Caherconlish, in the interest of road safety.
+---
 2
 
 Notice of Motion submitted by Councillor L.M. Sheehy
@@ -55,4 +56,5 @@ I will move at the next meeting that the ramp by the new library in Cappamore be
 
 removed completely and a pedestrian crossing with flashing lights be fitted instead and a
 
-lowering in the footpaths for safe wheelchair access.---
+lowering in the footpaths for safe wheelchair access.
+---

@@ -64,7 +64,8 @@ Seconded by Councillor O’Donoghue;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 **(c)**
@@ -129,7 +130,8 @@ And Resolved:
 
 “That the 15.61 acres of land at Carrigeen, Croom, Co. Limerick be disposed of to Tower
 
-View Farm Limited (Mr. Bertie Reynolds)”.---
+View Farm Limited (Mr. Bertie Reynolds)”.
+---
 3
 
 **3.**
@@ -202,7 +204,8 @@ Councillor Collins informed Members the Adare Community Trust Group in Adare wer
 
 currently compiling a strategic plan for the village which is nearing publication. It was
 
-agreed to discuss this matter further at the workshop scheduled for the 19th July, 2019.---
+agreed to discuss this matter further at the workshop scheduled for the 19th July, 2019.
+---
 4
 
 **7.**
@@ -277,7 +280,8 @@ have to be carried out by the outdoor staff of the Municipal District. Councillo
 
 Teskey queried if there was a staffing shortage in the area to carry out these type
 
-of works and requested a staff briefing be provided for the next Meeting.---
+of works and requested a staff briefing be provided for the next Meeting.
+---
 5
 
  Councillor Sheahan expressed concern in relation to the ongoing sewerage issues
@@ -316,4 +320,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

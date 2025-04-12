@@ -60,7 +60,8 @@ June Meeting of the Cappamore Kilmallock Municipal District.
 
 2. Matters Arising:
 
-There were no matters arising.---
+There were no matters arising.
+---
 3. Deputation by Garrienderk Community
 
 Circulated: Presentation by Garrienderk Community on the request for footpath works in
@@ -131,7 +132,8 @@ landowners and community. This suggestion was supported by all Elected members.
 
 Finally An Cathoirleach, on behalf of the Elected Members made clear that antisocial
 
-behavior would not be tolerated.---
+behavior would not be tolerated.
+---
 A time frame as follows was agreed – an update would be provided where appropriate at
 
 the July meeting, and the Executive would aim towards having a mediator appointed by
@@ -180,7 +182,8 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District fo
 
 on the Stone Mansion House, Kilmallock, when the Part8 procedure would commence and
 
-an update on the application under the Fáilte lreland Large Capital Grant Scheme.---
+an update on the application under the Fáilte lreland Large Capital Grant Scheme.
+---
 **REPLY:**
 
 The arrangement remains that Limerick City & County Council will work in partnership with
@@ -243,7 +246,8 @@ District. However, the Council are developing cremation plots in the new cemetar
 
 are currently being developed. There are thirty four cremation plots being provided as part
 
-of the newly developed burial ground extension in Ballylanders, each capable of---
+of the newly developed burial ground extension in Ballylanders, each capable of
+---
 accommodating multiple cremated remains and where feasible, within existing burial
 
 grounds in order to facilitate the growing demand for the internment of ashes.
@@ -290,4 +294,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

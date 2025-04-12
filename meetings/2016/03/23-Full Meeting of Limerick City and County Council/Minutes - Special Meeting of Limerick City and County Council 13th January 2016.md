@@ -56,7 +56,8 @@ Sheahan (K).
 
 The Director, Service Operations/Change Management opened the Meeting and gave an
 
-overview of the presentation that was to follow.---
+overview of the presentation that was to follow.
+---
 **2**
 
 The Director introduced “The Severe Weather Event Limerick December 2015/January
@@ -125,7 +126,8 @@ The following measures were implemented:
 
 • 100 plus road signs.
 
-• Machinery – Excavators x 3, Lorries x 3, pickups x 6, Tractors/trailers x 2.---
+• Machinery – Excavators x 3, Lorries x 3, pickups x 6, Tractors/trailers x 2.
+---
 **3**
 
 • Hire of Flood Boom for Castleconnell.
@@ -198,7 +200,8 @@ Mulcair River pointing out the following:
 
 The Senior Engineer moved on to outline events that had occurred in Corbally on
 
-Saturday, 12th December:---
+Saturday, 12th December:
+---
 **4**
 
 • Council got report circa 8.30 p.m. that Canal was overtopping and the Engineer
@@ -269,7 +272,8 @@ He added that there had been significant damage to infrastructure and to roads. 
 
 estimated that the damage due to flooding alone in Limerick was in excess of €10,000,000
 
-and that it was on the back of years of under-investment in roads maintenance.---
+and that it was on the back of years of under-investment in roads maintenance.
+---
 **5**
 
 He concluded by pointing out that Limerick had many areas built at a level that put them
@@ -348,4 +352,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

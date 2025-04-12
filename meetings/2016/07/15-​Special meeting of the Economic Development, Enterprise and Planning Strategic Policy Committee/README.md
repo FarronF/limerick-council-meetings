@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-07-15 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-economic-development-enterprise-and-planning-strategic-policy-0)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-economic-development-enterprise-and-planning-strategic-policy-0" target="_blank">Link to meeting</a>**

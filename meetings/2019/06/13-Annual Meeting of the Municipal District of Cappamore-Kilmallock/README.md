@@ -4,4 +4,4 @@
 
 **Date and Time:** 2019-06-13 15:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-cappamore-kilmallock-3)**
+**<a href="https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-cappamore-kilmallock-3" target="_blank">Link to meeting</a>**

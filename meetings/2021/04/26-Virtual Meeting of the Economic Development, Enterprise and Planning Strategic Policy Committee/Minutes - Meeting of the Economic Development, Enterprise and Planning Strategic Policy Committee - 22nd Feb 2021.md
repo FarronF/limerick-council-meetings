@@ -76,7 +76,8 @@ to the executive considerations as outlined below:
 
  No Finance model identified
 
- Not time specific---
+ Not time specific
+---
  Not aligned with National Development Plan
 
  Not aligned with National Planning Framework
@@ -151,7 +152,8 @@ sewerage treatment plants for the County and City of Limerick and also the provi
 
 adequate water supply.
 
-It was also agreed that this Notice of Motion be circulated to all TD’s in Limerick---
+It was also agreed that this Notice of Motion be circulated to all TD’s in Limerick
+---
 Ms. Reidy informed members that a submission was being prepared in response to review of the
 
 National Development Plan and one of the major issues raised was the lack of investment in Irish
@@ -218,4 +220,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

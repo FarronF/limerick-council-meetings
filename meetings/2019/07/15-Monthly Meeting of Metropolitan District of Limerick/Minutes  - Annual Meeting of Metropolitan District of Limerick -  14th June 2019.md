@@ -66,7 +66,8 @@ Councillors Butler, Collins, Kiely, McSweeney, Murphy, O’Dea, O’Hanlon, O’
 
 Slattery and Talukder
 
-(11)---
+(11)
+---
 2
 
 **For Councillor Secas**
@@ -135,7 +136,8 @@ The Mayor declared Councillor O’Hanlon elected as Leas Cathaoirleach of the Me
 
 of Limerick.
 
-Cllr O’Hanlon thanked the Members for nominating him and he looked forward to the year ahead.---
+Cllr O’Hanlon thanked the Members for nominating him and he looked forward to the year ahead.
+---
 3
 
 Councillor Costelloe proposed that a Special Meeting of Limerick City and County Council be held in
@@ -210,7 +212,8 @@ of the public are observed at all times. He indicated that there is a health and
 
 about the roadway outside the facility and pointed out that this facility would not be closing if there
 
-was any other choice.---
+was any other choice.
+---
 4
 
 He pointed out that a number of alternative sites were examined and a proposal on Childers Road
@@ -227,4 +230,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

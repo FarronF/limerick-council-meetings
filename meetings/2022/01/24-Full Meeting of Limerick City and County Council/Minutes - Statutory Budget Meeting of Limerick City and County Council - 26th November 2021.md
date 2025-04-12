@@ -62,7 +62,8 @@ In recommending the Budget to the Council for consideration, the Chief Executive
 
 acknowledged that it had been a tough 12 months for everyone, especially the business
 
-community who have had to operate within severe restrictions as we all learned to live with---
+community who have had to operate within severe restrictions as we all learned to live with
+---
 2
 
 COVID-19. After suffering a very sharp fall in economic activity during 2020, the Limerick
@@ -131,7 +132,8 @@ the expenditure necessary to carry out the functions of the Council and the inco
 
 to accrue to the Council. The budget is underpinned by our Corporate Plan that supports the
 
-overall budget strategy---
+overall budget strategy
+---
 3
 
 **Despite Covid-19, The Economic Outlook for Limerick continues to be positive.**
@@ -198,7 +200,8 @@ incorporate actions across all Directorates of the organisation to ensure that t
 
 contributes to achieving its share of the national emissions reduction targets. The
 
-development of the Council’s Climate Action Plan will begin in 2022.---
+development of the Council’s Climate Action Plan will begin in 2022.
+---
 4
 
 Provision has been made in Budget 2022 to advance studies and schemes which will allow the
@@ -267,7 +270,8 @@ cultural and arts centres and across events. It also will continue a focus on de
 
 and delivery of public realm improvements in our urban areas and villages that will animate
 
-the public space and support place-making activities.---
+the public space and support place-making activities.
+---
 5
 
 **Housing**
@@ -334,7 +338,8 @@ In conclusion, he recommended the draft Budget, as presented, to the Members for
 
 **circulated to Members, would be read into the Minutes of the Meeting as follows:**
 
-**Introduction**---
+**Introduction**
+---
 6
 
 The Draft Budget for the financial year ending 31st December 2022 has been prepared,
@@ -415,7 +420,8 @@ Plan will be presented to Council at the January 2022 Council meeting.
 
 Through consultation with the Corporate Policy Group and consideration of the views of
 
-Council as expressed through the different stages of the budgetary process, in particular as---
+Council as expressed through the different stages of the budgetary process, in particular as
+---
 7
 
 expressed through the meetings of the Municipal/Metropolitan Districts, the budget as
@@ -494,7 +500,8 @@ changes is tentatively estimated at around €2 billion per annum (c.1 per cent 
 
 national income) from the mid-part of this decade, and budgetary policy must be formulated
 
-based on this permanent revenue loss.---
+based on this permanent revenue loss.
+---
 8
 
 A perfect storm has given rise to a pick-up in both headline and core inflation since the spring,
@@ -645,7 +652,8 @@ Unemployment (per cent)
 
 7.2
 
-***Public Finances (per cent of GNI)***---
+***Public Finances (per cent of GNI)***
+---
 9
 
 General government balance
@@ -744,7 +752,8 @@ from COVID. Construction work commenced on the Opera Centre site, public realm w
 
 O’Connell Street, the Rugby Experience and Bishops Quay delivering a timely boost to our
 
-city-centre. The vaccination programme and government’s roadmap to reopen retail and---
+city-centre. The vaccination programme and government’s roadmap to reopen retail and
+---
 10
 
 hospitality provided us with a pathway out of lockdown, and this has restored our freedom
@@ -827,7 +836,8 @@ providing necessary supports.
 
 The Draft Budget has been prepared on the principle of a “balanced budget” based on the
 
-overall level of resources available to the Council and the requirement to meet statutory,---
+overall level of resources available to the Council and the requirement to meet statutory,
+---
 11
 
 contractual, legal and other obligations. It incorporates the decisions made by the Council in
@@ -906,7 +916,8 @@ led support measures including:
 
 adaptations
 
- Leading at a local level on the Government’s ‘keep well’ campaign---
+ Leading at a local level on the Government’s ‘keep well’ campaign
+---
 12
 
  Facilitating the work of the LCDC
@@ -989,7 +1000,8 @@ Shannon Metropolitan Area Transport Strategy in conjunction with the National
 
 Transport Authority.
 
-**6.Frontline Local Authority Services**---
+**6.Frontline Local Authority Services**
+---
 13
 
  Continue to deliver on key frontline services and maintain our ability to react to
@@ -1084,7 +1096,8 @@ E - Environmental Services
 
 €37,191,980
 
-€34,938,741---
+€34,938,741
+---
 14
 
 F - Recreation & Amenity
@@ -1155,7 +1168,8 @@ Division, with comparative figures for 2021:
 
 **Draft Budget 2022 - Analysis of Expenditure (excl**
 
-**HAP 79%)**---
+**HAP 79%)**
+---
 15
 
 **Chart 2: Analysis of Expenditure (excl HAP) by Division - Draft Budget 2022 versus Budget**
@@ -1310,7 +1324,8 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **Analysis of Expenditure by Division**
 
-**(Excl HAP)**---
+**(Excl HAP)**
+---
 16
 
 **Chart 3: Analysis of Draft Budget 2022 Income (excluding HAP)**
@@ -1411,7 +1426,8 @@ Comparative figures for Budgets 2022 and 2021 are shown hereunder.
 
 **Draft Budget 2022 €'m**
 
-**Adopted Budget 2021 €'m**---
+**Adopted Budget 2021 €'m**
+---
 17
 
 **Goods and Services Income**
@@ -1484,7 +1500,8 @@ revaluation process commenced during October/ November 2021 and detailed informa
 
 on new yields will not be available for Budget 2022, but the Department have confirmed LPT
 
-allocations for 2022 to Limerick City and County Council via Circular Fin 18/2021.---
+allocations for 2022 to Limerick City and County Council via Circular Fin 18/2021.
+---
 18
 
 The 2022 allocation from the Local Property Tax and the calculation provided by the DHPLG
@@ -1593,7 +1610,8 @@ resources for the delivery of the following services as follows:
 
 ***€151k***
 
-**Table 5: Allocation of additional resources**---
+**Table 5: Allocation of additional resources**
+---
 19
 
 **Commercial Rates**
@@ -1664,7 +1682,8 @@ Up to €2,856 Annual Rate Demand
 
 of 50% required)
 
-50%---
+50%
+---
 20
 
 €11,377 to €57,024 Annual Rate Demand (with
@@ -1739,7 +1758,8 @@ many long-term Rent Supplement recipients.
 
 The key business processes delivered on behalf of the Local Authorities by the HAPSSC are
 
-Tenancy Processing, Weekly Tenant Rent Run, Monthly Landlord Payment, Tenancy---
+Tenancy Processing, Weekly Tenant Rent Run, Monthly Landlord Payment, Tenancy
+---
 21
 
 Amendments, Debt Management, and Recoupment Management. The cost of running the
@@ -1814,7 +1834,8 @@ Greenway since it opened. The data shows that over 70% were cyclists and there h
 
 overwhelmingly positive feedback from local hospitality businesses across the region. The
 
-investment in the Limerick Greenway has provided a strategic piece of sustainable travel---
+investment in the Limerick Greenway has provided a strategic piece of sustainable travel
+---
 22
 
 infrastructure and a tourism amenity, which will support local community development
@@ -1863,7 +1884,8 @@ As a major employer in the region, it is important that we provide employment op
 
 to the communities we serve. The Graph below shows our overall numbers at present and
 
-the number of retired staff.---
+the number of retired staff.
+---
 23
 
 **Chart 5: Analysis of staff numbers and number receiving pensions 2015-2021 (Sept)**
@@ -1980,7 +2002,8 @@ SEP-21
 
 **Analysis of Staff Numbers and numbers**
 
-**receiving pensionFTE StaffNumber receiving pension**---
+**receiving pensionFTE StaffNumber receiving pension**
+---
 24
 
 The Covid Community Response Team, supported by our Customer Services Department,
@@ -2051,7 +2074,8 @@ future years. Capital projects by their very nature are flexible rolling plans, 
 
 annual review and possible adjustment. Below please find a summary of potential spend and
 
-source of funding for the 3-year capital plan 2022 to 2024.---
+source of funding for the 3-year capital plan 2022 to 2024.
+---
 25
 
 **Capital**
@@ -2106,7 +2130,8 @@ source of funding for the 3-year capital plan 2022 to 2024.---
 
 17.34
 
-**Table 7: Summary Capital Plan 2022-2024**---
+**Table 7: Summary Capital Plan 2022-2024**
+---
 26
 
 Chart 6 profiles the Capital Expenditure for each of the three years:
@@ -2161,7 +2186,8 @@ to manage the impact of these events.
 
 **€403**
 
-**Capital Expenditure 2022-2024 by Year €'m**---
+**Capital Expenditure 2022-2024 by Year €'m**
+---
 27
 
 The crisis highlighted the true nature of public service in communities across Limerick. Faced
@@ -2232,7 +2258,8 @@ and the Deputy Chief Executive and their team for the work that had gone in to t
 
 preparation of the Budget and also thanked the Executive of the Council for their work during
 
-the Covid pandemic. He commended the people of Limerick for their resilience during the---
+the Covid pandemic. He commended the people of Limerick for their resilience during the
+---
 28
 
 worst health and economic crisis the modern world has experienced. He also acknowledged
@@ -2305,7 +2332,8 @@ pandemic.
 
 He welcomed the provisions contained in the Budget, which would ensure the continued
 
-delivery of a wide range of services across the City and County. He also welcomed the fact---
+delivery of a wide range of services across the City and County. He also welcomed the fact
+---
 29
 
 that there was no increase in commercial rates, which would continue to support the business
@@ -2374,7 +2402,8 @@ that this would have**.**
 
 Councillor Teefy also welcomed the continued capital investment in the Roads infrastructure
 
-in Limerick city and county. She welcomed the roads revenue budget stating that local and---
+in Limerick city and county. She welcomed the roads revenue budget stating that local and
+---
 30
 
 regional roads are so important and it is essential that they are maintained properly. She also
@@ -2439,7 +2468,8 @@ under the General Municipal Allocation (GMA) scheme, and she noted the various i
 
 in relation to tourism promotion across both the city and county.
 
-She confirmed that the Labour Party would be supporting the budget.---
+She confirmed that the Labour Party would be supporting the budget.
+---
 31
 
 **Councillor Benson**
@@ -2508,7 +2538,8 @@ and county, including the UL-Annacotty cycling route, which would allow more peo
 
 or cycle around their areas, thereby reducing the reliance on cars. He welcomed the National
 
-Transport Authority Bus Connect Scheme and acknowledged the importance of climate action---
+Transport Authority Bus Connect Scheme and acknowledged the importance of climate action
+---
 32
 
 initiatives that were proposed in the budget, and the importance of delivering the
@@ -2573,7 +2604,8 @@ without amendment (Item 5 on Meeting Agenda).
 
 Reform Act, 2014, is adopted as circulated without amendment. (Item 6 on the Meeting
 
-Agenda).---
+Agenda).
+---
 33
 
 **AND THAT** the Tourism Sector Support Scheme 2022 in accordance with Section 66 of the
@@ -2602,4 +2634,5 @@ Signed:
 
 **Mayor**
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

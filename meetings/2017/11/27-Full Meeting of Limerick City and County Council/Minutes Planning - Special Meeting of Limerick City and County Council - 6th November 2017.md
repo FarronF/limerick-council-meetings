@@ -60,7 +60,8 @@ The Mayor stated that the Special Meeting had been convened to discuss the issue
 
 out in Requisition received on 26th September, 2017, and signed by a number of Members
 
-as follows:---
+as follows:
+---
 2
 
 *“We request a Special Meeting of Limerick City and County Council as follows: (i) Proposed*
@@ -125,7 +126,8 @@ as follows:---
 
 *excluded from consideration within the boundaries of this Local Area Plan for the duration of*
 
-*this plan.”*---
+*this plan.”*
+---
 3
 
 The following documents had been circulated with the agenda:
@@ -196,7 +198,8 @@ parallel to the Development Plan in the planning hierarchy but that the Waste Ma
 
 Plan has precedence over the Development Plan. He was therefore calling on the Members
 
-to support five motions which he was putting forward as follows: ----
+to support five motions which he was putting forward as follows: -
+---
 4
 
 1.
@@ -269,7 +272,8 @@ Planning Strategic Policy Committee Meeting held on 9th October, 2017, dealing w
 
 issue, and referred to the need for action to be taken to prevent future similar planning
 
-applications.---
+applications.
+---
 5
 
 A number of other Members spoke in support of the Motions referring to the dangers
@@ -340,7 +344,8 @@ This was a matter for the Council. However, he pointed out that this Motion,
 
 if approved, could have wider impacts and should be considered carefully
 
-accordingly.---
+accordingly.
+---
 6
 
 **Motion 2**
@@ -413,7 +418,8 @@ setting out in detail the reasons why.” He also indicated that he would be hap
 
 any other legal advice that Elected Members might have and asked if there was any
 
-particular Counsel that they wished to use in this instance.---
+particular Counsel that they wished to use in this instance.
+---
 7
 
 NOTICE OF MOTION
@@ -440,4 +446,5 @@ Mayor
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

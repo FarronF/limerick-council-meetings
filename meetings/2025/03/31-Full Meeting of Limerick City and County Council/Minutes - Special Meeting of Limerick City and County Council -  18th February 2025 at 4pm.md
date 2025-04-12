@@ -58,7 +58,8 @@ of Limerick County Council in 1979 and had retained his seat at every subsequent
 
 Election until his retirement in 2014. He was elected as Chairman of the Council in 1986/1987,
 
-1988/89, 1989/90 and again in 2004/2005.---
+1988/89, 1989/90 and again in 2004/2005.
+---
 2
 
 Members paid tribute to him saying that he was a great servant to his community and had
@@ -97,4 +98,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

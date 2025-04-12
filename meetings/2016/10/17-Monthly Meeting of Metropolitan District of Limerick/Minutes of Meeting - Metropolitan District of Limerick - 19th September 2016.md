@@ -74,7 +74,8 @@ Executive’s Report.
 
 Members welcomed the proposed development and discussed the possibility of using urban
 
-renewal funding to extend the proposed project. The Director, Physical Development informed---
+renewal funding to extend the proposed project. The Director, Physical Development informed
+---
 2
 
 the Members that the project would involve capital expenditure of approximately €1.5m which
@@ -157,7 +158,8 @@ Circulated, Report of the Acting Director, Social Development, dated 16th Septem
 
 setting out proposals to raise a loan of €1.7m to undertake refurbishment works at the
 
-Watergate Complex which consisted of 100 apartments constructed in 1969. It was noted that---
+Watergate Complex which consisted of 100 apartments constructed in 1969. It was noted that
+---
 3
 
 the works would include external insulation of the complex, attic insulation and replacement
@@ -238,7 +240,8 @@ lands at Ballykeefe.
 
 Councillor Leddin expressed his dissatisfaction with the reply circulated to his question and it
 
-was agreed that the Property Department would contact Councillor Leddin on this matter.---
+was agreed that the Property Department would contact Councillor Leddin on this matter.
+---
 4
 
 **5.**
@@ -329,7 +332,8 @@ generate considerable benefits, not least urban regeneration, changing a city's
 
 image and raising its visibility and profile on an international scale. It is seen to
 
-be a transformative project for the winning city. e.g. when choosing the 2016---
+be a transformative project for the winning city. e.g. when choosing the 2016
+---
 5
 
 winner San Sebastian, in the Basque Region of Spain, the jury panel highlighted
@@ -408,7 +412,8 @@ commence work on site, week commencing the 19th September 2016.
 
 ***to contact those on the housing waiting list about the housing needs re-assessment before***
 
-***removing them from the waiting list.***---
+***removing them from the waiting list.***
+---
 6
 
 **REPLY**:
@@ -507,7 +512,8 @@ archaeological investigation works in this area.
 
  Installation of sliding sash windows at first floor
 
-level and painting of the building.---
+level and painting of the building.
+---
 7
 
 26 Nicholas Street
@@ -608,7 +614,8 @@ Gaeltacht Affairs. Currently, stabilisation works to the Fireplace Site are
 
 underway with the ultimate aim, along with other key projects, to revitalise the
 
-overall Nicholas Street area.---
+overall Nicholas Street area.
+---
 8
 
 The following steps are in progress / planned for the ‘Fireplace’ site:
@@ -711,7 +718,8 @@ gallery at the meeting and he proposed that standing orders be suspended for 20 
 
 allow a representative of the Drominbeg Members to address the Meeting. This proposal was
 
-seconded by Councillor Crowley.---
+seconded by Councillor Crowley.
+---
 9
 
 The Meetings Administrator informed the Meeting that he had received the following legal
@@ -786,7 +794,8 @@ The Meetings Administrator stressed that, given the above advice, Councillor Cro
 
 had not been included on the agenda and he advised the Members that this matter should not
 
-be discussed any further at the Meeting.---
+be discussed any further at the Meeting.
+---
 10
 
 Following discussion it was agreed that a vote be taken on Councillor O’Hanlon’s motion to
@@ -867,7 +876,8 @@ goods and services;
 
  develop hubs of creativity and innovation and broaden opportunities for creators and
 
-professionals in the cultural sector;---
+professionals in the cultural sector;
+---
 11
 
  improve access to and participation in cultural life, in particular for marginalized or
@@ -950,7 +960,8 @@ communications with UNESCO.
 
 http://en.unesco.org/creative-cities/sites/creative-
 
-cities/files/Applicant\_handbook\_2015Call\_UNESCO\_Creative\_Cities\_Network.pdf---
+cities/files/Applicant\_handbook\_2015Call\_UNESCO\_Creative\_Cities\_Network.pdf
+---
 12
 
 **14.**
@@ -1039,7 +1050,8 @@ on the redevelopment of the city centre. It is not envisaged that the Horizon Ma
 
 will be developed as a retail centre but for other uses that will support the city
 
-centre rather than compete with it.---
+centre rather than compete with it.
+---
 13
 
 **16.**
@@ -1122,7 +1134,8 @@ The budget process represents an opportunity for the Members of Council to
 
 identify and agree priority works and to ensure that adequate funding is available
 
-to deliver on these priorities.---
+to deliver on these priorities.
+---
 14
 
 It is my intention to ensure that a comprehensive, fully costed programme of
@@ -1209,7 +1222,8 @@ student accommodation on local authority or other publicly-owned lands.
 
 to An Bord Pleanála, as well as maximise the opportunities for joint venture
 
-projects on local authority sites to proceed through the Part 8 process and---
+projects on local authority sites to proceed through the Part 8 process and
+---
 15
 
 prepare guidance on planning policies around student accommodation
@@ -1254,4 +1268,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

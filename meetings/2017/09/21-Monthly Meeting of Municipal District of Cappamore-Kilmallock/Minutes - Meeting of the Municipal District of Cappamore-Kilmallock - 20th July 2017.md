@@ -54,7 +54,8 @@ Seconded by Councillor Teefy;
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 2.
@@ -133,7 +134,8 @@ items developing a levy on one-use items along the lines of the successful plast
 
 Members thanked her for the comprehensive presentation and commended Team
 
-Limerick Clean-Up on the huge success.---
+Limerick Clean-Up on the huge success.
+---
 3
 
 4.
@@ -206,7 +208,8 @@ would be made to allocations:
 
 • The allocation for Kilfinane Coshlea Historical Society was amended to €500.
 
-• The allocation for Kilfinane Community Projects CLG was amended to €500.---
+• The allocation for Kilfinane Community Projects CLG was amended to €500.
+---
 4
 
 • The allocation for Kilbehenny Community Centre was amended to €500.
@@ -351,7 +354,8 @@ which is accessible to all from the
 
 surrounding towns and villages
 
-€500---
+€500
+---
 5
 
 Effin & Garrienderk
@@ -472,7 +476,8 @@ The Members expressed their concern in relation to the Kilmallock Business Park 
 
 the decline of same. They felt that investors would not be interested in this development in its
 
-current condition and that it should be actively promoted to encourage investment.---
+current condition and that it should be actively promoted to encourage investment.
+---
 6
 
 Mr. Fitzmaurice stated that they would promote properties within their remit. He
@@ -543,7 +548,8 @@ Notice of Motion submitted by Councillor E. Ryan
 
 ***Priest’s house to Nicker School with pedestrian crossing to School.***
 
-With the agreement of the Meeting, this Motion was withdrawn by Councillor Ryan.---
+With the agreement of the Meeting, this Motion was withdrawn by Councillor Ryan.
+---
 7
 
 10.
@@ -602,4 +608,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

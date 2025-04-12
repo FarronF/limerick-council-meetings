@@ -64,7 +64,8 @@ meeting of the Step Forward group to discuss concerns, and that the Senior Housi
 
 Engineer had agreed to attend the December Meeting of the Municipal District to provide
 
-information on Air to Water and an update on other housing construction initiatives.---
+information on Air to Water and an update on other housing construction initiatives.
+---
 3. Disposal of Property
 
 The following disposal of property was noted:
@@ -127,7 +128,8 @@ as they are funded by the Department of Education and not the NTA.
 
 **Question 2:** Would the NTA have any issues with local communities fund raising and
 
-installing bus shelters on public land/space?---
+installing bus shelters on public land/space?
+---
 **Answer 2:** The NTA would not have an issue with this, but they could not take them in
 
 charge. These shelters can cause maintenance issues post installation and the Local
@@ -190,7 +192,8 @@ the R517, be reviewed.
 
 **Proposed: Councillor Carey**
 
-**Seconded: Councillor E Ryan**---
+**Seconded: Councillor E Ryan**
+---
 **REPLY:**
 
 The Cappamore Kilmallock Municipal District Office will liaise with Cllr. Carey on this request
@@ -251,7 +254,8 @@ Should this Notice of Motion be passed, this will need to be forwarded to the Fu
 
 for consideration. Contact will be made with the Citizens assembly if passed at the full
 
-council.---
+council.
+---
 Questions
 
 9. **Question submitted by Councillor Carey**
@@ -298,7 +302,8 @@ Park in 2023.
 
 The information provided above is extracted from the 2021 Annual Occupancy Audit carried
 
-(Image omitted)---
+(Image omitted)
+---
 out by LCCC on all active Approved Housing Bodies (AHBs) properties in Limerick. Therefore,
 
 this information is accurate as of 31/12/2021 as this is the most recent occupancy audit
@@ -367,7 +372,8 @@ A minutes silence was held for Vicky Phelan, Cervical Check campaigner, who pass
 
 on 14th November 2022.
 
-Marion Roche, Avondhu Newspaper was welcomed to the meeting.---
+Marion Roche, Avondhu Newspaper was welcomed to the meeting.
+---
 A request was raised that the Oola Graveyard Committee be invited to present to the
 
 Elected Members at a future meeting. The Meetings Administrator advised the Elected
@@ -388,4 +394,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

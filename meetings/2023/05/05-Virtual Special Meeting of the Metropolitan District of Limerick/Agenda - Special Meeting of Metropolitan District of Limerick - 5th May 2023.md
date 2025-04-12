@@ -79,7 +79,8 @@ To note proposal for the disposal of land as follows:
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **General Property Disposals**
@@ -88,4 +89,5 @@ To note proposal for the disposal of land as follows:
 
 (f) Proposed Disposal of Land at Rathbane North, Limerick.
 
-(Reports Enclosed).---
+(Reports Enclosed).
+---

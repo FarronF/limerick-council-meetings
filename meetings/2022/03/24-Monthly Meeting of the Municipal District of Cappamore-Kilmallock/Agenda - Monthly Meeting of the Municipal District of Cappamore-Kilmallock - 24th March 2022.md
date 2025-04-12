@@ -40,7 +40,8 @@ Deputation from Gotoon/Ballingaddy Residents Group.
 
 To receive a presentation on the Dereliction & Vacancy Initiative in the Cappamore-
 
-Kilmallock Municipal District---
+Kilmallock Municipal District
+---
 2
 
 5.Housing Directorate
@@ -101,7 +102,8 @@ I will move at the next meeting of the Cappamore/Kilmallock Municipal District c
 
 Limerick City and County Council to complete a pedestrian footpath and review traffic calming
 
-measures from Elton Close housing estate to Elton village.---
+measures from Elton Close housing estate to Elton village.
+---
 3
 
 QUESTIONS
@@ -124,4 +126,5 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District if
 
 County Council plan to install public car park signage in the vicinity of Emmett Street and
 
-Charleville road, Kilmallock.---
+Charleville road, Kilmallock.
+---

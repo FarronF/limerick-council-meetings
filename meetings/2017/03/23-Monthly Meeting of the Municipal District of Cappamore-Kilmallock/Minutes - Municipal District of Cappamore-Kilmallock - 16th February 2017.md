@@ -66,7 +66,8 @@ under the following headings:
 
 • Change Programme.
 
-• Limerick 2020 Bid / Limerick Cultural Strategy / 8 Steps to Inclusive Practice.---
+• Limerick 2020 Bid / Limerick Cultural Strategy / 8 Steps to Inclusive Practice.
+---
 2
 
 • Confidence – Community Engagement.
@@ -147,7 +148,8 @@ study. The presentation gave a view of surface dressed walkway showing typical c
 
 with buff chippings and also gave a view of surface dressed walkway showing typical
 
-construction with grey limestone chippings.---
+construction with grey limestone chippings.
+---
 3
 
 This initiative was a medium-scale project under the Rural Economic Development
@@ -218,7 +220,8 @@ It was noted that the Cappamore Project for 2016 included:
 
 residents, businesses and visitors.
 
-• Budget: €35,520.---
+• Budget: €35,520.
+---
 4
 
 An attitudinal survey would be conducted once construction of the footpaths had taken
@@ -285,7 +288,8 @@ carried out on this road in the meantime as part of routine maintenance
 
 works and the Supervisor will be requested to carry out whatever
 
-patching is appropriate.---
+patching is appropriate.
+---
 5
 
 Other Matter Raised:
@@ -306,4 +310,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

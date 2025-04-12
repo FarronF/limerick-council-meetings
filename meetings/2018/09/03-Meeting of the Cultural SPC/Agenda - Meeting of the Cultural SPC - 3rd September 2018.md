@@ -70,7 +70,8 @@ Notice of Motion referred from Metropolitan District of Limerick
 
 **Notice of Motion submitted by Councillor D. Butler (to be referred to the Cultural**
 
-**Strategic Policy Committee)**---
+**Strategic Policy Committee)**
+---
 I call at the next Meeting on Limerick City and County Council to develop an inventory
 
 of all Limerick's historical and artistic assets to ensure their preservation and to exploit
@@ -89,4 +90,5 @@ Any Other Business
 
 **Cathaoirleach**
 
-**Cultural SPC, Limerick City & County Council**---
+**Cultural SPC, Limerick City & County Council**
+---

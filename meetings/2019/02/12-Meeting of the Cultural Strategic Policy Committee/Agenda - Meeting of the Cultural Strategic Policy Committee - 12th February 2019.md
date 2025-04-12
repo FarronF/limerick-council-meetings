@@ -76,7 +76,8 @@ Parade be designated as commemorating the centenary of the Limerick Soviet.
 
 The celebrations planned by Trade Unions this year all surround the fight that
 
-workers took to have clear passage to their workplace’s without hindrance---
+workers took to have clear passage to their workplace’s without hindrance
+---
 from the Military forces in our City at that time. It is a forgotten time in our
 
 City’s History and we need to have the celebrations highlighted as much as
@@ -109,4 +110,5 @@ AOB
 
 **Cathaoirleach**
 
-**Cultural SPC, Limerick City & County Council**---
+**Cultural SPC, Limerick City & County Council**
+---

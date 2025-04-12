@@ -64,7 +64,8 @@ Seconded by Councillor Teskey;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 Members expressed disappointment that a meeting between Oireachtas members,
@@ -137,7 +138,8 @@ the position in relation to the disposal of 1.06 acres of land at Galvone Indust
 
 to Limerick City Build (Regen) Ltd (Raymond and Bartholomew O’Halloran).
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 **3.**
@@ -212,7 +214,8 @@ This report was noted by Members.
 
 The Cathaoirleach welcomed the Senior Executive Engineer, Design and Delivery to the
 
-Meeting. The Senior Executive Engineer gave Members an update in relation to the---
+Meeting. The Senior Executive Engineer gave Members an update in relation to the
+---
 4
 
 footpath from Kildimo to the Beer Garden Public House. Following discussion, the
@@ -281,7 +284,8 @@ This project is being progressed by the Road Design Office with funding
 
 under the Transport Infrastructure Ireland (TII).
 
-Councillor Sheahan welcomed the response.---
+Councillor Sheahan welcomed the response.
+---
 5
 
 **8.**
@@ -328,4 +332,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

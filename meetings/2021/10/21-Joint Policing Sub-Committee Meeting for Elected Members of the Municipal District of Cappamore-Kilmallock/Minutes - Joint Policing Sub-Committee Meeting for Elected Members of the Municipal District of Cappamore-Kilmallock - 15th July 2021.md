@@ -68,7 +68,8 @@ burglaries of private houses and sheds over the period and added the following d
 
  Drug detection (4) no cases in 2020
 
- Road Traffic Collisions up 50% on 2020 stats---
+ Road Traffic Collisions up 50% on 2020 stats
+---
 2
 
 **Bruff Division**
@@ -139,7 +140,8 @@ The Superintendent agreed to raise the matter with the roads policing units in t
 
 Trevor McKechnie agreed to look at the location with a view to submitting an application for
 
-funding of Driver Feed Back signs under the low cost safety improvement funding scheme.---
+funding of Driver Feed Back signs under the low cost safety improvement funding scheme.
+---
 3
 
 Councillor Egan asked if there could be an update on the matter provided for the next
@@ -210,4 +212,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

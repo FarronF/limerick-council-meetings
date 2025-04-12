@@ -70,7 +70,8 @@ high level goals in the economic, social and physical/environment areas with the
 
 objective of enhancing the well being and quality of life for the citizens of Limerick.
 
-The SPC will be part of the monitoring process of the Plan.---
+The SPC will be part of the monitoring process of the Plan.
+---
 The members generally welcomed the plan. Many issues were raised by the
 
 members, including; the consultation process, broadband connectivity in rural areas,
@@ -161,7 +162,8 @@ with the Mid West Action Plan for Jobs. He outlined the initiatives to be progre
 
 Issues were raised by Councillors around Food Strategy including branding,
 
-incubation space, the appointment of a Food Development Manager, Kitchen Units.---
+incubation space, the appointment of a Food Development Manager, Kitchen Units.
+---
 Mike Cantwell informed the meeting that there was a shortage of available Food
 
 Units in the City. He also confirmed that a Food Development manager is to be
@@ -184,4 +186,5 @@ Chairperson
 
 Secretary
 
-Date: Date:---
+Date: Date:
+---

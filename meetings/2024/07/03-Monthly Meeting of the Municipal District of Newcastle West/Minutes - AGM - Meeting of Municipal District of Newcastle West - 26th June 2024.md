@@ -62,7 +62,8 @@ term. The Members looked forward to working with the Mayor in progressing variou
 
 projects in the District.
 
-The Members thanked Councillor Ruddle for his time as Cathaoirleach and wished him well.---
+The Members thanked Councillor Ruddle for his time as Cathaoirleach and wished him well.
+---
 2
 
 **1.**
@@ -133,7 +134,8 @@ elected as Leas-Chathaoirleach of the Municipal District.
 
 The incoming Leas-Chathaoirleach wished the very best to the incoming Cathaoirleach,
 
-assuring him of his full support.---
+assuring him of his full support.
+---
 3
 
 The Members congratulated Councillor Sheahan on his appointment as Leas-Chathaoirleach
@@ -194,5 +196,7 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
-4---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
+4
+---

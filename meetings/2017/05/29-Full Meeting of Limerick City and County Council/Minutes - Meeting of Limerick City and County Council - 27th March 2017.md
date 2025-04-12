@@ -70,7 +70,8 @@ on a rescue mission.
 
 • The families of Gary Kelly and Delia Keary, both from Co. Clare, the young couple who
 
-tragically lost their lives following a collision near Abbeyfeale.---
+tragically lost their lives following a collision near Abbeyfeale.
+---
 2
 
 With the permission of the Mayor, it was agreed to take Notice of Motion No. 24 and
@@ -143,7 +144,8 @@ Reference was also made to the former Industrial School at Glin and Members
 
 stressed the importance of preserving the records that had been retained in relation to Glin
 
-to facilitate any future investigation.---
+to facilitate any future investigation.
+---
 3
 
 24A. Notice of Motion submitted by Mayor K. O’Hanlon
@@ -224,7 +226,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, the approval of the Council be and is hereby given to the disposal of property
@@ -303,7 +306,8 @@ And Resolved:
 
 at 36 Greenhills Road, Garryowen, Limerick, to William and Mary Walsh, for the sum of
 
-€95.42, the disposal to be by way of Deed of Conveyance of the interest of Limerick City and---
+€95.42, the disposal to be by way of Deed of Conveyance of the interest of Limerick City and
+---
 5
 
 County Council in the property, particulars of which were contained in Statutory Notice
@@ -376,7 +380,8 @@ Chief Executive’s Report
 
 Circulated, Chief Executive’s Reports for the months of January and February 2017.
 
-The Chief Executive’s Reports were noted by the Members.---
+The Chief Executive’s Reports were noted by the Members.
+---
 6
 
 (c)
@@ -445,7 +450,8 @@ Finance, as was an analysis of commercial rates arrears for the years 2008-2017.
 
 Members were advised that the level of collection had improved and was now running at
 
-77% and that the objective was to reach 80% by the end of 2017.---
+77% and that the objective was to reach 80% by the end of 2017.
+---
 7
 
 It was noted that the number of people paying through direct debit had increased
@@ -548,7 +554,8 @@ It was noted that the Council also operated a Tourism Sector Support Scheme for
 
 those in the sector whose commercial rates liability was in excess of €21,000. The support
 
-grant payment was set at 4% of the total rates, including arrears.---
+grant payment was set at 4% of the total rates, including arrears.
+---
 8
 
 Members thanked the A/Head of Finance and Administrative Officer for the
@@ -621,7 +628,8 @@ And Resolved:
 
 Mayor and 3 Members to Boston, under Section 142 (5) of the Local Government Act, 2001,
 
-as amended.”---
+as amended.”
+---
 9
 
 (g)
@@ -690,7 +698,8 @@ and Emergency Services Strategic Policy Committee Meeting held on 21st February,
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
-recommendation was agreed.---
+recommendation was agreed.
+---
 10
 
 (v)
@@ -761,7 +770,8 @@ Members welcomed the proposed enhancement works as set out in the report
 
 circulated. They complimented staff involved in this project and highlighted the huge
 
-tourism potential of the Great Southern Trail.---
+tourism potential of the Great Southern Trail.
+---
 11
 
 6.
@@ -836,7 +846,8 @@ proposed Site Visits by a representative group of the Culture and Arts Working G
 
 Liverpool and Manchester, in accordance with Section 142 (5) of the Local Government Act,
 
-2001, as amended.---
+2001, as amended.
+---
 12
 
 Proposed by Councillor Sheahan (J);
@@ -919,7 +930,8 @@ Border Tourism Conference 2017 to be held in Carlingford, Co. Louth, on 5th Apri
 
 2-Day Social Media Training for Councillors to be held in Clonakilty, Co Cork, on 15th/16th
 
-April, 2017; (n) Hepatitis C Community Summit to be held in Amsterdam, the Netherlands,---
+April, 2017; (n) Hepatitis C Community Summit to be held in Amsterdam, the Netherlands,
+---
 13
 
 on 18th/19th April, 2017; (o) 2-Day Social Media Training for Councillors to be held in
@@ -984,7 +996,8 @@ Question submitted by Councillor V. Crowley
 
 **and/or improvement of the Limerick Westfield Wetlands and Bird Sanctuary, which are in**
 
-**a Special Area of Conservation.**---
+**a Special Area of Conservation.**
+---
 14
 
 **REPLY:**
@@ -1069,7 +1082,8 @@ electoral divisions of Custom House, Shannon A, Shannon B, Dock A and Dock
 
 B. According to the 2016 Central Statistics Office Census figures, the average
 
-vacancy rate across these 5 electoral divisions is 18.56%. Within these areas---
+vacancy rate across these 5 electoral divisions is 18.56%. Within these areas
+---
 15
 
 there exists a housing stock of 3,464 units and, according to the Census, a
@@ -1116,7 +1130,8 @@ focuses on targeted actions and measures to renew existing vacant housing
 
 in Limerick city centre. A decision is awaited on this ‘Pathfinder’s Proposal’
 
-(Image omitted)---
+(Image omitted)
+---
 16
 
 for innovative projects which fall under Pillar 5 of the Rebuilding Ireland
@@ -1203,7 +1218,8 @@ period for incurring expenditure on the refurbishment or conversion of
 
 rented residential property starts on 1 January 2017 and ends on 4 May
 
-2020.---
+2020.
+---
 17
 
 The owner-occupier residential element provides tax relief by way of a
@@ -1280,7 +1296,8 @@ Office in 7/8 Patricks Street. These clinics are by appointment and allow
 
 citizens an opportunity to come and ask questions related to the scheme to a
 
-cross departmental panel.---
+cross departmental panel.
+---
 18
 
 A Living City Initiative re-launch is being organised for early April 2017 and
@@ -1365,7 +1382,8 @@ number of years, he had been pointing out and actively promoting the potential u
 
 very suitable landbank at Askeaton. He had had a number of meetings with Shannon
 
-Development in this regard. He added that the landbank in question had been vacant for---
+Development in this regard. He added that the landbank in question had been vacant for
+---
 19
 
 half a century. He stated that while he welcomed all of the new developments in the city
@@ -1446,7 +1464,8 @@ students who participated in a formally assessed programme of engagement with th
 
 elderly and other vulnerable people in their community. He explained that there might be a
 
-mechanism for awarding these points through the Leaving Certificate. Vocational---
+mechanism for awarding these points through the Leaving Certificate. Vocational
+---
 20
 
 Programme (L.C.V.P). He added that it would be important for the programme to have a
@@ -1533,7 +1552,8 @@ preventing the Irish Government from changing the date of enrolment or any other
 
 so that anyone who had applied to take part in an educational course could avail of the
 
-payment.---
+payment.
+---
 21
 
 The Motion was seconded by Cmhlr. Ó Ceallaigh and agreed.
@@ -1604,7 +1624,8 @@ Members were welcome to meet with the Consultants to seek further clarification.
 
 Following considerable discussion, it was agreed to refer this item to the Mayor and
 
-Party Leaders for further consideration.---
+Party Leaders for further consideration.
+---
 22
 
 23.
@@ -1667,7 +1688,8 @@ There were no abstentions.
 
 The Meetings Administrator declared the Mayor’s proposal to reject the Motion as
 
-carried.---
+carried.
+---
 23
 
 24.
@@ -1740,7 +1762,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting
 
-was available on Alfresco for inspection by the Members.---
+was available on Alfresco for inspection by the Members.
+---
 24
 
 PLANNING AND DEVELOPMENT:
@@ -1757,4 +1780,5 @@ Mayor
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

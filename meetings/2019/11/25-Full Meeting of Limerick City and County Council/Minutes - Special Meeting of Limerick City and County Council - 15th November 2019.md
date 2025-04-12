@@ -66,7 +66,8 @@ Minister for Communications, Climate Action and Environment and demand that he
 
 intervenes to stop the closure and to save Lyric FM. Councillor Sheehan also requested that
 
-the Council write to the Cathaoirligh of Clare and Tipperary County Councils requesting---
+the Council write to the Cathaoirligh of Clare and Tipperary County Councils requesting
+---
 2
 
 them to oppose the proposal. Councillor Sheehan also requested that the Council write to
@@ -131,4 +132,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

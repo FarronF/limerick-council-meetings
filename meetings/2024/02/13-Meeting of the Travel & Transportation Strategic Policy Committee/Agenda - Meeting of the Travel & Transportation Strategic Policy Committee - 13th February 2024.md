@@ -29,7 +29,8 @@ set out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -52,4 +53,5 @@ for certain approved organisations operating within the City Centre area, so as 
 
 enable them to park their vehicle at various locations throughout the city in order to
 
-deliver essential and important services to people in the City Centre area.---
+deliver essential and important services to people in the City Centre area.
+---

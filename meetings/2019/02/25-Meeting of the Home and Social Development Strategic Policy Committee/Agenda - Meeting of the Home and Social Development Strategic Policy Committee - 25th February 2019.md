@@ -58,4 +58,5 @@ Council development in the Metropolitan District.
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

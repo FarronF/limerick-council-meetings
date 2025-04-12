@@ -62,7 +62,8 @@ from Ted O’Sullivan’s to Bridget Kelly’s gate area used by a lot of walker
 
 5.
 
-I will ask at the next meeting for Plastic Recycling bins in Galbally.---
+I will ask at the next meeting for Plastic Recycling bins in Galbally.
+---
 2
 
 **Questions submitted by Councillor** **W. O’Donnell**
@@ -131,4 +132,5 @@ pedestrian crossing be provided at Hospital
 
 15.
 
-Any Other Business.---
+Any Other Business.
+---

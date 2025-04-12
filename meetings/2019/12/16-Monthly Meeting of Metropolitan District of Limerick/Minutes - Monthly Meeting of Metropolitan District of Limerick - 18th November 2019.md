@@ -62,7 +62,8 @@ will issue.
 
 Members also referred to the invitation issued to the HSE and expressed disappointment that a
 
-representative from the HSE was unavailable to attend.---
+representative from the HSE was unavailable to attend.
+---
 2
 
 Councillor Slattery also referred to the signed petition and request for a Special Meeting submitted
@@ -147,7 +148,8 @@ intention to bring a Section 183 Notice to the January Meeting of Council in thi
 
 approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 (b)
@@ -216,7 +218,8 @@ Horizon Mall, Dublin Road, Limerick.
 
 Derelict and Vacant Sites Levies.
 
-The reports, as circulated, were noted by Members.---
+The reports, as circulated, were noted by Members.
+---
 4
 
 **6.**
@@ -299,7 +302,8 @@ drafted. Construction of new station is programmed by the NTA for Quarter 1, 202
 
 ***are outstanding in relation to footpaths/pavements and what impact this has had on urban***
 
-***design.***---
+***design.***
+---
 5
 
 **REPLY:**
@@ -406,7 +410,8 @@ collector.
 
 However, the Council spent a total of €4,001,918 in relation to Street Cleaning and
 
-Litter Warden Services in 2018. Further monies of €73,857 and €50,200 were---
+Litter Warden Services in 2018. Further monies of €73,857 and €50,200 were
+---
 6
 
 allocated to Public Awareness / Promotional Initiatives and the Anti-Dumping
@@ -491,7 +496,8 @@ The time-schedule for completion of the study is as follows:
 
 November 2019: Survey of Facilities commenced
 
-Mid-February 2020: Draft Report of findings---
+Mid-February 2020: Draft Report of findings
+---
 7
 
 Mid-March 2020: Final Report
@@ -574,7 +580,8 @@ The speed limits in College and Janemount Parks, Corbally will be changed to 30k
 
 in 2020 as part of the Council’s phased introduction of 30 kph speed limits in all
 
-housing estates in the City and County---
+housing estates in the City and County
+---
 8
 
 **17.**
@@ -663,7 +670,8 @@ Roundabout due to the condition of the existing road surface;
 
 turning movements from Chawkes and Lidl onto the R445, which has been
 
-constructed to comply with a condition of planning.---
+constructed to comply with a condition of planning.
+---
 9
 
  The above works focused on improving road safety.
@@ -744,7 +752,8 @@ on the N18 extending eastwards to the rear of Tesco in Coonagh; associated cycle
 
 lanes and footpaths and advance works on the remainder of the route to
 
-Knockalisheen.---
+Knockalisheen.
+---
 10
 
 It is anticipated that the Tender documentation for Phase 2 of the Coonagh to
@@ -837,7 +846,8 @@ realm in the area.
 
 ***I will ask at the next Meeting to please advise on the maximum wait times for all controlled***
 
-***pedestrian crossings in the Metropolitan Area.***---
+***pedestrian crossings in the Metropolitan Area.***
+---
 11
 
 **REPLY**:
@@ -912,7 +922,8 @@ Culture, Tourism and Marketing remains the most efficient and effective means fo
 
 discussion and the ongoing development of the evening and night time economy in
 
-Limerick City.---
+Limerick City.
+---
 12
 
 **24.**
@@ -993,7 +1004,8 @@ Costello and agreed.
 
 ***I will move at the next Metropolitan Meeting of Limerick City and County Council, that this***
 
-***Council calls to request our Government to:***---
+***Council calls to request our Government to:***
+---
 13
 
 ***—*** ***fund research into examining best international practice when it comes to determining,***
@@ -1070,7 +1082,8 @@ installation of the equipment.
 
 It was agreed to refer this Notice of Motion to the Travel and Transportation Strategic Policy
 
-Committee.---
+Committee.
+---
 14
 
 **32.**
@@ -1103,4 +1116,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

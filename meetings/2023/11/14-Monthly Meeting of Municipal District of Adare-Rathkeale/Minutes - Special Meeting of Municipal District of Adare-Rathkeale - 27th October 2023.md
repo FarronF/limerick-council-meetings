@@ -66,7 +66,8 @@ water as the Local Authority are still responsible for storm water and Water Ser
 
 use vehicles with Limerick City and County Council logo on them and added the public
 
-need to be advised of the distinction going forward.---
+need to be advised of the distinction going forward.
+---
 Councillor Keary requested a schedule of works for the Foynes Shannon Estuary
 
 Treatment Plant for the next Municipal District Meeting stating when works are due to
@@ -143,7 +144,8 @@ alleviate the problem with a view to ending the boil water notices be provided a
 
 to request Uisce Éireann to attend this meeting”. This was seconded by Councillor
 
-Collins and agreed.---
+Collins and agreed.
+---
 This concluded the Meeting.
 
 Signed:
@@ -154,4 +156,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -66,7 +66,8 @@ landing slots.”
 
 **Councillors J. O’Dea, K. O’Hanlon, J. Collins, S.**
 
-**Clifford, J. Crowley, S. Lynch.**---
+**Clifford, J. Crowley, S. Lynch.**
+---
 2
 
 Councillor Collins (J), in proposing the Motion on behalf of his party, put
@@ -131,7 +132,8 @@ added that connectivity to Heathrow was a prerequisite to doing business in
 
 the global economy.
 
-The amendment was seconded by Councillor Secas.---
+The amendment was seconded by Councillor Secas.
+---
 3
 
 Councillor Prendiville, on behalf of his party, stated that they supported the
@@ -192,7 +194,8 @@ He asked the Party Leaders to review the various Motions put forward at the
 
 Meeting with a view to agreeing a single Motion which could be sent from the
 
-Council to the Government on the matter.---
+Council to the Government on the matter.
+---
 4
 
 On resumption of the Meeting, the following Motion, which was proposed by
@@ -221,4 +224,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

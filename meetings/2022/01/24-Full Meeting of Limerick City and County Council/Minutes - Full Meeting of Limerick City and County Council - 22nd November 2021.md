@@ -62,7 +62,8 @@ And Resolved:
 
 VOTES OF SYMPATHY
 
-With the permission of the Mayor, the Council expressed its sympathy to the following:---
+With the permission of the Mayor, the Council expressed its sympathy to the following:
+---
 2
 
  Councillor John Egan on the recent passing of his brother, Joe Egan, Rath, Murroe, Co.
@@ -135,7 +136,8 @@ Mayor of any declaration of interest in any item due for discussion at the Meeti
 
 Those present sitting on the Board of Directors of Limerick Twenty Thirty made a declaration
 
-of interest.---
+of interest.
+---
 3
 
 3.
@@ -216,7 +218,8 @@ Brennan, deceased, for the sum of €195.42, the disposal to be by way of Deed o
 
 of the interest of Limerick City and County Council in the property, particulars of which were
 
-contained in Statutory Notice dated 27th September, 2021.”---
+contained in Statutory Notice dated 27th September, 2021.”
+---
 4
 
 (d)
@@ -295,7 +298,8 @@ property, particulars of which were contained in Statutory Notice dated 8th Octo
 
 Circulated, copy of Statutory Notice dated 5th November, 2021, concerning disposal of
 
-property (0.0157 acres) comprising Former Library Building, Hospital, Co. Limerick.---
+property (0.0157 acres) comprising Former Library Building, Hospital, Co. Limerick.
+---
 5
 
 Proposed by Councillor Leddin;
@@ -376,7 +380,8 @@ Proposed by Councillor Leddin;
 
 Seconded by Councillor O’Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 6
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -455,7 +460,8 @@ of the entire site known as the Opera Site (including the Granary Building), loc
 
 at Rutland Street, Patrick Street, Ellen Street, Michael Street and Bank Place,
 
-Limerick.---
+Limerick.
+---
 7
 
 Some Councillors referred to the scale of the proposed disposal and queries previously raised
@@ -524,7 +530,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 known as the Opera Site (including the Granary Building), located at Rutland Street, Patrick
 
-Street, Ellen Street, Michael Street and Bank Place, Limerick, to Limerick Twenty Thirty---
+Street, Ellen Street, Michael Street and Bank Place, Limerick, to Limerick Twenty Thirty
+---
 8
 
 Strategic Development DAC, for the sum of €16,000,000, plus the development costs at date
@@ -605,7 +612,8 @@ Proposed by Councillor O’Hanlon;
 
 Seconded by Councillor Ryan (E);
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, the approval of the Council be and is hereby given, in accordance with Section
@@ -698,7 +706,8 @@ Abbeyfeale
 
 Community
 
-Centre---
+Centre
+---
 10
 
 Climate Action, Biodiversity and
@@ -789,7 +798,8 @@ Policy Committee dated 8th November, 2021, in relation to Meeting of the Committ
 
 held on 4th October, 2021.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 11
 
 (iv)
@@ -856,7 +866,8 @@ Proposed by Councillor O’Donoghue;
 
 Seconded by Councillor Galvin;
 
-And Resolved:---
+And Resolved:
+---
 12
 
 “That, the Limerick City and County Council Road Traffic (Croom Distributor Road
@@ -931,7 +942,8 @@ the city areas.
 
 They also noted the constraints in relation to water and sewage infrastructure, which would
 
-also affect the plan, along with the shortage of building contractors and increased costs of---
+also affect the plan, along with the shortage of building contractors and increased costs of
+---
 13
 
 building supplies and materials. They also agreed that housing should be provided, where
@@ -1000,7 +1012,8 @@ Council approved the attendance of the following Members:
 
 **Clonakilty, Co. Cork:** Councillors M. Collins, L. Galvin, F. Foley.
 
-**Carlingford, Co. Louth:** Councillors M. Collins, K. O’Hanlon, C. Sheehan, K. Sheahan, A. Teskey.---
+**Carlingford, Co. Louth:** Councillors M. Collins, K. O’Hanlon, C. Sheehan, K. Sheahan, A. Teskey.
+---
 14
 
 (b)
@@ -1069,7 +1082,8 @@ nominated for use. Green procurement principles allow for wider
 
 considerations to be incorporated into the award process but do not permit
 
-product specific references.---
+product specific references.
+---
 15
 
 11.
@@ -1142,7 +1156,8 @@ Sheahan (K), Sheahan (M), Slattery, Talukder, Teefy, Teskey. **(14)**
 
 Councillors Benson, Butler, Costelloe, Galvin, Hartigan, Keary, Kiely, Kilcoyne, Leddin, Murphy,
 
-Novak, O’Sullivan, Secas, Sheahan (J), Sheehan (C). **(15)**---
+Novak, O’Sullivan, Secas, Sheahan (J), Sheehan (C). **(15)**
+---
 16
 
 **Abstentions**
@@ -1215,7 +1230,8 @@ Question submitted by Councillor S. Benson
 
 **Department of Housing regarding the removal of Pineview Gardens from the demolition**
 
-**area.**---
+**area.**
+---
 17
 
 **REPLY:**
@@ -1296,7 +1312,8 @@ Regulation (EU) 2019/947, caters for most types of civil drone operations and
 
 their levels of risk. It defines three categories of civil drone operations: the
 
-‘open’, the ‘specific’ and the ‘certified’ category.---
+‘open’, the ‘specific’ and the ‘certified’ category.
+---
 18
 
 The ‘open’ category addresses the lower-risk civil drone operations, where
@@ -1373,7 +1390,8 @@ In view of time constraints, the remaining items on the agenda were adjourned.
 
 It was agreed that a date for the Adjourned Meeting would be fixed in consultation with the
 
-Mayor and that the Meeting would be held Online.---
+Mayor and that the Meeting would be held Online.
+---
 19
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -1398,4 +1416,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

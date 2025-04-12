@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-07-21 12:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-online-briefing-for-the-members-of-the-local-electoral-area-of-limerick)**
+**<a href="https://www.limerick.ie/council/whats-on/private-online-briefing-for-the-members-of-the-local-electoral-area-of-limerick" target="_blank">Link to meeting</a>**

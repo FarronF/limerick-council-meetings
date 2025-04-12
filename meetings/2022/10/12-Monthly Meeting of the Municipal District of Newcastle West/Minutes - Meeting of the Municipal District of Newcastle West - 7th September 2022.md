@@ -84,7 +84,8 @@ Proposed by: Councillor Galvin
 
 Seconded by: Councillor Scanlan
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -153,7 +154,8 @@ extend hatching beyond proposed build outs and the provision of new road marking
 
 He stated that eight submissions had been received and gave a briefing to the Members on
 
-the submissions received.---
+the submissions received.
+---
 3
 
 The Members welcomed the proposed works and referred to a number of matters including
@@ -220,7 +222,8 @@ Management Plan at the November Meeting of the District.
 
 5.
 
-Housing Development Directorate---
+Housing Development Directorate
+---
 4
 
 To consider Chief Executive’s report prepared in accordance with
@@ -291,7 +294,8 @@ Connection Agreement has been made with Irish Water with regard to connecting to
 
 sewer. He stated that consultation had taken place with the Housing Allocations Team where
 
-the size of the scheme is matched against demand for housing.---
+the size of the scheme is matched against demand for housing.
+---
 5
 
 In response to the dereliction in Ardagh, the Director stated that work is ongoing on the list
@@ -358,7 +362,8 @@ Question submitted by Councillor L. Galvin
 
 ***I will ask at the next Municipal Meeting (a) who is now the registered owner of the old***
 
-***dump, Knockbrack (b) who is responsible to keep the gated area clean.***---
+***dump, Knockbrack (b) who is responsible to keep the gated area clean.***
+---
 6
 
 REPLY:
@@ -433,7 +438,8 @@ REPLY:
 
 Under the National Broadband Plan, high-speed broadband will be delivered to every
 
-premises in Ireland through a combination of commercial and state investment. For Limerick,---
+premises in Ireland through a combination of commercial and state investment. For Limerick,
+---
 7
 
 the State have determined that 78% of premises are in the commercial (Blue) area, an area in
@@ -516,7 +522,8 @@ unlikely to be lit in accordance with their current standards. TII see this junc
 
 being improved significantly from a safety point of view and is similar to junctions across the
 
-national road network that are not lit. The improvements that were put in place making it a---
+national road network that are not lit. The improvements that were put in place making it a
+---
 8
 
 safer junction included for, adequate sights lines, right turn lanes and road markings.
@@ -581,7 +588,8 @@ universal access for all patrons.
 
 ***building (c) that a museum displaying artefacts and documentation pertaining to the history***
 
-***of Abbeyfeale and the surrounding area be located on site.***---
+***of Abbeyfeale and the surrounding area be located on site.***
+---
 9
 
 The Motion was seconded by Councillor Sheahan.
@@ -644,7 +652,8 @@ view to getting a Master Plan drawn up to expand the playground and tennis court
 
 ***park in Mungret.***
 
-The Motion was seconded by Councillor Scanlan.---
+The Motion was seconded by Councillor Scanlan.
+---
 10
 
 REPLY:
@@ -709,7 +718,8 @@ The Members also sought an update on a Meeting which was to be held with the App
 
 Housing Body on the unfinished housing estate at Cois Na Féile, Abbeyfeale and also asked if
 
-contact was made with the adjoining landowner with regard to anti-social behaviour taking---
+contact was made with the adjoining landowner with regard to anti-social behaviour taking
+---
 11
 
 place on the adjoining land. In replying, the Senior Engineer agreed to revert to the relevant
@@ -762,4 +772,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

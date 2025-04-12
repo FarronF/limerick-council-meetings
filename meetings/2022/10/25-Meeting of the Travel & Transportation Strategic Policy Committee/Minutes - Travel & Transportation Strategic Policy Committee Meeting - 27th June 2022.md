@@ -52,4 +52,5 @@ adjourn the meeting to Tuesday, the 12th July 2022.
 
 The Meeting then concluded.
 
-(Image omitted)---
+(Image omitted)
+---

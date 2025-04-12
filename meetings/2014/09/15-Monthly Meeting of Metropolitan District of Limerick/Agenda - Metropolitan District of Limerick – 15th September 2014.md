@@ -36,7 +36,8 @@ held on 21st July, 2014.
 
 **2.**
 
-**Corporate Services**---
+**Corporate Services**
+---
 **Standing Orders**
 
 To consider the adoption of Standing Orders for Meetings of the Metropolitan
@@ -81,7 +82,8 @@ Neighbourhood Park (Report enclosed).
 
 To consider the Chief Executive’s Report, prepared pursuant to Section 179
 
-3(a) of the Planning and Development Acts, 2000 – 2014 and Part 8 of the---
+3(a) of the Planning and Development Acts, 2000 – 2014 and Part 8 of the
+---
 Planning and Development Regulations, 2001 – 2013, in relation to a
 
 proposed residential development consisting of (a) the construction of a three
@@ -142,7 +144,8 @@ themselves. All costs incurred in the delivery of this water should be
 
 covered by Irish Water. Again, if Irish Water refuse, the Council should
 
-ensure this itself;---
+ensure this itself;
+---
  guarantee that there will be no charge for the undrinkable water it is
 
 providing to the residents of these areas;
@@ -185,7 +188,8 @@ immediate steps to repair the river bank from St. Michael’s Boat Club to
 
 Barrington’s Pier before winter.
 
-**Notice of Motion submitted by Councillor M. Hourigan**---
+**Notice of Motion submitted by Councillor M. Hourigan**
+---
 **11.**
 
 I will move at the next meeting that Limerick City and County Council take in
@@ -246,7 +250,8 @@ immediately restore the life buoys/rings at each of our three main bridges,
 
 Shannon, Thomond and Sarsfield Bridges and also to investigate the
 
-possibility of introducing bye-laws or other measures governing these life---
+possibility of introducing bye-laws or other measures governing these life
+---
 buoys/rings, to ensure that those who steal, damage or interfere with the life
 
 buoys/rings would be punished severely.
@@ -287,4 +292,5 @@ immediate repairs to the riverbank from St. Michael’s Boat Club to
 
 Barrington’s Pier and that the sandbags used during the storms be removed
 
-forthwith.---
+forthwith.
+---

@@ -70,7 +70,8 @@ the course of discussion of the item the following points were made :
 
  Serious concerns with regard to the lack of public consultation with neighbours, lack of
 
-understanding around the development, difficult for lay person to understand plans and---
+understanding around the development, difficult for lay person to understand plans and
+---
 2
 
 particulars. Proper public consultation with 3D modelling of project should have been
@@ -145,4 +146,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

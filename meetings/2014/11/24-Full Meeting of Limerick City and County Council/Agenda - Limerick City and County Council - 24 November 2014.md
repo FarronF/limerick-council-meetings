@@ -66,7 +66,8 @@ To consider proposal for the disposal of land at:
 
 20, Linden Court, Kennedy Park, Limerick.
 
-(Statutory Notices dated 4th November, 2014)---
+(Statutory Notices dated 4th November, 2014)
+---
 2
 
 3.
@@ -127,7 +128,8 @@ To note correspondence received from the Association of Irish Local Government
 
 (AILG).
 
-(Copy Enclosed)---
+(Copy Enclosed)
+---
 3
 
 4.
@@ -208,7 +210,8 @@ Association at Gortboy, Newcastle West, in accordance with Section 6(2)(a) of th
 
 Housing (Miscellaneous Provisions) Act, 1992.
 
-(Report Enclosed)---
+(Report Enclosed)
+---
 4
 
 7.
@@ -293,7 +296,8 @@ on 5th/6th December, 2014.
 
 Seminar ‘Charities, Regulation and Legislation’ to be held in Clonakilty, Co. Cork,
 
-on 5th/6th December, 2014.---
+on 5th/6th December, 2014.
+---
 5
 
 (o)
@@ -358,7 +362,8 @@ policy, procedure, transparency and correct governance have been applied to this
 
 disposal of Council property and that the process of appointments to the new Board of
 
-Directors of the Limerick Arts and Cultural Centre Limited was also properly applied.---
+Directors of the Limerick Arts and Cultural Centre Limited was also properly applied.
+---
 6
 
 NOTICES OF MOTION
@@ -439,7 +444,8 @@ I will move at the next meeting that the speed limits for residential estates be
 
 from 50 km/h to 30 km/h on a phased basis in order to ensure the safety of children at
 
-play and general pedestrian population.---
+play and general pedestrian population.
+---
 7
 
 Notice of Motion submitted by Councillor E. Secas
@@ -522,7 +528,8 @@ Gaelic style font will be used in order to differentiate between the Irish and E
 
 names on these signs. This will be implemented on a basis of new signage required, and
 
-will not require the replacement of any signs due to this bye-law alone.---
+will not require the replacement of any signs due to this bye-law alone.
+---
 8
 
 Notice of Motion submitted by Councillor J. Sheahan
@@ -587,7 +594,8 @@ I will move at the next Meeting that a Committee be established comprising Membe
 
 from all parties represented on this Council to organise and arrange events for the
 
-Centenary of the 1916 Rising.---
+Centenary of the 1916 Rising.
+---
 9
 
 Notice of Motion submitted by Councillor L.M. Sheehy
@@ -602,4 +610,5 @@ change the full Council Meeting sittings from bi-monthly to monthly.
 
 **Correspondence.**
 
-(Copy of Correspondence Enclosed)---
+(Copy of Correspondence Enclosed)
+---

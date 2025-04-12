@@ -75,7 +75,8 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **3.Disposal of Land**
@@ -140,7 +141,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 
 schemes will be available in Limerick in 2024 and can they be listed by area and date they will be
 
-available.---
+available.
+---
 3
 
 **9.Question submitted by Councillor E. O’Donovan**
@@ -201,7 +203,8 @@ eligible/entitled to be housed in these proposed Community Dwellings.
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the Traffic
 
-Management Plan for the City Centre.---
+Management Plan for the City Centre.
+---
 4
 
 **17.Question submitted by Councillor D. McSweeney**
@@ -270,7 +273,8 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 
 a cross department working group to assist and advise the owners of Georgian buildings with their
 
-redevelopment for residential use.---
+redevelopment for residential use.
+---
 5
 
 **23.Notice of Motion submitted by Councillor J. Leddin**
@@ -307,4 +311,5 @@ trees, shrubbery, and foliage by Irish Rail along the railway line.
 
 **27.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

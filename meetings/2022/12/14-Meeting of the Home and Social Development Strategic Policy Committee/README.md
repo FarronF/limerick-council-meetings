@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-12-14 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-home-and-social-development-strategic-policy-committee-12)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-home-and-social-development-strategic-policy-committee-12" target="_blank">Link to meeting</a>**

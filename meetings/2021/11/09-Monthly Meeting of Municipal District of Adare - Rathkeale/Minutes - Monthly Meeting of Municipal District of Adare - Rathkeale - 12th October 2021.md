@@ -68,7 +68,8 @@ for the matter to be forwarded to the Environmental Protection Agency (EPA)
 
 requesting this body now take legal action against Irish Water on the matter. The
 
-Director, Housing advised Councillor Teskey a Local Authority cannot instruct another---
+Director, Housing advised Councillor Teskey a Local Authority cannot instruct another
+---
 2
 
 public body to carry out this request. Councillor Teskey then asked if the District could
@@ -137,7 +138,8 @@ seconded by Councillor O’Donoghue and agreed.
 
 Councillor Teskey asked, further to his earlier request at the start of the Meeting in
 
-relation to the Environmental Protection Agency investigating Irish Water, if the District---
+relation to the Environmental Protection Agency investigating Irish Water, if the District
+---
 3
 
 would write to the EPA requesting an adequate treatment plant for Askeaton be
@@ -198,7 +200,8 @@ had been in contact with Central Services and there had been a delay in getting 
 
 contractor on site for the first cut and added the second cut is due to commence
 
-the 22nd October, 2021 and will be carried out over a four week period.---
+the 22nd October, 2021 and will be carried out over a four week period.
+---
 4
 
 **4.**
@@ -271,7 +274,8 @@ project.
 
 A previous funding application under Low Cost Safety Improvement Works
 
-for Fedamore was unsuccessful.---
+for Fedamore was unsuccessful.
+---
 5
 
 These works will be kept under review for any future Funding
@@ -344,7 +348,8 @@ payments for the 2022 scheme subject to budgetary requirements.
 
 **member of the United Irishmen was executed by Crown forces during the 1798**
 
-**rebellion and an appropriate plaque be erected .**---
+**rebellion and an appropriate plaque be erected .**
+---
 6
 
 The Motion was proposed by Councillor Sheahan, seconded by Councillor O’Brien and
@@ -403,4 +408,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

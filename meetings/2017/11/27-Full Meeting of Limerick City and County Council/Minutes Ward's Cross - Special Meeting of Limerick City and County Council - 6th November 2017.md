@@ -54,7 +54,8 @@ as follows:
 
 **Signed: Councillors L. Galvin, J. Sheahan, M. Collins, S. Browne, G. Mitchell, J.**
 
-**Scanlan, S. Keary, F. Foley.**---
+**Scanlan, S. Keary, F. Foley.**
+---
 2
 
 Councillor Galvin, at the outset, asked why representatives from Transport
@@ -119,7 +120,8 @@ On the proposal of Councillor Galvin, seconded by Councillor Browne, it was agre
 
 to write to An Garda Síochána in order to ascertain what reports they had submitted to TII
 
-in relation to Ward’s Cross.---
+in relation to Ward’s Cross.
+---
 3
 
 The Director, Physical Development, addressed the Meeting again and stressed that
@@ -156,4 +158,5 @@ Mayor
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

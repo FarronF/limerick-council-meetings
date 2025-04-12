@@ -60,7 +60,8 @@ Proposed by Councillor Donegan;
 
 Seconded by Councillor Carey;
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -85,4 +86,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Mayor
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

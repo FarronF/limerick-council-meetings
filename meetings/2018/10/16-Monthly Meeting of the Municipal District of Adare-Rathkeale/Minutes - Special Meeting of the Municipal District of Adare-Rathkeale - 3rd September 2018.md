@@ -68,7 +68,8 @@ Kilscannell Burial Ground. He went on to say this is a very sensitive matter and
 
 distressing to all involved. He enquired if the Senior Executive Technician had liaised
 
-with the Church of Ireland body for the Limerick region with a view to taking over the---
+with the Church of Ireland body for the Limerick region with a view to taking over the
+---
 2
 
 burial ground at Kilscannell. Councillor Teskey asked if the Council did take over the
@@ -149,4 +150,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

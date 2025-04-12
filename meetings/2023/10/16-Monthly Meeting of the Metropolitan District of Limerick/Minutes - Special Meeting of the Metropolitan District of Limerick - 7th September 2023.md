@@ -70,7 +70,8 @@ behaviour and crime in the city centre and the Metropolitan District. The Specia
 
 an opportunity to meet and discuss with An Garda Siochána and explore what measures could be
 
-introduced, and what resources were needed, in order to address it.---
+introduced, and what resources were needed, in order to address it.
+---
 2
 
 The Cathaoirleach confirmed that, in advance of the Special Meeting that the Members had been
@@ -139,7 +140,8 @@ What is the update on the provision of a Garda Station in Castletroy as per thei
 
 programme 2025-2030, and if there are any plans to expedite its delivery, given the increase
 
-in the population and in antisocial behaviour?---
+in the population and in antisocial behaviour?
+---
 3
 
  **University of Limerick**
@@ -216,7 +218,8 @@ Minister of Justice:
 
 **increase the presence of uniformed Gardaí and high-visibility patrols, in order to tackle anti-**
 
-**social behaviour in the city.**---
+**social behaviour in the city.**
+---
 4
 
 **The Elected Members also request that current proposed legislation and regulations, to deal**
@@ -235,4 +238,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

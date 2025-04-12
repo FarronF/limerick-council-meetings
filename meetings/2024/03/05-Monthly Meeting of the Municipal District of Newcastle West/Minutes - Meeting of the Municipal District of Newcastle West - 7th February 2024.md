@@ -76,7 +76,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -147,7 +148,8 @@ also made to progressing more Part VIII’s in other villages in the District.
 
 Following a brief discussion, the report was proposed by Councillor Galvin, seconded by
 
-Councillor Foley and agreed.---
+Councillor Foley and agreed.
+---
 3
 
 5.
@@ -212,7 +214,8 @@ On the proposal of Councillor Foley, seconded by Councillor Ruddle, it was agree
 
 On the proposal of Councillor Foley, seconded by Councillor Ruddle, it was agreed to allocate
 
-€1,000 to Meenkilly National School for defibrillator.---
+€1,000 to Meenkilly National School for defibrillator.
+---
 4
 
 On the proposal of Councillor Foley, seconded by Councillor Ruddle, it was agreed to allocate
@@ -275,7 +278,8 @@ The Council will investigate the possibility of lighting at this location. There
 
 access issues for future maintenance if a light is to be placed on the ESB pole.
 
-Alternative solutions are being investigated in the vicinity of the ESB pole.---
+Alternative solutions are being investigated in the vicinity of the ESB pole.
+---
 5
 
 7.
@@ -354,7 +358,8 @@ Question submitted by Councillor F. Foley
 
 ***I will ask at the next Meeting**can funding be secured for safety improvement works at***
 
-***Lyons Cross, Kilmorna Road, Abbeyfeale.***---
+***Lyons Cross, Kilmorna Road, Abbeyfeale.***
+---
 6
 
 REPLY:
@@ -413,7 +418,8 @@ REPLY:
 
 Footpath replacement works are due to commence within the first quarter of
 
-2024 at Castlemahon Graveyard.---
+2024 at Castlemahon Graveyard.
+---
 7
 
 NOTICES OF MOTION
@@ -482,7 +488,8 @@ Limerick City and County Council will carry out a survey under the GEO App
 
 and forward to TII for inclusion under the Minor Maintenance Pavement
 
-Programme.---
+Programme.
+---
 8
 
 In proposing the Motion, Councillor Ruddle expressed dissatisfaction at the sunken condition
@@ -547,7 +554,8 @@ renewed between Moanroe and Broadford in the interest of safety.
 
 ***West be brought in line with the rate which applies to residents of Limerick city.***
 
-The Motion was seconded by Councillor Galvin.---
+The Motion was seconded by Councillor Galvin.
+---
 9
 
 REPLY:
@@ -622,7 +630,8 @@ matter.
 
 The repair of manhole covers in New Street, Abbeyfeale, outside the Pharmacy on the
 
-Killarney Road and in front of the National School in Abbeyfeale was raised. In replying, the---
+Killarney Road and in front of the National School in Abbeyfeale was raised. In replying, the
+---
 10
 
 Senior Executive Engineer stated that there are two projects commencing in the Abbeyfeale
@@ -649,4 +658,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

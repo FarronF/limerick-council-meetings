@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-12-07 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-municipal-district-newcastle-west-2)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-municipal-district-newcastle-west-2" target="_blank">Link to meeting</a>**

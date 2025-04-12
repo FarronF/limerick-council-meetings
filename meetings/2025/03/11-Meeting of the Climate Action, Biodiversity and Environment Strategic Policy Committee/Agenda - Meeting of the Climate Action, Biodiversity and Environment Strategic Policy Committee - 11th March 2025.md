@@ -48,4 +48,5 @@ municipal refuse collection scheme be piloted in illegal dumping hot-spots in th
 
 including St. Mary’s Park, Ballinacurra Weston, Lenihan Avenue, Coonagh/Clondrinagh,
 
-Johnsgate and Kilmallock Road.---
+Johnsgate and Kilmallock Road.
+---

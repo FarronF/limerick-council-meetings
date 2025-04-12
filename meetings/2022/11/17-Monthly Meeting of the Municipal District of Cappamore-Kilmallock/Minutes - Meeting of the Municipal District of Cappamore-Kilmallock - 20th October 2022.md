@@ -52,7 +52,8 @@ Cappamore-Kilmallock held on 21st September, 2022.
 
 Councillor Teefy wished to confirm that the South Limerick Branch of the Red Cross would
 
-be interested in any location in Kilmallock, not just in Kilmallock Business Park.---
+be interested in any location in Kilmallock, not just in Kilmallock Business Park.
+---
 3.Draft Budgetary Plan
 
 The Director of Services confirmed the information provided in the workshop delivered
@@ -113,7 +114,8 @@ with Limerick.ie.
 
 **Proposed: Councillor Donegan**
 
-**Seconded: Councillor Teefy.**---
+**Seconded: Councillor Teefy.**
+---
 6. Disposal of Property
 
 The following disposal of property was noted:
@@ -156,7 +158,8 @@ work and also the fencing in the Sports Field in Galbally.
 
 Councillor E Ryan wished to highlight the issue of water being turned off regularly at the
 
-Galbally School Breakfast Club and noted that a generator is required.---
+Galbally School Breakfast Club and noted that a generator is required.
+---
 Notices of Motion
 
 9.Notice of Motion submitted by Councillor Carey
@@ -215,7 +218,8 @@ Limerick City and County Council do not have any source of funding at present to
 
 these lights. However, a submission will be made to the NTA to consider funding this project
 
-under their 2023 Active Travel Programme.---
+under their 2023 Active Travel Programme.
+---
 12.
 
 Question submitted by Councillor Carey
@@ -272,7 +276,8 @@ venue.
 
 It was agreed to contact Pallasgreen Community Centre to enquire about availability for the
 
-8th December.---
+8th December.
+---
 **Water supply Doon**
 
 The disruption to the Water Supply in Doon was noted. The good work of the Limerick City
@@ -303,4 +308,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

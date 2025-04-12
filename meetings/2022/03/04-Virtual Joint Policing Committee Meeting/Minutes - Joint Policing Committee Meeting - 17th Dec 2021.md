@@ -78,7 +78,8 @@ He stated that Limerick Courts are very busy with six courts running with the su
 
 with in the courts by the end of the year which is double the number of cases in Cork. The amount of
 
-work done in this area is incredible, however, due to the volume trial days become backed up.---
+work done in this area is incredible, however, due to the volume trial days become backed up.
+---
 The Chief Superintendent confirmed that a lot of work is being done in community policing. There
 
 are a high number of drunk driving and drug driving offences and domestic abuse is still a major
@@ -151,7 +152,8 @@ added that there are numerous cases before the courts. He pointed out that priva
 
 houses are causing issues, however, every effort will be made to continue to address the problem of
 
-sale and supply of drugs.---
+sale and supply of drugs.
+---
 Deputy Quinlivan commended the Gardaí and all concerned in addressing this problem and
 
 welcomed the increase in community policing in the city centre. He commended all involved in
@@ -234,7 +236,8 @@ because of this there is increased manpower for patrolling the city. He added th
 
 operation in place since 1st December. Parking in taxi ranks and in disabled persons spaces is a
 
-regular focus for Gardaí.---
+regular focus for Gardaí.
+---
 Councillor Costelloe expressed concern at the increase in domestic abuse adding that the services
 
 available to domestic abuse victims is stretched and they need extra resources throughout the year.
@@ -339,7 +342,8 @@ Bruff
 
 53
 
-**2**---
+**2**
+---
 Divisional
 
 Total
@@ -444,7 +448,8 @@ activity. Uniform and plain clothes resources from Roxboro Road Garda Station ar
 
 in the afore-mentioned area on a constant basis to perform proactive patrols. These arrangements
 
-will continue throughout the Christmas and New Year period in order to ensure that a high visibility---
+will continue throughout the Christmas and New Year period in order to ensure that a high visibility
+---
 policing presence is being maintained in this area daily. Additionally, dedicated Community Gardaí
 
 at Roxboro Road will continue to liaise with businesses and residents in the Parnell Street area and
@@ -539,7 +544,8 @@ stolen bikes being recovered.
 
 A significant crime prevention initiative was instigated in recent weeks with the University of
 
-Limerick to promote bike safety and security and this will be ongoing throughout the academic year.---
+Limerick to promote bike safety and security and this will be ongoing throughout the academic year.
+---
 Community Policing Gardai supported by Limerick City and County Council also held a crime
 
 prevention stand in the city centre aimed at providing information to members of the public in
@@ -614,7 +620,8 @@ ensure they had contact details for the Community Policing Co-ordinator’s Offi
 
 deliveries could be undertaken by An Garda Síochána, where required. This was utilised a number of
 
-times whereby pharmacies contacted the office and deliveries were co-ordinated.---
+times whereby pharmacies contacted the office and deliveries were co-ordinated.
+---
 The Limerick Covid-19 Community Response group was established to coordinate the volunteer
 
 effort to support the elderly and those with underlying conditions. The Limerick initiative was led by
@@ -689,7 +696,8 @@ structural changes have been made to make entry to the house more difficult. Gar
 
 with Limerick City & County Council to establish if they can take any enforcement action against the
 
-individuals who are in control of this house.---
+individuals who are in control of this house.
+---
 The Chief Executive supported the Chief Superintendent in relation to St. Mary’s Park. The Council is
 
 very committed to resolving the issue of drugs here and said he would ensure further action would
@@ -764,7 +772,8 @@ This was covered under Question 10
 
 *“I will ask at the next meeting that The Chief Superintendent give an update on Operation Cópóg”.*
 
-This was covered under Question 13---
+This was covered under Question 13
+---
 **19.Question submitted by Councillor John Costelloe :**
 
 *“I will ask at the next meeting, following on from a Notice of Motion s**ubmitted by Councillor*
@@ -809,4 +818,5 @@ This concluded the Meeting.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

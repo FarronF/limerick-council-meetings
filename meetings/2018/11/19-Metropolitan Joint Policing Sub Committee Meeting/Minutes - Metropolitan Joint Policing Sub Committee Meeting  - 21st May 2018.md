@@ -88,7 +88,8 @@ Council housing . These people should be evicted. Community policing very import
 
 stability to an area, Request additional community gardai in areas where anti social behaviour is
 
-taking place;---
+taking place;
+---
 
 
 Increase number of fines issued to non disabled people parking in disabled parking spaces;
@@ -193,7 +194,8 @@ The issue of anti social behaviour in Cornmarket Row and city centre is an ongoi
 
 presence had been increased there with between nine and eleven Gardai patrolling the city centre
 
-daily. Unfortunately there is limited CCTV in the area;---
+daily. Unfortunately there is limited CCTV in the area;
+---
 
 
 A number of serious assaults have taken place in Johnsgate Village adding that none of the houses
@@ -240,4 +242,5 @@ This concluded the meeting.
 
 COUNCILLOR SEAN LYNCH
 
-JPC CHAIR---
+JPC CHAIR
+---

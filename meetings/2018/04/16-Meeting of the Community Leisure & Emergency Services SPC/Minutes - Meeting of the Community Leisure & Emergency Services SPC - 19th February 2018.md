@@ -72,7 +72,8 @@ and that “accessibility for all” will now be embedded in all policy document
 
 **COMMUNITY, LEISURE AND EMERGENCY SERVICES STRATEGIC POLICY**
 
-**COMMITTEE**---
+**COMMITTEE**
+---
 **Item 3:**
 
 **Presentation by Dr. Eileen Humphreys, Limerick City and County Council.**
@@ -145,4 +146,5 @@ Minutes Proposed By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Minutes Seconded By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

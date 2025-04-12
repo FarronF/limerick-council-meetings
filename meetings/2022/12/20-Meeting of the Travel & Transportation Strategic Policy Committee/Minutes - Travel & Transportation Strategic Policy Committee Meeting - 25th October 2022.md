@@ -48,7 +48,8 @@ Cllr. Secas raised two points as follows:
 
 Fitzgerald could bring this up with TII.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 Cllr. O’Donovan welcomed the works on the N69 Mungret and Boland’s Cross. She was
@@ -111,7 +112,8 @@ extension of the greenway to Patrickswell and the City needs to be a priority. H
 
 that landowners in Patrickswell are in limbo as they cannot get planning permission for house or
 
-extensions.---
+extensions.
+---
 3
 
 In response to members Mr. Fitzgerald added the following:
@@ -194,7 +196,8 @@ limits. She asked if there were any other measures, like traffic management or c
 
 Mr. O’Reilly stated that at a number of locations, engineering measures may be deemed
 
-necessary. It is currently a work in progress and will be dealt with on a case-by-case basis.---
+necessary. It is currently a work in progress and will be dealt with on a case-by-case basis.
+---
 4
 
 Mr. Kennedy advised Bus Connects has started and traffic management will be part of the Bus
@@ -257,7 +260,8 @@ Cllr Mitchell raised the following queries:-
 
 2. What type of fencing would help reduce noise.
 
-Mr. Jennings thanked the members for their questions and added the following: ----
+Mr. Jennings thanked the members for their questions and added the following: -
+---
 5
 
 In relation to a published paper, a report on the M7 is completed, which looks at various
@@ -324,7 +328,8 @@ Mr. Kennedy confirmed that the Minister of Transport made the decision to exclud
 
 he assumed this continues to be the case. He added that the Executive agrees it is important to
 
-the region. He will bring the comments on cycle connects to the NTA.---
+the region. He will bring the comments on cycle connects to the NTA.
+---
 6
 
 Cllr. O’Donovan agreed with Cllr. McSweeney and added that there is no consistency between
@@ -391,7 +396,8 @@ which are dependent on an honesty policy for effective operation. The system inv
 
 a specific parking area with a recognised hidden disability emblem and depends on user honesty
 
-for subsequent parking on this spot.---
+for subsequent parking on this spot.
+---
 7
 
 It should be noted that that this is a very busy city centre location with paid parking. We will liaise
@@ -462,7 +468,8 @@ interruptions along the route.
 
 Cllr. Ryan stated that many local residents in Abbington Murroe area of the R516 have raised
 
-concerns in relation to speeding. In response, Mr. Kennedy added that the Council will write to---
+concerns in relation to speeding. In response, Mr. Kennedy added that the Council will write to
+---
 8
 
 the Department of Justice on the matter. Cllr Ryan stated that it was important to keep
@@ -531,4 +538,5 @@ Mr. Lillis thanked Mr. Kennedy for the reply
 
 The Chair advised that the next meeting is scheduled for Tuesday, the 20th December 2022.
 
-The meeting then concluded.---
+The meeting then concluded.
+---

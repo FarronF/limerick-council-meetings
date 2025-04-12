@@ -62,7 +62,8 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 It was agreed Item 4 on the Agenda would be taken next.
@@ -131,7 +132,8 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-“That, the Draft Schedule of Municipal District Works, as circulated, be adopted”.---
+“That, the Draft Schedule of Municipal District Works, as circulated, be adopted”.
+---
 3
 
 **3.**
@@ -200,7 +202,8 @@ to allocate the following:
 
  €1,000 to Rathkeale Community Council.
 
- €2,500 to Adare Recreation and Community Complex CLG t/a Manor Fields Adare.---
+ €2,500 to Adare Recreation and Community Complex CLG t/a Manor Fields Adare.
+---
 4
 
 On the proposal of Councillor Keary, seconded by Councillor Collins, it was agreed to
@@ -263,4 +266,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

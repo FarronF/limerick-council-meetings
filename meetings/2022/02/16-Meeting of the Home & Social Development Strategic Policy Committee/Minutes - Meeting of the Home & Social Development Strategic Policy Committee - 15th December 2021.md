@@ -68,7 +68,8 @@ meeting.
 
 **Proposed:** Cllr. Michael Donegan
 
-**Seconded:** Cllr. John Costelloe---
+**Seconded:** Cllr. John Costelloe
+---
 **Item 2: Matters arising from the Minutes**
 
 No matters arising from previous minutes
@@ -139,7 +140,8 @@ properties. Mr. Daly went on to say that under the legislation, derelict units a
 
 compulsorily acquired to take the unit out of dereliction and it is not solely for the
 
-purpose of housing.---
+purpose of housing.
+---
 **Item 4: SPC Work Programme 2022**
 
 Ms. Caroline Curley outlined the SPC Work Programme for 2022:
@@ -212,7 +214,8 @@ the PPN Linkage group as requested.
 
 building new housing schemes. Mr. Conor Culloo advised that linkages to public
 
-transport would be of utmost importance in any design and it would be considered---
+transport would be of utmost importance in any design and it would be considered
+---
 in the context of the overall scheme but that it would be factored in the decision
 
 making.
@@ -223,4 +226,5 @@ The Chair thanked Mr. Gordon Daly and team for the presentation and thanked ever
 
 for joining the meeting. The Chair wished everyone a Happy Christmas and advised the next
 
-SPC is the 16th February 2022---
+SPC is the 16th February 2022
+---

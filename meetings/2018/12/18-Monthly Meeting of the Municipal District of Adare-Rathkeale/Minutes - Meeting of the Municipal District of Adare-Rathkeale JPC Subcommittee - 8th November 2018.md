@@ -58,7 +58,8 @@ Superintendent Deasy felt the policing plan worked well in 2017 due to the high 
 
 presence of Gardaí in the town. As a result, this year there will be an emphasis on Gardaí
 
-patrolling the streets as well as using motorbikes and pedal bikes.---
+patrolling the streets as well as using motorbikes and pedal bikes.
+---
 Superintendent Deasy went on to say the Gardaí have visited schools in the area to discuss
 
 antisocial behaviour and the dangers of underage driving. Local businesses and publicans
@@ -129,4 +130,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

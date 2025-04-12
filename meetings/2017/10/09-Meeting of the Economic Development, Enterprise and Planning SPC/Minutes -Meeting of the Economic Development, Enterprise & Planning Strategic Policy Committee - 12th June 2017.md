@@ -100,7 +100,8 @@ in social enterprise. This was agreed at the LCDC meeting on June 7th last.
 
 Ms Humphries outlined that there are a number of existing programmes in rural
 
-areas to support social enterprise including actions under LEADER and the SICAP---
+areas to support social enterprise including actions under LEADER and the SICAP
+---
 programme. SICAP supports unemployed people to progress into employment in
 
 social enterprise.
@@ -177,7 +178,8 @@ Regulations so we are not in a position to change this process.
 
 ***incineration, gasification, fracking and other environmentally damaging and***
 
-***destructive industries in Limerick City & County Council.’***---
+***destructive industries in Limerick City & County Council.’***
+---
 It was agreed that this item would be deferred to the next SPC meeting as Cllr C
 
 Prendiville was not in attendance.
@@ -224,4 +226,5 @@ them the opportunity to discuss them with the PPN members.
 
 Chairperson
 
-Economic Development, Enterprise and Planning Strategic Policy Committee---
+Economic Development, Enterprise and Planning Strategic Policy Committee
+---

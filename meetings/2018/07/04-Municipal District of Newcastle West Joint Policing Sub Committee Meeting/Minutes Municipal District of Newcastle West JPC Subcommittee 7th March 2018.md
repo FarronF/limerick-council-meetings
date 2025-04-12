@@ -72,7 +72,8 @@ The Members also complimented all services dealing with the severe weather event
 
 work, which was carried out in the aftermath of Storm Emma. They requested that their
 
-thanks be convened to the crews involved.---
+thanks be convened to the crews involved.
+---
 2
 
 They also welcomed the update on policing within the District and queried if additional
@@ -115,4 +116,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

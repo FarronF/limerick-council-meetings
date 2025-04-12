@@ -80,7 +80,8 @@ Seconded by: Councillor Sheahan
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **(d)**
@@ -151,7 +152,8 @@ allocate €500 to Mountcollins Community First Responder Group.
 
 On the proposal of Councillor Foley, seconded by Councillor Collins, it was agreed to allocate
 
-€1,000 to Athea Tidy Towns.---
+€1,000 to Athea Tidy Towns.
+---
 3
 
 On the proposal of Councillor Foley, seconded by Councillor Collins, it was agreed to allocate
@@ -220,7 +222,8 @@ Pole to the County boundary would be prioritised with respect to a submission
 
 for funding to TII. The six junctions are:
 
-N21/L7091 Wards Cross---
+N21/L7091 Wards Cross
+---
 4
 
 N21/L7056 Tullig/Forge Cross
@@ -311,7 +314,8 @@ Where are these houses
 
 Unable to provide details due to
 
-Data Protection constraints---
+Data Protection constraints
+---
 5
 
 c)
@@ -412,7 +416,8 @@ for the erection of the above mentioned sign.
 
 10.
 
-Question submitted by Councillor J. Scanlan---
+Question submitted by Councillor J. Scanlan
+---
 6
 
 ***I will ask at the next Meeting when resurfacing works will be undertaken to the approach***
@@ -489,7 +494,8 @@ out by Irish Water near the Water Treatment Plant. Reference was also made to th
 
 Voluntary Home Relocation Scheme, which only dealt with householders who experienced
 
-flooding and not erosion issues. It was also noted that Members should contact local TDs---
+flooding and not erosion issues. It was also noted that Members should contact local TDs
+---
 7
 
 requesting a change in the criteria for this scheme. The carrying out of surveys on the river
@@ -566,7 +572,8 @@ This location can be considered under the next Speed Limit Review. Repeater
 
 signs can be erected on the approaches to Coolyroe GAA Grounds as an interim
 
-measure.---
+measure.
+---
 8
 
 16.
@@ -641,4 +648,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

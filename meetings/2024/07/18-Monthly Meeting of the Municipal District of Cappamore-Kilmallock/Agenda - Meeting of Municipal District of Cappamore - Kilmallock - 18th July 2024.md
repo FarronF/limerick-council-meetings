@@ -50,7 +50,8 @@ Annual Meeting of the Cappamore-Kilmallock Municipal District held on Thursday
 
 2.
 
-Matters Arising---
+Matters Arising
+---
 2
 
 3.
@@ -107,7 +108,8 @@ I will ask at the next meeting of the Cappamore-Kilmallock Municipal District fo
 
 my motion from April regarding the possible purchase of five units at Beech Lodge Care Facility,
 
-Bruree or any other alternative options that are being considered for the current residents.---
+Bruree or any other alternative options that are being considered for the current residents.
+---
 3
 
 10.Question submitted by Councillor Carey
@@ -130,4 +132,5 @@ the reason that the Main four cross roads at Powers Corner in Kilfinane are stil
 
 yellow lines causing major road blockages at times. These were removed during road
 
-resurfacing last year and not replaced.---
+resurfacing last year and not replaced.
+---

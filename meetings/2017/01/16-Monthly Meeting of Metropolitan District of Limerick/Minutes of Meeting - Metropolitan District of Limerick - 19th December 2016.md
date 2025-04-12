@@ -76,7 +76,8 @@ Trustees of Mungret Regional Football Club and the intention to bring same to th
 
 Council for approval in accordance with the requirements of Section 183 of the Local
 
-Government Act, 2001. Members noted the proposal, as circulated.---
+Government Act, 2001. Members noted the proposal, as circulated.
+---
 2
 
 **QUESTIONS**
@@ -161,7 +162,8 @@ emergency is declared or not.
 
 This plan outlines specific alert, mobilisation and co-ordination arrangements,
 
-roles and responsibility of all agencies involved in flood response, arrangements---
+roles and responsibility of all agencies involved in flood response, arrangements
+---
 3
 
 for communicating with the media and public, and details for the recovery and
@@ -248,7 +250,8 @@ traffic calming measures for Limerick City East. The introduction of a 30kph spe
 
 limit for Annacotty Village in 2017 as a road safety measure will also be
 
-considered as part of the National Speed Limit Review.---
+considered as part of the National Speed Limit Review.
+---
 4
 
 **8.**
@@ -333,7 +336,8 @@ property ownership to be complied/maintained. However, should it be
 
 necessary to ascertain the ownership of certain properties, then ownership
 
-searches can be undertaken, as they arise.---
+searches can be undertaken, as they arise.
+---
 5
 
 **11.**
@@ -416,7 +420,8 @@ Committee.
 
 It was agreed to refer this Notice of Motion to the Home and Social Development Strategic
 
-Policy Committee.---
+Policy Committee.
+---
 6
 
 **14.**
@@ -501,7 +506,8 @@ application for funding to the Department of Transport, Tourism and Sport
 
 ***working on plans for Revitalisation of O’Connell Street and Limerick City Centre consider***
 
-***adding to their current models the possibility of expanding the current ‘Urban Garden’ at the***---
+***adding to their current models the possibility of expanding the current ‘Urban Garden’ at the***
+---
 7
 
 ***O’Connell St/Cruises St area into a full pedestrianised iconic town square, including drawings,***
@@ -572,7 +578,8 @@ District and the need for clarity in relation to same. The Meetings Administrato
 
 that he had looked for nominees previously from the various political groupings to discuss this
 
-issue and repeated that request.---
+issue and repeated that request.
+---
 8
 
 **18.**
@@ -641,7 +648,8 @@ Correspondence was noted.
 
 At the conclusion of the Meeting the Mayor wished his fellow Members and Council Staff a
 
-Happy Christmas.---
+Happy Christmas.
+---
 9
 
 This concluded the Meeting.
@@ -654,4 +662,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

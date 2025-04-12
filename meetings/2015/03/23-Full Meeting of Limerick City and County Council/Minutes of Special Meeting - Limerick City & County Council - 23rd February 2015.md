@@ -58,7 +58,8 @@ the late Frank Prendergast had been a close friend of his and that he had made
 
 a tremendous contribution to life in Limerick and would be very much missed
 
-by everyone who knew him.---
+by everyone who knew him.
+---
 2
 
 Members thanked the Mayor for calling the Special Meeting. They
@@ -123,7 +124,8 @@ who had a strong social conscience. It was said that he was extremely proud of
 
 the traditions and history of Limerick and that Limerick had lost a treasured
 
-son.---
+son.
+---
 3
 
 The Chief Executive paid tribute to Frank Prendergast on his own behalf and on
@@ -166,4 +168,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

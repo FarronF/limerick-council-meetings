@@ -60,7 +60,8 @@ pleasure of working with him. The Members expressed their sincere sympathy to hi
 
 Anne, daughters Monica and Kathleen, his sons James and Patrick. They went on to say his
 
-loss would also be missed by all his family, friends and community.---
+loss would also be missed by all his family, friends and community.
+---
 2
 
 The Chief Executive also paid tribute to Paddy Hourigan, on his own behalf and on behalf of
@@ -87,4 +88,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

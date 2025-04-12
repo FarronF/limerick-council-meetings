@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-04-21 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-sub-committee-meeting-elected-members-municipal-district-5)**
+**<a href="https://www.limerick.ie/council/whats-on/joint-policing-sub-committee-meeting-elected-members-municipal-district-5" target="_blank">Link to meeting</a>**

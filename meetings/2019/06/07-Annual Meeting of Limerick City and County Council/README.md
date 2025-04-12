@@ -4,4 +4,4 @@
 
 **Date and Time:** 2019-06-07 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-limerick-city-and-county-council-3)**
+**<a href="https://www.limerick.ie/council/whats-on/annual-meeting-limerick-city-and-county-council-3" target="_blank">Link to meeting</a>**

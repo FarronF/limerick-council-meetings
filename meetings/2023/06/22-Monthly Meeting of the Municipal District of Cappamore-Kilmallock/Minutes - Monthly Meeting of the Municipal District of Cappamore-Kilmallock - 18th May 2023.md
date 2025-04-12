@@ -56,7 +56,8 @@ meeting onwards.
 
 **Proposed: Councillor: E Ryan**
 
-**Seconded: Councillor: G Mitchell**---
+**Seconded: Councillor: G Mitchell**
+---
 3.Annual General Meeting
 
 The date for the Annual General Meeting was set as Thursday 22nd June at 4.30 in Aras
@@ -107,7 +108,8 @@ acceptable level of maintenance be carried out at Kilmallock Business Park and t
 
 Business Park becomes a priority for this Local Authority in order to keep the existing
 
-businesses and to encourage other businesses to establish there.---
+businesses and to encourage other businesses to establish there.
+---
 **Reply:**
 
 Kilmallock Business Park was acquired by Limerick City and County Council in early 2020
@@ -168,7 +170,8 @@ The Council are aware of the concerns of both the Elected members and the public
 
 regarding parking at Athenacey Cemetery. To this end, the Council will investigate
 
-options to facilitate parking at the cemetery and will revert on the matter in due course.---
+options to facilitate parking at the cemetery and will revert on the matter in due course.
+---
 ***The Elected Members requested that a representative from the Burial Grounds section***
 
 ***attend the next meeting of the Cappamore Kilmallock Municipal District, in particular***
@@ -233,7 +236,8 @@ Planning Department
 
 4. The planned date for the estate to be taken over by Limerick City and County
 
-Council.---
+Council.
+---
 **Reply:**
 
 1. A Roads report has been compiled and costed. CCTV surveys of the storm and
@@ -298,7 +302,8 @@ Uisce Eireann be invited to meet with representatives from the community of
 
 Kilbehenny. It was noted that at the workshop with Water services, Director of
 
-Services, K Lehane, outlined that it was important to identify what the community of---
+Services, K Lehane, outlined that it was important to identify what the community of
+---
 Kilbehenny need Limerick City and County Council to do. It was agreed that the
 
 Meetings administrator would follow up with Uisce Eireann to seek a reply to the
@@ -341,4 +346,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -78,7 +78,8 @@ Circulated, report of the Senior Staff Officer, Housing Support Services dated 2
 
 dwelling house situate at 1 The Bungalow, Donnellan’s Buildings, Rosbrien, Limerick and the
 
-intention to bring a Section 183 Notice to Full Council in this regard, for approval.---
+intention to bring a Section 183 Notice to Full Council in this regard, for approval.
+---
 2
 
 The report, as circulated, was noted by Members.
@@ -159,7 +160,8 @@ Tait House Community Enterprise CLG (deferred from Meeting of the Metropolitan D
 
 of Limerick held on 15th July, 2019) and the intention to bring a Section 183 Notice to the
 
-September Meeting of Council in this regard, for approval.---
+September Meeting of Council in this regard, for approval.
+---
 3
 
 Members discussed items 29(e) and (f) in relation to who submitted expression of interests and
@@ -234,7 +236,8 @@ Target National Blend:
 
 •67% Build: 915(610 LCCC & 305 AHB)
 
-•20% Buy: 273---
+•20% Buy: 273
+---
 4
 
 •13% Lease: 177
@@ -309,7 +312,8 @@ Housing Progress report will be a standing item on the Agenda.
 
 Members welcomed the introduction of the pilot scheme for voids and referred to the urgent
 
-need for houses to be returned to use. Members raised the following issues---
+need for houses to be returned to use. Members raised the following issues
+---
 5
 
  Timeframe for rent harmonisation – Director of Services confirmed this will be addressed
@@ -394,7 +398,8 @@ Group.
 
 https://www.hse.ie/eng/services/list/4/mental-health-services/connecting-for-
 
-life/publications/connecting-for-life-mid-west-11.pdf---
+life/publications/connecting-for-life-mid-west-11.pdf
+---
 6
 
 Senior Social Worker commended the group for attending today under difficult circumstances and
@@ -477,7 +482,8 @@ Government Act, 2001.
 
 ***for their works is. I would also like to know whether this contractor has any other ongoing works***
 
-***with Limerick Council.***---
+***with Limerick Council.***
+---
 7
 
 **REPLY**:
@@ -584,7 +590,8 @@ in the city. The location for this has not yet been finalised.
 
 There are no continuous water quality monitors in the city. Water quality is sampled
 
-monthly from March to October by the Council/Irish Water laboratory at Worrell's---
+monthly from March to October by the Council/Irish Water laboratory at Worrell's
+---
 8
 
 End, Castleconnell and Corbally Baths to look at water quality in the context of the
@@ -661,7 +668,8 @@ A date for completion cannot be estimated at this early stage.
 
 ***the last 5 years. What is the breakdown of vacancies by department. How many positions have***
 
-***been filled.***---
+***been filled.***
+---
 9
 
 **REPLY:**
@@ -854,7 +862,8 @@ Clerical Officer
 
 Executive Technician
 
-1---
+1
+---
 10
 
 General Operative
@@ -1113,7 +1122,8 @@ Executive Planner
 
 Total
 
-75---
+75
+---
 11
 
 Department Grade
@@ -1322,7 +1332,8 @@ The CBD period of operation is 9.30am to 5.30pm Mon- Sat all other spaces operat
 
 Monday to Friday. The CBD extends from Georges Quay to Mallow Street and from
 
-Cathedral Place to Howleys Quay (Shannon riverside).---
+Cathedral Place to Howleys Quay (Shannon riverside).
+---
 12
 
 **13.**
@@ -1405,7 +1416,8 @@ In proposing the motion, Cllr Leddin referred to the contribution that Curragowe
 
 to the visual amenity on Clancy Strand. He referred to the prominence of Curragower House, the
 
-visual, architectural and heritage amenity that it contributes to and the importance of including---
+visual, architectural and heritage amenity that it contributes to and the importance of including
+---
 13
 
 this in the Record of Protected Structures.
@@ -1486,7 +1498,8 @@ Officer, Mr. McGuigan confirmed that works are to be carried out before the end 
 
 ***arch from Cruises Street to provide a more attractive and accessible streetscape for citizens.***
 
-The motion was proposed by Councillor O’Donovan, seconded by Councillor Kiely and agreed.---
+The motion was proposed by Councillor O’Donovan, seconded by Councillor Kiely and agreed.
+---
 14
 
 **REPLY:**
@@ -1569,7 +1582,8 @@ recently encouraged over 70 businesses to get involved in the Refill initiative 
 
 more expected to join in the coming months. By being on the “tap map”, Limerick
 
-Businesses of all kinds are agreeing to refill water bottles with tap water for free.---
+Businesses of all kinds are agreeing to refill water bottles with tap water for free.
+---
 15
 
 This can be viewed on www.ilovelimerick.ie/refill-ie-initiative/
@@ -1648,7 +1662,8 @@ repair the breach in the main river bank/wall. This response is completed and th
 
 OPW fix has held to allow water levels return to normal.
 
-From Sunday the 1st of September, 3 of the 4 families who suffered flooding of their---
+From Sunday the 1st of September, 3 of the 4 families who suffered flooding of their
+---
 16
 
 properties availed of the emergency accommodation offered to them. This
@@ -1729,7 +1744,8 @@ Strategy for the Council. This strategy will examine the need for new playground
 
 facilities by the Local Authority in the administrative area of Limerick City and
 
-County Council.---
+County Council.
+---
 17
 
 In proposing the motion, Cllr O’Sullivan emphasised the need for amenities for children to
@@ -1808,7 +1824,8 @@ The Cathaoirleach acknowledged the number of items on the Agenda this month. He 
 
 Members that the Strategic Policy Committees and the Operational Briefings will be established in
 
-October which will allow Motions to be referred as appropriate.---
+October which will allow Motions to be referred as appropriate.
+---
 18
 
 This concluded the Meeting.
@@ -1821,4 +1838,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

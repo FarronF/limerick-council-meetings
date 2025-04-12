@@ -72,7 +72,8 @@ Seconded by: Councillor Sheahan
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2. Policing Issues in the District
@@ -141,7 +142,8 @@ appointment and acknowledged her work within the District. The Members also than
 
 Sergeant Barry for his work and wished him well in his new role.
 
-The Members expressed get well wishes to Sergeant N. Flood and wished him a speedy recovery.---
+The Members expressed get well wishes to Sergeant N. Flood and wished him a speedy recovery.
+---
 3
 
 The Director, on behalf of Management and Staff thanked the Acting Superintendent and Gardaí
@@ -200,7 +202,8 @@ Prior to conclusion of the Meeting, the Acting Superintendent stated that an Ope
 
 held on Friday, 18th November, 2022, in Newcastle West, to celebrate 100 years of history of An
 
-Garda Síochána.---
+Garda Síochána.
+---
 4
 
 It was agreed to hold the next Meeting of the Joint Policing Committee (JPC) Sub Committee on
@@ -213,4 +216,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

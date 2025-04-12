@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-10-25 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-meeting-of-discover-limerick-dac-9)**
+**<a href="https://www.limerick.ie/council/whats-on/private-meeting-of-discover-limerick-dac-9" target="_blank">Link to meeting</a>**

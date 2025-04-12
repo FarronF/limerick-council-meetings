@@ -62,7 +62,8 @@ and signed by a number of Members as follows:
 
 **required, to assist them in increasing housing supply.**
 
-**Signed: Councillors Benson, Carey, Collopy, O’Donovan, Ryan (E), Scanlan**---
+**Signed: Councillors Benson, Carey, Collopy, O’Donovan, Ryan (E), Scanlan**
+---
 The motion was proposed by Councillor Benson and seconded by Councillor Collopy.
 
 The Mayor outlined the background to the convening of the meeting and summarised legal
@@ -113,7 +114,8 @@ Members expressed their concerns over the amount of people homeless that aren’
 
 reporting it, and pointed out these people are not included in the report on homeless
 
-figures.---
+figures.
+---
 The Director of Housing thanked the Members for their questions and confirmed that the
 
 Council has been in contact with the Department for additional resources and advised that
@@ -142,4 +144,5 @@ The Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -60,7 +60,8 @@ The procedure was set out in Section 19 of the Local Government Act, 2001, as
 
 amended, a copy of which had been circulated to Members. He also confirmed that all the
 
-required documentation in relation to the co-option had been received and was in order.---
+required documentation in relation to the co-option had been received and was in order.
+---
 **2**
 
 Proposed by Councillor Sheahan (J);
@@ -133,7 +134,8 @@ The Meetings Administrator stated that the approval of the Council was requested
 
 to bank overdraft accommodation in the sum of €22.5 million for the 12 month period
 
-ending 31st December, 2017.---
+ending 31st December, 2017.
+---
 **3**
 
 The A/Head of Finance stated that it was hoped that recourse to the use of the
@@ -226,7 +228,8 @@ the development of the Gardens International. The loan would be structured to de
 
 principal payments for a number of years until the construction phase was completed and
 
-the development occupied.---
+the development occupied.
+---
 **4**
 
 The Council was also being requested to consider the granting of an initial loan
@@ -275,4 +278,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

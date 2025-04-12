@@ -72,7 +72,8 @@ under Standing Orders, a Special Committee of the Metropolitan District could on
 
 appointed for a specific purpose.
 
-The Deputy Chief Executive pointed out that while he was mindful of traditional practice,---
+The Deputy Chief Executive pointed out that while he was mindful of traditional practice,
+---
 the legality and servicing of such meetings would have to be taken into consideration. He
 
 suggested discussing the issue with the party leaders to establish if a solution could be
@@ -169,7 +170,8 @@ to the potential of flooding in the city.
 
 •
 
-That consideration be given to encouraging food science research and evaluation---
+That consideration be given to encouraging food science research and evaluation
+---
 centres to establish in key sites in the city.
 
 •
@@ -266,7 +268,8 @@ with a balance of shop types.
 
 Council staff were working hard to deliver on plans for the Opera Centre site
 
-including an anchor tenant.---
+including an anchor tenant.
+---
 •
 
 Parking arrangements to promote Christmas trade would be reviewed.
@@ -357,7 +360,8 @@ management and had indicated a need for monitored CCTV and a warden on site.
 
 The archaeological heritage of the site, along with the old black walk, were noted as
 
-potential tourist attractions and Members highlighted the potential of the site to also---
+potential tourist attractions and Members highlighted the potential of the site to also
+---
 facilitate sporting, recreational, community and educational use and requested that a
 
 master plan for the development of the site be drawn up to take these uses into
@@ -444,7 +448,8 @@ County Council in 2015.
 
 As Items No. 6, 10 and 11 related to the same location, it was agreed to take them
 
-together at this point.---
+together at this point.
+---
 6.
 
 Notice of Motion submitted by Councillor Joe Crowley
@@ -533,7 +538,8 @@ been approved by Government. As part of constructing the new
 
 embankment a new footpath can be constructed along the riverside as part
 
-of the scheme.---
+of the scheme.
+---
 Limerick City and County Council are not aware of any problems with the
 
 flow of water between Westfields and the River Shannon, however
@@ -622,7 +628,8 @@ in the Mungret / Southern Environs area. It is anticipated that much of this
 
 demand will be satisfied through the development of the buildings and lands
 
-of the college.---
+of the college.
+---
 In that regard a comprehensive master plan for the building and lands is to
 
 be drawn up. The initial phase of such a plan has commenced with the
@@ -703,7 +710,8 @@ between the Planning Office and the insurance company holding the bond
 
 for that development with a view to remediating the system to a standard
 
-needed to facilitate its taking in charge by Irish Water.---
+needed to facilitate its taking in charge by Irish Water.
+---
 Councillor Crowley sought guidance from the Council on how to progress this matter and
 
 the Meetings Administrator undertook to arrange for the appropriate staff to talk to
@@ -786,7 +794,8 @@ no provision was made for off-street parking with this development. Current
 
 parking regulations prohibit vehicle parking because of road width. No disc
 
-parking operates on Little Gerald Griffin Street, therefore, the provision of---
+parking operates on Little Gerald Griffin Street, therefore, the provision of
+---
 Resident Parking Permits is not applicable on this street. The Limerick City
 
 & County Council Traffic Department have examined the site and can move
@@ -867,7 +876,8 @@ Notice of Motion submitted by Councillor Maria Byrne
 
 ***about Christmas 2015.***
 
-The motion was proposed by Councillor Byrne and seconded by Councillor Butler.---
+The motion was proposed by Councillor Byrne and seconded by Councillor Butler.
+---
 In proposing the motion Councillor Byrne stressed the need to bring people into the city
 
 for Christmas and proposed that solutions such as temporary redesignation of parking
@@ -952,7 +962,8 @@ owners cleaning up after their dogs over the last 2 to 3 years, there are still
 
 quite a number of owners who do not. This is an area that has been targeted
 
-by the Councils Litter Team over the last year or so with greater resources---
+by the Councils Litter Team over the last year or so with greater resources
+---
 put in to the creation of awareness amongst the public of the nuisance
 
 caused by dog litter and the resultant health risks.
@@ -1039,7 +1050,8 @@ Notice of Motion submitted by Cmhlr. Séighin Ó Ceallaigh
 
 ***County Council’, which, in the Irish language, is ‘Comhairle Cathrach agus Contae***
 
-***Luimnigh’, as well as the Irish translation for ‘Metropolitan District of Limerick’,***---
+***Luimnigh’, as well as the Irish translation for ‘Metropolitan District of Limerick’,***
+---
 ***which is ‘Ceantar Cathrach Luimnigh’ in the Council Chamber, Merchant’s Quay.***
 
 The motion was proposed by Cmhlr. Ó Ceallaigh and seconded by Councillor Quinlivan.
@@ -1122,7 +1134,8 @@ Rathbane Golf Course first opened to the public in 1998 and since then has
 
 undergone a number of refurbishments. A significant upgrade of the course
 
-was undertaken in 2010/2011. This upgrade included the construction of 18---
+was undertaken in 2010/2011. This upgrade included the construction of 18
+---
 new tee complexes, a new 9th hole featuring a new lake, a new practice
 
 area that included a new practice putting green, an irrigation system and a
@@ -1195,4 +1208,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

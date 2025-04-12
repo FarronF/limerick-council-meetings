@@ -66,4 +66,5 @@ Kilmallock Municipal District (suggested date 18th July at 3pm) and Joint Polici
 
 Committee of the Cappamore Kilmallock Municipal District (suggested date 18th July at
 
-2pm).---
+2pm).
+---

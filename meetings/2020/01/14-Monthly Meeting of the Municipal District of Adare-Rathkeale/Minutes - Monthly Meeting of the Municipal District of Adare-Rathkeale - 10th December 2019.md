@@ -62,7 +62,8 @@ Following discussion Members requested the relevant person from Headquarters att
 
 the January Meeting to discuss the issue and also requested a report on the costing of
 
-repairs before works are carried out.---
+repairs before works are carried out.
+---
 2
 
 Councillor Collins proposed the District write to the Adare Community Trust to
@@ -137,7 +138,8 @@ alterations to the proposed Croom Local Area Plan would be going on display from
 
 Meeting to consider the second Chief Executives Report with a view to making the Local
 
-Area Plan. Councillor Keary advised he wished to abstain from the proposal as he---
+Area Plan. Councillor Keary advised he wished to abstain from the proposal as he
+---
 3
 
 expressed concern with the amount of variants in relation to flood risk assessments
@@ -210,7 +212,8 @@ The report, as circulated, was noted by Members.
 
 Circulated, report of the Head of Property Services, dated 28th November, 2019 setting
 
-out proposal to dispose of house at Main Street, Ballingarry, Co. Limerick.---
+out proposal to dispose of house at Main Street, Ballingarry, Co. Limerick.
+---
 4
 
 The A/Administrative Officer, Urban & Rural Community Development informed
@@ -279,7 +282,8 @@ Following discussion, the following issues were raised by Members:
 
  Councillor Sheahan enquired if there were any plans to extend the Library in
 
-Askeaton.---
+Askeaton.
+---
 5
 
  Councillor Collins requested diversion signs to state works are being carried out
@@ -350,7 +354,8 @@ Circulated, correspondence from Adare Community Trust dated 25th November, 2019
 
 requesting a private meeting with Members. Councillor Sheahan agreed to Meeting
 
-members of the ACT at 12pm on Tuesday 14th January, 2020.---
+members of the ACT at 12pm on Tuesday 14th January, 2020.
+---
 6
 
 **11.**
@@ -381,4 +386,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

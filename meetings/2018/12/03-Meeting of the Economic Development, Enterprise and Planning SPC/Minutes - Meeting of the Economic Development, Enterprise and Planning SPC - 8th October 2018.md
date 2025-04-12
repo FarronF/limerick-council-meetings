@@ -90,7 +90,8 @@ The Chairperson explained that Cllr Teskey could not attend the meeting and he
 
 asked that the Notice of Motion be deferred to the next meeting of the SPC.
 
-This was agreed by the members.---
+This was agreed by the members.
+---
 **Item 3.**
 
 **Notice of Motion from Cmhlr Ó Ceallaigh referred from the full Council meeting**
@@ -177,7 +178,8 @@ November 2018.
 
 Members expressed a huge gratitude to all associated with the preparation and
 
-submission of the applications. The applications showed that the Council and other---
+submission of the applications. The applications showed that the Council and other
+---
 agencies are hugely ambitious for the Limerick. The City region requires investment
 
 on this scale if it is to act as a counterbalance to the east coast. Members supported
@@ -202,4 +204,5 @@ This concluded the business of the meeting
 
 **Councillor Vivienne Crowley**
 
-Chairperson---
+Chairperson
+---

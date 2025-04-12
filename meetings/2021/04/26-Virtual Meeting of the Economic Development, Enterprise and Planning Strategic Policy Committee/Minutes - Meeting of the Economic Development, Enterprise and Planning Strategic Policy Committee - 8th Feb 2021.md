@@ -68,7 +68,8 @@ currently 100 housing estates waiting to be taken in charge and 80 housing estat
 
 taken in charge over the last 5 years.
 
-The cost of maintaining estates once taken in charge was centrally funded.---
+The cost of maintaining estates once taken in charge was centrally funded.
+---
 Members expressed concern over the delay in taking in charge of housing estates, the insufficient
 
 value of Bonds and the use of Development Fund monies in completing estates and requested a
@@ -147,7 +148,8 @@ Key stats for 2019/2020 included:
 
  Derelict Site Levies owing 31/12/2019 - €511,947
 
- Income received from Levies in 2020 - €26,535---
+ Income received from Levies in 2020 - €26,535
+---
 He referred to a number of high profiles sites, that had derelict site proceedings issues against
 
 them, which included the Horizon Mall Site in Castletroy, 43-46 Cecil Street, Fuller’s Folly,
@@ -230,7 +232,8 @@ tradition
 
  Social media campaign to tackle low consumer awareness about local food
 
- Introduce Limerick Food Awards to highlight the achievements of local producers.---
+ Introduce Limerick Food Awards to highlight the achievements of local producers.
+---
 Members thanked Mike for the presentation and stated that it was a very important strategy for
 
 Limerick and the region and welcomed the realistic targets set out. They pointed out that in order
@@ -267,4 +270,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

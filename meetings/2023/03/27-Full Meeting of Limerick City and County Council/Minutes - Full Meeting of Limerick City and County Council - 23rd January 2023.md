@@ -66,7 +66,8 @@ And Resolved:
 
 With the permission of the Mayor, the Council expressed its sympathy to the
 
-following:---
+following:
+---
 2
 
  The families and colleagues of two recently deceased members of staff on their
@@ -143,7 +144,8 @@ of Angela Vaughaun, deceased, for the sum of €195.42, the disposal to be by wa
 
 Conveyance of the interest of Limerick City and County Council in the property, particulars of
 
-which were contained in Statutory Notice dated 6th December, 2022.”---
+which were contained in Statutory Notice dated 6th December, 2022.”
+---
 3
 
 (c)
@@ -226,7 +228,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 County Council in the property, particulars of which were contained in Statutory Notice dated
 
-4th January, 2023.”---
+4th January, 2023.”
+---
 4
 
 (f)
@@ -311,7 +314,8 @@ to land; (3) payment of reasonable legal fees of the Martins regarding the acqui
 
 disposal; the disposal being subject to the covenants and conditions contained within the
 
-contract, particulars of which were contained in Statutory Notice dated 12th January, 2023.”---
+contract, particulars of which were contained in Statutory Notice dated 12th January, 2023.”
+---
 5
 
 **Derelict Disposals**
@@ -386,7 +390,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Kiely;
 
-And Resolved:---
+And Resolved:
+---
 6
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -467,7 +472,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Brien;
 
-And Resolved:---
+And Resolved:
+---
 7
 
 “That, retrospective approval of the Council be and is hereby given, in accordance with
@@ -542,7 +548,8 @@ And Resolved:
 
 142(5) of the Local Government Act, 2001, as amended, to proposed visit by the Mayor of the
 
-City and County of Limerick, and a delegation, to Rockaway Beach, Queens, New York, USA.”---
+City and County of Limerick, and a delegation, to Rockaway Beach, Queens, New York, USA.”
+---
 8
 
 (v)
@@ -621,7 +628,8 @@ Seconded by Councillor O’Brien;
 
 “That, Councillor Scanlan be appointed to the Board of Innovate Limerick to fill the
 
-vacancy consequent on the resignation of Councillor Ryan (E) from the Board.”---
+vacancy consequent on the resignation of Councillor Ryan (E) from the Board.”
+---
 9
 
 Proposed by Councillor O’Hanlon;
@@ -680,7 +688,8 @@ The Meetings Administrator advised that the Council was required to consider fil
 
 vacancy on the LECP (Local Economic and Community Plan) Steering Group consequent on
 
-the resignation of Councillor Ryan (E) from the Steering Group.---
+the resignation of Councillor Ryan (E) from the Steering Group.
+---
 10
 
 On the proposal of Councillor Ryan (E), seconded by Councillor Sheahan (J), Councillor
@@ -749,7 +758,8 @@ Committee dated 10th January, 2023, in relation to Meeting of the Committee held
 
 20th December, 2022.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 11
 
 **Recommendation**
@@ -820,7 +830,8 @@ The Director, Transportation and Mobility confirmed that this item related to sp
 
 limit appeals only and that the next full Speed Limit Review process would be commencing
 
-later in 2023.---
+later in 2023.
+---
 12
 
 Proposed by Councillor Collins (M);
@@ -889,7 +900,8 @@ Question submitted by Councillor S. Hartigan
 
 **online; and to outline, if there is a legal barrier to recording, what sanctions can Limerick**
 
-**City and County Council impose if a meeting is recorded by an individual.**---
+**City and County Council impose if a meeting is recorded by an individual.**
+---
 13
 
 **REPLY:**
@@ -968,7 +980,8 @@ with the agreed payment schedule.
 
 **How many bicycles were purchased:** To date, Limerick Greenway Bike Hire has
 
-purchased approximately 300 bikes.---
+purchased approximately 300 bikes.
+---
 14
 
 **(c)**
@@ -1057,7 +1070,8 @@ include, e.g. Culture Night, Cruinniú na nÓg and Africa Day. Limerick City and
 
 County Council also administers the Local LPSS (Live Performance Support
 
-Scheme) and Fáilte Ireland funding.---
+Scheme) and Fáilte Ireland funding.
+---
 15
 
 **1.Festivals and Events Grant Scheme**
@@ -1180,7 +1194,8 @@ Notice of Motion submitted by Councillor S. Hartigan
 
 The Motion was proposed by Councillor Hartigan and seconded by Councillor Sheehan
 
-(C).---
+(C).
+---
 16
 
 **REPLY:**
@@ -1251,7 +1266,8 @@ Following further discussion, Councillor Hartigan stated that he was happy to de
 
 the Motion if legal advice were sought on the matter. The Chief Executive agreed to the
 
-request to seek formal legal advice on the matter.---
+request to seek formal legal advice on the matter.
+---
 17
 
 12.
@@ -1312,7 +1328,8 @@ O’Sullivan, and adopted.
 
 Correspondence
 
-The Correspondence circulated with the agenda was taken as read.---
+The Correspondence circulated with the agenda was taken as read.
+---
 18
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -1335,4 +1352,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -64,7 +64,8 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed subject to
 
-the amendment outlined above”.---
+the amendment outlined above”.
+---
 2
 
 (c)
@@ -135,7 +136,8 @@ Teskey in relation to the GMA 2017 and on the proposal of Councillor Sheahan,
 
 seconded by Councillor O’Donoghue it was agreed that €2,000 be allocated to Foynes
 
-Yacht Club under the GMA 2017.---
+Yacht Club under the GMA 2017.
+---
 3
 
 **5.**
@@ -206,7 +208,8 @@ Circulated, report of the Senior Executive Engineer, Design and Delivery, giving
 
 update on the incomplete footpath from Kildimo to the Beer Garden Public House. The
 
-report, as circulated was noted by Members.---
+report, as circulated was noted by Members.
+---
 4
 
 **QUESTIONS**
@@ -279,7 +282,8 @@ Section 13:
 
 *without delay and where such works, damage, or breakage is carried out*
 
-*or repaired by the Council, shall pay the cost of such works to the Council.”*---
+*or repaired by the Council, shall pay the cost of such works to the Council.”*
+---
 5
 
 Councillor O’Brien sought clarity on the obligations on tenants to maintain the outside of
@@ -350,7 +354,8 @@ requested that this go on the agenda for the next District Meeting.
 
 • Councillor Keary sought an update on why the number of social housing units
 
-proposed for Adare had been reduced from 30 to 20.---
+proposed for Adare had been reduced from 30 to 20.
+---
 6
 
 • Councillor Keary requested an update on proposal for a pedestrian controlled
@@ -423,4 +428,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

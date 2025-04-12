@@ -64,7 +64,8 @@ an escalation in energy costs and other input costs, which are critical to the d
 
 services. New amenities, recently completed, now also require a maintenance budget while
 
-financial supports are also needed for existing amenities all of which have witnessed---
+financial supports are also needed for existing amenities all of which have witnessed
+---
 2
 
 reductions in income and significant increases in costs. The budget is balanced despite cost
@@ -125,7 +126,8 @@ A significant challenge in the preparation of the draft Budget has been the acce
 
 gap between the cost base and the income necessary to bridge this gap and to maintain
 
-services at current levels. The Government, similar to the Covid period, have provided---
+services at current levels. The Government, similar to the Covid period, have provided
+---
 3
 
 support to mitigate some level of the impact of energy cost increases and confirmed funding
@@ -182,7 +184,8 @@ Masterplanning of the Cleeves site is almost complete for the 10-acre riverside 
 
 framework plan for the Arthur’s Quay area as part of the Urban Regeneration Development
 
-Fund project will work on a collaborative basis and will place a renewed emphasis on public---
+Fund project will work on a collaborative basis and will place a renewed emphasis on public
+---
 4
 
 realm. Significant private sector investments are also advancing, not least Kirkland
@@ -241,7 +244,8 @@ Provision in the budget is also made to progress key infrastructure projects suc
 
 to Limerick route, the Cork to Limerick Motorway and many others. Ongoing engagement
 
-with The Land Development Agency to develop the public lands around Colbert Station for a---
+with The Land Development Agency to develop the public lands around Colbert Station for a
+---
 5
 
 new mixed-use residential district that could accommodate up to 5,000 people and other
@@ -298,7 +302,8 @@ homelessness and support the regeneration programme.
 
 The repurposing of the Troy Studios loan during 2022 has allowed the Council to leverage
 
-further national funding to agree a €20m works programme to address voids and dereliction---
+further national funding to agree a €20m works programme to address voids and dereliction
+---
 6
 
 within our Social Housing Stock. The Draft Budget also includes resource increases in the
@@ -357,7 +362,8 @@ In conclusion, the CE recommended the Draft Budget to the Elected Members for ad
 
 It was then unanimously agreed that the Chief Executive’s Report on the Draft Budget 2023,
 
-as circulated to Members, would be read into the Minutes of the Meeting as follows:---
+as circulated to Members, would be read into the Minutes of the Meeting as follows:
+---
 7
 
 **“Introduction**
@@ -440,7 +446,8 @@ Plan will be presented to Council at the January 2023 Council meeting.
 
 Through consultation with the Corporate Policy Group and consideration of the views of
 
-Council as expressed through the different stages of the budgetary process, in particular as---
+Council as expressed through the different stages of the budgetary process, in particular as
+---
 8
 
 expressed through the meetings of the Municipal/ Metropolitan Districts, the budget as
@@ -519,7 +526,8 @@ Demands for additional funding are also increasing. The Housing Capital Programm
 
 continues to increase in line with our targets set out in the ‘Housing for All’ plan. The
 
-repurposing of the Troy Studios loan during 2022 has allowed the Council to leverage further---
+repurposing of the Troy Studios loan during 2022 has allowed the Council to leverage further
+---
 9
 
 national funding to agree a €20m works programme to address voids and dereliction within
@@ -596,7 +604,8 @@ costs, the Department of Finance’s projection for domestic economic growth in 
 
 been downgraded significantly. Modified Domestic Demand (MDD) – a measure of the
 
-domestic economy - is now expected to increase by just 1.2 per cent next year, a 2.7---
+domestic economy - is now expected to increase by just 1.2 per cent next year, a 2.7
+---
 10
 
 percentage point reduction relative to the spring forecasts. Consumer spending, the largest
@@ -801,7 +810,8 @@ Net debt ratio (year-end)
 
 **Table 1: Summary of Main Economic and Fiscal Variables**
 
-**(per cent change (unless stated))**---
+**(per cent change (unless stated))**
+---
 11
 
 *Source: Department of Finance Economic and Fiscal Outlook Budget 2023 Summary, p.2*
@@ -876,7 +886,8 @@ accessible and attractive City Centre.
 
 On the jobs front, there have been a number of positive announcements this year again, from
 
-the likes of Johnson & Johnson, Legato, Three, Eli Lilly and Vitalograph among others.---
+the likes of Johnson & Johnson, Legato, Three, Eli Lilly and Vitalograph among others.
+---
 12
 
 There is a renewed focus in towns and village with programmes to tackle vacancy and
@@ -911,7 +922,8 @@ the Local Government Act, 2001 as amended, the Draft Budget is required to set o
 
 expenditure necessary to carry out the functions of the Council and the income estimated to
 
-accrue to the Council.---
+accrue to the Council.
+---
 13
 
 ***The key objectives of the 2023 Budget are set out below:***
@@ -984,7 +996,8 @@ o Securing maximum level of funding from national funding calls
 
 o Continue and where possible enhance our programme of supports to our
 
-communities---
+communities
+---
 14
 
 o Delivering a cultural and arts programme for the benefit of the Citizens of Limerick and
@@ -1051,7 +1064,8 @@ events such as Ukraine Refugee response and extreme weather.
 
 actively looking to implement innovative solutions to deliver further efficiencies.
 
-**8.Continue to seek efficiencies in service provision, cost reduction and value for money**---
+**8.Continue to seek efficiencies in service provision, cost reduction and value for money**
+---
 15
 
 **Outturn 2022**
@@ -1158,7 +1172,8 @@ H - Misc Services
 
 **€952,231,860**
 
-**Table 2: Analysis of Expenditure by Division**---
+**Table 2: Analysis of Expenditure by Division**
+---
 16
 
 The following chart gives a breakdown of expenditure by each division.
@@ -1309,7 +1324,8 @@ Division, with comparative figures for 2022:
 
 **Analysis of Expenditure by Division**
 
-**(Excl HAP)**---
+**(Excl HAP)**
+---
 17
 
 **Analysis of Income 2023**
@@ -1392,7 +1408,8 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **25%**
 
-**Analysis of Income (excluding HAP)**---
+**Analysis of Income (excluding HAP)**
+---
 18
 
 61% of the Council's income (excluding HAP) is now generated locally through Commercial
@@ -1487,7 +1504,8 @@ Budget 2022).
 
 **Draft Budget 2023 €'m**
 
-**Adopted Budget 2022 €'m**---
+**Adopted Budget 2022 €'m**
+---
 19
 
 **Grants and Subsidies Income**
@@ -1570,7 +1588,8 @@ on the basis of this allocation is set out in ***Table 4*** below:
 
 **2023 Baseline**
 
-**€17,554,464**---
+**€17,554,464**
+---
 20
 
 **2023 Shortfall (LPT retained locally -2023**
@@ -1671,7 +1690,8 @@ increase for the businesses included in this scheme.
 
 The increase in Commercial Rates has been allocated to provide additional resources for the
 
-delivery of the following services / schemes:---
+delivery of the following services / schemes:
+---
 21
 
 ***Service / Scheme***
@@ -1778,7 +1798,8 @@ Up to €11,888 Annual Rate Demand (with payment of
 
 payment of 75% required)
 
-25%---
+25%
+---
 22
 
 Over €59,591 Annual Rate Demand (with payment of
@@ -1857,7 +1878,8 @@ Tenancy Processing, Weekly Tenant Rent Run, Monthly Landlord Payment, Tenancy
 
 Amendments, Debt Management, and Recoupment Management. The cost of running the
 
-national centre is fully recouped by Government.---
+national centre is fully recouped by Government.
+---
 23
 
 The HAPSSC will administer circa 8,500 new tenancies in 2023 and process in excess of €650
@@ -1932,7 +1954,8 @@ investment in the Limerick Greenway has provided a strategic piece of sustainabl
 
 infrastructure and a tourism amenity, which will support local community development
 
-socially, culturally and economically. The local authority led the project with the support of---
+socially, culturally and economically. The local authority led the project with the support of
+---
 24
 
 the Department for Rural and Community Development, the Department of Housing, Local
@@ -2057,7 +2080,8 @@ SEP-22
 
 **FTE Staff**
 
-**Number receiving pension**---
+**Number receiving pension**
+---
 25
 
 Blended working in the local government sector reflects the implementation of government
@@ -2132,7 +2156,8 @@ future years. Capital projects by their very nature are flexible rolling plans w
 
 annual review and possible adjustment. Below please find a summary of potential spend and
 
-source of funding for the 3 year capital plan 2023 to 2025.---
+source of funding for the 3 year capital plan 2023 to 2025.
+---
 26
 
 **Capital**
@@ -2247,7 +2272,8 @@ Limerick’s iconic landmark under the control of the Council. Moving forward th
 
 **€358**
 
-**Capital Expenditure 2023-2025 by Year €'m**---
+**Capital Expenditure 2023-2025 by Year €'m**
+---
 27
 
 seek to develop other opportunities including the redevelopment of the Adare Heritage
@@ -2318,7 +2344,8 @@ disruption to business and allow businesses get fully back to trading.
 
 While he noted the proposed increase in commercial rates, the impact on small and medium
 
-enterprises will be offset for many businesses with an increase in the Small and Medium---
+enterprises will be offset for many businesses with an increase in the Small and Medium
+---
 28
 
 Business Enterprise Support Scheme. This is because the proposed commercial rate increase
@@ -2389,7 +2416,8 @@ importance of welcoming all those displaced by the war in Ukraine and condemned 
 
 actions of Russia, which has had such an impact on not only the people of Ukraine, but across
 
-all of Europe as well.---
+all of Europe as well.
+---
 29
 
 On behalf of the Fianna Fail Group, he formally seconded the proposal to adopt the Budget
@@ -2460,7 +2488,8 @@ schemes under the General Municipal Allocation (GMA) scheme, and she noted the v
 
 initiatives in relation to tourism promotion across both the city and county.
 
-She confirmed that the Labour Party would be supporting the budget.---
+She confirmed that the Labour Party would be supporting the budget.
+---
 30
 
 **Councillor Hartigan**
@@ -2517,7 +2546,8 @@ continuing to support businesses during these uncertain times, which are so impo
 
 the businesses impacted.
 
-She confirmed that the Independent Group would be supporting the budget.---
+She confirmed that the Independent Group would be supporting the budget.
+---
 31
 
 Proposed by Councillor Sheahan (J)
@@ -2592,7 +2622,8 @@ Local Government Act, 2001, as amended by Section 43 of the Local Government Ref
 
 **AND THAT**, the Retail Economic Incentive Scheme for Vacant Property from 01/01/2023 until
 
-31/12/2023 in accordance with Section 66 of the Local Government Act, 2001, as amended---
+31/12/2023 in accordance with Section 66 of the Local Government Act, 2001, as amended
+---
 32
 
 by Section 43 of the Local Government Reform Act, 2014 subject to finances available, is
@@ -2669,4 +2700,5 @@ Signed:
 
 **Mayor**
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

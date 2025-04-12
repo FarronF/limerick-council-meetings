@@ -76,7 +76,8 @@ Council in this regard, for approval. The report was noted by Members.
 
 Circulated, report of the A/Senior Executive Officer, Community Support Services dated
 
-8th August, 2017 setting out proposals to dispose of the freehold interest of a dwelling---
+8th August, 2017 setting out proposals to dispose of the freehold interest of a dwelling
+---
 2
 
 house situate at 19 Galvone Road, Kennedy Park and to bring a Section 183 Notice to Full
@@ -163,7 +164,8 @@ September, 2017 which sought approval of the District to payments in association
 
 Richard Harris International Film Festival and outlined programme information with regard to
 
-I.NY.---
+I.NY.
+---
 3
 
 It was noted that while these allocations had previously been discussed by the District and
@@ -250,7 +252,8 @@ enter it onto the Derelict Sites Register.
 
 Limerick City and County Council has 5300 dwellings in its remit. The fire safety
 
-requirements differ depending on the type of building and its construction.---
+requirements differ depending on the type of building and its construction.
+---
 4
 
 Housing Standards for Rented Houses Regulations apply to all houses let by a
@@ -337,7 +340,8 @@ The Council will endeavour to investigate, where appropriate, complaints
 
 received regarding air pollution from the public. The complaint will be referred to
 
-the EPA for investigation and enforcement where it is suspected the breach---
+the EPA for investigation and enforcement where it is suspected the breach
+---
 5
 
 comes from any industrial facility which is licensed by the EPA.
@@ -418,7 +422,8 @@ The notice of motion as submitted by Councillor Prendiville at the Metropolitan
 
 Meeting on 18th April 2017 was placed on the agenda for the next meeting of the
 
-Economic Development, Enterprise and Planning SPC which was held on 12th---
+Economic Development, Enterprise and Planning SPC which was held on 12th
+---
 6
 
 June 2017, to which he was invited. As the Councillor was not in attendance at
@@ -507,7 +512,8 @@ that stage, but I understand that he will need to seek an extension of the licen
 
 into October to complete the works outright. These works will involve a total
 
-resurfacing of the public road and permanent road marking will not be in place---
+resurfacing of the public road and permanent road marking will not be in place
+---
 7
 
 until this work is done.
@@ -590,7 +596,8 @@ The motion was proposed by Councillor Leddin and seconded by Councillor Secas.
 
 In proposing the motion Councillor Leddin noted the lack of available housing units on the
 
-market and the corresponding increase in housing waiting lists and homelessness. He---
+market and the corresponding increase in housing waiting lists and homelessness. He
+---
 8
 
 acknowledged the ongoing work of the Council in this area but stressed that the Council had
@@ -671,7 +678,8 @@ and would be circulated to Members.
 
 It was agreed that this motion would be referred to the Local Electoral Area Briefings and
 
-Councillor Hogan requested that a reply to the motion be available at the briefing.---
+Councillor Hogan requested that a reply to the motion be available at the briefing.
+---
 9
 
 **19.**
@@ -750,7 +758,8 @@ during discussion of the motion :
 
 • Particular focus was needed to provide accommodation for single vulnerable males who
 
-could not afford to rent accommodation.---
+could not afford to rent accommodation.
+---
 10
 
 • There were significant conservation and fire safety issues associated with the
@@ -831,7 +840,8 @@ Meetings are ongoing with the National Transport Authority in relation to the
 
 above matter. It is expected that all of the above will be operational by the end
 
-of Q1 2018.---
+of Q1 2018.
+---
 11
 
 The Senior Engineer, Physical Development Directorate undertook to bring the maintenance
@@ -904,7 +914,8 @@ relevant documentation prior to the workshop and it was agreed that the workshop
 
 held on 16th October, 2017 after the JPC Sub Committee Meetings and that an email to confirm
 
-times would be circulated.---
+times would be circulated.
+---
 12
 
 This concluded the Meeting.
@@ -917,4 +928,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

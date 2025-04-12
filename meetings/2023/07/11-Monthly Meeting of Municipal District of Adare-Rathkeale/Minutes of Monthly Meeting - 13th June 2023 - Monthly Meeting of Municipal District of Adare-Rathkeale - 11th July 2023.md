@@ -66,7 +66,8 @@ management of the pool in its present state along with the tendering process for
 
 plant room upgrades and procurement of an operator to manage the centre when works
 
-are complete and the centre reopens for business. The Meetings Administrator concluded---
+are complete and the centre reopens for business. The Meetings Administrator concluded
+---
 2
 
 that for the meantime the centre will remain closed until these necessary works are
@@ -131,7 +132,8 @@ to Abbeyfeale for the July District Meeting.
 
 would be completed. The Senior Executive Engineer, Roads, Traffic and Cleansing
 
-advised works would be completed by the end of the year.---
+advised works would be completed by the end of the year.
+---
 3
 
  Councillor Teskey requested an update on when works would start on the
@@ -202,7 +204,8 @@ allocate the following:
 
  €2,000 to Adare Ladies Gaelic Football Club.
 
- €1,500 to Adare 2020 Club.---
+ €1,500 to Adare 2020 Club.
+---
 4
 
 On the proposal of Councillor Sheahan, seconded by Councillor Teskey, it was agreed to
@@ -235,4 +238,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-03-20 10:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west-discuss-local-authority-houses)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west-discuss-local-authority-houses" target="_blank">Link to meeting</a>**

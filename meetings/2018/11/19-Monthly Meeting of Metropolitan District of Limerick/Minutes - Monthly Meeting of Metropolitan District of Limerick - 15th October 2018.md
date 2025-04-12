@@ -70,7 +70,8 @@ Seconded by Councillor Hogan;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **2.**
@@ -151,7 +152,8 @@ the Metropolitan area commenced between 1st June 2014 and 31st August 2018.
 
 Approx. €2.36 million remains outstanding in respect of these permissions.
 
-Of these developments:---
+Of these developments:
+---
 3
 
 Fifteen have payment plans in place;
@@ -238,7 +240,8 @@ with all construction projects, construction cost is subject to become more defi
 
 following Tender.
 
-Lisheen Park sanctioned costs €3,700,000---
+Lisheen Park sanctioned costs €3,700,000
+---
 4
 
 Barnakyle sanctioned costs €4,821,800
@@ -331,7 +334,8 @@ single-stage tendering process; and
 
 - the Information included in the Works Requirements is less than that required
 
-when following traditional procurement routes.---
+when following traditional procurement routes.
+---
 5
 
 **6.**
@@ -412,7 +416,8 @@ and details of parking and public transport for Limerick City Centre will be inc
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick how many CCTV cameras***
 
-***there are in Limerick City North and how many are monitored and in working order.***---
+***there are in Limerick City North and how many are monitored and in working order.***
+---
 6
 
 **REPLY:**
@@ -493,7 +498,8 @@ Metropolitan District of Limerick.
 
 ***report should include options in terms of CPO and agreed sale, changes to zoning required and***
 
-***other possible issues.***---
+***other possible issues.***
+---
 7
 
 It was agreed to refer this Notice of Motion to the Economic Development, Enterprise and
@@ -570,7 +576,8 @@ The Members requested that the officials would be in attendance in future in ord
 
 Notice of Motions on the Agenda. The Meetings Administrator stated that the relevant officials
 
-will be invited to attend.---
+will be invited to attend.
+---
 8
 
 **16.**
@@ -611,4 +618,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

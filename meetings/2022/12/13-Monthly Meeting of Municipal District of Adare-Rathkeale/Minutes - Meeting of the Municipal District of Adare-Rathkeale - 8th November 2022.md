@@ -66,7 +66,8 @@ And Resolved:
 
 (a) Circulated, report of the Head of Property and Community Facilities dated 25th
 
-October, 2022 setting out proposals to dispose of derelict property on Lower Main---
+October, 2022 setting out proposals to dispose of derelict property on Lower Main
+---
 2
 
 Street, Rathkeale, Co. Limerick and the intention to bring to Full Council for
@@ -135,7 +136,8 @@ Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansin
 
 08th November, 2022 outlining details of proposed works, projects and future projects
 
-planned for the District.---
+planned for the District.
+---
 3
 
 Following discussion the following issues were raised by Members:
@@ -200,7 +202,8 @@ to allocate the following:
 
  €1,416 to Adare Camogie Club.
 
- €1,000 to St James National School, Cappagh.---
+ €1,000 to St James National School, Cappagh.
+---
 4
 
 **7.**
@@ -259,4 +262,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

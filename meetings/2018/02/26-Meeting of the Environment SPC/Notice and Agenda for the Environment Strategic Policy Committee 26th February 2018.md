@@ -21,7 +21,8 @@ held in the Council Chamber, Dooradoyle, Co. Limerick, on Monday 26th February 2
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -62,4 +63,5 @@ throughout the City and County”.
 
 6. **Presentation on Environmental Awareness Initiatives** **–** **Ms. Sinead McDonnell**
 
-7. **Report on Pilot Project for the Upgrade and Maintenance of Strategic Roundabouts**---
+7. **Report on Pilot Project for the Upgrade and Maintenance of Strategic Roundabouts**
+---

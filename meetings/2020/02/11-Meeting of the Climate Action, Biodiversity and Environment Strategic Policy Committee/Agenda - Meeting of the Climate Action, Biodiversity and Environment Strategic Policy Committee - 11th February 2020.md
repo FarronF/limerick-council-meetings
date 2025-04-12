@@ -24,7 +24,8 @@ appended agenda.
 
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -73,4 +74,5 @@ Limerick caused by the burning of solid fuels/coal”.
 
 process for weed control service contract to eliminate unnecessary herbicide application,
 
-reducing the frequency of spraying and reduce the volume of herbicides used”.---
+reducing the frequency of spraying and reduce the volume of herbicides used”.
+---

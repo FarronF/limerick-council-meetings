@@ -75,7 +75,8 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **2.Disposal of Land**
@@ -136,7 +137,8 @@ Directorate link in with the Limerick Enterprise Development Partnership (LEDP) 
 
 discuss the large vacant units with a view to leasing them for many groups in the area looking for
 
-a home. I am aware funding is needed to maintain the roof.---
+a home. I am aware funding is needed to maintain the roof.
+---
 3
 
 **7.Question submitted by Councillor C. Slattery**
@@ -211,7 +213,8 @@ v.
 
 Taking into consideration that the Metropolitan District would receive the same grant
 
-funding for 2023 what percentage of this funding has already been committed.---
+funding for 2023 what percentage of this funding has already been committed.
+---
 4
 
 **12.Question submitted by Councillor D. McSweeney**
@@ -266,7 +269,8 @@ I will move at the next meeting of the Metropolitan District of Limerick that we
 
 Minister for Social Protection to ask if widows / widowers can be considered for half rate illness
 
-benefit, once the applicant meets the criteria set out under the current scheme.---
+benefit, once the applicant meets the criteria set out under the current scheme.
+---
 5
 
 **18.Notice of Motion submitted by Councillor E. Secas**
@@ -291,4 +295,5 @@ Limerick city.
 
 **20.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

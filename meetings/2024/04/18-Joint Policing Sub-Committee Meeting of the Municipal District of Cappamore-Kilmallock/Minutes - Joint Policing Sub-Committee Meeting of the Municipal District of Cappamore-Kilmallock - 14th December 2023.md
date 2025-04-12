@@ -42,7 +42,8 @@ of Cappamore Kilmallock held on 21st September, 2023.
 
 Matters Arising
 
-There were no matters arising---
+There were no matters arising
+---
 2
 
 Report from Superintendent Reidy
@@ -141,7 +142,8 @@ that the proposed roster did not come into operation allowed the area to retain 
 
 It was noted that there was no aggravation or interaction involved in the house burglaries, and
 
-the fraud was all online, which is on the increase.---
+the fraud was all online, which is on the increase.
+---
 3
 
 Report from Inspector Thompson
@@ -246,7 +248,8 @@ bikes and e scooters. This legislation will have to be enforced throughout Europ
 
 There was acknowledgement of the patrols at Halloween, and those in attendance noted the
 
-need to think of road safety at Christmas.---
+need to think of road safety at Christmas.
+---
 4
 
 Inspector Thompson highlighted that An Garda Siochana are heavily dependent on calls from
@@ -323,7 +326,8 @@ The Director of services outlined that the Road Safety plan was brought to the S
 
 inviting any submissions.
 
-This concluded the business of the meeting.---
+This concluded the business of the meeting.
+---
 5
 
 *The next Joint Policing Committee Meeting of the Cappamore Kilmallock*
@@ -338,4 +342,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cathaoirleach**
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

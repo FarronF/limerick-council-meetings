@@ -68,7 +68,8 @@ Seconded: Cllr. Eddie Ryan
 
  Cllr. Keary wished to seek progress on the matter from Cathal Quaid regarding a
 
-reduction or subsidy that could be granted to tenants who wish to upgrade their---
+reduction or subsidy that could be granted to tenants who wish to upgrade their
+---
 properties by installing new windows and doors - from the previous minutes. Cathal
 
 Quaid responded that a formal pilot has not been put in place at present due to
@@ -137,7 +138,8 @@ anyone has any queries to feel free to contact her.
 
  At the end of the meeting, Aoife Duke mentioned that we are looking for support
 
-from the members of the SPC in relation to the percentage split as we review---
+from the members of the SPC in relation to the percentage split as we review
+---
 Turnkeys. Private developers are coming to HD and looking for HD to take them on.
 
 She asked for permission from SPC to have discussions with private developers on
@@ -200,7 +202,8 @@ Cllr. Benson expressed how well the SPOC project is working; she is seeing great
 
 and complimented the team.
 
-**Item 6: Rebuilding Ireland** **–** **Quarterly Delivery Update**---
+**Item 6: Rebuilding Ireland** **–** **Quarterly Delivery Update**
+---
 Sarah Newell, Executive Planner, Housing Development gave a presentation on Rebuilding
 
 Ireland delivery streams and is hoping to give updates to SPC for every quarter from now on.
@@ -265,7 +268,8 @@ A discussion opened up from Councillors around the presentation.
 
 Responding to a question from Cllr. Donegan, Mr. Leahy will circulate planned works for
 
-each Municipal District after the meeting.---
+each Municipal District after the meeting.
+---
 Mr. Leahy also stated that he hopes there will be a follow-on phase in 2021 with a number
 
 of additional approvals. This will be dependent on Government funding.
@@ -324,4 +328,5 @@ END OF MEETING
 
 The Chair thanked all presenters, host, staff and Councillors for their attendance. The
 
-meeting concluded.---
+meeting concluded.
+---

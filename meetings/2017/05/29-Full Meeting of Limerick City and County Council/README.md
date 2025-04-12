@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-05-29 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council)**
+**<a href="https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council" target="_blank">Link to meeting</a>**

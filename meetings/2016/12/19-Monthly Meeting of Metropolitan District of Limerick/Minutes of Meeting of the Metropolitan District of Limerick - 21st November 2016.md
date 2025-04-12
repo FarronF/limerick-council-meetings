@@ -72,7 +72,8 @@ And Resolved:
 
 Circulated, copy of draft Minutes of Adjourned Draft Budgetary Plan Meeting for the
 
-Metropolitan District of Limerick held on 24th October, 2016.---
+Metropolitan District of Limerick held on 24th October, 2016.
+---
 2
 
 Proposed by Councillor Collins;
@@ -157,7 +158,8 @@ That 'Derravoher', North Circular Road, Limerick, a building, Ref. No. P.P.S. 20
 
 the Record of Protected Structures contained in the City Development Plan in accordance with
 
-Sections 54 and 55 of the Planning and Development Act 2000 (as amended).---
+Sections 54 and 55 of the Planning and Development Act 2000 (as amended).
+---
 3
 
 (iii)
@@ -244,7 +246,8 @@ The Council’s Veterinary Services and the Dog Shelter have dealt with in exces
 
 total number of dogs handled by the Council in the Metropolitan District to 17
 
-November 2016 is 269. Of these, 172 dogs were seized by the Dog Wardens, 87---
+November 2016 is 269. Of these, 172 dogs were seized by the Dog Wardens, 87
+---
 4
 
 dogs were surrendered to the Dog Shelter, and 10 dogs were collected from
@@ -329,7 +332,8 @@ We have clients in apartments that we term ‘emergency apartments’, which are
 
 self-contained independent living units, who were not included in the report to
 
-the SPC, but are included in the report to the Department.---
+the SPC, but are included in the report to the Department.
+---
 5
 
 According to our monthly report sent to the Department of Housing (September
@@ -414,7 +418,8 @@ Action Team.
 
 A total of 16 temporary General Operative/General Operative C1 Drivers have
 
-been appointed on a permanent basis with effect from 28th October, 2016. These---
+been appointed on a permanent basis with effect from 28th October, 2016. These
+---
 6
 
 staff have been appointed following success at competition. All of the staff
@@ -493,7 +498,8 @@ included.
 
 behaviour associated with drug abuse. A wide range of services were required to deal with
 
-these issues.---
+these issues.
+---
 7
 
 Mr. Steve McNamara, Administrative Officer, Homeless Action Team informed Members that
@@ -578,7 +584,8 @@ A briefing for Councillors on the review of the Limerick Regeneration Framework
 
 Implementation Plan will take place on Friday, 2nd December, 2016 at 2.30pm in
 
-the Council Chamber, Dooradoyle.---
+the Council Chamber, Dooradoyle.
+---
 8
 
 **13.**
@@ -657,7 +664,8 @@ proposed development at Mungret.
 
 On the proposed of Councillor Sheahan, seconded by Councillor Hurley, it was agreed that the
 
-motion be amended to read as follows :---
+motion be amended to read as follows :
+---
 9
 
 “That Limerick Metropolitan District write to Irish Cement condemning their recent threat to cut
@@ -742,7 +750,8 @@ costed and considered for the 2017 Development Fund Allocation.
 
 ***I will move at the next Meeting that Limerick Metropolitan District take in charge the open***
 
-***green space at rear of Carrinderry House along Castletroy College Road. As the area has***---
+***green space at rear of Carrinderry House along Castletroy College Road. As the area has***
+---
 10
 
 ***become a magnet for litter I would ask that this space be suitably landscaped to include***
@@ -771,4 +780,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

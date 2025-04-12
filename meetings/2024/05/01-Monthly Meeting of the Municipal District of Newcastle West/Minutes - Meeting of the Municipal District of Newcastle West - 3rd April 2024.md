@@ -78,7 +78,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
-such interests were declared.---
+such interests were declared.
+---
 2
 
 3.
@@ -149,7 +150,8 @@ project, difficulties with lack of a sewerage system on the Railway Road, the pr
 
 sewage tankering from the site and the possibility of having the public sewerage system
 
-extended from the NCT Centre to the Railway Bar in Abbeyfeale.---
+extended from the NCT Centre to the Railway Bar in Abbeyfeale.
+---
 3
 
 Following discussion Members were of the opinion the town sewerage system needed to be
@@ -226,7 +228,8 @@ Council’s Corporate Plan 2019 – 2024.
 
 The Administrative Officer stated that the preparation of the Local Economic and Community
 
-Framework Plan involved a public consultation process across Limerick City and County and---
+Framework Plan involved a public consultation process across Limerick City and County and
+---
 4
 
 included online and physical meetings, area based and group workshops and stakeholder
@@ -303,7 +306,8 @@ Newcastle West.
 
 Circulated, report of Director of Services, dated March 2024, setting out the details of the
 
-Draft Schedule of Works for the Municipal District of Newcastle West 2024.---
+Draft Schedule of Works for the Municipal District of Newcastle West 2024.
+---
 5
 
 The Members welcomed the report and the funding which was made available for the various
@@ -372,7 +376,8 @@ allocate €700 to Killeedy GAA for seating in playground area.
 
 On the proposal of Councillor Collins, seconded by Councillor Scanlan, it was agreed to
 
-allocate €3,000 to roadworks in Ballyagran.---
+allocate €3,000 to roadworks in Ballyagran.
+---
 6
 
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
@@ -445,7 +450,8 @@ REPLY:
 
 Limerick City and County Council do not maintain this area. It is currently being
 
-maintained by Athea Community Council.---
+maintained by Athea Community Council.
+---
 7
 
 8.
@@ -510,7 +516,8 @@ This project is included under the General Maintenance Safety Scheme 2024.
 
 REPLY:
 
-Mountcollins Village is included under the NTA 2024 footpath scheme.---
+Mountcollins Village is included under the NTA 2024 footpath scheme.
+---
 8
 
 13. Question submitted by Councillor F. Foley
@@ -577,7 +584,8 @@ be prepared for these works. Following discussion, the Senior Executive Engineer
 
 funding has been secured to carry out a design of the pipeline and consultants are currently
 
-being sought with a view to having design complete by end of 2024.---
+being sought with a view to having design complete by end of 2024.
+---
 9
 
 At this stage, Councillor Galvin left the Meeting.
@@ -644,7 +652,8 @@ In proposing the Motion, Councillor Scanlan referred to the appalling condition 
 
 and in replying the Senior Executive Engineer stated that road works have commenced at this
 
-location this week.---
+location this week.
+---
 10
 
 19. Notice of Motion submitted by Councillor J. Scanlan
@@ -711,7 +720,8 @@ matter for the next Meeting.
 
 An update was sought on the application made to Transport Infrastructure Ireland for traffic
 
-calming measures at Dalton’s Cross, Abbeyfeale. In replying, the Executive Engineer agreed---
+calming measures at Dalton’s Cross, Abbeyfeale. In replying, the Executive Engineer agreed
+---
 11
 
 to seek an update from Transport Infrastructure Ireland with regard to funding for these
@@ -756,4 +766,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

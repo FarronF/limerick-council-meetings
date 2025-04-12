@@ -76,7 +76,8 @@ development proceeds.
 
  Social Housing: The current plans group 16 of the social houses together, and concerns
 
-were raised that this will stigmatise the tenants of the social housing and that, instead,---
+were raised that this will stigmatise the tenants of the social housing and that, instead,
+---
 2
 
 they social housing units should be dispersed amongst the development.
@@ -197,7 +198,8 @@ Planning and Development (Housing) and Residential Tenancies Act 2016. On foot o
 
 from Councillor Sheahan, Mr. Duclot advised that the Chief Executive’s report for An Bord Pleanála
 
-would be distributed to all members of the Metropolitan district.---
+would be distributed to all members of the Metropolitan district.
+---
 3
 
 This concluded the Meeting.
@@ -210,4 +212,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

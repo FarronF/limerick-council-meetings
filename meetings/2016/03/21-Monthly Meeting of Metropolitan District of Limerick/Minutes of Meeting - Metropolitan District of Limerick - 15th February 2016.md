@@ -64,7 +64,8 @@ the City of Limerick.
 
  Disposal of Freehold Interest in dwelling house situate at 45 Galvone Road, Kennedy Park in
 
-the City of Limerick.---
+the City of Limerick.
+---
 2
 
 **3.**
@@ -137,7 +138,8 @@ agricultural use as there is sufficient zoned land for housing and that the text
 
 document should be changed as necessary. The land zoned as established residential is along
 
-the front of the site as shown on the map submitted (see Appendix 1)”.---
+the front of the site as shown on the map submitted (see Appendix 1)”.
+---
 3
 
 Members discussed the appropriate use and zoning of Mungret College going forward and in
@@ -214,7 +216,8 @@ Councillors Butler, Byrne, Collins, Crowley, Hourigan, Hurley, Lynch, McCreesh, 
 
 and Sheahan
 
-**(11)**---
+**(11)**
+---
 4
 
 **AGAINST**
@@ -295,7 +298,8 @@ attributed to people using the University Hospital, Limerick.
 
 We will engage with the Management of the Hospital in relation to these issues
 
-to ascertain their proposals in relation to same.---
+to ascertain their proposals in relation to same.
+---
 5
 
 In the longer term the most effective solution in terms of controlling parking
@@ -376,4 +380,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

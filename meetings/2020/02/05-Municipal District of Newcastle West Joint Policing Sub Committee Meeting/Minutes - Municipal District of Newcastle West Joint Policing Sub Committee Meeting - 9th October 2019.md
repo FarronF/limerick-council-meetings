@@ -68,7 +68,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2. Policing Issues in the District
@@ -139,7 +140,8 @@ to be cautious when disclosing bank details.
 
 Sergeant Thompson gave a comprehensive overview of the Text Alert System ,which is of great
 
-benefit to the local community and the Gardai. He also noted its used in locating missing persons.---
+benefit to the local community and the Gardai. He also noted its used in locating missing persons.
+---
 3
 
 The Members acknowledged the work of the Community Alert groups and the importance of
@@ -182,4 +184,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

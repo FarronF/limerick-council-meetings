@@ -62,7 +62,8 @@ Authorities during this time, to identify and provide all necessary resources re
 
 to assist them in increasing housing supply.
 
-**Signed: Councillors Benson, Carey, Collopy, O’Donovan, Ryan (E), Scanlan**---
+**Signed: Councillors Benson, Carey, Collopy, O’Donovan, Ryan (E), Scanlan**
+---
 The Mayor noted that he had received an amendment to the original motion and it was
 
 proposed by Cllr. J. Sheahan, and seconded by Cllr. L. Galvin.
@@ -131,7 +132,8 @@ Secas, Sheehan (C).
 
 Councillor O’Donoghue.
 
-**(1)**---
+**(1)**
+---
 The Mayor declared the Amended Motion proposed by Councillor J. Sheahan and seconded by
 
 Councillor L. Galvin as carried.
@@ -146,4 +148,5 @@ The Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

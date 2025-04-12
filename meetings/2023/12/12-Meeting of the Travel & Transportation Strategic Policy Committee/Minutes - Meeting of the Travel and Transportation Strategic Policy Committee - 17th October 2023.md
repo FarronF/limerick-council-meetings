@@ -44,7 +44,8 @@ to Greenways.
 
 The Chair thanked Mr. Leahy for the presentation and opened the floor to questions.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 Cllr. Galvin stated that Abbeyfeale railway station is in need of a revamp and asked for an update
@@ -103,7 +104,8 @@ Carrigtwohill Greenway in Glounthaune in Cork which was constructed along the do
 
 N25 road. Substantial segregation with the existing road was provided to provide a safe walking
 
-and cycling environment.---
+and cycling environment.
+---
 3
 
 Cllr. Keary stated thatit is 5 years since Members asked for a greenway from Rathkeale to Adare.
@@ -160,7 +162,8 @@ In response to questions Mr. Kennedy added the following: -
 
 commuter rail route. Mr. Kennedy advised that he will discuss the matter with Irish Rail
 
-& NTA going forward.---
+& NTA going forward.
+---
 4
 
  The objective is to create connectivity. LCCC will go as far as the county bounds with Clare
@@ -219,7 +222,8 @@ The Minutes of the Meeting of the Travel and Transportation Strategic Policy Com
 
 the 20th June 2023 were proposed by Cllr. McSweeney, seconded by Cllr. Mitchell and adopted.
 
-The Chair agreed to move to Item 4 on the Agenda.---
+The Chair agreed to move to Item 4 on the Agenda.
+---
 5
 
 **Item 4: Notice of Motion submitted by Councillor D. McSweeney (referred from June Metro**
@@ -280,7 +284,8 @@ The Chair referenced the private briefing which Mr. Prenderville delivered to al
 
 on Friday, the 13th October. She very much welcomed this document and added that it is
 
-important that we have flexibility with the guidelines and all stakeholders.---
+important that we have flexibility with the guidelines and all stakeholders.
+---
 6
 
 With reference to Cllr. O’Donovan and Cllr. McSweeney’s input, Mr. Kennedy advised that he will
@@ -337,4 +342,5 @@ The Chair asked if we can move this item as a Presentation for the next SPC Meet
 
 the presenters and members for their contribution. She confirmed that the next SPC meeting is
 
-scheduled for Tuesday, the 12th December 2023. The meeting then concluded.---
+scheduled for Tuesday, the 12th December 2023. The meeting then concluded.
+---

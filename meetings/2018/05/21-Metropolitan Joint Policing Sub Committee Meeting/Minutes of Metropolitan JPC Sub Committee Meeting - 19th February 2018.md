@@ -96,7 +96,8 @@ Horse found dead next to halting site in Rhebogue. Request that the law re taggi
 
 reinforced and a Guard appointed to liaise with the Council in relation to the horse situation in
 
-Limerick;---
+Limerick;
+---
 
 
 Enforce the law re requirement for front and back lights on bicycles and cyclists wearing high viz
@@ -197,7 +198,8 @@ Sulky riding in the middle of the road thereby slowing up traffic especially dur
 
 referred specifically to the fact that sulky riding takes place every evening at 4.30 p.m. on Childers
 
-Road;---
+Road;
+---
 
 
 The newly resurfaced Bloodmill Road now being used as a ‘rat run’ and drivers do not slow down at
@@ -290,4 +292,5 @@ This concluded the meeting.
 
 **COUNCILLOR SEAN COUGHLAN**
 
-**CHAIRMAN**---
+**CHAIRMAN**
+---

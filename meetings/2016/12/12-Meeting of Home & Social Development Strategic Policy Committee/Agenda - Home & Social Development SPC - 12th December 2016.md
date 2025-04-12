@@ -52,4 +52,5 @@ in Relation to 'Demountables'
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

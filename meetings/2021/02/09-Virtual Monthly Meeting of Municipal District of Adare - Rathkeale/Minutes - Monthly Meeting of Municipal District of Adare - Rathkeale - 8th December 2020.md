@@ -60,7 +60,8 @@ discussion ensued in relation to bringing derelict buildings back into use in th
 
 the Director assured Members that Limerick City and County Council are actively pursuing
 
-the matter at the present time.---
+the matter at the present time.
+---
 2
 
 **3.**
@@ -131,7 +132,8 @@ ownership of the lands by the riverside walk in Rathkeale with a view to providi
 
 a playground adjacent to the Greenway. This was seconded by Councillor
 
-O’Donoghue and agreed.---
+O’Donoghue and agreed.
+---
 3
 
  Councillor Keary raised the issue of the loss of vital car parking spaces outside
@@ -198,7 +200,8 @@ Community Development Association.
 
 **I will ask at the next Meeting for an update on when Reilig Mhuire Burial Ground in**
 
-**Askeaton is going to be extended.**---
+**Askeaton is going to be extended.**
+---
 4
 
 **Reply:**
@@ -263,7 +266,8 @@ As the time had reached 12.10 a.m., i.e. one hour and fifty-five minutes since t
 
 the Meeting, the Elected Members agreed to adjourn the Meeting having regard for
 
-Covid 19 guidelines on the duration of Meetings.---
+Covid 19 guidelines on the duration of Meetings.
+---
 5
 
 The Cathaoirleach wished all a happy and peaceful Christmas.
@@ -278,4 +282,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

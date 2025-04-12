@@ -68,7 +68,8 @@ further time was required to consider the report.
 
 At this point, on the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M),
 
-it was agreed to adjourn for twenty minutes.---
+it was agreed to adjourn for twenty minutes.
+---
 2
 
 On resumption, the Mayor stated that the format that the Meeting would take had been
@@ -149,7 +150,8 @@ which is currently supplying to the grid. The turbine is generating 1 Megawatt o
 
 equivalent to the electrical supply requirement for 700 households. This facility earns a
 
-considerable annual income for the Council.---
+considerable annual income for the Council.
+---
 3
 
 **Landfill Gate Fees**
@@ -238,7 +240,8 @@ national policy to divert waste from landfill and to encourage recycling.
 
 A decision to extend the life of the Landfill and commit capital to build new cells was not
 
-considered viable given the market and regulatory restrictions.---
+considered viable given the market and regulatory restrictions.
+---
 4
 
 In summary, the increased competition in the market for waste, the rise in the cost of the
@@ -321,7 +324,8 @@ On foot of the Elected Members approval, the Council engaged a leading firm of I
 
 Environmental Consultants, RPS, to undertake the Market Sounding Exercise on behalf of
 
-the Council.---
+the Council.
+---
 5
 
 RPS prepared a notice in the EU journal in May, 2010 and then reported on the response of
@@ -416,7 +420,8 @@ As a follow-up to the market sounding, a number of interested parties approached
 
 Council during 2012 proposing alternate waste treatment options that could be sited at
 
-Gortadroma Landfill.---
+Gortadroma Landfill.
+---
 6
 
 These inquiries reflected the continuing development in new waste treatment technologies
@@ -505,7 +510,8 @@ Qualification Questionnaire Assessment Report was issued on 15th July, 2013.
 
 The RPS report recommended that the Council authorised proceeding to the selection of
 
-preferred bidder stage. The above reports are included in Appendix E.---
+preferred bidder stage. The above reports are included in Appendix E.
+---
 7
 
 • **Stage 2 - Selection of Preferred Bidder**
@@ -576,7 +582,8 @@ procurement law.
 
 **District**
 
-The Gortadroma Landfill is located within the Adare-Rathkeale Municipal District.---
+The Gortadroma Landfill is located within the Adare-Rathkeale Municipal District.
+---
 8
 
 The Members for the Adare-Ratkeale Municipal District had a standing item on their agenda
@@ -665,7 +672,8 @@ to facilitate the Cadence Enviropower proposal was in the public domain for a pe
 
 months. Subsequent to this period of consideration, the Adare-Rathkeale Members took
 
-their decision to support the proposed disposal at their meeting of the 16th March, 2015.---
+their decision to support the proposed disposal at their meeting of the 16th March, 2015.
+---
 9
 
 **Consultation with Local Residents Representatives - The**
@@ -744,7 +752,8 @@ The Mayor then invited Members to indicate if they wished to ask questions/seek
 
 clarifications in relation to Section 2.
 
-In response to queries from the Members, the following points were noted:---
+In response to queries from the Members, the following points were noted:
+---
 10
 
 • A review of the future use of the Gortadroma site had been commenced by Limerick
@@ -815,7 +824,8 @@ to Strategic Infrastructure Development.
 
 • The Agreement to Lease the lands was not a pre-planning process, no indication had
 
-been given as to whether planning would be appropriate.---
+been given as to whether planning would be appropriate.
+---
 11
 
 • Until such time as all conditions had been met, the lease would not become
@@ -888,7 +898,8 @@ process.
 
 It was also agreed that it would be preferable if this meeting could take place before the
 
-public meeting.---
+public meeting.
+---
 12
 
 The Director, Transportation & Travel/Environment, then proceeded to read into the
@@ -957,7 +968,8 @@ disposal may be carried out;
 
 carried out in accordance with terms specified in the resolution, the disposal may be
 
-carried out in accordance with those terms;---
+carried out in accordance with those terms;
+---
 13
 
 (f) the disposal shall not be carried out otherwise than in accordance with paragraph
@@ -1040,7 +1052,8 @@ The Mayor then invited Members to indicate if they wished to ask questions/seek
 
 clarifications in relation to Section 3.
 
-In response to queries from Members, the following points were noted:---
+In response to queries from Members, the following points were noted:
+---
 14
 
 • The disposal of land was a Reserved Function of the Council and the process
@@ -1109,7 +1122,8 @@ required to undertake prior to any formal grant or refusal of permission.
 
 ***process be a direct application to Limerick City and County Council, a direct***
 
-***application to An Bord Pleanála or a Part V111 application by the Council.”***---
+***application to An Bord Pleanála or a Part V111 application by the Council.”***
+---
 15
 
 **REPLY**:
@@ -1190,7 +1204,8 @@ The following reply was drafted by the planning section.
 
 *“The Council do not have sufficient detail to prepare a quantative risk assessment at this stage and in*
 
-*any event this assessment will be carried out as part of the planning application process.”*---
+*any event this assessment will be carried out as part of the planning application process.”*
+---
 16
 
 **Legal Advice requested since the signing of the Contract**
@@ -1271,7 +1286,8 @@ received hereunder for your attention:
 
 *Motion, together with the names of five other Members who are supporting the*
 
-*Motion to rescind.*---
+*Motion to rescind.*
+---
 17
 
 *It is important to bear in mind that Standing Orders cannot overrule the existing common law*
@@ -1362,7 +1378,8 @@ The Director of Service, in accordance with a commitment given to the Members, s
 
 legal advice in relation to the content of this document. The advice received by the Council is
 
-set out hereunder.---
+set out hereunder.
+---
 18
 
 *“I attended a meeting of the Limerick City & County Council on the*
@@ -1449,7 +1466,8 @@ advice.
 
 *the residue from the thermal treatment of solid waste at the*
 
-*Gortadroma facility will be inert or not.*---
+*Gortadroma facility will be inert or not.*
+---
 19
 
 *Throughout the correspondence Mr Riera seems to me to be very*
@@ -1538,7 +1556,8 @@ advice.
 
 *deceit. The action failed because it was not proved that the*
 
-*Directors lacked honest belief in what they had said”.*---
+*Directors lacked honest belief in what they had said”.*
+---
 20
 
 *The following extract from an article on “fraud in Ireland” might*
@@ -1637,7 +1656,8 @@ seek to rescind the same on that basis. It is beyond doubt that the Court will, 
 
 in fairness very limited circumstances, which I will deal with below, grant relief to a
 
-party who had been induced to enter into an agreement by virtue of the---
+party who had been induced to enter into an agreement by virtue of the
+---
 21
 
 misrepresentation made by the other contracting party. Such relief is equitable
@@ -1738,7 +1758,8 @@ example, if the contracting party was aware that misrepresentation was false, th
 
 clearly misrepresentation, be it fraudulent or otherwise, did not induce that party to
 
-enter into the contract.---
+enter into the contract.
+---
 22
 
 Insofar as I understand matters the misrepresentation which would be alleged
@@ -1835,7 +1856,8 @@ resisted, that means presumably a difficult and complex High Court action, which
 
 presumably would be, given the value of the scheme etc. be dealt with in the
 
-Commercial Court. That would mean that the hearing would take place, if such---
+Commercial Court. That would mean that the hearing would take place, if such
+---
 23
 
 Proceedings were launched, relatively quickly i.e. probably within 12 months, but the
@@ -1918,7 +1940,8 @@ into the issue as to whether or not the Section 183 resolution should be
 
 passed and the “Agreement to Lease” entered into. The “Agreement to
 
-Lease” was only the first part in a long process, it would be followed with a---
+Lease” was only the first part in a long process, it would be followed with a
+---
 24
 
 stringent planning and environmental licensing process to be completed
@@ -1995,7 +2018,8 @@ to Lease may be terminated are as follows:-
 
 *or powers contained in this Agreement otherwise available to the Landlord or the*
 
-*Tenant, on the occurrence of the following events:*---
+*Tenant, on the occurrence of the following events:*
+---
 25
 
 •
@@ -2082,7 +2106,8 @@ required Waste Licence.
 
 *carry out an environmental impact assessment as part of the*
 
-*proposed lessee’s planning and waste licence applications.”*---
+*proposed lessee’s planning and waste licence applications.”*
+---
 26
 
 The Legal advice also cautions the Council in relation to initiating proceedings
@@ -2173,7 +2198,8 @@ decision being made in relation to this proposed development.
 
 *case that the Agreement for Lease contemplates a fairly stringent planning and*
 
-*environmental process being put in place before the Lease is to be granted.”*---
+*environmental process being put in place before the Lease is to be granted.”*
+---
 27
 
 In conclusion it is also clear from the legal advice available to the Council that the
@@ -2236,4 +2262,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

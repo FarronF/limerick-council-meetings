@@ -64,11 +64,13 @@ attend the Operational Briefings to be held on Tuesday, 3rd November, 2015 and M
 
 agreed that the Operational Briefings for November would be changed to Friday, 6th
 
-November at the times originally agreed.---
+November at the times originally agreed.
+---
 This concluded the Meeting.
 
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

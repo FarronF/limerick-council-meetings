@@ -64,7 +64,8 @@ installation of the water meters several years ago has also caused interruptions
 
 the footpaths. We ask that Limerick City and County Council survey all the footpaths
 
-in Adare and repair or replace all footpaths where necessary.---
+in Adare and repair or replace all footpaths where necessary.
+---
 2
 
 •
@@ -145,7 +146,8 @@ Deputation for their presentation and advised the Executive would arrange to cos
 
 proposed works outlined by the Deputation and revert back to the Committee when
 
-costings were complete.---
+costings were complete.
+---
 3
 
 This concluded the Meeting.
@@ -158,4 +160,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

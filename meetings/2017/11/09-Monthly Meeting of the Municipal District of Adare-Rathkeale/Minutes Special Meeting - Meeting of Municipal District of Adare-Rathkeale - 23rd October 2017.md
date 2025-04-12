@@ -70,7 +70,8 @@ with the Department of Agriculture requesting that this arrangement be included 
 
 specification for overground slurry tanks and retrospective funding allocated to farmers
 
-for its installation in existing systems.---
+for its installation in existing systems.
+---
 2
 
 Members thanked the Senior Executive Engineer for her presentation and noted the
@@ -111,4 +112,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

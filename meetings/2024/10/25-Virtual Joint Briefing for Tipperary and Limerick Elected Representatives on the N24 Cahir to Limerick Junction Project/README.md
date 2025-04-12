@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-10-25 09:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/virtual-joint-briefing-for-tipperary-and-limerick-elected-representatives-on-the)**
+**<a href="https://www.limerick.ie/council/whats-on/virtual-joint-briefing-for-tipperary-and-limerick-elected-representatives-on-the" target="_blank">Link to meeting</a>**

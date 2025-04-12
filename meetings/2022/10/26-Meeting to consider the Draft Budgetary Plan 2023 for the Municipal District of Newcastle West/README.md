@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-10-26 11:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2023-municipal-district-newcastle-west)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2023-municipal-district-newcastle-west" target="_blank">Link to meeting</a>**

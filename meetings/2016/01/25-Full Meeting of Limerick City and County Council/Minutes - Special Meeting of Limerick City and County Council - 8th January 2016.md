@@ -56,7 +56,8 @@ Dooradoyle – Special Meeting to discuss the issues set out in Requisition
 
 received from a number of Fianna Fáil Members in relation to flooding and
 
-emergency funding.---
+emergency funding.
+---
 2
 
 • Wednesday, 13th January, 2016 – 15 minutes after the conclusion of the
@@ -115,7 +116,8 @@ provided accommodation and support for women and children who were
 
 subjected to domestic abuse. The Members referred to Terry’s great love and
 
-passion for art and architecture.---
+passion for art and architecture.
+---
 3
 
 From 1979 to 1985, Terry Kelly had served as a Member of Limerick City
@@ -170,7 +172,8 @@ support which Terry had received from them over the last number of years
 
 during her illness which, they said, was second to none. It was stated that this
 
-was an extremely hard and difficult time for her family.---
+was an extremely hard and difficult time for her family.
+---
 4
 
 The Chief Executive paid tribute to Terry on his own behalf and on behalf of
@@ -201,4 +204,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -68,7 +68,8 @@ January, 2017 outlining proposal to dispose of the Freehold Title of a dwelling 
 
 situate at 28, Delmege Park, Moyross, Limerick and to bring a Section 183 Notice to the
 
-full Council in relation to same. The report was noted by Members.---
+full Council in relation to same. The report was noted by Members.
+---
 2
 
 (b)
@@ -159,7 +160,8 @@ the replacement of 275,000 light at a cost of approximately €200 million.
 
 Council had met with Transport Infrastructure Ireland (TII) in this regard and a feasibility
 
-study, for submission to TII in the coming weeks, was being prepared.---
+study, for submission to TII in the coming weeks, was being prepared.
+---
 3
 
 • While the R445 was not included as part of the Schedule of Works a Part VIII submission
@@ -244,7 +246,8 @@ cycling network for the Metropolitan Area for 2025 and will form the basis of
 
 funding and delivery of a cycle network on a phased basis towards an achievable
 
-goal.---
+goal.
+---
 4
 
 The draft Limerick Metropolitan Cycle Network Study is currently under
@@ -329,7 +332,8 @@ Limerick.
 
 **a dog in the Centre, what are the opening hours of the Centre and what marketing initiatives**
 
-**are in place to provide an opportunity for people to visit the Centre when looking to re-home**---
+**are in place to provide an opportunity for people to visit the Centre when looking to re-home**
+---
 5
 
 **a dog.**
@@ -418,7 +422,8 @@ ARUP, as Project Consultants, have developed project objectives under 5
 
 headings, according to the Common Appraisal Framework for Infrastructural
 
-Projects, namely:----
+Projects, namely:-
+---
 6
 
 1. Environment
@@ -505,7 +510,8 @@ to the EPA regarding certain technical aspects of the proposed development,
 
 based on the Consultant's report. This submission will be made once a decision
 
-has been made on the planning application. There will be consultation with the---
+has been made on the planning application. There will be consultation with the
+---
 7
 
 Members in relation to the submission.
@@ -574,7 +580,8 @@ deaths arising from road traffic accidents, this was not the case in relation to
 
 deaths. She also noted a range of cases where inquests were held into maternal deaths that
 
-concluded with verdicts of medical misadventure.---
+concluded with verdicts of medical misadventure.
+---
 8
 
 **15.**
@@ -655,7 +662,8 @@ life buoy on Sarsfield Bridge, similar to those in place on Thomond Bridge, be e
 
 Meetings Administrator undertook to bring the Members views to the attention of the Water
 
-Safety Officer and to revert in relation to same.---
+Safety Officer and to revert in relation to same.
+---
 9
 
 **18.**
@@ -706,4 +714,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

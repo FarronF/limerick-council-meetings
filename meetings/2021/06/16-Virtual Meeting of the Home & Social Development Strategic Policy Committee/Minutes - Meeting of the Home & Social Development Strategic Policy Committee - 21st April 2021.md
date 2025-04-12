@@ -70,7 +70,8 @@ receive a copy of the revised standing order can request a copy.
 
 **Seconded:** Cllr. Eddie Ryan
 
-**Item 2: Matters arising from the Minutes**---
+**Item 2: Matters arising from the Minutes**
+---
 
 
 Cllr Stephen Keary noted that he had an issue at the previous meeting on the letter that was
@@ -185,7 +186,8 @@ alleviate some of the problems that Mr. Lowth had mentioned. Cllr. Keary noted t
 
 landlords throughout Limerick do not care about the tenants they are letting their properties
 
-to. Mr. Lowth noted he took on board what Cllr. Keary was saying however, at the last SPC,---
+to. Mr. Lowth noted he took on board what Cllr. Keary was saying however, at the last SPC,
+---
 LCCC had advised that Councillors could discuss concerns they have on HAP tenants with
 
 LCCC and that LCCC have power to remove payment from individuals.
@@ -306,7 +308,8 @@ Ryan’s point on the difference in vetting between applicants for a Local Autho
 
 and no vetting for a HAP property, that the RTB is a regulatory body for private landlords
 
-and the onus is on them to vet the people who they are letting their property to. Mr.---
+and the onus is on them to vet the people who they are letting their property to. Mr.
+---
 McNamara noted that we need to be careful that we do not start encroaching on people’s
 
 constitutional rights and entitlements plus any decision LCCC make on this process, could
@@ -389,7 +392,8 @@ AHBs) some are planned for disposal and some for demolitions.
 
 Ms. Duke noted that in 2020, the SPOC (Single Point of Contact) process was introduced for vacant
 
-properties. Ms. Duke went on to outline the process - an e-mail system was set up, when a house---
+properties. Ms. Duke went on to outline the process - an e-mail system was set up, when a house
+---
 became vacant the SPOC was notified. An inspection would then be arranged within the first week of
 
 vacancy where the house would then be categorised depending on level of works required.
@@ -470,7 +474,8 @@ we will be proposing as one part of a wider solution an AHB pilot. Ms. Duke note
 
 discussed with the Newcastle West district Councillors and we have approval in principle to take a
 
-small number of the Newcastle West vacant houses through EOI to see if an AHB would be---
+small number of the Newcastle West vacant houses through EOI to see if an AHB would be
+---
 interested in taking on some of these properties. The AHBs would provide wraparound supports and
 
 LCCC have allocation rights. Ms. Duke advised that this is something that we will be bringing to the
@@ -575,7 +580,8 @@ pressure on internal resources and that there is a mix of factors at play here. 
 
 noted that we got through 146 properties last year and noted the importance of having a
 
-team in place which we are trying to set up currently.---
+team in place which we are trying to set up currently.
+---
 
 
 Mr. PJ O’Grady requested for voids presentation to be sent to SPC members. Mr. O’Grady
@@ -684,7 +690,8 @@ homeless crisis and there is a need to house people. Cllr. Leddin advised that w
 
 have a fundamental re-look at this situation and noted that he had suggested the category
 
-system previously to help with quick turnaround of vacant properties. Cllr. Leddin proposed---
+system previously to help with quick turnaround of vacant properties. Cllr. Leddin proposed
+---
 a special meeting to discuss the voids situation. Cllr. Benson seconded Cllr. Leddin’s
 
 proposal. Ms. Duke advised she would speak to Corporate to arrange meeting and she noted
@@ -757,7 +764,8 @@ HWL. Ms. McElligott advised that there is potential for overcrowding further dow
 
 there are predominantly 2 beds being built as families with two children of different genders
 
-cannot share the same bedroom after ten years of age and noted it as a concern for possible---
+cannot share the same bedroom after ten years of age and noted it as a concern for possible
+---
 future need to re-allocate to a larger house. She noted going forward there would be more
 
 of a need for 3-bedroom units.
@@ -864,7 +872,8 @@ Ms. O’Connor advised that in Moyross it was originally 1,100 houses and approx
 
 had been demolished. Ms. O’Connor noted 100 units are planned starting this year including
 
-infills, with a mixture of unit sizes. Ms. O’Connor expressed confidence with quality of the---
+infills, with a mixture of unit sizes. Ms. O’Connor expressed confidence with quality of the
+---
 infills units and the contractors. Ms. Duke advised that 75%-80% of the HWL requires one
 
 and two bed properties and that LCCC have to be mindful of that and that if there are three
@@ -959,7 +968,8 @@ traditional Local Authority estates which meant it was very limited. He noted th
 
 make selections on areas that they may not have wanted to go to or they felt they were the only
 
-areas that they knew.---
+areas that they knew.
+---
 Mr. Lowth advised that it was felt it was better to broaden out the Metro district areas and it is
 
 much more expansive and reflects the expectations and demands on the people looking for housing.
@@ -1044,7 +1054,8 @@ members.
 
 Ms. Newell advised that Ms. Creed is managing scheme and noted it was a pilot scheme that LCCC
 
-are undertaking on two turnkeys in Pallaskenry and one in Redgate, Cratloe Road.---
+are undertaking on two turnkeys in Pallaskenry and one in Redgate, Cratloe Road.
+---
 Ms. Newell outlined the scheme is an initiative by central government that allows a new build
 
 purchase option to assist households with lower incomes. The house would be sold at a discounted
@@ -1119,7 +1130,8 @@ Ms. Creed also noted other checks to determine eligibility, anyone who is living
 
 should not be engaged in anti-social behaviour and this will be checked, the applicant/s must not be
 
-in rent arrears for more than twelve weeks in the past three years and if this is the case, a payment---
+in rent arrears for more than twelve weeks in the past three years and if this is the case, a payment
+---
 arrangement must have been made with LCCC. Ms. Creed noted that the applicant/s also must not
 
 have purchased a previous dwelling from LCCC.
@@ -1202,7 +1214,8 @@ Ms. Newell advised that for the purpose of today’s meeting is the suited to a 
 
 outlined that this was brought up from SPC members and Councillors, that the current adopted
 
-scheme may be inflexible for future affordable dwellings and future affordable self-build projects.---
+scheme may be inflexible for future affordable dwellings and future affordable self-build projects.
+---
 Ms. Newell outlined that the current criteria does not allow for flexibility in a household and the
 
 proposed revision is to make it more flexible, for a one bedroom dwelling that becomes available on
@@ -1271,4 +1284,5 @@ The Chair thanked everyone for logging in, for their presentations and everyone�
 
 contributions. The Chair advised that the Special Meeting for Voids will be arranged over the coming
 
-weeks and that the remaining items from today’s meeting would be deferred to the June SPC.---
+weeks and that the remaining items from today’s meeting would be deferred to the June SPC.
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-12-09 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/adare-public-consultation-shannon-catchment-flood-risk-assessment-and-management)**
+**<a href="https://www.limerick.ie/council/whats-on/adare-public-consultation-shannon-catchment-flood-risk-assessment-and-management" target="_blank">Link to meeting</a>**

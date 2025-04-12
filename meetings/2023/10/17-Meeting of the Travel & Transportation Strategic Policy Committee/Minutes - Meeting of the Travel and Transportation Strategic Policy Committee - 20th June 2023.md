@@ -46,7 +46,8 @@ Mr. Eric Clarke delivered a presentation on a joint initiative between Limerick 
 
 Council and An Garda Siochána (AGS), conveying a simple message ‘Think Before You Park’
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 The members thanked Mr. Clark and welcomed the campaign. The Chair opened the floor to
@@ -119,7 +120,8 @@ In response, Mr. Clarke stated that a visual medium is a good way to get the mes
 
 the national broadcaster can be examined. It has yet to be decided what the signage will read
 
-and where it might go. He reiterated that the Gardaí are fully committed to the campaign.---
+and where it might go. He reiterated that the Gardaí are fully committed to the campaign.
+---
 3
 
 Cllr. Butler stated he is not in favor of anymore bollards or signage as most signs are ignored and
@@ -188,7 +190,8 @@ road into Adare are in bad condition. He has requested TII to come to the MD mee
 
 times but to no avail. The Adare-Rathkeale area has an immense amount of cul-de-sac roads like
 
-Pallaskenry, Ballysteen, some with one house and some with 6 houses.---
+Pallaskenry, Ballysteen, some with one house and some with 6 houses.
+---
 4
 
 He referenced the CIS form where an applicant, who has already paid taxes has to contribute
@@ -259,7 +262,8 @@ current guidance and would likely result in lost funding for such roads.
 
 Cllr. Teskey appreciated the response and the viewpoint but added that he needs direction on
 
-how to change policy and suggested that tertiary roads should go into a specific budget.---
+how to change policy and suggested that tertiary roads should go into a specific budget.
+---
 5
 
 Cllr. Keary suggested that a part solution would be to adapt a policy for a tax clawback/refund
@@ -316,4 +320,5 @@ it has happened in other cities and members would like a second round of public 
 
 The Chair thanked the presenters and members for their contribution. The meeting then
 
-concluded.---
+concluded.
+---

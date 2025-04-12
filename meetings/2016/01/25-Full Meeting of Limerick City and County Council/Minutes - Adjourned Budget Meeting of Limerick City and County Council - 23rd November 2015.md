@@ -100,7 +100,8 @@ of utility undertakings, to be carried out by the Valuation Office, every five y
 
 and entered on the central valuation list. The Commissioner of Valuation is
 
-responsible for the valuations. The most recent global valuations carried out by---
+responsible for the valuations. The most recent global valuations carried out by
+---
 **2**
 
 the Valuation Office are in respect of Gas Networks Ireland, Iarnród Éireann and
@@ -177,7 +178,8 @@ On resumption of the Meeting and at the request of Councillor Gilligan, the Chie
 
 Executive outlined his proposals for amendments to the Draft Budget to take account
 
-of the additional funding of €1,191,546, details as outlined hereunder:---
+of the additional funding of €1,191,546, details as outlined hereunder:
+---
 **3**
 
 **Summary of Adjustments**
@@ -302,7 +304,8 @@ Tourism Support Scheme, and an increase in the ARV to 5.6%. The A/Head of
 
 Finance was requested to cost these proposals in the format required for
 
-amendment to the Budget. The proposals were subsequently costed and were---
+amendment to the Budget. The proposals were subsequently costed and were
+---
 **4**
 
 circulated to all the Members as *‘Amendment to Draft Budget – AAA (Anti-Austerity*
@@ -467,7 +470,8 @@ ARV
 
 Balance
 
-(€273,526) €273,526 €0---
+(€273,526) €273,526 €0
+---
 **5**
 
 It was proposed by Councillor Ryan and seconded by Councillor Sheahan (K) that
@@ -532,7 +536,8 @@ the Valuation Office, multiplied by the Annual Rate on Valuation (ARV). The
 
 calculation of this rate is a Reserved Function of the Elected Members of the Rating
 
-Authority.---
+Authority.
+---
 **6**
 
 The position is that all appeals to the Commissioner arising from the Limerick
@@ -601,7 +606,8 @@ process. He was now proposing that the rate increase proposed by the Chief
 
 Executive would be reduced to 2.03%, giving an ARV of 0.2459.  There would also
 
-be amendments to the Budget as proposed by the Chief Executive as follows:---
+be amendments to the Budget as proposed by the Chief Executive as follows:
+---
 **7**
 
 **Summary of Adjustments**
@@ -726,7 +732,8 @@ drafted into formal proposals for the adoption of the Draft Local Authority Budg
 
 with or without amendment. These would be taken in the order in which they had
 
-been received.---
+been received.
+---
 **8**
 
 Councillor Browne, on behalf of the Sinn Féin Party, indicated that the position
@@ -803,7 +810,8 @@ amended, for the financial year ending on 31st December, 2016, in
 
 accordance with Section 103 of the Local Government Act, 2001, as amended
 
-by the Local Government Reform Act, 2014.---
+by the Local Government Reform Act, 2014.
+---
 **9**
 
 **And That,** in accordance with Section 135 of the Local Government Act,
@@ -866,7 +874,8 @@ per amended Tables A, B, D, E and F, in accordance with Section 103 of the
 
 Local Government Act, 2001, as amended by the Local Government Reform
 
-Act, 2014.---
+Act, 2014.
+---
 **10**
 
 **And That,** in accordance with the Annual Budget thus amended and adopted,
@@ -927,7 +936,8 @@ hereunder, is hereby adopted as per Tables A,B,D,E and F, in the sum of
 
 €239,505,948, in accordance with Section 103 of the Local Government Act,
 
-2001, as amended by Local Government Reform Act, 2014:---
+2001, as amended by Local Government Reform Act, 2014:
+---
 **11**
 
 **Summary of Adjustments**
@@ -1056,7 +1066,8 @@ out in report of the A/Head of Finance dated 12th November, 2015, be
 
 adopted in accordance with Section 66 of the Local Government Act, 2001, as
 
-amended by Section 43 of the Local Government Reform Act, 2014,”---
+amended by Section 43 of the Local Government Reform Act, 2014,”
+---
 **12**
 
 **“And That,** the Tourism Sector Support Scheme 2016 be adopted, as set out
@@ -1095,4 +1106,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Mayor**
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

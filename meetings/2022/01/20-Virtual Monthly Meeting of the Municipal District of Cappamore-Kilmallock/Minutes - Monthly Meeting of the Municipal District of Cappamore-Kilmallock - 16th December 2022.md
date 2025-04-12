@@ -60,7 +60,8 @@ Executive Engineer advised that investigations were ongoing, and that there were
 
 of considerations to be made. A workshop may be held to discuss the proposal in the future
 
-if required.---
+if required.
+---
 3.Deputation
 
 Councillor Donegan noted that the Deputation were unable to attend the Municipal
@@ -121,7 +122,8 @@ Limerick City and County Council to carry out safety measures at the intersectio
 
 R515 Charleville road and Effin road (L8573) at Portauns in Kilmallock as there has been a
 
-significant number of accidents there over the last few years.”---
+significant number of accidents there over the last few years.”
+---
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor Carey**
@@ -180,7 +182,8 @@ dangerous junction more safe. “
 
 A review of Garryspillane Cross will be carried out in 2022 to determine what improvements
 
-may be required at the junction.---
+may be required at the junction.
+---
 QUESTIONS
 
 5.Question submitted by Councillor Carey
@@ -229,7 +232,8 @@ current position of the development of a Fire Training Centre.”
 
 The Fire Service is currently exploring options following the rejection of the Part 8
 
-Application for a Fire Service Training Centre in Kilmallock Business Park.---
+Application for a Fire Service Training Centre in Kilmallock Business Park.
+---
 8.Question submitted by Councillor Mitchell
 
 “I will ask at the next meeting of the Cappamore Kilmallock Municipal District what the
@@ -292,7 +296,8 @@ Limerick Hurling Team on his passing on the 22nd November aged 77.
 
  Former staff member Clem Allis and family on the passing of his sister Kathleen.
 
- Councillor John Egan and family on the passing of his brother Joseph Egan.---
+ Councillor John Egan and family on the passing of his brother Joseph Egan.
+---
  The family of Tom Leahy, who passed away on 24th November.
 
 Next Meeting
@@ -305,4 +310,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

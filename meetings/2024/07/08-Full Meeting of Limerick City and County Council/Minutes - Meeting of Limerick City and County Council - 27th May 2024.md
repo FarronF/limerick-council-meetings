@@ -66,7 +66,8 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 With the permission of the Mayor, Councillor Sheahan (J) referred to the following
@@ -147,7 +148,8 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of 24, Walnut
 
-Court, Kennedy Park, Limerick, to Joanne Griffin, Legal Personal Representative (LPR) of---
+Court, Kennedy Park, Limerick, to Joanne Griffin, Legal Personal Representative (LPR) of
+---
 3
 
 Desmond Hayes, deceased, for the sum of €195.42, the disposal to be by way of Deed of
@@ -226,7 +228,8 @@ And Resolved:
 
 2001 (as amended) and Section 211 of the Planning and Development Act, 2000 (as
 
-amended), the approval of the Council be and is hereby given to the disposal of property at---
+amended), the approval of the Council be and is hereby given to the disposal of property at
+---
 4
 
 Main Street, Abbeyfeale, Co. Limerick, to Syed Haider, for the sum of €52,000, subject to the
@@ -303,7 +306,8 @@ the sum of €204.88, subject to Camoge Park Homes Limited discharging all legal
 
 costs incurred by Limerick City and County Council, particulars of which were contained in
 
-Statutory Notice dated 15th May, 2024.”---
+Statutory Notice dated 15th May, 2024.”
+---
 5
 
 (i) Circulated, copy of Statutory Notice dated 15th May, 2024, concerning disposal of property
@@ -380,7 +384,8 @@ Statutory Notice dated 26th March, 2024.”
 
 (l) Circulated, copy of Statutory Notice dated 26th March, 2024, concerning disposal of
 
-property at Bunkey, Lisnagry, Limerick.---
+property at Bunkey, Lisnagry, Limerick.
+---
 6
 
 Proposed by Councillor Collins (M);
@@ -457,7 +462,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 7
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -538,7 +544,8 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of property at
 
-10, Hartstonge Street, Limerick, to Kandahar Grocery Limited, for the sum of €315,000,---
+10, Hartstonge Street, Limerick, to Kandahar Grocery Limited, for the sum of €315,000,
+---
 8
 
 subject to the covenants and conditions contained within the contract, particulars of which
@@ -615,7 +622,8 @@ Circulated, Unaudited Annual Financial Statement for the year ended 31st Decembe
 
 2023, for Limerick City and County Council, together with report from the Chief Executive
 
-dated 16th May, 2024.---
+dated 16th May, 2024.
+---
 9
 
 Proposed by Councillor Collins (M);
@@ -690,7 +698,8 @@ Customer Services, dated 27th March, 2024, enclosing the Limerick City and Count
 
 Audit and Risk Committee Annual Report 2023.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 10
 
 (e)
@@ -767,7 +776,8 @@ Policy Committee dated 14th May, 2024, in relation to meeting of the Committee h
 
 on 10th April, 2024.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 11
 
 (ii)
@@ -846,7 +856,8 @@ Progress Report on Working towards an Autism-Friendly Limerick
 
 Circulated, report of the Director, Rural, Community and Culture Development dated
 
-15th May, 2024, enclosing Progress Report on Working towards an Autism-Friendly Limerick.---
+15th May, 2024, enclosing Progress Report on Working towards an Autism-Friendly Limerick.
+---
 12
 
 Members welcomed the progress report and acknowledged the work Limerick City and
@@ -919,7 +930,8 @@ Proposed by Councillor O’Sullivan;
 
 Seconded by Councillor O’Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 13
 
 “That, the approval of the Council be and is hereby given to recommended allocations
@@ -990,7 +1002,8 @@ Proposed by Councillor O’Sullivan;
 
 Seconded by Councillor Egan;
 
-And Resolved:---
+And Resolved:
+---
 14
 
 “That, the approval of the Council be and is hereby given to allocations under Limerick
@@ -1061,7 +1074,8 @@ QUESTIONS
 
 Replies to the following Questions on the agenda were circulated to all Members prior
 
-to the Meeting and the Questions were therefore taken as having been dealt with:---
+to the Meeting and the Questions were therefore taken as having been dealt with:
+---
 15
 
 9.
@@ -1144,7 +1158,8 @@ Executive response was outlined as follows:
 
 *supports the principles outlined in the notice of motion particularly with*
 
-*regard to supporting the local food system and increasing employment*---
+*regard to supporting the local food system and increasing employment*
+---
 16
 
 *within the local food sector. The Council’s procured supplier for the*
@@ -1223,7 +1238,8 @@ Rental income from its housing stock (circa 5600 units) is a very important
 
 revenue stream for the Council and is projected to amount to in excess of
 
-€19m in 2024. Any downward adjustment to the income criteria would have---
+€19m in 2024. Any downward adjustment to the income criteria would have
+---
 17
 
 an inevitable impact on the level of services that the Council can provide. In
@@ -1326,7 +1342,8 @@ In the light of the foregoing, it is recommended that this Motion be referred
 
 to the Housing Strategic Policy Committee for further consideration along with
 
-any updates on a national Differential Rents Scheme.---
+any updates on a national Differential Rents Scheme.
+---
 18
 
 **Suspension of Standing Order No. 4**: At this point in the Meeting, the Mayor drew attention
@@ -1403,7 +1420,8 @@ Notice of Motion submitted by Councillor J. O’Donoghue
 
 **I will move at the next Meeting that the Council write to the relevant Government**
 
-**Departments for the establishment of a fund for the rehabilitation of our older housing**---
+**Departments for the establishment of a fund for the rehabilitation of our older housing**
+---
 19
 
 **estates. This fund to be used for the upgrade of footpaths and open spaces and to include**
@@ -1470,4 +1488,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

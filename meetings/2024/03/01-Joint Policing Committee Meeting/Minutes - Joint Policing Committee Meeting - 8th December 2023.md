@@ -76,7 +76,8 @@ Bruff District and asked if there was a reason for this.
 
 In reply, the Chief Superintendent stated that even though the percentages seemed high, it only involved a
 
-handful of cases. He added that drug related offences have increased in all areas of Limerick.---
+handful of cases. He added that drug related offences have increased in all areas of Limerick.
+---
 Superintendent Kennedy added that there has been an increase in a number of issues in Kilmallock.
 
 However, a Garda operation was put in place to tackle the situation there, which has been proactive and
@@ -161,7 +162,8 @@ in drug trafficking and their proceeds of criminality from criminal activity. He
 
 Coronation had raided 132 properties, seized property, drugs, cash and other items and arrested 17 people
 
-for alleged money laundering and drugs offences and charged six people with sale and supply of drugs.---
+for alleged money laundering and drugs offences and charged six people with sale and supply of drugs.
+---
 Superintendent Reidy stated that Operation Croí is running very successfully in Roxboro and is tackling anti-
 
 social behaviour, public order offences, shoplifting, drink and drug driving and additional Gardaí are
@@ -252,7 +254,8 @@ occur in Limerick similar to what happened in Dublin recently.
 
 In reply to Members requests, the Chief Superintendent stated that a Representative from CAB would be
 
-available next year to come to one of the Limerick JPC Meetings.---
+available next year to come to one of the Limerick JPC Meetings.
+---
 Minister Kieran O’Donnell stated that he would bring the matters raised today and the Members concerns
 
 to the attention of the Minister for Justice.
@@ -339,7 +342,8 @@ Cash to an approximate value of €222,000.00 seized, various currency
 
 
 
-6 persons charged with offences under Section 15 of the Misuse of Drugs Act, 1977/’84---
+6 persons charged with offences under Section 15 of the Misuse of Drugs Act, 1977/’84
+---
 
 
 One person arrested in respect of Section 15 Misuse of Drugs Act, 1977/’84 in respect of
@@ -418,7 +422,8 @@ No Suspect x 2
 
 Investigations ongoing x 3
 
-Actioned by LCC x 1---
+Actioned by LCC x 1
+---
 Roxboro Road Community Engagement
 
 1. Community Engagement Limerick City South have Operation CROI, which is a Joint Operation between
@@ -513,7 +518,8 @@ Five members of an OCG arrested on the 24th October with significant drugs seize
 
 9
 
-Year to date for LCS the following categories of crime show reductions:---
+Year to date for LCS the following categories of crime show reductions:
+---
 •
 
 Property crime -13%
@@ -576,7 +582,8 @@ dispatched to calls where shoplifters are detained and not used to holding Garda
 
 maintain a visible presence, which will hopefully be reflected in a reduction in call volume.
 
-(Image omitted)---
+(Image omitted)
+---
 **Miscellaneous Operations/Initiatives** - AGS Limerick have teamed up with the management at the Milk
 
 Market to provide a presence every Saturday, which is followed by a City Centre Beat. This is an overtime
@@ -661,7 +668,8 @@ This matter has been discussed and dealt with earlier in the meeting.
 
 ***“I will move at the next meeting of the Joint Policing Committee for the provision of additional Garda***
 
-***resources in the city centre”.***---
+***resources in the city centre”.***
+---
 This matter has been discussed and dealt with earlier in the meeting.
 
 ***12.**NOTICE OF MOTION SUBMITTED BY COUNCILLOR CONOR SHEEHAN***
@@ -740,7 +748,8 @@ Reserves are still being recruited.
 
 In reply, the Chief Superintendent stated that the age limit for Garda Reserves has increased to 50 years of
 
-age. A number of the force has been lost due to retirement; however, Garda Reserves are getting renewed---
+age. A number of the force has been lost due to retirement; however, Garda Reserves are getting renewed
+---
 focus, which is to be welcomed. He confirmed that it is up to the Judiciary to allocate a sentence for assault
 
 on a member of An Garda Síochána but added that longer sentences have been approved by the Minister for
@@ -761,4 +770,5 @@ Christmas.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

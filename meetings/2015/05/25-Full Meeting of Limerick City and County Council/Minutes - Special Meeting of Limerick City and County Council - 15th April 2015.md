@@ -64,7 +64,8 @@ death of her husband, Michael Ryan, former Member of Limerick City Council.
 
 the death of her husband, Dan Murphy, one of the founders of West Limerick
 
-Resources.---
+Resources.
+---
 2
 
 The Deputy Chief Executive, on his own behalf and that of the staff, associated
@@ -141,7 +142,8 @@ And Resolved:
 
 Boston, Massachusetts, in accordance with Section 142(5)of the Local Government
 
-Act, 2001.”---
+Act, 2001.”
+---
 3
 
 **1.**
@@ -202,7 +204,8 @@ Health Organisation (WHO) Themes:
 
 *of age, who had active social networks, tended to feel happier about their*
 
-*lives.”*---
+*lives.”*
+---
 4
 
 • **Theme 5 - Social Participation:**
@@ -251,4 +254,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

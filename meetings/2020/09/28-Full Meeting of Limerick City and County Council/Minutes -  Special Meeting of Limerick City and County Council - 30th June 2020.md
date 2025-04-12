@@ -58,7 +58,8 @@ extended sympathy to Francis’s wife, Margaret, son Mark and daughter Grace, an
 
 extended family. He said this was a particularly sad note for Michael to end his Mayoralty
 
-on.---
+on.
+---
 2
 
 Councillor J. Sheahan, on his own behalf and on behalf of the Fine Gael Party, Councillor M.
@@ -105,4 +106,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

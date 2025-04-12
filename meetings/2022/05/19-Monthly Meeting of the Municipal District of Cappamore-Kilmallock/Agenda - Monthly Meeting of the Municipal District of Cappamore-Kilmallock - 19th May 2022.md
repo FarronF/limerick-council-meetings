@@ -36,7 +36,8 @@ Relating to the Minutes of the Municipal District Meeting of 21st April.
 
 3.Correspondence
 
-Correspondence received from Minister Peter Burke’s Office.---
+Correspondence received from Minister Peter Burke’s Office.
+---
 2
 
 4.Update on the N24 Cahir to Limerick Junction Project”.
@@ -59,4 +60,5 @@ development of 7 apartments at Wolfe Tone Street, Kilmallock be sold to the inte
 
 developer and brought back into viable housing provision, subject to a Site Specific Flood Risk
 
-Assessment.”---
+Assessment.”
+---

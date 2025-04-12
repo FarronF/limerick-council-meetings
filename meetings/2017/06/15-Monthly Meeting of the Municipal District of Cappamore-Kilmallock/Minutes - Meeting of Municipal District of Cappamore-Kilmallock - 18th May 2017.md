@@ -64,7 +64,8 @@ Fixing of Date
 
 It was agreed that the Annual Meeting of the Municipal District of Cappamore-
 
-Kilmallock would take place on Thursday, 15th June, 2017, at 5pm.---
+Kilmallock would take place on Thursday, 15th June, 2017, at 5pm.
+---
 2
 
 3.
@@ -145,7 +146,8 @@ The Executive Planner, Social Development, gave a PowerPoint presentation on the
 
 Action Plan for Housing and Homelessness. She informed the Members that it was a five-year
 
-plan with five key Pillars, which were as follows:---
+plan with five key Pillars, which were as follows:
+---
 3
 
 1. Address Homelessness.
@@ -224,7 +226,8 @@ pressure on private rental availability in towns within the District. The Member
 
 the importance of the supply from Part V developments for a spectrum of applicants on the
 
-housing waiting list.---
+housing waiting list.
+---
 4
 
 In reply to queries raised by the Members, the Director of Social Development stated
@@ -301,7 +304,8 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 
 ***improve visibility at the dangerous junction outside the church in Bulgaden and improve road***
 
-***markings and signage and take precautions to reduce speed on this route.***---
+***markings and signage and take precautions to reduce speed on this route.***
+---
 5
 
 The Motion was proposed by Councillor Sheehy and seconded by Councillor Donegan.
@@ -376,7 +380,8 @@ Economic Development, and Majella O’Brien, Staff Officer, Economic Development
 
 invited to the next Meeting).
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 6
 
 Signed:
@@ -387,4 +392,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

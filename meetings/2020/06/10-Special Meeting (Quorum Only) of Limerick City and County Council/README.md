@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-06-10 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-quorum-only-limerick-city-and-county-council)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-quorum-only-limerick-city-and-county-council" target="_blank">Link to meeting</a>**

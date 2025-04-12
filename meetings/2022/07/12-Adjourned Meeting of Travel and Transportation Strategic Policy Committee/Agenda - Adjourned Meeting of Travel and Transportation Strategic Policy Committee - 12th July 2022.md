@@ -29,7 +29,8 @@ is set out on the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -52,4 +53,5 @@ Tuesday 18th April 2023 @ 3:30 p.m.
 
 **5.Active Travel Update on the recent visit to Dún Laoghaire** **–** **Mr. Sean McGynn,**
 
-**A/Senior Engineer**---
+**A/Senior Engineer**
+---

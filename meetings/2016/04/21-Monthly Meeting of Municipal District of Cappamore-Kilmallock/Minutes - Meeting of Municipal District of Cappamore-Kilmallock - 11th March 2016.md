@@ -66,7 +66,8 @@ located in the old FCJ Convent. There was also a renewed focus on tourism in the
 
 The following issues were raised :
 
- A traffic management plan and off street parking were required in the town.---
+ A traffic management plan and off street parking were required in the town.
+---
 2
 
  There were problems with traffic congestion, speeding and shortage of parking outside
@@ -143,7 +144,8 @@ that Members could forward requests for road marking works or other queries to h
 
 and requests can also be forwarded to the Executive Engineer (Mr. J. Moloney).
 
-Councillor Donegan requested that signage at O’Rourkes Cross be looked at.---
+Councillor Donegan requested that signage at O’Rourkes Cross be looked at.
+---
 3
 
 **NOTICES OF MOTION ADJOURNED FROM PREVIOUS MEETING**
@@ -226,7 +228,8 @@ directions.
 
 Additional signage was erected to remind drivers of the speed limit that
 
-exists.---
+exists.
+---
 4
 
 
@@ -305,7 +308,8 @@ GMA workshop.
 
 The following items were raised at the completion of the Agenda:
 
-It was agreed that a representative from Limerick Youth Service would be invited to attend the---
+It was agreed that a representative from Limerick Youth Service would be invited to attend the
+---
 5
 
 April or May Meeting to give an update on the Youth Bank.
@@ -344,4 +348,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

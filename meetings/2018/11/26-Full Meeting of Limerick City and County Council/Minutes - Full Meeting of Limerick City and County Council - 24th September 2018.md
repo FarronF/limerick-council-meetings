@@ -68,7 +68,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -149,7 +150,8 @@ million (excluding VAT), subject to the covenants and conditions contained withi
 
 contract and the Council retaining wayleave/right-of-way access over the site, particulars of
 
-which were contained in Statutory Notice dated 12th September, 2018.”---
+which were contained in Statutory Notice dated 12th September, 2018.”
+---
 3
 
 3.
@@ -224,7 +226,8 @@ Accordingly, the Mayor directed that a Vote be taken on the Amendment proposed b
 
 Councillor Collins (M) and seconded by Councillor Ryan that there would be a 7.5% increase
 
-on the basic rate of Local Property Tax for 2019.---
+on the basic rate of Local Property Tax for 2019.
+---
 4
 
 A Vote was taken which resulted as follows:
@@ -295,7 +298,8 @@ her bravery and leadership in highlighting issues with the cervical screening pr
 
 The Meetings Administrator confirmed that Ms. Phelan had indicated that the evening
 
-of Thursday, 18th October, 2018, was suitable.---
+of Thursday, 18th October, 2018, was suitable.
+---
 5
 
 (ii)
@@ -374,7 +378,8 @@ Circulated, report of the A/Senior Executive Officer, Corporate Services, dated 
 
 September, 2018, in relation to the nomination of a Member to the Cultural Strategic Policy
 
-Committee consequent on the resignation of Councillor Scanlan from the Committee.---
+Committee consequent on the resignation of Councillor Scanlan from the Committee.
+---
 6
 
 On the proposal of Councillor Sheahan (J), seconded by Councillor Butler, this item was
@@ -443,7 +448,8 @@ And Resolved:
 
 City and County of Limerick to Austin, Texas, under Section 142(5) of the Local Government
 
-Act, 2001, as amended.”---
+Act, 2001, as amended.”
+---
 7
 
 (iv) Circulated, report of the A/Senior Executive Officer, Corporate Services, dated 10th
@@ -516,7 +522,8 @@ Meeting.
 
 On the Proposal of Councillor O’Hanlon, seconded by Councillor Collins (M),
 
-Recommendation No. 2 was agreed.---
+Recommendation No. 2 was agreed.
+---
 8
 
 **Recommendation No. 3**
@@ -585,7 +592,8 @@ approved the attendance of the following Members:
 
 **Dún Laoghaire, Co. Dublin:** Councillor O’Dea.
 
-**Clonmel, Co. Tipperary:**  Cmhlr. Ó Ceallaigh.---
+**Clonmel, Co. Tipperary:**  Cmhlr. Ó Ceallaigh.
+---
 9
 
 **(ii)**
@@ -672,7 +680,8 @@ consideration of the General Municipal Allocation (GMA) (Draft Budgetary
 
 Plan) discussions. Specific budgetary provision for Civic Receptions for each
 
-District can also be considered as part of the Statutory Budget 2019 process.---
+District can also be considered as part of the Statutory Budget 2019 process.
+---
 10
 
 **Suspension of Standing Orders:** The Mayor drew attention to the time which was
@@ -729,7 +738,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
-available on Alfresco for inspection by the Members.---
+available on Alfresco for inspection by the Members.
+---
 11
 
 PLANNING AND DEVELOPMENT:
@@ -746,4 +756,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

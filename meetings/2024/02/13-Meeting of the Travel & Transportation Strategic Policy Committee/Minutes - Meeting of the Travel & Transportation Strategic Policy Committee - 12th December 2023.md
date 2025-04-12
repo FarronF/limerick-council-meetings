@@ -42,7 +42,8 @@ Cllr. Secas noted that the elected Members have no representative on the working
 
 asked if there was national funding for implementing the plan.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 In response Ms. McDonnell confirmed that the working group is an interagency group comprising
@@ -101,7 +102,8 @@ measures and a survey was undertaken by an engineer. Residents were confident th
 
 would commence, however it was decided that the works were not suitable. He suggested that
 
-the engineers should carry out the survey first and then inform residents.---
+the engineers should carry out the survey first and then inform residents.
+---
 3
 
 He gave an example of 10 residents living on the road between the Dublin Road and Aldi,
@@ -166,7 +168,8 @@ The Chair welcomed that the focus is taken away from speed ramps, however, it is
 
 the end of speed ramps as they do an amazing job at schools. She added that there are a lot of
 
-schools on the Dublin Road and knowing what is on the road should be applied as an additional---
+schools on the Dublin Road and knowing what is on the road should be applied as an additional
+---
 4
 
 check when deciding on traffic calming. She referenced Brookville Avenue and Childers Road,
@@ -225,7 +228,8 @@ and also asked if the EV provision will be incentivized. In relation to Tender, 
 
 there will be more than 20 GoCars and if the project is approved only for the city or if the
 
-county is included.---
+county is included.
+---
 5
 
 In response to questions, Mr. O’Leary advised that the number, locations and uses, including the
@@ -254,4 +258,5 @@ The Chair thanked the members and presenters and wished everybody a happy Christ
 
 confirmed that the next meeting is Tuesday, the 13th of February 2024.
 
-This concluded the business of the meeting.---
+This concluded the business of the meeting.
+---

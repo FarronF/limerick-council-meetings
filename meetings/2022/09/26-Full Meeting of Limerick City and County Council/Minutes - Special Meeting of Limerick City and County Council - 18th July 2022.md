@@ -60,7 +60,8 @@ elected as Cathaoirleach of Limerick County Council in 2009, which was a great h
 
 him and his family. The Deputy Mayor added that he was always full of life and full of energy,
 
-stating that he made a major contribution to his community during his time in the Council.---
+stating that he made a major contribution to his community during his time in the Council.
+---
 2
 
 Members thanked the Mayor for calling the Special Meeting. They recalled David as an
@@ -109,4 +110,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

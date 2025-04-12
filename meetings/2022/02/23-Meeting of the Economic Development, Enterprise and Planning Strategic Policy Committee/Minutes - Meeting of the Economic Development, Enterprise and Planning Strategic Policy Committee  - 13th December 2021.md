@@ -74,7 +74,8 @@ that Forward Planning had not been affected by Covid-19 in progressing the Devel
 
 process, which was now at a very advanced stage and the granting of an extension would not be
 
-beneficial in the completion of the Development Plan process.---
+beneficial in the completion of the Development Plan process.
+---
 Members also expressed concern at the number of planning decisions for private housing, which had
 
 been referred to An Bord Pleanala and the guidelines used by ABP in making their decisions and
@@ -151,7 +152,8 @@ participant gains meaningful employment with sub-contractors.
 
 Ciara Farrell, LEO gave a presentation on the Measure 2 Business Supports provided by LEO. The
 
-supports include Start Your Own Business Courses, Mentoring Programmes, Management---
+supports include Start Your Own Business Courses, Mentoring Programmes, Management
+---
 Development courses, Trading Online Vouchers, Technical Assistance for Micro Exporters, Micro
 
 Finance Ireland Loans, Client Stimulus Schemes and Green for Micro consultations.
@@ -230,7 +232,8 @@ V. Murray also pointed out that the proposed SDZ was not located in a flood zone
 
 works were progressing on the Limerick Northern Distributor Road and that the Limerick Shannon
 
-Metropolitan Area Transport Strategy (LSMATS) would be completed in April, 2022.---
+Metropolitan Area Transport Strategy (LSMATS) would be completed in April, 2022.
+---
 **Item 5**
 
 **Any Other Business**
@@ -249,4 +252,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

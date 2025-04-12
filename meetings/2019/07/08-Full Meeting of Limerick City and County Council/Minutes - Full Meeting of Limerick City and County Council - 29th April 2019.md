@@ -68,7 +68,8 @@ Cllr Hourigan referred to the last 20 years and the work that has been completed
 
 timeframe. He spoke of the importance of promoting the city from a social, political and
 
-cultural point of view and referred to the different city that Limerick is today. Cllr Hourigan---
+cultural point of view and referred to the different city that Limerick is today. Cllr Hourigan
+---
 2
 
 recalled his term as Mayor of the City and how it was an honour for him to serve as Mayor.
@@ -145,7 +146,8 @@ Outlining the 7 aims identified within the Corporate Plan and the leadership, vi
 
 decision making shown by the Members that has supported key strategic enablers and
 
-resulted in the creation of strategic delivery vehicles.---
+resulted in the creation of strategic delivery vehicles.
+---
 3
 
 The Chief Executive informed Members that Limerick has become the fastest growing
@@ -226,7 +228,8 @@ The Chief Executive provided Members with an overview of the Social Development
 
 Directorate and on their work on dereliction and vacant properties. 800 inspection cases
 
-were carried out in 2018 and a Vacant Sites Register was established. The Chief Executive---
+were carried out in 2018 and a Vacant Sites Register was established. The Chief Executive
+---
 4
 
 emphasised the importance of delivering on the commitment of civic engagement through
@@ -305,7 +308,8 @@ properties to use
 
 improving on the cultural offerings for the future
 
- Members discussed the upcoming plebiscite on the Directly Elected Mayor---
+ Members discussed the upcoming plebiscite on the Directly Elected Mayor
+---
 5
 
 On completion of the presentation, the Mayor thanked the Chief Executive and acknowledged
@@ -386,7 +390,8 @@ disposal to be by way of Deed of Conveyance of the interest of Limerick City and
 
 Council in the property, particulars of which were contained in Statutory Notice dated 28th
 
-March, 2019.”---
+March, 2019.”
+---
 6
 
 (c)
@@ -471,7 +476,8 @@ Notice dated 18th April, 2019.”
 
 Circulated, copy of Statutory Notice dated 17th April, 2019, concerning disposal of land
 
-at 33 Quins Cottages, Prospect, Limerick.---
+at 33 Quins Cottages, Prospect, Limerick.
+---
 7
 
 Proposed by Councillor Galvin;
@@ -554,7 +560,8 @@ Proposed by Councillor Galvin;
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 8
 
 “That in accordance with the provisions of Section 183 of the Local Government Act, 2001 (as
@@ -631,7 +638,8 @@ contained in Statutory Notice dated 16th April, 2019.”
 
 Circulated, Chief Executive’s Report for the month of March, 2019.
 
-The Chief Executive’s Report was noted by the Members.---
+The Chief Executive’s Report was noted by the Members.
+---
 9
 
 **(b)**
@@ -708,7 +716,8 @@ drawdown, which would be a draw on the Revenue account over a number of years. E
 
 includes an Urban and Village Renewal Fund created and commencement of a number of
 
-strategic capital projects.---
+strategic capital projects.
+---
 10
 
 Director of Support Services confirmed that the authority is compliant with General
@@ -801,7 +810,8 @@ Circulated, report of the Director of Support Services dated 18th April, 2019, s
 
 of additional expenditure incurred in excess of that provided for in the Annual Budget for the
 
-year ended 31st December, 2018, including capital transfers.---
+year ended 31st December, 2018, including capital transfers.
+---
 11
 
 Proposed by Councillor Sheahan (J);
@@ -872,7 +882,8 @@ O’Dea, O’Donnell, Scanlan, Secas, Sheahan (J), Sheahan (K), Sheehy.
 
 Councillors Costelloe, Gilligan, Hogan, Loftus, McCreesh, Ó Ceallaigh.
 
-**(6)**---
+**(6)**
+---
 12
 
 **Abstention**
@@ -947,7 +958,8 @@ Recommendation which was agreed at the SPC Meeting:
 
 **at Cleeve’s Car Park and possibly at the Bus Éireann yard on Roxboro Road to provide**
 
-**parking support for hard pressed retailers in Limerick City”.**---
+**parking support for hard pressed retailers in Limerick City”.**
+---
 13
 
 On the proposal of Councillor Hogan, seconded by Councillor Sheahan (J), the
@@ -1010,7 +1022,8 @@ No. 3 was agreed.
 
 On the proposal of Councillor Gilligan, seconded by Councillor O’Donnell, Recommendation
 
-No. 4 was agreed.---
+No. 4 was agreed.
+---
 14
 
 **Recommendation 5**
@@ -1077,7 +1090,8 @@ No. 2 was agreed.
 
 Circulated, Report of the Director, Economic Development, dated 17th April, 2019 setting out
 
-details of the proposed allocations from the Development Fund 2019.---
+details of the proposed allocations from the Development Fund 2019.
+---
 15
 
 The proposed allocations were noted by the Members.
@@ -1154,7 +1168,8 @@ Limerick City and County Council is currently engaged with property owners in
 
 Steamboat Quay to resolve issues around roads and public open spaces, and
 
-to take the whole area in charge. There are a number of different owners of---
+to take the whole area in charge. There are a number of different owners of
+---
 16
 
 car parking, footpaths and open space along Steamboat Quay and engagement
@@ -1233,7 +1248,8 @@ The motion was proposed by Councillor Cahillane and seconded by Councillor McCre
 
 **Health to reinstate the services at the Health Centre, Abbeyfeale (dispensary) and purchase**
 
-**the portion of ground to the rear to provide parking.**---
+**the portion of ground to the rear to provide parking.**
+---
 17
 
 In proposing the motion Councillor Galvin referred to dental services that are no longer being
@@ -1304,7 +1320,8 @@ The Meetings Administrator declared the Motion defeated.
 
 **for the care and needs of people with disabilities, focusing solely on the person with the**
 
-**disability and not on household income as is the case at present.**---
+**disability and not on household income as is the case at present.**
+---
 18
 
 In proposing the motion, Councillor Sheahan (J) referred to the parents of children with a
@@ -1355,4 +1372,5 @@ amended, was also available on Alfresco for inspection by the Members.
 
 **Date:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

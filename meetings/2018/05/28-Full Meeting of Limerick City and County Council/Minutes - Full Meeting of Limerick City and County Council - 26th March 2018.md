@@ -56,7 +56,8 @@ his professionalism at all times when dealing with them and also for his friendl
 
 courteous manner and his availability to deal with queries, both during office hours and also
 
-frequently at evenings and weekends.---
+frequently at evenings and weekends.
+---
 2
 
 The Chief Executive, on his own behalf and on behalf of the staff, congratulated Mr.
@@ -137,7 +138,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Scanlan;
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That, the approval of the Council be and is hereby given to the disposal of 0.0212
@@ -216,7 +218,8 @@ Peter O’Dea, Marian O’Dea, Deirdre Considine and Anthony Considine, for the 
 
 and County Council in the property, particulars of which were contained in Statutory Notice
 
-dated 12th March, 2018.”---
+dated 12th March, 2018.”
+---
 4
 
 4.
@@ -289,7 +292,8 @@ excluding HAP.
 
  Vacant Property Refund Scheme 2018.
 
- 2018 Debt Management actions.---
+ 2018 Debt Management actions.
+---
 5
 
 Members welcomed the increase in the collection figures and also the reduction in
@@ -364,7 +368,8 @@ Chief Executive’s Report
 
 Circulated, Chief Executive’s Reports for the months of January and February 2018.
 
-The Chief Executive’s Reports were noted by the Members.---
+The Chief Executive’s Reports were noted by the Members.
+---
 6
 
 (f)
@@ -433,7 +438,8 @@ following Recommendations which were agreed at the SPC Meeting:
 
 On the proposal of Councillor Daly, seconded by Councillor Butler, Recommendation
 
-No. 1 was agreed.---
+No. 1 was agreed.
+---
 7
 
 **Recommendation No. 2**
@@ -510,7 +516,8 @@ discussion.
 
 The Mayor and Chief Executive then withdrew from the Chamber for the duration of
 
-discussion on Item No. 5 (a).---
+discussion on Item No. 5 (a).
+---
 8
 
 The Deputy Chief Executive and Director, Economic Development, outlined the
@@ -581,7 +588,8 @@ proposal, the Deputy Mayor directed that a vote be taken. It was agreed that the
 
 would take the form of a show of hands. Following the vote, the Deputy Mayor declared
 
-the proposal to hold a Special Meeting on 10th April, 2018, at 3pm, as carried.---
+the proposal to hold a Special Meeting on 10th April, 2018, at 3pm, as carried.
+---
 9
 
 4.
@@ -646,7 +654,8 @@ Recommendations which were agreed at the SPC Meeting:
 
 On the proposal of Councillor Hourigan, seconded by Councillor Hogan,
 
-Recommendation No. 1 was agreed.---
+Recommendation No. 1 was agreed.
+---
 10
 
 **Recommendation No. 2**
@@ -717,7 +726,8 @@ Development Fund Allocations 2018
 
 Circulated, report of the Director, Economic Development, dated 15th March, 2018,
 
-setting out details of the proposed allocations from the Development Fund 2018.---
+setting out details of the proposed allocations from the Development Fund 2018.
+---
 11
 
 The proposed allocations were noted by the Members.
@@ -790,7 +800,8 @@ dated February 2018, as circulated, be and is hereby adopted, in accordance with
 
 130 of the Local Government Act, 2001, as amended, and Section 38 of the Road Traffic Act,
 
-1994, as amended.”---
+1994, as amended.”
+---
 12
 
 8.
@@ -859,7 +870,8 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 
 Meeting / Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 13
 
 QUESTIONS
@@ -968,7 +980,8 @@ Limerick City and County Council purchased a total of 184 housing units in Limer
 
 during the period 2015-2017. Of this number, 32 were purchased in the Municipal
 
-Districts as follows:---
+Districts as follows:
+---
 14
 
 **Municipal District**
@@ -1093,7 +1106,8 @@ and, as such, are in compliance with Irish Language requirements. However,
 
 there are signs in place, including estate nameplates and directional signs,
 
-that do not fully conform with the Council’s policy on the use of Irish. An---
+that do not fully conform with the Council’s policy on the use of Irish. An
+---
 15
 
 inventory of this non-compliance signage will be carried out and a strategy
@@ -1174,7 +1188,8 @@ least once every two years. However, it is important to emphasise that the
 
 tenants are required, under the letting agreement, to notify the Council of
 
-any change to their income status.---
+any change to their income status.
+---
 16
 
 15.
@@ -1257,7 +1272,8 @@ and Convent Site at Fernbank, North Circular Road, Limerick, was purchased by th
 
 and not Limerick Twenty Thirty DAC, in accordance with normal protocols for acquisition of
 
-property. The Deputy Chief Executive and Director of Economic Development added that---
+property. The Deputy Chief Executive and Director of Economic Development added that
+---
 17
 
 the Company acted in the interest of the Council and was tasked with delivering projects
@@ -1340,7 +1356,8 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 **consider retaining CSPE (Civic, Social and Political Education) as a Junior Certificate**
 
-**examination subject.**---
+**examination subject.**
+---
 18
 
 In the absence of Councillor Scanlan, this Motion was deferred.
@@ -1415,7 +1432,8 @@ The objective is to achieve a significant reduction in vacancy and dereliction
 
 through working with the owners of these properties and/or exercising the
 
-various legislative powers available to the Council.---
+various legislative powers available to the Council.
+---
 19
 
 In instances where a dangerous building is identified as part of this inspection
@@ -1462,4 +1480,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

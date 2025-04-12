@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-11-23 09:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-adare-rathkeale-3)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-adare-rathkeale-3" target="_blank">Link to meeting</a>**

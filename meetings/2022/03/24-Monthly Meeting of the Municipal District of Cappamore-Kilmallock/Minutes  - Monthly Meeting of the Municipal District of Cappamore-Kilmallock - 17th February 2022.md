@@ -54,7 +54,8 @@ Diarmuid Cronin, Muintir na Tire, delivered a Powerpoint presentation to the Ele
 
 Members on the Community Alert Programme. Mr Cronin agreed to deliver a workshop to
 
-discuss the Programme further as part of the Joint Policing Committee Meeting in April.---
+discuss the Programme further as part of the Joint Policing Committee Meeting in April.
+---
 6.Issuing of Bruff Public Realm Plan
 
 Tom Joyce, Executive Architect, Property Support and Placemaking, attended the Municipal
@@ -115,7 +116,8 @@ An application is being submitted under the 2022 Community Monuments Funding Sch
 
 structure. The Castle at Ballynoe is protected under the National Monuments Act and is a
 
-significant structure in Limerick’s heritage.---
+significant structure in Limerick’s heritage.
+---
 The closing date for applications is 1 March, 2022. If the application is successful the proposed
 
 works should consolidate the building and allow for access to graves at the base of the
@@ -188,7 +190,8 @@ Mayor, outlining full detail and clarity on the terms and powers of the new role
 
 elected Mayor is a matter outside the remit of Limerick City and County Council. The
 
-decision to postpone the implementation of the Directly Elected Mayor pending the---
+decision to postpone the implementation of the Directly Elected Mayor pending the
+---
 adoption of appropriate legislation is a matter more appropriately directed to the
 
 Government.”
@@ -261,7 +264,8 @@ discourage/prevent burial over and above existing family plots.
 
 The policy is based on the principles of good heritage and environmental practice in burial
 
-grounds.---
+grounds.
+---
 11.
 
 Question submitted by Councillor Carey
@@ -328,7 +332,8 @@ clarification in relation to derelict sites act, register, levy and modus operan
 
 A full presentation on the Dereliction & Vacancy Initiative will be provided to the March
 
-meeting of Cappamore/Kilmallock Municipal District.---
+meeting of Cappamore/Kilmallock Municipal District.
+---
 14.
 
 Question submitted by Councillor Mitchell
@@ -381,4 +386,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

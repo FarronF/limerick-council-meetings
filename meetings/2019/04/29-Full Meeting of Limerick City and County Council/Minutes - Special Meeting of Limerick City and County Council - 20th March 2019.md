@@ -58,7 +58,8 @@ rate in order to assist the business community and promote Limerick City. Member
 
 referred to his passion for Limerick and the dignified manner in which he represented
 
-Limerick City as a Mayor and public representative.---
+Limerick City as a Mayor and public representative.
+---
 2
 
 The Members spoke of his love of all sports and that he was a proud Young Munster fan.
@@ -97,4 +98,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

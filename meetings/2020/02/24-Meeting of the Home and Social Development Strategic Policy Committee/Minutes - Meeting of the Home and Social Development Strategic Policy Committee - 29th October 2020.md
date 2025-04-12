@@ -80,7 +80,8 @@ Cllr. Sarah Kiely also wished the chair the best.
 
 Aoife Duke spoke about Strategic goals and priorities and explained that private downsizing,
 
-land availability and any other priorities would be discussed at the meeting.---
+land availability and any other priorities would be discussed at the meeting.
+---
 **Item 1: (a) Private Downsizing Scheme**
 
 Ms. Sarah Newell gave an in-depth presentation where the members were provided with
@@ -159,7 +160,8 @@ long-term. After much discussion it was agreed to revert with an update on sites
 
 The issue of land purchase and zoning was also discussed. Seamus Hanrahan to send LCCC
 
-owned sites to all newly elected councillors in the coming weeks.---
+owned sites to all newly elected councillors in the coming weeks.
+---
 **Item 1: (c) Strategic Goals/Priorities for 2020**
 
 Ms. Aoife Duke spoke about the Strategic Goals and Priorities for 2020. The following broad
@@ -216,7 +218,8 @@ Members were also advised that The Single Differential Scheme will commence on 1
 
 February 2020. A significant communication campaign will take place with tenants in advance
 
-of the deadline. Members will be updated on an on-going basis also.---
+of the deadline. Members will be updated on an on-going basis also.
+---
 **Item 4: Affordable Housing Scheme of Priorities**
 
 Ms Sarah Newell provided a presentation on the Affordable Housing Scheme of Priorities.
@@ -257,4 +260,5 @@ noted that the next SPC meeting isn’t being held until February 2020
 
  All presentations be emailed to members before SPC
 
-The meeting concluded.---
+The meeting concluded.
+---

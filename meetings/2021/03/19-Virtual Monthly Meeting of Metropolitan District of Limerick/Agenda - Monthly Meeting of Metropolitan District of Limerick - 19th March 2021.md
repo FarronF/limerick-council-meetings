@@ -26,7 +26,8 @@ February, 2021.
 
 (Copy Enclosed).
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **2.Disposal of Land**
@@ -87,7 +88,8 @@ erected;
 
 c) The proposed date for when these signs will be erected;
 
-d) How many signs in total have been acquired by Limerick City and County Council.---
+d) How many signs in total have been acquired by Limerick City and County Council.
+---
 3
 
 **7.Question submitted by Councillor S. Benson**
@@ -148,7 +150,8 @@ upgrade / refurbishment of properties in the Carew Park area, can the Council co
 
 properties that have not been completed or properties that have not been started will be contacted
 
-for works to begin.---
+for works to begin.
+---
 4
 
 **12.Question submitted by Councillor E. O’Donovan**
@@ -201,7 +204,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 
 littering and dumping have there been in relation to the use of CCTV cameras since February 2020
 
-up to February 2021.---
+up to February 2021.
+---
 5
 
 **19.Question submitted by Councillor J. Leddin**
@@ -264,7 +268,8 @@ city, as a matter of urgency, in response to the continuous decline of resources
 
 Station and to tackle the increase in anti-social behaviour and crime. Also, to take note of the
 
-recommendations set out by the Fitzgerald report 2007 regarding Garda resources in Limerick City.---
+recommendations set out by the Fitzgerald report 2007 regarding Garda resources in Limerick City.
+---
 6
 
 **25.Notice of Motion submitted by Councillor S. Benson**
@@ -323,7 +328,8 @@ I will move at the next Meeting of the Metropolitan District of Limerick that we
 
 Governing Authority and the Gardai on a proposal to install cameras in the community adjoining the
 
-estates near the UL campus.---
+estates near the UL campus.
+---
 7
 
 **32.Notice of Motion submitted by Councillor S. Kiely**
@@ -352,4 +358,5 @@ closure of the Rehab Logistics Plant, calls on the Rehab group to engage with th
 
 Relations Commission and calls on the Minister for Enterprise, Trade and Employment to intervene
 
-to prevent the job losses.---
+to prevent the job losses.
+---

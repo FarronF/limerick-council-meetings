@@ -56,7 +56,8 @@ Boston. He married Rosanna Cox and they had twelve children. One of them, John F
 
 House of Representatives. His eldest daughter, Rose, married Joseph P. Kennedy. They had
 
-several children, including John F. Kennedy, the future President of the United States. On---
+several children, including John F. Kennedy, the future President of the United States. On
+---
 **2**
 
 21st June, 2013, John F. Kennedy’s daughter, Caroline, returned to her ancestral home in
@@ -125,7 +126,8 @@ commended the spirit of volunteerism which was evident in the establishment and
 
 development of the Centre. He concluded by wishing the Bruff Heritage Group the very best
 
-for the future and said the Council was fully supportive and committed to the Centre.---
+for the future and said the Council was fully supportive and committed to the Centre.
+---
 **3**
 
 The Mayor then presented a framed copy of the original Scroll awarded to John F. Kennedy,
@@ -150,4 +152,5 @@ Mayor
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

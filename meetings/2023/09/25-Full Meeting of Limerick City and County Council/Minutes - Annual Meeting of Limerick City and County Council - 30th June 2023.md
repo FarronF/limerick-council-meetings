@@ -66,7 +66,8 @@ District Offices, and outdoor staff, for their work on a daily basis for all of 
 
 the staff in Corporate Services for their support during the year and in particular, Eleanor
 
-Buckley, in the Mayor’s Office who kept his diary going at all times.---
+Buckley, in the Mayor’s Office who kept his diary going at all times.
+---
 2
 
 The Mayor noted all the many special moments and events during his year as Mayor and he
@@ -137,7 +138,8 @@ I wish to thank my proposer Cllr John Sheahan and seconder Cllr John Egan for pr
 
 for the position of Mayor of the City and County of Limerick and I want to thank all those who
 
-have supported me in the election today.---
+have supported me in the election today.
+---
 3
 
 I intend to make investment in rural communities a priority during my term, as more needs
@@ -206,7 +208,8 @@ appointed.”
 
 As there were no other nominations the Mayor declared Councillor McSweeney elected as
 
-Deputy Mayor of the City and County of Limerick and congratulated him on his election.---
+Deputy Mayor of the City and County of Limerick and congratulated him on his election.
+---
 4
 
 The incoming Deputy Mayor, Councillor McSweeney, then addressed the Meeting:
@@ -277,4 +280,5 @@ Signed:
 
 Mayor
 
-Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -72,7 +72,8 @@ proposed disposal of 3 Lilac Court, Keyes Park, Southill.
 
 relation to the proposed disposal of the freehold (ground rent) at 1 Farranshone, Limerick
 
-City.---
+City.
+---
 2
 
 Members noted the contents of the reports as circulated.
@@ -151,7 +152,8 @@ indicated in Section 5 of same.
 
 December, 2015 setting out potential revisions to the Part VIII, as originally circulated, to
 
-reflect the considered outcome of further workshop and consultation.---
+reflect the considered outcome of further workshop and consultation.
+---
 3
 
 Members acknowledged the importance of the proposed development in improving the
@@ -236,7 +238,8 @@ to discuss the issue with his colleagues and revert to the Members as soon as po
 
 It is intended to bring draft byelaws to the February Meeting of the Metropolitan
 
-District to be held on Monday, 15th February, 2015.---
+District to be held on Monday, 15th February, 2015.
+---
 4
 
 **6.**
@@ -323,7 +326,8 @@ sleeping persons. LHAT has not received any indication that there are persons
 
 consistently rough sleeping in Limerick.
 
-The Limerick Homeless Action Team office hours are 9am to 5pm, Monday to---
+The Limerick Homeless Action Team office hours are 9am to 5pm, Monday to
+---
 5
 
 Friday. Our telephone number is 061 481212. Anyone who is homeless or at risk
@@ -402,7 +406,8 @@ Members acknowledged the great work carried out in maintaining flood defences du
 
 recent extreme weather but expressed concern at the flooding that had occurred in Corbally. It
 
-was proposed by Councillor Quinlivan and seconded by Cmhlr. Ó Ceallaigh that this District calls---
+was proposed by Councillor Quinlivan and seconded by Cmhlr. Ó Ceallaigh that this District calls
+---
 6
 
 on Waterways Ireland to attend a Metropolitan Meeting to discuss the recent flooding of
@@ -485,7 +490,8 @@ alternative Irish language version of the logo be used in some circumstances. Me
 
 noted that, as we were applying for European Capital of Culture Status, other cultures had to be
 
-taken into consideration.---
+taken into consideration.
+---
 7
 
 Cmhlr. Ó Ceallaigh indicated his satisfaction with the response he had received to his notice of
@@ -552,4 +558,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

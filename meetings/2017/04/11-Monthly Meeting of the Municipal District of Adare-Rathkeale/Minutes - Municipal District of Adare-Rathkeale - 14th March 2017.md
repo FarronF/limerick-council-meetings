@@ -74,7 +74,8 @@ Proposed by Councillor O’Brien;
 
 Seconded by Councillor McMahon;
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
@@ -155,7 +156,8 @@ engage with the Conservation Officer in relation to same and concern was raised 
 
 derelict and dangerous condition of an old public house in the village and the need to make it
 
-safe.---
+safe.
+---
 3
 
 It was agreed that item 13 on the agenda would be taken next.
@@ -226,7 +228,8 @@ proposed works spans both the Municipal Districts of Newcastle West and Adare-Ra
 
 the Part VIII report would be brought before the full Council for approval. Members noted the
 
-report, as circulated.---
+report, as circulated.
+---
 4
 
 **(ii)**
@@ -311,7 +314,8 @@ Heritage Council as suitable projects arose. She noted that projects funded to d
 
 Golden Mile, Bouchier’s Castle, Digital Atlas, Limerick Lace and a Bird Survey on the estuary,
 
-which was required in conjunction with any proposed development on the estuary.---
+which was required in conjunction with any proposed development on the estuary.
+---
 5
 
 Members noted the draft plan, as circulated.
@@ -386,7 +390,8 @@ maximise their potential to carry out maintenance works and supervise same.
 
 Members noted the apparent lack of progress in repairing one of the two thatched cottages in
 
-Adare damaged by fire and requested an update on same.---
+Adare damaged by fire and requested an update on same.
+---
 6
 
 **6.**
@@ -469,7 +474,8 @@ setting out the Council’s policy in relation to individuals who leave litter a
 
 and giving an update on littering offences carried out at the Bring Bank in Rathkeale during the
 
-Christmas period. Members welcomed the report and pointed out the need for CCTV cameras---
+Christmas period. Members welcomed the report and pointed out the need for CCTV cameras
+---
 7
 
 to be used to monitor unauthorised dumping at Rathkeale Cemetery. The Director noted that
@@ -544,7 +550,8 @@ in Croom and called for incentives to put in place to encourage property owners 
 
 such property thereby removing the dereliction and increasing the availability of commercial
 
-and domestic property for letting or sale. Members noted that incentives in this regard were---
+and domestic property for letting or sale. Members noted that incentives in this regard were
+---
 8
 
 under consideration and requested that the Housing Department attend at the next Meeting
@@ -615,7 +622,8 @@ hand to purchase. The Director noted that elements of the current scheme had bee
 
 put in place to prevent money laundering and Members noted that a new scheme was
 
-being devised.---
+being devised.
+---
 9
 
 • Councillor O’Donoghue raised the issue of an outstanding public lighting bill relating to
@@ -634,4 +642,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

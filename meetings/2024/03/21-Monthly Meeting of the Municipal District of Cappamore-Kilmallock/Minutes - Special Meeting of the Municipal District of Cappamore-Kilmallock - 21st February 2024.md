@@ -58,7 +58,8 @@ It was also confirmed that the Active Travel unit would continue to source addit
 
 funding from the NTA once the large scale projects are completed, for additional schemes
 
-that are shovel ready---
+that are shovel ready
+---
 The installation of Bus stops was acknowledged, and it was noted that applications from
 
 across Limerick are to be submitted to the NTA under the Pedestrian Crossings scheme.
@@ -75,4 +76,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cathaoirleach**
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

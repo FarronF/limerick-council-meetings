@@ -58,7 +58,8 @@ M Sheahan on the death of his mother.
 
 Minutes of meeting of 14th December, 2016 were proposed by Cllr. M. Hurley and seconded
 
-by Cllr. S. Lynch.---
+by Cllr. S. Lynch.
+---
 **Item 2:**
 
 **Consideration of Notion of Motion submitted by Cllr. L.M. Sheehy**
@@ -139,7 +140,8 @@ suitable and also requested that the building be painted seven months ago. Cllr.
 
 supported these requests. Mr. Brady informed members that money has been set aside in this
 
-year’s budget to paint Askeaton library.---
+year’s budget to paint Askeaton library.
+---
 **Item 3:**
 
 **Suicide Awareness Working Group** **–** **2017 Workplan**
@@ -228,7 +230,8 @@ Office working with Lumen, a local street spectacle company. A grant of €5,000
 
 this new street spectacle company to develop an entry for this year’s parade as part of the
 
-ongoing Festivals & Events Development Strategy.---
+ongoing Festivals & Events Development Strategy.
+---
 Lumen will focus on delivering a story in the history of the River Shannon in keeping with
 
 the theme of *Our Story-this is where we belong.*
@@ -293,4 +296,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

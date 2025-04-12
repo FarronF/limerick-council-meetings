@@ -54,7 +54,8 @@ The Elected Members were requested to revert to the Meetings administration staf
 
 with the relevant contact details for the community groups nominated at their earliest
 
-convenience.---
+convenience.
+---
 **Both schemes were proposed and seconded.**
 
 Proposed: Councillor Mitchell
@@ -65,4 +66,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cathaoirleach**
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -70,7 +70,8 @@ in advance of being brought to the attention of the Councillors. As a result, Me
 
 they were unable to respond satisfactorily to media queries and called on the Chief Executive to
 
-engage with Councillors on major issues, before they were presented to the media.---
+engage with Councillors on major issues, before they were presented to the media.
+---
 2
 
 **1.**
@@ -143,7 +144,8 @@ by Councillor Leddin, that this disposal should proceed to full Council.
 
 It was agreed that the Annual Meeting of the Metropolitan District of Limerick would take place
 
-on Friday, 24th June at 5pm.---
+on Friday, 24th June at 5pm.
+---
 3
 
 **4.**
@@ -222,7 +224,8 @@ plans to develop this rail line. Members requested that the Council initiate dis
 
 Iarnrod Eireann in relation to the future use of this line and the Senior Executive Planner
 
-undertook to revert to the Members in relation to same.---
+undertook to revert to the Members in relation to same.
+---
 4
 
 In response to queries the Operations Manager, Central Services & North Division noted that
@@ -321,7 +324,8 @@ in their databases in relation to 'Roxboro' and south side Limerick City address
 
 **REPLY**:
 
-Discussions are continuing to advance with regard to these lands at Ballykeefe---
+Discussions are continuing to advance with regard to these lands at Ballykeefe
+---
 5
 
 owned by Braddish and Co.
@@ -406,7 +410,8 @@ traders)
 
 ***brought into Council ownership through Mortgage to Rent Schemes for those in mortgage***
 
-***difficulties since the Council merger in 2014?***---
+***difficulties since the Council merger in 2014?***
+---
 6
 
 **REPLY:**
@@ -489,7 +494,8 @@ whether the statue should be moved or not and noted that the current location of
 
 offered protection from vandalism. A view was also expressed that the railings around the
 
-statue at its current location be recessed to allow access at all hours of the day.---
+statue at its current location be recessed to allow access at all hours of the day.
+---
 7
 
 Following discussion it was proposed by Councillor O’Hanlon, seconded by Cmhlr. Ó Ceallaigh
@@ -570,7 +576,8 @@ In proposing the motion Councillor Leddin noted the slow lead in time to develop
 
 housing and pointed out that a number of the sites in question may be eligible for the fast track
 
-process. In seconding the motion Councillor McCreesh noted that the motion was appropriate---
+process. In seconding the motion Councillor McCreesh noted that the motion was appropriate
+---
 8
 
 given the numbers on the housing list and the relatively small number of houses to be delivered
@@ -653,7 +660,8 @@ The EPA divides the county into four zones (A, B, C & D) for the purposes of air
 
 quality monitoring. Zones A & B relate to Dublin and Cork respectively and both
 
-of these areas have permanent air quality monitoring stations. Limerick is a Zone---
+of these areas have permanent air quality monitoring stations. Limerick is a Zone
+---
 9
 
 C (towns with populations greater than 15,000). Zone D relates to smaller towns
@@ -734,7 +742,8 @@ in this regard.
 
 On the proposal of Cmhlr. Ó Ceallaigh, seconded by Councillor Sheahan, it was agreed that
 
-Standing Orders would be suspended to allow for the completion of the agenda.---
+Standing Orders would be suspended to allow for the completion of the agenda.
+---
 10
 
 **17.**
@@ -815,7 +824,8 @@ Europe as a source of funding and that the Council was not making the most of th
 
 Members requested that the Economic Development Directorate attend at a future Meeting to
 
-discuss existing projects and proposals going forward in this regard.---
+discuss existing projects and proposals going forward in this regard.
+---
 11
 
 **19.**
@@ -902,7 +912,8 @@ the 21st June 2016. The planning file can be viewed on Limerick City and County
 
 Council website or at the front desk in Planning and Environmental Services
 
-Department in County Hall, Dooradoyle.---
+Department in County Hall, Dooradoyle.
+---
 12
 
 The Director, Physical Development undertook to address the information request made by the
@@ -921,4 +932,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

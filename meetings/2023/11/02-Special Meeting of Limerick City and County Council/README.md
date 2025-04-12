@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-11-02 15:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-of-limerick-city-and-county-council-6)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-of-limerick-city-and-county-council-6" target="_blank">Link to meeting</a>**

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-11-11 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/budget-meeting-limerick-city-and-county-council)**
+**<a href="https://www.limerick.ie/council/whats-on/budget-meeting-limerick-city-and-county-council" target="_blank">Link to meeting</a>**

@@ -26,7 +26,8 @@ agenda.
 
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -59,4 +60,5 @@ Uí Dhálaigh Uacht, in honour of Ned Daly.
 
 **4.Presentation on Winter Road Maintenance Programme**
 
-**5.Any Other Business**---
+**5.Any Other Business**
+---

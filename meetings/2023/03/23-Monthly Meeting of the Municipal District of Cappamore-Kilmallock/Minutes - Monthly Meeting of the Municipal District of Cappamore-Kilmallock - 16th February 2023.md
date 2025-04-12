@@ -58,7 +58,8 @@ District meeting. The dates agreed are as followed:
 
 23rd March – 2pm Workshop on Speed Limit Review
 
-3pm March Monthly Meeting of Cappamore Kilmallock Municipal District---
+3pm March Monthly Meeting of Cappamore Kilmallock Municipal District
+---
 3. Disposal of Property
 
 An update was provided by Property Services on the disposal of property at Foxhall West.
@@ -127,7 +128,8 @@ Development CLG. Ms Healy also outlined the branding and website relating to the
 
 Heartlands initiative. A presentation on the region was delivered to the Elected members
 
-and leaflets circulated.---
+and leaflets circulated.
+---
 Notices of Motion
 
 7.Notice of Motion submitted by Councillor Mitchell
@@ -190,7 +192,8 @@ Annual St. Patrick’s Day Parades planned within the Municipal District.”
 
 **Proposed: Councillor Donegan**
 
-**Seconded: Councillor M Ryan**---
+**Seconded: Councillor M Ryan**
+---
 **REPLY:**
 
 The Festivals and Events team have put in place a grant scheme for St Patrick’s Day Parades
@@ -255,7 +258,8 @@ Cluain Foinse is currently included on the Council’s 2023 Taking in Charge wor
 
 bond has been drawn down. Therefore, it is estimated that the formal procedures to take the estate
 
-in charge and works will commence in Q4 2023.---
+in charge and works will commence in Q4 2023.
+---
 12.
 
 Question submitted by Councillor Mitchell
@@ -306,4 +310,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

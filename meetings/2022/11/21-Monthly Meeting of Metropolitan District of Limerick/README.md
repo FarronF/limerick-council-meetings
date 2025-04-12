@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-11-21 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-90)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-90" target="_blank">Link to meeting</a>**

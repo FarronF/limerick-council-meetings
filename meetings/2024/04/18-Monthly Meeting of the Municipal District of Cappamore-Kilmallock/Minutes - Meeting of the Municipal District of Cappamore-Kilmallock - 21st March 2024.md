@@ -56,7 +56,8 @@ Allocation 2024 held on 28th February 2024
 
 **And Resolved:**
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2. Matters Arising
 
 There were no matters arising.
@@ -103,7 +104,8 @@ Limerick Draft Noise Action Plan 2024-2028.
 
 A presentation on the Draft Plan was delivered by the Executive Scientist. A general
 
-discussion took place and clarification was provided as required.---
+discussion took place and clarification was provided as required.
+---
 7.Rural Development
 
 Circulated: Draft LECP Framework Plan 2023-2028.
@@ -146,7 +148,8 @@ The Director of Services and the Senior Executive Engineer for Roads outlined to
 
 Deputation that funding received by the Local Authority was received for specific purposes
 
-and that there was very little discretionary funding available.---
+and that there was very little discretionary funding available.
+---
 NOTICES OF MOTION DEFERRED FROM JANUARY
 
 MEETING
@@ -185,7 +188,8 @@ Housing, and the Property Management Department.
 
 **Proposed: Councillor Donegan**
 
-**Seconded: Councillor Egan**---
+**Seconded: Councillor Egan**
+---
 NOTICES OF MOTION
 
 11.Proposed rescindment of Notice of Motion submitted
@@ -246,7 +250,8 @@ the Irish Red Cross.
 
 **property by other parties also.**
 
-13.Notice of Motion submitted by Councillor Donegan---
+13.Notice of Motion submitted by Councillor Donegan
+---
 I will move at the next meeting of the Cappamore/Kilmallock Municipal District
 
 calling on Limerick City and County Council to complete a review of the footpaths,
@@ -291,7 +296,8 @@ phone at 0818 372 772
 
 **Proposed: Councillor Donegan**
 
-**Seconded: Councillor Egan**---
+**Seconded: Councillor Egan**
+---
 QUESTIONS
 
 14.Question submitted by Councillor Carey
@@ -366,7 +372,8 @@ Caherconlish
 
 Taking in Charge Section has a multi-annual work programme and from there we devise an
 
-annual work programme. From the 2023 work programme we have two estates (Cluain---
+annual work programme. From the 2023 work programme we have two estates (Cluain
+---
 Foinse & Castle Court) which will be coming before the Members to be taken in charge in
 
 the coming months. Our 2024 work programme has two estates which we are currently
@@ -419,4 +426,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

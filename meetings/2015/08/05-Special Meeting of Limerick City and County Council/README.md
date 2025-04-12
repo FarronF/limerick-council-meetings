@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-08-05 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-16)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-16" target="_blank">Link to meeting</a>**

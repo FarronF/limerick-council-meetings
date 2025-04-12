@@ -68,7 +68,8 @@ during and after construction;
 
 survey was undertaken.
 
-The Senior Executive Officer, Housing and CEO, Limerick Twenty Thirty responded to the issues---
+The Senior Executive Officer, Housing and CEO, Limerick Twenty Thirty responded to the issues
+---
 2
 
 raised.
@@ -139,4 +140,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

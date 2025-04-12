@@ -76,7 +76,8 @@ Cllr. Michael Murphy opened the meeting and welcomed all members to the June SPC
 
 meeting.
 
-**Item 1: Confirm minutes from meeting held on20th** **April 2022**---
+**Item 1: Confirm minutes from meeting held on20th** **April 2022**
+---
 2
 
 **Proposed:** Cllr. Conor Sheehan
@@ -155,7 +156,8 @@ tenants that can be replicated, (3) asked if anti-social behaviour matters with 
 
 tenants can be reported to Limerick City and County Council and (4) What do tenants and
 
-Councillors need to do to report anti-social behaviour?---
+Councillors need to do to report anti-social behaviour?
+---
 3
 
 Mr. Hayes stated in reply to Cllr. Benson (1) Limerick City and County Council work very
@@ -238,7 +240,8 @@ A copy of the report will be forwarded to the Newcastle West Municipal District 
 
 information once it has been completed. NCW MD to be advised of above in relation to
 
-NOM.---
+NOM.
+---
 4
 
 - Cllr. Kiely stated she would like to put herself forward to participate in the working group.
@@ -313,7 +316,8 @@ that an update would be provided at the next SPC meeting.
 
 - Ms. Siobhan Reidy, Sectoral Representative Community/Voluntary asked if the
 
-allocations team have considered or are actively collecting data on numbers of applicants---
+allocations team have considered or are actively collecting data on numbers of applicants
+---
 5
 
 who are on the housing list, are currently in private rented accommodation and who
@@ -362,4 +366,5 @@ An Cathaoirleach, Cllr. Michael Murphy thanked everyone who attended the SPC and
 
 the contributions and presentations given and for the support provided to him as Chair.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

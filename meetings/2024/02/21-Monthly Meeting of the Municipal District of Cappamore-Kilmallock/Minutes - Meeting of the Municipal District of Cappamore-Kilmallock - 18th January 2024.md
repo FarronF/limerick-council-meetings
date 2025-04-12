@@ -58,7 +58,8 @@ Cappamore-Kilmallock held on 14th December, 2023.
 
 **And Resolved:**
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 3. Matters Arising:
 
 There were no matters arising.
@@ -119,7 +120,8 @@ The Elected Members thanked the Executive Architect and Senior Executive Enginee
 
 their input.
 
-The Part 8 was accepted.---
+The Part 8 was accepted.
+---
 7. Housing Strategy & Non-LA Housing Construction
 
 The Administrative Officer outlined that the most recent update had been provided on 29th
@@ -178,7 +180,8 @@ Members were requested to refrain from discussing same.
 
 **Seconded: Councillor Mitchell**
 
-9. GMA---
+9. GMA
+---
 Change of GMA allocation from Bulgaden National School to Effin National School –
 
 Councillor Carey
@@ -277,7 +280,8 @@ Sites and Infill
 
 €30
 
-€37.50---
+€37.50
+---
 Sites in towns
 
 and villages
@@ -356,7 +360,8 @@ Trust, and the remaining €30,000 divided between the 7 Elected Members at €4
 
 Roads and Tourism GMA (€259,000) plus Capital Development Fund (to be confirmed) :
 
-€309,000 (estimated), divided between the 7 Elected Members at €44,142 per Elected---
+€309,000 (estimated), divided between the 7 Elected Members at €44,142 per Elected
+---
 **Caherguillamore event**
 
 An Cathaoirleach noted the St Stephens day event at Caherguillamore to remember the
@@ -421,7 +426,8 @@ agenda for the next Municipal District Meeting, and any changes will then go to 
 
 council should there be changes to the bye laws required.
 
-**Water Engineer**---
+**Water Engineer**
+---
 It was noted that the Water Engineer (Diarmuid O’Dea) was moving to a new role in Housing
 
 and that Neil Boyle would be the contact for water moving forward.
@@ -436,4 +442,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

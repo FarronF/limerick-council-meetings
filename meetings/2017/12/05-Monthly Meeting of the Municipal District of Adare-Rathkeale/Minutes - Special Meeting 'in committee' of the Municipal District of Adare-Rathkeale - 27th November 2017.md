@@ -62,7 +62,8 @@ regard locally.
 
 • The Woodlands Hotel purchased in excess of €1m worth of goods annually from
 
-the Adare locality.---
+the Adare locality.
+---
 2
 
 • The Lantern Lodge, which had been renovated to a high standard, was regarded
@@ -141,7 +142,8 @@ The Director, Physical Development noted the strategic importance of the bypass 
 
 improving the economic position of Adare and County Limerick generally and the need
 
-to have regard to the interests of all of Adare.---
+to have regard to the interests of all of Adare.
+---
 3
 
 It was noted that a further design update for the full scheme would be available early in
@@ -162,4 +164,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

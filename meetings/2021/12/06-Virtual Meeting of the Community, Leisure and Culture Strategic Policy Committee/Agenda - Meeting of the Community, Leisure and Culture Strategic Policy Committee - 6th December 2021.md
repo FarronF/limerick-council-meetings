@@ -68,7 +68,8 @@ residents being forced out of their homes over the years.
 
 **Item 4**
 
-EVA International- presentation---
+EVA International- presentation
+---
 **Item 5**
 
 Culture Sub Committee- update
@@ -87,4 +88,5 @@ Date of next meeting
 
 **Community, Leisure and Culture SPC**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

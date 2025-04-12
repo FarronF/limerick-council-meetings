@@ -64,7 +64,8 @@ The Senior Executive Officer, Design and Delivery Services, informed members tha
 
 finance package was being developed. He also informed them that the works would be
 
-carried out on a phased basis, starting with the Old Limerick Road section. As the new---
+carried out on a phased basis, starting with the Old Limerick Road section. As the new
+---
 2
 
 secondary school in Croom will be opening in the near future this will advance the
@@ -135,7 +136,8 @@ Scheme and Local Improvement Scheme and Other Capital Works. The Executive
 
 Engineer also gave a presentation in relation to Housing Maintenance, Unfinished
 
-Housing Estates and Disabled Person and Private House Grants.---
+Housing Estates and Disabled Person and Private House Grants.
+---
 3
 
 Members thanked the roads staff for their ongoing works to maintain the condition of
@@ -206,7 +208,8 @@ the flooding issues in Askeaton. Members noted the report also adding that the
 
 flooding issues needs to be address as houses continue to be flooded each month due to
 
-weather conditions.---
+weather conditions.
+---
 4
 
 **9.**
@@ -277,7 +280,8 @@ My Limerick platform as it shows areas which need more funding.
 
 **update from the Mid-West Design Team in Relation to the Adare bypass and the**
 
-**proposed roundabout at the Lantern Lodge.**---
+**proposed roundabout at the Lantern Lodge.**
+---
 5
 
 **REPLY:**
@@ -350,7 +354,8 @@ This question was moved to the next meeting.
 
 This question was moved to the next meeting.
 
-**NOTICES OF MOTION**---
+**NOTICES OF MOTION**
+---
 6
 
 **17.**
@@ -431,7 +436,8 @@ proposed to consider looking at the possibility of designing the uniform
 
 Scheme referred to above in the current year. Members will, of course,
 
-be consulted in relation to same.---
+be consulted in relation to same.
+---
 7
 
 **18.**
@@ -506,7 +512,8 @@ could do the works if a scheme was made available.
 
 **Correspondence**
 
-Correspondence, as circulated, was noted.---
+Correspondence, as circulated, was noted.
+---
 8
 
 Members expressed their disappointment in the response from the Environmental
@@ -563,4 +570,5 @@ Signed :
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

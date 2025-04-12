@@ -56,7 +56,8 @@ the current situation with regard to policing during the Covid 19 pandemic. She 
 
 the reduction in crime statistics in 2020 and the associated Covid 19 Regulations which were
 
-in place which may have attributed to a reduction in crime.---
+in place which may have attributed to a reduction in crime.
+---
 2
 
 She noted the cases which the Gardai have dealt with including burglaries, property crime,
@@ -125,7 +126,8 @@ risk during the Covid 19 pandemic and acknowledged the excellent work of the Gar
 
 regard. She also thanked the local community and voluntary groups for their assistance
 
-during the Covid 19 pandemic. She referred to the significant Covid 19 breaches and the high---
+during the Covid 19 pandemic. She referred to the significant Covid 19 breaches and the high
+---
 3
 
 detection rates in the District. She stated that charity work had unfortunately ceased during
@@ -190,7 +192,8 @@ the Superintendent referred to the limited powers the Gardaí have in dealing wi
 
 age group but stated that engagement in the community would commence again when the
 
-restrictions are lifted.---
+restrictions are lifted.
+---
 4
 
 The Director, on behalf of Management and Staff of the Council acknowledged the assistance
@@ -213,4 +216,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

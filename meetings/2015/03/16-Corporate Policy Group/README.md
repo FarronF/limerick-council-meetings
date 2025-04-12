@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-03-16 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/corporate-policy-group)**
+**<a href="https://www.limerick.ie/council/whats-on/corporate-policy-group" target="_blank">Link to meeting</a>**

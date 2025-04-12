@@ -70,7 +70,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -141,7 +142,8 @@ over the decision not to fund oil boilers. A brief discussion took place and fol
 
 it was agreed by all the Members that the Director would write to the Minister for Housing,
 
-Local Government and Heritage with regard to this matter.---
+Local Government and Heritage with regard to this matter.
+---
 3
 
 5.
@@ -208,7 +210,8 @@ The Council wishes to advise that there is only funding in place for the
 
 Consultants fees. The Council are exploring all avenues for funding the
 
-construction of the playground.---
+construction of the playground.
+---
 4
 
 ADJOURNED NOTICE OF MOTION
@@ -279,7 +282,8 @@ Executive Engineer agreed to give an update on the issue at the January meeting.
 
 The Cathoirleach asked if a representative from Roads, Housing and Planning would come
 
-together to address the issues in Collins Park, Abbeyfeale.---
+together to address the issues in Collins Park, Abbeyfeale.
+---
 5
 
 A request was made to have speed ramps installed in Radharc na Feille, Pairc Luachra housing
@@ -312,4 +316,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

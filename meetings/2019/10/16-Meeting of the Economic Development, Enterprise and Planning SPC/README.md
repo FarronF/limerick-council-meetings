@@ -4,4 +4,4 @@
 
 **Date and Time:** 2019-10-16 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-and-planning-spc-14)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-and-planning-spc-14" target="_blank">Link to meeting</a>**

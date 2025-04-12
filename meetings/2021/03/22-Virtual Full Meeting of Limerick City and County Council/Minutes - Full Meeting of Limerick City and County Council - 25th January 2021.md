@@ -68,7 +68,8 @@ Unfortunately, mothers and babies had suffered material and emotional deprivatio
 
 institutions, where infant mortality was rampant and where women felt they had no choice
 
-but to give up their children for adoption.---
+but to give up their children for adoption.
+---
 2
 
 Some 56,000 unmarried mothers, and 57,000 children, had passed through the homes during
@@ -147,7 +148,8 @@ Disposal of Land
 
 Circulated, copy of Statutory Notice dated 19th November, 2020, concerning disposal
 
-of land at Camheen, Mungret, Co. Limerick.---
+of land at Camheen, Mungret, Co. Limerick.
+---
 3
 
 Proposed by Councillor O’Hanlon;
@@ -224,7 +226,8 @@ Proposed by Councillor O’Hanlon;
 
 Seconded by Councillor Galvin;
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -297,7 +300,8 @@ And Resolved:
 
 amended, the Annual Service Delivery Plan 2021 for Limerick City and County Council, as
 
-circulated, be and is hereby adopted.”---
+circulated, be and is hereby adopted.”
+---
 5
 
 (c)
@@ -372,7 +376,8 @@ of Limerick up to 2028, providing a framework on how Limerick would live, grow a
 
 as a City and County, and that there would be a lot of engagement with Councillors and the
 
-public going forward.---
+public going forward.
+---
 6
 
 He then asked the A/Director, Economic Development, to update the Members on the
@@ -447,7 +452,8 @@ preparation of the Draft Development Plan:
 
 implications of COVID-19, as this issue was not previously considered in the National
 
-Planning Framework.”---
+Planning Framework.”
+---
 7
 
 The Members at this point referred to the five Motions on the Agenda – in the names
@@ -526,7 +532,8 @@ policy; and (c) that this Motion be circulated to all local Authorities to discu
 
 The Mayor then proposed the following amended Motion to encompass and capture
 
-the varying issues and concerns outlined in the five Motions:---
+the varying issues and concerns outlined in the five Motions:
+---
 8
 
 **“I call upon the Chief Executive** **of Limerick City and County Council to request the**
@@ -605,7 +612,8 @@ be held with the Members to go through each aspect of the Development Plan and a
 
 any issues from Members. The making of the Development Plan was a legal process and had
 
-statutory timelines.---
+statutory timelines.
+---
 9
 
 In relation to queries from Members seeking clarification on ‘social and economic
@@ -686,7 +694,8 @@ and that the Plan could ultimately be made without the approval of Councillors.
 
 approaching 5.30pm and on the proposal of Councillor Galvin, seconded by Councillor
 
-Sheahan (J), Standing Orders were suspended in order to complete the agenda.---
+Sheahan (J), Standing Orders were suspended in order to complete the agenda.
+---
 10
 
 5.
@@ -763,7 +772,8 @@ with the major Greenways running through the County and did not include small ur
 
 greenways. He added that major infrastructure projects needed to be included as objectives
 
-of the Council’s Development Plan.---
+of the Council’s Development Plan.
+---
 11
 
 In response to further queries, the Director, Physical Development, said the Cycle
@@ -840,7 +850,8 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 
 Meeting / Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 12
 
 NOTICES OF MOTION
@@ -917,7 +928,8 @@ was passed by the previous Council and that it was a shameful chapter in the cou
 
 and outlined his own personal experience.
 
-The amended Motion received broad support from the Members.---
+The amended Motion received broad support from the Members.
+---
 13
 
 12.
@@ -1002,7 +1014,8 @@ and added that the issue of horse control was an urban problem. However, the Dep
 
 of Agriculture was the relevant Body to address this problem and this Department dealt with
 
-rural issues. He added that the Council had regular liaison with An Garda Síochána to address---
+rural issues. He added that the Council had regular liaison with An Garda Síochána to address
+---
 14
 
 this issue and acknowledged the importance of An Garda Síochána’s help in this matter. He
@@ -1039,4 +1052,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

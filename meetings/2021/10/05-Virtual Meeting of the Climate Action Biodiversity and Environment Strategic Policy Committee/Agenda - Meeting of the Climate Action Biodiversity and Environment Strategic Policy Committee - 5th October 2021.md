@@ -24,7 +24,8 @@ The business to be transacted is set out in the appended agenda.
 
 **PLANNING, ENVIRONMENT AND PLACEMAKING DIRECTORATE**
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -81,4 +82,5 @@ this chemical from any contractors who provide weed control / spraying to Limeri
 
 City and County Council and that of our own staff members also, given the possible
 
-health implications of its use on wildlife, domestic pets and people.---
+health implications of its use on wildlife, domestic pets and people.
+---

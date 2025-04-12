@@ -29,7 +29,8 @@ is set out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -54,4 +55,5 @@ I ask this SPC to engage with the Minister for Transport asking that any civil w
 
 on the Limerick/Foynes Rail Line reinstatement will future proof the line to become a
 
-dual line. I ask this to prevent incurring extra costs at later stages.---
+dual line. I ask this to prevent incurring extra costs at later stages.
+---

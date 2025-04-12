@@ -70,7 +70,8 @@ acknowledged the sentiments expressed by the Members in relation to same.
 
 In response to queries raised by the Members, the Meetings Administrator pointed out that
 
-if the Draft Budgetary Plan for the Metropolitan District was not adopted by the Members it---
+if the Draft Budgetary Plan for the Metropolitan District was not adopted by the Members it
+---
 would go forward for inclusion in the overall budgetary process. He also clarified that the
 
 Chief Executive was required to consult with the Corporate Policy Group in terms of the
@@ -91,4 +92,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

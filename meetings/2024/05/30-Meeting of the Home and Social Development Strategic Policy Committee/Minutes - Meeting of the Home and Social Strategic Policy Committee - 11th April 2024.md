@@ -74,7 +74,8 @@ McElligott.
 
 **Proposed:** Cllr. Tom Collopy
 
-**Seconded:** Cllr. Sharon Benson---
+**Seconded:** Cllr. Sharon Benson
+---
 2
 
 **Item 2: Matters arising from the Minutes**
@@ -151,7 +152,8 @@ of those houses and queried the cost planning for the future.
 
 Mr. Kidney answered that LCCC are in the process of tendering the stock condition survey at the
 
-moment.---
+moment.
+---
 3
 
 **Item 4: Defective Concrete Block Schemes**
@@ -218,7 +220,8 @@ there an allowance for contingency. Mr. Nash responded with that replacing a gab
 
 on the area of the wall itself, there are different rates and everything should be included by one
 
-rate.---
+rate.
+---
 4
 
 **Item 5: Housing Delivery Action Plan** **–** **Progress to Date**
@@ -293,7 +296,8 @@ the Council. We are looking to buy land., but majority of social housing is priv
 
 or with the AHB sector. Target 60% New build by LCCC and 40% New build with private land/private
 
-developers.---
+developers.
+---
 5
 
 Cllr. Sheehan was in agreement with Cllr. Leddin in relation to the LDA. Ms. Newell in reply added
@@ -352,4 +356,5 @@ dedication and hard work. Ms. Curley also welcomed Ms. Gillian McNamara, Adminis
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
-**END OF MEETING**---
+**END OF MEETING**
+---

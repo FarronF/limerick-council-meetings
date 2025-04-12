@@ -80,7 +80,8 @@ the Proposed Patrickswell Local Area Plan Alterations and set out the Chief Exec
 
 response to the written submissions received within the statutory timeframe and
 
-recommended that the Patrickswell Local Area Plan be made in accordance with Section---
+recommended that the Patrickswell Local Area Plan be made in accordance with Section
+---
 20 of the Planning and Development Act 2000 (as amended).
 
 Members welcomed the proposed plan and a query was raised in relation to an urban
@@ -163,7 +164,8 @@ Planning & Development Acts 2000-2014 and S.11 of the Roads Act 1993;
 
 1. Caisleann na hAbhann (part of)
 
-2. Castlecourt, Courtbrack Avenue---
+2. Castlecourt, Courtbrack Avenue
+---
 3. Castlewell Close, Courtbrack Avenue
 
 4. Castlewell, Courtbrack Avenue
@@ -248,7 +250,8 @@ sector staying with friends and relatives.
 
 The Deputy Chief Executive stressed that there was no single solution in the area of
 
-housing supports and that the policy around HAP would evolve over time.---
+housing supports and that the policy around HAP would evolve over time.
+---
 In response to issues raised by Members, the Financial Accountant clarified the
 
 following:
@@ -323,7 +326,8 @@ Notice of Motion submitted by Councillor Jerry O’Dea
 
 ***Roxboro and Donoughmore National Schools***.
 
-It was agreed that this motion should be referred to the Metropolitan Area Forum.---
+It was agreed that this motion should be referred to the Metropolitan Area Forum.
+---
 QUESTIONS
 
 **6.**
@@ -406,7 +410,8 @@ Notice of Motion submitted by Councillor Daniel Butler
 
 ***I will move at the next meeting that Limerick City and County Council compile a***
 
-***report on the level of usage of our cycle lanes and develop a strategic plan as to***---
+***report on the level of usage of our cycle lanes and develop a strategic plan as to***
+---
 ***how we encourage cyclists to use them through public consultation.***
 
 The motion was proposed by Councillor Butler and seconded by Councillor Byrne.
@@ -491,7 +496,8 @@ been uncovered in the Abbey Area during road construction and subsequently reint
 
 in Mount St. Oliver and how it would be appropriate to mark same with the erection of a
 
-suitable monument in Mount St. Oliver.---
+suitable monument in Mount St. Oliver.
+---
 **REPLY**:
 
 The Council will arrange a suitable monument to mark those formerly
@@ -576,7 +582,8 @@ made in Irish Water and stressed the need for the Members to protect funding for
 
 Council.
 
-In seconding the motion, Councillor Prendiville pointed out that €400m of road tax---
+In seconding the motion, Councillor Prendiville pointed out that €400m of road tax
+---
 receipts had been given to Irish Water and the Members should fight to retain this
 
 funding.
@@ -655,7 +662,8 @@ Pleanala was due in respect of this site which was now in a derelict condition.
 
 Cmhlr. Ó Ceallaigh noted that, in its present condition, the site was unsightly and
 
-presented health and safety issues.---
+presented health and safety issues.
+---
 **REPLY**:
 
 The Council understands that An Bord Pleanala decision on the Horizon
@@ -734,7 +742,8 @@ Notice of Motion submitted by Councillor Maria Byrne
 
 ***will provide traffic calming measures at Maigue Avenue, Raheen, Limerick.***
 
-It was agreed that this motion should be referred to the Metropolitan Area Forum.---
+It was agreed that this motion should be referred to the Metropolitan Area Forum.
+---
 18.
 
 Correspondence
@@ -745,4 +754,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

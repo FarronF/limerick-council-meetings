@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-04-23 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-environment-spc-23-April)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-environment-spc-23-April" target="_blank">Link to meeting</a>**

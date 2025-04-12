@@ -44,7 +44,8 @@ On the proposal of Cllr McCreesh, seconded by by Cllr O’Hanlon, the minutes of
 
 of the Committee held on the 3rd June, 2016 were unanimously agreed and adopted.
 
-(Image omitted)---
+(Image omitted)
+---
 **Item 2: To Consider the Notice of Motion submitted by Councillor K. Sheahan**
 
 “I will move at the next meeting that the current burial ground bye-laws are amended to
@@ -121,7 +122,8 @@ He acknowledged that there is a challenge between striking a balance in relation
 
 preserving the antiquity and heritage of these cemeteries while also meeting the expressed
 
-wishes of families of the deceased.---
+wishes of families of the deceased.
+---
 The Executive Archaeologist stated that the issues raised by the Members relate to a
 
 number of different Bye-Laws. She stated that Bye Law 28 relates to cemeteries which
@@ -198,7 +200,8 @@ requirement for a meeting with Irish Water wherein the Council members would be
 
 afforded the opportunity to raise their issues and concerns and seek clarification and
 
-certainty in relation to the issues raised above.---
+certainty in relation to the issues raised above.
+---
 The Senior Engineer clarified that Irish Water’s Lead Mitigation Strategy applies to the whole
 
 of the city and county and that orthophosphate treatment would also be rolled out in the
@@ -271,7 +274,8 @@ Mr. Stephen’s stated that the local authority has been guilty of not publicisi
 
 has been done on energy efficiency and renewable energy projects. He highlighted that the
 
-Council is very active in energy efficiency measures e.g. energy efficiency initiatives in---
+Council is very active in energy efficiency measures e.g. energy efficiency initiatives in
+---
 Council buildings, the retrofitting of houses and attempts to reduce dependence on
 
 imported fossil fuels. He also stated that there is a Gas to Energy project in Gortadroma but
@@ -342,4 +346,5 @@ date when more detailed information on the cost of providing water connections a
 
 graveyards was available.
 
-The Meeting then concluded.---
+The Meeting then concluded.
+---

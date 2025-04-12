@@ -70,7 +70,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
@@ -153,7 +154,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -234,7 +236,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -311,7 +314,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -386,7 +390,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 6
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -465,7 +470,8 @@ Planning Strategic Policy Committee dated 25th August, 2023, in relation to meet
 
 of the Committee held on 10th July, 2023.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 7
 
 (ii)
@@ -544,7 +550,8 @@ Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansin
 
 Transportation and Mobility Directorate, dated 2nd August, 2023, enclosing copy of the
 
-Limerick City and County Council Road Traffic (30 km/h Special Speed Limit) Bye-Laws 2023.---
+Limerick City and County Council Road Traffic (30 km/h Special Speed Limit) Bye-Laws 2023.
+---
 8
 
 Proposed by Councillor Novak;
@@ -611,7 +618,8 @@ Notice of Motion submitted by Councillor S. Benson
 
 The Motion was proposed by Councillor Benson, seconded by Councillor O’Donovan
 
-and adopted.---
+and adopted.
+---
 9
 
 7.
@@ -680,7 +688,8 @@ QUESTIONS
 
 Replies to the following Questions on the agenda were circulated to all Members prior
 
-to the Meeting and the Questions were therefore taken as having been dealt with:---
+to the Meeting and the Questions were therefore taken as having been dealt with:
+---
 10
 
 9.
@@ -763,7 +772,8 @@ measures, examples are:
 
  Clare Street to Condell Road Cycleway (Phase 1).
 
- Childers Road Multi-Modal Orbital Corridor.---
+ Childers Road Multi-Modal Orbital Corridor.
+---
 11
 
  Mill Road Corbally Pedestrian and Cyclist Measures.
@@ -840,7 +850,8 @@ Administrative Executive, on 5th September, 2023, stating the following:
 
 *progressing negotiations on a possible renewal/extension of this agreement for*
 
-*a further period.*---
+*a further period.*
+---
 12
 
 *The N69 Foynes to Limerick Road (including Adare By-Pass) is the first major*
@@ -915,7 +926,8 @@ Question submitted by Councillor S. Benson
 
 **with Clare County Council or if there are any plans to connect Coonagh to the Shannon**
 
-**Greenway towards Bunratty.**---
+**Greenway towards Bunratty.**
+---
 13
 
 **REPLY:**
@@ -988,7 +1000,8 @@ Sheahan, A. Teskey
 
 **under the Community Involvement Grant Scheme.**
 
-The Motion was proposed by Councillor Keary and seconded by Councillor Collins (B).---
+The Motion was proposed by Councillor Keary and seconded by Councillor Collins (B).
+---
 14
 
 Councillor O’Donoghue proposed amending the Motion to include the Local
@@ -1063,7 +1076,8 @@ there are future issues with workmanship or payment queries, this is between
 
 the contractor and the applicant and Limerick City and County Council has no
 
-liability.---
+liability.
+---
 15
 
 Under the Revenue Guidance Notes for Government Payments, Local
@@ -1130,7 +1144,8 @@ Notice of Motion submitted by Councillor S. Benson
 
 **FÓRSA and to agree a mechanism for progressing the job evaluation process.**
 
-It was noted that this Motion had already been dealt with earlier in the Meeting.---
+It was noted that this Motion had already been dealt with earlier in the Meeting.
+---
 16
 
 20.
@@ -1187,7 +1202,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting
 
-was available on SharePoint for inspection by the Members.---
+was available on SharePoint for inspection by the Members.
+---
 17
 
 PLANNING AND DEVELOPMENT:
@@ -1204,4 +1220,5 @@ The Register of Decisions on Applications under the Planning and Development Act
 
 **Date:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

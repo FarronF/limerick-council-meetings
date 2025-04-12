@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-03-30 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-workshop-elected-members-municipal-district-adare-rathkeale-6)**
+**<a href="https://www.limerick.ie/council/whats-on/private-workshop-elected-members-municipal-district-adare-rathkeale-6" target="_blank">Link to meeting</a>**

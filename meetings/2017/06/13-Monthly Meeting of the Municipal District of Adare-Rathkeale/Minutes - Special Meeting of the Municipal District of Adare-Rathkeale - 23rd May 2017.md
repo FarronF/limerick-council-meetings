@@ -58,7 +58,8 @@ the Irish Boxing Squad, even though Mr. Keenan was the National Elite 91+KG cham
 
 Members requested the Meeting Administrator to convey their disappointment at this
 
-decision to the Irish Athletic Boxing Association (IABA) and agreed a Notice of Motion---
+decision to the Irish Athletic Boxing Association (IABA) and agreed a Notice of Motion
+---
 calling on the IABA to re-examine the position and provide for a box-off to decide the
 
 national representative in this case.
@@ -73,4 +74,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

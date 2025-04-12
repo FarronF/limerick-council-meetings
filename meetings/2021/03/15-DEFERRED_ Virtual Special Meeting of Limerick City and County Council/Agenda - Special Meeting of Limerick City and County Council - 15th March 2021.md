@@ -18,7 +18,8 @@ Ireland branches in Limerick.
 
 **James Clune,**
 
-**Meetings Administrator.**---
+**Meetings Administrator.**
+---
 We request a Special Meeting of Limerick City and County Council to discuss
 
 the following Motion –
@@ -45,4 +46,5 @@ Councillor P.J. Carey.
 
 Councillor F. Daly.
 
-Councillor J. O’Donoghue.---
+Councillor J. O’Donoghue.
+---

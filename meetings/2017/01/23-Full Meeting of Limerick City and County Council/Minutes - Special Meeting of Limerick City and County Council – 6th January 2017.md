@@ -56,7 +56,8 @@ University of Limerick and was the last surviving member of the Executive
 
 Committee formed to lobby for the institution. The Mayor also referred to
 
-Tony Bromell’s involvement in the setting up of the college that would later---
+Tony Bromell’s involvement in the setting up of the college that would later
+---
 2
 
 become Limerick Institute of Technology (LIT) and was Registrar in Mary
@@ -109,4 +110,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

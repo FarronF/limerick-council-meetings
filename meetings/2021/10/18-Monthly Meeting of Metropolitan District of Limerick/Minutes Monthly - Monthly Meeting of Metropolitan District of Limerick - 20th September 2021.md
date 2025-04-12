@@ -64,7 +64,8 @@ And Resolved:
 
 (a) Circulated, report of the Senior Staff Officer, Housing Support Services dated 30th July, 2021
 
-setting out proposals to dispose of Freehold Interest of premises consisting of a dwelling house---
+setting out proposals to dispose of Freehold Interest of premises consisting of a dwelling house
+---
 2
 
 situate at 81 O’Dwyers Villas, Thomondgate, Limerick and the intention to bring a Section 183
@@ -135,7 +136,8 @@ report had been prepared in accordance with Section 179 3(a) of the Planning and
 
 Act 2000 (as amended) and Part 8 of the Planning and Development Regulations, 2001 (as
 
-amended) and noted that it was proposed to proceed in accordance with Section 5 of the report.---
+amended) and noted that it was proposed to proceed in accordance with Section 5 of the report.
+---
 3
 
 Members welcomed the proposed development and acknowledged the submissions received and
@@ -204,7 +206,8 @@ and acknowledged the input of residents groups in the area.
 
 The report, as circulated, was noted by the Elected Members.
 
-**QUESTIONS**---
+**QUESTIONS**
+---
 4
 
 5.
@@ -303,7 +306,8 @@ through the holding of events and seminars as well as the production of promotio
 
 material and videos. Furthermore, the UID have liaised with auctioneers in the city to
 
-promote the scheme as part of the sales pack for properties within the qualifying area.---
+promote the scheme as part of the sales pack for properties within the qualifying area.
+---
 5
 
 • To support this process the UID operate a “one stop shop” advice clinics for property
@@ -388,7 +392,8 @@ be allocated. At present, the estimated date of completion of the works required
 
 not
 
-available.---
+available.
+---
 6
 
 House 1 – Opening up works and survey has been completed. Issue to Tender in February
@@ -465,7 +470,8 @@ submission.
 
 ***were removed along the cycle lane in Clonmacken and what safety surveys, if any, were carried***
 
-***out prior to removal.***---
+***out prior to removal.***
+---
 7
 
 **REPLY**: Segregation of shoulders and on road cycle lanes by means of kerbs and bollards to
@@ -546,7 +552,8 @@ parts of the County and different properties at any time.
 
 13.
 
-**Question submitted by Councillor J. Costelloe**---
+**Question submitted by Councillor J. Costelloe**
+---
 8
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, in relation to the site at***
@@ -635,7 +642,8 @@ all works on the site will require Ministerial Consent issued by the National Mo
 
 Service. It is the intention that any final design will address and incorporate the line of the
 
-defences. In regard to exposing the gate which seems on the current evidence to actually---
+defences. In regard to exposing the gate which seems on the current evidence to actually
+---
 9
 
 just be an opening in the wall defined by faced breaks, the original ground level is likely to
@@ -720,7 +728,8 @@ included in the CCTV Policy which would have to be followed.
 
 **REPLY**: An extensive adaption of Barrow House has been underway for the past number of
 
-months. Some delays were experienced due to Covid restrictions during this period.---
+months. Some delays were experienced due to Covid restrictions during this period.
+---
 10
 
 The challenge presented by the project was to adapt an existing building that was vacant
@@ -787,7 +796,8 @@ Members by Bus Eireann.
 
 ***as soon as possible.***
 
-The motion was proposed by Councillor Kiely, seconded by Councillor O’Donovan and agreed.---
+The motion was proposed by Councillor Kiely, seconded by Councillor O’Donovan and agreed.
+---
 11
 
 In proposing the motion, Councillor Kiely highlighted the importance of a reliable bus service and
@@ -852,7 +862,8 @@ included in the CCTV Policy which would have to be followed.
 
 It was confirmed that an update on CCTV would be given at the December Meeting of Full Council.
 
-**22.Notice of Motion submitted by Councillor E. Secas**---
+**22.Notice of Motion submitted by Councillor E. Secas**
+---
 12
 
 ***I will move at the next Meeting that the Metropolitan District of Limerick Council call on the***
@@ -923,7 +934,8 @@ Committee for further discussion.
 
 Correspondence was noted and taken as read.
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 13
 
 **Signed:**
@@ -934,4 +946,5 @@ This concluded the Meeting.---
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

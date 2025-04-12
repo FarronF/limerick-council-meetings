@@ -64,7 +64,8 @@ Councillor Benson proposed that the Minutes of the Special Meeting on 5th Februa
 
 signatories of the Requisition for the Meeting. This was seconded by Councillor Sheahan (J),
 
-and agreed. The Meetings Administrator advised that amendments to this motion were---
+and agreed. The Meetings Administrator advised that amendments to this motion were
+---
 2
 
 subsequently proposed and agreed and therefore the minutes correctly reflected the
@@ -151,7 +152,8 @@ the disposal to be by way of Deed of Conveyance of the interest of Limerick City
 
 Council in the property, particulars of which were contained in Statutory Notice dated 25th
 
-January, 2021.”---
+January, 2021.”
+---
 3
 
 (b)
@@ -232,7 +234,8 @@ particulars of which were contained in Statutory Notice dated 22nd February, 202
 
 Circulated, copy of Statutory Notice dated 23rd February, 2021, concerning disposal of
 
-land at 48, Carey’s Road, Limerick.---
+land at 48, Carey’s Road, Limerick.
+---
 4
 
 Proposed by Councillor Sheahan (J);
@@ -313,7 +316,8 @@ Statutory Notice dated 10th March, 2021.”
 
 Circulated, copy of Statutory Notice dated 10th March, 2021, concerning disposal of
 
-land at Loghill, Co. Limerick.---
+land at Loghill, Co. Limerick.
+---
 5
 
 Proposed by Councillor Sheahan (J);
@@ -390,7 +394,8 @@ communities and twinning. The final version of the Annual Report would be brough
 
 the May Meeting of the Council for adoption.
 
-The Report was noted by the Council.---
+The Report was noted by the Council.
+---
 6
 
 (c)
@@ -471,7 +476,8 @@ Queries were raised as to how many RIHL self-builds were applied for and how man
 
 were declined and some specific RHIL cases were also queried. The Director, Support Services,
 
-agreed to follow up with the Members concerned on their specific queries.---
+agreed to follow up with the Members concerned on their specific queries.
+---
 7
 
 Proposed by Councillor Sheahan (K);
@@ -580,7 +586,8 @@ Community/Voluntary
 
 Patrick English
 
-Anglesborough Tidy Towns---
+Anglesborough Tidy Towns
+---
 8
 
 (f)
@@ -657,7 +664,8 @@ on 9th February, 2021.
 
 **That, Limerick City and County Council write to Mr Leo Varadkar, TD, Minister for**
 
-**Enterprise, Trade and Employment, and Mr Eamon Ryan TD, Minister for Transport**---
+**Enterprise, Trade and Employment, and Mr Eamon Ryan TD, Minister for Transport**
+---
 9
 
 **and Minister for the Environment, Climate and Communications calling on them to**
@@ -728,7 +736,8 @@ Committee held on 17th February, 2021; and (ii) Report of the Director, Housing
 
 Development, dated 11th March, 2021, enclosing draft revision to the Limerick City
 
-and County Council Allocation Scheme.---
+and County Council Allocation Scheme.
+---
 10
 
 **Recommendation No. 1**
@@ -797,7 +806,8 @@ Community Development
 
 Bridging Finance – EU LEADER Rural Development Programme/West
 
-Limerick Resources---
+Limerick Resources
+---
 11
 
 Circulated, report signed jointly by the Directors of Support Services and Community
@@ -868,7 +878,8 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 
 Meeting / Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 12
 
 QUESTIONS
@@ -951,7 +962,8 @@ The Forward/Strategic Planning Section will organise a Workshop on rural
 
 housing and the proposed Limerick Development Plan 2022-2028 within the
 
-next few weeks to discuss these issues in more detail.---
+next few weeks to discuss these issues in more detail.
+---
 13
 
 9.
@@ -1088,7 +1100,8 @@ letting. Two of these vacant properties are not categorised.
 
 **2**
 
-**152**---
+**152**
+---
 14
 
 The Single Point of Contact (SPOC) system is being used to record, inspect and
@@ -1155,7 +1168,8 @@ Environment SPC)
 
 It was agreed to refer the Motion to the Climate Action, Biodiversity and Environment
 
-Strategic Policy Committee for consideration.---
+Strategic Policy Committee for consideration.
+---
 15
 
 12.
@@ -1230,7 +1244,8 @@ Notice of Motion submitted by Councillor L. Galvin
 
 The Motion was proposed by Councillor Galvin and seconded by Councillor Sheahan
 
-(J).---
+(J).
+---
 16
 
 In proposing the Motion, Councillor Galvin said he wanted to see a Meat Regulator
@@ -1299,7 +1314,8 @@ Notice of Motion submitted by Councillor S. Benson
 
 **Disability, Integration and Youth, asking him to urgently intervene to find a permanent**
 
-**solution for the children living in the Knockalisheen Direct Provision Centre, who currently**---
+**solution for the children living in the Knockalisheen Direct Provision Centre, who currently**
+---
 17
 
 **have no transport to and from their pre-school following the closure of the on-site pre-**
@@ -1364,7 +1380,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
-available on SharePoint and Alfresco for inspection by the Members.---
+available on SharePoint and Alfresco for inspection by the Members.
+---
 18
 
 PLANNING AND DEVELOPMENT:
@@ -1383,4 +1400,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

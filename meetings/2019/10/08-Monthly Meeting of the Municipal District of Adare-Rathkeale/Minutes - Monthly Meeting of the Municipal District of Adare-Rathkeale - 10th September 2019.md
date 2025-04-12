@@ -62,7 +62,8 @@ All Members were fully supportive of the project and wished them well with their
 
 fundraising which will support the cost of the project. The Deputation then withdrew
 
-from the Meeting.---
+from the Meeting.
+---
 2
 
 **1.**
@@ -137,7 +138,8 @@ beneficial for the elected Members to see for themselves what is achievable on t
 
 Limerick trail. Councillor O’Donoghue felt Members should view the Limerick prior to
 
-the Waterford visit, however, the Director, National and Regional Shared Services---
+the Waterford visit, however, the Director, National and Regional Shared Services
+---
 3
 
 suggested they travel to Waterford initially to see the standard of this complete
@@ -202,7 +204,8 @@ It was agreed Item 13 on the Agenda would be taken next.
 
 **Public Works to establish extensive cleaning of the River Deel and to establish the**
 
-**amount of fish in its waters.**---
+**amount of fish in its waters.**
+---
 4
 
 In proposing the Motion, Councillor Teskey remarked on the amount of rushes growing
@@ -273,7 +276,8 @@ Circulated, report of the Senior Executive Engineer, Design and Delivery dated 3
 
 August, 2019 giving an update in relation to the footpath from Kildimo Village to the
 
-Beer Garden Public House.---
+Beer Garden Public House.
+---
 5
 
 Members expressed their disappointment at the reply received from Design and
@@ -338,7 +342,8 @@ It was agreed to take Item 14 on the Agenda next.
 
 **I will move at the next Meeting that the Adare-Rathkeale area approves of traffic**
 
-**calming measures on Main Street, Pallaskenry.**---
+**calming measures on Main Street, Pallaskenry.**
+---
 6
 
 In proposing the Motion, Councillor O’Brien advised there is a heavy volume of traffic on
@@ -399,7 +404,8 @@ Sinead Flanagan on winning the Rose of Tralee 2019 and to wish her every success
 
 the future.
 
-This was also seconded by Councillor Collins.---
+This was also seconded by Councillor Collins.
+---
 7
 
 **QUESTIONS**
@@ -472,4 +478,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -64,7 +64,8 @@ Seconded by Councillor O’Brien.
 
 Adare-Rathkeale to hold office until the next Annual Meeting or until a successor has been
 
-appointed”.---
+appointed”.
+---
 2
 
 The Meeting Administrator indicated that the question as to which of such candidates would
@@ -129,7 +130,8 @@ Councillor McMahon and O’Brien.
 
 The Cathaoirleach declared Councillor Sheahan elected as Leas-Chathaoirleach of the
 
-Municipal District of Adare-Rathkeale.---
+Municipal District of Adare-Rathkeale.
+---
 3
 
 Councillors O’Donoghue and Sheahan expressed their thanks for their nominations and looked
@@ -146,4 +148,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

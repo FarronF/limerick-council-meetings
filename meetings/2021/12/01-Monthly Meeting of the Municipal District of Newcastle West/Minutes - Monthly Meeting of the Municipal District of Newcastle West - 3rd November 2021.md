@@ -72,7 +72,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -145,7 +146,8 @@ The Members thanked the delegation for their attendance and advised that the mat
 
 raised would be considered and the Council will write a detailed response to the Residents
 
-Association in due course.---
+Association in due course.
+---
 3
 
 The Members noted the proposed school extension and the need for traffic management to
@@ -214,7 +216,8 @@ To consider written request from Broadford Voluntary Housing &
 
 Community Childcare Facility to attend a Meeting of the Municipal
 
-District of Newcastle West.---
+District of Newcastle West.
+---
 4
 
 The Members agreed to the attendance of a delegation at the December Meeting of the
@@ -275,7 +278,8 @@ It should be noted that 11 of the 19 units recorded as vacant in Abbeyfeale are 
 
 process of being transferred to an Approved Housing Body, AHB.
 
-(Image omitted)---
+(Image omitted)
+---
 5
 
 The total number of vacant properties is 23, 7 out of 23 are category 1/2 and 15 are category
@@ -342,7 +346,8 @@ Mountcollins: Total applications: 15 Preference 1: 6 Preference 2: 7 Preference 
 
 **(e)** How many HAP applicants are in each area mentioned above
 
-Abbeyfeale: Total applications: 40---
+Abbeyfeale: Total applications: 40
+---
 6
 
 Athea: Total applications: 7
@@ -405,7 +410,8 @@ No other LCCC housing sites suitable zoned
 
 There is available wastewater treatment capacity in the town.
 
-(Image omitted)---
+(Image omitted)
+---
 7
 
 (b) Athea
@@ -431,7 +437,8 @@ o Site 1: 0.34 ha – 4 units.
 Stage 2 approval received. Commence pre planning in November.
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 8
 
 There is available wastewater treatment capacity in the village.
@@ -457,7 +464,8 @@ There is available wastewater treatment capacity in the village.
 No scheme currently underway in Templeglantine.
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 9
 
 Summary of schemes with stage approvals in the district.
@@ -604,7 +612,8 @@ valuation for the road surfacing of circa €40k does not represent value for
 
 money for the number of housing units on this road. Funding will be looked at
 
-in future years.---
+in future years.
+---
 10
 
 10.
@@ -679,7 +688,8 @@ Question submitted by Councillor J. Scanlan
 
 ***in Newcastle West, (b) is funding earmarked to restore these houses for habitation and (c)***
 
-***what is the precise timeframe for home offers to would be tenants.***---
+***what is the precise timeframe for home offers to would be tenants.***
+---
 11
 
 REPLY:
@@ -764,7 +774,8 @@ no external constraints/delays.
 
 Councillor Scanlan complimented the Housing Section on the clean up which was carried out
 
-to the derelict houses in the District.---
+to the derelict houses in the District.
+---
 12
 
 13.
@@ -835,7 +846,8 @@ District.
 
 NOTICES OF MOTION
 
-15. Notice of Motion submitted by Councillor L. Galvin---
+15. Notice of Motion submitted by Councillor L. Galvin
+---
 13
 
 ***I will move at the next Meeting that this district review/reduce our speed limits on all our***
@@ -904,7 +916,8 @@ the proposal will be further examined by the Active Travel Unit within the
 
 Transportation and Mobility Directorate. Consultation with bus operators
 
-will take place as part of the design process.---
+will take place as part of the design process.
+---
 14
 
 In proposing the Motion, Councillor Scanlan referred to the demand for a bus stop at Barnagh
@@ -977,4 +990,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

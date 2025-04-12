@@ -72,7 +72,8 @@ Councillors Benson, Costelloe, Hartigan and O’Dea.
 
 **Against the Proposal**
 
-Councillors Butler, Collins, Daly, Kilcoyne, Leddin (J), McSweeney, Murphy, O’Hanlon,---
+Councillors Butler, Collins, Daly, Kilcoyne, Leddin (J), McSweeney, Murphy, O’Hanlon,
+---
 2
 
 O’Sullivan, Secas, Sheahan, Sheehan, Slattery and Talukder.
@@ -143,7 +144,8 @@ a vote would be taken on the proposed Amendment.
 
 Councillors Collins, Hartigan, O’Dea, Slattery and Talukder
 
-(5)---
+(5)
+---
 3
 
 **Against the Proposal**
@@ -212,7 +214,8 @@ Murphy, O’Dea, O’Hanlon, O’Sullivan, Secas, Sheahan, Sheehan, Slattery and
 
 **Against the Proposal**
 
-(0)---
+(0)
+---
 4
 
 Proposed by Councillor Daly;
@@ -255,4 +258,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

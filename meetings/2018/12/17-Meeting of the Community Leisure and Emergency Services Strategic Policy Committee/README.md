@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-12-17 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-community-leisure-and-emergency-services-strategic-policy-committee-0)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-community-leisure-and-emergency-services-strategic-policy-committee-0" target="_blank">Link to meeting</a>**

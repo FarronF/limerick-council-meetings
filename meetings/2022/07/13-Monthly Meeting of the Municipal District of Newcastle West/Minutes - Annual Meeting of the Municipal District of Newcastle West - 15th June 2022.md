@@ -62,7 +62,8 @@ The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach o
 
 Municipal District for the coming year.
 
-Proposed by: Councillor Collins---
+Proposed by: Councillor Collins
+---
 2
 
 Seconded by: Councillor Scanlan
@@ -131,7 +132,8 @@ and wished him well in the year ahead.
 
 The Director on behalf of Management and staff also paid tribute to the Cathaoirleach and
 
-Leas-Cathaoirleach and wished them well in the year ahead.---
+Leas-Cathaoirleach and wished them well in the year ahead.
+---
 3
 
 This concluded the Meeting.
@@ -144,4 +146,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

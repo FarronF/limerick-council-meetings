@@ -58,7 +58,8 @@ embarrassed as an Elected Member of Limerick City and County Council with the
 
 report that has been prepared and presented here today following last month’s
 
-Special Meeting. It does not satisfy the requirements of the Motion that was passed---
+Special Meeting. It does not satisfy the requirements of the Motion that was passed
+---
 2
 
 here on 21st October, 2016. This is a disappointing generic report that was basically
@@ -141,7 +142,8 @@ citizens who we are all elected to represent.
 
 I will finish by calling on this Executive to give a definitive and clear timeline for the
 
-issues that I have raised to be addressed.”---
+issues that I have raised to be addressed.”
+---
 3
 
 In response to queries raised by the Members, the Director, Physical Development,
@@ -196,4 +198,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

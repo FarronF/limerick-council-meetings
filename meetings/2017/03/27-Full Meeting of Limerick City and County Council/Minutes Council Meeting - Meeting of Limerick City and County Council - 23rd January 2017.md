@@ -80,7 +80,8 @@ And Resolved:
 
 on Occupational Therapy Services, stated that while there was some capacity available,
 
-she was reviewing the matter in depth and would revert in due course.---
+she was reviewing the matter in depth and would revert in due course.
+---
 2
 
 • The Limerick/Foynes Road Improvements Scheme was referred to. The Chief Executive
@@ -161,7 +162,8 @@ Proposed by Councillor Leddin;
 
 Seconded by Councillor Collins (J);
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That, the approval of the Council be and is hereby given to the disposal of land
@@ -230,7 +232,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Dea;
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, the approval of the Council be and is hereby given to the appointment of Ms.
@@ -299,7 +302,8 @@ Recommendation: That, the Southern Region Waste Co-Ordinator makes a
 
 presentation on the Annual Report on the Southern Region Waste Management
 
-Plan 2015-2021 at a Full Council Meeting in the near future.---
+Plan 2015-2021 at a Full Council Meeting in the near future.
+---
 5
 
 On the proposal of Councillor Hourigan, seconded by Councillor Sheahan (J), the
@@ -364,7 +368,8 @@ recommendation was agreed.
 
 Circulated, report of the Senior Executive Officer, Corporate Services, dated 12th
 
-January, 2017.---
+January, 2017.
+---
 6
 
 Proposed by Councillor Collins (M);
@@ -463,7 +468,8 @@ Circulated, report of the A/Director, Social Development, dated 16th January, 20
 
 together with report of the Chairperson of the Home and Social Development Strategic
 
-Policy Committee dated 16th January, 2017, and Draft Housing Allocation Scheme.---
+Policy Committee dated 16th January, 2017, and Draft Housing Allocation Scheme.
+---
 7
 
 The Chief Executive, in response to queries raised by Members, stated that a lot of
@@ -538,7 +544,8 @@ had gone through an extensive consultation process with a wide variety of stakeh
 
 The business in hand was consideration of the Chief Executive’s Report and the Draft
 
-Scheme.---
+Scheme.
+---
 8
 
 Councillor Prendville expressed the opinion that there was a conflict of interest
@@ -607,7 +614,8 @@ seconded by Cmhlr. Ó Ceallaigh. It was agreed to take the vote in the form of a
 
 hands. As the majority of the Members were not in favour of the Amendment, the Mayor
 
-declared it defeated.---
+declared it defeated.
+---
 9
 
 The Mayor then directed that a Vote would be taken on Amendment No. 2 as
@@ -674,7 +682,8 @@ It was agreed that the Motion as proposed by Councillor Sheahan (J) and seconded
 
 by Councillor Hourigan, would be referred to the next Economic Development, Enterprise
 
-and Planning Strategic Policy Committee for urgent consideration.---
+and Planning Strategic Policy Committee for urgent consideration.
+---
 10
 
 Proposed by Councillor Gleeson;
@@ -739,7 +748,8 @@ Growing Economic and Transport Links - Vision for Shannon Group
 
 • Ireland’s Front Door – the alternative access point to Ireland.
 
-• Ireland’s favourite airport.---
+• Ireland’s favourite airport.
+---
 11
 
 Passenger Growth
@@ -808,7 +818,8 @@ reach destination.
 
 demanded this.
 
-• Less mobile – relatively fewer rent-a-car or bring-a-car; so need to get close.---
+• Less mobile – relatively fewer rent-a-car or bring-a-car; so need to get close.
+---
 12
 
 • If they were to ‘Fly Dublin’ for a 2 or 3 night break, highly unlikely to travel to the West.
@@ -867,7 +878,8 @@ Culture and Arts Sub-Committee
 
 It was noted that this item had been dealt with earlier in the Meeting in conjunction
 
-with Item No. 3(f).---
+with Item No. 3(f).
+---
 13
 
 8.
@@ -952,7 +964,8 @@ Replies to the following Questions on the Agenda were circulated to all Members
 
 prior to the Meeting and the Questions were therefore considered as having been dealt
 
-with:---
+with:
+---
 14
 
 9.
@@ -1025,7 +1038,8 @@ REPLY:
 
 The Schedule for large scale Festivals and Events for 2017 in Limerick City and County (large
 
-as defined as attendance over 20,000):---
+as defined as attendance over 20,000):
+---
 15
 
 Limerick City and County Council Delivered Large-Scale Events
@@ -1106,7 +1120,8 @@ survey revealed an additional 10 to be added to this original list, giving a tot
 
 festivals currently taking place in Limerick. Based on this total list of 80 festivals and events,
 
-the following information can be ascertained:---
+the following information can be ascertained:
+---
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -4264,7 +4279,8 @@ the following information can be ascertained:---
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 12.
 
 Question submit
@@ -6852,7 +6868,8 @@ permission
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 18
 
 2015
@@ -6931,7 +6948,8 @@ Shannon Estuary to Limerick City.
 
 It was agreed to refer this Motion to the Economic Development, Enterprise and
 
-Planning Strategic Policy Committee.---
+Planning Strategic Policy Committee.
+---
 19
 
 15.
@@ -6998,7 +7016,8 @@ I will move at the next Meeting that this Council calls on the Minister for Just
 
 Minister for Transport to look for a full review of the Go-Safe vans in Limerick.
 
-It was agreed that this Motion would be referred to the Joint Policing Committee.---
+It was agreed that this Motion would be referred to the Joint Policing Committee.
+---
 20
 
 19.
@@ -7067,7 +7086,8 @@ Limerick.
 
 It was agreed that this Motion would be referred to the Environment Strategic Policy
 
-Committee.---
+Committee.
+---
 21
 
 23.
@@ -7140,7 +7160,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting
 
-was available on Alfresco for inspection by the Members.---
+was available on Alfresco for inspection by the Members.
+---
 22
 
 PLANNING AND DEVELOPMENT:
@@ -7157,4 +7178,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

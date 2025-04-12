@@ -42,7 +42,8 @@ October, 2023.
 
 Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 19th October, 2023.---
+Relating to the Minutes of the Municipal District Meeting of 19th October, 2023.
+---
 2
 
 3.
@@ -105,7 +106,8 @@ Interpretative Centre.
 
  Assign a directorate that will be responsible for the development and work with
 
-Kilmallock Tourism Development Ltd and other stake holders.---
+Kilmallock Tourism Development Ltd and other stake holders.
+---
 3
 
 QUESTIONS
@@ -126,4 +128,5 @@ l will ask at the next meeting of the Cappamore/Kilmallock Municipal District fo
 
 the possibility of footpath repair and public lighting on the Charleville Road, R515 from Glen
 
-Grove, Kilmallock to Portauns.---
+Grove, Kilmallock to Portauns.
+---

@@ -48,7 +48,8 @@ the 23rd April 2024 were proposed by Cllr. E. O’Donovan and seconded by Cllr. 
 
 and adopted.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Item 2:** **Presentation: Community Hedge cutting Scheme** **–** **John Gannon, S.E.**
@@ -121,7 +122,8 @@ she would like to see a specific time limit for processing applications and an e
 
 law prohibiting hedge cutting if there is a health and safety risk. She also asked if there will be
 
-an update of the scheme before the budget is passed next November.---
+an update of the scheme before the budget is passed next November.
+---
 3
 
 Mr. Gannon stressed this is not a policy, it is a grant scheme. We have to start with conditions
@@ -194,7 +196,8 @@ Mr. B. Kennedy advised that this is a way for multiple landowners to come togeth
 
 confirmed that there is 4,000 km of roads in County Limerick, with 3,000 of them are local roads.
 
-The council also cuts junctions on regional roads. (Contractor cost is €80 per hour approx.).---
+The council also cuts junctions on regional roads. (Contractor cost is €80 per hour approx.).
+---
 4
 
 Regarding multiple landowners, Mr. Kennedy advised that the scheme is to try to incentivise
@@ -265,7 +268,8 @@ Two Notice of Motions (a) & (b) were addressed as part of Item 2.
 
 I will move at the next Meeting that this Local Authority examine the possibility of a
 
-Community Hedge Cutting Grant.---
+Community Hedge Cutting Grant.
+---
 5
 
 **Reply:** Limerick City & County Council is proposing to introduce a Community Hedge
@@ -336,7 +340,8 @@ trees, ditches, hedges and other vegetation growing on their land are not or cou
 
 danger to people using or working on a public road. Examples of hazards might be dead or dying
 
-trees, ditches or hedges interfering with traffic, blocking footpaths, obscuring road signs or---
+trees, ditches or hedges interfering with traffic, blocking footpaths, obscuring road signs or
+---
 6
 
 obscuring a view of the road ahead. The maintenance of verges or margins on regional and local
@@ -409,7 +414,8 @@ commercial vehicles to double park and could have significant impact on business
 
 get deliveries. The Transport Strategy team is working on installing sensors in loading bays to
 
-help commercial drivers locate and book a bay to make it easier to facilitate deliveries. The City---
+help commercial drivers locate and book a bay to make it easier to facilitate deliveries. The City
+---
 7
 
 Transport Plan is currently underway and is incorporating a Delivery Strategy and this Notice of
@@ -476,7 +482,8 @@ Following on from discussion, Mr. Hugh McGrath invited Cllr. Leddin and Cllr. Se
 
 him and Mr. J Gannon for further discussions on the matter. Cllr. Leddin welcomed the response
 
-and the proposal to advance discussion.---
+and the proposal to advance discussion.
+---
 8
 
 **Item 6: Notice of Motion submitted by Councillor P. Doyle (referred from October Metro**
@@ -539,7 +546,8 @@ Mr. Kennedy added that the item can be referred to the Limerick City Centre Task
 
 (chaired by Cllr. Maria O’Donoghue) for consideration. Cllr. Doyle will pass on as an item of
 
-interest to the Limerick City taskforce group for consideration.---
+interest to the Limerick City taskforce group for consideration.
+---
 9
 
 **Item 7: Notice of Motion submitted by Councillor E. Secas (referred from October Metro**
@@ -606,7 +614,8 @@ Limerick City & County Council intends to provide a grant up to a maximum of €
 
 roadside hedge/overhanging trees to be cut with a minimum length of road network to be
 
-incorporated in any application of 5km.---
+incorporated in any application of 5km.
+---
 10
 
 **Item 9: Update on provision of salt to Resident’s Associations during extreme weather**
@@ -649,4 +658,5 @@ services to the NTA and the Transport Strategy Team.
 
 The Chair thanked all for their attendance and contribution. This concluded the business of the
 
-meeting.---
+meeting.
+---

@@ -58,7 +58,8 @@ District.
 
 Councillor Ryan also thanked his Leas Cathaoirleach, Councillor Donegan, for his support
 
-throughout the year.---
+throughout the year.
+---
 2
 
 On taking the Chair, Councillor Egan thanked his proposer and seconder and said he was
@@ -113,4 +114,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

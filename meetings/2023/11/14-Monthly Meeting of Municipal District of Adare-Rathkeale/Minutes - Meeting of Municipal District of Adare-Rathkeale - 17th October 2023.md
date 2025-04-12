@@ -66,7 +66,8 @@ the bypass is complete.
 
 Proposed by Councillor O’Donoghue;
 
-Seconded by Councillor Teskey;---
+Seconded by Councillor Teskey;
+---
 2
 
 And Resolved:
@@ -145,7 +146,8 @@ reconfiguration of carpark.
 
 Councillor O’Brien referred to the investment by Irish Rail for the Limerick to Foynes and
 
-the recent delays in delivering the project due to appeals made through the statutory---
+the recent delays in delivering the project due to appeals made through the statutory
+---
 3
 
 process. Discussion ensued and Councillor Teskey proposed Irish Rail attend the
@@ -220,7 +222,8 @@ Consultants and Designers in consultation with Safety Engineers feel safety issu
 
 have been addressed and added that Transport Infrastructure Ireland are in favour
 
-of cars slowing down at junctions instead of widening junctions.---
+of cars slowing down at junctions instead of widening junctions.
+---
 4
 
  Councillor O’Donoghue asked if there was an alternative other than a grass verge
@@ -287,7 +290,8 @@ allocate the following:
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor O’Brien, it was agreed
 
-to allocate the following:---
+to allocate the following:
+---
 5
 
  €3,000 to Castlerovers FC.
@@ -354,7 +358,8 @@ Road improvement works were delivered on this road through the Local
 
 Improvement Scheme in 2021 by Limerick City and County Council with all
 
-subsequent maintenance requirements on the road being the---
+subsequent maintenance requirements on the road being the
+---
 6
 
 responsibility of the private landowners and not Limerick City and County
@@ -427,7 +432,8 @@ public health.
 
 **Correspondence**
 
-Correspondence was noted and taken as read.---
+Correspondence was noted and taken as read.
+---
 7
 
 **11.**
@@ -476,4 +482,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

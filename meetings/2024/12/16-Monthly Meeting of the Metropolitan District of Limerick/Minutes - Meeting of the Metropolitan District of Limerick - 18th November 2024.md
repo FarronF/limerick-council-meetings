@@ -74,7 +74,8 @@ of new major retailers basing themselves in the city centre in the past twenty y
 
 transport.
 
-They outlined some suggested possible solutions including:---
+They outlined some suggested possible solutions including:
+---
 2
 
  Re-activate the car parking signs to advise numbers of spaces free in the city centre car parks;
@@ -145,7 +146,8 @@ Section 10 of the Local Government Act, 2001”.
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
-amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of---
+amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of
+---
 3
 
 any declaration of interest in any item due for discussion at the Meeting. No such interests were
@@ -312,7 +314,8 @@ IRFU
 
 4
 
-Yes---
+Yes
+---
 4
 
 Patrickswell
@@ -409,7 +412,8 @@ the drinking fountains in the City Centre area are due to take place in the near
 
 ***Orchard Site Part 8 Housing Development and the Pineview, Cliona Park and Cosgrave Park Part***
 
-***8 Housing Developments.***---
+***8 Housing Developments.***
+---
 5
 
 **REPLY**: The Kings Island Walled Town Framework is currently being finalised, this is a non-statutory
@@ -482,7 +486,8 @@ Please find hereunder a breakdown of 4 Bed Units that have been delivered in 202
 
 breakdown of projected delivery of 4 bed units up to 2028**.**  There are a total of 49 no. 4 bed units
 
-projected for delivery up to the end of 2028.---
+projected for delivery up to the end of 2028.
+---
 6
 
 **Table 2**
@@ -673,7 +678,8 @@ to move forward with the next phase of the remediation works at Longpavement.
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for a breakdown of the***
 
-***footpath repairs that have already taken place in Caherdavin in 2024. I also ask if the Council can***---
+***footpath repairs that have already taken place in Caherdavin in 2024. I also ask if the Council can***
+---
 7
 
 ***give an update on future repairs: the areas that are due to have their footpaths repaired and the***
@@ -752,7 +758,8 @@ Service.
 
 3. School of Looking Ltd, were appointed/paid €22,000.00 for Stages 1-3, Initial Proposal
 
-Stage, Shortlisted Competition Stage, Research & Development Stage.---
+Stage, Shortlisted Competition Stage, Research & Development Stage.
+---
 8
 
 4. Whilst there is no current artwork proposed for Thomas Street/O’Connell Street
@@ -823,7 +830,8 @@ Any Active Travel measures on this road will be considered by the Active Travel 
 
 justification is made through the advancing plans to implement a Park & Ride at Mackey
 
-Roundabout.---
+Roundabout.
+---
 9
 
 **17.Question submitted by Councillor U. Gavan**
@@ -902,7 +910,8 @@ commercial rates charges continue to apply.
 
 **REPLY**: Limerick City and County Council, Planning & Placemaking Directorate has had ongoing
 
-engagement with the University of Limerick (UL) over the past 12 to 18 months in relation---
+engagement with the University of Limerick (UL) over the past 12 to 18 months in relation
+---
 10
 
 to their future options for the former Dunnes Stores building on Sarsfield Street, now in use
@@ -975,7 +984,8 @@ Collection which will reflect on “themes” in the exhibition programme and sh
 
 tremendous collection of artwork that the Gallery has acquired and preserved for the
 
-people of Limerick over the last 40 years.---
+people of Limerick over the last 40 years.
+---
 11
 
 Preliminary plans are also in place to mark the 40th anniversary with a series of historical
@@ -1050,7 +1060,8 @@ The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Po
 
 In proposing the Motion, Councillor Secas referred to the large number of emails and messages she
 
-had received in relation to the poor bus service to Annacotty.---
+had received in relation to the poor bus service to Annacotty.
+---
 12
 
 Members supported the Motion and highlighted the difficulties for students and residents in the
@@ -1121,7 +1132,8 @@ opportunity of a ‘One City One Book’ initiative for Limerick city and county
 
 ***points and that it runs a public information campaign in tandem with this to highlight recent***
 
-***speed limit changes.***---
+***speed limit changes.***
+---
 13
 
 The Notice of Motion was proposed by Councillor Hickey-O’Mara, seconded by Councillor
@@ -1188,7 +1200,8 @@ and in wheelchairs when bins were left on footpaths. She also highlighted that b
 
 turned over resulting in rubbish on roads and footpaths.
 
-Members welcomed the introduction of the Pilot Laneway Project.---
+Members welcomed the introduction of the Pilot Laneway Project.
+---
 14
 
 **REPLY**: The Litter Enforcement team take all practical measures for the prevention, control and
@@ -1249,4 +1262,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

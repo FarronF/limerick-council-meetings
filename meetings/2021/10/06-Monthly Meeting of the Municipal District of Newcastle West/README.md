@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-10-06 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-65)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-65" target="_blank">Link to meeting</a>**

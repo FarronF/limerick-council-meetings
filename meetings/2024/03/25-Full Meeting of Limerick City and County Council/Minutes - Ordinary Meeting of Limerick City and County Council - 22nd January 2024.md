@@ -62,7 +62,8 @@ Circulated, copies of draft Minutes of the following Meetings:
 
 (c) Ordinary Meeting of the Council held on 27th November, 2023.
 
-(d) Special Meeting of the Council held on 29th December, 2023.---
+(d) Special Meeting of the Council held on 29th December, 2023.
+---
 2
 
 Proposed by Councillor Collins (M);
@@ -139,7 +140,8 @@ Garryowen, Road, Limerick, to Rose Leo, for the sum of €195.42, the disposal t
 
 Deed of Conveyance of the freehold interest of Limerick City and County Council in the
 
-property, particulars of which were contained in Statutory Notice dated 5th December, 2023.”---
+property, particulars of which were contained in Statutory Notice dated 5th December, 2023.”
+---
 3
 
 (c)
@@ -220,7 +222,8 @@ of €1.00, the disposal to be by way of Deed of Conveyance of the interest of L
 
 County Council in the property, particulars of which were contained in Statutory Notice dated
 
-13th December, 2023.”---
+13th December, 2023.”
+---
 4
 
 (f)
@@ -301,7 +304,8 @@ by way of Deed of Conveyance of the freehold interest of Limerick City and Count
 
 the property, particulars of which were contained in Statutory Notice dated 18th December,
 
-2023.”---
+2023.”
+---
 5
 
 (i)
@@ -380,7 +384,8 @@ of Bernadette Kelly, deceased, for the sum of €299.20, the disposal to be by w
 
 Conveyance of the freehold interest of Limerick City and County Council in the property,
 
-particulars of which were contained in Statutory Notice dated 18th December, 2023.”---
+particulars of which were contained in Statutory Notice dated 18th December, 2023.”
+---
 6
 
 **Rural, Community and Culture Development**
@@ -461,7 +466,8 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of 0.3 acres
 
-(0.123 hectares) of land at Turagh Crescent, Cappamore, Co. Limerick, to Clúid Housing---
+(0.123 hectares) of land at Turagh Crescent, Cappamore, Co. Limerick, to Clúid Housing
+---
 7
 
 Association, for the sum of €127 per unit x 2 (€254), subject to the covenants and conditions
@@ -540,7 +546,8 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of land
 
-comprising 1 acre (Site C) at Kilmallock Business Park, Kilmallock, Co. Limerick, to IC Motor---
+comprising 1 acre (Site C) at Kilmallock Business Park, Kilmallock, Co. Limerick, to IC Motor
+---
 8
 
 Factors and Tyres Ltd., for the sum of €40,000, particulars of which were contained in
@@ -619,7 +626,8 @@ hectares of land at Dromdarrig, Mungret, Co. Limerick, to Clúid Housing, for th
 
 €1,050,000, particulars of which were contained in Statutory Notice dated 11th January,
 
-2024.”---
+2024.”
+---
 9
 
 (u)
@@ -698,7 +706,8 @@ contained within the sales contract, with all legal and other costs incurred by 
 
 and County Council to be discharged by Clúid Housing Association, particulars of which were
 
-contained in Statutory Notice dated 10th January, 2024.”---
+contained in Statutory Notice dated 10th January, 2024.”
+---
 10
 
 (x)
@@ -777,7 +786,8 @@ Circulated, report of the Director, Support Services, dated 16th January, 2024,
 
 enclosing Draft Annual Service Delivery Plan 2024 for Limerick City and County Council and
 
-including, as an Appendix, a Review of the 2023 Service Delivery Plan.---
+including, as an Appendix, a Review of the 2023 Service Delivery Plan.
+---
 11
 
 Proposed by Councillor Sheahan (J);
@@ -860,7 +870,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 12
 
 “That, in accordance with Section 142 (5) of the Local Government Act, 2001, as
@@ -933,7 +944,8 @@ Policy Committee dated 7th December, 2023, in relation to meeting of the Committ
 
 held on 7th December, 2023.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 13
 
 (iii)
@@ -1010,7 +1022,8 @@ Council approved the attendance of the following Members:
 
 **Carlingford, Co. Louth (24th-26th** **November, 2023):** Councillors O’Hanlon, Daly, Sheehan (C),
 
-Donegan, Sheahan (K), Teskey, Foley, Galvin, Collins (M).---
+Donegan, Sheahan (K), Teskey, Foley, Galvin, Collins (M).
+---
 14
 
 **Carlingford, Co. Louth (12th-14th** **February, 2024):** Councillors Sheahan (K), Teskey, Donegan.
@@ -1089,7 +1102,8 @@ Dooradoyle Road, Ennis Road (two locations), Father Russell Road, High Street
 
 (near the Milk Market), Mill Road, Old Cratloe Road, Plassey Park Road, the
 
-R510 between Quinn’s Cross and the Raheen Roundabout, recently installed---
+R510 between Quinn’s Cross and the Raheen Roundabout, recently installed
+---
 15
 
 at Roden Street (Outside An Mhodhscoil), recently installed at Scoil Mháthair
@@ -1194,7 +1208,8 @@ Question submitted by Councillor C. Sheehan
 
 **how many approved and not approved and how many have been drawn down since the**
 
-**establishment of the scheme.**---
+**establishment of the scheme.**
+---
 16
 
 **REPLY:**
@@ -1281,7 +1296,8 @@ running a series of Community Expo evenings for Limerick in collaboration with
 
 key community stakeholders showcasing the work groups and organisations
 
-carry out in their local communities.---
+carry out in their local communities.
+---
 17
 
 11.
@@ -1360,7 +1376,8 @@ The Council will commence a feasibility study for the former Bank of Ireland
 
 buildings at Rathkeale and Askeaton, and will progress to the relevant consent,
 
-when an appropriate use has been established.---
+when an appropriate use has been established.
+---
 18
 
 14.
@@ -1437,7 +1454,8 @@ PLANNING AND DEVELOPMENT:
 
 The Register of Decisions on Applications under the Planning and Development Act,
 
-2000, as amended, was also available on SharePoint for inspection by the Members.---
+2000, as amended, was also available on SharePoint for inspection by the Members.
+---
 19
 
 ANY OTHER BUSINESS
@@ -1460,4 +1478,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

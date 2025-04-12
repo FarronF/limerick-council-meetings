@@ -4,4 +4,4 @@
 
 **Date and Time:** 2019-11-12 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-joint-policing-subcommittee-municipal-district-adare-rathkeale-1)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-joint-policing-subcommittee-municipal-district-adare-rathkeale-1" target="_blank">Link to meeting</a>**

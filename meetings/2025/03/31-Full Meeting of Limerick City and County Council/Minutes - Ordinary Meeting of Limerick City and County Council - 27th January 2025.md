@@ -64,7 +64,8 @@ noted that this was the Director’s last Plenary Council Meeting and expressed 
 
 appreciation for her commitment and dedication, and her leadership, during that time.
 
-Members noted that Caroline had worked in six Local Authorities and, in latter years, that she---
+Members noted that Caroline had worked in six Local Authorities and, in latter years, that she
+---
 2
 
 was very involved in the implementation of the Directly Elected Mayor with Executive
@@ -133,7 +134,8 @@ responsibility for the bin, its contents, spreading, etc. However, its applicati
 
 effectiveness, maintenance and the impact on resources and budget will have
 
-to be assessed in consideration for both the City and County.---
+to be assessed in consideration for both the City and County.
+---
 3
 
 22.
@@ -216,7 +218,8 @@ Authorities to support emergencies and, in particular, people in need. He also a
 
 the need for more funding to repair damage done to road surfaces during the recent weather
 
-events.---
+events.
+---
 4
 
 The Motion was seconded by Councillor Galvin.
@@ -291,7 +294,8 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 The Motion was proposed by Councillor Scanlan, seconded by Councillor Daly, and
 
-adopted.---
+adopted.
+---
 5
 
 1.
@@ -366,7 +370,8 @@ December, 2024.”
 
 Circulated, copy of Statutory Notice dated 23rd December, 2024, concerning disposal
 
-of 0.326 acres (0.1321 hectares) of land at Gilmartin, Murroe, Co. Limerick.---
+of 0.326 acres (0.1321 hectares) of land at Gilmartin, Murroe, Co. Limerick.
+---
 6
 
 Proposed by Councillor Collins (M);
@@ -447,7 +452,8 @@ in Statutory Notice dated 20th December, 2024.”
 
 Circulated, copy of Statutory Notice dated 23rd December, 2024, concerning disposal of
 
-land at Brewery Lane, Askeaton, Co. Limerick.---
+land at Brewery Lane, Askeaton, Co. Limerick.
+---
 7
 
 Proposed by Councillor Collins (M);
@@ -522,7 +528,8 @@ Councillors Benson, Collins (B), Collins (M), Donoghue, Foley, Gavan, Hartigan (
 
 O’Mara, Kilcoyne, Leddin, Moran, O’Donoghue, O’Donovan, O’Hanlon, Pond, Reale, Ryan (E),
 
-Ryan (M), Secas, Slattery, Talukder, Teefy, Ward.  **(23)**---
+Ryan (M), Secas, Slattery, Talukder, Teefy, Ward.  **(23)**
+---
 8
 
 **Against**
@@ -597,7 +604,8 @@ Proposed by Councillor Teskey;
 
 Seconded by Councillor Ryan (M);
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, the approval of the Council be and is hereby given to the formal establishment
@@ -670,7 +678,8 @@ for the Local Community Development Committee (LCDC) and following the resignati
 
 sitting member, the PPN ran an election for the available seat. A nomination had been
 
-received from the PPN as set out in the report – Mary McGrath, Hospital Family Resource---
+received from the PPN as set out in the report – Mary McGrath, Hospital Family Resource
+---
 10
 
 Centre, replacing (Leona O’Callaghan of the Haven Hub) – representing the Social Inclusion
@@ -815,7 +824,8 @@ And Resolved:
 
 Strategic Policy Committees as follows and as set out in the report of the Senior Executive
 
-Officer, Corporate Services, Governance and Customer Services dated 17th January, 2025:---
+Officer, Corporate Services, Governance and Customer Services dated 17th January, 2025:
+---
 11
 
 **Economic**
@@ -958,7 +968,8 @@ for Limerick and informed the Members that Limerick City and County Council’s 
 
 Ryder Cup 2027 event was to act as a gatekeeper ensuring service requirements were in place,
 
-and to engage with all stakeholders to achieve the best outcome for Limerick. She stressed---
+and to engage with all stakeholders to achieve the best outcome for Limerick. She stressed
+---
 12
 
 the importance of putting our best foot forward to reimagine Limerick as a destination for the
@@ -1031,7 +1042,8 @@ TV audience, and agreed that Limerick needed to put their best foot forward in p
 
 this event.
 
-In response to the presentation, the following items were raised by the Members:---
+In response to the presentation, the following items were raised by the Members:
+---
 13
 
  Members congratulated Ballyneety Golf Club on being selected as host of the Junior
@@ -1116,7 +1128,8 @@ At the conclusion of the discussion on the Ryder Cup event 2027, the Co-ordinato
 
 thanked the Members for their observations and agreed to keep them informed on the
 
-progress in the lead-up to the event. She advised the Members that Limerick City and County---
+progress in the lead-up to the event. She advised the Members that Limerick City and County
+---
 14
 
 Council will continue to work closely with all stakeholders to secure the best outcome for
@@ -1187,7 +1200,8 @@ Conferences
 
 Circulated, reports by Members who had participated at Conference / Seminar /
 
-Meeting / Event.---
+Meeting / Event.
+---
 15
 
 The reports were noted by the Council.
@@ -1252,7 +1266,8 @@ As you will know, I am in regular contact with Uisce Éireann with regard to
 
 other matters, but I would be happy to keep this issue on my agenda with Uisce
 
-Éireann.---
+Éireann.
+---
 16
 
 8.
@@ -1327,7 +1342,8 @@ The work of this task force, established in September 2024, has been led by co-c
 
 Peter Doyle. It focuses on enhancing Limerick’s pro-business environment and supporting
 
-small and medium enterprises (SMEs).---
+small and medium enterprises (SMEs).
+---
 17
 
  A project initiation meeting was held in November 2024 to outline the programme of
@@ -1414,7 +1430,8 @@ Centre and develop new actions to respond to new or on-going challenges. Members
 
 of this groups is being finalised by myself and Cllr Donoghue and the group is also expected
 
-to have its first meeting in mid-February 2025.---
+to have its first meeting in mid-February 2025.
+---
 18
 
 You may be aware that I have already engaged with some stakeholders regarding their
@@ -1495,7 +1512,8 @@ A number of Councillors have already expressed a particular interest in one or m
 
 subject areas. If others also come forward which they are invited to do, I shall endeavour as
 
-new groups are set up to reflect their preferences and willingness to get involved.---
+new groups are set up to reflect their preferences and willingness to get involved.
+---
 19
 
 Of course, I also expect other subject or geographical areas to warrant new groups over my
@@ -1578,7 +1596,8 @@ stakeholders, including Clare County Council, as part of that group. Should The
 
 Black Bridge be identified as being on the emerging preferred route for the
 
-project, then further assessment will follow, and this will be driven by---
+project, then further assessment will follow, and this will be driven by
+---
 20
 
 Waterways Ireland who are managing the scheme for Transport Infrastructure
@@ -1641,7 +1660,8 @@ I will ask at the next Meeting for resources available to Limerick Council for c
 
 animal welfare issues, including horses, during the recent freezing weather.
 
-(Image omitted)---
+(Image omitted)
+---
 21
 
 **REPLY**:
@@ -1730,7 +1750,8 @@ I will ask at the next Meeting for an update on any additional resources given b
 
 for Limerick winter maintenance programme in 2025 and will additional resources be
 
-required if needed later in year.---
+required if needed later in year.
+---
 22
 
 **REPLY:**
@@ -1807,7 +1828,8 @@ individual mobile library stops as it treats each mobile library service as a si
 
 entity. Therefore, a breakdown of statistics for individual mobile stops is not
 
-recorded by the library management system.---
+recorded by the library management system.
+---
 23
 
 17.
@@ -1884,7 +1906,8 @@ of their staff, customers, service users and everyone affected by their policies
 
 and plans. The Act states: 2(1) A public body shall, in the performance of its
 
-functions, have regard to the need to—---
+functions, have regard to the need to—
+---
 24
 
 (a) eliminate discrimination,
@@ -1951,7 +1974,8 @@ The Mayor added his support to the Motion and outlined the great campaign curren
 
 running in Limerick for breast-feeding and that consideration could be given to running a
 
-similar campaign on this matter.---
+similar campaign on this matter.
+---
 25
 
 25.
@@ -2034,7 +2058,8 @@ Notice of Motion submitted by Councillor S. Beasley
 
 **cruelty and to further address seizure processes related to the impending ban on XL Bully**
 
-**dogs.**---
+**dogs.**
+---
 26
 
 The Motion was proposed by Councillor Beasley and seconded by Councillor
@@ -2101,7 +2126,8 @@ The Correspondence circulated with the Agenda was taken as read.
 
 The Register of Orders made by the Mayor or the Director General up to the date of
 
-the Meeting was available on SharePoint for inspection by the Members.---
+the Meeting was available on SharePoint for inspection by the Members.
+---
 27
 
 **PLANNING AND DEVELOPMENT:**
@@ -2118,4 +2144,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

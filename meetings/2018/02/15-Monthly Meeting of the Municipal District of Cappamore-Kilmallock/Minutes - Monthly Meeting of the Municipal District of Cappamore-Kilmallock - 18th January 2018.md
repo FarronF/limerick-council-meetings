@@ -66,7 +66,8 @@ with the aim of researching and collecting local and family history within the B
 
 Coshlea. The Society’s headquarters was at Ballinvreena Community Hall and they had
 
-undertaken several projects.---
+undertaken several projects.
+---
 2
 
 They informed the Members that their current project was titled “Where did your
@@ -129,7 +130,8 @@ agreed with proposal to allocate €30,000 to Lough Gur Co-Operative Development
 
 Limited for the operation of the Lough Gur Site in 2018, as outlined by the Director. It was
 
-noted that this allocation would come before Full Council in 2018 for formal ratification.---
+noted that this allocation would come before Full Council in 2018 for formal ratification.
+---
 3
 
 QUESTION
@@ -198,7 +200,8 @@ there had been a lot of rainfall recently blocking inlets and gullies, which did
 
 condition of the roads either. Some Members felt that a provision for an allocation to
 
-purchase a grader should be considered which would help alleviate the problem.---
+purchase a grader should be considered which would help alleviate the problem.
+---
 4
 
 The A/Senior Executive Engineer agreed with the Members that the roads were in a
@@ -243,4 +246,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

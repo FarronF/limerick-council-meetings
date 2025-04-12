@@ -82,7 +82,8 @@ Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle
 
 West, held on 10th February, 2023.
 
-Proposed by: Councillor Galvin---
+Proposed by: Councillor Galvin
+---
 2
 
 Seconded by: Councillor Scanlan
@@ -149,7 +150,8 @@ priority will be given to the transfer of water schemes to Uisce Éireann, the p
 
 representative desk is to remain in place and that the whole area of policy is yet to be
 
-determined.---
+determined.
+---
 3
 
 3.
@@ -224,7 +226,8 @@ for Housing Local Government and Heritage to review the Croí Cónaithe scheme t
 
 derelict units that will be refurbished and made ready for the rental market and not just
 
-principle places of residence for the owner”.---
+principle places of residence for the owner”.
+---
 4
 
 4.
@@ -291,7 +294,8 @@ On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agree
 
 On the proposal of Councillor Collins, seconded by Councillor Scanlan, it was proposed to
 
-allocate €500 to drainage issues in Carrickerry.---
+allocate €500 to drainage issues in Carrickerry.
+---
 5
 
 ADJOURNED NOTICE OF MOTION
@@ -358,7 +362,8 @@ Question submitted by Councillor J. Scanlan
 
 ***I will ask at the next Meeting*** ***when reinstatement works are expected to be carried out to***
 
-***the verge of the R521 at Ballynoe.***---
+***the verge of the R521 at Ballynoe.***
+---
 6
 
 REPLY:
@@ -437,7 +442,8 @@ Notices. Consequently, LCCC made applications to An Bord Pleanála for consent t
 
 the sites and the consent was granted by the Board in July 2020. In September 2020, the
 
-Owner was granted leave by the High Court for a judicial review of the An Board Pleanála---
+Owner was granted leave by the High Court for a judicial review of the An Board Pleanála
+---
 7
 
 decision to grant LCCC consent to acquire the sites. LCCC awaits the outcome of this judicial
@@ -508,7 +514,8 @@ change in the bye-laws and agreement from the residents.
 
 In proposing the Motion, Councillor Ruddle requested that double yellow lines be put in front
 
-of the houses across from Oakpark, Estate, Gortboy, Newcastle West, and in replying the---
+of the houses across from Oakpark, Estate, Gortboy, Newcastle West, and in replying the
+---
 8
 
 Executive Engineer agreed to check this matter.
@@ -571,7 +578,8 @@ In proposing the Motion, Councillor Scanlan requested that flashing speed indica
 
 provided on the northern approach to Feohanagh village. A discussion followed on a number
 
-of matters including the use of flashing speed indicator signs and speed ramps in the District.---
+of matters including the use of flashing speed indicator signs and speed ramps in the District.
+---
 9
 
 15. Notice of Motion submitted by Councillor L. Galvin
@@ -640,5 +648,7 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
-10---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
+10
+---

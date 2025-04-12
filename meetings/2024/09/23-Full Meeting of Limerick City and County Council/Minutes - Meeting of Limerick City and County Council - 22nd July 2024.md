@@ -62,7 +62,8 @@ to consider a proposed material contravention of the Croom Local Area Plan 2020-
 
 consisting of light manufacturing, ancillary offices and to include relocation of soccer
 
-pitch and all associated works. Plg. Ref. 24/60/159 refers.---
+pitch and all associated works. Plg. Ref. 24/60/159 refers.
+---
 **2**
 
 2. Pursuant to Section 34(6) of the Planning and Development Act, 2000 (as amended)
@@ -125,7 +126,8 @@ None
 
 There were no Abstentions.
 
-Accordingly, the following resolution was adopted by the same voting:---
+Accordingly, the following resolution was adopted by the same voting:
+---
 **3**
 
 Proposed by Councillor O’Donoghue;
@@ -188,7 +190,8 @@ None
 
 There were no Abstentions.
 
-Accordingly, the following resolution was adopted by the same voting:---
+Accordingly, the following resolution was adopted by the same voting:
+---
 **4**
 
 Proposed by Councillor Collins (B);
@@ -215,4 +218,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

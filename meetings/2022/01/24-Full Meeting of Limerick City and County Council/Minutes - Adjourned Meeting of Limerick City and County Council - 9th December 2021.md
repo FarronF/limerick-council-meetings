@@ -62,7 +62,8 @@ Notice of Motion submitted by Councillor J. Sheahan
 
 **been hampered severely by the COVID-19 pandemic.**
 
-The Motion was proposed by Councillor Sheahan (J) and seconded by Councillor Galvin.---
+The Motion was proposed by Councillor Sheahan (J) and seconded by Councillor Galvin.
+---
 2
 
 In proposing the Motion, Councillor Sheahan (J) referred to the difficulties that local
@@ -137,7 +138,8 @@ Councillors K. Sheahan (Proposer), B. Collins, S. Keary, E. O’Brien, J.
 
 O’Donoghue, A. Teskey **(to be referred to Climate Action, Biodiversity and**
 
-**Environment Strategic Policy Committee)**---
+**Environment Strategic Policy Committee)**
+---
 3
 
 **We will move at the next Meeting that Limerick City and County Council adopt a policy and**
@@ -208,4 +210,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

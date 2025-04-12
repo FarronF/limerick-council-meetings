@@ -22,7 +22,8 @@ appended agenda.
 
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
-(Image omitted)---
+(Image omitted)
+---
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -61,4 +62,5 @@ This should include:
 
 current management.
 
- A tree policy to descripe general and specific policies regarding trees and tree work”.---
+ A tree policy to descripe general and specific policies regarding trees and tree work”.
+---

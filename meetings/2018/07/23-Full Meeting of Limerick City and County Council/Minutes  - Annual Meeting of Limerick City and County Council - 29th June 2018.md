@@ -68,7 +68,8 @@ The outgoing Mayor, Councillor Keary, opened the Meeting by giving the following
 
 **people from across the City and County the opportunity to go back to**
 
-**meaningful employment. This increase in employment has not only seen the**---
+**meaningful employment. This increase in employment has not only seen the**
+---
 2
 
 **rejuvenation of our labour market, but it has also seen a rejuvenation in our**
@@ -167,7 +168,8 @@ The outgoing Mayor, Councillor Keary, opened the Meeting by giving the following
 
 **and to recall times in Limerick’s history when the people united together in the**
 
-**face of people who can never be allowed to erase or rewrite history.**---
+**face of people who can never be allowed to erase or rewrite history.**
+---
 3
 
 **The past twelve months have cemented for me a belief that I have always had**
@@ -260,7 +262,8 @@ The outgoing Mayor, Councillor Keary, opened the Meeting by giving the following
 
 **of the City and County of Limerick has allowed me to make a difference to the**
 
-**future of Limerick.** **Go raibh mile maith agaibh go léir.”**---
+**future of Limerick.** **Go raibh mile maith agaibh go léir.”**
+---
 4
 
 1.
@@ -325,7 +328,8 @@ reasons for the success of Limerick in recent years. He stated the Environment w
 
 issue, as was Crime and Safety of local communities, along with Employment, Housing,
 
-Transport.---
+Transport.
+---
 5
 
 He welcomed his family, friends and supporters to the Chamber and acknowledged their
@@ -386,7 +390,8 @@ Sheehy. **(9)**
 
 Abstention
 
-Councillor Prendivllle. **(1)**---
+Councillor Prendivllle. **(1)**
+---
 6
 
 The Mayor declared Councillor Michael Collins elected as Deputy Mayor of the City and
@@ -473,7 +478,8 @@ The incoming Deputy Mayor, Councillor Collins (M), addressed the Meeting as foll
 
 **Finally, Mayor, I want to thank the outgoing Mayor, Councillor Keary, and his**
 
-**Deputy Mayor, Councillor Hurley, for representing us in the past year. They**---
+**Deputy Mayor, Councillor Hurley, for representing us in the past year. They**
+---
 7
 
 **both served above and beyond the call of duty and for that we are grateful. I**
@@ -528,4 +534,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

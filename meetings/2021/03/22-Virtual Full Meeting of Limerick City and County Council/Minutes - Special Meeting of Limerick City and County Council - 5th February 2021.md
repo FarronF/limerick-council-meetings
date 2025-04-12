@@ -70,7 +70,8 @@ Technology. He said the Government had announced funding for the delivery of its
 
 *Programme for Government,* which mentioned the Coonagh to Knockalisheen Road, and that
 
-a third of the project budget had already been spent on a number of enabling works with---
+a third of the project budget had already been spent on a number of enabling works with
+---
 2
 
 contractors now waiting at the starting line to begin the road proper. He pointed out that the
@@ -147,7 +148,8 @@ road.
 
 this project.
 
- Limerick Institute of Technology was in support of the road being completed.---
+ Limerick Institute of Technology was in support of the road being completed.
+---
 3
 
  The project was not a new project; it was listed in the sign-off in the National
@@ -218,7 +220,8 @@ main link between Longpavement and Coonagh. Progressing the overall road
 
 scheme and upgrading the Knockalisheen Road would avoid this and allow for
 
-significant traffic calming within Moyross;---
+significant traffic calming within Moyross;
+---
 4
 
 o There were significant HGV movements on the Knockalisheen Road and the
@@ -299,7 +302,8 @@ social benefits.
 
 contained a provision to widen two bridges to facilitate twin-track development
 
-within the road scheme.---
+within the road scheme.
+---
 5
 
  It was questioned that should the proposed alternative road project commence,
@@ -364,7 +368,8 @@ physical infrastructure and community centre projects and that there was much mo
 
 She also pointed out the Council had received very positive feedback from the communities
 
-in Regeneration areas about Regeneration initiatives that had been completed.---
+in Regeneration areas about Regeneration initiatives that had been completed.
+---
 6
 
 An amendment to the original Motion was proposed by Councillor O’ Hanlon, and seconded
@@ -431,7 +436,8 @@ None
 
 **Abstentions:**
 
-Councillors Hartigan and Novak. (2)---
+Councillors Hartigan and Novak. (2)
+---
 7
 
 The Mayor declared the Amended Motion proposed by Councillor Leddin and seconded by
@@ -450,4 +456,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

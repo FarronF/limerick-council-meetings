@@ -66,7 +66,8 @@ normal office hours if possible, given its location and the tourism objectives f
 
 queried what objectives had been met in relation to the Expression of Interest document that had
 
-been issued as part of the disposal process, and what options had been considered for the use of---
+been issued as part of the disposal process, and what options had been considered for the use of
+---
 2
 
 the building.
@@ -143,7 +144,8 @@ to the preparation of a Schedule of Municipal District Works and including the D
 
 Municipal District Works 2022 for the Metropolitan District of Limerick.
 
-The Members noted the contents of the proposed Draft Schedule of Municipal District Works 2022---
+The Members noted the contents of the proposed Draft Schedule of Municipal District Works 2022
+---
 3
 
 and the Senior Executive Engineer, Roads, Traffic and Cleansing clarified some queries raised by the
@@ -224,7 +226,8 @@ end of 2022.
 
 ***list in September 2021 and how many people were on the housing list in January 2021.***
 
-**REPLY**:---
+**REPLY**:
+---
 4
 
 March 2022
@@ -307,7 +310,8 @@ demand.
 
 10.
 
-**Question submitted by Councillor S. Benson**---
+**Question submitted by Councillor S. Benson**
+---
 5
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, what is the average waiting***
@@ -390,7 +394,8 @@ route. The Council will make direct representation to the NTA regarding the matt
 
 13.
 
-**Question submitted by Councillor J. Costelloe**---
+**Question submitted by Councillor J. Costelloe**
+---
 6
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on plans for***
@@ -469,7 +474,8 @@ projects with €30,614,647 on social and economic supports.
 
 ***comprehensive legislation on the operation of current and future retirement villages, as already***
 
-***exists in many other jurisdictions and call on the Minister to make a statement on the matter.***---
+***exists in many other jurisdictions and call on the Minister to make a statement on the matter.***
+---
 7
 
 The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Hartigan and
@@ -546,7 +552,8 @@ Park area.
 
 Whilst Members noted the importance of Raheen Business Park for business and employment,
 
-they supported the Motion and expressed concern at the potential impact of pollutants on---
+they supported the Motion and expressed concern at the potential impact of pollutants on
+---
 8
 
 livestock and plant life in the area. Following discussion by the Members, it was proposed by
@@ -613,4 +620,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

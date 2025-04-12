@@ -58,7 +58,8 @@ Limerick County Council in 2006, which was a great honour for him and his family
 
 remembered him as a great public servant and noted Limerick is a better place for the mark
 
-he made on politics.---
+he made on politics.
+---
 2
 
 Members thanked the Mayor for calling the Special Meeting. They acknowledged that Eddie
@@ -107,4 +108,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

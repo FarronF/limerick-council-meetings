@@ -70,7 +70,8 @@ the L1585 beside the National School at Knockrour located 1km from Kilbehenny Vi
 
 system was a septic tank and Bord na Mona Puroflo which served three dwellings. There were
 
-approximately eighteen dwellings/commercial properties in Kilbehenny Village which did not---
+approximately eighteen dwellings/commercial properties in Kilbehenny Village which did not
+---
 2
 
 have a wastewater treatment system. Following a complaint the Environment Section carried
@@ -161,7 +162,8 @@ October, 2016 enclosing the Assessment Report for the Public Consultation Phase 
 
 Limerick City and County Council Road Traffic (30 kilometres per hour Special Speed Limit) Bye-
 
-Laws 2016. The report was noted by the Members.---
+Laws 2016. The report was noted by the Members.
+---
 3
 
 **3.**
@@ -236,7 +238,8 @@ At this point of the Meeting the Cathaoirleach indicated that the Administrative
 
 Property Services would give an update “in committee” to Members on the Old School House,
 
-Grange and the Courthouse, Bruff.---
+Grange and the Courthouse, Bruff.
+---
 4
 
 It was agreed that an update on the Old School House, Grange and the Courthouse, Bruff
@@ -303,7 +306,8 @@ proposals for the N20 Limerick to Cork Motorway were being reviewed.
 
 The Leas-Chathaoirleach took the Chair at this point in the Meeting as the Cathaoirleach had to
 
-leave for another appointment.---
+leave for another appointment.
+---
 5
 
 **QUESTIONS**
@@ -394,7 +398,8 @@ submit an estimated cost for the completion of these works. Once these
 
 reports are finalised they will be issued to the bondholder in order to progress
 
-this claim.---
+this claim.
+---
 6
 
 The Executive Engineer (Mr. J. Moloney) indicated that an estimated costing for the completion
@@ -461,4 +466,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

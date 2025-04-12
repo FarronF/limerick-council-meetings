@@ -68,7 +68,8 @@ consultation was undertaken throughout the summer of 2021 on the Draft Developme
 
 adapting practices to ensure that everyone had an opportunity to get involved in the process.
 
-This included webinars, development of a virtual room, Online meetings held on Zoom, etc.---
+This included webinars, development of a virtual room, Online meetings held on Zoom, etc.
+---
 He confirmed that the next step in the process would be the Special Meeting scheduled for
 
 Friday 18th February where the Members would consider the Draft Plan and the Chief
@@ -149,7 +150,8 @@ the process.
 
 After further discussions and deliberations it was agreed not to formally extend the deadline
 
-for completion to the 5th August 2022 and the Members agreed instead to continue with the---
+for completion to the 5th August 2022 and the Members agreed instead to continue with the
+---
 current process, with Members retaining the option to avail of the additional 54 days for
 
 completion of the Development Plan process, as it went through the various other stages.
@@ -182,4 +184,5 @@ silence at the end of the Meeting as a mark of respect.
 
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Mayor**---
+**Mayor**
+---

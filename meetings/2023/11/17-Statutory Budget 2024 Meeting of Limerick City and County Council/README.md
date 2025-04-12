@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-11-17 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/statutory-budget-2024-meeting-of-limerick-city-and-county-council)**
+**<a href="https://www.limerick.ie/council/whats-on/statutory-budget-2024-meeting-of-limerick-city-and-county-council" target="_blank">Link to meeting</a>**

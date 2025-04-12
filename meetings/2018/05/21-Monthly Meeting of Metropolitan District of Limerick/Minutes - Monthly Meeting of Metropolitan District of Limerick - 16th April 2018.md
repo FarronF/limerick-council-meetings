@@ -72,7 +72,8 @@ community, as well as expert witnesses, in relation to the burning of hazardous 
 
 surrounded by housing, was ignored. The Members commended the work of Limerick Against
 
-Pollution on this issue.---
+Pollution on this issue.
+---
 2
 
 Following discussion, the following notice of motion was agreed:
@@ -151,7 +152,8 @@ John Scanlon and the intention to bring a Section 183 Notice in relation to same
 
 the May Meeting of the Council.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 (e)
@@ -238,7 +240,8 @@ Circulated, Report of Director of Service, Service Operations dated 11th April, 
 
 Chief Executives Report setting out details of conversion of 6 vacant 1 bedroom units into 3 new
 
-2 bedroom units at Chas Flats, Mary Street, Limerick City. The Chief Executive’s Report had been---
+2 bedroom units at Chas Flats, Mary Street, Limerick City. The Chief Executive’s Report had been
+---
 4
 
 prepared in accordance with Section 179(3)(a) of the Planning and Development Act 2000 (as
@@ -319,7 +322,8 @@ At present there remains two important sections of the City Centre Riverside
 
 upgrades to be completed and these include:
 
-• The riverside from Sarsfield Bridge to King Johns Castle---
+• The riverside from Sarsfield Bridge to King Johns Castle
+---
 5
 
 • Footpaths on the Three City Centre Bridges
@@ -400,7 +404,8 @@ public realm in this location and flood protection. It is hoped that this and ot
 
 worthy civic projects can be funded from the new Urban Regeneration Fund
 
-announced by Government in the new National Development Plan 2018 to 2027.---
+announced by Government in the new National Development Plan 2018 to 2027.
+---
 6
 
 **6.**
@@ -489,7 +494,8 @@ The tender was advertised nationally through the e-Tenders website. The
 
 Procurement Regulations (and relevant EU Directives) were used to inform the
 
-procurement process, including the development of Selection and Award criteria.---
+procurement process, including the development of Selection and Award criteria.
+---
 7
 
 Twelve tenders were received and the tender submitted by TBEB Ltd was the most
@@ -584,7 +590,8 @@ development of this strategy.
 
 ***has expired.***
 
-***(iii) Are, or were the Derelict Site Levies suspended until the discussions reached a conclusion.***---
+***(iii) Are, or were the Derelict Site Levies suspended until the discussions reached a conclusion.***
+---
 8
 
 ***(iv) Is the Horizon Mall site still on the Derelict Site list.***
@@ -667,7 +674,8 @@ decrease in the fish stock and also the erosion of the river bank and the proble
 
 to wildlife. Members expressed frustration at the difficulty in identifying who is in charge of the
 
-waterways and the need to support Limerick fishermen. It was agreed that the Council would---
+waterways and the need to support Limerick fishermen. It was agreed that the Council would
+---
 9
 
 write to the ESB and also refer this notice of motion to the Environmental Directorate,
@@ -704,4 +712,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

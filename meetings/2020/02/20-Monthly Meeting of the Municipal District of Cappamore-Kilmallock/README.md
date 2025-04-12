@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-02-20 15:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-57)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-57" target="_blank">Link to meeting</a>**

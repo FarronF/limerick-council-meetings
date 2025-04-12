@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-10-04 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-ordinary-meeting-of-limerick-city-and-county-council)**
+**<a href="https://www.limerick.ie/council/whats-on/adjourned-ordinary-meeting-of-limerick-city-and-county-council" target="_blank">Link to meeting</a>**

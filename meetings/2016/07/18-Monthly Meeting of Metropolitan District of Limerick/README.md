@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-07-18 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-31)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-31" target="_blank">Link to meeting</a>**

@@ -75,7 +75,8 @@ To adopt Minutes of the following Meetings of the Metropolitan District of Limer
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **2.Disposal of Land**
@@ -132,7 +133,8 @@ for the Westfield Wetland’s will come before the Climate and Biodiversity SPC,
 
 estimated budgetary cost required for the implementation of said plan is and an indicative
 
-timeline for implementing the measures of the plan.---
+timeline for implementing the measures of the plan.
+---
 3
 
 **7.Question submitted by Councillor C. Sheehan**
@@ -187,7 +189,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 
 widening of the Golf Links Road by O'Shea's Pub and also an update on the proposed link road
 
-connecting Groody Road to Golf Links Road/Old School House Road.---
+connecting Groody Road to Golf Links Road/Old School House Road.
+---
 4
 
 **14.Question submitted by Councillor E. Secas**
@@ -250,7 +253,8 @@ place with the NTA regarding the additional bus lane in O'Connell Street.
 
 I will ask at the next meeting of the Metropolitan District of Limerick if the Director responsible
 
-could provide leaf cleaning schedule for the City area.---
+could provide leaf cleaning schedule for the City area.
+---
 5
 
 **19.Question submitted by Councillor S. Novak Uí Chonchúir**
@@ -311,7 +315,8 @@ for this road, I am requesting an update on when the improvements works will com
 
 and how long it will take to complete the scheme and if it is anticipated that it will be completed
 
-during 2023.---
+during 2023.
+---
 6
 
 **NOTICES OF MOTION**
@@ -370,7 +375,8 @@ the Minister for Housing, Local Government and Heritage, Darragh O’Brien and t
 
 Micheál Martin outlining the urgent need for the allocation of additional funding to recruit the
 
-additional staff required to deliver affordable housing within our City and County.---
+additional staff required to deliver affordable housing within our City and County.
+---
 7
 
 **31.Notice of Motion submitted by Councillor S. Kiely**
@@ -411,4 +417,5 @@ connecting in to these IDA owned lands and Business Parks.
 
 **35.Correspondence**
 
-(Copy of Correspondence Enclosed)---
+(Copy of Correspondence Enclosed)
+---

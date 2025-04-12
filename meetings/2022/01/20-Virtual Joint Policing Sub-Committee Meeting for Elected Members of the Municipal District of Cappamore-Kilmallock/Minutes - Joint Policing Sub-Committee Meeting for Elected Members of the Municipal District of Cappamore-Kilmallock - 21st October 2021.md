@@ -72,7 +72,8 @@ Crime prevention officer and the media regarding safety in the home continues to
 
 raise awareness of prevention of burglaries. It was noted that a lot of homes still do
 
-not have house alarms.---
+not have house alarms.
+---
 2
 
 It was noted that there were 140 checkpoints in the Municipal District.
@@ -141,7 +142,8 @@ The Elected Members thanked the Superintendents for their presentations, and wel
 
 Superintendent Reidy. Superintendent Reidy also acknowledged the work of
 
-Superintendent John Ryan while he was in his position in Bruff.---
+Superintendent John Ryan while he was in his position in Bruff.
+---
 3
 
 It was noted that at the time of the incident of Anti Social Behaviour in Kilmallock, the CCTV
@@ -208,7 +210,8 @@ A question was raised regarding the availability of Free Legal Aid to repeat off
 
 those found guilty. Superintendent Reidy confirmed that this was a matter for the courts to
 
-decide.---
+decide.
+---
 4
 
 All members thanked the Gardai for all their efforts and work throughout the pandemic to
@@ -229,4 +232,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

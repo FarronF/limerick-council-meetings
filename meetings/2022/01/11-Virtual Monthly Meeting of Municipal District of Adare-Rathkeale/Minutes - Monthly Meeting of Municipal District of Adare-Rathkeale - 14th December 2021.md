@@ -62,7 +62,8 @@ And Resolved:
 
 The Administrative Officer, Dereliction Vacancy and Reuse gave Members a presentation
 
-on the dereliction/vacancy in the Adare-Rathkeale Municipal District.---
+on the dereliction/vacancy in the Adare-Rathkeale Municipal District.
+---
 2
 
 Discussion ensued, Councillor Keary expressed concern that a large portion of properties
@@ -139,7 +140,8 @@ Area Office and agreed to work with staff on this issue.
 
 Proposed by Councillor Teskey;
 
-Seconded by Councillor Collins;---
+Seconded by Councillor Collins;
+---
 3
 
 And Resolved:
@@ -208,7 +210,8 @@ for the Maigue River Walk project. The Senior Executive Engineer, Service
 
 Operations West Division advised there are currently unresolved legal issues
 
-around the installation of CCTV cameras.---
+around the installation of CCTV cameras.
+---
 4
 
  Councillor O’Donoghue requested an update on the issue of parking in Croom.
@@ -279,7 +282,8 @@ This was seconded by Councillor Teskey and agreed.
 
 **Irish Water provide all relevant information for a full breakdown on the issue of the**
 
-**boil water notice in Fedamore village: (1) When and what was detected for the boil**---
+**boil water notice in Fedamore village: (1) When and what was detected for the boil**
+---
 5
 
 **notice to be put in place (2) How many houses/people are affected (3) What has been**
@@ -358,7 +362,8 @@ be boiled before use.
 
 *installed and is presently at commissioning stage. Works are also being*
 
-*undertaken to connect the Fedamore Water Supply Scheme to an adjoining group*---
+*undertaken to connect the Fedamore Water Supply Scheme to an adjoining group*
+---
 6
 
 *scheme which will provide future resilience during drought or interruptions. The*
@@ -431,7 +436,8 @@ Water’ can be used if no other water is available, for as short a time as poss
 
 important to keep babies hydrated. Great care should be taken with boiled water to
 
-avoid burns and scalds as accidents can easily happen, especially with children.---
+avoid burns and scalds as accidents can easily happen, especially with children.
+---
 7
 
 **7.**
@@ -506,7 +512,8 @@ due course.
 
 The motion was proposed by Councillor Sheahan, seconded by Councillor Collins and
 
-agreed.---
+agreed.
+---
 8
 
 **Reply:**
@@ -575,7 +582,8 @@ property is assessed in detail to ‘scope’ the nature and extent of the works
 
 required to be completed.
 
-A cost estimate based upon this scoping is then prepared.---
+A cost estimate based upon this scoping is then prepared.
+---
 9
 
 A bundle of units is then included in a specific Lot and a submission is
@@ -644,7 +652,8 @@ Correspondence was noted and taken as read.
 
  Councillor Collins stated An Bord Pleanála had again pushed out their decision
 
-date for the Limerick to Foynes Road, including the Adare Bypass and requested---
+date for the Limerick to Foynes Road, including the Adare Bypass and requested
+---
 10
 
 the Council plead with them to make a decision as it is impossible to hold events
@@ -665,4 +674,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

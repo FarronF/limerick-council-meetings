@@ -76,7 +76,8 @@ statistics.
 
 The Chairman expressed concern at the increase in figures for the possession of drugs for personal use
 
-and for sale / supply and highlighted the need to retain the Specialist Drugs Units going forward.---
+and for sale / supply and highlighted the need to retain the Specialist Drugs Units going forward.
+---
 In relation to the Newcastle West area, Councillor O’Donoghue queried what measures would be taken
 
 to combat burglaries going into the Winter months. The Chief Superintendent stated that a number of
@@ -147,7 +148,8 @@ Members.
 
 Submitted email from the Office of the Garda Commissioner acknowledging receipt of correspondence
 
-dated 8th June, 2023 in relation to legislation on the introduction of body worn cameras.---
+dated 8th June, 2023 in relation to legislation on the introduction of body worn cameras.
+---
 **5.Question submitted by Councillor Sean Hartigan**
 
 ***I will ask at the next Meeting of the Joint Policing Committee, what action has been taken to address***
@@ -224,7 +226,8 @@ The injured party’s clothing has been pulled or damaged by a dog,
 
 -
 
-The injured party has injured themselves in an attempt to evade an attack by a dog---
+The injured party has injured themselves in an attempt to evade an attack by a dog
+---
 In terms of response time, if that is referring to the investigative process which varies based on the
 
 circumstances of the compliant. Offences under the Control of Dogs Act 1986 would be subject to the
@@ -313,7 +316,8 @@ YTD 2023
 
 17
 
-**51**---
+**51**
+---
 AGS has had a number of successful detections and seizures around the use of scrambler/e scooters
 
 relating to the sale and supply of drugs which are intrinsically linked. Some of these arrests and seizures
@@ -382,7 +386,8 @@ for the remaining pilot duration.
 
 Superintendent Andrew Lacey can give a presentation at the next JPC if members are interested.
 
-10. **Question submitted by Councillor Tom Collopy**---
+10. **Question submitted by Councillor Tom Collopy**
+---
 ***I will ask at the next meeting of the Joint Policing Committee for a progress report on the steps been***
 
 ***taken to address the ongoing and open misuse of drugs and the discarding of drug paraphernalia***
@@ -459,7 +464,8 @@ revert to the core units with 3 members retaining non-core hours.
 
 **12.Notice of Motion submitted by Maurice Quinlivan, T.D. (deferred from Meeting of the Joint Policing**
 
-**Committee held on 2nd** **June, 2023)**---
+**Committee held on 2nd** **June, 2023)**
+---
 ***I will move at the next meeting for the creation of an action plan, similar to Operation Copóg, to target***
 
 ***the ongoing drug dealing and associated crime in the Weston and Prospect areas of Limerick City.***
@@ -526,7 +532,8 @@ Gardai.
 
 Superintendent Joanne O’Brien of the Performance, Assurance & Functional Area, Limerick Garda
 
-Division stated they were seeking submissions for the Limerick Divisional Policing Plan 2024 as part of---
+Division stated they were seeking submissions for the Limerick Divisional Policing Plan 2024 as part of
+---
 their commitment to ongoing engagement with stakeholders within the Limerick Division. Members
 
 were welcome to forward submissions/feedback into the plan.
@@ -539,4 +546,5 @@ a.m.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

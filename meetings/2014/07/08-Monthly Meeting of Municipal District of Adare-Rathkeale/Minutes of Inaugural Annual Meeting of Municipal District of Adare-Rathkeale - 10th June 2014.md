@@ -62,7 +62,8 @@ the coming year. He said he would serve the area of Adare-Rathkeale to the best 
 
 his ability and that one of his main objectives for the year was to work on retaining
 
-and increasing the level of services available through the District office.---
+and increasing the level of services available through the District office.
+---
 2
 
 Members and staff congratulated Councillor Neville and wished him well in his term
@@ -145,7 +146,8 @@ which would commence for the September Meetings. In conclusion, the Members
 
 were advised of Induction Training for Councillors which was being organised by the
 
-Association of Irish Local Governemnt (AILG) for Thursday, 26th June, 2014.---
+Association of Irish Local Governemnt (AILG) for Thursday, 26th June, 2014.
+---
 3
 
 **6.**
@@ -188,4 +190,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

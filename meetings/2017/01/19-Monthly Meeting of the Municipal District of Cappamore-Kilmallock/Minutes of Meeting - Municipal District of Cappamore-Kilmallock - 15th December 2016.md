@@ -64,7 +64,8 @@ The Senior Executive Engineer, Mr. B. Murphy also thanked the Deputation and agr
 
 provide any assistance, subject to funding and in compliance with health and safety.
 
-The Executive Engineer agreed to meet with the Deputation and examine the issues.---
+The Executive Engineer agreed to meet with the Deputation and examine the issues.
+---
 2
 
 **1.**
@@ -139,7 +140,8 @@ ratification.
 
 The Cathaoirleach indicated that he wished to withdraw this item and the matter would be
 
-discussed at the GMA Workshop in January.---
+discussed at the GMA Workshop in January.
+---
 3
 
 **6.**
@@ -218,7 +220,8 @@ opportunities, concerns were raised in relation to the following:
 
  Anti-social behaviour.
 
- Security of property/equipment.---
+ Security of property/equipment.
+---
 4
 
  Safety of persons using the facility in the absence of library staff.
@@ -313,7 +316,8 @@ spaces available, as not all our cemeteries have caretakers.
 
 The existing public lighting in Hospital is currently being assessed and a report
 
-including detailed costs for the replacement of them on the regional road will be---
+including detailed costs for the replacement of them on the regional road will be
+---
 5
 
 completed in January 2017. Due to the large number of lights, it is likely that
@@ -388,7 +392,8 @@ Members congratulated Superintendent William Duane on his appointment to the Dis
 
 extended their good wishes to Inspector Luke Conlon. It was confirmed that Superintendent
 
-Duane would be invited to the January Meeting.---
+Duane would be invited to the January Meeting.
+---
 6
 
 With the Cathaoirleach’s permission, sympathy was extended to the following on their recent
@@ -413,4 +418,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -66,7 +66,8 @@ Councillor Collins (B).
 
 It was proposed by Councillor Sheahan (J), seconded by Councillor Egan to nominate
 
-Councillor Kiely.---
+Councillor Kiely.
+---
 2
 
 It was proposed by Councillor Leddin, seconded by Councillor Ryan (E) to nominate
@@ -139,7 +140,8 @@ Amended) and the requirement to commence the development plan making process wit
 
 12 months of the adoption of the Regional Spatial and Economic Strategy (RSES) for the
 
-Southern Region. The timelines for making the development plan are prescribed in the Act.---
+Southern Region. The timelines for making the development plan are prescribed in the Act.
+---
 3
 
 V. Murray confirmed that the Draft Development Plan would be presented to Elected
@@ -172,4 +174,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

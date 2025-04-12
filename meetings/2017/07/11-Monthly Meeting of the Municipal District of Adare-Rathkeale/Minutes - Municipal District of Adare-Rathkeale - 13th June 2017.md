@@ -64,7 +64,8 @@ brought to the full Council.
 
 It was noted that the Facilitators report on Christmas in Rathkeale was to be considered by the
 
-Management Team.---
+Management Team.
+---
 2
 
 Members referred to previous discussions on the activities of Approved Housing Bodies (AHBs)
@@ -131,7 +132,8 @@ The Senior Architect clarified a number of issues in relation to the Repair and 
 
 and noted that work was ongoing with the Derelict Sites Department to identify properties
 
-that might benefit from the scheme.---
+that might benefit from the scheme.
+---
 3
 
 **2.**
@@ -206,7 +208,8 @@ The Senior Executive Engineer, Physical Development clarified the various method
 
 to control or eliminate the range of invasive plants and members thanked her for her
 
-informative presentation.---
+informative presentation.
+---
 4
 
 **5.**
@@ -275,7 +278,8 @@ House. The report, as circulated was noted by Members.
 
 **REPLY:**
 
-This work has been scheduled for the 8th June, 2017.---
+This work has been scheduled for the 8th June, 2017.
+---
 5
 
 **NOTICES OF MOTION**
@@ -348,7 +352,8 @@ In proposing the Motion Councillor O’Brien noted that he had received represen
 
 regarding road safety in Shanagolden that expressed concerns in relation to the speed of cars
 
-and trucks passing through the square.---
+and trucks passing through the square.
+---
 6
 
 Members supported the Motion and noted the volume of trucks passing through
@@ -423,4 +428,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

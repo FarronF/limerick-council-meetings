@@ -64,7 +64,8 @@ In relation to the question on the Mayoral Chain at Agenda Item No. 6, to note t
 
 to the question being amended by the removal of the word allegedly, subject to legal advice
 
-confirming this.---
+confirming this.
+---
 2
 
 In relation to the works at Ferrybank at Agenda Item No. 7 he had asked why false promises
@@ -143,7 +144,8 @@ Company Ltd. t/a Treaty City Brewery and the intention to bring a disposal notic
 
 relation to same before the May Meeting of the Council.
 
-The item was deferred.---
+The item was deferred.
+---
 3
 
 **3.**
@@ -216,7 +218,8 @@ the plans. In response, the Meetings Administrator stated that, due to the urgen
 
 housing crisis, the report was circulated as soon as it was received so that the development
 
-could be considered at the March Meeting.---
+could be considered at the March Meeting.
+---
 4
 
 **(d)**
@@ -295,7 +298,8 @@ on some city centre premises during the Saint Patrick’s Festival weekend. In r
 
 queries in relation to Limerick being included as a destination on the Wild Atlantic Way route,
 
-Laura Ryan informed the meeting that there was an opportunity to leverage the brand for the---
+Laura Ryan informed the meeting that there was an opportunity to leverage the brand for the
+---
 5
 
 wider catchment area and discussions were ongoing regarding Limerick as a pilot city as a
@@ -368,7 +372,8 @@ support of the Film Festival. It was agreed that, following on from this present
 
 line with normal protocol, the request for funding would be referred to the appropriate
 
-channel for consideration.---
+channel for consideration.
+---
 6
 
 **QUESTIONS**
@@ -471,7 +476,8 @@ at an omnibus/ stopping/ place
 
 At the 12th February 2018, the number of vacant properties in the Metropolitan
 
-area was 28, the breakdown is as follows;---
+area was 28, the breakdown is as follows;
+---
 7
 
 Properties offered awaiting acceptance
@@ -566,7 +572,8 @@ new LED lanterns at a cost of circa €225,000
 
 The deep retrofit of the 100 unit Watergate Flats complex is being delivered on
 
-a phased basis. Phase 1 (56 units) was completed in 2017. This work has---
+a phased basis. Phase 1 (56 units) was completed in 2017. This work has
+---
 8
 
 significantly enhanced the performance, comfort levels and visual amenity of
@@ -641,7 +648,8 @@ information.
 
 Quarterly meetings are being held with representatives of the Disability
 
-Federation of Ireland (DFI) and the following actions have been agreed for 2018.---
+Federation of Ireland (DFI) and the following actions have been agreed for 2018.
+---
 9
 
 • Limerick City and County Council has agreed a work placement programme
@@ -720,7 +728,8 @@ to see if it can be upgraded so that it is interactive and also, that a review i
 
 practice of closing cases with the status commitment given, as this means that there was no
 
-follow up to ensure that the action was carried out.---
+follow up to ensure that the action was carried out.
+---
 10
 
 Following further discussion the Meetings Administrator noted the issues raised and agreed
@@ -767,4 +776,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

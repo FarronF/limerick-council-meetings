@@ -70,7 +70,8 @@ Leaders would meet and formulate a schedule of meetings going forward. Some
 
 Members expressed the need for local Area Meetings. The Meetings Administrator
 
-informed Members that the Council was precluded from setting up Area Committees.---
+informed Members that the Council was precluded from setting up Area Committees.
+---
 **NOTICES OF MOTION**
 
 **3.**
@@ -137,7 +138,8 @@ Members requested that an audit of housing estates not taken in charge be carrie
 
 It was stated that people were paying lots of charges including property tax and that
 
-they deserved to have all necessary services in estates.---
+they deserved to have all necessary services in estates.
+---
 **5.**
 
 **Notice of Motion submitted by Councillors M. Quinlivan, S. Ó Ceallaigh and**
@@ -208,7 +210,8 @@ be issued to Members.
 
 Members queried whether the proposed Notice of Motion referred to all lands or just to
 
-those in Council ownership.---
+those in Council ownership.
+---
 Councillor Butler requested that the Motion go to the full Council in his name and that it
 
 be amended to refer to Council owned lands only.
@@ -223,4 +226,5 @@ Mayor of Limerick
 
 **Date:**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

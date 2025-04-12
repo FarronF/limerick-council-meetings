@@ -60,7 +60,8 @@ Act 2000 (as amended) and Part 8 of the Planning and Development Regulations 200
 
 amended) and noted it is proposed to proceed as indicated in Section 6 of the report. The
 
-scheme was proposed by Councillor Sheahan, seconded by Councillor Collins and agreed.---
+scheme was proposed by Councillor Sheahan, seconded by Councillor Collins and agreed.
+---
 2
 
 **3.**
@@ -131,7 +132,8 @@ requested the TII would attend the June District Meeting to discuss.
 
  Councillor O’Donoghue requested the Road Design Office attend the June District
 
-Meeting to discuss current traffic calming works on the N20 in Banogue.---
+Meeting to discuss current traffic calming works on the N20 in Banogue.
+---
 3
 
 **5.**
@@ -200,7 +202,8 @@ Councillor Teskey raised the issue of a sewerage smell on the new walkway in Bal
 
 and raw sewerage flowing into the stream at this location also. Councillor Teskey
 
-proposed the District write to Irish Water to clarify what the capacity of the sewerage---
+proposed the District write to Irish Water to clarify what the capacity of the sewerage
+---
 4
 
 plant is at the moment and what the capacity is for future connections. This was
@@ -225,4 +228,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

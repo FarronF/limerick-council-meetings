@@ -62,7 +62,8 @@ participate in the proceedings.
 
 The outgoing Cathaoirleach, Councillor O’Donoghue invited nominations for the Office
 
-of Cathaoirleach for the coming year.---
+of Cathaoirleach for the coming year.
+---
 2
 
 Proposed by Councillor Keary;
@@ -121,4 +122,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

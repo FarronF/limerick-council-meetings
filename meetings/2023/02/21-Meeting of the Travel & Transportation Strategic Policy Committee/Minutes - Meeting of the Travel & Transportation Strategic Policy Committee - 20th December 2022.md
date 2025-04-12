@@ -42,7 +42,8 @@ that the implementation can now begin.
 
 Cllr. Secas asked if there is funding ring fenced for projects in the implementation plan.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 Cllr. Mc Sweeney asked who will be funding the maintenance of the Park and Ride infrastructure
@@ -113,7 +114,8 @@ HGVs still pay tolls on M50.
 
 In response to Cllr Novak, Mr. Creegan advised that all routes are indicative and flexible. There
 
-are benefits of rail to Shannon airport however it is some years away yet.---
+are benefits of rail to Shannon airport however it is some years away yet.
+---
 3
 
 Cllr. Mitchell concurred with Cllr. Ryan regarding the omission of the LNDR, citing its importance
@@ -182,7 +184,8 @@ houses, probably being the most difficult for home charging.
 
 Cllr. Ryan asked if the next phase is imminent. He noted Bruff and Kilmallock are on the list and
 
-they are quite close and could be spread out better.---
+they are quite close and could be spread out better.
+---
 4
 
 In response, Mr. Gallagher agreed there are not enough charging points, and charging locations
@@ -253,4 +256,5 @@ Port Company to a future SPC Meeting.
 
 The Chair thanked the presenters and members for their contribution and wished all a Happy and
 
-Peaceful Christmas. The meeting then concluded.---
+Peaceful Christmas. The meeting then concluded.
+---

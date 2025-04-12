@@ -62,7 +62,8 @@ Circulated, report of the Senior Executive Engineer, Service Operations West Div
 
 dated 13th April, 2021 outlining details of works, projects and future projects planned for
 
-the District.---
+the District.
+---
 2
 
 Following discussion the following issues were raised by Members:
@@ -131,7 +132,8 @@ allocate the following:
 
  €1,000 for Captain Thomas Keane Memorial Cup.
 
- €2,500 for Pallaskenry Scout Troop (2020 Allocation).---
+ €2,500 for Pallaskenry Scout Troop (2020 Allocation).
+---
 3
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor Teskey, it was
@@ -196,7 +198,8 @@ also advised David Lamont, Rathkeale Community Council requested to be included 
 
 the Meeting. Members agreed to hold a meeting in committee with Rathkeale
 
-Community Council and An Garda Síochána, followed by the JPC prior to the May---
+Community Council and An Garda Síochána, followed by the JPC prior to the May
+---
 4
 
 Monthly Meeting to be held on the 11th May, 2021. The Meetings Administrator agreed
@@ -257,4 +260,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

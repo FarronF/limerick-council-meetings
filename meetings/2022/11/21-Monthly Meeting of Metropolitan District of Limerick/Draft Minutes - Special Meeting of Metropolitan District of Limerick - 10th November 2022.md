@@ -76,7 +76,8 @@ Sarsfield House to be included in plans. Other Members looked for details on the
 
 proposed pedestrian bridges and queried if the Condell Road area was included in the Cleeves
 
-project.---
+project.
+---
 2
 
 The Director, Planning, Environment and Place-Making and Senior Executive Engineer, Place-
@@ -153,7 +154,8 @@ this proposal.
 
 Members complimented the business owners in Foxes Bow on the work carried out in the area,
 
-and acknowledged the assistance given to them by the Council.---
+and acknowledged the assistance given to them by the Council.
+---
 3
 
 **King’s Island Walled Town – Nicholas Street Rejuvenation Works**
@@ -232,7 +234,8 @@ together with Members and other Departments to achieve this.
 
 The Director, Planning, Environment and Place-Making gave a PowerPoint Presentation on the High
 
-Street and Milk Market area. She outlined details of the provisional funding allocation of €6.325m---
+Street and Milk Market area. She outlined details of the provisional funding allocation of €6.325m
+---
 4
 
 from the URDF, and pointed out work that had been carried out to date, including engagement with
@@ -269,4 +272,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -46,7 +46,8 @@ on 5th September 2024.
 
 2.
 
-Matters Arising---
+Matters Arising
+---
 2
 
 3.
@@ -103,7 +104,8 @@ Notice of Motion submitted by Councillor Conway
 
 footpath be extended from Abbeyowney Estate, Murroe to the village, for the safety of all road
 
-users and pedestrians.”---
+users and pedestrians.”
+---
 3
 
 9.
@@ -158,7 +160,8 @@ junction.”
 
 considerable development contribution in respect of the proposed childcare facility in Bruff since
 
-planning permission has been granted for 74 houses to Ballygrennan Homes Ltd”---
+planning permission has been granted for 74 houses to Ballygrennan Homes Ltd”
+---
 4
 
 15.Question submitted by Councillor Conway
@@ -209,4 +212,5 @@ Murroe.”
 
 replace the batteries on the Driver Feedback signs in the Municipal District that are not working
 
-at present.”---
+at present.”
+---

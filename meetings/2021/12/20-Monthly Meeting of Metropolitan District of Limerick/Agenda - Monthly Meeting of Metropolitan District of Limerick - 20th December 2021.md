@@ -75,7 +75,8 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **2.Disposal of Land**
 
 To note proposal for the disposal of land as follows:
@@ -134,7 +135,8 @@ Council consider the closure of Little William Street to through traffic from Wi
 
 Street and place automated bollards to facilitate controlled deliveries and emergency access, such
 
-a closure will improve the safety of pedestrians.---
+a closure will improve the safety of pedestrians.
+---
 2
 
 **5.Question submitted by Councillor S. Kiely**
@@ -187,7 +189,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick what pro
 
 with relevant stakeholders on the redevelopment of the cities disused railway network to facilitate
 
-smarter travel options.---
+smarter travel options.
+---
 3
 
 **12.Question submitted by Councillor E. Secas**
@@ -236,7 +239,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 
 road from Clarina Roundabout to Red Brick Lodge, these improvement works are due to commence
 
-in 2022.---
+in 2022.
+---
 4
 
 **NOTICES OF MOTION**
@@ -299,7 +303,8 @@ to TII to explore the possibilities of each Councillor having 50 percent of the 
 
 on land banks along the Motorway to serve towards absorbing carbon emissions from traffic on the
 
-Motorway.---
+Motorway.
+---
 5
 
 **23.Notice of Motion submitted by Councillor D. McSweeney**
@@ -312,4 +317,5 @@ District.
 
 **24.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

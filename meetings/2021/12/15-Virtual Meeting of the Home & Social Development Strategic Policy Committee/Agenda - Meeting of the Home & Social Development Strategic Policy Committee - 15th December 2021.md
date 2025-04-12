@@ -40,4 +40,5 @@ the scourge of empty houses.
 
 7. AOB
 
-Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council---
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+---

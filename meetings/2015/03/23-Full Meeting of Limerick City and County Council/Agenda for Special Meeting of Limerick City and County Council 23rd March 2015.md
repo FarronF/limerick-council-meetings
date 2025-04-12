@@ -48,7 +48,8 @@ Special Meeting of the Council held on 23rd February, 2015.
 
 Fixing of Date
 
-To consider re-fixing date of Annual Meeting to Friday, 26th June, 2015.---
+To consider re-fixing date of Annual Meeting to Friday, 26th June, 2015.
+---
 2
 
 3.
@@ -153,7 +154,8 @@ the Year Ended 31st December, 2013.
 
 •
 
-Limerick County Council Statutory Audit Report 2013.---
+Limerick County Council Statutory Audit Report 2013.
+---
 3
 
 (c)
@@ -232,7 +234,8 @@ To note the Local Community Development Committee Annual Report
 
 2014.
 
-(Report Enclosed)---
+(Report Enclosed)
+---
 4
 
 (b)
@@ -305,7 +308,8 @@ To consider report on Site Visit to Gasification Facility in Morcenx,
 
 France.
 
-(Report Enclosed)---
+(Report Enclosed)
+---
 5
 
 8.
@@ -372,7 +376,8 @@ Letterkenny, Co. Donegal from 26th to 28th February, 2015.
 
 Conference “EU Support Programmes for Irish Regions” held in
 
-Carlingford, Co. Louth, from 27th February to 1st March, 2015.---
+Carlingford, Co. Louth, from 27th February to 1st March, 2015.
+---
 6
 
 (c)
@@ -453,7 +458,8 @@ up work has occurred on these developments consequent to granting of any
 
 extensions, and (f) in the case of those without bonds, what action is being
 
-taken to procure funding required to complete these developments.---
+taken to procure funding required to complete these developments.
+---
 7
 
 NOTICES OF MOTION
@@ -514,7 +520,8 @@ I will move at the next Meeting that this Council would support the call to have
 
 the Voluntary Health Insurance (VHI) give its full support to the proposal to
 
-have a Private Community Hospital built at the Dock Road, Limerick.---
+have a Private Community Hospital built at the Dock Road, Limerick.
+---
 8
 
 Notice of Motion submitted by Councillor E. Ryan
@@ -579,7 +586,8 @@ I will move at the next Meeting that Limerick City and County Council call on
 
 the Ministers for Agriculture and Finance to reinstate the Early Retirement
 
-Scheme and Installation Grant for our Farming Communities.---
+Scheme and Installation Grant for our Farming Communities.
+---
 9
 
 Notice of Motion submitted by Councillor S. Browne
@@ -650,4 +658,5 @@ Committee)
 
 **Correspondence.**
 
-(Copy of Correspondence Enclosed)---
+(Copy of Correspondence Enclosed)
+---

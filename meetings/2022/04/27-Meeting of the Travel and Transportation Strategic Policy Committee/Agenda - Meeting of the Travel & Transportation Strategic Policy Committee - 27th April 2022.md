@@ -29,7 +29,8 @@ out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **1.National Transport Authority (NTA) Briefing:**
@@ -98,4 +99,5 @@ allocation for disabled drivers?
 
 
 
-When will the next review take place?---
+When will the next review take place?
+---

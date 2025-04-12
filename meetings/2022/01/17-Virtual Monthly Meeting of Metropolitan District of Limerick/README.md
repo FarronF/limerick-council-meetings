@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-01-17 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-81)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-81" target="_blank">Link to meeting</a>**

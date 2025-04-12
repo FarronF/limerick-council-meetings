@@ -52,7 +52,8 @@ Seconded by Councillor E.Ryan;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2. Matters Arising
 
 The Cathaoirleach, Michael Donegan congratulated Councillor Mitchell on behalf of the
@@ -93,7 +94,8 @@ a 25 year lease to Kilmallock Tourism Development.
 
 (c) Disposal of former library building, Caherconlish, Co. Limerick.
 
-The reports as circulated, were noted by the Members.---
+The reports as circulated, were noted by the Members.
+---
 5. Planning, Environment and Place Making Directorate
 
 Local Authority Climate Action Plan
@@ -154,7 +156,8 @@ and Councillor Martin Ryan proposed a motion be forwarded from the Cappamore-
 
 Kilmallock Municipal District for inclusion on the Agenda for the next full Council meeting as
 
-follows:---
+follows:
+---
 “I will move at the next meeting that Limerick City and County Council make representations
 
 to the Minister of Environment, Heritage and Local Government and the Minister for
@@ -209,7 +212,8 @@ dwellings, under the following circumstances –
 
 (downsizing);
 
-(c) medical/compassionate reasons;---
+(c) medical/compassionate reasons;
+---
 (d) on grounds of anti-social behaviour where the Housing Authority’s Estate
 
 Management Unit and a Superintendent of An Garda Siochana support the transfer
@@ -258,7 +262,8 @@ all transfer applications submitted to the Council, save in the following cases:
 
 Following the discussion, if a tenant requests a form to be issued, a form is issued and a
 
-note recorded of the discussion.---
+note recorded of the discussion.
+---
 8.Question submitted by Councillor Carey
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District as to what
@@ -299,7 +304,8 @@ With respect to energy efficiency retrofit, the most recent energy efficiency re
 
 programme ran from Qtr. 3 2022 to end of Qtr. 2 2023, it is now concluded.
 
-The scheme included 4 units in Murroe and 6 units in Ballylanders.---
+The scheme included 4 units in Murroe and 6 units in Ballylanders.
+---
 10. Question submitted by Councillor Donegan
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District for a schedule
@@ -360,7 +366,8 @@ identified works to progress. In addition, it should also be noted that the impl
 
 traffic measures requires a public consultation process to be followed.
 
-**Seconded: Cllr M Ryan**---
+**Seconded: Cllr M Ryan**
+---
 12. Notice of Motion submitted by Councillor Teefy
 
 I will move at the next meeting of the Cappamore-Kilmallock Municipal District that an
@@ -411,7 +418,8 @@ Football final in Dublin on Sunday 30th July.
 
  Cathaoirleach Michael Donegan congratulated Roisin Wiley who is representing New
 
-York in the 2023 Rose of Tralee festival. Her father Eddie Wiley is a native of Kilmallock.---
+York in the 2023 Rose of Tralee festival. Her father Eddie Wiley is a native of Kilmallock.
+---
  Councillor Donegan proposed as Cathaoirleach of the Cappamore-Kilmallock Municipal
 
 District to write to the Curator of the National Museum of Ireland to request the
@@ -444,4 +452,5 @@ Signed : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

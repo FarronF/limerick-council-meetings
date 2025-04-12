@@ -66,7 +66,8 @@ of respect.
 
 Cappamore.
 
-• The Finn Family, Corbally, Limerick, on the death of John Finn.---
+• The Finn Family, Corbally, Limerick, on the death of John Finn.
+---
 2
 
 1.
@@ -139,7 +140,8 @@ accommodation and transitional family hub by November 2017.
 
  132 individuals in temporary emergency hostel accommodation, i.e. McGarry House,
 
-St. Patrick’s Hostel, Thomond House, Temporary Emergency Provision.---
+St. Patrick’s Hostel, Thomond House, Temporary Emergency Provision.
+---
 3
 
  Option of providing demountable accommodation was being examined for
@@ -208,7 +210,8 @@ out position on all sites across City and County.
 
 The A/Director summarised the position in relation to the Housing Delivery
 
-Programme as follows:---
+Programme as follows:
+---
 4
 
  2,045 units required by 2021 under the new Social Housing Programme
@@ -285,7 +288,8 @@ Prendiville, Scanlan, Sheahan (J), Sheahan (M), Teskey. **(14)**
 
 **Abstention**
 
-Councillor Daly.  **(1)**---
+Councillor Daly.  **(1)**
+---
 5
 
 The Mayor declared the proposal to proceed with the Agenda as carried and it was
@@ -360,7 +364,8 @@ Development Association CLG, for the sum of €1,000 per annum, the disposal to 
 
 of a 35 year sub-lease and subject to the covenants and conditions contained therein,
 
-particulars of which were contained in Statutory Notice dated 13th September, 2017.”---
+particulars of which were contained in Statutory Notice dated 13th September, 2017.”
+---
 6
 
 (d)
@@ -439,7 +444,8 @@ relation to Local Property Tax – Local Adjustment Factor 2018.
 
 At the outset of discussion on this item, on the proposal of Councillor Sheahan (J),
 
-seconded by Councillor Galvin, it was agreed to take a 20-minute adjournment.---
+seconded by Councillor Galvin, it was agreed to take a 20-minute adjournment.
+---
 7
 
 **Suspension of Standing Orders:** On resumption, the Mayor drew attention to the time
@@ -536,7 +542,8 @@ Promotion
 
 €200,000
 
-He concluded by outlining proposals for 2018 expenditure.---
+He concluded by outlining proposals for 2018 expenditure.
+---
 8
 
 Councillor Prendiville proposed that the Council call on the Minister to restore the
@@ -601,7 +608,8 @@ The Mayor then directed that a vote by taken on Amendment No. 2, proposed by
 
 Councillor Sheahan (J), seconded by Councillor Galvin, to vary the basic rate of LPT upwards
 
-by 10% for 2018.---
+by 10% for 2018.
+---
 9
 
 A vote was taken which resulted as follows:
@@ -658,7 +666,8 @@ Revenue Commissioners.
 
 On the proposal of Councillor O’Hanlon, seconded by Councillor Sheahan (J), it was
 
-agreed to take a further 10-minute adjournment.---
+agreed to take a further 10-minute adjournment.
+---
 10
 
 On resumption, the Meetings Administrator referred to the item as set out on the
@@ -735,7 +744,8 @@ The report went on to list the projects that were being recommended to the Counc
 
 for approval. Section 66 of the Local Government Act, 2001, as amended, provided for the
 
-approval of such grants.---
+approval of such grants.
+---
 11
 
 The Meetings Administrator pointed out that he had been notified that the ‘Milford
@@ -798,7 +808,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting
 
-was available on Alfresco for inspection by the Members.---
+was available on Alfresco for inspection by the Members.
+---
 12
 
 PLANNING AND DEVELOPMENT:
@@ -815,4 +826,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

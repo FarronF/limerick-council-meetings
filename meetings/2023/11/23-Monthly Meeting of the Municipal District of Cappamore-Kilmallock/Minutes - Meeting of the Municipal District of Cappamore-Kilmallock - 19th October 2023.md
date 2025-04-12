@@ -58,7 +58,8 @@ Francis "Honey Fitz" Fitzgerald.
 
 It was agreed that follow up in relation to the submission to the protocol committee would
 
-take place.---
+take place.
+---
 Councillor Mitchell advised that contact had been made by the Mayors Office with Mr Joe
 
 Kennedy’s office ( United States Special Envoy to Northern Ireland), with a view to a possible
@@ -113,7 +114,8 @@ To note proposal for the disposal of land as follows:-
 
 Purchase of Freehold: - 2 Crawford Street, Bruff, Co Limerick.
 
-The reports as circulated, were noted by the Members.---
+The reports as circulated, were noted by the Members.
+---
 NOTICES OF MOTION
 
 **The meeting was adjourned for 15 minutes by An Cathaoirleach and the press were asked**
@@ -166,7 +168,8 @@ connectivity from the Abbeyowney Estate in Murroe to the village. The Roads Engi
 
 determine the most appropriate solution and an application will be made to the Limerick
 
-Active Travel office/NTA to fund improvement works under annual Active Travel allocations.---
+Active Travel office/NTA to fund improvement works under annual Active Travel allocations.
+---
 9. Notice of Motion submitted by Councillor Teefy
 
 I will move at the next Municipal District meeting that remedial/safety works be carried out
@@ -221,7 +224,8 @@ The Cappamore Kilmallock MD Roads Engineer carries out continual reviews of the 
 
 Any defects on existing road markings or signage on the R513 between Garyspillane and
 
-Ballylanders will be rectified as soon as practicable.---
+Ballylanders will be rectified as soon as practicable.
+---
 12. Question submitted by Councillor Donegan
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District as to when is
@@ -294,7 +298,8 @@ o Space outside recycling centre to be topsoiled and reseeded, and will be
 
 maintained by the local Community Employment Scheme.
 
-o It was requested that the pedestrian crossings are also repainted.---
+o It was requested that the pedestrian crossings are also repainted.
+---
 o A request was made that correspondence be sent to Nora Higgins, Herbertstown, on
 
 her 100th birthday.
@@ -357,4 +362,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

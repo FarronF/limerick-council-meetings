@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-10-19 17:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2018-general-municipal-allocation-gma)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2018-general-municipal-allocation-gma" target="_blank">Link to meeting</a>**

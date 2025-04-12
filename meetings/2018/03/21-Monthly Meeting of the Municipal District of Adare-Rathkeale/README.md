@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-03-21 18:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-adare-rathkeale-34)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-adare-rathkeale-34" target="_blank">Link to meeting</a>**

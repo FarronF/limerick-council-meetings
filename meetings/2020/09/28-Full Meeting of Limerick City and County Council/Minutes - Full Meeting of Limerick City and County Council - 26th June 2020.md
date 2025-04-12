@@ -62,7 +62,8 @@ had passed in recent times.
 
 Adoption of Minutes
 
-Circulated, copies of draft Minutes of the following Meetings:---
+Circulated, copies of draft Minutes of the following Meetings:
+---
 2
 
 (a) Special Meeting of the Council held on 24th January, 2020.
@@ -137,7 +138,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 County Council in the property, particulars of which were contained in Statutory Notice dated
 
-23rd January, 2020.”---
+23rd January, 2020.”
+---
 3
 
 (b)
@@ -222,7 +224,8 @@ February, 2020.”
 
 Circulated, copy of Statutory Notice dated 12th February, 2020, concerning disposal of
 
-land at Ballinveala, Crecora, Co. Limerick.---
+land at Ballinveala, Crecora, Co. Limerick.
+---
 4
 
 Proposed by Councillor Collins (M);
@@ -299,7 +302,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, the approval of the Council be and is hereby given to the disposal of property -
@@ -380,7 +384,8 @@ Margaret Hyland, deceased, for the sum of €195.42, the disposal to be by way o
 
 Conveyance of the interest of Limerick City and County Council in the property, particulars of
 
-which were contained in Statutory Notice dated 26th May, 2020.”---
+which were contained in Statutory Notice dated 26th May, 2020.”
+---
 6
 
 (l)
@@ -459,7 +464,8 @@ And Resolved:
 
 Harnett, for the sum of €20,100, particulars of which were contained in Statutory Notice
 
-dated 11th June, 2020.---
+dated 11th June, 2020.
+---
 7
 
 (p)
@@ -530,7 +536,8 @@ Circulated, Chief Executive’s Reports for the months of January, February, Mar
 
 and May 2020.
 
-The Chief Executive’s Reports were noted by the Council.---
+The Chief Executive’s Reports were noted by the Council.
+---
 8
 
 (b)
@@ -603,7 +610,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, the approval of the Council be and is hereby given to the following amendment
@@ -678,7 +686,8 @@ Transfers to Capital).
 
  Other Commitments provided for in AFS 2019.
 
- Key Income Movements.---
+ Key Income Movements.
+---
 10
 
  Details on AFS 2019 Capital Account covering the following:
@@ -747,7 +756,8 @@ A/Director, Economic Development, replied that the response was being led by the
 
 officials in the respective District Offices.
 
-The following resolutions were adopted:---
+The following resolutions were adopted:
+---
 11
 
 Proposed by Councillor Daly;
@@ -818,7 +828,8 @@ by the Council at the September 2019 Meeting and nominations were then sought fr
 
 approved Sectoral Interests. A number of these nominations were received and approved by
 
-the Council at the November 2019 Meeting.---
+the Council at the November 2019 Meeting.
+---
 12
 
 Further nominations had now been received from the Agriculture/Farming Pillar and
@@ -949,7 +960,8 @@ Social Inclusion
 
 Donnah Vuma,
 
-Doras.---
+Doras.
+---
 13
 
 (i) Limerick Market Trustees
@@ -1018,7 +1030,8 @@ Committee held on 8th June 2020:
 
 **the National Planning Framework on Rural Housing Policy; the SPC also recommends**
 
-**that the request be circulated to all local authorities.”**---
+**that the request be circulated to all local authorities.”**
+---
 14
 
 At the request of Councillor Galvin and with the permission of the Mayor, the
@@ -1089,7 +1102,8 @@ following Recommendations which were agreed at the SPC meeting:
 
 That, all future recipients of HAP would be Garda vetted similar to the direct Social Housing
 
-applicants.---
+applicants.
+---
 15
 
 **Recommendation No. 2:**
@@ -1154,7 +1168,8 @@ Limerick, in order to complete the agenda. However, prior to adjourning, at the 
 
 Councillor Collins (B) and with the permission of the Mayor, it was agreed to take the following
 
-urgent Motion (No. 26) on the agenda:---
+urgent Motion (No. 26) on the agenda:
+---
 16
 
 26.
@@ -1199,4 +1214,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

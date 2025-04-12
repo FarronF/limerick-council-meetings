@@ -64,7 +64,8 @@ And Resolved:
 
 It was proposed by Councillor Sheahan, seconded by Councillor Loftus and agreed that the May
 
-Meeting of the Metropolitan District of Limerick would be held on 20th May, 2019.---
+Meeting of the Metropolitan District of Limerick would be held on 20th May, 2019.
+---
 2
 
 **3.**
@@ -143,7 +144,8 @@ be fast tracked in order to provide homes to people on the housing waiting list.
 
 to the units that are currently vacant and requested the Executive to complete the refurbishment
 
-works on these properties as soon as possible.---
+works on these properties as soon as possible.
+---
 3
 
 **4.**
@@ -212,7 +214,8 @@ operation and management models. The most recent visit was to the Clondalkin
 
 Equine Centre in Dublin. Arrangements will be made to convene a meeting, at
 
-which members will be updated on the learnings from the Clondalkin study visit.---
+which members will be updated on the learnings from the Clondalkin study visit.
+---
 4
 
 **7.**
@@ -301,7 +304,8 @@ anticipated to complete by December 2019. Exact dates will be coordinated with
 
 Community Support Services as the project approaches completion to align
 
-timing of allocations of the units with the completion date.---
+timing of allocations of the units with the completion date.
+---
 5
 
 **NOTICES OF MOTION**
@@ -394,7 +398,8 @@ The motion was proposed by Councillor Hogan and seconded by Councillor Leddin.
 
 ***Boherbuoy Band***
 
-***€1,000***---
+***€1,000***
+---
 6
 
 The motion was proposed by Councillor Collins and seconded by Councillor O’Hanlon.
@@ -479,7 +484,8 @@ In 2008, extensive public realm improvements providing a pedestrian focus were c
 
 out on Thomas Street and Catherine Street, at a cost of €4.3 million, which has seen the
 
-development of a cafe quarter within the prime city centre retail area.---
+development of a cafe quarter within the prime city centre retail area.
+---
 7
 
 The Limerick 2030 Economic and Spatial Plan adopted in 2014, endorsed the Limerick City
@@ -556,7 +562,8 @@ The motion was then proposed by Councillor O’Hanlon and seconded by Councillor
 
 It was agreed that this Notice of Motion be referred to the Environment Strategic Policy
 
-Committee.---
+Committee.
+---
 8
 
 This concluded the Meeting.
@@ -569,4 +576,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

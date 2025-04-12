@@ -60,7 +60,8 @@ Seconded by Councillor Sheahan;
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 Members again raised the condition of road surface on certain stretches of the N21. The Acting
@@ -141,7 +142,8 @@ Application process under the following headings:
 
 • Maximum Loan and Lending Limits.
 
-• Application Fee and Interest Rates.---
+• Application Fee and Interest Rates.
+---
 3
 
 • Home Improvement Loan.
@@ -224,7 +226,8 @@ tenants in advance of significant works being undertaken on the relevant
 
 property. In all such cases the tenants are advised, at the outset, of the timeline
 
-when the unit will be ready for occupation. Examples of such allocations would---
+when the unit will be ready for occupation. Examples of such allocations would
+---
 4
 
 include situations where specific alterations are required to the dwelling to
@@ -297,7 +300,8 @@ recommendation to the Municipal District of Newcastle West on the Communities Fa
 
 Grants Scheme 2017 stated that 28 applications had been received of which 27 were eligible
 
-and 10 were recommended for funding as follows:---
+and 10 were recommended for funding as follows:
+---
 5
 
 **Group/Organisation**
@@ -476,7 +480,8 @@ makes a recommendation of ‘LCDC approved’ or ‘LCDC denied’ on each proje
 
 with the LCDC recommendation will then be submitted to the Municipal District Committee
 
-who will make the final decision on project approval taking into consideration the LCDC---
+who will make the final decision on project approval taking into consideration the LCDC
+---
 6
 
 recommendation. A clear reasoning must be noted in the case where a project is approved or
@@ -557,7 +562,8 @@ solution and works will be carried out in August.
 
 **REPLY:**
 
-(a) Church Street, Newcastle West - Safety measures will be considered at this---
+(a) Church Street, Newcastle West - Safety measures will be considered at this
+---
 7
 
 location later in the year as part of footpath improvement works.
@@ -622,4 +628,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

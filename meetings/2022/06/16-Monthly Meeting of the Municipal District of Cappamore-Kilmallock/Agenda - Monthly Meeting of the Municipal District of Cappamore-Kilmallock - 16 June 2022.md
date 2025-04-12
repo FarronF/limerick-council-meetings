@@ -42,7 +42,8 @@ To note disposal of property at :
 
  Disposal of land at Ballinamina, Kilfinane
 
- Disposal of land at Martinstown, Kilmallock---
+ Disposal of land at Martinstown, Kilmallock
+---
 2
 
 4.Summary Report for Cappamore Kilmallock Municipal District
@@ -111,7 +112,8 @@ Question submitted by Councillor Carey
 
 I will ask at the next Municipal District Meeting for an update on the promised extended
 
-fencing at Ballyhoura Heights, Kilfinane.---
+fencing at Ballyhoura Heights, Kilfinane.
+---
 3
 
 12.
@@ -150,4 +152,5 @@ I will ask at the next meeting of the Cappamore Kilmallock Municipal District wh
 
 breakdown of allocation of €300,000 for O ' Rourkes Cross Bruree in the Schedule of Municipal
 
-District Works.---
+District Works.
+---

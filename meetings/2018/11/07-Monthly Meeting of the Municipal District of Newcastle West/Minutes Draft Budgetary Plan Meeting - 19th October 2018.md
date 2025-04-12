@@ -94,7 +94,8 @@ Special Projects – LA Infrastructure
 
 **General Municipal Allocation**
 
-**225,000**---
+**225,000**
+---
 2
 
 A brief discussion took place on the Local Roads projects, which benefitted from funding
@@ -137,4 +138,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

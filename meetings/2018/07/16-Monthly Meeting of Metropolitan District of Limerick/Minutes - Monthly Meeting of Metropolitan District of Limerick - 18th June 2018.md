@@ -66,7 +66,8 @@ Seconded by Councillor Butler;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 Members requested an update as to the maintenance of the pumping station at Ritaville, Old Cork
@@ -143,7 +144,8 @@ The Members thanked Dr. Fitzgerald for his presentation and made the following p
 
 Dr. Fitzgerald responded to the points made and welcomed the support from the Members. The
 
-Mayor thanked Dr. Fitzgerald for his comprehensive address.---
+Mayor thanked Dr. Fitzgerald for his comprehensive address.
+---
 3
 
 **2.**
@@ -230,7 +232,8 @@ Ministerial approval received.
 
 -
 
-Funding under Project Ireland 2040 National Development Plan.---
+Funding under Project Ireland 2040 National Development Plan.
+---
 4
 
 -
@@ -321,7 +324,8 @@ place at planning stage.
 
 • Are noise levels from wind turbine at Vistakon recorded?
 
-• Shannonvale, Old Cratloe Road should be included in Plan.---
+• Shannonvale, Old Cratloe Road should be included in Plan.
+---
 5
 
 The Senior Executive Engineer, Physical Development responded to the issues raised.
@@ -392,7 +396,8 @@ that it was proposed to proceed in accordance with Section 5 of the report.
 
 Members welcomed the proposed development and requested that a 2.4 metre boundary wall
 
-would be part of the scheme.---
+would be part of the scheme.
+---
 6
 
 **(b)**
@@ -475,7 +480,8 @@ Limerick City and County Council and the National Transport Authority are
 
 commencing the Limerick Transport Strategy this Summer and as the R445 is a
 
-major access route to the City Centre, this study will also examine the R445 in its---
+major access route to the City Centre, this study will also examine the R445 in its
+---
 7
 
 entirety and determine the appropriate transport measures to be applied on this
@@ -582,7 +588,8 @@ breakdown between HAP and RAS properties.
 
 **Up**
 
-**Inspections 1.1.18**---
+**Inspections 1.1.18**
+---
 8
 
 **to 10.6.18**
@@ -673,7 +680,8 @@ an emerging preferred option and invited comment from the Elected Members,
 
 interested stakeholders and the general public. At all times the views of the Elected
 
-Members have been respected and changes made as a result of the various---
+Members have been respected and changes made as a result of the various
+---
 9
 
 consultations. If requested, a further workshop can be held with the Elected
@@ -754,7 +762,8 @@ road improvement scheme for the area finalised.
 
 Limerick City and County Council and the National Transport Authority are
 
-commencing the Limerick Transport Strategy this Summer, and as the R445 is a---
+commencing the Limerick Transport Strategy this Summer, and as the R445 is a
+---
 10
 
 major access route to the City Centre, this study will also examine the R445 in its
@@ -817,4 +826,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

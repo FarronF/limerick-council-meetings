@@ -52,7 +52,8 @@ Mr. Maurice Hoare, HSE Mid-West Community Healthcare.
 
 Dr. Mai Mannix, Director of Public Health Mid-West.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 3.
@@ -123,7 +124,8 @@ on the Statutory Audit Report 2019 for Limerick City and County
 
 Council
 
-(Documentation Enclosed as follows:---
+(Documentation Enclosed as follows:
+---
 3
 
 • Audit Committee’s Report.
@@ -190,7 +192,8 @@ To consider the adoption of updated Standing Orders for Strategic Policy
 
 Committees.
 
-(Report and Draft Standing Orders Enclosed)---
+(Report and Draft Standing Orders Enclosed)
+---
 4
 
 (g)
@@ -263,7 +266,8 @@ Enterprise and Planning Strategic Policy Committee held on 8th, 15th and
 
 **in-charge of estates to ensure that estates are taken-in-charge within**
 
-**the shortest period possible, post completion.**---
+**the shortest period possible, post completion.**
+---
 5
 
 **Recommendation from SPC Meeting held on 22nd** **February, 2021.**
@@ -328,7 +332,8 @@ Strategic Policy Committee held on 17th February, 2021.
 
 **That, this Council limit housing representations to one representation**
 
-**for one person per Elected Representative.**---
+**for one person per Elected Representative.**
+---
 6
 
 5.
@@ -393,7 +398,8 @@ To note reports by Members who have participated at Conference / Seminar /
 
 Meeting / Event.
 
-(Report Enclosed)---
+(Report Enclosed)
+---
 7
 
 QUESTIONS
@@ -466,7 +472,8 @@ I will ask at the next Meeting, how many void units are there currently across t
 
 and County and if an update could be provided regarding the Single Point of Contact
 
-(SPOC) system.---
+(SPOC) system.
+---
 8
 
 NOTICES OF MOTION
@@ -537,7 +544,8 @@ for Agriculture appointing such a Regulator. The purpose of the Independent Meat
 
 Regulator with the necessary associated legislative powers would be to police and
 
-regulate the Meat Industry.---
+regulate the Meat Industry.
+---
 9
 
 14.
@@ -572,4 +580,5 @@ closure of the on-site pre-school facility.
 
 16.
 
-Correspondence---
+Correspondence
+---

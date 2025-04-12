@@ -62,7 +62,8 @@ The Director on behalf of Management and staff, also paid tribute to Councillor 
 
 The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach of the
 
-Municipal District for the coming year.---
+Municipal District for the coming year.
+---
 Proposed by Councillor Galvin
 
 Seconded by Councillor Foley
@@ -135,4 +136,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

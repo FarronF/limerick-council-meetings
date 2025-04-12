@@ -50,7 +50,8 @@ Hospital and that she was also a strong advocate on behalf of the business commu
 
 rate payers. Despite losing her seat in 1985, it was said that Win continued to campaign on
 
-many issues including the need for more gender balance in politics.---
+many issues including the need for more gender balance in politics.
+---
 2
 
 Members expressed their condolences to the family of Jo Cox, MP, stating that her death
@@ -127,4 +128,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

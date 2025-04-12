@@ -64,7 +64,8 @@ number of houses where works are complete along with the number of houses purcha
 
 and leased as well as the number of houses allocated. The holding of workshops at District
 
-level with the Elected Members on housing matters was also proposed.---
+level with the Elected Members on housing matters was also proposed.
+---
 2
 
 The Members also queried the length of time taken to upgrade houses for letting and the
@@ -139,4 +140,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -62,7 +62,8 @@ consultation on the Material Alterations to the Proposed Rathkeale Local Area Pl
 
 Following discussion Councillor O’Donoghue stated the maps used on the report were
 
-not site specific and are outdated. The Senior Executive Planner, Strategic and Forward---
+not site specific and are outdated. The Senior Executive Planner, Strategic and Forward
+---
 2
 
 Planning acknowledged this observation and agreed to liaise with the Office of Public
@@ -131,7 +132,8 @@ Roads, Traffic and Cleansing advised discussions are ongoing regarding
 
 Morenane Junction, and added a different scale of works is required at this
 
-junction which will not necessitate a Part VIII planning.---
+junction which will not necessitate a Part VIII planning.
+---
 3
 
  Councillor Teskey raised the issue of traffic calming at Reens Pike along with
@@ -194,7 +196,8 @@ request from Councillor Collins.
 
 **Correspondence**
 
-Correspondence was noted and taken as read.---
+Correspondence was noted and taken as read.
+---
 4
 
 **8.**
@@ -235,4 +238,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

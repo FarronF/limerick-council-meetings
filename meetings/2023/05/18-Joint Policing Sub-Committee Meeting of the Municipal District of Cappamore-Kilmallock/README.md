@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-05-18 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore)**
+**<a href="https://www.limerick.ie/council/whats-on/joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore" target="_blank">Link to meeting</a>**

@@ -70,7 +70,8 @@ gritting roads, footpaths in particular near schools, and the three bridges walk
 
 highlighted the importance of gritting across the Metropolitan District area where possible and
 
-especially including around schools, the O’Connell Street and city centre area. They also queried---
+especially including around schools, the O’Connell Street and city centre area. They also queried
+---
 2
 
 whether footpaths could also be gritted to facilitate pedestrians.
@@ -137,7 +138,8 @@ setting out proposals for the Disposal of 21-23 Old Clare Street, Limerick and t
 
 bring a Section 183 Notice to Full Council in this regard, for approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 **3.Planning, Environment and Place-Making Directorate**
@@ -204,7 +206,8 @@ Council will be applying to the Department of Housing for approval to designate 
 
 for this scheme, and agreed to keep Members updated on the progress of this application.
 
-The report, as circulated, was noted by the Elected Members.---
+The report, as circulated, was noted by the Elected Members.
+---
 4
 
 **5.Transportation & Mobility Directorate**
@@ -279,7 +282,8 @@ archaeological potential. This advance contract is expected to be ongoing across
 
 quarter of 2023. Commencement of the main development contract is expected to follow
 
-through the ensuing summer months.---
+through the ensuing summer months.
+---
 5
 
 **7.Question submitted by Councillor E. Secas**
@@ -354,7 +358,8 @@ to put forward for 2023.
 
 To install a new footpath along this route, the widening of three existing structures would
 
-be required i.e. an existing stone bridge that runs over a live watercourse, an under pass---
+be required i.e. an existing stone bridge that runs over a live watercourse, an under pass
+---
 6
 
 bridge that runs under the N24 National Road and under pass bridge with supporting walls
@@ -433,7 +438,8 @@ determination and, subject to approval, proceed to construction of the scheme in
 
 2023, with an autumn opening of the link to the Castletroy area. Drawings and particulars
 
-of the scheme will be presented during the planning consultation mentioned above.---
+of the scheme will be presented during the planning consultation mentioned above.
+---
 7
 
 It should be noted that if An Bord Pleanála determine that an Appropriate Assessment
@@ -502,7 +508,8 @@ The Notice of Motion was proposed by Councillor Leddin, seconded by Councillor S
 
 agreed.
 
-In proposing the Motion, Councillor Leddin referred to the importance of carrying out maintenance---
+In proposing the Motion, Councillor Leddin referred to the importance of carrying out maintenance
+---
 8
 
 works, such as clearing footpaths and gutters, in Council owned housing developments and in
@@ -583,7 +590,8 @@ levels of crime at each specific potential location of a camera (using GPS coord
 
 If crime levels are deemed sufficiently high, this becomes the starting point of the
 
-official process.---
+official process.
+---
 9
 
  A report must be created outlining the case and rationale for CCTV, including all
@@ -664,7 +672,8 @@ refurbished could be considered for commercial, civic or residential uses.
 
 Gaelscoil Sairséal (Cray Lane) school over the last twelve months with a view to its future
 
-use now as it is vacant and the owner is keen to look at potential uses including office.---
+use now as it is vacant and the owner is keen to look at potential uses including office.
+---
 10
 
 I will engage with Limerick Twenty Thirty DAC and our Housing Department to examine if
@@ -707,4 +716,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

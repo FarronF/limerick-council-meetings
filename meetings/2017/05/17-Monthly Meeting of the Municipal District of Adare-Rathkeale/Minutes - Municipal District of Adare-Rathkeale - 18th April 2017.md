@@ -72,7 +72,8 @@ Community Development Committee (LCDC) should also be reviewed;
 
 • In terms of St. Patrick’s day events, balanced support should be given to all of the
 
-Districts;---
+Districts;
+---
 2
 
 • In order to properly inform the General Municipal Allocation (GMA) process, Members
@@ -133,4 +134,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

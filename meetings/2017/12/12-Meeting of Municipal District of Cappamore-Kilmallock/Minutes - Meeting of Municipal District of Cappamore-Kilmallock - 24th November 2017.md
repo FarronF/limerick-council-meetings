@@ -58,7 +58,8 @@ Seconded by Councillor Sheehy;
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 2.
@@ -131,7 +132,8 @@ there were many options available to the public. Members raised the issue of int
 
 provided by the Council and asked that the public be made aware of the competitiveness of
 
-the rates being offered.---
+the rates being offered.
+---
 3
 
 The Administrative Officer agreed to circulate the presentation to Members.
@@ -198,7 +200,8 @@ Speed Limit Review 2015-2017 Limerick National Road Draft Bye-Laws Document:
 
 • N24 – Ballysimon Interchange approaches, Dromkeen, Pallasgreen, Brooks Bridge
 
-and Oola.---
+and Oola.
+---
 4
 
 The A/Senior Engineer, Operations and Maintenance, (Mr. G. O’Connor), noted that
@@ -271,7 +274,8 @@ development should occur from the core of the village centre out and not in a pi
 
 fashion. The recently published Draft National Planning Framework outlined this as a key
 
-objective.---
+objective.
+---
 5
 
 Proposed by Councillor Ryan;
@@ -342,7 +346,8 @@ year, would include the Zebra Crossing and tabletop construction. There was an a
 
 Members, in noting the report, welcomed the proposal and, in particular, the phased
 
-basis for the proposed development.---
+basis for the proposed development.
+---
 6
 
 ADJOURNED NOTICE OF MOTION
@@ -407,7 +412,8 @@ Notice of Motion submitted by Councillor W. O’Donnell
 
 **in Herebertstown under the provisions of the Derelict Sites Act.**
 
-The Motion was proposed by Councillor O’Donnell and seconded by Councillor Teefy.---
+The Motion was proposed by Councillor O’Donnell and seconded by Councillor Teefy.
+---
 7
 
 **REPLY:**
@@ -476,7 +482,8 @@ nominees.
 
 • On the proposal of Councillor Mitchell, seconded by Councillor Ryan, it was agreed to
 
-receive a Deputation from Hospital Community Council at the December Meeting.---
+receive a Deputation from Hospital Community Council at the December Meeting.
+---
 8
 
 • On the proposal of Councillor Sheehy, seconded by Councillor Teefy, it was agreed to
@@ -497,4 +504,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

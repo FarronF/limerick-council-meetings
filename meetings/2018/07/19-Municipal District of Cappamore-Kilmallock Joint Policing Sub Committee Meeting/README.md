@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-07-19 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/municipal-district-cappamore-kilmallock-joint-policing-sub-committee-meeting-0)**
+**<a href="https://www.limerick.ie/council/whats-on/municipal-district-cappamore-kilmallock-joint-policing-sub-committee-meeting-0" target="_blank">Link to meeting</a>**

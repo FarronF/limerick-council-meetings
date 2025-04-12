@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-06-23 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-newcastle-west-7)**
+**<a href="https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-newcastle-west-7" target="_blank">Link to meeting</a>**

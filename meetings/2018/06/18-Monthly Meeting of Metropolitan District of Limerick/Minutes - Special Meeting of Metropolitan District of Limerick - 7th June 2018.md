@@ -54,7 +54,8 @@ representative who represented his own community very well and was a passionate
 
 campaigner for senior citizen’s rights. Members specifically remembered his love for
 
-his family, the community and the trade union movement. His involvement in the---
+his family, the community and the trade union movement. His involvement in the
+---
 2
 
 Senior Citizens Parliament was also remembered.
@@ -85,4 +86,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

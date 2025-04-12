@@ -66,7 +66,8 @@ recent bereavements:-
 
 Members expressed their sympathies to the victims of the terror attack in Christchurch, New
 
-Zealand.---
+Zealand.
+---
 2
 
 Members also expressed their condolences to the families of the three young people killed at the
@@ -143,7 +144,8 @@ And Resolved:
 
 “That the estate at Knocklyon, Clonmacken be taken in charge in accordance with Section 180 of
 
-the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.---
+the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.
+---
 3
 
 **(b)**
@@ -248,7 +250,8 @@ Traffic Delays due to over reliance on the private car in the Metropolitan Area.
 
 •
 
-Inaccessible Bus Stops due to illegal parking and illegal driving in Bus Lanes.---
+Inaccessible Bus Stops due to illegal parking and illegal driving in Bus Lanes.
+---
 4
 
 In response to the issues Limerick City and County Council has
@@ -359,7 +362,8 @@ punctual bus service. We will continue to work with our partners in the National
 
 Authority, Limerick City and County Council, and all local stakeholders, to deliver an improved level
 
-of service in Limerick City.---
+of service in Limerick City.
+---
 5
 
 The Members thanked Mr Murray for his detailed presentation and expressed disappointment
@@ -560,7 +564,8 @@ TEP1
 
 21
 
-20---
+20
+---
 6
 
 TEP2
@@ -829,7 +834,8 @@ investment in new jobs. The Councils have asked the Department for permission
 
 to complete and submit the Environmental Impact Assessment Report (EIAR) to An
 
-Bord Pleanála, and the Department is considering this request.---
+Bord Pleanála, and the Department is considering this request.
+---
 7
 
 **8.**
@@ -966,7 +972,8 @@ project. In light of the difficulty of the project (H & S, Accessibility etc), q
 
 will be sought from Contractors. A current estimation of the timeframe for this
 
-project would be approximately four months.---
+project would be approximately four months.
+---
 8
 
 **11.**
@@ -1057,7 +1064,8 @@ pedestrians and cyclists through to linkages to sites of interest in the city.
 
 Therefore, the continuity in design concept that will emerge is important to the
 
-successful implementation of the Great Streets Programme.---
+successful implementation of the Great Streets Programme.
+---
 9
 
 An application under the Urban Regeneration Development Fund in 2018 to
@@ -1146,7 +1154,8 @@ land use and transport planning within the Limerick Shannon Metropolitan Area
 
 and will inform investment in transport infrastructure and services over the short,
 
-medium and longer term to promote and encourage sustainable transport use.---
+medium and longer term to promote and encourage sustainable transport use.
+---
 10
 
 In addition the Castletroy Local Area Development Plan 2018 sets out the Strategy
@@ -1259,7 +1268,8 @@ Rebuild wall at back of Glasgow Park
 
 Create extra car spaces at back of Hilltop, St. Patrick’s Road
 
-€2,625---
+€2,625
+---
 11
 
 Fairview F.C.
@@ -1392,7 +1402,8 @@ location. There was no seconder to this proposal.
 
 **Transportation Strategic Policy Committee)**
 
-***I will move at the next meeting that Limerick City and County Council reinstate the Christmas***---
+***I will move at the next meeting that Limerick City and County Council reinstate the Christmas***
+---
 12
 
 ***Park and Stride arrangements for a 3 month period at Cleeve’s Car Park and possibly at the Bus***
@@ -1465,7 +1476,8 @@ In order to be designed a rent pressure zone there are two criteria to be met:
 
 The annual rate of increase in the average amount of rent for that area is 7
 
-per cent or more in four of the previous six quarters and---
+per cent or more in four of the previous six quarters and
+---
 13
 
 (b)
@@ -1544,7 +1556,8 @@ cyclists nor pedestrians have priority on the route, and any steps to give prior
 
 the other would be in contravention of the terms of the European funding.
 
-Mr. McGuigan confirmed that the Physical Directorate will review the current signage along the---
+Mr. McGuigan confirmed that the Physical Directorate will review the current signage along the
+---
 14
 
 route to see if improvements can be made in relation to frequency of this signage.
@@ -1565,4 +1578,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

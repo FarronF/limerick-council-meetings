@@ -36,7 +36,8 @@ Update from Innovate Limerick
 
 Confirmation of date for Annual General Meeting of Cappamore Kilmallock Municipal
 
-District---
+District
+---
 2
 
 NOTICE OF MOTIONS
@@ -97,7 +98,8 @@ upper Main Street Hospital.
 
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District when Limerick
 
-City and County Council plan to start improvement works in Clare Glens.---
+City and County Council plan to start improvement works in Clare Glens.
+---
 3
 
 11.Question submitted by Councillor Teefy
@@ -114,4 +116,5 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District fo
 
 number of qualified applicants, First Preference, in the Cappamore/Kilmallock District and
 
-what are the breakdown by areas.---
+what are the breakdown by areas.
+---

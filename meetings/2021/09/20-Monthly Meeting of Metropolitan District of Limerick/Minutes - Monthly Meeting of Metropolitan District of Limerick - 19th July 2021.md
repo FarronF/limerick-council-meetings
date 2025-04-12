@@ -68,7 +68,8 @@ And Resolved:
 
 Circulated, report of the Senior Staff Officer, Housing Support Services dated 22nd June,
 
-2021 setting out proposals to dispose of Freehold Interest of premises consisting of a dwelling---
+2021 setting out proposals to dispose of Freehold Interest of premises consisting of a dwelling
+---
 2
 
 house situate at 29 Clarke Avenue, Janesboro, Limerick and the intention to bring a Section 183
@@ -143,7 +144,8 @@ prepared in accordance with Section 179 3(a) of the Planning and Development Act
 
 amended) and Part 8 of the Planning and Development Regulations, 2001 (as amended) and
 
-noted that it was proposed to proceed in accordance with Section 5 of the report.---
+noted that it was proposed to proceed in accordance with Section 5 of the report.
+---
 3
 
 Members raised the following concerns in relation to the development:
@@ -218,7 +220,8 @@ The use of CCTV apparatus to monitor taxi ranks for the purpose of issuing Fixed
 
 Notices is prohibited under current G.D.P.R. regulations.
 
-The estimated cost of providing CCTV apparatus at taxi ranks where CCTV is not currently---
+The estimated cost of providing CCTV apparatus at taxi ranks where CCTV is not currently
+---
 4
 
 available is €100k.
@@ -293,7 +296,8 @@ activated shortly afterwards.
 
 ***or any other circumstances where the Council are taking on long term leases from pension***
 
-***funds, what checks are the Council putting in place to ensure that these pension funds have not***---
+***funds, what checks are the Council putting in place to ensure that these pension funds have not***
+---
 5
 
 ***competed with first time buyers when acquiring properties.***
@@ -398,7 +402,8 @@ IPSFA
 
 In the context of the housing crisis in Limerick, the Long-term Leasing Scheme is now making a
 
-significant and very welcome contribution to social housing waiting lists.---
+significant and very welcome contribution to social housing waiting lists.
+---
 6
 
 **12.Question submitted by Councillor S. Benson**
@@ -487,7 +492,8 @@ Councillor O’Sullivan stated that she wished to withdraw this Notice of Motion
 
 **15.Notice of Motion submitted by Councillor A. Talukder (to be referred to the Community,**
 
-**Leisure and Culture Strategic Policy Committee)**---
+**Leisure and Culture Strategic Policy Committee)**
+---
 7
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that consideration be***
@@ -560,7 +566,8 @@ The motion was proposed by Councillor Kiely, seconded by Councillor O'Sullivan a
 
 In proposing the motion, Councillor Kiely expressed concern that funding for Regeneration
 
-projects was used outside the Regeneration areas.---
+projects was used outside the Regeneration areas.
+---
 8
 
 Members requested that updated boundary maps for each Regeneration area would be
@@ -627,7 +634,8 @@ numbers have increased by approx. 1000.
 
 Indications so far for 2021 are that licences at year end will be approx. 200 ahead of the
 
-2020 figure.---
+2020 figure.
+---
 9
 
 The concentration in relation to information campaigns this year has been on dog fouling
@@ -664,4 +672,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

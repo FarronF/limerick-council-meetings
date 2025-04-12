@@ -72,7 +72,8 @@ Economic Forum.
 
 Mr. Moran, Chair of SME Recovery welcomed the Notice of Motion to set up a Task Force to
 
-support SME’s and stated that it would provide a single agency to pull all supports together.---
+support SME’s and stated that it would provide a single agency to pull all supports together.
+---
 He stated SME’s had suffered an estimated €10-11 billion damage due to Covid-19 restrictions,
 
 after taking into account the various schemes offered by the Government. He also stated that
@@ -149,7 +150,8 @@ Maria also outlined the schedule of works for the next number of months which in
 
 issuing CE reports on consultation submissions, holding workshops with elected members
 
-and preparation of the Draft Development Plan.---
+and preparation of the Draft Development Plan.
+---
 Further Plans which are being progressed by Forward Planning include:
 
  Southern Environs Local Area Plan – public consultation 10th Oct - 23rd Nov, 2020
@@ -234,7 +236,8 @@ While members thanked Kieran for the comprehensive presentation, they queried th
 
 level of take-up of the scheme, the timescale involved and if conservation restraints were
 
-slowing down the process.---
+slowing down the process.
+---
 Kieran stated that the lack of access to finances for retrofitting schemes is the main factor in
 
 the low level of take up of the scheme; he also stated that the availability of other grants
@@ -313,7 +316,8 @@ reviewed at budget time.
 
 This Notice of Motion was deferred to the next meeting of the committee to be held on 14th
 
-December, 2020.---
+December, 2020.
+---
 **Item 7**
 
 **To consider Notice of Motion referred from Council meeting held on 28th** **September, 2020.**
@@ -380,4 +384,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

@@ -66,7 +66,8 @@ Circulated, report of the Director of Services, Service Operations Directorate, 
 
 14th May, 2018, enclosing Chief Executives Report in relation to the proposed construction of
 
-20 housing units at Glenview Drive, Hospital, Co. Limerick.---
+20 housing units at Glenview Drive, Hospital, Co. Limerick.
+---
 2
 
 The Chief Executives Report set out details of the proposed development under a number of
@@ -143,7 +144,8 @@ require additional sub-base and bituminous surfacing, drainage measures and
 
 white lining. The cost per linear metre of verge improvement would be high in
 
-comparison to full width road reconstruction.---
+comparison to full width road reconstruction.
+---
 3
 
 5.
@@ -204,7 +206,8 @@ include this requirement in the City and County Council Development Plan.
 
 Ducting will be beneficial for CCTV and also for broadband and co-location and
 
-co-development of other communications infrastructure.---
+co-development of other communications infrastructure.
+---
 4
 
 8.
@@ -275,7 +278,8 @@ both City and County areas of Limerick and the importance of retaining young peo
 
 rural areas of the County. Following a general discussion on the issues involved, the Elected Members
 
-agreed to submit the following Notice of Motion to the next full Council meeting:---
+agreed to submit the following Notice of Motion to the next full Council meeting:
+---
 5
 
 **“We will move at the next meeting that due to the lack of construction of local authority**
@@ -334,4 +338,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

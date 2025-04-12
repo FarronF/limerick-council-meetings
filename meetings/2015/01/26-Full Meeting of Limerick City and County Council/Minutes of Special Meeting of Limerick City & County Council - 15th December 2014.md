@@ -60,7 +60,8 @@ to review Limerick’s extraordinary successful year as National City of Culture
 
 particular, the Local Authority needed to build on the momentum and climate of
 
-support for culture in Limerick in making a bid for the European Capital of Culture.---
+support for culture in Limerick in making a bid for the European Capital of Culture.
+---
 **2**
 
 He stated that the European Capital of Culture initiative was one of the most
@@ -133,7 +134,8 @@ video footage of some events:
 
 • Creative Limerick.
 
-• Limerick 2014 and Beyond (2015-2030).---
+• Limerick 2014 and Beyond (2015-2030).
+---
 **3**
 
 Mr. Fitzpatrick responded to queries raised by the Members and provided further
@@ -182,4 +184,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

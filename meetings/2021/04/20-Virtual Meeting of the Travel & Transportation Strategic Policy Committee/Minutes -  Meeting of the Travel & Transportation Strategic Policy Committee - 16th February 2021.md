@@ -40,7 +40,8 @@ The Chair opened the meeting and welcomed all SPC members, Elected Members and N
 
 representatives.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 Mr. Kennedy stated that a number of submissions were made following public consultation
@@ -155,7 +156,8 @@ from the MASP.
 
 -Confirmed that there is insufficient demand to
 
-justify light rail.---
+justify light rail.
+---
 3
 
 - Analysis of Heavy Rail undertaken for Draft
@@ -252,7 +254,8 @@ engagement with Tipperary County Council. He acknowledged Cllr. Mitchell’s com
 
 the importance of dealing with freight for economic growth and this will be considered in the
 
-strategy.---
+strategy.
+---
 4
 
 Referring to Mr. Harper’s question, Mr. Creegan confirmed that the strategy will be compliant
@@ -331,7 +334,8 @@ On the heavy rail system, Mr. Creegan confirmed that 11 different stations in th
 
 were tested in the first strategy preparation. He confirmed that different scenarios need to
 
-be examined in more detail.---
+be examined in more detail.
+---
 5
 
 In response to the makeup of the Limerick Transport Forum, Dr. Cahill stated that it is
@@ -408,7 +412,8 @@ would be monitored with a view to a permanent speed limit reduction.
 
 How has it been monitored and what are the outcomes of same?
 
-How will the new limit be voted upon and is there a proposed time frame?”---
+How will the new limit be voted upon and is there a proposed time frame?”
+---
 6
 
 A response to Question was circulated to all members prior to meeting as follows:
@@ -457,4 +462,5 @@ The Chair reminded all members that the next Travel and Transportation SPC meeti
 
 scheduled for Tuesday, the 20th April 2021. He thanked all for attending and thanked the NTA
 
-representatives individually for their presentation and declared the meeting closed.---
+representatives individually for their presentation and declared the meeting closed.
+---

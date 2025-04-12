@@ -64,7 +64,8 @@ Meeting.
 
 Regarding Item 2 in the Minutes, Counillor Keary enquired if there was any programme in
 
-place for money to be reappropriated to return voids back into stock. The Senior Architect---
+place for money to be reappropriated to return voids back into stock. The Senior Architect
+---
 2
 
 informed Members there is a programme in place and to date some voids have been
@@ -129,7 +130,8 @@ Circulated, report of the Staff Officer, Planning and Environmental Services dat
 
 August, 2018 setting out the position in relation to the taking in charge of An Curran,
 
-Pallaskenry. The report was noted by Members.---
+Pallaskenry. The report was noted by Members.
+---
 3
 
 **5.**
@@ -192,7 +194,8 @@ were in agreement a masterplan was needed for Adare to address pedestrian and tr
 
 issues in unison.
 
-This was proposed by Councillor Sheahan and seconded by Councillor Keary.---
+This was proposed by Councillor Sheahan and seconded by Councillor Keary.
+---
 4
 
 **8.**
@@ -255,7 +258,8 @@ dated 28th August, 2018 giving an update in relation to flooding issues in Foyne
 
 Members note the report, as circulated, and requested an update report for the October
 
-Monthly Meeting.---
+Monthly Meeting.
+---
 5
 
 **11.**
@@ -320,7 +324,8 @@ public using the bridge in Rathkeale. He noted the major success of footbridges 
 
 erected in Newcastle West and Kilmallock. The Director informed Members this motion
 
-would be raised with Central Services.---
+would be raised with Central Services.
+---
 6
 
 **15.**
@@ -383,7 +388,8 @@ limited office budget and suggested €5,000 per district per year should be
 
 provided in the estimates. Councillor Keary proposed a Motion should go to the
 
-full Council Meeting, this was seconded by Councillor Teskey.---
+full Council Meeting, this was seconded by Councillor Teskey.
+---
 7
 
  Councillor O’Donoghue thanked the other Members for their help completing the
@@ -426,4 +432,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

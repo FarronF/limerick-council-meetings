@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-02-21 13:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/gma-workshop-for-the-elected-members-of-the-municipal-district-of-cappamore)**
+**<a href="https://www.limerick.ie/council/whats-on/gma-workshop-for-the-elected-members-of-the-municipal-district-of-cappamore" target="_blank">Link to meeting</a>**

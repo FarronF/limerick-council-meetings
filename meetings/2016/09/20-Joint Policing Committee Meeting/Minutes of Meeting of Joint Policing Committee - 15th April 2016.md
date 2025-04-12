@@ -56,7 +56,8 @@ the appropriate Superintendent on a quarterly basis. It was pointed out that the
 
 this regard was divided under two Superintendents and that the Members could attend the
 
-Briefings for their appropriate areas or both if they wished.---
+Briefings for their appropriate areas or both if they wished.
+---
 **3.Joint Policing Committee Sub Committee**
 
 This item was deferred pending the appointment of the Sectoral Representatives.
@@ -237,7 +238,8 @@ the presentation be broken down per Municipal District / Metropolitan District A
 
 Queries were raised on the position regarding crimes relating to drugs and drug testing for drivers
 
-and these were responded to by the Chief Superintendent.---
+and these were responded to by the Chief Superintendent.
+---
 Further queries were raised regarding the use of mobile phones while driving and the Chief
 
 Superintendent indicated that An Garda Siochana had a recent publicity campaign in relation to
@@ -306,7 +308,8 @@ Local Economic Community Plan (LECP). The Annual Work Plan would also be linked 
 
 and must include objectives from the Garda Annual Policing Plan. The JPC plans should contain a
 
-limited number of strategic objectives to facilitate monitoring and review and focus on areas---
+limited number of strategic objectives to facilitate monitoring and review and focus on areas
+---
 where co-operative and collaborative actions can add value to the existing work of the relevant
 
 stakeholders.
@@ -365,7 +368,8 @@ person(s); I would also move that this Council would write to An Garda Síochán
 
 Principals, Community Alert Groups, Active Retired Group and Youth Clubs to seek their support to
 
-this Scheme’.---
+this Scheme’.
+---
 The Chief Superintendent stated that new legislation was due out in relation to this Scheme and
 
 said this item should be deferred and looked at by a Sub Committee. He added that no such
@@ -406,4 +410,5 @@ meeting.
 
 **CHAIRPERSON**
 
-**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

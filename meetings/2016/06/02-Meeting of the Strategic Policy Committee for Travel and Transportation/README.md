@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-06-02 10:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-strategic-policy-committee-travel-and-transportation)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-strategic-policy-committee-travel-and-transportation" target="_blank">Link to meeting</a>**

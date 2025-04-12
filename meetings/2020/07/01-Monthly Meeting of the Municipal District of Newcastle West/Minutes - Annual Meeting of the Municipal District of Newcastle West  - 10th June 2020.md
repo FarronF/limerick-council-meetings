@@ -60,7 +60,8 @@ On taking the Chair, Councillor Foley expressed his appreciation on being appoin
 
 Cathaoirleach of the Municipal District of Newcastle West and acknowledged the hard work
 
-and contribution made by Councillor Scanlan during his term as Cathaoirleach.---
+and contribution made by Councillor Scanlan during his term as Cathaoirleach.
+---
 2
 
 He stated that he was looking forward to working with the Members, Management and Staff
@@ -123,4 +124,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

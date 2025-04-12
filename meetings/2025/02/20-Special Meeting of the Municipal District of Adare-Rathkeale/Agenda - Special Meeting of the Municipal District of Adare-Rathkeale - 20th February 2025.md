@@ -72,4 +72,5 @@ held in Áras Seán Finn, New Line Road, Rathkeale, Co. Limerick, on **Thursday,
 
 To receive a Deputation from representatives from Foynes Aviation Museum.
 
-(Image omitted)---
+(Image omitted)
+---

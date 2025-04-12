@@ -66,7 +66,8 @@ Members outlined their concerns which included the following:
 
  Location of Speed Cameras.
 
- Reduced Opening Hours for Askeaton Garda Station.---
+ Reduced Opening Hours for Askeaton Garda Station.
+---
 2
 
 Inspector Paul Reidy addressed the Meeting and responded to the Members
@@ -141,7 +142,8 @@ As there were no other nominations, the Cathaoirleach declared Councillor Keary
 
 elected as Leas-Chathaoirleach for the coming year and congratulated him on his
 
-election.---
+election.
+---
 3
 
 Following some discussion, on the proposal of Councillor Sheahan, seconded by
@@ -172,4 +174,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

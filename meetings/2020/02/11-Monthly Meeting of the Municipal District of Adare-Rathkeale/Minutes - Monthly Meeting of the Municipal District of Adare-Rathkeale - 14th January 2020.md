@@ -58,7 +58,8 @@ Askeaton Pool and Leisure for the proposed upgrade works and proposed the Distri
 
 write to Deputy Tom Neville and Minister Brendan Griffin to thank them for their efforts
 
-to secure funding for this project. This was seconded by Councillor Teskey.---
+to secure funding for this project. This was seconded by Councillor Teskey.
+---
 2
 
 **1.**
@@ -129,7 +130,8 @@ Newcastle West District in relation to resurfacing this junction.
 
 the fowl sewer, diversions are in place diverting traffic through Kilcornan which
 
-will also have ongoing traffic calming works taking place during this time.---
+will also have ongoing traffic calming works taking place during this time.
+---
 3
 
 Councillor Keary suggested temporary traffic lights should be considered for
@@ -204,7 +206,8 @@ connections. We only inspect the main truck sewers and other core
 
 services within housing developments/estates to ensure planning
 
-compliance and suitability for taking in charge.---
+compliance and suitability for taking in charge.
+---
 4
 
 **NOTICES OF MOTION**
@@ -279,7 +282,8 @@ Circulated, correspondence from Irish Water dated 6th January, 2020.
 
 Councillor Keary requested an update on the site identified by Irish Water for the
 
-proposed Askeaton waste water treatment plan.---
+proposed Askeaton waste water treatment plan.
+---
 5
 
 **10.**
@@ -308,4 +312,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

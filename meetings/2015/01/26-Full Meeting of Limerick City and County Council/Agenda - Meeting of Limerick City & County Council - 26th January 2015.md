@@ -72,7 +72,8 @@ Hyde Road, Limerick (28 unit apartment complex).
 
 (d)
 
-5, Marian Place, Roxboro, Limerick.---
+5, Marian Place, Roxboro, Limerick.
+---
 2
 
 (e)
@@ -157,7 +158,8 @@ and decide whether to make or amend the proposed Variation in accordance with
 
 Section 13 (5) of the Planning and Development Act 2000 (as amended).
 
-(Report already circulated)---
+(Report already circulated)
+---
 3
 
 (b)
@@ -266,7 +268,8 @@ Conference “The Finance Act 2014” to be held in Carlingford, Co. Louth, from
 
 Conference “Government's Construction 2020 Strategy, Local Government
 
-Housing Supply” to be held in Wexford from 6th to 8th February, 2015.---
+Housing Supply” to be held in Wexford from 6th to 8th February, 2015.
+---
 4
 
 (f)
@@ -333,7 +336,8 @@ I will ask at the next Meeting for a % breakdown of the recently adopted Budget 
 
 Limerick; (b) Adare-Rathkeale Municipal District; (c) Cappamore-Kilmallock Municipal
 
-District; (d) Newcastle West Municipal District.---
+District; (d) Newcastle West Municipal District.
+---
 5
 
 NOTICES OF MOTION
@@ -410,7 +414,8 @@ campaigns for marriage equality in Ireland and calls for a positive and progress
 
 outcome in the upcoming referendum on same sex marriage, extending equal rights and
 
-opportunities to the Lesbian, Gay, Bisexual and Transgender Community under law.---
+opportunities to the Lesbian, Gay, Bisexual and Transgender Community under law.
+---
 6
 
 Notice of Motion submitted by Cmhlr. S. Ó Ceallaigh
@@ -455,4 +460,5 @@ interest of public safety.
 
 **Correspondence.**
 
-(Copy of Correspondence Enclosed)---
+(Copy of Correspondence Enclosed)
+---

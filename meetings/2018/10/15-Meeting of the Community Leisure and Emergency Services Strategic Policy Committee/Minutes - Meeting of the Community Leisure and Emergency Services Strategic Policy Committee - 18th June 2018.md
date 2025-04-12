@@ -72,7 +72,8 @@ anticipates the successful implementation of same.
 
 **COMMUNITY, LEISURE AND EMERGENCY SERVICES STRATEGIC POLICY**
 
-**COMMITTEE**---
+**COMMITTEE**
+---
 **Item 3:**
 
 **Presentation on Civil Defence**
@@ -143,7 +144,8 @@ Cllr. L.M. Sheehy proposed that lifebuoys be installed at quarry sites.
 
 Cllr. Sheehan proposed that the Executive substantially increase the Water Safety budget for
 
-next year. The proposal was seconded by Cllr. G. Mitchell.---
+next year. The proposal was seconded by Cllr. G. Mitchell.
+---
 **Item 5:**
 
 **Presentation on Development and Scope of Work in the Southill Area**
@@ -198,4 +200,5 @@ Minutes Proposed By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Minutes Seconded By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

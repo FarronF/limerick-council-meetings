@@ -60,7 +60,8 @@ to the club.
 
 The Cathaoirleach thanked Mr. Murray and Mr. Finucane for their update and wished them well
 
-for the future.---
+for the future.
+---
 2
 
 2.
@@ -115,4 +116,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

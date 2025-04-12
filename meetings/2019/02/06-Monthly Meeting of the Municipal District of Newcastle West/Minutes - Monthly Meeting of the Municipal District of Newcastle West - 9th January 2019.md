@@ -74,7 +74,8 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 2.
@@ -135,7 +136,8 @@ allocate €2,000 for upgrade works at the Hill Road, Abbeyfeale, Co. Limerick.
 
 On the proposal of Councillor Sheahan, seconded by Councillor Galvin, it was agreed to
 
-allocate €1,000 to Glin Men’s Shed.---
+allocate €1,000 to Glin Men’s Shed.
+---
 3
 
 ADJOURNED QUESTIONS
@@ -268,7 +270,8 @@ Question submitted by Councillor L. Galvin
 
 ***I will ask at the next Meeting for a detailed breakdown of when the vacant houses in***
 
-***Abbeyfeale, Athea, Mountcollins, Tournafulla and Templeglantine will be occupied.***---
+***Abbeyfeale, Athea, Mountcollins, Tournafulla and Templeglantine will be occupied.***
+---
 4
 
 REPLY:
@@ -345,7 +348,8 @@ Question submitted by Councillor J. Scanlan
 
 ***I will ask at the next Meeting when a junction lining programme will take place throughout***
 
-***the Newcastle West Municipal District.***---
+***the Newcastle West Municipal District.***
+---
 5
 
 REPLY:
@@ -416,7 +420,8 @@ Question submitted by Councillor Galvin
 
 ***I will ask at the next Meeting for slow down signs to be placed on the approach to Reilig Ide***
 
-***Naofa, Abbeyfeale.***---
+***Naofa, Abbeyfeale.***
+---
 6
 
 REPLY:
@@ -499,7 +504,8 @@ estate to be made good.
 
 Clear access paths/cut back excess shrubbery or remove shrubs.
 
-Lawns near entrance gate- both sides to be topsoiled where required.---
+Lawns near entrance gate- both sides to be topsoiled where required.
+---
 7
 
 **Trip hazards**
@@ -582,7 +588,8 @@ All underground services to be provided to service unfinished houses (4 semi-
 
 detached) siding onto rear of houses 6 & 7 Foxfield and fronting onto house
 
-15 Ashgrove.---
+15 Ashgrove.
+---
 8
 
 Central green area to the front of No. 15 Ashgrove and paving to be
@@ -647,7 +654,8 @@ Comply with Condition No. 25 – “The developer shall submit to the Planning
 
 Authority within 3 months after completion of the development or within 3
 
-months of work commencing on a subsequent phase:---
+months of work commencing on a subsequent phase:
+---
 9
 
 As constructed drawings of all underground services, including SUS 25 sewer
@@ -724,7 +732,8 @@ attending the school.
 
 A discussion took place on pedestrian crossings and the funding required for same. The
 
-Members queried if funding would be available from Development Levy monies but the---
+Members queried if funding would be available from Development Levy monies but the
+---
 10
 
 Director advised that funding from the GMA local roads budget would be more appropriate.
@@ -799,7 +808,8 @@ There are only 7 houses to be serviced by the requested footpath. This would
 
 result in a cost of €18,580 per house to bring a footpath out this road.
 
-Therefore based on the above, this project is a cost prohibitive project.---
+Therefore based on the above, this project is a cost prohibitive project.
+---
 11
 
 21.
@@ -868,7 +878,8 @@ School, Glin with regard to attending a Meeting to address the Members on road s
 
 the school. The Members agreed to the attendance of a delegation at the February Meeting
 
-of the District.---
+of the District.
+---
 12
 
 It was agreed to hold the February Meeting of the District on Wednesday, 6th February,
@@ -885,4 +896,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

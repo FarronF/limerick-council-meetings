@@ -54,7 +54,8 @@ Dromkeen Graveyard
 
 3. Declaration of Interest
 
-There was no interest declared.---
+There was no interest declared.
+---
 4. Property Services
 
 Disposal of freehold interest at 13 Ashill was noted by the Elected Members
@@ -95,7 +96,8 @@ will be contacted to clarify their registration details.
 
 A postal registration must be received by 11th May and the date for closing the register is
 
-20th May.---
+20th May.
+---
 7.Discussion item on Bank of Ireland Building, Bruff
 
 An Cathaoirleach wished to acknowledge the investment report regarding investment by
@@ -168,7 +170,8 @@ it ever be determined that sale of the building is the most appropriate option, 
 
 consultation with the community, the sale would have to go to the open market and be
 
-brought in front of the Elected Members at both Municipal District and Full Council.---
+brought in front of the Elected Members at both Municipal District and Full Council.
+---
 The Elected Members were advised that the funding received under Town and Village
 
 renewal has a requirement to be used as applied for towards the development of an E-hub,
@@ -219,7 +222,8 @@ Mr Casey advised that there are Kilmallock and Bruff Community Plans in place wh
 
 be updated in due course. Bruff also has a Public realm plan in place.
 
-The Elected Members thanked Mr Casey for his presentation.---
+The Elected Members thanked Mr Casey for his presentation.
+---
 NOTICES OF MOTION
 
 9.Notice of Motion submitted by Councillor Donegan
@@ -264,7 +268,8 @@ with the Housing Directorate and internal checks with the Allocations team.
 
 **Proposed: Councillor Carey**
 
-**Seconded: Councillor Donegan**---
+**Seconded: Councillor Donegan**
+---
 QUESTIONS
 
 11.Question submitted by Councillor Donegan and Teefy
@@ -319,7 +324,8 @@ District.
 
  Replace worn shackles on Nexus Free Ride Unit = €341.00.
 
- New replacement head for Fish Rocker Unit = €1,129.00.---
+ New replacement head for Fish Rocker Unit = €1,129.00.
+---
 13.Question submitted by Councillor Carey
 
 “I will ask at the next meeting of the Cappamore-Kilmallock Municipal District meeting for
@@ -446,7 +452,8 @@ Maypole Crescent, Knocklong
 
 Eldery Bungalows Phase 3
 
-1---
+1
+---
 Ship Renewal
 
 Lot 6 – Mullally Lawn, Cappamore
@@ -563,7 +570,8 @@ Kilmallock
 
 right of way beside Barry’s garage, Lord Edward St, in Kilmallock would be advertised
 
-and formal consultation would take place.---
+and formal consultation would take place.
+---
  The Elected Members wished happy birthday to Noreen Ward, Murroe on her 104th
 
 birthday.
@@ -596,4 +604,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

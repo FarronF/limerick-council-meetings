@@ -80,7 +80,8 @@ And Resolved:
 
 Circulated, copy of draft Minutes of the Annual General Meeting of Municipal District
 
-of Newcastle West, held on 22nd June 2023.---
+of Newcastle West, held on 22nd June 2023.
+---
 2
 
 Proposed by: Councillor Collins
@@ -151,7 +152,8 @@ Following discussion, it was proposed by Councillor Galvin, seconded by Councill
 
 agreed by all the Members that the following material alterations be made to the proposed
 
-Draft Local Area Plan for Abbeyfeale.---
+Draft Local Area Plan for Abbeyfeale.
+---
 3
 
 **(a)**“I propose the zoning of lands from Agriculture to Enterprise and Employment (outlined
@@ -186,7 +188,8 @@ for housing, via a land swap.
 
 community.
 
-(Image omitted)---
+(Image omitted)
+---
 4
 
 The Members welcomed the Draft Local Area Plan for Abbeyfeale and acknowledged the work
@@ -223,7 +226,8 @@ The Senior Executive Officer referred to the report circulated in advance of the
 
 outlined the key changes since the last quarterly update.
 
-(Image omitted)---
+(Image omitted)
+---
 5
 
 She referred to the Housing for All Plan and gave a summary to the Members on the targets
@@ -304,7 +308,8 @@ Members on the current situation with regard to various street lights not workin
 
 District and stated that with the co-operation of the ESB a lot of these street lights should be
 
-operational again shortly.---
+operational again shortly.
+---
 6
 
 A lengthy discussion took place on a number of matters including the number of street lights
@@ -385,7 +390,8 @@ observations on the summary report and suggestions for inclusion in the Draft Li
 
 Climate Action Plan. These suggestions will be accepted from 7th July, 2023 to 4th August,
 
-2023. He referred to the anticipated timeframes in the delivery of the Plan including the---
+2023. He referred to the anticipated timeframes in the delivery of the Plan including the
+---
 7
 
 Drafting of the Plan from June 2023 to September 2023, Public Display period in
@@ -462,7 +468,8 @@ September 2023. Works period 6 months
 
  4 Lower Maiden Street, design and tender process ongoing, contractor appointment
 
-September 2023. Works period 6 months.---
+September 2023. Works period 6 months.
+---
 8
 
 10.Question submitted by Councillor J. Scanlan
@@ -539,7 +546,8 @@ approaches to this bend to indicate a sharp bend exists.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting how many legal proceedings were enacted for non-***---
+***I will ask at the next Meeting how many legal proceedings were enacted for non-***
+---
 9
 
 ***compliance of hedge cutting for the year 2022 and if Limerick City and County Council have***
@@ -612,7 +620,8 @@ finalised detail design, the procurement of land and economic environment at the
 
 tender. However it is estimated that the total scheme cost will be in the order of €1 million
 
-to €1.5 million.---
+to €1.5 million.
+---
 10
 
 To date the following is a breakdown of costs associated with this junction:
@@ -683,7 +692,8 @@ properties referred to above and to the delay in refurbishment of these properti
 
 replying, the Senior Executive Officer stated that legal transfers are underway at present and
 
-that Focus Housing Association has sought funding approval. She also stated that the---
+that Focus Housing Association has sought funding approval. She also stated that the
+---
 11
 
 Contractor employed on behalf of the Focus Housing Association is ready to commence works
@@ -760,7 +770,8 @@ limited to the following:
 
  Energy Retrofit Programmes
 
- Defective House Grant Scheme---
+ Defective House Grant Scheme
+---
 12
 
 The Government has assigned a central role to Local Authorities for the delivery of Housing
@@ -833,7 +844,8 @@ In proposing the Motion, Councillor Ruddle requested that the light at the entra
 
 Lane, Gortboy, be fixed and in replying, the Executive Engineer stated that a micro pillar is to
 
-be put in place at this location and the light is to be connected by the E.S.B. shortly.---
+be put in place at this location and the light is to be connected by the E.S.B. shortly.
+---
 13
 
 19. Notice of Motion submitted by Councillor L. Galvin
@@ -898,7 +910,8 @@ be sought for the installation of traffic calming measures at the village. Reque
 
 calming measures in Feohanagh and Athea was also made.
 
-The holding of a Briefing on the Dromcollogher Public Realm Plan was also raised.---
+The holding of a Briefing on the Dromcollogher Public Realm Plan was also raised.
+---
 14
 
 It was agreed that the Meetings Administrator would arrange a date for the next Joint Policing
@@ -919,4 +932,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -73,7 +73,8 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **2.Disposal of Land**
 
 To note proposal for the disposal of land as follows:
@@ -120,7 +121,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick that the
 
 and a map of all vacant land in the ownership of Limerick City and County Council, that are identified
 
-as suitable for either housing or recreation purposes.---
+as suitable for either housing or recreation purposes.
+---
 2
 
 **7.Question submitted by Councillor C. Sheehan**
@@ -177,7 +179,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 
 management plan for the Parkway Roundabout given the volume of traffic back on our roads and
 
-the previous commitment that the possibility of traffic lights being installed would be examined.---
+the previous commitment that the possibility of traffic lights being installed would be examined.
+---
 3
 
 **13.Question submitted by Councillor E. O’Donovan**
@@ -222,7 +225,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick, given t
 
 been set aside for the refurbishment of the Black Bridge in Plassey when will the necessary works
 
-commence and is there a timeframe involved to complete.---
+commence and is there a timeframe involved to complete.
+---
 4
 
 **NOTICES OF MOTION**
@@ -281,7 +285,8 @@ Education to consider establishing a new primary school in the Castletroy area t
 
 the significant increase in the population and new housing developments in the area, as the existing
 
-primary schools in the area are at their full capacity.---
+primary schools in the area are at their full capacity.
+---
 5
 
 **24.Notice of Motion submitted by Councillor S. Kiely**
@@ -312,4 +317,5 @@ to facilitate members of the public who wish to use this facility in the evening
 
 **27.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

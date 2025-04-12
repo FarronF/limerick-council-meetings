@@ -72,7 +72,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 of any declaration of interest in any item due for discussion at the Meeting. No such
 
-interests were declared.---
+interests were declared.
+---
 2
 
 It was agreed Item 4 on the Agenda would be taken next.
@@ -147,7 +148,8 @@ is planned for December 2025.
 
 All Members welcomed the update on the project. Following discussion a number of
 
-queries were raised by Members:---
+queries were raised by Members:
+---
 3
 
  Councillor O’Brien queried if the objection lodged against plans to raise the height
@@ -218,7 +220,8 @@ changes to the Housing Delivery report for the District since the last report an
 
 the percentage targets being met in accordance with the Housing Delivery Action Plan.
 
-Discussion ensued and the following issues were raised by Members.---
+Discussion ensued and the following issues were raised by Members.
+---
 4
 
  Councillor Keary queried how planning permission had been granted for a housing
@@ -297,7 +300,8 @@ Project to date.
 
 Members requested a timeline for when the scheme would be completed. The Senior
 
-Executive Engineer, Mid West Road Design Office advised it is hoped the scheme would---
+Executive Engineer, Mid West Road Design Office advised it is hoped the scheme would
+---
 5
 
 be completed by mid-2027, but noted that this was a very ambitious target and that there
@@ -366,7 +370,8 @@ District of Adare-Rathkeale.
 
 **I will move at the next Meeting no election posters for the 2024 local elections are**
 
-**erected in the Adare-Rathkeale Municipal District area.**---
+**erected in the Adare-Rathkeale Municipal District area.**
+---
 6
 
 It was agreed to defer this item to the January 2024 Monthly Meeting of the Municipal
@@ -431,4 +436,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

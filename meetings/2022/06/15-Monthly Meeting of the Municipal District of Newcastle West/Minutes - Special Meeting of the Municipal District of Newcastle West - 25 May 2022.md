@@ -62,7 +62,8 @@ these villages and in other areas nationally but stated that this does not pose 
 
 health. He also noted the ageing infrastructure in place in certain areas such as Broadford
 
-where water main replacement is required.---
+where water main replacement is required.
+---
 2
 
 The Operations Manager made reference to the number of burst water mains which have
@@ -123,4 +124,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

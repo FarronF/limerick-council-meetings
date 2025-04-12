@@ -80,7 +80,8 @@ County Council. He stated that he was aware of the challenges but assured the me
 
 he was trying to reach a “grass roots common” with an openness to change which he saw as
 
-crucial to the success of the project.---
+crucial to the success of the project.
+---
 **Item 3:**
 
 **Presentation on Creative Ireland Limerick Culture Plan**
@@ -153,11 +154,13 @@ prevention strategy and praised the sub committee for their good work to date.
 
 Ms. C. Kirby, A/Director of Service thanked Cllr. F.Foley for his last meeting as chairperson.
 
-Cllr.F.Foley wished everyone the best of luck for the future---
+Cllr.F.Foley wished everyone the best of luck for the future
+---
 Minutes Proposed By:
 
 Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

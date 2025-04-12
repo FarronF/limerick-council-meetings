@@ -64,7 +64,8 @@ And Resolved:
 
 “That the Chief Executive’s Report dated 5th July, 2017 with regard to extension of the Great
 
-Southern Greenway walking and cycling route from Rathkeale to Ballingarrane, County---
+Southern Greenway walking and cycling route from Rathkeale to Ballingarrane, County
+---
 2
 
 Limerick along the former Limerick to Kerry railway line is approved subject to the following
@@ -87,4 +88,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

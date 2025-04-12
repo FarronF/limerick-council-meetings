@@ -70,7 +70,8 @@ Rathkeale held on 8th October, 2019.
 
 Proposed by Councillor O’Donoghue;
 
-Seconded by Councillor Collins;---
+Seconded by Councillor Collins;
+---
 2
 
 And Resolved:
@@ -145,7 +146,8 @@ Engineer, Mr. Richard Gorey, Mid West National Road Design Office to the Meeting
 
 Senior Executive Engineer addressed the Meeting and outlined details of the proposed
 
-scheme which will include a zebra crossing, designated set down areas, road signage,---
+scheme which will include a zebra crossing, designated set down areas, road signage,
+---
 3
 
 resurfacing and drainage works. Following discussion, it was agreed a bus shelter would
@@ -210,7 +212,8 @@ a date and time in due course. Councillor Keary also requested the Senior Archit
 
 Housing Development Directorate provide an update on the 16 acre site in Adare for the
 
-next Meeting.---
+next Meeting.
+---
 4
 
 **6.**
@@ -277,7 +280,8 @@ with a view to installing a right turn lane on the Adare to Croagh side of the
 
 roadway. Councillor Keary also requested a traffic count take place to establish
 
-the volume of cars who use this junction.---
+the volume of cars who use this junction.
+---
 5
 
 **QUESTIONS**
@@ -352,7 +356,8 @@ by the Gardaí.
 
 **calming measures at Castlequarter Heights, Cluain Ard, Ballyea Close and Clohessy**
 
-**Park.**---
+**Park.**
+---
 6
 
 **REPLY:**
@@ -429,7 +434,8 @@ above’.
 
 **We will move at the next Meeting that the Council carry out a traffic survey in Loughill,**
 
-**Co. Limerick with a view to having traffic calming measures installed.**---
+**Co. Limerick with a view to having traffic calming measures installed.**
+---
 7
 
 **REPLY:**
@@ -456,4 +462,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

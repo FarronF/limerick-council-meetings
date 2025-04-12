@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-06-23 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-54)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-54" target="_blank">Link to meeting</a>**

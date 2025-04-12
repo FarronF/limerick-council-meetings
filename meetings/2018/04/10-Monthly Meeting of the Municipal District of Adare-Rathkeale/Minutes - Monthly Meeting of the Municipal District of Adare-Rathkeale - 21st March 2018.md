@@ -54,7 +54,8 @@ harmonisation of housing rent payable by tenants between City and County. On the
 
 proposal of Councillor Sheahan, seconded by Councillor O’Donoghue it was agreed that
 
-this matter should be brought to the Full Council Meeting.---
+this matter should be brought to the Full Council Meeting.
+---
 2
 
 **2.**
@@ -127,7 +128,8 @@ Woodvale, Foynes, Co. Limerick.
 
 Report, as circulated, was proposed by Councillor Sheahan and seconded by Councillor
 
-O’Brien.---
+O’Brien.
+---
 3
 
 **6.**
@@ -196,7 +198,8 @@ issues in Askeaton.
 
 Members expressed their disappointment that following promises from the Senior
 
-Minister with responsibility for costal erosion and flooding a number of years back that---
+Minister with responsibility for costal erosion and flooding a number of years back that
+---
 4
 
 funding would be provided to address the flooding issues at Askeaton. The matter has to
@@ -253,7 +256,8 @@ carried out under the road. This Survey will be passed to Central Services
 
 whom will assess the damage caused and arrange for a repair when funds
 
-become available.---
+become available.
+---
 5
 
 **13.**
@@ -320,7 +324,8 @@ area.
 
 Councillor Teskey questioned why the €25,000,000 revenue for motor tax that was
 
-collected in Limerick cannot be returned to Limerick to use better quality materials to---
+collected in Limerick cannot be returned to Limerick to use better quality materials to
+---
 6
 
 improve the road conditions. Members agreed that this money needs to be spent on
@@ -379,4 +384,5 @@ Signed :
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

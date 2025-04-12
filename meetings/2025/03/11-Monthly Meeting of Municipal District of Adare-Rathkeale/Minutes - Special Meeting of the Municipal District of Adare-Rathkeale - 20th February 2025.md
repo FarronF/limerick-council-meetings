@@ -64,7 +64,8 @@ works to be carried out prior to the event and requested Members would consider
 
 contributing from their General Municipal Allocation Funds towards the cost of these
 
-works.---
+works.
+---
 Councillor Teskey requested the funding to cover the costs associated with the event
 
 should be funded from the Mayor’s discretionary budget. This was seconded by
@@ -97,4 +98,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

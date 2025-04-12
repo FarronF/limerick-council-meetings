@@ -60,4 +60,5 @@ highlighted in the number of houses awaiting window and door replacement.
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

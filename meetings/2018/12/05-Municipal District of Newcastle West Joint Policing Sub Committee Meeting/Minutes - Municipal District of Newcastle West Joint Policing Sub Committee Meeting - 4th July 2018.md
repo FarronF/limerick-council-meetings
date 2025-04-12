@@ -72,7 +72,8 @@ stated that arrests have taken place with regard to the theft of quad bikes and 
 
 ceased. He also referred to rural burglaries but these have also decreased due to arrests
 
-being made.---
+being made.
+---
 2
 
 Inspector Cullen stated that incidents of criminal damage is on the increase with incidents
@@ -141,4 +142,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

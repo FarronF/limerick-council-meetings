@@ -32,7 +32,8 @@ Kilmallock held on the 18th May 2023
 
 2.Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 18th May 2023.---
+Relating to the Minutes of the Municipal District Meeting of 18th May 2023.
+---
 2
 
 3.Deputation by Garrienderk Community Development.
@@ -79,4 +80,5 @@ in store for the building.
 
 I will ask at the next Municipal District meeting are there any plans for a Columbarium Wall
 
-or Ash Plots in the District.---
+or Ash Plots in the District.
+---

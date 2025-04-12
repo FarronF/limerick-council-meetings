@@ -86,7 +86,8 @@ Section 3 assaults
 
 1
 
-4---
+4
+---
 2
 
 In relation to burglaries, there were arrests in Baggotstown, Bruff and Kilfinane.
@@ -159,7 +160,8 @@ Superintendent regarding the issues highlighted above and provide an update on s
 
 Travel and Transport SPC in June and back to the Cappamore Kilmallock Joint Policing
 
-Committee.---
+Committee.
+---
 3
 
 New Operating Model
@@ -186,4 +188,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

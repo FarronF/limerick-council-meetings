@@ -73,7 +73,8 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 **2.Disposal of Land**
 
 To note proposal for the disposal of land as follows:
@@ -120,7 +121,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 
 Park are left to complete in the thermal upgrade works and what timescale is envisaged to complete
 
-the works.---
+the works.
+---
 3
 
 **7.Question submitted by Councillor C. Slattery**
@@ -179,7 +181,8 @@ of the draft LSMATS, if the Council will commit to liaise with the NTA, to prior
 
 enhancement on the Condell Road, to serve the new and proposed housing developments, as well
 
-as Coonagh and the expansion of the TUS Campus at Coonagh Cross.---
+as Coonagh and the expansion of the TUS Campus at Coonagh Cross.
+---
 4
 
 **13.Question submitted by Councillor J. Costelloe**
@@ -240,7 +243,8 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 
 capacity audit of Loughmore Canal and also examine the possibility of installing bunding around the
 
-culvert pipe at the canal.---
+culvert pipe at the canal.
+---
 5
 
 **19.Notice of Motion submitted by Councillor S. Kiely**
@@ -249,4 +253,5 @@ I will move at the next Meeting of the Metropolitan District of Limerick that we
 
 possibility of having a temporary library for the Castletroy/Annacotty community until a permanent
 
-solution is found for the provision of a library for the area.---
+solution is found for the provision of a library for the area.
+---

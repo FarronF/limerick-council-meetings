@@ -68,7 +68,8 @@ Sheehan noted that Deel Manor was a private estate and spoke of the struggle hom
 
 have in meeting mortgage payments, the challenges of negative equity and the risk that the
 
-actions of Approved Housing Bodies (AHBs), purchasing property on the estate, would devalue---
+actions of Approved Housing Bodies (AHBs), purchasing property on the estate, would devalue
+---
 2
 
 property there. Ms. Sheehan noted the extent of vacant property throughout the City and
@@ -151,7 +152,8 @@ On the proposal of Councillor Sheahan, seconded by Councillor Keary it was agree
 
 District write to the Minister for Housing, Planning, Community and Local Government calling
 
-on him to allow Local Authorities, based on their experience, to use their discretion in how---
+on him to allow Local Authorities, based on their experience, to use their discretion in how
+---
 3
 
 they apply, or not apply, requirements in relation to the percentage of social and affordable
@@ -236,7 +238,8 @@ sanctions associated with same. AHB’s had similar arrangements in place.
 
 Following discussion it was agreed that the May Meeting of the District would be held on
 
-Wednesday 17th May, 2017 at 2.00 p.m. in Croom.---
+Wednesday 17th May, 2017 at 2.00 p.m. in Croom.
+---
 4
 
 This concluded the Meeting.
@@ -249,4 +252,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

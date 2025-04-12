@@ -78,7 +78,8 @@ stakeholders to understand health as a state of complete physical, mental and so
 
 being and not merely as the absence of disease or infirmity. Healthy Limerick is also inviting
 
-all sectors in Limerick to appreciate that health is not simply about individuals' behaviours.---
+all sectors in Limerick to appreciate that health is not simply about individuals' behaviours.
+---
 Health is strongly influenced by the circumstances in which people are born, grow, live, work
 
 and age, as well as the systems put in place to deal with illness, i.e. the Social Determinants
@@ -169,7 +170,8 @@ resources should be put into schools to promote healthy living such as healthy l
 
 M. Healy commended the Council for providing walkways and amenities under Smarter
 
-Travel.---
+Travel.
+---
 Cllr. M. Hurley pointed to the low take-up of bowel screening and more resources should be
 
 put into marketing programmes such as bowel screening. Cllr. M. Hurley agreed that home
@@ -248,7 +250,8 @@ constituents with mental health issues and also to deal with stress in their own
 
 Councillor. Cllr. J. Costello asked for support for the Darkness into Light walk at Thomond
 
-Park on 6 May 2017.---
+Park on 6 May 2017.
+---
 **Item 4**
 
 **Presentation on festival and events research carried out by Limerick City**
@@ -335,7 +338,8 @@ national funding from Failte Ireland. A. Potter-Coogan said that only six of the
 
 applications submitted to Failte Ireland had met the criteria and re-iterated that we need to
 
-work with the festival organisers to develop their skills in seeking funding, in particular on---
+work with the festival organisers to develop their skills in seeking funding, in particular on
+---
 the evaluation process with Failte Ireland i.e. off season, strong markets, 500 bed nights.
 
 Cllr. G. Mitchell said the criteria of 500 bed nights would be difficult to achieve. A. Potter-
@@ -370,4 +374,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

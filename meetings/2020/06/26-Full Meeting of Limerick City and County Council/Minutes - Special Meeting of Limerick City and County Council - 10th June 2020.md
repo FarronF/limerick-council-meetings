@@ -58,7 +58,8 @@ also not available to host the Meeting.
 
 On the proposal of Councillor Ryan (E), seconded by Councillor Sheahan (J), it was agreed to
 
-select Limerick Racecourse, Patrickswell, as the venue for the Annual Meeting.---
+select Limerick Racecourse, Patrickswell, as the venue for the Annual Meeting.
+---
 2
 
 2.Fixing of Date and Venue for next Ordinary Meeting of the Council
@@ -109,4 +110,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

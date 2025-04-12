@@ -66,7 +66,8 @@ Denis was a thorough gentleman who represented his constituents with great enthu
 
 and his dedication to his community was unwavering. He took his duties seriously, always
 
-preparing meticulously for events and ensuring he represented the council with insight and---
+preparing meticulously for events and ensuring he represented the council with insight and
+---
 **2**
 
 grace. One of Denis’s significant contributions during his tenure was his focus on
@@ -141,7 +142,8 @@ Members thanked the Mayor for his presentation and welcomed a plan to progress L
 
 further. However, some Members raised concerns around the timeline to draft this
 
-programme and encouraged the Mayor to meet with the Members of the Districts to agree---
+programme and encouraged the Mayor to meet with the Members of the Districts to agree
+---
 **3**
 
 priorities for each area. Some Members emphasised the importance of addressing issues in
@@ -206,7 +208,8 @@ Moran, O’Donoghue, Ryan (E), Scanlan, Secas, Sheehan (C), Teefy. (16)
 
 **Abstentions**
 
-There were no Abstentions.---
+There were no Abstentions.
+---
 **4**
 
 This concluded the Meeting.
@@ -219,4 +222,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

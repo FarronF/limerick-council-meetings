@@ -54,7 +54,8 @@ Awards Ceremony.
 
 Regarding the response to the question on playground repair, clarification was requested
 
-regarding the swing in the Kilmallock playground which has been left idle, and the high---
+regarding the swing in the Kilmallock playground which has been left idle, and the high
+---
 quotation for repair of the wetpour. This query will be forwarded to the appropriate
 
 department.
@@ -109,7 +110,8 @@ Further to a request on details of voids in the Municipal District, it was agree
 
 Meetings administrator would circulate a response to a recent question on the issue
 
-(December 2023).---
+(December 2023).
+---
 6.
 
 Biodiversity Officer
@@ -162,7 +164,8 @@ at Davy’s Bar, Effin be appraised for review and that safety measures are reco
 
 necessary improvements, be it a mountable roundabout, road markings, improved sightlines
 
-etc.”---
+etc.”
+---
 **REPLY:**
 
 The Cappamore-Kilmallock Municipal District Office will review the Junction in Effin and
@@ -217,7 +220,8 @@ Junction and determine what measures may be required. Any improvement works that
 
 be needed will be costed and a submission made to the relevant funding authority for
 
-consideration.---
+consideration.
+---
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor Carey**
@@ -262,7 +266,8 @@ location indicated in Cllr. Carey’s question.
 
 13.
 
-Question submitted by Councillor Teefy---
+Question submitted by Councillor Teefy
+---
 I will ask at the next meeting of the Municipal District what the possibility is of
 
 improvement/ safety work to be carried out on the bend at Kilballyowen on the L1502
@@ -319,7 +324,8 @@ October 2023. During the course of this hearing, An Bord Pleanála conceded the 
 
 the judge agreed to remit, (“send back”) the Compulsory Purchase Order Application to An
 
-Bord Pleanála for their renewed consideration. A new Oral Hearing will be held into the---
+Bord Pleanála for their renewed consideration. A new Oral Hearing will be held into the
+---
 Compulsory Purchase Order in due course by An Bord Pleanála, however as yet we have not
 
 been advised of a date for this hearing.
@@ -360,4 +366,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

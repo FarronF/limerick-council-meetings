@@ -72,7 +72,8 @@ Councillors Byrne, Clifford, Collins, Crowley, Daly, Gilligan, Hourigan, Hurley,
 
 O’Dea, O’Hanlon and Secas
 
-**(13)**---
+**(13)**
+---
 2
 
 **AGAINST**
@@ -153,7 +154,8 @@ In seconding the motion Councillor Leddin noted that the Council was the owner o
 
 site on Upper Gerald Griffin Street that had trees growing from same and asked that this be
 
-addressed.---
+addressed.
+---
 3
 
 Councillor Keller highlighted issues in relation to 26 / 27 Edward Street and asked that these be
@@ -240,7 +242,8 @@ response to same.
 
 **Notice of Motion submitted by Councillor Daniel Butler**
 
-***I will move at the next meeting that all representative bodies that work in the city centre are***---
+***I will move at the next meeting that all representative bodies that work in the city centre are***
+---
 4
 
 ***invited to participate on a committee to develop a night time strategy for Limerick City centre.***
@@ -319,7 +322,8 @@ structure of any committee and it was agreed that the matter would be referred t
 
 ***particular.***
 
-The motion was proposed by Councillor Crowley and seconded by Councillor Daly.---
+The motion was proposed by Councillor Crowley and seconded by Councillor Daly.
+---
 5
 
 **REPLY**:
@@ -418,7 +422,8 @@ in
 
 conjunction
 
-with the Council’s Capital Works Department, designs are being considered for---
+with the Council’s Capital Works Department, designs are being considered for
+---
 6
 
 the reassignment of traffic lane provisions on the Dock Road R510 (between
@@ -497,7 +502,8 @@ following additional points were raised during discussion on same:
 
  That issues relating to planning should be included for discussion on the agenda for District
 
-meetings.---
+meetings.
+---
 7
 
  Many support services were required in conjunction with social housing and Members were
@@ -586,7 +592,8 @@ In the Call for Proposals 15 projects were submitted with 6 receiving funding
 
 approval in principle.
 
-All AHB’s have responsibility for the delivery of the approved projects and have to---
+All AHB’s have responsibility for the delivery of the approved projects and have to
+---
 8
 
 go through the normal planning permission process.
@@ -665,7 +672,8 @@ Councillor Secas also acknowledged the co-operation of staff in bringing forward
 
 resolve this issue which had already been discussed in detail at the operational briefings and
 
-asked that these proposals be discussed with local residents.---
+asked that these proposals be discussed with local residents.
+---
 9
 
 **REPLY**:
@@ -712,4 +720,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

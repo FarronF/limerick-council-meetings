@@ -74,4 +74,5 @@ Any Other Business
 
 **Chairperson**
 
-**Cultural SPC, Limerick City & County Council**---
+**Cultural SPC, Limerick City & County Council**
+---

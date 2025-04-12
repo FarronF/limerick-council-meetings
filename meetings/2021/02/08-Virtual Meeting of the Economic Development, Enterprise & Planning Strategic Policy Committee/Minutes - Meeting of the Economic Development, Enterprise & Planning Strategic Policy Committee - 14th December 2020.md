@@ -68,7 +68,8 @@ which outlined the importance of integration of new and existing communities, a 
 
 accommodation for all ages and inclusion of retail and office space to encourage job creation and
 
-facilities to encourage arts, culture and sporting activities.---
+facilities to encourage arts, culture and sporting activities.
+---
 A number of stakeholder meetings took place and feedback from these will inform the next stage of
 
 the project, which will be the creation of a Spatial Framework, which will include key objectives for
@@ -143,7 +144,8 @@ Maria stated that the NPF and RSES sets out the main guidelines in relation to r
 
 She stated that a workshop would be organised for elected members to discuss rural housing,
 
-development of towns and villages and the promotion of use of serviced sites.---
+development of towns and villages and the promotion of use of serviced sites.
+---
 It was confirmed that a list of protected structures in each of the Municipal Areas had been circulated
 
 to Elected Members and that an updated list would be circulated to the Sectoral Interests and PPN
@@ -208,7 +210,8 @@ V. Murray informed members that the Report will be presented to Waterways Irelan
 
 consideration as they have responsibility for the management of the river.
 
-It was agreed to circulate a copy of the presentation to members.---
+It was agreed to circulate a copy of the presentation to members.
+---
 **Item 5**
 
 **To consider Notice of Motion referred from Metropolitan District Meeting, held on 16th** **November, 2020,**
@@ -235,4 +238,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

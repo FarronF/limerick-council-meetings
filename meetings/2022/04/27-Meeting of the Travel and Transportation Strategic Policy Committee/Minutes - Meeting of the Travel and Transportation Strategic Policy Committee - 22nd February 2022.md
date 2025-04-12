@@ -48,7 +48,8 @@ p.m. Cllr. Secas agreed with Cllr. Teefy regarding the times of SPC meeting date
 
 to rearrange the times of SPC Meetings to suit all members.
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Item 3: Update on Limerick Shannon Metropolitan Area Transport Strategy (LSMATS) -**
@@ -115,7 +116,8 @@ scheme will be going to tender shortly and anticipates that contractors will be 
 
 this year. He also confirmed that a schedule for District Works will be brought to all Municipal
 
-districts in April 2022.---
+districts in April 2022.
+---
 3
 
 **Item 5: Presentation: Mobility Management Measures for Business - Ms. Karen McDonnell**
@@ -186,7 +188,8 @@ more intensive centre-out development proposed and emphasis on the 10 to 15-minu
 
 travel zone. Ms. McDonnell agreed with Mr. Gallagher regarding implementing measures in the
 
-Local Authority and the other areas he addressed.---
+Local Authority and the other areas he addressed.
+---
 4
 
 **Item 6: Presentation: Regulating shared car service for Limerick City -** **Mr. John O’Leary**
@@ -249,7 +252,8 @@ The Chair proposed to get the byelaws published first and then the market will d
 
 confirmed that the Council will be running a new competition once bye-laws are in place. GoCar
 
-was a pilot but a full tender process will be put in place.---
+was a pilot but a full tender process will be put in place.
+---
 5
 
 **Item 7: Notice of Motion submitted by Mr. Bruce Harper**
@@ -326,7 +330,8 @@ Referring to Cllr. O’Hanlon’s point, Mr. Gallagher added that the NDP identi
 
 projects in which considerable evaluation processes, in the form of technical, economic and
 
-environmental needs, will be assessed, and this forms the basis of the evaluation process.---
+environmental needs, will be assessed, and this forms the basis of the evaluation process.
+---
 6
 
 Cllr. Kilcoyne agreed with Cllr. O’Hanlon, as the Motion would put a lot of pressure on the
@@ -395,7 +400,8 @@ Mr. Harper stated that in relation to honesty, LCCC has not put processes in pla
 
 withdraw the signatory to the Local Authority Climate Charter (2019) for not adhering to the
 
-obligations.---
+obligations.
+---
 7
 
 Mr Gallagher added that a roads project has to be looked at a local and national level, and not
@@ -478,7 +484,8 @@ allocation for disabled drivers?
 
 When will the next review take place?
 
-This item was moved to the next SPC Meeting to be held on the 19th April 2022.---
+This item was moved to the next SPC Meeting to be held on the 19th April 2022.
+---
 8
 
 **Item 9: Question submitted by Ms. Ailish Drake**
@@ -513,4 +520,5 @@ The Chair thanked all members for attending and confirmed that the next SPC Meet
 
 held on Tuesday, the 19th April 2022.
 
-The Meeting then concluded.---
+The Meeting then concluded.
+---

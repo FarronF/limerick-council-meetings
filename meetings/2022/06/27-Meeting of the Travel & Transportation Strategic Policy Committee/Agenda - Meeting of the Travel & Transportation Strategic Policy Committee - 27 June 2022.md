@@ -29,7 +29,8 @@ in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -56,4 +57,5 @@ Tuesday 18th April 2023 @ 3:30 p.m.
 
 **6.** **Health Benefits arising from implementation of a low noise road surface -**
 
-**Dr. Simon Jennings, A/Senior Executive Scientist**---
+**Dr. Simon Jennings, A/Senior Executive Scientist**
+---

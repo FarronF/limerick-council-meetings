@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-05-25 19:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/citizen-engagement/limerick-city-public-meeting-draft-river-basin-management-plan)**
+**<a href="https://www.limerick.ie/council/whats-on/citizen-engagement/limerick-city-public-meeting-draft-river-basin-management-plan" target="_blank">Link to meeting</a>**

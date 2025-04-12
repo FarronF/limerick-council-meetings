@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-06-21 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-planning-strategic-policy-committee-2)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-planning-strategic-policy-committee-2" target="_blank">Link to meeting</a>**

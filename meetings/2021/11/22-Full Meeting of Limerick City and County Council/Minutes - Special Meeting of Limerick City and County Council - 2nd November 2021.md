@@ -58,7 +58,8 @@ confirmed that the Government had set a target of 300,000 homes to be delivered 
 
 next decade for social, affordable and cost rental, private rental and private ownership
 
-housing, supported by over €4 billion in funding annually.---
+housing, supported by over €4 billion in funding annually.
+---
 **2**
 
 She then gave a PowerPoint presentation to the Members summarising the Affordable
@@ -137,7 +138,8 @@ Economic Strategies (RSESs).
 
 location and place typology in accordance with Sustainable Residential Development in
 
-Urban Areas, issued as statutory Guidelines for Planning Authorities in 2009.---
+Urban Areas, issued as statutory Guidelines for Planning Authorities in 2009.
+---
 **3**
 
 5. Unit cost ceilings apply to proposals for affordable homes with a €375,000 cap per unit in
@@ -216,7 +218,8 @@ that no definition of affordability had been provided in the plan and that the D
 
 Housing, Local Government & Heritage should be asked to provide a definition of it. The
 
-Members also wanted clarification as to how the Metropolitan area of Limerick is defined and---
+Members also wanted clarification as to how the Metropolitan area of Limerick is defined and
+---
 **4**
 
 was it based on the Metropolitan District of Limerick electoral boundary. They also queried
@@ -295,7 +298,8 @@ immediately extend or suspend a Development Plan review process that is currentl
 
 underway. It remains the case that there is generally a two year period within which to
 
-complete the process (with plan reviews that were under way during all or part of an 8----
+complete the process (with plan reviews that were under way during all or part of an 8-
+---
 **5**
 
 week 'suspension' period from 29 March 2020 as a result of Covid, subject to up to a further
@@ -344,4 +348,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

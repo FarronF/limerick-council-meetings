@@ -66,7 +66,8 @@ Seconded by Councillor O’Donoghue;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 Following the adoption of the minutes Councillor O’Donoghue stated he had requested
@@ -147,7 +148,8 @@ Teskey queried who would be responsible for maintaining the timber boundary fenc
 
 the future. The Town Regeneration Officer, Rural Development agreed to discuss
 
-maintenance issues with the Parks Department and revert to Members. Councillor Keary---
+maintenance issues with the Parks Department and revert to Members. Councillor Keary
+---
 3
 
 requested consideration be given to change the specification of the fencing to mesh
@@ -220,7 +222,8 @@ design has not been finalised and the installation of street lighting will be lo
 
 then. Councillor O’Donoghue requested the survey costs associated with the footpath
 
-extension from Kildimo to the Beer Garden be provided by the next meeting.---
+extension from Kildimo to the Beer Garden be provided by the next meeting.
+---
 4
 
 **5.**
@@ -291,7 +294,8 @@ to allocate €3,000 to Manor Fields, Adare.
 
 On the proposal of Councillor Teskey, seconded by Councillor Collins, it was agreed to
 
-allocate the following:---
+allocate the following:
+---
 5
 
  €2,000 to Coolcappa Community Centre.
@@ -362,7 +366,8 @@ in the summer.
 
 **and for the Local Authority to explain the exact areas for which the appointment will be**
 
-**responsible for and what exactly are the functions of the said appointment.**---
+**responsible for and what exactly are the functions of the said appointment.**
+---
 6
 
 **REPLY:**
@@ -443,7 +448,8 @@ structurally unsound and dangerous property) is available for the
 
 refurbishment of vacant properties for occupation as a principal private
 
-residence, and for properties which will be made available for rent,---
+residence, and for properties which will be made available for rent,
+---
 7
 
 including the conversion of properties which have not been used as
@@ -528,7 +534,8 @@ How many applications did not have a Section 5 request.
 
 The Motion was proposed by Councillor Teskey, seconded by Councillor O’Donoghue and
 
-agreed.---
+agreed.
+---
 8
 
 In proposing the Motion Councillor Teskey requested a full breakdown of what the
@@ -605,7 +612,8 @@ The Adare Rathkeale Velocity Patcher operated for 210 days during 2024.
 
 This compares favourably with the other rural districts of Kilmallock –
 
-Cappamore 202 days and Newcastle West 222 days.---
+Cappamore 202 days and Newcastle West 222 days.
+---
 9
 
 There were periods throughout the year when there were interruptions to
@@ -686,7 +694,8 @@ April Municipal District Meeting to discuss the Adare Bypass, in particular the
 
 commencement location on the Limerick side of the project.
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 10
 
 Signed:
@@ -697,4 +706,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

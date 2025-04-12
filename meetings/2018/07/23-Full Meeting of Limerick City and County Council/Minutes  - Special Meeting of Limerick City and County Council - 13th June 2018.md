@@ -60,7 +60,8 @@ of their bravery in the carrying out of their duties on behalf of the people of 
 
 Ireland and as a token of the high esteem and affection in which they were held by the people
 
-of Limerick.---
+of Limerick.
+---
 2
 
 It was agreed that the Freedom Ceremony would take place at 6.30 p.m. on Thursday,
@@ -79,4 +80,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

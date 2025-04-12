@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-09-09 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-briefing-members-municipal-district-newcastle-west)**
+**<a href="https://www.limerick.ie/council/whats-on/private-briefing-members-municipal-district-newcastle-west" target="_blank">Link to meeting</a>**

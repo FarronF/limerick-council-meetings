@@ -82,7 +82,8 @@ Seconded by Councillor Hourigan;
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 2.
@@ -163,7 +164,8 @@ Proposed by Councillor Collins (J);
 
 Seconded by Councillor Browne;
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That, the approval of the Council be and is hereby given to the disposal of 0.2478
@@ -228,7 +230,8 @@ Committee Scheme, which had been prepared in accordance with Guidelines received
 
 the Department, and that the Guidelines would apply in relation to any new Strategic Policy
 
-Committee.---
+Committee.
+---
 4
 
 4.
@@ -307,7 +310,8 @@ Circulated, report of the Senior Executive Officer, Corporate Services, dated 7t
 
 2017, setting out Schedule of proposed dates for Strategic Policy Committee Meetings up to
 
-July 2018.---
+July 2018.
+---
 5
 
 On the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), the
@@ -378,7 +382,8 @@ area. The JPC Guidelines 2014 required that each JPC prepare a 6-Year Strategic 
 
 Annual Plan and that these should be linked to the objectives of the Local Economic and
 
-Community Plan (LECP). Work had been ongoing in relation to the preparation of the---
+Community Plan (LECP). Work had been ongoing in relation to the preparation of the
+---
 6
 
 Strategic Plan over the past year and, at a meeting of the Joint Policing Committee held on
@@ -449,7 +454,8 @@ And Resolved:
 
 “That, the Charter for Limerick City and County Council’s Audit Committee, as
 
-circulated, be and is hereby adopted.”---
+circulated, be and is hereby adopted.”
+---
 7
 
 (ii)
@@ -522,7 +528,8 @@ Environment Strategic Policy Committee
 
 Circulated, Report of the Chairperson of the Environment Strategic Policy Committee
 
-dated 14th July, 2017, in relation to Meeting of the Committee held on 26th June, 2017.---
+dated 14th July, 2017, in relation to Meeting of the Committee held on 26th June, 2017.
+---
 8
 
 (a)
@@ -587,7 +594,8 @@ Committee in relation to Meeting of the Committee held on 3rd July, 2017.
 
 It was noted that this Recommendation would be dealt with under Item No. 7 (b) on
 
-the Agenda.---
+the Agenda.
+---
 9
 
 •
@@ -668,7 +676,8 @@ Depot.
 
 • Significant costs were being incurred in the taking-in-charge of estates which was an
 
-ongoing rolling programme.---
+ongoing rolling programme.
+---
 10
 
 The report was noted by the Council.
@@ -733,7 +742,8 @@ Seconded by Councillor Galvin;
 
 “That, Councillors Hourigan and Hurley be appointed to the Limerick Northern
 
-Distributor Road Sub-Committee.”---
+Distributor Road Sub-Committee.”
+---
 11
 
 Proposed by Councillor Collins (M);
@@ -804,7 +814,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Galvin;
 
-And Resolved:---
+And Resolved:
+---
 12
 
 “That, the approval of the Council be and is hereby given to the disbursement of the
@@ -869,7 +880,8 @@ higher education over a range of years.
 
 • The extent of investment needed in higher education as outlined in the Cassells Report.
 
-• The case for increased investment in higher education.---
+• The case for increased investment in higher education.
+---
 13
 
 • Details of the Higher Education Service in Germany as an international exemplar.
@@ -928,7 +940,8 @@ The Mayor thanked the Deputation for their presentation and advised that the
 
 Deputation should contact the Members further with regard to any related Motion that
 
-should go forward to the next Meeting. The Deputation then withdrew.---
+should go forward to the next Meeting. The Deputation then withdrew.
+---
 14
 
 8.
@@ -995,7 +1008,8 @@ The reports were noted by the Members.
 
 Union of Students in Ireland (USI)
 
-It was noted that Item No. 10 had already been dealt with.---
+It was noted that Item No. 10 had already been dealt with.
+---
 15
 
 ADJOURNED NOTICE OF MOTION
@@ -1062,7 +1076,8 @@ properties for acquisition and leasing under the ‘Buy and Renew’ and ‘Repa
 
 and Lease’ schemes launched as part of *Rebuilding Ireland: Action Plan for*
 
-*Housing and Homelessness.*---
+*Housing and Homelessness.*
+---
 16
 
 13.
@@ -1137,7 +1152,8 @@ It is not possible to confirm the number of units that will be purchased or
 
 leased by year end under these schemes. However, Limerick City and County
 
-Council are actively seeking to maximise the number of units delivered.---
+Council are actively seeking to maximise the number of units delivered.
+---
 17
 
 NOTICES OF MOTION
@@ -1214,7 +1230,8 @@ In proposing the Motion, Councillor Sheahan (J) sought clarity on the brief that
 
 been given by the Council to RPS and whether RPS recommendations had to be accepted in
 
-totality or whether Council Engineers could have counter proposals. He noted that in---
+totality or whether Council Engineers could have counter proposals. He noted that in
+---
 18
 
 Newcastle West, speed limits were being moved in towards the town, in some instances
@@ -1291,7 +1308,8 @@ Notice of Motion submitted by Councillor S. Lynch **(to be referred to the**
 
 ***system of regulation for the online marketing of unhealthy food and drinks, directed at***
 
-***children.***---
+***children.***
+---
 19
 
 It was agreed to refer this Motion to the Home and Social Development Strategic
@@ -1342,4 +1360,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

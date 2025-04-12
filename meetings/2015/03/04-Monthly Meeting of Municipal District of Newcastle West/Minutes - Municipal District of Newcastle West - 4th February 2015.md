@@ -78,7 +78,8 @@ notification of Members on Housing Allocations.
 
 In response to a query re the accessibility of the new footbridge in Newcastle West, the
 
-Director clarified that a ramp is included in the design, but has not yet been constructed.---
+Director clarified that a ramp is included in the design, but has not yet been constructed.
+---
 2
 
 2.
@@ -157,7 +158,8 @@ Towns Committee.
 
 The Committee asked if the Council would fund the balance from the General Municipal
 
-Allocation.---
+Allocation.
+---
 3
 
 Members thanked the delegation for their presentation and the delegation then withdrew
@@ -218,7 +220,8 @@ a.m. to 1 p.m. in Limerick. He stated that they were hoping for a positive respo
 
 that it was a wonderful opportunity to take ownership of the City and County.
 
-The Members praised and supported the initiative.---
+The Members praised and supported the initiative.
+---
 4
 
 QUESTIONS
@@ -297,7 +300,8 @@ Question submitted by Councillor F. Foley
 
 provided in accordance with the National Roads Authority’s Design
 
-Standards. The scheme, on completion, was subject to Safety Audit and all---
+Standards. The scheme, on completion, was subject to Safety Audit and all
+---
 5
 
 recommendations were incorporated.
@@ -372,7 +376,8 @@ next Meeting of the Municipal District.
 
 ***a safety hazard for users.***
 
-**`**---
+**`**
+---
 6
 
 In proposing the Motion, Councillor Collins stated that the bridge had become a Health
@@ -449,4 +454,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cathaoirleach**
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

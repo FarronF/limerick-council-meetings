@@ -66,7 +66,8 @@ setting out proposals for disposal of Freehold Interest of premises consisting o
 
 house situate at 40 Marian Park, Patrickswell, Co. Limerick and the intention to bring a Section
 
-183 Notice to Full Council in this regard, for approval.---
+183 Notice to Full Council in this regard, for approval.
+---
 2
 
 The report, as circulated, was noted by Members.
@@ -165,7 +166,8 @@ Castleconnell Scout Group
 
 Granville Rangers FC Soccer Club
 
-€ 2,000---
+€ 2,000
+---
 3
 
 **Haven Hub CLG/Limerick Land Search**
@@ -338,7 +340,8 @@ Dooradoyle Raheen Men’s Shed
 
 **Emerging Limerick Filmmaker’s**
 
-**€ 1,000**---
+**€ 1,000**
+---
 4
 
 Limerick Blasters
@@ -513,7 +516,8 @@ Limerick City Traveller Health
 
 **Lisnagry FC Soccer Club**
 
-**€900**---
+**€900**
+---
 5
 
 Lisnagry National School
@@ -686,7 +690,8 @@ Limerick Feral Cats
 
 Limerockers Cru Dance School
 
-€ 500---
+€ 500
+---
 6
 
 **Lumen Street Theatre**
@@ -797,7 +802,8 @@ of Limerick. The Council want to hear from businesses and organisations who wish
 
 enhance the local environment while benefiting from the advertising opportunities that are
 
-being offered. The scheme shall provide businesses and organisations an excellent---
+being offered. The scheme shall provide businesses and organisations an excellent
+---
 7
 
 opportunity to promote themselves through their association with the landscaping and
@@ -888,7 +894,8 @@ Mungret Gate, Baunacloka Limerick
 
 20
 
-210---
+210
+---
 8
 
 Bloodmill Road,Singland, Limerick
@@ -1031,7 +1038,8 @@ to Limerick City and County Council. If the landlord is willing, the Council wil
 
 current house is suitable for the household in terms of size and condition. The Council will
 
-also ensure the house value is within an independent market valuation range, which is a---
+also ensure the house value is within an independent market valuation range, which is a
+---
 9
 
 requirement to draw down purchase monies from the Department of Housing, Local
@@ -1104,7 +1112,8 @@ Partnership (LEDP) in relation to the future of the Market’s Field. There is n
 
 these discussions at this point but engagement will continue with relevant stakeholders.
 
-**13.Question submitted by Councillor C. Sheehan**---
+**13.Question submitted by Councillor C. Sheehan**
+---
 10
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, further to my motion at***
@@ -1187,7 +1196,8 @@ of 2023: **266**
 
 1. Housing Adaptation Grant for People with a Disability- **98**
 
-2. Mobility Aids Grant- **27**---
+2. Mobility Aids Grant- **27**
+---
 11
 
 3. Housing Aid for Older People Grant- **141**
@@ -1270,7 +1280,8 @@ The analysis from the first round of sampling has indicated an exceedance in Tot
 
 Phosphorus and is consistent with our investigation findings to date. The second round of
 
-sampling for April will happen over the next few days.---
+sampling for April will happen over the next few days.
+---
 12
 
 Please also note that a sample was taken on the 30th November 2022 and no exceedances
@@ -1343,7 +1354,8 @@ Health and Welfare Act 2013.
 
 **REPLY:** **Reply from MWNRDO:**
 
-Limerick City and County Council appointed Technical Advisors, Atkins, in September 2022---
+Limerick City and County Council appointed Technical Advisors, Atkins, in September 2022
+---
 13
 
 to progress the development of a greenway between the University of Limerick and
@@ -1440,7 +1452,8 @@ which will consider business requirements in a sustainable manner. It is expecte
 
 city centre Transport Plan will be significantly advanced in the current year but is likely to
 
-extend into 2024 for substantive completion.---
+extend into 2024 for substantive completion.
+---
 14
 
 **23.Question submitted by Councillor D. McSweeney**
@@ -1515,7 +1528,8 @@ bringing them back into use, delivering quick wins and capitalising on Castle/Li
 
 events.
 
-Following on from the previous workshop, it is intended to schedule a number of workshops---
+Following on from the previous workshop, it is intended to schedule a number of workshops
+---
 15
 
 with Elected Members over the year to keep you abreast of project progress across all the
@@ -1584,7 +1598,8 @@ house purchasers.
 
 ***the NTA to ask them to give Elected Members a presentation on their proposals for a demand***
 
-***responsive transport service to serve areas that will not be connected to BusConnects such as the***---
+***responsive transport service to serve areas that will not be connected to BusConnects such as the***
+---
 16
 
 ***Mill Road and Rhebogue. To also request that they provide a timeline for the introduction of such***
@@ -1655,7 +1670,8 @@ In proposing the Motion, Councillor Kiely referred to the enormous difficulties 
 
 Application System was causing for children who were not allocated a Secondary School place and
 
-which had been ongoing for a long number of years. Members agreed that this issue needed to be---
+which had been ongoing for a long number of years. Members agreed that this issue needed to be
+---
 17
 
 reviewed and that it creates huge upset for students and families affected by decisions made under
@@ -1726,7 +1742,8 @@ Weekend highlights include:
 
 Friday, 28th
 
-Pyrotechnic Display by Rogu on Bedford Row / Fashion Friday.---
+Pyrotechnic Display by Rogu on Bedford Row / Fashion Friday.
+---
 18
 
 Saturday, 29th BBQ on Boardwalk (competition application still open)
@@ -1797,4 +1814,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

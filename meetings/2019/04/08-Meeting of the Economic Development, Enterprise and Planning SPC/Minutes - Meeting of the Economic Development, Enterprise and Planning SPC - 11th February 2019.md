@@ -98,7 +98,8 @@ It was further suggested that the issue would be discussed further at the Cultur
 
 SPC, which was to be held on 12th February, 2019.
 
-.---
+.
+---
 **Item 2**
 
 **Presentation of Draft Regional Spatial and Economic Strategy for the Southern**
@@ -187,7 +188,8 @@ projected population growth of approximately 50,000, which will be shared with
 
 Shannon, where plans for Limerick 2030 included population growth of Limerick by
 
-100,000.---
+100,000.
+---
 This will severely limit investment in housing, health, education and transport,
 
 energy, broadband and tourism.
@@ -266,7 +268,8 @@ It was unanimously agreed that a draft submission would be prepared by Forward
 
 Planning, on behalf of the elected members, in advance of the special meeting on
 
-25th February.---
+25th February.
+---
 **Item 3**
 
 **Presentation on** **Limerick City and County Council’s Proposed Climate**
@@ -287,4 +290,5 @@ Nil.
 
 **Councillor Vivienne Crowley**
 
-**Chairperson**---
+**Chairperson**
+---

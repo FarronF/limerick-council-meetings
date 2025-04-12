@@ -68,7 +68,8 @@ bottled water while the Boil Water Notice remains in effect is extensive. Mr
 
 O’Brien, Uisce Éireann advised approximately 7,000 customers are currently
 
-affected and regular updates are provided on local media outlets as well as on---
+affected and regular updates are provided on local media outlets as well as on
+---
 Uise Éireann’s website www.water.ie. He further advised vulnerable customer
 
 who have registered their details with Uisce Éireann will be directly contacted.
@@ -107,4 +108,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -46,4 +46,5 @@ changes to the Tenant (Incremental) Purchase Scheme 2016
 
 **AOB**
 
-Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council---
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

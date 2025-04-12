@@ -68,7 +68,8 @@ gave the following address:
 
 *I would like to pay tribute to the various individuals and groups that have received civic receptions*
 
-*during the year. The civic reception is an honour not only for the recipient but is also an honour for*---
+*during the year. The civic reception is an honour not only for the recipient but is also an honour for*
+---
 2
 
 *us and we have been honoured to pay tribute during the year to John the Baptist Community*
@@ -147,7 +148,8 @@ Seconded by Councillor Gleeson;
 
 As there were no other nominations, the outgoing Cathaoirleach declared Councillor Ryan elected
 
-as Cathaoirleach and offered him his congratulations and best wishes for the coming year.---
+as Cathaoirleach and offered him his congratulations and best wishes for the coming year.
+---
 3
 
 On taking the Chair, Councillor Ryan thanked his Proposer and Seconder and said that he was
@@ -202,4 +204,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

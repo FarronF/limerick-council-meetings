@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-09-14 09:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-adare-rathkeale-71)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-adare-rathkeale-71" target="_blank">Link to meeting</a>**

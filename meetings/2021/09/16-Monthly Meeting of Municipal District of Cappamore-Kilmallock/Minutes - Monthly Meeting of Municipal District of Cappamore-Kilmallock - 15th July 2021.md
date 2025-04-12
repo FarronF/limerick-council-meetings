@@ -48,7 +48,8 @@ Seconded by Councillor Mitchell;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 NOTICES OF MOTIONS
@@ -97,7 +98,8 @@ speed limit between Barrington’s Bridge and Collin’s Cross to Operations and
 
 (Central Services). Central Services are responsible for the review of speed limits and will
 
-during the next Countywide speed limit review assess Cllr. Egan’s request.---
+during the next Countywide speed limit review assess Cllr. Egan’s request.
+---
 3
 
 3.Notice of Motion submitted by Councillor Michael Donegan
@@ -148,7 +150,8 @@ Main Construction Contract
 
 Land and Property
 
-Planning and Design---
+Planning and Design
+---
 4
 
 Archaeology
@@ -207,7 +210,8 @@ the reconstruction of the boundary walls, but due to the pandemic, works have be
 
 delayed. The restoration of the walls will commence in October/November of this
 
-year.---
+year.
+---
 5
 
 The Council will engage with the landowners in the near future in an effort to resolve the
@@ -260,7 +264,8 @@ be a lobbyist and the position would add a very expensive extra layer to Council
 
 additional powers and added the campaign surrounding the Directly Elected Mayor had
 
-been rushed and not enough clarity provided on the subject.---
+been rushed and not enough clarity provided on the subject.
+---
 6
 
 Councillor Ryan (Eddie) agreed also with these sentiments saying he felt the matter had not
@@ -319,7 +324,8 @@ Municipal District at the Centre.
 
 Councillor Teefy requested a housing workshop to be held before the September Municipal
 
-District meeting to discuss housing vacancies and repairs staffing etc.---
+District meeting to discuss housing vacancies and repairs staffing etc.
+---
 7
 
 Councillor Ryan (Eddie) thanked the staff and executive for their attendance at Galbally the
@@ -348,4 +354,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

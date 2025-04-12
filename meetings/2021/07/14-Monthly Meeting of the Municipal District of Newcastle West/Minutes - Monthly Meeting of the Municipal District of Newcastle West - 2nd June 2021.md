@@ -70,7 +70,8 @@ And Resolved:
 
 2.
 
-Disposal of Land---
+Disposal of Land
+---
 2
 
 Circulated, report of Head of Property and Community Facilities, dated 21st May, 2021,
@@ -137,7 +138,8 @@ The SEE stated that he would update the Members following the meeting with TII.
 
 To discuss illegal dumping and receive update from the Environment
 
-Department.---
+Department.
+---
 3
 
 The Cathaoirleach welcomed the Administrative Officer, Planning and Environmental
@@ -216,7 +218,8 @@ Minister can grant a licence where a person wishes to undertake afforestation, f
 
 works and to Section 17 where the Minister can grant a licence for the felling or removing of
 
-trees. He also gave an overview of the Forestry Regulations 2017 to the Members to include---
+trees. He also gave an overview of the Forestry Regulations 2017 to the Members to include
+---
 4
 
 matters such as Applications for Felling Licence, Afforestation Licence, Forest Road Licence,
@@ -287,7 +290,8 @@ On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agre
 
 €150 towards the purchase of equipment for the reading of microchips in dogs. This is a
 
-community initiative project in conjunction with An Garda Síochana.---
+community initiative project in conjunction with An Garda Síochana.
+---
 5
 
 QUESTIONS
@@ -362,7 +366,8 @@ Councillor Ruddle expressed dissatisfaction at the response received and noted t
 
 are having difficulty sourcing housing and that this proposal could be one solution to the lack
 
-of housing availability.---
+of housing availability.
+---
 6
 
 8.
@@ -439,7 +444,8 @@ Question submitted by Councillor F. Foley
 
 ***Abbeyfeale.***
 
-REPLY:---
+REPLY:
+---
 7
 
 The Housing Development Directorate of Limerick City and County Council issued publicly an
@@ -516,7 +522,8 @@ is likely to go to Public Consultation during 2021.
 
 Construction of Pedestrian Crossings at this stage is premature pending an agreed Public
 
-Realm Plan.---
+Realm Plan.
+---
 8
 
 In the interim, a source of funding needs to be identified for any proposed justified pedestrian
@@ -579,7 +586,8 @@ Question submitted by Councillor J. Scanlan
 
 ***or near the speed limit sign on the Southern side of Feohanagh village.***
 
-REPLY:---
+REPLY:
+---
 9
 
 **(a)**This matter was referred to An Garda Siochána for consideration and the Gardai have
@@ -652,7 +660,8 @@ the TII.
 
 ***I will move at the next Meeting that this Council LCCC call on the Minister for Justice to***
 
-***transfer full control of Go Safe Vans to An Garda Siochána for use at their discretion, in areas***---
+***transfer full control of Go Safe Vans to An Garda Siochána for use at their discretion, in areas***
+---
 10
 
 ***such as accident blackspots and on sections of road where illegal racing activity has been***
@@ -719,7 +728,8 @@ issues of safety and speeding at this location.
 
 ***I will move at the next Meeting that*** ***our Housing Directorate write and request the Minister***
 
-***for Housing to immediately provide funding to renew the 30 or so vacant properties our***---
+***for Housing to immediately provide funding to renew the 30 or so vacant properties our***
+---
 11
 
 ***Authority owns in the Newcastle West District in the interest of relieving the chronic housing***
@@ -782,7 +792,8 @@ will be circulated, similar to previous voids schemes.
 
 ***periphery of Newcastle West town be removed or maintained.***
 
-The Motion was seconded by Councillor Ruddle.---
+The Motion was seconded by Councillor Ruddle.
+---
 12
 
 REPLY:
@@ -857,7 +868,8 @@ postponed due to Covid19 restrictions. It was agreed that the Meetings Administr
 
 seek further guidance from the Corporate Services with regard to Deputations attending
 
-Meetings during the current level of Covid19 restrictions.---
+Meetings during the current level of Covid19 restrictions.
+---
 13
 
 It was agreed to hold the Annual Meeting of the District on Wednesday, 23rd June, 2021, at
@@ -878,4 +890,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

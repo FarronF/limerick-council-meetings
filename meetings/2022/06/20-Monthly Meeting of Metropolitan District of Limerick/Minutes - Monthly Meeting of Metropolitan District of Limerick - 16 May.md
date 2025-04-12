@@ -62,7 +62,8 @@ Metropolitan Meeting.
 
 **(a)Strategic Housing Development (SHD) Application to An Bord Pleanála at Canal Bank, Pa**
 
-**Healy Road, Limerick**---
+**Healy Road, Limerick**
+---
 2
 
 The Senior Planner gave a presentation to the Members on the proposed Strategic Housing
@@ -153,7 +154,8 @@ cycle links to Pa Healy road, Park road and City Canal, bin storage for all deve
 
 adjacent to all entrances, New public park of 0.5ha along city canal, communal open
 
-space and communal roof gardens for all apartments, all ancillary drainage, civil and---
+space and communal roof gardens for all apartments, all ancillary drainage, civil and
+---
 3
 
 landscape works, public lighting within estate and Electricity Sub-station to rear of Block
@@ -244,7 +246,8 @@ The provision of 377 no. car parking spaces and 311 secured bicycle parking spac
 
 The provision of 3 no. ESB sub-stations, ancillary services and infrastructure works
 
-including foul and surface water drainage, attenuation areas, landscaped public open spaces---
+including foul and surface water drainage, attenuation areas, landscaped public open spaces
+---
 4
 
 (approximately 29,500m2, or 28.2% of the total site area), landscaping, lighting, internal
@@ -355,7 +358,8 @@ Boundary treatment should ensure site security.
 
 Circulated, Report of the Director of Services, Transportation and Mobility Directorate dated 9th
 
-May, 2022 together with Draft Limerick City and County Council Metropolitan District of Limerick---
+May, 2022 together with Draft Limerick City and County Council Metropolitan District of Limerick
+---
 5
 
 Dockless On-Street Bicycle Hire Bye-Laws 2022.
@@ -474,7 +478,8 @@ Limerick City and County Council will submit one Preliminary Business Case for S
 
 appraisal of available options to progress the project to the next stage of the Public Spending Code
 
-for approval of funding.---
+for approval of funding.
+---
 6
 
 **6.Question submitted by Councillor C. Sheehan**
@@ -557,7 +562,8 @@ and other events taking place in Limerick over the May Bank Holiday, known local
 
 Riverfest weekend.
 
-It also schedules online and traditional ads across various media, online promotion of---
+It also schedules online and traditional ads across various media, online promotion of
+---
 7
 
 programmed events, daily coverage of a selection of the events, installation of Riverfest
@@ -666,7 +672,8 @@ Dooradoyle Road
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick how many late bin waiver***
 
-***applications the Council has received in 2022 and if the Council will consider approving late***---
+***applications the Council has received in 2022 and if the Council will consider approving late***
+---
 8
 
 ***applications retrospectively for the rest of the year.***
@@ -741,7 +748,8 @@ scheme to the Elected Members in advance of advertising the Part 8.
 
 ***as the grounds of Mungret Park to facilitate and encourage young people to learn how to swim***
 
-***similar to an initiative by Fingal County Council.***---
+***similar to an initiative by Fingal County Council.***
+---
 9
 
 It was agreed to refer this Notice of Motion to the Community, Leisure and Culture Strategic Policy
@@ -814,7 +822,8 @@ highlighted the workload of public representatives and the need for improved sup
 
 ***centre especially in the Parnell Street area where a lethal incident has recently occurred, and the***
 
-***Hartstonge/Newenham/Henry Street areas of the city.***---
+***Hartstonge/Newenham/Henry Street areas of the city.***
+---
 10
 
 The Notice of Motion was proposed by Councillor O’Donovan, seconded by Councillor Benson and
@@ -863,4 +872,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

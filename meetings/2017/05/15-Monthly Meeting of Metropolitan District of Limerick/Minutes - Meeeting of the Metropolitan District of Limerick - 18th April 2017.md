@@ -64,7 +64,8 @@ Seconded by Councillor Daly;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **2.**
@@ -143,7 +144,8 @@ foot of same :-
 
  €50,000
 
-Irish / New York Festival---
+Irish / New York Festival
+---
 3
 
  €30,000
@@ -220,7 +222,8 @@ receipt of further details in relation to same.
 
 A number of Members expressed the view that the allocation to the Ireland / New York
 
-festival should be made if there was any danger that this festival would relocate.---
+festival should be made if there was any danger that this festival would relocate.
+---
 4
 
 **(b)**
@@ -295,7 +298,8 @@ developing a strategy to control these plants, in conjunction with landowners.
 
 Members welcomed the development and complimented Ms. Goggin on the work carried
 
-out in this area.---
+out in this area.
+---
 5
 
 **QUESTIONS**
@@ -376,7 +380,8 @@ road may be included from the 2019 roadworks programme.
 
 **Ballyclough when the road in this estate is going to be resurfaced following the**
 
-**representations made by them and on their behalf in the past years.**---
+**representations made by them and on their behalf in the past years.**
+---
 6
 
 **REPLY**:
@@ -467,7 +472,8 @@ length.
 
 Structural overlay at entrance to Mount Green Estate with an upgrade to the
 
-existing table top ramp.---
+existing table top ramp.
+---
 7
 
 School House Road:
@@ -542,7 +548,8 @@ County Development Plan and the City Development Plan. It is not yet
 
 appropriate at this stage to consider the potential inclusion of this site within the
 
-derelict sites register.---
+derelict sites register.
+---
 8
 
 **NOTICES OF MOTION**
@@ -621,7 +628,8 @@ in the sum of €428,000 from DTTAS to fund works of repair in 2017 to 16 bridge
 
 on Regional and Local roads throughout the County. The Bridge Rehabilitation
 
-Works Scheme generally funds works to roads with bridges carrying vehicular---
+Works Scheme generally funds works to roads with bridges carrying vehicular
+---
 9
 
 traffic where significant funding is not required.
@@ -694,7 +702,8 @@ programmes produced by Limerick City Community Radio, who operated on a limited
 
 budget, and on a not for profit basis and in the process provided valuable training for those
 
-planning a career in broadcasting.---
+planning a career in broadcasting.
+---
 10
 
 Members supported the motion and noted the potential of the Digital Hub, run by Innovate
@@ -745,4 +754,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

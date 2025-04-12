@@ -62,7 +62,8 @@ Seconded by Councillor O’Donoghue;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 **2.**
@@ -143,7 +144,8 @@ On the proposal of Councillor Teskey, seconded by Councillor Sheahan, it was agr
 
 receive a Deputation from Kilteery Pier Group at a future Meeting of the Municipal District
 
-of Adare-Rathkeale.---
+of Adare-Rathkeale.
+---
 3
 
 **5.**
@@ -210,7 +212,8 @@ allocate the following:
 
  €1,000 to Adare St. Patrick’s Day Parade.
 
- €1,000 to Askeaton St. Patrick’s Day Parade.---
+ €1,000 to Askeaton St. Patrick’s Day Parade.
+---
 4
 
 On the proposal of Councillor Collins, seconded by Councillor O’Donoghue, it was agreed
@@ -281,7 +284,8 @@ water disposal system and to be met prior to the commencement of
 
 development. The onus is on the applicant to ensure all necessary consents are in
 
-place prior to the commencement of development.---
+place prior to the commencement of development.
+---
 5
 
 2.
@@ -350,7 +354,8 @@ Limerick will also be seeking funding through Rural Regeneration Development Fun
 
 Town and Village Grants to deliver the approved scheme which will be a good example
 
-of deliver on Governments Town Centre first Policy.---
+of deliver on Governments Town Centre first Policy.
+---
 6
 
 **NOTICE OF MOTION**
@@ -419,7 +424,8 @@ Accordingly, there are no plans to carry out Traffic Calming on Roches Road.
 
 **Correspondence**
 
-Correspondence was noted and taken as read.---
+Correspondence was noted and taken as read.
+---
 7
 
 **12.**
@@ -460,4 +466,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -60,7 +60,8 @@ Sheahan, seconded by Councillor Keary it was agreed to correspond with the HSE a
 
 EPA to request Askeaton be treated as a priority case for the installation of a sewerage
 
-scheme.---
+scheme.
+---
 2
 
 Councillor Teskey raised the issue of the problem of sewerage backing up in the village
@@ -123,7 +124,8 @@ advised Members he would convey their concerns back to the TII.
 
 The Cathaoirleach welcomed Mr. Ger Carey, Senior Executive Engineer, Mid West Road
 
-Design Office to the meeting.---
+Design Office to the meeting.
+---
 3
 
 Members were informed that following discussions with TII regarding the Adare Overlay
@@ -194,7 +196,8 @@ Councillor Sheahan was concerned that a condition to the development of this lan
 
 Adare for housing provision would allow for some serviced sites to be provided to local
 
-people who can’t afford the high cost of buidling sites in the area.---
+people who can’t afford the high cost of buidling sites in the area.
+---
 4
 
 **5.**
@@ -257,7 +260,8 @@ Circulated, report of the Senior Executive Engineer, Operations and Mainteanace
 
 Services, dated 25th April, 2018 setting out an update in relation to pedestrian
 
-controlled crossing for Adare. This report was noted by Members.---
+controlled crossing for Adare. This report was noted by Members.
+---
 5
 
 **10.**
@@ -320,7 +324,8 @@ permission of the Cathaoirleach.
 
  On the proposal of Councillor O’Donoghue, seconded by Councillor Sheahan it was
 
-requested traffic counters be placed on the roadway from Lees Cross to Kilatal Road.---
+requested traffic counters be placed on the roadway from Lees Cross to Kilatal Road.
+---
 6
 
  Councillor O’Brien enquired if the L1241 road from Hegarty’s Cross to the
@@ -371,4 +376,5 @@ Signed :
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

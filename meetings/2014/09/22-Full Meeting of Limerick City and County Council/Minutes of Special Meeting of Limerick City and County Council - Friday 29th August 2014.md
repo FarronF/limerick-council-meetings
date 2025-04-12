@@ -54,7 +54,8 @@ Members thanked the Cathaoirleach for calling the Special Meeting. It was stated
 
 that Mary was a wonderful person. She had held many positions, she trained as a
 
-Primary School Teacher, was a great Fine Gael person, was elected as a Councillor---
+Primary School Teacher, was a great Fine Gael person, was elected as a Councillor
+---
 2
 
 in 1999 and the pinnacle of her career was being elected Cathaoirleach of Limerick
@@ -129,7 +130,8 @@ he had not had the pleasure of getting to know Mary well but she was firm and fa
 
 and had brought great leadership to the Council Chamber and indeed to the merger.
 
-He said he was delighted to be at the Meeting to pay his respects to her.---
+He said he was delighted to be at the Meeting to pay his respects to her.
+---
 3
 
 The Cathaoirleach expressed his gratitude to the local community and all involved in
@@ -170,4 +172,5 @@ Signed:
 
 Date:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

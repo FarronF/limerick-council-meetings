@@ -78,7 +78,8 @@ provide social housing in smaller villages along with the need to provide servic
 
 smaller towns and villages for private development. The necessity of having a mix of social
 
-and private housing in areas was also highlighted. The difficulty in obtaining planning---
+and private housing in areas was also highlighted. The difficulty in obtaining planning
+---
 2
 
 permission for one off rural housing was also raised and the new proposals on rural housing
@@ -151,7 +152,8 @@ Question submitted by Councillor T. Ruddle
 
 ***Kilmeedy, (c) Dromcollogher, (d) Broadford, (e) Feenagh,(f) Castletown-Ballyagran, (g)***
 
-***Castlemahon, (h) Knockaderry, (i) Feohanagh, (j) Glin, (k) Abbeyfeale,(l) Mountcollins,***---
+***Castlemahon, (h) Knockaderry, (i) Feohanagh, (j) Glin, (k) Abbeyfeale,(l) Mountcollins,***
+---
 3
 
 ***(m)Tournafulla,(n) Templeglantine, (o) Ardagh-Carrigkerry (p) Raheenagh (q) Ashford (r)***
@@ -276,7 +278,8 @@ The selection options available to applicants are noted on the Housing
 
 Application Form. Applicants approved for housing for longer than one year
 
-have the option to request a change to their areas of choice.---
+have the option to request a change to their areas of choice.
+---
 4
 
 QUESTIONS
@@ -345,7 +348,8 @@ In replying, the Director of Services acknowledged the demand for playgrounds an
 
 that this property was being dealt with under the Derelict Sites Act legislation. He also noted
 
-the curtilage of the property was under separate ownership and that normally the Council---
+the curtilage of the property was under separate ownership and that normally the Council
+---
 5
 
 would provide a site for a playground from existing Council land rather than purchasing a site
@@ -422,7 +426,8 @@ congestion. The Executive Engineer agreed to make contact with the Gardai on thi
 
 An update on the provision of grave spaces for sale subject to availability in active cemeteries
 
-within the Newcastle West Muncipal District was requested. A brief discussion followed and---
+within the Newcastle West Muncipal District was requested. A brief discussion followed and
+---
 6
 
 the Director stated that Limerick City and County Council are currently in the process of
@@ -483,4 +488,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

@@ -92,7 +92,8 @@ Special Projects – LPT
 
 **General Municipal Allocation**
 
-**270,000**---
+**270,000**
+---
 Following discussion, the following was agreed:
 
 Proposed by Councillor Sheahan;
@@ -151,4 +152,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

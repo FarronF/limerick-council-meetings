@@ -62,7 +62,8 @@ agreement between the community and landowners in the first instance.
 
 The Senior Engineer also advised that this situation exists at numerous locations around the
 
-country and seeking legal advice on right of way is the most appropriate option.---
+country and seeking legal advice on right of way is the most appropriate option.
+---
 The Director of Services reiterated that the mediation process undertaken in 2023 between
 
 the Community, Landowner and Local Authority was a confidential process and not for
@@ -85,4 +86,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -70,7 +70,8 @@ would make an application, for funding, to the Department of Transport for a low
 
 safety scheme. The Members were advised that a 3 day traffic count would be
 
-carried out in September when the schools would reopen after the summer recess.---
+carried out in September when the schools would reopen after the summer recess.
+---
 2
 
 2.
@@ -141,7 +142,8 @@ withdrawn in the City due to cost and that they were being gradually
 
 withdrawn in the County. It was noted that a dry recyclable collection was
 
-available to members of the public that had a refuse collection service.---
+available to members of the public that had a refuse collection service.
+---
 3
 
 **Questions submitted by Councillor** **W. O’Donnell**
@@ -218,7 +220,8 @@ Derelict Sites Register. It was suggested that contact should be made with the
 
 Planning Department as they may have further information in relation to the
 
-ownership of this building.---
+ownership of this building.
+---
 4
 
 **Question submitted by Councillor N. Gleeson**
@@ -277,4 +280,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

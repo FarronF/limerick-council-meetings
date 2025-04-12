@@ -54,7 +54,8 @@ Seconded by Councillor O’Donoghue;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 **2.**
@@ -123,7 +124,8 @@ Circulated, report of the A/Senior Executive Engineer, Service Operations West, 
 
 3rd January, 2019 setting out an update in relation to the taking in charge of An Curran,
 
-Pallaskenry. The report was noted by Members.---
+Pallaskenry. The report was noted by Members.
+---
 3
 
 **6.**
@@ -194,7 +196,8 @@ Litter Control along with Inspector Deasy attend the February Meeting to discuss
 
 Councillor Keary requested Túsla attend a Meeting to discuss the problem of
 
-children between the ages of 7 and 13 years old who are causing trouble around---
+children between the ages of 7 and 13 years old who are causing trouble around
+---
 4
 
 the town in the evening and also suggested Pavee Point attend if they are willing
@@ -263,7 +266,8 @@ of Rathkeale town. The issue of loading/unloading bays can be facilitated
 
 within this review.
 
-We will continue to liaise with the District in developing solutions.---
+We will continue to liaise with the District in developing solutions.
+---
 5
 
 **12.**
@@ -336,7 +340,8 @@ them for engaging youths with their service over the Christmas period.
 
  Councillor Keary requested information on prosecutions and pending
 
-prosecutions for illegally parked caravans in Rathkeale town over Christmas.---
+prosecutions for illegally parked caravans in Rathkeale town over Christmas.
+---
 6
 
  Councillor Sheahan informed Members that Irish Water are currently drawing up
@@ -373,4 +378,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

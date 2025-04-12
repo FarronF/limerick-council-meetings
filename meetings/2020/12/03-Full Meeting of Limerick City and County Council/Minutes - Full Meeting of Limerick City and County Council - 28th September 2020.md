@@ -64,7 +64,8 @@ Circulated, copies of draft Minutes of the following Meetings:
 
 (a)
 
-Ordinary Meeting of the Council held on 26th June, 2020.---
+Ordinary Meeting of the Council held on 26th June, 2020.
+---
 2
 
 Councillor Galvin requested an update on the resolution adopted at the meeting seeking a
@@ -139,7 +140,8 @@ Disposal of Land
 
 Circulated, copy of Statutory Notice dated 16th June, 2020, concerning disposal of
 
-property at 31, McDermott Avenue, Janesboro, Limerick.---
+property at 31, McDermott Avenue, Janesboro, Limerick.
+---
 3
 
 Proposed by Councillor Sheahan (J);
@@ -218,7 +220,8 @@ County Council in the property, particulars of which were contained in Statutory
 
 Circulated, copy of Statutory Notice dated 16th June, 2020, concerning disposal of land
 
-at 1, Clarke Avenue, Janesboro, Limerick.---
+at 1, Clarke Avenue, Janesboro, Limerick.
+---
 4
 
 Proposed by Councillor Sheahan (J);
@@ -299,7 +302,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor O’Hanlon (K);
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -380,7 +384,8 @@ Statutory Notice dated 9th September, 2020.”
 
 Circulated, copy of Statutory Notice dated 9th September, 2020, concerning disposal of
 
-residential property and land at West Square, Askeaton, Co. Limerick.---
+residential property and land at West Square, Askeaton, Co. Limerick.
+---
 6
 
 Proposed by Councillor Sheahan (J);
@@ -465,7 +470,8 @@ Fixing of Date – Statutory Budget Meeting
 
 Circulated, copy of Departmental Circular Fin 14-2020 dated 31st August, 2020, in
 
-relation to 2021 Budget Meeting and other Budgetary matters.---
+relation to 2021 Budget Meeting and other Budgetary matters.
+---
 7
 
 On the proposal of Councillor Sheahan (J), seconded by Councillor O’Hanlon, the
@@ -550,7 +556,8 @@ He added that a report had been prepared for the Members, and circulated with th
 
 agenda, setting out the matters to which the Members must have regard in making a decision
 
-on the LPT, including the financial position of Limerick City and County Council.---
+on the LPT, including the financial position of Limerick City and County Council.
+---
 8
 
 His PowerPoint presentation went on to cover Property Valuation Bands, and the
@@ -629,7 +636,8 @@ proposal from Councillor Benson defeated.
 
 The Mayor confirmed the proposal of Councillor Sheahan (J), seconded by Councillor
 
-Daly, as carried and accordingly the following resolution was adopted:---
+Daly, as carried and accordingly the following resolution was adopted:
+---
 9
 
 Proposed by Councillor Sheahan (J);
@@ -704,7 +712,8 @@ Market Trustees. The Council was required to make these nominations annually.
 
 On the proposal of Councillor O’Hanlon, seconded by Councillor Daly, the following
 
-Members were appointed to the Limerick Market Trustees for the coming year:---
+Members were appointed to the Limerick Market Trustees for the coming year:
+---
 10
 
 Councillor Michael Collins (Mayor of the City and County of Limerick 2020/2021), Councillor
@@ -781,7 +790,8 @@ Proposed by Councillor Sheahan (J):
 
 Seconded by Councillor Galvin;
 
-And Resolved:---
+And Resolved:
+---
 11
 
 “That, the approval of the Council be and is hereby given to the appointment of further
@@ -948,7 +958,8 @@ Circulated, Reports of the Chairperson of the Community, Leisure and Culture
 
 Strategic Policy Committee dated 18th July and 11th September, 2020, in relation to
 
-Meetings of the Committee held on 6th July and 7th September, 2020, respectively.---
+Meetings of the Committee held on 6th July and 7th September, 2020, respectively.
+---
 12
 
 The Meetings Administrator noted the following Recommendation, which was agreed
@@ -1017,7 +1028,8 @@ Committee dated 18th September, 2020, in relation to Meeting of the Committee he
 
 on 14th September, 2020.
 
-The Report was noted by the Council.---
+The Report was noted by the Council.
+---
 13
 
 (v)
@@ -1098,7 +1110,8 @@ them for carrying out by Limerick City and County Council of the relevant statut
 
 procedures, procuring the necessary design work, acquiring the land and carrying out
 
-of/procuring the construction works and any other powers, functions and duties necessary---
+of/procuring the construction works and any other powers, functions and duties necessary
+---
 14
 
 for the design, construction and completion of the N/M20 Cork to Limerick Road
@@ -1167,7 +1180,8 @@ allocations under the Festivals and Events Grant Scheme 2020/2021, as set out in
 
 of the A/Administrative Officer, Tourism and Events, Community Development, dated 17th
 
-September, 2020.”---
+September, 2020.”
+---
 15
 
 7.
@@ -1246,7 +1260,8 @@ of Culture.
 
 Currently, the County Record of Protected Structures stands at 1,605 entries, while the City
 
-Record of Protected Structures has 438 entries.---
+Record of Protected Structures has 438 entries.
+---
 16
 
 **(d)**
@@ -1407,7 +1422,8 @@ downloaded
 
 from
 
-www.limerick.ie/council---
+www.limerick.ie/council
+---
 17
 
  **Protected Structures to be added to the Dereliction List:** Please refer to Part (e)
@@ -1494,7 +1510,8 @@ Section 20 of the Act referred to above provides that, where Gardaí have been
 
 advised by a Housing Authority that a person is illegally residing in a Council
 
-house, and that person is believed to be engaged in anti-social behaviour, then---
+house, and that person is believed to be engaged in anti-social behaviour, then
+---
 18
 
 that person can be directed by An Garda Síochána to leave the house
@@ -1579,7 +1596,8 @@ Information in relation to costs per unit is not published due to commercial
 
 sensitivity. However, the following information in available via the NOAC
 
-(National Oversight and Audit Commission) statistics published annually:---
+(National Oversight and Audit Commission) statistics published annually:
+---
 19
 
 **Year**
@@ -1678,7 +1696,8 @@ Notice of Motion submitted by Councillor S. Keary **(to be referred to Protocol*
 
 **held monthly on the fourth Monday of the months of September, October, November,**
 
-**December, January, February, March, April, May, June and July.**---
+**December, January, February, March, April, May, June and July.**
+---
 20
 
 Councillor Keary, in proposing the Motion, referred to the current limit on the duration
@@ -1749,7 +1768,8 @@ Notice of Motion submitted by Councillors B. Collins and E. Ryan **(to be referr
 
 It was agreed to refer the Motion to the Economic Development, Enterprise and
 
-Planning Strategic Policy Committee for consideration.---
+Planning Strategic Policy Committee for consideration.
+---
 21
 
 19.
@@ -1826,7 +1846,8 @@ in relation to Lieutenant Noel Carey and Corporal Tadhg Quinn.
 
 Members fully supported the request that the veterans should be honoured and it
 
-was agreed that a letter of support would issue to the Minister for Defence in this regard.---
+was agreed that a letter of support would issue to the Minister for Defence in this regard.
+---
 22
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -1851,4 +1872,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

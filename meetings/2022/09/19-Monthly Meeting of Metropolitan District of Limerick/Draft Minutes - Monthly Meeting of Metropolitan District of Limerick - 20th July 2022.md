@@ -64,7 +64,8 @@ And Resolved:
 
 (b) Circulated, copy of draft Minutes of the Annual Meeting of the Metropolitan District of Limerick
 
-held on 20th June, 2022.---
+held on 20th June, 2022.
+---
 2
 
 Proposed by Councillor Leddin;
@@ -133,7 +134,8 @@ The report, as circulated, was noted by Members.
 
 out proposals for the disposal of 0.0606 hectares of land at Teach na hAbhann, Rhebogue,
 
-Limerick and the intention to bring a Section 183 Notice to Full Council in this regard, for---
+Limerick and the intention to bring a Section 183 Notice to Full Council in this regard, for
+---
 3
 
 approval.
@@ -198,7 +200,8 @@ still ongoing.
 
 the 14 units with an anticipated completion date of October 2022.
 
-**6.Question submitted by Councillor C. Slattery**---
+**6.Question submitted by Councillor C. Slattery**
+---
 4
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, can you advise if there are***
@@ -273,7 +276,8 @@ communicated to the successful tenderer.
 
 ***hours of the Limerick Museum to include weekends to facilitate increased visitors especially***
 
-***during Summer season.***---
+***during Summer season.***
+---
 5
 
 **REPLY**: Limerick Museum is currently open 5 days per week, Monday to Friday, 10am to 5pm
@@ -360,7 +364,8 @@ Event Mgmt. Costs (ins, licence plan) € 3,490
 
 Total (ex VAT)
 
-€40,640---
+€40,640
+---
 6
 
 VAT
@@ -441,7 +446,8 @@ Dooradoyle, and Online
 
 The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Sheahan (M) and
 
-agreed.---
+agreed.
+---
 7
 
 In proposing the motion, Councillor Secas highlighted the difficulties caused by the suspension of
@@ -514,7 +520,8 @@ Following an appeal to the original decision, the Expression of Interest Process
 
 reviewed and has now concluded with the final decision of Gordon Daly, Director of Service,
 
-Community, Tourism and Culture on the matter as follows:---
+Community, Tourism and Culture on the matter as follows:
+---
 8
 
 1. To offer a 12 month licence over pitch 2 to Newtown Rovers FC
@@ -575,4 +582,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

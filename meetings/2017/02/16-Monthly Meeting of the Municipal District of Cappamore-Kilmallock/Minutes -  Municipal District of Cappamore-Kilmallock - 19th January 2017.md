@@ -62,7 +62,8 @@ The Meetings Administrator confirmed that Superintendent Duane was unable to att
 
 Meeting and was not in a position to attend the February Meeting and that he would be invited
 
-to the March Meeting of the District.---
+to the March Meeting of the District.
+---
 2
 
 3.
@@ -145,7 +146,8 @@ present and future needs and also to ensure compliance with relevant regulations
 
 criteria. This upgrade is an immediate and essential priority for Hospital to move forward.
 
-The Meetings Administrator confirmed that a reply had not been received from Irish Water in---
+The Meetings Administrator confirmed that a reply had not been received from Irish Water in
+---
 3
 
 relation to this question but it would be circulated to Members as soon as it was received.
@@ -174,4 +176,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

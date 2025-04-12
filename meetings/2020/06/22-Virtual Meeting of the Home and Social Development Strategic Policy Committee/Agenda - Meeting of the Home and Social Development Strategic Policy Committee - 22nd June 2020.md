@@ -42,4 +42,5 @@ compliance the cost of waste collection is added to the customers rent bill.
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

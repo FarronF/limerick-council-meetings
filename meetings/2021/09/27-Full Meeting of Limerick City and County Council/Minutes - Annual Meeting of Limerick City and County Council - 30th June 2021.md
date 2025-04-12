@@ -60,7 +60,8 @@ Councillor Sheahan (J) thanked the Mayor, Elected Members and the Chief Executiv
 
 sympathy and support.
 
-A minute’s silence and reflection was then observed as a mark of respect.---
+A minute’s silence and reflection was then observed as a mark of respect.
+---
 2
 
 The Mayor informed Members that the media were present and may wish to record elements
@@ -133,7 +134,8 @@ The Mayor then gave the following address:
 
 **I saw. As Mayor, I am especially proud to have seen this project start and complete in my**
 
-**term. Well done to everyone.**---
+**term. Well done to everyone.**
+---
 3
 
 **As Mayor, and on behalf of the people of Limerick, we are indebted to the frontline**
@@ -200,7 +202,8 @@ The Mayor then gave the following address:
 
 In conclusion, the Mayor thanked the outgoing Deputy Mayor, Councillor Talukder, for his
 
-invaluable support during the year and invited him to address the Meeting.---
+invaluable support during the year and invited him to address the Meeting.
+---
 4
 
 **Councillor Talukder thanked the Mayor and all the Members for their support since his**
@@ -275,7 +278,8 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **to me and to Limerick, and I hold you central to today’s event. We cannot be US without**
 
-**YOU.**---
+**YOU.**
+---
 5
 
 **I want to acknowledge my colleagues here who are impacted daily by the stories of our**
@@ -354,7 +358,8 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **our life lessons. Seamus Heaney said,** **‘If you have the words, there's always a chance that**
 
-**you'll find the way.’**---
+**you'll find the way.’**
+---
 6
 
 **On my father’s side, they were all working hard from a very young age on and around the**
@@ -433,7 +438,8 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **Limerick can be a leader nationally and internationally in. The acceleration has been in so**
 
-**many respects a positive one. For example, the need to tackle climate change has brought**---
+**many respects a positive one. For example, the need to tackle climate change has brought**
+---
 7
 
 **more clarity than ever and it will undeniably be at the top of the world agenda when COVID**
@@ -512,7 +518,8 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **we are to truly succeed as a city and county, then it must be success for all - not just the**
 
-**few. Many of these communities see very low levels of Third Level educational attainment**---
+**few. Many of these communities see very low levels of Third Level educational attainment**
+---
 8
 
 **and that must change. Education is a key driver of real social change and it is no different**
@@ -591,7 +598,8 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **Limerick. Let us embrace and retain the outdoor dining and realise there is no such thing**
 
-**as bad weather, just wrong clothing.**---
+**as bad weather, just wrong clothing.**
+---
 9
 
 **Let me conclude and reinforce that I want to put first and central the citizens of Limerick,**
@@ -656,7 +664,8 @@ The incoming Deputy Mayor, Councillor Ruddle, then addressed the Meeting:
 
 **famous.’ I** **really though this is great. The other boys, all excited, asked who is he. He**
 
-**answered,** **‘that’s** **Jerome Scanlan.’**---
+**answered,** **‘that’s** **Jerome Scanlan.’**
+---
 10
 
 **The highlights for me over the past two years have been:**
@@ -733,7 +742,8 @@ The incoming Deputy Mayor, Councillor Ruddle, then addressed the Meeting:
 
 **Finally, many thanks to Laura Flannery and her colleagues for organising today’s event.**
 
-**Well done.”**---
+**Well done.”**
+---
 11
 
 The Members welcomed the guests who were present. They congratulated the Mayor and
@@ -778,4 +788,5 @@ Signed:
 
 Mayor
 
-Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -64,7 +64,8 @@ Executive Engineer, Service Operations West Division examine the corroded vent p
 
 and engage with Irish Water in relation to same and highlighted the need for private
 
-houses to ensure that their sewerage connections were properly vented.---
+houses to ensure that their sewerage connections were properly vented.
+---
 2
 
 Members raised the ongoing need for greater Garda resources to be allocated to the
@@ -137,7 +138,8 @@ headings:
 
 • The Roof Project
 
-• Team Limerick Clean Up---
+• Team Limerick Clean Up
+---
 3
 
 • Limerick Going for Gold
@@ -208,7 +210,8 @@ Municipal District of Adare-Rathkeale should now set up such a sub committee tha
 
 would meet quarterly with the local Garda Superintendent and the District PPN
 
-Representative on the JPC.---
+Representative on the JPC.
+---
 4
 
 Following discussion it was agreed that such meetings should be held at 9.00 a.m. on the
@@ -279,7 +282,8 @@ dated 5th October, 2017 which was noted by Members.
 
 **I will move at the next Meeting that this District writes to Transport Infrastructure**
 
-**Ireland (TII) and request that an Island to be put in place for the crossing on the road**---
+**Ireland (TII) and request that an Island to be put in place for the crossing on the road**
+---
 5
 
 **from the N21 onto the L1427. This junction is located at the Limerick side of the**
@@ -350,7 +354,8 @@ hoped to complete the survey before the end of the year.
 
 **(TII) provide an update on my Motion to install traffic route lighting in the vicinity of**
 
-**the Kilcornan primary school and entrance to the Ger McDonnell all-weather playing**---
+**the Kilcornan primary school and entrance to the Ger McDonnell all-weather playing**
+---
 6
 
 **facility and Kilcornan Community Centre, together with enhanced traffic calming and**
@@ -423,7 +428,8 @@ Correspondence, as circulated, was noted by Members.
 
 At the conclusion of the Agenda and with the consent of the Cathaoirleach the following
 
-issues were raised by Members:---
+issues were raised by Members:
+---
 7
 
 • It was noted that horses had been moved from a site at Abbeycourt, Rathkeale
@@ -498,7 +504,8 @@ provision of sites.
 
 Councillor Sheahan referred to previous discussion regarding the provision of
 
-affordable sites in Adare and noted that he had been informed that a policy in---
+affordable sites in Adare and noted that he had been informed that a policy in
+---
 8
 
 this regard would have to be developed. Councillor Sheahan put forward a
@@ -553,4 +560,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

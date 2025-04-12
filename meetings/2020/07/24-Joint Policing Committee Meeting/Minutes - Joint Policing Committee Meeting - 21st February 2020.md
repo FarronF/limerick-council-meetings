@@ -94,7 +94,8 @@ that, at present, An Garda Síochána has no outstanding complaint, however, if 
 
 aware of/or have any evidence regarding extortion/intimidation at building sites, he asked them to bring it
 
-to the attention of An Garda Síochána immediately for investigation.---
+to the attention of An Garda Síochána immediately for investigation.
+---
 **3.Presentation by Ms. Grace O’Sheahan on the Role of The Community Policing Co-Ordinator**
 
 Ms. O’Sheahan stated that her role is :
@@ -195,7 +196,8 @@ He also gave an overview of drugs statistics for 2020 for the Limerick division 
 
 of the controlled substances seized to date in 2020. He outlined the differences between crack cocaine and
 
-cocaine.---
+cocaine.
+---
 The Chief Superintendent stated that since September there is a deliberate input of drugs into the market
 
 by individuals in the city and is focused directly at the most vulnerable in our society. Alot of work is being
@@ -292,7 +294,8 @@ to become actively involved and acquire a sense of ownership of their estates.
 
 This is a service where trust is established and maintained through good communication and all
 
-information received is dealt with confidentially.---
+information received is dealt with confidentially.
+---
 Allegations of criminal behaviour are a matter for investigation in the first instance by An Garda SÍochána
 
 who is the Council’s key partner in trying to curb anti social behaviour. Many issues can be resolved by
@@ -329,4 +332,5 @@ This concluded the Meeting.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

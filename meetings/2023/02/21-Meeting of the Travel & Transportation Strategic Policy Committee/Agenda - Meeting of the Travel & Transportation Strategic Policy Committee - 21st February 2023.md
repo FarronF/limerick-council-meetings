@@ -29,7 +29,8 @@ set out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **AGENDA**
@@ -62,4 +63,5 @@ Policy Committee held on the 20th December 2022.
 
  Wayfinding Project
 
-**4.Review of Budget Allocations for 2023:**---
+**4.Review of Budget Allocations for 2023:**
+---

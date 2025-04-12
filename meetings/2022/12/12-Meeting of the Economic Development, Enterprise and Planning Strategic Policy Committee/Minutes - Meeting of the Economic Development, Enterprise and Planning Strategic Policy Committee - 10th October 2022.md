@@ -82,7 +82,8 @@ Autumn 2023.
 
 Members welcomed the presentation and acknowledged the volume of work involved in
 
-preparing the first LECP and expressed the importance of a Review of the LECP 2016-2022.---
+preparing the first LECP and expressed the importance of a Review of the LECP 2016-2022.
+---
 They stated that it was a very important document and underpinned a lot of work carried out
 
 by the local authority and assisted in funding for many projects. They also suggested that the
@@ -171,7 +172,8 @@ Transport Infrastructure of Ireland. A further supplementary map, including any 
 
 zoning, would be prepared by 1st May 2023 including a further public consultation period and a
 
-final map would be prepared by 1st December 2023, which will be reviewed on an annual basis.---
+final map would be prepared by 1st December 2023, which will be reviewed on an annual basis.
+---
 While members thanked Maria for the presentation, they vehemently opposed the
 
 introduction of this Residential Zoned Land Tax in the middle of a housing crisis. They expressed
@@ -262,7 +264,8 @@ will be available for public inspection sooner.
 
 Members thanked D. McGuigan for the presentation and stated that it will simplify the process
 
-for applying for planning permission in the future. Replying to queries, D. McGuigan stated:---
+for applying for planning permission in the future. Replying to queries, D. McGuigan stated:
+---
  Planning applications will still be able to be submitted by post / in person
 
  Maps will be directly uploaded in pdf format so they should be of better quality/resolution
@@ -351,4 +354,5 @@ That concluded the business of the meeting.
 
 **Councillor Bridie Collins,**
 
-**Chairperson**---
+**Chairperson**
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-12-07 10:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-workshop-for-the-elected-members-of-limerick-city-and-county-council-1)**
+**<a href="https://www.limerick.ie/council/whats-on/private-workshop-for-the-elected-members-of-limerick-city-and-county-council-1" target="_blank">Link to meeting</a>**

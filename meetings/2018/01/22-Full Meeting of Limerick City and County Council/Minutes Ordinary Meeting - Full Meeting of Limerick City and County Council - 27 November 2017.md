@@ -74,7 +74,8 @@ And Resolved:
 
 to honour Joy Neville, in accordance with Section 74 of the Local Government Act, 2001, as
 
-amended.”---
+amended.”
+---
 2
 
 1.
@@ -169,7 +170,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That, the approval of the Council be and is hereby given to the disposal of the
@@ -250,7 +252,8 @@ at 35, Greenhills Road, Garryowen, Limerick, to Mary and William Walsh, for the 
 
 County Council in the property, particulars of which were contained in Statutory Notice
 
-dated 12th October, 2017.”---
+dated 12th October, 2017.”
+---
 4
 
 (f)
@@ -331,7 +334,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, the approval of the Council be and is hereby given to the disposal of property
@@ -408,7 +412,8 @@ Seconded by Cmhlr. Ó Ceallaigh;
 
 “That, Councillor Costelloe be appointed to the Joint Policing Committee to fill the
 
-vacancy consequent on the resignation of Councillor McMahon from the Committee.”---
+vacancy consequent on the resignation of Councillor McMahon from the Committee.”
+---
 6
 
 Proposed by Councillor Teefy;
@@ -479,7 +484,8 @@ Limerick City and County Council into future drawdown (disbursements) requests w
 
 European Investment Bank in relation to this loan facility and provide all certificates as
 
-requested.”---
+requested.”
+---
 7
 
 (e)
@@ -554,7 +560,8 @@ Councillor O’Donnell, Chair of the Home and Social Development Strategic Polic
 
 Committee, presented an overview of matters discussed at the Meeting and outlined the
 
-following Recommendations which were agreed at the SPC Meeting:---
+following Recommendations which were agreed at the SPC Meeting:
+---
 8
 
 **Recommendation No. 1**
@@ -623,7 +630,8 @@ Circulated, report of the Chairperson of the Community, Leisure and Emergency
 
 Services Strategic Policy Committee dated 16th November, 2017, in relation to
 
-Meeting of the Committee held on 9th November, 2017.---
+Meeting of the Committee held on 9th November, 2017.
+---
 9
 
 **Recommendation**
@@ -694,7 +702,8 @@ known as a Part VIII process. He added that if the proposed development was of s
 
 that it required an Environmental Impact Assessment Report (EIAR), then the Local
 
-Authority would be required to apply to An Bord Pleanála to proceed.---
+Authority would be required to apply to An Bord Pleanála to proceed.
+---
 10
 
 With regard to the Opera Site, he said that the consultation process under the Part
@@ -771,7 +780,8 @@ enclosing (i) **Draft Strategy** and (ii) **Draft Smart Limerick Roadmap,** in r
 
 Ireland’s First Digital City – Towards a Sustainable Smart Limerick City, Region and
 
-Communities.”---
+Communities.”
+---
 11
 
 The Head of Digital Strategy delivered a PowerPoint presentation on Limerick’s
@@ -842,7 +852,8 @@ Development.
 
 • Smart Operations: 100 users of Mobile CRM.
 
-• Programme and Project Management.---
+• Programme and Project Management.
+---
 12
 
 **Support Services Highlights:**
@@ -917,7 +928,8 @@ housing, location of employment, Metropolitan Area Strategic Plans, key growth e
 
 She concluded by stating that the closing date for public submissions was 26th January,
 
-2018.---
+2018.
+---
 13
 
 A lengthy discussion took place on the item and the following points were made by
@@ -998,7 +1010,8 @@ Network; and
 
 • 4 Culture and Arts Sector Nominees - to be filled by Open Call to Cultural and Arts
 
-Sector.---
+Sector.
+---
 14
 
 The Meetings Administrator advised that the Council was now required to consider
@@ -1081,7 +1094,8 @@ number of Members present at the Meeting in order to determine the number of Mem
 
 necessary to form a Group for the purposes of nominating Members to the Committee in
 
-question:---
+question:
+---
 15
 
 Councillors Browne, Butler, Collins (J), Collins (M), Costelloe, Crowley, Donegan,
@@ -1168,7 +1182,8 @@ Was a staff member sitting on any of the Bodies which had received funding.
 
 •
 
-Concern was expressed in relation to getting value for money for events.---
+Concern was expressed in relation to getting value for money for events.
+---
 16
 
 In relation to New Year's Eve Fireworks Display, mixed views were expressed by the
@@ -1255,7 +1270,8 @@ Members welcomed the proposed development and it was noted that the scheme
 
 had been brought to the October Meetings of both the Metropolitan District and the
 
-Municipal District of Cappamore-Kilmallock for consideration and discussion.---
+Municipal District of Cappamore-Kilmallock for consideration and discussion.
+---
 17
 
 6.
@@ -1332,7 +1348,8 @@ Members: (a) Developing a Sustainable Heritage Tourism Sector in Small Irish Tow
 
 Buttevant, Co. Cork, on 14th October, 2017; (b) National Public Participation Network
 
-Conference held in Sligo Town on 19th October, 2017; (c) M20 Economic Corridor held in---
+Conference held in Sligo Town on 19th October, 2017; (c) M20 Economic Corridor held in
+---
 18
 
 Charleville, Co. Cork, on 20th October, 2017; (d) Planning Across Boundaries in a Changing
@@ -1405,7 +1422,8 @@ Circulated, reports by Members who had participated at Conference/ Seminar/
 
 Meeting/Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 19
 
 QUESTIONS
@@ -1482,7 +1500,8 @@ Question submitted by Cmhlr. S. Ó Ceallaigh
 
 **County Council in 2017, how many were registered, how many were reclaimed, how many**
 
-**were re-homed, and how many were put down.**---
+**were re-homed, and how many were put down.**
+---
 20
 
 **REPLY:**
@@ -1619,7 +1638,8 @@ Presence of Mould on Walls/Ceilings.
 
 Window seals/hinges in poor condition.
 
-Window restrictors required in upstairs windows (since July 2017).---
+Window restrictors required in upstairs windows (since July 2017).
+---
 21
 
 Miscellaneous items: Clean gutters, replace missing drain grates,
@@ -1692,7 +1712,8 @@ Question submitted by Councillor C. Prendiville
 
 **this year, as compared to last year, and also a comparison in terms of the number of**
 
-**planning applications received and their scale this year compared to last year.**---
+**planning applications received and their scale this year compared to last year.**
+---
 22
 
 **REPLY:**
@@ -1769,7 +1790,8 @@ construction of bunds to hold slurry temporarily in the event of a spillage from
 
 tanks. He concluded by stating that the Council should call on the Department of Agriculture
 
-to provide grant-aid for any upgrading works.---
+to provide grant-aid for any upgrading works.
+---
 23
 
 Councillor Teskey, in seconding the Motion, said this matter had been discussed in
@@ -1838,7 +1860,8 @@ to Travel and Transportation Strategic Policy Committee)
 
 It was agreed to refer this Motion to the Travel and Transportation Strategic Policy
 
-Committee.---
+Committee.
+---
 24
 
 18.
@@ -1893,4 +1916,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

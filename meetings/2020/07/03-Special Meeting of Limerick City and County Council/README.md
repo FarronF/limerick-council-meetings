@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-07-03 16:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-35)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-35" target="_blank">Link to meeting</a>**

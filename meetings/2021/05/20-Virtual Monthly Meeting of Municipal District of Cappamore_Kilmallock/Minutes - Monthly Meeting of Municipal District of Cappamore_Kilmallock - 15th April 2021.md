@@ -64,7 +64,8 @@ The submission of queries specific to the Cappamore Kilmallock Municipal Distric
 
 Irish Water Clinic for Elected Members was acknowledged, and a query was raised as to
 
-whether responses were circulated via email. It was confirmed that the responses had been---
+whether responses were circulated via email. It was confirmed that the responses had been
+---
 2
 
 circulated, and the Meetings administrator agreed to circulate again to ensure all Elected
@@ -127,7 +128,8 @@ A suggestion of the use of mobile CCTV Cameras was raised, however it was noted 
 
 Director, Support Services-Finance, Corporate, HR & ICT that currently there is no legal basis
 
-in legislation for the use of CCTV cameras in relation to litter. CCTV cameras currently in use---
+in legislation for the use of CCTV cameras in relation to litter. CCTV cameras currently in use
+---
 3
 
 are by way of agreement with An Garda Siochana to detect crime. GDPR would not allow
@@ -182,7 +184,8 @@ suggested that the vote be deferred to the September Meeting.
 
 **Proposed by: Councillor Egan**
 
-**Seconded by: Councillor Teefy.**---
+**Seconded by: Councillor Teefy.**
+---
 4
 
 GMA Community Nominations
@@ -343,7 +346,8 @@ Kilteely Tidy Towns
 
 Cllr M Ryan with Cllr Egan
 
-and Cllr Mitchell---
+and Cllr Mitchell
+---
 5
 
 Oola Tidy Towns
@@ -494,7 +498,8 @@ Cllr Teefy with Cllr M Ryan
 
 and Cllr Mitchell
 
-**€4,225.00**---
+**€4,225.00**
+---
 6
 
 NOTICES OF MOTIONS
@@ -571,7 +576,8 @@ between Killonan Junction and Limerick Junction which is currently a single-trac
 
 with a passing loop at Dromkeen.
 
-**Proposed: Councillor Egan**---
+**Proposed: Councillor Egan**
+---
 7
 
 **Seconded: Councillor Donegan**
@@ -636,7 +642,8 @@ calming measures.
 
 **Proposed by: Councillor Mitchell**
 
-**Seconded by: Councillor M Ryan**---
+**Seconded by: Councillor M Ryan**
+---
 8
 
 QUESTIONS
@@ -697,7 +704,8 @@ update on the safety works planned for the railway bridge on Railway Road, Gotoo
 
 Kilmallock, including footpath replacement and improved signage for the safety of
 
-pedestrians crossing the bridge.---
+pedestrians crossing the bridge.
+---
 9
 
 **REPLY:**
@@ -762,7 +770,8 @@ Tenders are being prepared in order to quantify the cost of works required to fa
 
 bringing Cluain Foinse Estate to a taking in charge standard. Upon completion of these
 
-works the formal taking in charge process will be commenced.---
+works the formal taking in charge process will be commenced.
+---
 10
 
 6.Question submitted by Councillor Mitchell
@@ -831,7 +840,8 @@ Ballysimon, who passed away on 8th April.
 
 A vote of sympathy was extended by the Elected Members to the community, family and
 
-friends of Sr Claude Meagher, Presentation Convent, Hospital, who passed away on 23rd---
+friends of Sr Claude Meagher, Presentation Convent, Hospital, who passed away on 23rd
+---
 11
 
 February. The Elected Members wished to acknowledge the contribution Sr Claude made to
@@ -880,4 +890,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

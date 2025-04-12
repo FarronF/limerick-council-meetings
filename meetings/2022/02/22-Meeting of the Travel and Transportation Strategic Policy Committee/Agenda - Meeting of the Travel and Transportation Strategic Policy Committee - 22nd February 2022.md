@@ -29,7 +29,8 @@ out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **1.Minutes**
@@ -102,7 +103,8 @@ allocation for disabled drivers?
 
 
 
-When will the next review take place?---
+When will the next review take place?
+---
 3
 
 **9.Question submitted by Ms. Ailish Drake**
@@ -131,4 +133,5 @@ and adjoining laneways
 
 one of the few pedestrianised streets in the city, up to and including bollards at the
 
-Thomas St entrance.---
+Thomas St entrance.
+---

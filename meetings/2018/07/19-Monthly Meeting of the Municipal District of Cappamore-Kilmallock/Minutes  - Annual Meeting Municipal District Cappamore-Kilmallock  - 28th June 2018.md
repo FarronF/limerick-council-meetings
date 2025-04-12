@@ -52,7 +52,8 @@ That Councillor Eddie Ryan be appointed Cathaoirleach of the Municipal District 
 
 Cappamore-Kilmallock to hold office until the next Annual Meeting or until a successor has
 
-been appointed”---
+been appointed”
+---
 2
 
 As there were no other nominations, the outgoing Cathaoirleach declared Councillor Ryan
@@ -107,4 +108,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

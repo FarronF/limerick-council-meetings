@@ -70,7 +70,8 @@ The Director, Economic Development and Enterprise welcomed Members and Officials
 
 Innovate Offices. He gave an outline of the many facilities provided at the Offices of Innovate.
 
-Innovate Limerick assists business start-ups by providing office spaces, at the Offices of Innovate,---
+Innovate Limerick assists business start-ups by providing office spaces, at the Offices of Innovate,
+---
 2
 
 for entrepreneurs. He highlighted how this gives companies a great opportunity to develop their
@@ -139,7 +140,8 @@ house situate at Kilbane, Ballysimon, Limerick and the intention to bring a Sect
 
 to Full Council in this regard, for approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 **3.Economic Development and Enterprise Directorate**
@@ -208,7 +210,8 @@ finalised.
 
 ***discuss the large vacant units with a view to leasing them for many groups in the area looking***
 
-***for a home. I am aware funding is needed to maintain the roof.***---
+***for a home. I am aware funding is needed to maintain the roof.***
+---
 4
 
 **REPLY:** The Regeneration Directorate will engage directly with Cllr. Slattery to ascertain the detail
@@ -283,7 +286,8 @@ document, which forms part of the Limerick Development Plan 2022 – 2028 and wa
 
 developed in conjunction with Clare County Council for the Metropolitan Area. The
 
-recommendations set out in the document are primarily to inform decision making on---
+recommendations set out in the document are primarily to inform decision making on
+---
 5
 
 planning applications in the area over the Plan period. Therefore, implementation of the
@@ -382,7 +386,8 @@ requested the Department to provide 80% match funding. Going on last year’s bu
 
 have 63% of our budget currently committed. The Department allowed all local authorities
 
-to approve up to 65% of last year’s budget.---
+to approve up to 65% of last year’s budget.
+---
 6
 
 **12.Question submitted by Councillor D. McSweeney**
@@ -481,7 +486,8 @@ based from depots in
 
 10 + 1 vacancy
 
-11---
+11
+---
 7
 
 Merchants Quay and
@@ -562,7 +568,8 @@ intensive population development in future Limerick Development plans.  This wil
 
 be explored in conjunction with RSES from a forward planning perspective.
 
-LSMATS has a specific objective for rail based Park and Ride provision at Ballysimon and an---
+LSMATS has a specific objective for rail based Park and Ride provision at Ballysimon and an
+---
 8
 
 objective of investigating the potential for further Park and Ride facilities where the
@@ -639,7 +646,8 @@ that the Milk Market also attracts big numbers at Christmas time. Members agreed
 
 of identifying what worked well previously and what aspects needed to be improved, in order to
 
-enhance the experience at future Christmas events in Limerick.---
+enhance the experience at future Christmas events in Limerick.
+---
 9
 
 **REPLY**: The Council will organise a workshop with Members to consider and discuss measures for
@@ -712,7 +720,8 @@ important areas in the City and surrounding areas. Members noted that the Milk M
 
 area, and pointed out that it needs to be added to the Winter Maintenance Plan as a priority area,
 
-along with any other highly trafficked pedestrian areas.---
+along with any other highly trafficked pedestrian areas.
+---
 10
 
 **REPLY**: With approximately 4,000 kms of roadway in County Limerick, it is not possible to treat all
@@ -751,4 +760,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

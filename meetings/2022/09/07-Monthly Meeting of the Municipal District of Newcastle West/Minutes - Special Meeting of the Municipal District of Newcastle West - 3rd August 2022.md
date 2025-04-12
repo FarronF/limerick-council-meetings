@@ -60,7 +60,8 @@ Seconded by: Councillor Ruddle
 
 “*That, Councillor Michael Collins be appointed Cathaoirleach of the Municipal District of*
 
-*Newcastle West to hold office to the next Annual Meeting or until his successor is appointed”.*---
+*Newcastle West to hold office to the next Annual Meeting or until his successor is appointed”.*
+---
 2
 
 As there were no other nominations, the outgoing Cathaoirleach declared Councillor Collins
@@ -127,7 +128,8 @@ Newcastle West and Fuller’s Folly, Newcastle West.
 
 The condition of the road surface on a section of the N21 Devon Road, Templeglantine was
 
-raised. In replying, the Senior Executive Engineer agreed to follow up on this matter.---
+raised. In replying, the Senior Executive Engineer agreed to follow up on this matter.
+---
 3
 
 An update was also sought on the Local Area Plans for Newcastle West and Abbeyfeale and
@@ -158,5 +160,7 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
-4---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
+4
+---

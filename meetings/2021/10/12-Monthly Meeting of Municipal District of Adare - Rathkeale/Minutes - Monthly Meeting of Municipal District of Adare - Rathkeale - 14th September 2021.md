@@ -66,7 +66,8 @@ and platform, install benches with bike racks in the renovated car park and also
 
 set down area for coaches together with upgrade of the existing car park to include new
 
-paving, public lighting and a pedestrian crossing adjacent to the Rathkeale House Hotel.---
+paving, public lighting and a pedestrian crossing adjacent to the Rathkeale House Hotel.
+---
 2
 
 Members welcomed the proposed plans for the Greenway and queried if funding was
@@ -143,7 +144,8 @@ Proposed by Councillor Keary;
 
 Seconded by Councillor O’Donoghue;
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
@@ -214,7 +216,8 @@ On the proposal of Councillor O’Brien, seconded by Councillor O’Donoghue it 
 
 to allocate the following:
 
- €2,000 for Pallaskenry Scouts Troup.---
+ €2,000 for Pallaskenry Scouts Troup.
+---
 4
 
  €10,000 for Kilcornan Church car park.
@@ -283,7 +286,8 @@ September, 2021 setting out proposals to dispose of land at Croagh Commons,
 
 Croagh, Co. Limerick and the intention to bring to Full Council for approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 5
 
 **6.**
@@ -348,7 +352,8 @@ is due to be installed at this location shortly.
 
  Councillor Teskey requested contact be made with Transport Infrastructure
 
-Ireland in relation to funding delay for the traffic calming scheme at Coolanoran.---
+Ireland in relation to funding delay for the traffic calming scheme at Coolanoran.
+---
 6
 
 The Senior Executive Engineer, Road, Traffic & Cleansing agreed to follow up on
@@ -417,7 +422,8 @@ In proposing the motion Councillor O’Donoghue raised the issue of water being 
 
 off at night in Croom having huge implications on families and business owners in the
 
-area. Fedamore also has a boil water notice for a number of years now and Banogue---
+area. Fedamore also has a boil water notice for a number of years now and Banogue
+---
 7
 
 has an issue with clorine levels in the water. He requested Irish Water attend a Meeting
@@ -490,7 +496,8 @@ be adopted by Q2 2022.
 
 housing estates would include speed ramps as part of the planning process. This
 
-was seconded by Councillor Keary and agreed.---
+was seconded by Councillor Keary and agreed.
+---
 8
 
  Councillor Teskey also requested speed ramps be installed in all Council housing
@@ -527,4 +534,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

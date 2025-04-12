@@ -74,7 +74,8 @@ Circulated, Report of the Head of Property and Community Facilities dated 28th F
 
 House Community Enterprise CLG and the intention to bring a Section 183 Notice to the
 
-March Meeting of Council in this regard, for approval.---
+March Meeting of Council in this regard, for approval.
+---
 2
 
 The report, as circulated, was noted by Members.
@@ -155,7 +156,8 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development Reg
 
 report.
 
-Members welcomed the proposed development and queried the time frame of the development.---
+Members welcomed the proposed development and queried the time frame of the development.
+---
 3
 
 Members also referred to the Gaelscoil, Castletroy and requested that consideration be given to
@@ -236,7 +238,8 @@ accommodation within 10 minutes walk of the City. Presently the canal is underut
 
  Affordable accommodation needed for students, close to colleges.
 
- Concerns in relation to number of storeys in terms of height.---
+ Concerns in relation to number of storeys in terms of height.
+---
 4
 
  Query in relation to the number of social units.
@@ -317,7 +320,8 @@ A notification is then sent to Elected Members and TD’s to inform them of the
 
 address (not personal details) that has been allocated. Individual house numbers
 
-are not issued in this notification. This process was developed in the interest of---
+are not issued in this notification. This process was developed in the interest of
+---
 5
 
 governance and transparency in relation to the allocation of Council stock. Data
@@ -404,7 +408,8 @@ The short-term letting regulations requires a person who is letting a second pro
 
 (not their principal private residence) within the Rent Pressure Zone to apply for
 
-planning permission for change of use. The Council has received 3 planning---
+planning permission for change of use. The Council has received 3 planning
+---
 6
 
 applications for change of use for short-term letting.
@@ -487,7 +492,8 @@ and the Traffic Wardens Act, 1975, the use of the provisions proposed as evidenc
 
 of non compliance with parking regulations cannot be presented by Limerick City
 
-and County Council before the Courts to enable prosecution.---
+and County Council before the Courts to enable prosecution.
+---
 7
 
 **15.**
@@ -572,7 +578,8 @@ In proposing the Motion, Councillor Sheehan emphasised the need to call on the M
 
 Business, Enterprise and Innovation to intervene in order to prevent the proposed job losses in
 
-Raheen. This Motion was seconded by Councillor O’Donovan and agreed.---
+Raheen. This Motion was seconded by Councillor O’Donovan and agreed.
+---
 8
 
 **18.**
@@ -637,4 +644,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

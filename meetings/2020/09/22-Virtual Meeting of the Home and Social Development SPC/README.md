@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-09-22 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-meeting-home-and-social-development-spc)**
+**<a href="https://www.limerick.ie/council/whats-on/private-meeting-home-and-social-development-spc" target="_blank">Link to meeting</a>**

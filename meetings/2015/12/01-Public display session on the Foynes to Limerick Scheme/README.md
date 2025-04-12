@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-12-01 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/public-display-session-foynes-limerick-scheme)**
+**<a href="https://www.limerick.ie/council/whats-on/public-display-session-foynes-limerick-scheme" target="_blank">Link to meeting</a>**

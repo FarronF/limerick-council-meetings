@@ -60,7 +60,8 @@ wholly owned subsidiaries of Limerick City and County Council. He referred to th
 
 of the DACs, the governance, the key milestones achieved to date, and informed the Members
 
-of what the potential was for these DACs.---
+of what the potential was for these DACs.
+---
 **2**
 
 In the presentation, the Mayor gave the following overview of the Limerick DACs:
@@ -117,7 +118,8 @@ especially Office of Public Works building;
 
  Possible co-ordinator of all commercial office space of scale, owned by Limerick City
 
-and County Council.---
+and County Council.
+---
 **3**
 
 **Innovate Limerick DAC**
@@ -184,7 +186,8 @@ The Mayor advised the Members what the next steps were and these included:
 
  Post completion of review finalise new board members;
 
- Set-up of shareholder management unit in Limerick City and County Council;---
+ Set-up of shareholder management unit in Limerick City and County Council;
+---
 **4**
 
  Government Funding for Office of Public Works building or Plan B for Opera;
@@ -251,7 +254,8 @@ Elected Members that a policy document with clear instructions on the role of th
 
 Directors’ duties should be drafted, which would include decisions on whether minutes of
 
-meetings should be shared to the Elected Members.---
+meetings should be shared to the Elected Members.
+---
 **5**
 
 He pointed out that the guidelines at a national level needed to be followed in relation to his
@@ -312,7 +316,8 @@ debate the progress of the three Limerick DACs at this Special Meeting, and to u
 
 the potential for moving forward. Some Members still expressed their concern at the
 
-possibility that Elected Members would no longer sit on the boards, stressing the local---
+possibility that Elected Members would no longer sit on the boards, stressing the local
+---
 **6**
 
 element may be lost, while other Members looked forward to seeing the report following the
@@ -385,7 +390,8 @@ and County Council;
 
  The Annual Work Programme and Budget 2025 has been developed with the input
 
-from staff and the board. A detailed work programme outlining the company’s---
+from staff and the board. A detailed work programme outlining the company’s
+---
 **7**
 
 commitment to operational excellence and enhanced visitor engagement was
@@ -440,4 +446,5 @@ This concluded the Meeting.
 
 **Date:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

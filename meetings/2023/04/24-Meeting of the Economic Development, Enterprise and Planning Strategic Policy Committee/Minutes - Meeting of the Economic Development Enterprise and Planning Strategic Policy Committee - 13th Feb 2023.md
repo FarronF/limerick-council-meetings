@@ -82,7 +82,8 @@ was listed, under standing orders the motion cannot be deferred and will need to
 
 *Business interruption Scheme for the city centre traders/ retailers be progressed as a way of*
 
-*compensation when building works impact on revenue.”*---
+*compensation when building works impact on revenue.”*
+---
 While the motion was broadly welcomed, Councillors urged caution on the introduction of
 
 additional development levies in the future to fund a compensation scheme.
@@ -171,7 +172,8 @@ floating technology proposed for this project will allow the turbines to be loca
 
 in waters over 100m deep, where traditional fixed bottom turbine foundations would be
 
-uneconomical.---
+uneconomical.
+---
 Ms Gleeson outlined the economic opportunity, which this project presents, and the job and supply
 
 chain potential, which will come with it. She concluded that if the region wants to maximise the
@@ -230,4 +232,5 @@ No other issues were raised.
 
 **Cllr. B. Collins,**
 
-**Chairperson**---
+**Chairperson**
+---

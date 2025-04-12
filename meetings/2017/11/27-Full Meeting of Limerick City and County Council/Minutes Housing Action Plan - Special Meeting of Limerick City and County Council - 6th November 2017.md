@@ -54,7 +54,8 @@ Meeting and, as Members were aware, it had been decided that the issue required 
 
 time for discussion and accordingly it was agreed to hold a Special Meeting to discuss the
 
-Housing Action Plan.---
+Housing Action Plan.
+---
 **2**
 
 The Meetings Administrator, in response to query from Councillor Galvin as to why
@@ -113,7 +114,8 @@ Affordability and the demand for large-scale renting needed to be addressed.
 
 • The need to focus on student accommodation and to liaise with the various colleges
 
-was raised.---
+was raised.
+---
 **3**
 
 • Housing issues should be addressed locally, at the relevant Municipal District.
@@ -170,7 +172,8 @@ programme for trades and crafts in the Council.
 
 • Concern regarding the sustainability of HAP and RAS and what was in place for
 
-people who did not qualify for housing supports.---
+people who did not qualify for housing supports.
+---
 **4**
 
 • Progress requested on Burke Avenue and Speakers Corner.
@@ -231,7 +234,8 @@ approval to proceed with the sites was given by the Department.
 
 • Approved Housing Bodies (AHBs) were part of the solution and the Council would
 
-endeavour to inform local Public Representatives of projects involving AHBs.---
+endeavour to inform local Public Representatives of projects involving AHBs.
+---
 **5**
 
 • Since 2015, 154 voids in Council ownership were brought back into use. 22 houses were
@@ -294,7 +298,8 @@ the City. It was noted that the majority of properties in this area were in priv
 
 ownership.
 
-• A new national affordable housing scheme was being developed at a national level.---
+• A new national affordable housing scheme was being developed at a national level.
+---
 **6**
 
 • The Council was consistently working with Third Level Institutions in relation to
@@ -359,7 +364,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 **7**
 
 “That, the approval of the Council be and is hereby given to bank overdraft
@@ -380,4 +386,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

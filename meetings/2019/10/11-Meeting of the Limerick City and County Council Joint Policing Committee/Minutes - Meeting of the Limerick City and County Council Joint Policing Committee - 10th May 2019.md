@@ -70,7 +70,8 @@ After the demonstration Garda O’Dwyer pointed out that this bike is the only b
 
 which is being trialed on the Mobility Project. The bike has an inbuilt camera and can read seven
 
-number plates per second and has minimum interference with traffic.---
+number plates per second and has minimum interference with traffic.
+---
 **4.RECEIVE UPDATE FROM CHIEF SUPERINTENDENT**
 
 The Chief Superintendent informed Members that there are seventy probationers in Limerick at
@@ -153,7 +154,8 @@ The prison area underneath the courthouse is dealt with by the prison services, 
 
 look after the court room and custody area. He added that he contacted the Minister for Justice
 
-recently on this matter and will update Members in due course.---
+recently on this matter and will update Members in due course.
+---
 **5.QUESTION SUBMITTED BY MAURICE QUINLIVAN, T.D. AND COUNCILLOR SÉIGHÍN Ó**
 
 **CEALLAIGH:**
@@ -226,7 +228,8 @@ city. Begging on the streets is also being addressed.
 
 **LIMERICK, I MOVE THAT THIS COMMITTEE ASK THE GARDA COMMISSIONER TO SEEK RESOURCES**
 
-**FOR AND PROVIDEA** **GARDA SUBSTATION IN THE AREA’.**---
+**FOR AND PROVIDEA** **GARDA SUBSTATION IN THE AREA’.**
+---
 **11.NOTICE OF MOTION SUBMITTED BY COUNCILLOR JOE POND (REFERRED FROM MEETING**
 
 **OF METROPOLITAN DISTRICT OF LIMERICK HELD ON 21ST** **JANUARY, 2019):**
@@ -303,7 +306,8 @@ done up and are manned with a guard in each one.
 
 **INVOLVING SAME, WHETHER ADDITIONAL LEGISLATION IS REQUIRED AND ANY OTHER RELEVANT**
 
-**INFORMATION WHICH CAN BE PROVIDED’.**---
+**INFORMATION WHICH CAN BE PROVIDED’.**
+---
 **12.NOTICE OF MOTION SUBMITTED BY COUNCILLOR PAUL KELLER :**
 
 **‘I PROPOSE, SINCE THE EXISTING ROAD TRAFFIC LEGISLATION** **DOES NOT APPLY TO GREEN SPACES,**
@@ -334,4 +338,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

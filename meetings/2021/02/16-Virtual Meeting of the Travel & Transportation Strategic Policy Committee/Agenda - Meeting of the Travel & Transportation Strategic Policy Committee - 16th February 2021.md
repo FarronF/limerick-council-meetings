@@ -29,7 +29,8 @@ business to be transacted is set out in the appended agenda.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -54,4 +55,5 @@ would be monitored with a view to a permanent speed limit reduction.
 
 How has it been monitored and what are the outcomes of same?
 
-How will the new limit be voted upon and is there a proposed time frame?”---
+How will the new limit be voted upon and is there a proposed time frame?”
+---

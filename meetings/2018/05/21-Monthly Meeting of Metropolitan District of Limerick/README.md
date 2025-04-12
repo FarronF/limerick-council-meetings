@@ -4,4 +4,4 @@
 
 **Date and Time:** 2018-05-21 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-40)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-40" target="_blank">Link to meeting</a>**

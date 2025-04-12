@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-04-15 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-workshop-elected-members-cappamore-kilmallock-municipal-district-relation)**
+**<a href="https://www.limerick.ie/council/whats-on/private-workshop-elected-members-cappamore-kilmallock-municipal-district-relation" target="_blank">Link to meeting</a>**

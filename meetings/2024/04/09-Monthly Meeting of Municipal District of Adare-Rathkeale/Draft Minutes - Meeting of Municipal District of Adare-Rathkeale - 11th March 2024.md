@@ -68,7 +68,8 @@ Directorate dated 29th February, 2024 setting out proposals for the disposal of 
 
 acres/3.5205 hectares of land at Skagh, Croom, Co. Limerick and the intention to bring
 
-the Section 183 Notice to Full Council for approval.---
+the Section 183 Notice to Full Council for approval.
+---
 2
 
 The report, as circulated, was proposed by Councillor Teskey, seconded by Councillor
@@ -147,7 +148,8 @@ years. The aim of the plan is to identify areas for noise mitigation based on no
 
 and the harmful effects assessment to reduce environmental noise where exposure levels
 
-affect human health. A public consultation on the Draft Noise Action Plans will be held at---
+affect human health. A public consultation on the Draft Noise Action Plans will be held at
+---
 3
 
 the end of March 2024 with the final Noise Action Plans to be submitted to the
@@ -220,7 +222,8 @@ West Road Design Office advised the Archaeologist needs access to the site for
 
 archaeological investigations prior to construction and added as this is a lengthy
 
-process the site has to be fenced off at this stage of the project.---
+process the site has to be fenced off at this stage of the project.
+---
 4
 
  Councillor Teskey queried if there are plans for a service plaza on the new section
@@ -293,7 +296,8 @@ Proposed by Councillor Teskey;
 
 Seconded by Councillor O’Brien;
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, the Draft Schedule of Municipal District Works for the Municipal District of Adare-
@@ -362,7 +366,8 @@ Uisce Éireann upgrade works to lift Boil Water Notice for customers
 
 supplied by Foynes/Shannon Estuary Public Water Supply are nearing
 
-completion.---
+completion.
+---
 6
 
 Our teams have successfully carried out the necessary shutdowns at the
@@ -437,7 +442,8 @@ Gaeltacht, Sport and Media under the Creative Ireland Initiative.
 
 Adare-Rathkeale MD is home to a number of practitioners and
 
-organisations who are supported through various grants schemes and---
+organisations who are supported through various grants schemes and
+---
 7
 
 funding opportunities provided through Limerick City and County Council
@@ -508,4 +514,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -74,7 +74,8 @@ entrance which was now causing a hazard.
 
 • Housing Estates – All housing estates had requested speed limit signs to be erected at the
 
-entrances.---
+entrances.
+---
 2
 
 Members thanked the Deputation for the presentation and stated that many of the
@@ -145,7 +146,8 @@ would be brought to the Full Meeting of the Council in November because of the f
 
 improvement scheme was located in both the Metropolitan District area and the Cappamore-
 
-Kilmallock Municipal District area.---
+Kilmallock Municipal District area.
+---
 3
 
 A PowerPoint presentation was delivered on the public consultation process. It was
@@ -264,7 +266,8 @@ of the Planning and Development Act 2000 (as amended) and Part VIII of the Plann
 
 Development Regulations 2001 (as amended).
 
-It was proposed to proceed with the development as outlined in the report.---
+It was proposed to proceed with the development as outlined in the report.
+---
 4
 
 A PowerPoint presentation was delivered on the public consultation process. It was
@@ -369,7 +372,8 @@ to the parking area.
 
 Staff from the Mid-West National Road Design Office, and the Consultant, responded to
 
-queries from the Members as follows:---
+queries from the Members as follows:
+---
 5
 
 • The accident frequency at 5-leg roundabouts was 1.6 times that associated with a 4-leg
@@ -448,7 +452,8 @@ This work will be complete by early December 2017. Thereafter, subject to
 
 appropriate funding being provided, a Contractor will be appointed and the
 
-works complete in 2018.---
+works complete in 2018.
+---
 6
 
 NOTICES OF MOTION
@@ -503,7 +508,8 @@ Brian.
 
 A Vote of Congratulations was extended to the team representing Cappamore Fire Brigade
 
-on winning ‘Limerick’s Fittest Superstars.’---
+on winning ‘Limerick’s Fittest Superstars.’
+---
 7
 
 A Vote of Congratulations was also extended to Murroe/Boher on winning the County
@@ -520,4 +526,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -92,7 +92,8 @@ Proposed by Councillor Teefy;
 
 Seconded by Councillor Sheehy;
 
-And Resolved:---
+And Resolved:
+---
 2
 
 “That the Budgetary Plan for Municipal District of Cappamore-Kilmallock for the financial year
@@ -115,4 +116,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

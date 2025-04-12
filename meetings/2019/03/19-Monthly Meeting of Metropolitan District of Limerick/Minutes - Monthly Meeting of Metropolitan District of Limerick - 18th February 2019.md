@@ -60,7 +60,8 @@ Seconded by Councillor Hourigan;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **2.**
@@ -147,7 +148,8 @@ exchange for 180, St. Munchin’s Street, St. Mary’s Park, Limerick.
 
 in exchange for 134, St. Munchin’s Street, St. Mary’s Park, Limerick.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 3
 
 **3.**
@@ -228,7 +230,8 @@ the following:
 
 *and will be considered as part of the examination and processing of the review.*
 
-*Your comments will be taken into account when determining same”.*---
+*Your comments will be taken into account when determining same”.*
+---
 4
 
 On the 1st November, 2018, the EPA wrote to Irish Cement requesting additional
@@ -307,7 +310,8 @@ relief measures under the Project Ireland 2040 – National Development Plan. It
 
 the intention of the Government to invest in a total of 118 flood relief schemes
 
-nationwide over the coming decade.---
+nationwide over the coming decade.
+---
 5
 
 The first tranche of €257 million in funding will see 50 nationwide schemes
@@ -404,7 +408,8 @@ Churchfield, O’Malley Park, Southill
 
 Wallers Well
 
-10 Units---
+10 Units
+---
 6
 
 A further two hundred and sixty one homes have received funding approval from
@@ -493,7 +498,8 @@ Directorate in conjunction with the OPW, at a future meeting.
 
 ***I will move at the next Meeting that Limerick City and County Council provide an all purpose***
 
-***facility for various Suicide Prevention Groups.***---
+***facility for various Suicide Prevention Groups.***
+---
 7
 
 In proposing the motion, Councillor Costelloe emphasised the need for a facility to be provided
@@ -574,4 +580,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

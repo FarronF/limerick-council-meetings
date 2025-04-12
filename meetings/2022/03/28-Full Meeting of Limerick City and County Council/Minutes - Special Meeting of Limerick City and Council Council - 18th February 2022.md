@@ -72,7 +72,8 @@ practices to ensure that all sectors of society had an opportunity to get involv
 
 process. This included webinars, development of a virtual room, meetings held on Zoom
 
-Meetings etc. This process culminated in 285 submission received on the Draft Plan, all of---
+Meetings etc. This process culminated in 285 submission received on the Draft Plan, all of
+---
 which are summarised in the Chief Executive’s Report, with the response and
 
 recommendation of the Chief Executive on each issue raised.
@@ -139,7 +140,8 @@ O’Donoghue, O’Donovan, O’Hanlon, O’Sullivan, Ruddle, Ryan (M), Scanlan, 
 
 Councillors Hartigan, Novak, Ryan (E). **(3)**
 
-The Amendment proposed by Councillor Galvin, seconded by Councillor Collins was approved.---
+The Amendment proposed by Councillor Galvin, seconded by Councillor Collins was approved.
+---
 **Amendment** **No. 3: Amendment submitted by Cllr. Liam Galvin to support the Extension of**
 
 **the development boundary in Carrigkerry**
@@ -204,7 +206,8 @@ Structures, which was seconded by Cllr Novak. Following discussions, the Mayor d
 
 that a vote be taken on the proposed amendment from Cllr Costelloe and the result of the
 
-voting was as follows:---
+voting was as follows:
+---
 **In Favour**
 
 Councillors Benson, Butler, Carey, Collins (B), Collins (J), Collins (M), Costelloe, Donegan, Egan,
@@ -273,7 +276,8 @@ approved.
 
 **Amendment No. 11: Amendment submitted by Cllr. Dan Mc Sweeney** **–** **Amend High Tech/**
 
-**Manufacturing Land Use Zoning Matrix**---
+**Manufacturing Land Use Zoning Matrix**
+---
 The Amendment proposed by Councillor McSweeney, seconded by Councillor Sheahan (J) was
 
 approved.
@@ -340,7 +344,8 @@ The Amendment proposed by Councillor Keary, seconded by Councillor Teskey was ap
 
 **Derelict Sites**
 
-The Amendment proposed by Councillor Keary, seconded by Councillor Teskey was approved.---
+The Amendment proposed by Councillor Keary, seconded by Councillor Teskey was approved.
+---
 **Amendment** **No. 20: Amendment submitted by Cllr. Stephen Keary - Objective CGR 016 –**
 
 **Requirements for Developments within Level 4 Settlements and sewerage treatment**
@@ -405,7 +410,8 @@ Some Members referred to the flood report stating that the site comes in under t
 
 different categories, and not all within Flood Zone A. The Senior Planner noted that any land
 
-that came in under Flood Zone C was already zoned as residential in the Draft Plan, but if it---
+that came in under Flood Zone C was already zoned as residential in the Draft Plan, but if it
+---
 came in under Flood Zone A or B, it was considered high risk and the planning authority did
 
 not consider it appropriate to zone a vulnerable use on these lands.
@@ -474,7 +480,8 @@ proposed amendment was reasonable and Members also agreed that the public needed
 
 be made more aware of all potential energy saving proposals and be encouraged, rather
 
-than mandated, into availing of same. Following these discussions, the Mayor directed that---
+than mandated, into availing of same. Following these discussions, the Mayor directed that
+---
 a vote be taken on the proposal from Cllr Hartigan that the amendment not be made and
 
 the result of the voting was as follows:
@@ -537,7 +544,8 @@ Hartigan that the amendment not be made and the result of the voting was as foll
 
 **In Favour**
 
-Councillors Hartigan, Novak. **(2)**---
+Councillors Hartigan, Novak. **(2)**
+---
 **Against**
 
 Councillors Butler, Carey, Collins (B), Collins (J), Collins (M), Costelloe, Daly, Donegan, Egan,
@@ -608,7 +616,8 @@ O’Donovan, O’Hanlon, O’Sullivan, Ruddle, Ryan (E), Ryan (M), Scanlan, Seca
 
 Sheahan (K), Sheehan (C), Slattery, Talukder, Teefy, Teskey.
 
-**(34)**---
+**(34)**
+---
 **Abstain**
 
 Councillors Kiely, McSweeney, Sheahan (M).
@@ -679,7 +688,8 @@ the Business Park, and this was seconded by Cllr Secas. Following these discussi
 
 directed that a vote be taken on the proposal from Cllr Hartigan that the amendment not be
 
-made and the result of the voting was as follows:---
+made and the result of the voting was as follows:
+---
 **In Favour**
 
 Councillors Benson, Costelloe, Hartigan, Kiely, Murphy, Novak, O’Donovan, O’Sullivan, Secas,
@@ -750,7 +760,8 @@ approved.
 
 **new objective in chapter 5 in relation to the Dooradoyle District Centre and Dooradoyle**
 
-**Urban Quarter**---
+**Urban Quarter**
+---
 The Amendment proposed by Councillor Leddin, seconded by Councillor Sheahan (J) was
 
 approved.
@@ -819,7 +830,8 @@ approved.
 
 The Amendment proposed by Councillor Novak, seconded by Councillor Hartigan was
 
-approved.---
+approved.
+---
 **Amendment No. 44: Amendment submitted by Cllr. Michael Sheahan - Change of zoning**
 
 **from Agriculture to New Residential zoned land (2.9 ha), (Tom O'Connor) Ballyclough,**
@@ -892,7 +904,8 @@ approved.
 
 The Amendment proposed by Councillor Ryan (M), seconded by Councillor Teskey was
 
-approved.---
+approved.
+---
 **Amendment No. 53:** **Amendment submitted by Cllr. Elena Secas** **–Need for additional**
 
 **Schools**
@@ -963,4 +976,5 @@ tragically following an accident during the recent storm Eunice.
 
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Mayor**---
+**Mayor**
+---

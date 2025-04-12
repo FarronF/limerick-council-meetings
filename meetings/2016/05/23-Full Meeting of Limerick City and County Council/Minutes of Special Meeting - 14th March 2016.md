@@ -64,7 +64,8 @@ amended, a copy of which had been circulated to Members. He also confirmed that 
 
 required documentation in relation to the co-options for three of the vacancies had been
 
-received and was in order.---
+received and was in order.
+---
 **2**
 
 (i)
@@ -141,7 +142,8 @@ passionate and driven Councillor who had loved both his community and his party.
 
 added that making her father proud had never been a difficult task to her or her siblings
 
-since her father had relished even their smallest achievements. She stated that she knew---
+since her father had relished even their smallest achievements. She stated that she knew
+---
 **3**
 
 that he would have been overjoyed to see her taking a seat on the Council that he had held
@@ -212,7 +214,8 @@ warm welcome to them and wished them well in their new roles and future politica
 
 careers. They also paid tribute to the outgoing Members and again expressed their sadness
 
-at the untimely loss of their colleague, Joe Crowley, RIP.---
+at the untimely loss of their colleague, Joe Crowley, RIP.
+---
 **4**
 
 The Chief Executive, on behalf of Management and Staff, congratulated the new
@@ -291,4 +294,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

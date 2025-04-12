@@ -44,7 +44,8 @@ plaque for James Bouchier.
 
 Agreement of wording of Question from January JPC Meeting to be submitted to next Full
 
-Meeting of Limerick City and County Council.---
+Meeting of Limerick City and County Council.
+---
 2
 
 5.Housing Directorate
@@ -101,7 +102,8 @@ on the L5128 Road serving Caherline NS. Parents park at the Church Car Park and 
 
 have to cross the road to the school morning and evening. A pedestrian crossing/traffic
 
-calming is needed for safe crossing to the school.---
+calming is needed for safe crossing to the school.
+---
 3
 
 QUESTIONS
@@ -140,4 +142,5 @@ be put in place to open the gully's and inlets on all the regional and local roa
 
 area. Great work has been done on the roads and on the various drainage schemes carried
 
-out but the ongoing maintenance is needed.---
+out but the ongoing maintenance is needed.
+---

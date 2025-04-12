@@ -86,7 +86,8 @@ Community Initiatives
 
 Special Projects – LA Infrastructure
 
-€150,000---
+€150,000
+---
 2
 
 Special Projects – LPT
@@ -187,7 +188,8 @@ And Resolved:
 
 setting out proposals to dispose of property at Rathmale, Mungret, Co. Limerick and the
 
-intention to bring a Section 183 Notice to Full Council in this regard, for approval.---
+intention to bring a Section 183 Notice to Full Council in this regard, for approval.
+---
 3
 
 The report, as circulated, was noted by Members.
@@ -260,7 +262,8 @@ Cork Road, also be removed.
 
 ***houses have been sold over the previous three years and why these houses were not upgraded***
 
-***for letting.***---
+***for letting.***
+---
 4
 
 **REPLY**: Over the past 18 months, the Derelict Sites Section has compulsorily acquired a number of
@@ -343,7 +346,8 @@ location of properties owned/managed and leased by AHBs.
 
 **Primary**
 
-**settlement(s)**---
+**settlement(s)**
+---
 5
 
 Abha Bhan Voluntary Housing Association
@@ -630,7 +634,8 @@ ICare
 
 City and County
 
-Limerick city---
+Limerick city
+---
 6
 
 Inis Housing Association
@@ -853,7 +858,8 @@ commencement date and every third year thereafter. These reviews are based on ch
 
 in the Harmonised Index of Consumer Prices (HICP). Data on average spend on monthly rent
 
-therefore has been collated for 2019, 2020 and 2021.---
+therefore has been collated for 2019, 2020 and 2021.
+---
 7
 
 **YEAR**
@@ -980,7 +986,8 @@ Basalt ICAV
 
 ***County Council take in charge the laneways at the back of Lynwood Park houses as there are a***
 
-***lot of elderly people living in the area that just cannot keep them maintained.***---
+***lot of elderly people living in the area that just cannot keep them maintained.***
+---
 8
 
 **REPLY**: In order to declare such a road as a public road the provisions of Section 11 of the Roads
@@ -1059,7 +1066,8 @@ which will be shared with GAA and other clubs across the county. “The Green Cl
 
 Programme” is a partnership between the GAA, LGFA and Camogie Association and local
 
-authorities across Ireland and is structured around five key areas; Waste, Water,---
+authorities across Ireland and is structured around five key areas; Waste, Water,
+---
 9
 
 Biodiversity, Energy and Travel and Transportation. St. Patrick’s GAA is one of several GAA
@@ -1140,7 +1148,8 @@ required to maintain the length of vegetation along the canal.
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick how many HAP inspections***
 
-***are expected to be carried out in the Metropolitan area once the Covid rules permit so.***---
+***are expected to be carried out in the Metropolitan area once the Covid rules permit so.***
+---
 10
 
 **REPLY**: Covid Restrictions have significantly impacted the ability of the Private Rented Inspections
@@ -1227,7 +1236,8 @@ this nature in collaboration with TII.
 
 **REPLY**: The purpose of the Blue-Green Infrastructure Strategy is to identify existing and future
 
-parks and green spaces; assess existing parks for their value and accessibility; identify gaps---
+parks and green spaces; assess existing parks for their value and accessibility; identify gaps
+---
 11
 
 in the provision of quality open space; and recommend opportunities for the upgrade of
@@ -1302,7 +1312,8 @@ bins will commence in December following a successful award of tender.
 
 22.
 
-**Notice of Motion submitted by Councillor C. Sheehan**---
+**Notice of Motion submitted by Councillor C. Sheehan**
+---
 12
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council writes***
@@ -1379,7 +1390,8 @@ Committee.
 
 ***on a pilot basis to be rolled out in other areas around the City if successful.***
 
-The motion was proposed by Councillor O’Donovan, seconded by Councillor Benson and agreed.---
+The motion was proposed by Councillor O’Donovan, seconded by Councillor Benson and agreed.
+---
 13
 
 **REPLY**: Limerick City and County Council Transportation and Mobility Department through Active
@@ -1478,7 +1490,8 @@ The motion was proposed by Councillor Secas, seconded by Councillor Hartigan and
 
 **Notice of Motion submitted by Councillor E. Secas (to be referred to the Community,**
 
-**Leisure and Culture Strategic Policy Committee)**---
+**Leisure and Culture Strategic Policy Committee)**
+---
 14
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
@@ -1535,4 +1548,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

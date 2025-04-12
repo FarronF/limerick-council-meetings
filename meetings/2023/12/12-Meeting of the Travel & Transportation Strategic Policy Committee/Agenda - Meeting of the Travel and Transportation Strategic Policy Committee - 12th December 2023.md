@@ -29,7 +29,8 @@ is set out in the appended agenda.
 **TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Draft AGENDA**
@@ -44,4 +45,5 @@ Policy Committee held on the 17th October 2023.
 
 **3.Presentation: Traffic Calming Policy - Mr. Hugh McGrath, S.E.**
 
-**4.Presentation: Control of Car Club/ Car Share Bye Laws -** **John O’Leary, A/S.E.E.**---
+**4.Presentation: Control of Car Club/ Car Share Bye Laws -** **John O’Leary, A/S.E.E.**
+---

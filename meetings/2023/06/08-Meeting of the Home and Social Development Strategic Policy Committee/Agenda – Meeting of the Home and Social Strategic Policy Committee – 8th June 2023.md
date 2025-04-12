@@ -26,4 +26,5 @@ For Noting - Report to SPC from Housing Disability Strategic Group
 
 6. AOB
 
-Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council---
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

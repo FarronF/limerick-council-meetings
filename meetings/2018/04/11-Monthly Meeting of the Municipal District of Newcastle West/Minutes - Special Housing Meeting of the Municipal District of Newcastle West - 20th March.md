@@ -72,7 +72,8 @@ In response, the A/Senior Engineer, stated that the funding was a consideration 
 
 to the replacement of storage heating. The Administrative Officer advised that it could cost
 
-between €7,000 to €12,000 to replace heating systems.---
+between €7,000 to €12,000 to replace heating systems.
+---
 It was acknowledged that the budget provided for housing maintenance was predominately
 
 a reactive budget and there was a need for a planned maintenance budget. With regard to
@@ -115,4 +116,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

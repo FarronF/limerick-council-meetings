@@ -6289,7 +6289,8 @@ in the context of the PPN representatives coming on board.
 
 **Proposed: Cllr. Francis Foley**
 
-**Seconded: Cllr. Lisa Marie Sheehy**---
+**Seconded: Cllr. Lisa Marie Sheehy**
+---
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -12569,7 +12570,8 @@ with the queries being responded to.
 
 D. McGuigan gave details of the Sports Capital Funding that had recently become available.
 
-Closing date for applications was 24th April 2015.---
+Closing date for applications was 24th April 2015.
+---
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -18795,4 +18797,5 @@ Arts disciplines. Training and clinics will be implemented around this grant str
 
 **Any Other Business**
 
- Next SPC 10th June 2015. Provisional venue - **Castlemahon Community Centre**---
+ Next SPC 10th June 2015. Provisional venue - **Castlemahon Community Centre**
+---

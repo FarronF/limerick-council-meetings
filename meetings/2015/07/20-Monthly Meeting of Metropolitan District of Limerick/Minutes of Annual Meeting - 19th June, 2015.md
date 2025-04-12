@@ -74,7 +74,8 @@ The outgoing Mayor gave the following address to the meeting:
 
 *Charlotte Grace O Brien and Sophie Mary Pierce for special recognition and felt so*
 
-*proud when Limerick Council and University of Limerick collaborated to honour the*---
+*proud when Limerick Council and University of Limerick collaborated to honour the*
+---
 2
 
 *three women in a wonderful event in the University of Limerick on International* *Women’s*
@@ -171,7 +172,8 @@ The outgoing Mayor gave the following address to the meeting:
 
 *represented my office, you and the good people of Limerick, not just with pride, but most*
 
-*importantly, with honour and with* *dignity”.*---
+*importantly, with honour and with* *dignity”.*
+---
 3
 
 1.
@@ -252,7 +254,8 @@ The Mayor made the following address to the meeting:
 
 *friends at last Summers local elections. I won't start mentioning names but you know*
 
-*who you are and I thank you.*---
+*who you are and I thank you.*
+---
 4
 
 *Our first new Metro Council of last year saw many challenges and I'd like to thank*
@@ -337,7 +340,8 @@ The Mayor invited nominations for the Office of Deputy Mayor of the Metropolitan
 
 of Limerick.
 
-Proposed by Councillor Collins;---
+Proposed by Councillor Collins;
+---
 5
 
 Seconded by Councillor Butler.
@@ -414,4 +418,5 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

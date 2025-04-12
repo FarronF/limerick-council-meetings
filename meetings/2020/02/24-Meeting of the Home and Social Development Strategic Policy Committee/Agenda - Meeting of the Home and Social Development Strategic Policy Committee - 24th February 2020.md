@@ -28,4 +28,5 @@ Policy Committee will be held in the **Council Chamber**, **Limerick City and Co
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

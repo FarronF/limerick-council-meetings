@@ -72,7 +72,8 @@ Circulated, report of the A/Senior Planner, Planning and Environmental Services 
 
 2017 seeking approval to the taking in charge of estate at Curragh Birin, Castletroy and the
 
-declaration of roads to be public roads.---
+declaration of roads to be public roads.
+---
 2
 
 Proposed by Councillor Secas;
@@ -147,7 +148,8 @@ considered;
 
 products were used;
 
- Rubbish should be removed from the River Shannon.---
+ Rubbish should be removed from the River Shannon.
+---
 3
 
 **(d)**
@@ -224,7 +226,8 @@ GMA Festivals and Events Grant Scheme.
 
 The Arts and Culture Officer stated that the allocation approved by Members under this Scheme,
 
-which offered funding to festival and event organisers operating in the Metropolitan District,---
+which offered funding to festival and event organisers operating in the Metropolitan District,
+---
 4
 
 was €100,000. The closing date for receipt of applications under this Scheme was 26th May,
@@ -295,7 +298,8 @@ As no further nominations were proposed, it was agreed that Councillors Hogan, �
 
 Crowley, Leddin and Loftus would sit on the Assessment Panel for the Limerick Metropolitan
 
-GMA Festivals and Events Grant Scheme.---
+GMA Festivals and Events Grant Scheme.
+---
 5
 
 **QUESTIONS**
@@ -394,7 +398,8 @@ Further information is available at: http://www.epa.ie/radiation/radon/
 
 **Question submitted by Councillor C. Prendiville**
 
-***I will ask at the next meeting, as part of the Healthy Ireland initiative, has consideration been***---
+***I will ask at the next meeting, as part of the Healthy Ireland initiative, has consideration been***
+---
 6
 
 ***given to requiring a Health Impact Assessment to be included in major planning applications***
@@ -491,7 +496,8 @@ Total Households
 
 ***Golf Club, in terms of membership fees, financial sustainability and long term plans for the***
 
-***Golf Club.***---
+***Golf Club.***
+---
 7
 
 Reply:
@@ -578,7 +584,8 @@ The Council has held a lease on Arthurs Quay Multi Storey Car Park for the past
 
 entered into a sub letting arrangement over the same period for the operation of
 
-the car park.---
+the car park.
+---
 8
 
 Negotiations are still ongoing regarding the future arrangements for the car park.
@@ -655,7 +662,8 @@ presentation also.
 
 The Motion was proposed by Councillor Keller and seconded by Councillor Lynch.
 
-Members, in supporting the Motion, requested that the Council address effective integration of---
+Members, in supporting the Motion, requested that the Council address effective integration of
+---
 9
 
 migrants and refugees into our communities and give out the message that racism and hate had
@@ -730,7 +738,8 @@ natural aspect and characteristic of the Baggot Estate.
 
 The Baggot Estate would also require higher annual maintenance and the
 
-presence of a park ranger with obvious cost implications.---
+presence of a park ranger with obvious cost implications.
+---
 10
 
 Resources are not available for these works or the staffing issues that will arise.
@@ -769,4 +778,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

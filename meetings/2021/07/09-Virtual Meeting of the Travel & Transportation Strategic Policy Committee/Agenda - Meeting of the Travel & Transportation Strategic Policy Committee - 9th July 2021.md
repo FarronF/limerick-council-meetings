@@ -29,7 +29,8 @@ The business to be transacted is set out in the appended agenda.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -78,5 +79,7 @@ the Council still aim to meet the Quality of Service levels set out in the study
 
 and no less than B for primary routes, B and no less than C for secondary routes
 
-etc.)?”---
-3---
+etc.)?”
+---
+3
+---

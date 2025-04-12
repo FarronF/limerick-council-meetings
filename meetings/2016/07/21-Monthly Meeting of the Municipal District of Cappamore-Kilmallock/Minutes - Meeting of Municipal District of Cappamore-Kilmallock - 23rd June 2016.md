@@ -66,7 +66,8 @@ they would be looked at.
 
  The Gardai had powers under drug laws and actively address drugs issues. Drug driving
 
-detection was processed the same as drink driving.---
+detection was processed the same as drink driving.
+---
 2
 
  The replacement of Garda personnel was a matter for the Chief Superintendent.
@@ -137,7 +138,8 @@ following Motion would be submitted to the July Meeting of the Full Council:
 
 The Senior Executive Engineer advised that additional funding of €30,000 was available under
 
-the Development Fund Allocation (Ancillary Projects) 2016 for the District.---
+the Development Fund Allocation (Ancillary Projects) 2016 for the District.
+---
 3
 
 On the proposal of Councillor Teefy, seconded by Councillor Sheehy, it was agreed that the
@@ -210,7 +212,8 @@ Development Plan 2010, the Limerick County Development Plan 2010 and the relevan
 
 Area Plans and that there is consistency between the economic and the community elements
 
-of the LECP, in accordance with Section 66 of the Local Government Act, 2001, as amended”.---
+of the LECP, in accordance with Section 66 of the Local Government Act, 2001, as amended”.
+---
 4
 
 **6.**
@@ -319,7 +322,8 @@ It was agreed that a further workshop would be held and presentations would be g
 
 Friendly Initiative and Tourism / Marketing and that this item would be on the agenda for the
 
-next Meeting.---
+next Meeting.
+---
 5
 
 **QUESTIONS**
@@ -388,4 +392,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

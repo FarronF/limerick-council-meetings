@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-10-20 15:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-travel-and-transportation-strategic-policy-committee-8)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-travel-and-transportation-strategic-policy-committee-8" target="_blank">Link to meeting</a>**

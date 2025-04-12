@@ -72,7 +72,8 @@ untimely passing.
 
 Deep sympathy was also expressed to the family of T. J. Madigan, Ganger, Newcastle West
 
-Roads, on his sudden passing this week.---
+Roads, on his sudden passing this week.
+---
 2
 
 The Senior Executive Engineer, Newcastle West Municipal District also extended sincere
@@ -143,7 +144,8 @@ Proposed by Councillor Galvin, seconded by Councillor Foley and resolved:
 
 “That Gleann Daire, Ardagh, be taken in charge in accordance with Section 180 of the Planning
 
-and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.---
+and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.
+---
 3
 
 The Members referred to the condition of the Gleann Daire estate in Ardagh which has been
@@ -218,7 +220,8 @@ Ms. Nash gave a summary on the work ongoing at present in Newcastle West with re
 
 promoting Fairtrade and to the importance of everyone in getting involved and working
 
-together to achieve Fairtrade Status for Newcastle West.---
+together to achieve Fairtrade Status for Newcastle West.
+---
 4
 
 Sr. D O’Connor referred to the importance of schools being made aware of the importance of
@@ -287,7 +290,8 @@ Limerick City and County Council expect to have comments from TII in January 202
 
 8.
 
-Question submitted by Councillor L. Galvin---
+Question submitted by Councillor L. Galvin
+---
 5
 
 ***I will ask at the next Meeting that the growth be cleaned off the following bridges:***
@@ -366,7 +370,8 @@ Question submitted by Councillor T. Ruddle
 
 ***e)**Ballymorisheen near the Apple Green filling station.***
 
-REPLY:---
+REPLY:
+---
 6
 
 **(a)The entrance road to Cluain Arra** – This was attended to on 20.12.2022, however the
@@ -437,7 +442,8 @@ Council will seek to commence a taking in charge process.
 
 In proposing the Motion, Councillor Galvin stated that the taking in charge of Ray’s Estate,
 
-Mountcollins is a priority and referred to the existing services which are in place at this estate.---
+Mountcollins is a priority and referred to the existing services which are in place at this estate.
+---
 7
 
 14. Notice of Motion submitted by Councillor L. Galvin
@@ -498,7 +504,8 @@ February Meeting of the Municipal District of Newcastle West.
 
 ***I will move at the next Meeting that*** ***all Council delivered tenancies have a front and***
 
-***back entrance.***---
+***back entrance.***
+---
 8
 
 The Motion was seconded by Councillor Galvin.
@@ -563,7 +570,8 @@ limit along the Bruff Line at Clooneyskehane and in replying the Senior Executiv
 
 stated that an application has been made to the National Transport Authority for the
 
-provision of funding to include a full design and appointment of a consultant.---
+provision of funding to include a full design and appointment of a consultant.
+---
 9
 
 An update was sought on the provision of a dog park in Newcastle West and the Meetings
@@ -604,4 +612,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

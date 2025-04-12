@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-05-05 12:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/virtual-special-meeting-of-the-metropolitan-district-of-limerick)**
+**<a href="https://www.limerick.ie/council/whats-on/virtual-special-meeting-of-the-metropolitan-district-of-limerick" target="_blank">Link to meeting</a>**

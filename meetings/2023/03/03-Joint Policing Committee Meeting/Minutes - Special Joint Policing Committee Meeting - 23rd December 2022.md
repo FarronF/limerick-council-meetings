@@ -88,7 +88,8 @@ come from this meeting aimed at tackling the issues arising.
 
 The Chief Superintendent thanked the JPC for their welcoming comments. He confirmed that there was a
 
-robust Policing Plan in place, a lot of which has been successful in Rathkeale. However, he agreed that what---
+robust Policing Plan in place, a lot of which has been successful in Rathkeale. However, he agreed that what
+---
 had happened on this occasion was very serious. He confirmed that a large Garda presence, including
 
 ordinary Gardai, the Roads Policing Unit, the Public Order Unit and the Armed Response Unit were now on
@@ -181,7 +182,8 @@ and has builders employed. This individual should be investigated to see where t
 
 to purchase such large quantities of property. He referred to two properties which the Council sought
 
-Councillors approval to sell and he asked that these two properties be taken off the market, refurbished---
+Councillors approval to sell and he asked that these two properties be taken off the market, refurbished
+---
 and given to worthy tenants. He welcomed Minister Harris’s visit to Rathkeale and added that law and
 
 order is becoming a serious problem, not just in Rathkeale but nationally. Gardaí need legislation to be
@@ -268,7 +270,8 @@ Councillor Kevin Sheahan pointed out that as the longest serving Councillor on t
 
 listened to this issue in Rathkeale being discussed every year. He pointed out that there has been no
 
-request for meetings from local community representatives in Rathkeale this year. He stated that it is---
+request for meetings from local community representatives in Rathkeale this year. He stated that it is
+---
 believed that the trouble is caused by three or four families in the town and not from the influx of people
 
 coming into the town for Christmas.
@@ -353,7 +356,8 @@ Committee Meeting.
 
 Councillor Keary, supported by the Chairperson, stated that there should be an element of joined up
 
-thinking regarding inspection of caravans parked in private sites. He asked the Chief Superintendent to---
+thinking regarding inspection of caravans parked in private sites. He asked the Chief Superintendent to
+---
 contact the owners of the shop on N21 and ask them to consider agreeing close on Christmas day if
 
 possible, having regard to possible road safety concerns.
@@ -438,7 +442,8 @@ there are regular litter and dog warden inspections carried out in Rathkeale and
 
 however, such prosecutions have to be applied equally to all residents. She added that addresses of
 
-offenders are required to issue litter fines.---
+offenders are required to issue litter fines.
+---
 Councillor S. Kiely stated that there are no traveler representatives on any committee and a representative
 
 from Pavee Point need to be brought in to engage with the Council and other agencies and that they be
@@ -515,9 +520,11 @@ The Chairperson thanked Members for attending this meeting and for their frank a
 
 on this difficult matter and he wished all a very happy Christmas and a peaceful new year.
 
-This concluded the business of the Meeting.---
+This concluded the business of the Meeting.
+---
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Councillor Adam Teskey, Chairperson**
 
-**Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

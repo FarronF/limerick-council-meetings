@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-07-03 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-meeting-limerick-city-and-county-council)**
+**<a href="https://www.limerick.ie/council/whats-on/adjourned-meeting-limerick-city-and-county-council" target="_blank">Link to meeting</a>**

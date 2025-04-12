@@ -64,7 +64,8 @@ payment support of 12.5% for properties less than €500 and reduce the limit to
 
 Meetings Administrator confirmed that the amendment was already defeated as a result of
 
-the earlier vote on his proposed Amendments on the adoption of the Budget.”---
+the earlier vote on his proposed Amendments on the adoption of the Budget.”
+---
 2
 
 Proposed by Councillor Leddin;
@@ -131,7 +132,8 @@ Cloughadreen, Old Pallas, Co. Limerick, to Elizabeth Malone and Thomas Horan LPR
 
 Honan (deceased), for the sum of €125.42, particulars of which were contained in Statutory
 
-Notice dated 1st October, 2018.”---
+Notice dated 1st October, 2018.”
+---
 3
 
 (b)
@@ -200,7 +202,8 @@ amended, the approval of the Council be and is hereby given to the disposal of l
 
 Ballygrennan Road, Ballynanty, Limerick, to Michael McInerney, for the sum of €125.42,
 
-particulars of which were contained in Statutory Notice dated 2nd October, 2018.”---
+particulars of which were contained in Statutory Notice dated 2nd October, 2018.”
+---
 4
 
 (e)
@@ -281,7 +284,8 @@ of land at Wickham Street, Limerick.
 
 Proposed by Councillor Leddin (J);
 
-Seconded by Councillor Crowley (V);---
+Seconded by Councillor Crowley (V);
+---
 5
 
 And Resolved:
@@ -354,7 +358,8 @@ proposal was seconded by Cllr J Gilligan and agreed.
 
 The Mayor congratulated Ms Cahillane on her nomination to the Council and
 
-then invited Ms Cahillane to address the Chamber.---
+then invited Ms Cahillane to address the Chamber.
+---
 6
 
 Ms Cahillane thanked the Members and Cllr Keller for her nomination to the
@@ -425,7 +430,8 @@ And Resolved:
 
 “That, the approval of the Council be and is hereby given to the nomination
 
-of Cllr Mary Cahillane, to the Board of Governors of St. John’s Hospital to fill---
+of Cllr Mary Cahillane, to the Board of Governors of St. John’s Hospital to fill
+---
 7
 
 the vacancy consequent on the resignation of Cian Prendiville as a Member
@@ -498,7 +504,8 @@ Enterprise and Planning SPC. In that presentation Failte Ireland confirmed
 
 that the focus was primarily on the Wild Atlantic Way and the Shannon
 
-Estuary waterfront.---
+Estuary waterfront.
+---
 8
 
 **(d)**
@@ -565,7 +572,8 @@ had met with the Local Government Auditor and reviewed the Statutory
 
 Audit Report for the year ended 31st December, 2017.
 
-The correspondence, as circulated, was noted by the Council.---
+The correspondence, as circulated, was noted by the Council.
+---
 9
 
 **(f)**
@@ -642,7 +650,8 @@ perspective. The Members acknowledged the enhanced role of local
 
 authorities in economic development as set out in the Local Government
 
-Reform Act 2014.---
+Reform Act 2014.
+---
 10
 
 Proposed by Councillor Sheahan (J);
@@ -725,7 +734,8 @@ Aaron Tier
 
 Bronze Medal in IFCPF European Championships – Irish
 
-Cerebral Palsy side---
+Cerebral Palsy side
+---
 11
 
 Munster International
@@ -840,7 +850,8 @@ Proposed by Councillor Daly;
 
 Seconded by Councillor O Hanlon;
 
-And Resolved:---
+And Resolved:
+---
 12
 
 “That a Civic Reception, in accordance with Section 74 of the Local Government Act,
@@ -909,7 +920,8 @@ Circulated, Report of the Chairperson of the Economic Development,
 
 Enterprise and Planning Strategic Policy Committee dated 15th November,
 
-2018, in relation to Meeting of the Committee held on 8th October, 2018.---
+2018, in relation to Meeting of the Committee held on 8th October, 2018.
+---
 13
 
 Councillor Crowley, Chairperson of the Economic Development, Enterprise
@@ -974,7 +986,8 @@ outlined the following recommendation which was agreed at the SPC
 
 Meeting:
 
-**Recommendation**---
+**Recommendation**
+---
 14
 
 “That Limerick City and County Council commence the preparation of a
@@ -1039,7 +1052,8 @@ allocations to various Groups and Organisations under the 2018 Community
 
 Initiative Scheme, in accordance with Section 66 of the Local Government Act, 2001
 
-(as amended), as set out below.---
+(as amended), as set out below.
+---
 15
 
 **Adare** **–** **Rathkeale Municipal District**
@@ -1254,7 +1268,8 @@ Farranshone Resident’s Association
 
 Landsdowne Active Retirement Group
 
-€ 450---
+€ 450
+---
 16
 
 9
@@ -1411,7 +1426,8 @@ list.
 
 Circulated, report from Director of Service, Physical Development, dated 14th
 
-November, 2018 enclosing Circular L3/18 from the Department of Housing, Planning---
+November, 2018 enclosing Circular L3/18 from the Department of Housing, Planning
+---
 17
 
 and Local Government notifying Members of the Rural Water Programme Grant
@@ -1474,7 +1490,8 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 
 Meeting / Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 18
 
 **QUESTIONS**
@@ -1557,7 +1574,8 @@ Kennedy Park, Carew Park, Ballynanty, Ballinacurra Weston, Prospect, Kileely and
 
 Thomandgate had a maximum rent of €90. All other areas in the city outside of
 
-these were not subject to a maximum rent cap.---
+these were not subject to a maximum rent cap.
+---
 19
 
 ii.
@@ -1654,7 +1672,8 @@ acquisition, will be required.
 
 **Question submitted by Councillor E. Secas**
 
-(Image omitted)---
+(Image omitted)
+---
 20
 
 I will ask at the next Meeting if, and when, Limerick City and County Council has
@@ -1731,7 +1750,8 @@ I will move at the next Meeting that an equitable structure of rental payments b
 
 introduced that will apply to all tenants of the Joint Authority from 1st January, 2019,
 
-onwards.---
+onwards.
+---
 21
 
 **14.**
@@ -1804,4 +1824,5 @@ single-use plastics within Council Departments.
 
 **Correspondence**
 
-The Correspondence circulated with the Agenda was taken as read.---
+The Correspondence circulated with the Agenda was taken as read.
+---

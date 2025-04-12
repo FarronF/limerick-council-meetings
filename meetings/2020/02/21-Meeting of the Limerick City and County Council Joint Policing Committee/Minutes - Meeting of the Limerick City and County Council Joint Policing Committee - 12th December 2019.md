@@ -84,7 +84,8 @@ designated Chair for the last five years during which time she oversaw the perfo
 
 Siochana. She stressed the importance of feedback from members of the public and said that An
 
-Garda Siochana cannot do it’s job without community support. She also stated that transparency is---
+Garda Siochana cannot do it’s job without community support. She also stated that transparency is
+---
 very important to ensure the public has confidence in it’s policing system and if there is public
 
 confidence then there is community support. She welcomed the fact that the PPN members of the
@@ -167,7 +168,8 @@ The Chief Superintendent stated that policing of Limerick is challenging, howeve
 
 serious incidents is lower than in previous years. Some road accidents can be linked to the use of
 
-drugs so road policing is particularly important. A Christmas roads campaign would be in progress.---
+drugs so road policing is particularly important. A Christmas roads campaign would be in progress.
+---
 He added that the number of drug testing is increasing all the time, most of which comes from
 
 mobile patrols. More people are trained and becoming more proficient in drug detection and
@@ -268,7 +270,8 @@ ground, because people can see the work that is being done by An Garda Síochán
 
 Gardaí are committed to policing critical neighbourhoods which require a strong policing presence
 
-so that people can live without the fear of crime and the fear of these gangsters and their behaviour.---
+so that people can live without the fear of crime and the fear of these gangsters and their behaviour.
+---
 Commissioner Harris replied to Members queries as follows :
 
 •
@@ -357,7 +360,8 @@ function and stressed the importance of education.
 
 He assured Members that additional Gardaí would be deployed to Limerick for the Christmas
 
-period and traffic issues at the Crescent Shopping Centre would be addressed.---
+period and traffic issues at the Crescent Shopping Centre would be addressed.
+---
 •
 
 There is ongoing commitment to policing rural areas and the importance of local Gardaí
@@ -430,7 +434,8 @@ allocated for a new garda station in Castletroy.
 
 on the streets of Limerick City over the Christmas shopping period to ensure that shoppers can go
 
-about their business without any hassle or fear”.---
+about their business without any hassle or fear”.
+---
 As previously mentioned Operation Open City was up and running throughout the city and in
 
 Newcastle West for the Christmas period. In addition to Operation Open City, Operation Meirle and
@@ -521,7 +526,8 @@ Abbeyfeale Garda Station starting the week of 24th February, 2020.
 
 “I will ask at the next Meeting what plans are in place to put a proper policing operation in Limerick
 
-City centre during the Christmas/New Year period”.---
+City centre during the Christmas/New Year period”.
+---
 Members asked that more Gardaí be allocated to the Market Quarter to address anti social
 
 behaviour in the area.
@@ -586,11 +592,13 @@ Friday, 15th May, 2020
 
 Friday, 4th September, 2020
 
-Friday, 6th November, 2020---
+Friday, 6th November, 2020
+---
 This concluded the Meeting.
 
 Signed : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cllr. Adam Teskey, Chairman**
 
-Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

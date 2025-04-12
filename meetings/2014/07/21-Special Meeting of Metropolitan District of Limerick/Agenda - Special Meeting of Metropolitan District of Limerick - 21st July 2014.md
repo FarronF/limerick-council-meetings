@@ -52,7 +52,8 @@ forward draft design plans for the development of the Mungret site so that
 
 suitable zoning can be approved by Councillors to facilitate the provision of a
 
-Neighbourhood Park and new Primary/Secondary schools.---
+Neighbourhood Park and new Primary/Secondary schools.
+---
 4.
 
 Notice of Motion submitted by Councillor J. Leddin
@@ -95,4 +96,5 @@ the local authority area in light of the well documented evidence of suffering
 
 endured by the animals involved and the serious animal welfare issued
 
-raised.---
+raised.
+---

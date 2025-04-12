@@ -64,7 +64,8 @@ Regarding Antisocial behaviour it was noted that 2 new Gardai would be starting 
 
 Kilmallock Barracks in Unit D. It was highlighted that the public should contact 999 in case of
 
-emergency rather than the local Garda Station as calls would be guaranteed to be answered.---
+emergency rather than the local Garda Station as calls would be guaranteed to be answered.
+---
 2
 
 This is not due to the Garda Station not being manned, but that the Gardai may be attending to
@@ -189,7 +190,8 @@ fraud bureau
 
 Acting Superintendent Brennan noted that the County Drug unit was now staffed with a
 
-Sergeant which should see an increase in detections.---
+Sergeant which should see an increase in detections.
+---
 3
 
 **Patrols in the area:**
@@ -316,7 +318,8 @@ these cameras are effective and showing results.
 
 An awareness campaign regarding the offence of parking on the footpath was put forward as a
 
-suggestion for Limerick City and County Council.---
+suggestion for Limerick City and County Council.
+---
 4
 
 **Any Other Business**
@@ -355,4 +358,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

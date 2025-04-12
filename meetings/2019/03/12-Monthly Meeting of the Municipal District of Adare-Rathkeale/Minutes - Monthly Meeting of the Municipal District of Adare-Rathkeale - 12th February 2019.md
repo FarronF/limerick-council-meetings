@@ -62,7 +62,8 @@ initiative and agreed to support the group in any way possible going forward. Th
 
 Cathaoirleach thanked Mr. Cribbin and Professor O’Donnell for their presentation and the
 
-Deputation left the Meeting at that point.---
+Deputation left the Meeting at that point.
+---
 2
 
 **1.**
@@ -133,7 +134,8 @@ than one litter pick per year to combat the casual littering and also felt there
 
 litter warden present in the town in the evening time to prevent litter from shops and
 
-takeaways being dumped on the street in particular during the festive season.---
+takeaways being dumped on the street in particular during the festive season.
+---
 3
 
 With regard to the CCTV Members felt the CCTV in the District is not fit for purpose as live
@@ -200,7 +202,8 @@ village. This was seconded by Councillor Sheahan. The Senior Executive Engineer,
 
 Operations and Maintenance Services agreed to take Members queries and observations
 
-for National Roads back to Transport Infrastructure Ireland.---
+for National Roads back to Transport Infrastructure Ireland.
+---
 4
 
 **6.**
@@ -263,7 +266,8 @@ works to be carried out and also included compensation to the landowner. Members
 
 expressed their disappointment at the long delay as well as the cost involved in
 
-completing this scheme.---
+completing this scheme.
+---
 5
 
 **8.**
@@ -326,7 +330,8 @@ Circulated, report of the A/Senior Executive Engineer, Service Operations West D
 
 dated 6th February, 2019 giving an update in relation to the Taking-in-charge of An Curran,
 
-Pallaskenry. The report was noted by Members.---
+Pallaskenry. The report was noted by Members.
+---
 6
 
 **14.**
@@ -391,7 +396,8 @@ to allocate the following:
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor Keary, it was agreed
 
-to allocate €6,000 to Adare Community First Responders from 2019 GMA allocation.---
+to allocate €6,000 to Adare Community First Responders from 2019 GMA allocation.
+---
 7
 
 **QUESTIONS**
@@ -454,7 +460,8 @@ A request to receive a deputation from Coolanoran Residence Committee was also
 
 received. It was agreed at the Meeting that the deputation would attend the April
 
-Monthly Meeting.---
+Monthly Meeting.
+---
 8
 
 **18.**
@@ -491,4 +498,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

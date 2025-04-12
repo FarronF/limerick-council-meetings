@@ -56,7 +56,8 @@ A correction was to be made to the minutes of the December Meeting under Any Oth
 
 Business, namely including congratulations to both Galbally and Ardpatrick as receiving
 
-Bronze Medals in the tidy Towns awards.---
+Bronze Medals in the tidy Towns awards.
+---
 It was noted that under the Notice of Motion regarding safety measures at Portauns,
 
 another road traffic accident had taken place since the previous Municipal District meeting.
@@ -107,7 +108,8 @@ the GMA Roads programme and that this would be undertaken as part of a 2 year GM
 
 programme for 2022-2023.
 
-An update was provided on the 2020-2021 GMA Roads programme.---
+An update was provided on the 2020-2021 GMA Roads programme.
+---
 NOTICES OF MOTION
 
 1.Notice of Motion submitted by Councillor Egan
@@ -176,7 +178,8 @@ in these areas.
 
 Limerick City and County Council would be prepared develop a section of the graveyard, subject to
 
-approval from the National Monuments Service of the Department of Housing, Local Government &---
+approval from the National Monuments Service of the Department of Housing, Local Government &
+---
 Heritage (HGLH) for cremated remains only, the sale of which would be a maximum of two plots per
 
 family and at time of need only.
@@ -239,7 +242,8 @@ following the completion of the roadworks.”
 
 It is proposed to include a speed limit for consideration by stakeholders and the Elected
 
-Members as part of the next Speed Limit Review for Limerick City and County.---
+Members as part of the next Speed Limit Review for Limerick City and County.
+---
 5.Question submitted by Councillor Donegan
 
 **“**I will ask at the next meeting of the Cappamore/Kilmallock Municipal District if Limerick
@@ -296,7 +300,8 @@ Ashling Murphy, who died tragically on 12th January in Co Offaly.
 
 The Elected Members thanked the staff of the Kilmallock Area office for posting the
 
-documentation required for the Online Municipal District Meeting.---
+documentation required for the Online Municipal District Meeting.
+---
 Next Meeting
 
 The date for the next meeting of the Cappamore Kilmallock District was agreed by the
@@ -307,4 +312,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-10-21 12:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2016-members-municipal-district-newcastle)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2016-members-municipal-district-newcastle" target="_blank">Link to meeting</a>**

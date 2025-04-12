@@ -78,7 +78,8 @@ She also informed the Members that a total of €1,652,500 had been allocated to
 
 Municipal Allocation for 2025, an increase of €189,500 on the 2024 GMA amount of
 
-€1,463,000. She stated that the total amount assigned to the Municipal District of Newcastle---
+€1,463,000. She stated that the total amount assigned to the Municipal District of Newcastle
+---
 2
 
 West is €280,800 as follows which represents an increase of €10,800 one 2024 allocation of
@@ -165,7 +166,8 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
-such interests were declared.---
+such interests were declared.
+---
 3
 
 4.
@@ -228,7 +230,8 @@ the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads 
 
 1993”.
 
-The Members welcomed the Taking in Charge of the estate.---
+The Members welcomed the Taking in Charge of the estate.
+---
 4
 
 (c)To consider the Taking in Charge of Estate Dunquin, Newcastle
@@ -291,7 +294,8 @@ Proposed by Councillor Sheahan, seconded by Councillor Ruddle and resolved:
 
 the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads Act
 
-1993”.---
+1993”.
+---
 5
 
 The Members welcomed the Taking in Charge of the estate.
@@ -354,7 +358,8 @@ Meeting.
 
 Following a brief discussion, there was no allocation of GMA funding at the November
 
-Meeting of the District.---
+Meeting of the District.
+---
 6
 
 QUESTIONS
@@ -431,7 +436,8 @@ Question submitted by Councillor L. Galvin
 
 ***Garage*** ***towards Dalton’s Cross*** ***to include costings and start/completion dates where***
 
-***possible.***---
+***possible.***
+---
 7
 
 REPLY:
@@ -504,7 +510,8 @@ We will not have detailed costings until the design has been completed and the
 
 required business cases are prepared in accordance with Public Spending Code
 
-requirements.---
+requirements.
+---
 8
 
 The design update target is subject to the continued support of public funding for the
@@ -577,7 +584,8 @@ REPLY:
 
 All potential NTA schemes will have to vetted and approved by the NTA, this
 
-proposal is unlikely to fall under the criteria for their approval.---
+proposal is unlikely to fall under the criteria for their approval.
+---
 9
 
 In proposing the Motion, Councillor Ruddle requested that the footpath from Churchtown to
@@ -650,7 +658,8 @@ It was agreed to hold the December Meeting of the District on Friday, 6th Decemb
 
 2 p.m., at Áras William Smith OBrien.
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 10
 
 Signed:
@@ -661,4 +670,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

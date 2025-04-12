@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-10-20 17:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2017-municipal-district-cappamore-kilmallock)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2017-municipal-district-cappamore-kilmallock" target="_blank">Link to meeting</a>**

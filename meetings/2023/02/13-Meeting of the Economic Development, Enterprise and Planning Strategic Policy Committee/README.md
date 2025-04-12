@@ -4,4 +4,4 @@
 
 **Date and Time:** 2023-02-13 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-economic-development-enterprise-and-planning-strategic-policy)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-of-the-economic-development-enterprise-and-planning-strategic-policy" target="_blank">Link to meeting</a>**

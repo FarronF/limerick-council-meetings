@@ -62,7 +62,8 @@ Cappamore-Kilmallock held on 17th November, 2022.
 
 **And Resolved:**
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2. Matters Arising:
 
 A question was raised as to whether the correspondence to the NTA regarding Bus services
@@ -129,7 +130,8 @@ construction at the end Q2 2023.
 
 14, 6 will be tendered and 6 will be turned around inhouse through the housing
 
-maintenance section.---
+maintenance section.
+---
  The Senior Engineer also outlined a plan to set up a unit specifically for turning
 
 around empty houses, and has committed to circulating the details above in an
@@ -200,7 +202,8 @@ Housing SPC on 14th December.
 
 The Senior Engineer agreed to return to the February meeting of the Municipal District with
 
-an update on the 14 voids.---
+an update on the 14 voids.
+---
 6.Notice of Motion submitted by Councillor Carey
 
 I will move at the next meeting of the Cappamore-Kilmallock Municipal District that the
@@ -253,7 +256,8 @@ of the EV charging points.
 
 Subject to funding availability, the rollout of further EV charging points in the County will
 
-follow in line with the strategy's rollout policy, with locations to be agreed at that stage.---
+follow in line with the strategy's rollout policy, with locations to be agreed at that stage.
+---
 8.Question submitted by Councillor Teefy
 
 “I will ask at the next meeting of the Cappamore-Kilmallock Municipal District, further to
@@ -308,7 +312,8 @@ below.
 
 c) The Minister approved these requests and made regulations under Statutory Instrument
 
-No’s 362/1991, 59/2004, 813/2005, and 154/2015.---
+No’s 362/1991, 59/2004, 813/2005, and 154/2015.
+---
 10.
 
 Question submitted by Councillor Carey
@@ -385,7 +390,8 @@ vacant of which 11 have been inspected and are in various stages of procurement,
 
 and refurbishment. The remaining 3 are due for inspection.
 
-**The Questions were taken as read**---
+**The Questions were taken as read**
+---
 12.
 
 Any other Business
@@ -432,7 +438,8 @@ It was noted that the Standing Orders require that each Deputation correspond in
 
 the Meetings Administrator prior to being brought to the Elected Members.
 
-The above were approved subject to written correspondence being received.---
+The above were approved subject to written correspondence being received.
+---
 **Votes of Sympathy**
 
 The Elected Members wished to express their sympathy to the following :
@@ -459,4 +466,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

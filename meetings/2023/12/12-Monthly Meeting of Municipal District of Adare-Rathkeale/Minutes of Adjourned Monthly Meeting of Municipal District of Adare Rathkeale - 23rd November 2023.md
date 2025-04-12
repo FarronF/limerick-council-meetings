@@ -68,7 +68,8 @@ residents of Adare affected by the Draft Adare Local Area Plan.
 
 To consider the Draft Adare Local Area Plan 2024-2030 and the Chief Executives Report
 
-dated 27th October 2023 on the submissions received during the public consultation on---
+dated 27th October 2023 on the submissions received during the public consultation on
+---
 2
 
 the Draft Adare Local Area Plan 2024-2030 and decide whether or not to make or amend
@@ -149,7 +150,8 @@ Teskey proposed to make the Draft Adare Local Area Plan 2024 – 2030, subject t
 
 Chief Executive recommendations report dated the 27th October, subject to the
 
-following amendments:---
+following amendments:
+---
 3
 
 1. In relation to submission 96. The zoning should be retained as open space and
@@ -232,7 +234,8 @@ Open Space and Recreation.
 
 would lead to compact growth and to ensure no overall loss of open space and
 
-recreation. This was seconded by Councillor Sheahan and agreed.---
+recreation. This was seconded by Councillor Sheahan and agreed.
+---
 4
 
 **1.**
@@ -307,7 +310,8 @@ would follow up with the Senior Executive Engineer over the CFRAM project.
 
 following recent water network works. The Executive Engineer, Roads, Traffic
 
-and Cleansing advised these works were carried out by Uisce Éireann and a---
+and Cleansing advised these works were carried out by Uisce Éireann and a
+---
 5
 
 condition of their road opening licence is to carry out road reinstatement which
@@ -382,7 +386,8 @@ Estate allows a bus to turn and also allows for the bus stop to be relocated
 
 on the main street of Pallaskenry. The turning area was agreed with the
 
-community council in advance of the works.---
+community council in advance of the works.
+---
 6
 
 **NOTICES OF MOTION**
@@ -459,7 +464,8 @@ February 2024 with a date to be clarified nearer the time.
 
 At this point Councillor Sheahan re-joined the Meeting. Councillor Teskey then proposed
 
-a Civic Reception be held to honour Jerry and Mary Morrissey, proprietors of the West---
+a Civic Reception be held to honour Jerry and Mary Morrissey, proprietors of the West
+---
 7
 
 Limerick Observer, in recognition of their contribution to local media in West Limerick for
@@ -534,7 +540,8 @@ authorities. This was seconded by Councillor Teskey and agreed.
 
  Councillor O’Donoghue referred to the recent house fire in Glenma Estate,
 
-Croom. He requested a report for the December Meeting to include (a) what are---
+Croom. He requested a report for the December Meeting to include (a) what are
+---
 8
 
 the costs associated with housing families in emergency accommodation
@@ -607,4 +614,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

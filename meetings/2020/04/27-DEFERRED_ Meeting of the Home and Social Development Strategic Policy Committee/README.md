@@ -4,4 +4,4 @@
 
 **Date and Time:** 2020-04-27 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/deferred-meeting-home-and-social-development-strategic-policy-committee)**
+**<a href="https://www.limerick.ie/council/whats-on/deferred-meeting-home-and-social-development-strategic-policy-committee" target="_blank">Link to meeting</a>**

@@ -72,7 +72,8 @@ County Council.
 
 **Adoption of Minutes of Community, Leisure & Emergency Services Strategic**
 
-**Policy Committee held on 15th** **October, 2018**---
+**Policy Committee held on 15th** **October, 2018**
+---
 The Committee Members unanimously agreed on the minutes of meeting held on 15th
 
 October, 2018. The minutes were proposed by Cllr. G. Mitchell & seconded by Cllr. M.
@@ -151,7 +152,8 @@ the programme for the first 12 weeks.
 
 The members of the SPC were very complimentary and supportive of the
 
-project.---
+project.
+---
 **Item 5:**
 
 **Presentation on PLACE** **–** **EE European Research Project**
@@ -240,4 +242,5 @@ take place on Monday, 15th April, 2019 at 2.30 p.m. in Council Chamber,
 
 Dooradoyle
 
-Councillor Hurley closed the meeting by wishing everyone a Happy Christmas.---
+Councillor Hurley closed the meeting by wishing everyone a Happy Christmas.
+---

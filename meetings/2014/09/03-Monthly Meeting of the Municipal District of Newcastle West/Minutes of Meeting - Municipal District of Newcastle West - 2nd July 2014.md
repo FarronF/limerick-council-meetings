@@ -50,7 +50,8 @@ It was agreed that Meetings of the Municipal District of Newcastle West would be
 
 held on the first Wednesday of every month at 10.00 a.m. It was noted that the next
 
-Meeting would take place on Wednesday, 3rd September, 2014 at 10.00 a.m.---
+Meeting would take place on Wednesday, 3rd September, 2014 at 10.00 a.m.
+---
 2
 
 3.
@@ -119,7 +120,8 @@ agreed to recommend the scheme for approval to the full Council.
 
 Councillor Collins stated that he was not in agreement with the scheme, as
 
-presented, and did not support the proposal.---
+presented, and did not support the proposal.
+---
 3
 
 Questions submitted by Councillor J. Scanlan:
@@ -190,7 +192,8 @@ It was noted that this bridge was the responsibility of both Limerick City and C
 
 Council and Kerry County Council. It was agreed that the matter would be raised
 
-with Castleisland Area Office.---
+with Castleisland Area Office.
+---
 4
 
 9.
@@ -235,4 +238,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

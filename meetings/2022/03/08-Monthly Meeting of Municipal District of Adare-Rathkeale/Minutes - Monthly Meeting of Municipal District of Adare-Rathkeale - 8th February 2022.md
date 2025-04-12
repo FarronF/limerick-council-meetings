@@ -72,7 +72,8 @@ that there has been an excellent working relationship between the principal
 
 response agencies throughout the pandemic as part of the ‘whole of
 
-government approach’ at the local and regional level.---
+government approach’ at the local and regional level.
+---
 2
 
 The issue of ambulances is currently being discussed at national level
@@ -143,7 +144,8 @@ Following discussion the following issues were raised by Members:
 
 presented at the Community, Leisure and Cultural Strategic Policy Committee
 
-held on the 7th February, 2022.---
+held on the 7th February, 2022.
+---
 3
 
  Councillor Keary asked if the funding approved under Active Travel could be put
@@ -214,7 +216,8 @@ Councillor Collins, it was agreed to allocate the following:
 
  €1,000 to Ballysteen Carnegie Library.
 
- €3,000 to Croom Development Association.---
+ €3,000 to Croom Development Association.
+---
 4
 
 On the proposal of Councillor Sheahan, seconded by Councillor O’Donoghue, it was
@@ -285,7 +288,8 @@ Housing Construction and Maintenance advised a burial ground strategy is being
 
 complied presently and he agreed to provide an update to Members when this strategy
 
-is complete.---
+is complete.
+---
 5
 
 **5.**
@@ -362,7 +366,8 @@ serious and fatal accidents which have occurred on this stretch of road in recen
 
 times. Councillor Keary added he had spoken with the Gardaí on a number of
 
-occasions requesting a speed van be placed on this roadway to address speeding---
+occasions requesting a speed van be placed on this roadway to address speeding
+---
 6
 
 traffic concerns and further requested the Adare-Rathkeale Municipal District
@@ -425,4 +430,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

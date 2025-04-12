@@ -102,7 +102,8 @@ commence 2019)
 
 Committee members highlighted the lack of growth in rural areas and the need for
 
-schools and more housing in rural areas. It was stated that future development---
+schools and more housing in rural areas. It was stated that future development
+---
 should address this in order to grow rural areas in a way that encourages people to
 
 live there, as young people are currently forced to leave rural towns and go to cities.
@@ -195,7 +196,8 @@ Key issues covered in the presentation included:
 
  On-going Initiatives
 
- Strategic Partners---
+ Strategic Partners
+---
  Rathkeale Enterprise Centre
 
  Kantoher and Bruree Enterprise Centre
@@ -236,4 +238,5 @@ This concluded the business of the meeting
 
 **Councillor Vivienne Crowley**
 
-Chairperson---
+Chairperson
+---

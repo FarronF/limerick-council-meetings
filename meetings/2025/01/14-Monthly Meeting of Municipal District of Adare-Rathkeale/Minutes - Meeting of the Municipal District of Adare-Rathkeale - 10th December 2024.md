@@ -66,7 +66,8 @@ It was noted as Councillor Collins is a nominee on this Council owned DAC she di
 
 a pecuniary or beneficial interest in the Part VIII proposed remodelling and extension of
 
-the Adare Heritage Centre.---
+the Adare Heritage Centre.
+---
 2
 
 **3.**
@@ -139,7 +140,8 @@ Centre go ahead subject to a maximum cost of ten million euro, the costs origina
 
 advised for the project. This was seconded by Councillor Keary, however, the Deputy
 
-Chief Executive advised that it was not possible to insert this caveat on the proposal.---
+Chief Executive advised that it was not possible to insert this caveat on the proposal.
+---
 3
 
 Councillor Keary proposed to suspend Standing Orders in order to speak with Councillor
@@ -212,7 +214,8 @@ And Resolved:
 
 of four years, in accordance with the Mayor’s Report dated 29th November, 2024 and
 
-Section 19 of the Planning and Development Act 2000 (as amended)”.---
+Section 19 of the Planning and Development Act 2000 (as amended)”.
+---
 4
 
 **6.**
@@ -285,7 +288,8 @@ The delegation then withdrew from the Meeting.
 
 Older People grant scheme, which will no longer grant aid oil or gas boiler
 
-replacement. The Meetings Administrator advised the Department of Housing,---
+replacement. The Meetings Administrator advised the Department of Housing,
+---
 5
 
 Local Government and Heritage guidelines are to provide funding for the repairs
@@ -304,4 +308,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

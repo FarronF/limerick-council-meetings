@@ -70,7 +70,8 @@ Discussion ensued in relation to the contents of the Plan. Members expressed con
 
 in relation to the proposed expansion of pedestrian areas and cycle lanes as well as the
 
-replacement of on-street parking with off-street parking. The Senior Executive---
+replacement of on-street parking with off-street parking. The Senior Executive
+---
 Architect, Forward Planning, Public Realm & Heritage assured Members the new
 
 proposals for cycle lanes will not affect the width of the road through the village and
@@ -117,4 +118,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-05-18 19:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/citizen-engagement/cappamore-public-meeting-draft-river-basin-management-plan-2018)**
+**<a href="https://www.limerick.ie/council/whats-on/citizen-engagement/cappamore-public-meeting-draft-river-basin-management-plan-2018" target="_blank">Link to meeting</a>**

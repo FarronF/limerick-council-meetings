@@ -64,7 +64,8 @@ The Members also expressed their condolences to the families and friends of all 
 
 had passed away due to Covid during the pandemic of the past two years.
 
-A minute’s silence was observed as a mark of respect.---
+A minute’s silence was observed as a mark of respect.
+---
 2
 
 1.
@@ -143,7 +144,8 @@ Proposed by Councillor O’Brien;
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 3
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -220,7 +222,8 @@ Proposed by Councillor O’Brien;
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -297,7 +300,8 @@ Proposed by Councillor O’Brien;
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -380,7 +384,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 acres) at Long’s Lane, Limerick, to The Absolute Hotel Limerick Ltd., for the sum of €125,000,
 
-particulars of which were contained in Statutory Notice dated 11th January, 2022.”---
+particulars of which were contained in Statutory Notice dated 11th January, 2022.”
+---
 6
 
 (k)
@@ -461,7 +466,8 @@ Circulated, (i) Audit and Risk Committee’s report dated 14th January, 2022, on
 
 Statutory Audit Report for year ended 31st December, 2020, for Limerick City and County
 
-Council; (ii) Limerick City and County Council Audited Annual Financial Statement for the Year---
+Council; (ii) Limerick City and County Council Audited Annual Financial Statement for the Year
+---
 7
 
 ended 31st December, 2020; and (iii) Local Government Audit Service Statutory Audit Report
@@ -552,7 +558,8 @@ travel in respect of invitation received from the Limerickmen’s Association in
 
 inviting the Mayor and a delegation to attend and participate in the Annual St. Patrick’s
 
-Day Parade in New York City, USA.---
+Day Parade in New York City, USA.
+---
 8
 
 Proposed by Councillor O’Brien;
@@ -627,7 +634,8 @@ Proposed by Councillor O’Brien;
 
 Seconded by Councillor Teskey;
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, the approval of the Council be and is hereby given to visit by the Mayor to
@@ -698,7 +706,8 @@ Circulated, report of the Chairperson of the Home and Social Development Strateg
 
 Policy Committee dated 15th December, 2021, in relation to Meeting of the Committee
 
-held on 15th December, 2021, together with a copy of the Homeless Policy Document.---
+held on 15th December, 2021, together with a copy of the Homeless Policy Document.
+---
 10
 
 The Report was noted by the Council.
@@ -765,7 +774,8 @@ contribution scheme”.
 
 Other Members noted that no concerns had been raised previously at various SPC Meetings
 
-in relation to the Draft Development Contribution Scheme 2022-2026 as proposed, and that---
+in relation to the Draft Development Contribution Scheme 2022-2026 as proposed, and that
+---
 11
 
 funding generated from the new scheme would go back into developments and projects in
@@ -838,7 +848,8 @@ The Chief Executive was required to prepare and submit a report to the Board wit
 
 weeks of receipt of the application by the Board and there was a requirement for this report
 
-to be firstly submitted to the Elected Members. The Council was required to note and---
+to be firstly submitted to the Elected Members. The Council was required to note and
+---
 12
 
 consider the Strategic Infrastructure Development application. The views of the Members
@@ -907,7 +918,8 @@ Proposed by Councillor McSweeney;
 
 Seconded by Councillor Collins (M):
 
-And Resolved:---
+And Resolved:
+---
 13
 
 “That, the approval of the Council be and is hereby given to the granting of an equity
@@ -976,7 +988,8 @@ ADJOURNED NOTICE OF MOTION
 
 ***our carbon footprint in areas such as Council building retrofitting, electric vehicles and***
 
-***energy usage, in line with Government climate action policy.***---
+***energy usage, in line with Government climate action policy.***
+---
 14
 
 **REPLY:**
@@ -1053,7 +1066,8 @@ QUESTIONS
 
 Replies to the following Questions on the agenda were circulated to all Members prior
 
-to the Meeting and the Questions were therefore considered as having been dealt with:---
+to the Meeting and the Questions were therefore considered as having been dealt with:
+---
 15
 
 10.
@@ -1176,7 +1190,8 @@ The figures for the Chief Executive’s Report from October to December:
 
  2,074 in November 2021 (down 373)
 
- 2,109 in December 2021 (up 35)---
+ 2,109 in December 2021 (up 35)
+---
 16
 
 The figures change from closures of housing applications due to the SSHA,
@@ -1251,7 +1266,8 @@ since 2018. The current post-holder is Mr. David O’Grady. The post is based
 
 in the Property and Community Facilities Department of the Community,
 
-Tourism and Culture Directorate.---
+Tourism and Culture Directorate.
+---
 17
 
 The Vacant Homes Officer provides advice and guidance on schemes and other
@@ -1330,7 +1346,8 @@ Question submitted by Councillor J. Costelloe
 
 ***Jutland Hall, Riverpoint, The Steeples, Brookfield Hall (Castletroy), The Park (Edward Street,***
 
-***Limerick).***---
+***Limerick).***
+---
 18
 
 **REPLY:**
@@ -1415,7 +1432,8 @@ Analysis currently being progressed. Once the Preferred Option is confirmed,
 
 the Consultants will commence development of planning level design and
 
-preparation of the Environmental Impact Assessment Report ahead of lodging---
+preparation of the Environmental Impact Assessment Report ahead of lodging
+---
 19
 
 a planning application. The Consultant’s current programme indicates that a
@@ -1490,7 +1508,8 @@ Notice of Motion submitted by Councillor L. Galvin
 
 ***I will move at the next Meeting that this Council call on the State to have only one agency***
 
-***with responsibility for our rivers and lakes.***---
+***with responsibility for our rivers and lakes.***
+---
 20
 
 The Motion was proposed by Councillor Galvin and seconded by Councillor Collins (M).
@@ -1563,7 +1582,8 @@ with Limerick City and County Council in addressing this issue which was relevan
 
 Councils, and asking if the Council would be agreeable to writing jointly to Irish Water in this
 
-regard. This was agreed.---
+regard. This was agreed.
+---
 21
 
 Data Protection Commission decision on use of CCTV in Limerick
@@ -1656,7 +1676,8 @@ Office of the Data Protection Commission had now determined that they are not a 
 
 He also confirmed that remedial actions to resolve the issues had already commenced
 
-involving a team including the Head of Digital Services, the Data Protection Officer,---
+involving a team including the Head of Digital Services, the Data Protection Officer,
+---
 22
 
 representatives from O’Flynn Exhams Solicitor’s firm (data privacy specialists) and Arup
@@ -1749,7 +1770,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
-available on SharePoint for inspection by the Members.---
+available on SharePoint for inspection by the Members.
+---
 23
 
 PLANNING AND DEVELOPMENT:
@@ -1760,4 +1782,5 @@ amended, was also available on SharePoint for inspection by the Members.
 
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Mayor**---
+**Mayor**
+---

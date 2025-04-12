@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-04-30 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-5)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-5" target="_blank">Link to meeting</a>**

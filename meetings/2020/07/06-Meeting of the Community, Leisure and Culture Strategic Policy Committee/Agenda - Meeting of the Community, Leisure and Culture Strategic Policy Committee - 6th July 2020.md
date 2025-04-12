@@ -56,4 +56,5 @@ Date of next Meeting
 
 **Community, Leisure and Culture SPC**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

@@ -30,7 +30,8 @@ Kilmallock held on the 20th April 2023
 
 2.Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 20th April 2023.---
+Relating to the Minutes of the Municipal District Meeting of 20th April 2023.
+---
 2
 
 3.Annual General Meeting
@@ -77,7 +78,8 @@ I will move at the next meeting of the Cappamore/Kilmallock Municipal District c
 
 Limerick City and County Council to compulsory purchase order land that is near Athenacey
 
-Cemetery with a view to constructing a suitable parking area.---
+Cemetery with a view to constructing a suitable parking area.
+---
 3
 
 QUESTIONS
@@ -104,4 +106,5 @@ on the taking in charge of Castle Court estate in Kilmallock.
 
 Dept.
 
-4. The planned date for the estate to be taken over by Limerick City & County Council.---
+4. The planned date for the estate to be taken over by Limerick City & County Council.
+---

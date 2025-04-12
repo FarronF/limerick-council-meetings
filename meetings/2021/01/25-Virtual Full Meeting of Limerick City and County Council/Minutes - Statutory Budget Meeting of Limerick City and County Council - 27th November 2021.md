@@ -60,7 +60,8 @@ Chief Executive’s Draft Budget of Limerick City and County Council for year en
 
 December, 2021, the Draft Budget having been served in accordance with Section 103 of the
 
-Local Government Act, 2001, as amended by the Local Government Reform Act, 2014.---
+Local Government Act, 2001, as amended by the Local Government Reform Act, 2014.
+---
 2
 
 Chief Executive (Mr. P. Daly), then gave an address to Members to set the context for the
@@ -131,7 +132,8 @@ ongoing controls on expenditure are in place.
 
 This budget is framed against a prolonged health crisis and a potential no-deal Brexit. The
 
-Draft Budget has been prepared on the principle of a “balanced budget” based on the overall---
+Draft Budget has been prepared on the principle of a “balanced budget” based on the overall
+---
 3
 
 level of resources available to the Council and the requirement to meet statutory, contractual,
@@ -202,7 +204,8 @@ creating a new narrative & perspective for Limerick.
 
 Budget 2021 will actively allow for the further engagement with and support of our
 
-communities. It will address enhancing quality of life for our citizens by supporting new public---
+communities. It will address enhancing quality of life for our citizens by supporting new public
+---
 4
 
 realm projects & programmes across the City & County in our libraries, galleries, museums,
@@ -269,7 +272,8 @@ Members in the Budget process, has committed to further improve service delivery
 
 face of severe socio-economic challenges and the member’s decision to vary the rate of LPT
 
-has facilitated this commitment.---
+has facilitated this commitment.
+---
 5
 
 This budget builds on past budgets that consolidated our Council finances and allowed for the
@@ -330,7 +334,8 @@ Meeting meets. The Budget therefore must be adopted by 10th December, 2020.
 
 The budget process for the preparation, consideration and adoption of the Budget requires
 
-statutory compliance with a number of steps, which can be summarised as follows:---
+statutory compliance with a number of steps, which can be summarised as follows:
+---
 6
 
 ***Step 1 - Decision by the Council on the adjustment factor to the Local Property Tax (LPT)***
@@ -403,7 +408,8 @@ unprecedented in both speed and scale. The containment measures necessary to lim
 
 transmission of COVID-19 had a dramatic impact on Irish economic activity in the second
 
-Quarter and, notwithstanding the rebound evident in the third Quarter, recovery remains far---
+Quarter and, notwithstanding the rebound evident in the third Quarter, recovery remains far
+---
 7
 
 from complete. Indeed, the third Quarter bounce-back has by-passed some sectors
@@ -472,7 +478,8 @@ been allocated to public capital spending. COVID-related expenditure will amount
 
 billion, while a ‘recovery fund’ – including for Brexit-contingency purposes – is being
 
-established, as provided for in the *Programme for Government.*---
+established, as provided for in the *Programme for Government.*
+---
 8
 
 ***Table 1*** below outlines the main economic and fiscal variables underlying the Department of
@@ -659,7 +666,8 @@ Unemployment Payment (PUP) or Temporary Wage Subsidy Scheme (TWSS).
 
 Reflecting the national lockdown, passenger numbers through Shannon Airport fell by 99%
 
-with huge knock-on impacts for tourism and commerce across the Mid-West. Combined with---
+with huge knock-on impacts for tourism and commerce across the Mid-West. Combined with
+---
 9
 
 restrictions on mobility, footfall in Limerick City Centre collapsed by over 80% compared to
@@ -732,7 +740,8 @@ the public health guidelines as part of the COVID-19 mobility plan. Certain stre
 
 to vehicular traffic at certain times during the week to encourage active transport and provide
 
-more space for outdoor activities, and traffic was reduced on other routes on a pilot basis.---
+more space for outdoor activities, and traffic was reduced on other routes on a pilot basis.
+---
 10
 
 Parklets were built, outdoor dining facilitated and new cycle lanes introduced to encourage
@@ -805,7 +814,8 @@ Local Government Act, 2001 as amended, the Draft Budget is required to set out t
 
 expenditure necessary to carry out the functions of the Council and the income estimated to
 
-accrue to the Council.---
+accrue to the Council.
+---
 11
 
 ***The key objectives of the 2021 Budget are set out below:***
@@ -884,7 +894,8 @@ o Continue to support the Regeneration Programme (Physical, Social & Economic).
 
 o Deliver on targets as set out in Rebuilding Ireland.
 
-o Maximise the output of Approved Housing Bodies as a key delivery mechanism.---
+o Maximise the output of Approved Housing Bodies as a key delivery mechanism.
+---
 12
 
 
@@ -961,7 +972,8 @@ looking to implement innovative solutions to deliver further efficiencies.
 
 
 
-***Continue to seek efficiencies in service provision, cost reduction and value for money.***---
+***Continue to seek efficiencies in service provision, cost reduction and value for money.***
+---
 13
 
 **Outturn 2020**
@@ -1068,7 +1080,8 @@ H - Misc Services
 
 **Table 2: Analysis of Expenditure by Division**
 
-The following chart gives a breakdown of expenditure by each Division.---
+The following chart gives a breakdown of expenditure by each Division.
+---
 14
 
 **Chart 1: Analysis of split of Expenditure (excl HAP) by Division**
@@ -1215,7 +1228,8 @@ following sources:
 
 **Analysis of Expenditure by Division**
 
-**(Excl HAP)**---
+**(Excl HAP)**
+---
 15
 
 **Source**
@@ -1300,7 +1314,8 @@ Comparative figures for Budgets 2021 and 2020 are shown hereunder.
 
 **27%**
 
-**Analysis of Income (excluding HAP)**---
+**Analysis of Income (excluding HAP)**
+---
 16
 
 **Chart 4: Analysis of Income: Draft Budget 2021 v’s Budget 2020**
@@ -1391,7 +1406,8 @@ will be received in 2021 for loss of income in Goods and Services due to COVID-1
 
 **Draft Budget 2021 €'m**
 
-**Adopted Budget 2020 €'m**---
+**Adopted Budget 2020 €'m**
+---
 17
 
 **Grants and Subsidies Income**
@@ -1458,7 +1474,8 @@ to adjust the LPT rate upwards by 15% in 2021 equating to an increase of €2,38
 
 The 2021 allocation from the Local Property Tax and the calculation provided by the DHPLG
 
-on the basis of this allocation is set out in ***Table 4*** below:---
+on the basis of this allocation is set out in ***Table 4*** below:
+---
 18
 
 ***Limerick City and County Council - 2021 LPT Allocation***
@@ -1581,7 +1598,8 @@ valuations during 2021. Limerick City and County Council will continue to ensure
 
 commercial properties in the City and County are included on the rates records and are
 
-properly rated.---
+properly rated.
+---
 19
 
 Due to COVID-19, 2020 has been a very challenging year for the Council’s Ratepayers. But
@@ -1746,7 +1764,8 @@ result of these appeals with a loss to date of €1.18m per annum. There are six
 
 appeals from Windfarms to be adjudicated by the Valuation Tribunal which could result in
 
-further financial losses from reduced Commercial Rates of €600k per annum (arrears of---
+further financial losses from reduced Commercial Rates of €600k per annum (arrears of
+---
 20
 
 €3.5m), bringing potential losses to €1.7m per annum. Limerick City and County Council is
@@ -1819,7 +1838,8 @@ subject to a maximum refund of €1,000 which will be subject to a number of ter
 
 conditions, including 25% of arrears must be paid in year 1 to qualify for the scheme with a
 
-payment plan in place over years 2 to 4 for the remaining arrears.---
+payment plan in place over years 2 to 4 for the remaining arrears.
+---
 21
 
 **Tourism Sector Support Scheme 2021**
@@ -1888,7 +1908,8 @@ Circular Fin 08/2015 referred to the Local Government (Financial and Audit Proce
 
 (Amendment) Regulations (S.I.363 of 2015), which amends the Local Government (Financial
 
-and Audit Procedures) Regulations 2014 by providing that the Meeting at which---
+and Audit Procedures) Regulations 2014 by providing that the Meeting at which
+---
 22
 
 Municipal/Metropolitan Members consider the draft budgetary plan must conclude no later
@@ -1977,7 +1998,8 @@ value for money services that provide the best customer experience.
 
 **Number Receiving Pension**
 
-**Number Staff**---
+**Number Staff**
+---
 23
 
 Involving the public in the design of their services is key in producing accessible services.
@@ -2048,7 +2070,8 @@ future years. Capital projects, by their very nature, are flexible rolling plans
 
 annual review and possible adjustment. Below is a summary of potential spend and source
 
-of funding for the three-year Capital Plan 2021 to 2023:---
+of funding for the three-year Capital Plan 2021 to 2023:
+---
 24
 
 **Capital**
@@ -2141,7 +2164,8 @@ provided an invaluable support structure to local communities.
 
 **€261.96**
 
-**Capital Expenditure 2021-2023 by Year €'m**---
+**Capital Expenditure 2021-2023 by Year €'m**
+---
 25
 
 A range of COVID-19 safe work practices have been rolled out and adopted by staff to
@@ -2210,7 +2234,8 @@ Limerick City and County Council will also facilitate economic development by pr
 
 capital projects, including Urban and Village Renewal, while also marketing Limerick as a great
 
-place to live, visit and do business.---
+place to live, visit and do business.
+---
 26
 
 During 2020, the Council again had to react to unforeseen events such as the COVID-19 global
@@ -2271,7 +2296,8 @@ Friday, 27th November, 2020.’
 
 The Deputy Chief Executive then provided an overview of the Budget including an overview
 
-of all Divisions within the Revenue Account and the corresponding Capital programmes.---
+of all Divisions within the Revenue Account and the corresponding Capital programmes.
+---
 27
 
 Following the Deputy Chief Executives overview of the Budget, the Mayor confirmed that this
@@ -2340,7 +2366,8 @@ finance has failed every NDP. He added that Covid 19 has changed work practices 
 
 anti-rural policies need to be reversed. On behalf of the Fine Gael Group, he formally
 
-proposed the Draft Budget as presented.---
+proposed the Draft Budget as presented.
+---
 28
 
 **Councillor O’Hanlon**
@@ -2409,7 +2436,8 @@ itself more. He referred to the GMA funds which are very important and gives the
 
 an opportunity to provide small amounts of funding to various community groups. On behalf
 
-of the Fianna Fail Party, he formally seconded the proposal to adopt the Budget for 2021.---
+of the Fianna Fail Party, he formally seconded the proposal to adopt the Budget for 2021.
+---
 29
 
 **Councillor Teefy**
@@ -2484,7 +2512,8 @@ She also referred to the Library service and the important role it plays in our 
 
 maintenance of parks and open spaces and the different programmes in Arts and Culture.
 
-She welcomed the fact that there was no increase in commercial rates in 2021 and stressed---
+She welcomed the fact that there was no increase in commercial rates in 2021 and stressed
+---
 30
 
 the importance of continuing to support businesses during these uncertain times of Covid 19
@@ -2559,7 +2588,8 @@ people who require housing assistance remains extremely high, whilst the Council
 
 stock remains incredibly low. She stated there is a profound shortage of housing
 
-across Limerick. She said the budget makes reference to delivering on targets as set out in---
+across Limerick. She said the budget makes reference to delivering on targets as set out in
+---
 31
 
 Rebuilding Ireland, however, Rebuilding Ireland has failed. The Country is five years into this
@@ -2628,7 +2658,8 @@ clarification on this. She said while she had some reservations about aspects of
 
 budget and that there are some important questions that need to be answered, the
 
-Sinn Féin team on this Council would be voting in favour of this budget.---
+Sinn Féin team on this Council would be voting in favour of this budget.
+---
 32
 
 **Councillor Hartigan**
@@ -2695,7 +2726,8 @@ the provisions of Section 31 of the Local Government Reform Act, 2014, and Part 
 
 Local Government (Financial and Audit Procedures) Regulations, 2014, and Section 14 of the
 
-Local Government Act, 1946, be set at 10% for 2021 (Item 4 on Meeting Agenda).---
+Local Government Act, 1946, be set at 10% for 2021 (Item 4 on Meeting Agenda).
+---
 33
 
 **AND THAT** the Vacant Property Refund Scheme 2021 to encourage the beneficial use of
@@ -2740,4 +2772,5 @@ This concluded the business of the Meeting.
 
 **Mayor**
 
-**Date:** **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date:** **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

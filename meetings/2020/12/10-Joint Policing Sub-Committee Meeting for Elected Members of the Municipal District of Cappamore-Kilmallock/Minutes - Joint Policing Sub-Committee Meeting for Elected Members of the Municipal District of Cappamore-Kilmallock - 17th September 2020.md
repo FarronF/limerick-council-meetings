@@ -70,7 +70,8 @@ Superintendent Ryan gave an update on current policing issues within the Bruff G
 
 He confirmed that while there had been a reduction in certain crime categories, including
 
-burglaries, public order offences and minor assaults, that domestic incidents and drug---
+burglaries, public order offences and minor assaults, that domestic incidents and drug
+---
 2
 
 possessions in particular had seen an increase from the previous figures. These increases were
@@ -143,4 +144,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

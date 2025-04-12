@@ -50,4 +50,5 @@ Any Other Business
 
 **Community, Leisure & Emergency Services SPC**
 
-**Limerick City & County Council**---
+**Limerick City & County Council**
+---

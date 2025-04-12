@@ -70,7 +70,8 @@ by Bruff Garda Station in 2020 to 2019 including:
 
  A reduction in Drink Driving
 
- An increase in serious injury traffic accidents.---
+ An increase in serious injury traffic accidents.
+---
 2
 
 In relation to crime in the district, the Drugs Unit has noted an increase in drug detection.
@@ -139,7 +140,8 @@ Taghnan in relation to their support for James’ Journey
 
 Further clarification on the operating model and property marking will be sought at the next
 
-JPC meeting.---
+JPC meeting.
+---
 3
 
 This concluded the business of the meeting.
@@ -152,4 +154,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

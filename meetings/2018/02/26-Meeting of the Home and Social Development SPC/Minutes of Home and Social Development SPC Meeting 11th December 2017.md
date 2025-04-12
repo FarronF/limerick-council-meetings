@@ -70,7 +70,8 @@ and Social Development SPC.
 
 Mr Rob Lowth, Operations and Maintenance gave a presentation regarding the proposed
 
-condition survey of Council owned housing stock. The objectives of the survey are to:---
+condition survey of Council owned housing stock. The objectives of the survey are to:
+---
 •
 
 Deliver a comprehensive point in time baseline of stock which can be updated by
@@ -159,7 +160,8 @@ Issues raised by members included:
 
  Necessity for disposal of the sites; and
 
- Possible new affordable housing scheme.---
+ Possible new affordable housing scheme.
+---
 **Item 6.**
 
 **Consideration of report from Special Meeting of Limerick City and County**
@@ -178,4 +180,5 @@ accommodation.
 
 The Meeting then concluded.
 
-**Date of Next Meeting:** Monday 26th February 2018 at 3.00pm, County Hall, Dooradoyle.---
+**Date of Next Meeting:** Monday 26th February 2018 at 3.00pm, County Hall, Dooradoyle.
+---

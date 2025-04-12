@@ -32,4 +32,5 @@ People and Housing Grants for Mobility Aids
 
 6. AOB
 
-Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council---
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+---

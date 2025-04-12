@@ -86,7 +86,8 @@ Special Projects – LA Infrastructure
 
 **General Municipal Allocation**
 
-**€ 225,000**---
+**€ 225,000**
+---
 2
 
 The Director of Support Services confirmed that it was necessary to assign the ‘Special
@@ -119,4 +120,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

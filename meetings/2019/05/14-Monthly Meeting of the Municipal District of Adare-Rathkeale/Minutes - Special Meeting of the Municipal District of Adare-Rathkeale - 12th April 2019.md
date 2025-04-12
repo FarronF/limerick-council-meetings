@@ -56,7 +56,8 @@ allocated to a road scheme in Ballysteen in 2018, that did not progress and a fu
 
 The Senior Executive Engineer requested approval to use €30,000 of this funding to
 
-commence works on the Slí na Slainte in Askeaton in the interim and informed Members---
+commence works on the Slí na Slainte in Askeaton in the interim and informed Members
+---
 this €30,000 would be returned to the Ballingarry Traffic Calming Scheme when
 
 Development Fund monies 2019 were allocated.
@@ -87,4 +88,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

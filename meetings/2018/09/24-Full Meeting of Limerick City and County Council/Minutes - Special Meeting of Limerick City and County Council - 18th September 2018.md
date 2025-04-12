@@ -58,7 +58,8 @@ Seconded by Councillor Sheahan (M);
 
 “That, Mr. Peter Casey be nominated as a candidate for the Presidential Election 2018,
 
-in accordance with Section 16 of the Presidential Elections Act, 1993.”---
+in accordance with Section 16 of the Presidential Elections Act, 1993.”
+---
 2
 
 Proposed by Councillor Loftus;
@@ -121,4 +122,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

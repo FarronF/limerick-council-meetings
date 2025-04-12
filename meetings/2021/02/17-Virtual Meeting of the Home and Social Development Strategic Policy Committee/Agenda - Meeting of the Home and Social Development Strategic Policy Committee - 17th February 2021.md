@@ -40,4 +40,5 @@ c. St. Anne’s Court
 
 10. Any other business.
 
-Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council---
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+---

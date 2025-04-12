@@ -72,7 +72,8 @@ dwelling house situate at 31 McDermott Avenue, Janesboro, Limerick and the inten
 
 bring a Section 183 Notice to Full Council in this regard, for approval.
 
-The report, as circulated, was noted by Members.---
+The report, as circulated, was noted by Members.
+---
 2
 
 (b)Circulated, report of the Senior Staff Officer, Housing Support Services dated 30th March, 2020
@@ -145,7 +146,8 @@ at Milford Grange, Kilbane and Castletroy Heights
 
 **Limerick City West**
 
-€100,000 Construction of Patrickswell Community Centre---
+€100,000 Construction of Patrickswell Community Centre
+---
 3
 
 € 50,000 Upgrade of The People’s Park Playground
@@ -226,7 +228,8 @@ Council were not the deciding authority, and that the purpose of his presence wa
 
 proposed development to Members. He also outlined that the pre-planning process had been
 
-completed in full. Mr. Duclot stated that all amendments and observations will be taken on board---
+completed in full. Mr. Duclot stated that all amendments and observations will be taken on board
+---
 4
 
 and form part of the Chief Executive’s report for An Bord Pleanála. Mr. Duclot also advised that he
@@ -297,7 +300,8 @@ Restoration Improvement Scheme.
 
 ***of the dog waste bins and the frequency of emptying.***
 
-**REPLY*:*** There are two dog wardens employed by Limerick City and County Council who cover all---
+**REPLY*:*** There are two dog wardens employed by Limerick City and County Council who cover all
+---
 5
 
 of the City and County. A total of seven fines were issued for dog fouling in the Metropolitan District
@@ -374,7 +378,8 @@ currently there is Covid-19 / isolation housing accommodation by the HSE on the 
 
 ***measure performance of Limerick city centre and how these are incorporated into the design and***
 
-***development of the city.***---
+***development of the city.***
+---
 6
 
 **REPLY:** Measurement of the performance of the city centre can fall under a number of different
@@ -447,7 +452,8 @@ Limerick City and County Council will be supportive of such efforts to similar l
 
 years, and within the resources available collect street clean-up material provided advance notice
 
-is advised.---
+is advised.
+---
 7
 
 **NOTICES OF MOTION**
@@ -520,7 +526,8 @@ him know in future if they see particular bins/areas that require attention and 
 
 resources accordingly.
 
-The motion was proposed by Councillor Hartigan, seconded by Councillor Benson and agreed.---
+The motion was proposed by Councillor Hartigan, seconded by Councillor Benson and agreed.
+---
 8
 
 **16. Notice of Motion submitted by Councillor S. Hartigan** **(to be referred to the Home and Social**
@@ -591,7 +598,8 @@ Strategic Policy Committee.
 
 ***purchasing goods and services from Limerick companies, where possible and within the***
 
-***parameters of the procurement process, while still achieving value for money.***---
+***parameters of the procurement process, while still achieving value for money.***
+---
 9
 
 **REPLY**: Limerick City and County Council’s Procurement Policy reflects the importance of access
@@ -668,7 +676,8 @@ would have a knock-on effect on local tourism and businesses. He suggested that 
 
 be removed from Shannon Group and transferred to The Office of Public Works and he proposed
 
-that the Minister for Culture, Heritage and the Gaeltacht be written to on the matter.---
+that the Minister for Culture, Heritage and the Gaeltacht be written to on the matter.
+---
 10
 
 Councillor O’ Donovan requested a copy of the lease between Limerick City and County Council and
@@ -743,7 +752,8 @@ Councillor Sheehan stated that he was opposed to this Motion adding that employe
 
 tourism and hospitality sector should pay adequate wages to all workers including seasonal
 
-workers.---
+workers.
+---
 11
 
 Councillor Benson proposed the following amendment to the Motion;
@@ -794,4 +804,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

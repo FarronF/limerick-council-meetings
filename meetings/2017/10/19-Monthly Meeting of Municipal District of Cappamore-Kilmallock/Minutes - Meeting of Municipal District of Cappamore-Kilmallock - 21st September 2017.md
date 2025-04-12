@@ -96,7 +96,8 @@ million and covered the following services:
 
 • Fire Service.
 
-• Community Supports.---
+• Community Supports.
+---
 2
 
 The A/Senior Executive Engineer and Executive Engineer delivered a PowerPoint
@@ -175,7 +176,8 @@ Fire Services.
 
 Promotion of Limerick as a tourist destination.
 
-It was agreed to circulate copy of presentation to the Members.---
+It was agreed to circulate copy of presentation to the Members.
+---
 3
 
 Members thanked staff for the comprehensive presentation and acknowledged the
@@ -258,7 +260,8 @@ amended) and to extend the life of the Kilfinane Local Area Plan 2012-2018 by a 
 
 from 21st September, 2017, in accordance with the provisions of Section 19 of the Planning and
 
-Development Act 2000 (as amended).”---
+Development Act 2000 (as amended).”
+---
 4
 
 (b)
@@ -343,7 +346,8 @@ The PID Office to use 'Town Engage' approach in Kilmallock to assist the town wi
 
 developing an inclusive vision for a Public Realm Project in the town, namely the town
 
-threshold.---
+threshold.
+---
 5
 
 •
@@ -430,7 +434,8 @@ Transport, Tourism and Sport. Its mission was to provide a quality, accessible a
 
 level of rural public transport complementing, where possible, existing transport services, thus
 
-allowing everyone in the community to have access to social, economic and other services.---
+allowing everyone in the community to have access to social, economic and other services.
+---
 6
 
 She stated that the Board was made up of the following organisations:
@@ -507,7 +512,8 @@ Transportation Strategic Policy Committee. The Members supported this proposal.
 
 Review of Schedule of Works 2017
 
-It was noted that this item had been dealt with earlier in the Meeting.---
+It was noted that this item had been dealt with earlier in the Meeting.
+---
 7
 
 5.
@@ -596,7 +602,8 @@ who commenced on site on Tuesday, 5th September, and the approximate
 
 duration for the works is 4 to 6 weeks. This work is safety-critical for both public
 
-road users and Irish Rail.---
+road users and Irish Rail.
+---
 8
 
 9.
@@ -659,7 +666,8 @@ The Correspondence, as circulated, was noted by Members.
 
 It was agreed that contact would be made with the District Administrator, Nenagh
 
-Municipal Council, to ascertain further detail in relation to agenda for proposed Joint Meeting.---
+Municipal Council, to ascertain further detail in relation to agenda for proposed Joint Meeting.
+---
 9
 
 **Other Matters Raised:**
@@ -736,7 +744,8 @@ Meeting. It was further agreed that all those proposed and subsequently agreed w
 
 honoured at a ceremony to be held after the November Meeting of the District at the offices in
 
-Kilmallock.---
+Kilmallock.
+---
 10
 
 • **Policy on Speed Ramps**
@@ -755,4 +764,5 @@ Cathaoirleach
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

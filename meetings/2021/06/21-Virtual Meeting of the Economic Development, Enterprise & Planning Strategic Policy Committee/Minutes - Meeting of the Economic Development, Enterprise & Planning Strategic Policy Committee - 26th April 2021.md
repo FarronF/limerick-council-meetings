@@ -74,7 +74,8 @@ very difficult to get work carried out as Council Meetings were held bi-monthly 
 
 motions referred from SPC meetings could take up to 6 weeks to be considered at Full Council
 
-meeting and they also requested more prompt action from outcomes from Council meetings.---
+meeting and they also requested more prompt action from outcomes from Council meetings.
+---
 M Lyes welcomed the 10 days’ notice for ordinary meetings, which allows sectoral representatives
 
 the opportunity to consult with their relevant sectors. She stated that it was fundamental to the
@@ -165,7 +166,8 @@ He also informed members that master planning was nearing completion on the Clee
 
 that it was proposed that it would be for a mixed use development and that once plans were in
 
-place, further information would be made available to members.---
+place, further information would be made available to members.
+---
 Replying to members, he also confirmed that the Community Department were currently awaiting
 
 the outcome of funding for a number of projects in towns and villages in Limerick under the Rural
@@ -242,7 +244,8 @@ Street Events Licensing and the Urban Animation Investment Scheme
 
 The main points of the various schemes are:
 
- Up to €4,000 available to businesses to purchase additional outdoor seating/equipment---
+ Up to €4,000 available to businesses to purchase additional outdoor seating/equipment
+---
  Up to 19 Buildouts (widening of footpaths – 10 in Limerick Metropolitan District and 3 in
 
 each Municipal District) to facilitate outdoor dining, where heretofore it was not possible
@@ -319,7 +322,8 @@ walk and was informed by V. Murray that the Physical Directorate would be implem
 
 number of initiatives in the area for the Summer period and he would discuss proposals with B.
 
-Kennedy, Director of Service and report back to members.---
+Kennedy, Director of Service and report back to members.
+---
 V. Murray assured members that he would discuss the matter of setting up of a Taskforce for the
 
 roll-out of the various schemes with the Chief Executive.
@@ -368,4 +372,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

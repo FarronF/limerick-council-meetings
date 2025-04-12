@@ -76,7 +76,8 @@ Officer, Urban & Rural Community Development who gave the presentation.
 
 Ms. Rizzo addressed the Meeting and welcomed the opportunity to outline to the Members
 
-the life and contribution of Max Arthur MacAuliffe to the Sikh Culture and Religion.---
+the life and contribution of Max Arthur MacAuliffe to the Sikh Culture and Religion.
+---
 2
 
 She stated that an approach was made from Dublin Interfaith Forum in April 2018 with regard
@@ -151,7 +152,8 @@ To consider the Taking in Charge of Estate The Bracken, Newcastle
 
 West, in accordance with Section 180 of the Planning and
 
-Development Acts, 2000-2017, and Section 11 of the Roads Act, 1993.---
+Development Acts, 2000-2017, and Section 11 of the Roads Act, 1993.
+---
 3
 
 Circulated, report of the A/Senior Planner, Planning and Environmental Services, dated 14th
@@ -220,7 +222,8 @@ General Municipal Allocation (GMA)
 
 On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agreed to allocate
 
-€990 for public lighting at Ardagh.---
+€990 for public lighting at Ardagh.
+---
 4
 
 On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agreed to allocate
@@ -291,7 +294,8 @@ St. Fergus National School, Glin – Safety Measures
 
 Broadford National School – Pedestrian Crossing
 
-€35,000---
+€35,000
+---
 5
 
 QUESTIONS
@@ -366,7 +370,8 @@ consultants are currently being sought to progress initial design of the N21
 
 Devon Cross and detailed design of N21 Wards Cross. This commission is
 
-subject to TII approval.---
+subject to TII approval.
+---
 6
 
 It is also intended to carry out improvements at the cul-de-sac junction west
@@ -447,7 +452,8 @@ Question submitted by Councillor J. Sheahan
 
 ***(a)***
 
-***From June 2004 to date how many sites have been excavated in the environs of***---
+***From June 2004 to date how many sites have been excavated in the environs of***
+---
 7
 
 ***Abbeyfeale town in order to acquire a new burial ground***
@@ -550,7 +556,8 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 ***place under our Old County Authority, whereby paint was provided to tenants and local***
 
-***authority communities who undertook the task of applying the paint themselves.***---
+***authority communities who undertook the task of applying the paint themselves.***
+---
 8
 
 In proposing the Motion, Councillor Scanlan stated that the arrangements that were in place
@@ -633,7 +640,8 @@ As of 4th of March, 2019 we have secured through our ICT Department four
 
 vouchers under this scheme, one for each Metro and Municipal Council in
 
-Limerick City and County. In addition, the Department of Rural and Community---
+Limerick City and County. In addition, the Department of Rural and Community
+---
 9
 
 Development has committed to providing up to €15,000 in funding to each Local Authority
@@ -702,7 +710,8 @@ A survey has been carried out at the above location and in order to have the
 
 minimum required road and footpath width, land take is required.
 
-It is proposed to discuss the land take matter with the relevant landowners.---
+It is proposed to discuss the land take matter with the relevant landowners.
+---
 10
 
 The following items were also raised.
@@ -773,4 +782,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

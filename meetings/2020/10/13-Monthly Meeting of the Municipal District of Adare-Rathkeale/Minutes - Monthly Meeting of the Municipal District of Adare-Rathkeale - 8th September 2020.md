@@ -66,7 +66,8 @@ were anti-Rathkeale, as had been suggested.
 
 The Director advised Member the Head of Digital Services, Mihai Bilauca has left
 
-Limerick City and County Council to commence a new role in the Department of---
+Limerick City and County Council to commence a new role in the Department of
+---
 2
 
 Housing, Planning and Local Government and prior to his departure had forwarded a
@@ -147,7 +148,8 @@ September, 2020 setting out proposals to dispose of Freehold Interest in
 
 property at 3 Abbeyview, Askeaton, Co. Limerick to Mr. Phillip McKnight and the
 
-intention to bring Section 183 Notice to Full Council, for approval.---
+intention to bring Section 183 Notice to Full Council, for approval.
+---
 3
 
 Councillor O’Brien requested an update in relation to the proposed sale of land in
@@ -218,7 +220,8 @@ August. Councillor Sheahan advised this was also an issue in the Ballysteen area
 
  Councillor O’Donoghue requested an update on the Banogue traffic calming
 
-scheme. The Senior Executive Engineer advised these works were being carried---
+scheme. The Senior Executive Engineer advised these works were being carried
+---
 4
 
 out by the Mid West Road Design Office and agreed to have an update on this
@@ -289,7 +292,8 @@ In respect of the 2017 Storm Ophelia Limerick City & County Council
 
 expended €419,661 of which €399,712 was recouped from government
 
-storm response funding.---
+storm response funding.
+---
 5
 
 While the ability of the Authority to limit damage or injury from any future
@@ -366,7 +370,8 @@ storms is restricted there are a number of significant measures that we
 
 can promote, support and administer particularly if such measures relate
 
-to private lands and boundaries.---
+to private lands and boundaries.
+---
 6
 
 Specifically there are legal obligations on Land owners or occupiers to take
@@ -443,7 +448,8 @@ supporting the Motion. Councillor O’Donoghue also advised that cars were using
 
 village as a rat run through to the main road. The Senior Executive Engineer agreed to
 
-look at this issue with Councillor O’Donoghue. The Director informed Members a CCTV---
+look at this issue with Councillor O’Donoghue. The Director informed Members a CCTV
+---
 7
 
 strategy is currently being prepared and will be brought before the Elected Members in
@@ -520,7 +526,8 @@ Councillor Sheahan raised the issue of the future of Shannon Airport. He called 
 
 Elected Members of Limerick City and County Council to come together and support
 
-Shannon Airport. Councillor Sheahan proposed the Mayor of Limerick City and County---
+Shannon Airport. Councillor Sheahan proposed the Mayor of Limerick City and County
+---
 8
 
 Council engage with his opposite number in Clare County Council and Tipperary County
@@ -551,4 +558,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

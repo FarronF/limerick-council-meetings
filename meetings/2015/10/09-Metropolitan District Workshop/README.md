@@ -4,4 +4,4 @@
 
 **Date and Time:** 2015-10-09 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/metropolitan-district-workshop)**
+**<a href="https://www.limerick.ie/council/whats-on/metropolitan-district-workshop" target="_blank">Link to meeting</a>**

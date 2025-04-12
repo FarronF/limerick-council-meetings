@@ -50,7 +50,8 @@ Councillor Mitchell told Members he had also had a constructive meeting with res
 
 Minister Patrick O’Donovan regarding the upgrade of the Thomastown crossing together with
 
-representatives of Iarnrod Eireann---
+representatives of Iarnrod Eireann
+---
 2
 
 Councillor Ryan (Eddie), Councillor Carey and Councillor Teefy had also had meetings together with
@@ -83,4 +84,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

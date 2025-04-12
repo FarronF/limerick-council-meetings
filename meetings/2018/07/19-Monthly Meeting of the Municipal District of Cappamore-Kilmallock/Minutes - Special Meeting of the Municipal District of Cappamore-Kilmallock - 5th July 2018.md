@@ -52,7 +52,8 @@ The Members noted his particular interest in agricultural and farming matters an
 
 was a former Chairman of the old County Agricultural Committee, which he chaired with
 
-distinction. The Members also recalled his affinity to people who were marginalised in the---
+distinction. The Members also recalled his affinity to people who were marginalised in the
+---
 2
 
 Community whom he was a particularly strong advocate for. They also noted his fondness for
@@ -81,4 +82,5 @@ Cathaoirleach
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

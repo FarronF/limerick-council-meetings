@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-12-21 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-46)**
+**<a href="https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-46" target="_blank">Link to meeting</a>**

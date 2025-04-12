@@ -60,7 +60,8 @@ same. Members also noted the need for the Council to allocate a litter warden to
 
 for the period and the need to address the issue of unauthorised parking of caravans and
 
-unauthorised sites.---
+unauthorised sites.
+---
 2
 
 Chief Inspector Sheehan noted that Ballingarry Garda station, which had been closed for some
@@ -97,4 +98,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

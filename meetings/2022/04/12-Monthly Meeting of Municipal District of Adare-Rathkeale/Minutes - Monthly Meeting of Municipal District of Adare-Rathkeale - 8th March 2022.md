@@ -62,7 +62,8 @@ Seconded by Councillor Keary;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read, adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+---
 2
 
 **2.**
@@ -129,7 +130,8 @@ The report, as circulated, was noted by Members.
 
 The Cathoirleach welcomed the A/Senior Executive Engineer, Executive Engineer and
 
-Assistant Engineer, Mid West National Road Design Office to the Meeting.---
+Assistant Engineer, Mid West National Road Design Office to the Meeting.
+---
 3
 
 The Executive Engineer updated Members on the proposals for the N21 Coolanoran
@@ -202,7 +204,8 @@ The report, as circulated, was noted by Members.
 
 On the proposal of Councillor Teskey, seconded by Councillor Keary it was agreed to
 
-allocate €500 to Adare St. Patrick’s Day Parade.---
+allocate €500 to Adare St. Patrick’s Day Parade.
+---
 4
 
 On the proposal of Councillor O’Brien, seconded by Councillor Sheahan, it was agreed to
@@ -293,7 +296,8 @@ Vacant
 
 2
 
-Awaiting Minor Repairs---
+Awaiting Minor Repairs
+---
 5
 
 CROOM
@@ -404,7 +408,8 @@ media platforms to form part of the education curriculum.
 
 **audit on all water Hydrants that are in place to help our fire service access much**
 
-**needed water, within the inspection I am requesting 1. For a detailed map outlining**---
+**needed water, within the inspection I am requesting 1. For a detailed map outlining**
+---
 6
 
 **the exact location of all hydrants, 2. A survey to be carried out with regards to the**
@@ -471,4 +476,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

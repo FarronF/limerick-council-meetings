@@ -62,7 +62,8 @@ The Mayor said that he had only gotten to know Joe since he had been elected
 
 and that during that relatively short timeframe, he had found him to be a
 
-gentleman of the highest calibre. He added that he had taken his role of---
+gentleman of the highest calibre. He added that he had taken his role of
+---
 2
 
 Councillor very seriously and that he had been so proud to have been elected
@@ -133,7 +134,8 @@ delighted he was to be selected as Deputy Mayor of our first amalgamated Local
 
 Authority last June. This was truly a great honour for him and his family and a role
 
-he carried out with great respect and dignity.---
+he carried out with great respect and dignity.
+---
 3
 
 Recently, he had been telling me of his improved health following a near death
@@ -200,7 +202,8 @@ particular interest in ensuring the future of the Westfields Wetland natural
 
 beauty spot and had been the subject of much discussion at Meetings of the
 
-Metropolitan District – thanks to Joe.---
+Metropolitan District – thanks to Joe.
+---
 4
 
 He said the most important thing for Joe was his family, his wife, Christine,
@@ -265,7 +268,8 @@ politics, some others raised the question – was it not more people like Joe th
 
 were needed in politics. The Members said that Joe epitomised everything that
 
-was good in politics, he was devoid of ego and self-interest, he had as his main---
+was good in politics, he was devoid of ego and self-interest, he had as his main
+---
 5
 
 objective to look after his community. It was said that he was a man for all
@@ -312,4 +316,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -72,7 +72,8 @@ Chief Executive’s Draft Budget of Limerick City and County Council for year en
 
 December, 2018, the Draft Budget had been served in accordance with Section 103 of the
 
-Local Government Act, 2001, as amended by the Local Government Reform Act, 2014.---
+Local Government Act, 2001, as amended by the Local Government Reform Act, 2014.
+---
 2
 
 The Mayor then invited the Chief Executive to present an overview of the Draft Budget for
@@ -139,7 +140,8 @@ Office of Public Works.
 
 • Revitalise urban areas and villages through the dedicated resources of the Urban and
 
-Village Renewal Department.---
+Village Renewal Department.
+---
 3
 
 • Continue and, where possible, enhance programme of supports to communities.
@@ -198,7 +200,8 @@ Capital Budget as follow :
 
 • Recreation and Amenity, which included Hinterland Funding, Rural Development
 
-Programme and Town & Village Renewal Projects.---
+Programme and Town & Village Renewal Projects.
+---
 4
 
 In conclusion, the Chief Executive said the Draft 2018 Budget had been prepared with a
@@ -269,7 +272,8 @@ statutory compliance with a number of steps which can be summarised as follows:
 
 ***following a public consultation process.*** This decision was made at the Council Meeting on
 
-28th September.---
+28th September.
+---
 5
 
 ***Step 2 - Allocation of the General Municipal/ Metropolitan Allocation (GMA).The Draft*
@@ -342,7 +346,8 @@ expenditure necessary to carry out the functions of the Council and the income e
 
 accrue to the Council.
 
-The key objectives of the 2018 Budget are set out in the Table below:---
+The key objectives of the 2018 Budget are set out in the Table below:
+---
 6
 
 **National Economic Outlook**
@@ -17937,7 +17942,8 @@ To enhance rural development by continuing to invest in our infrastructure
 
 •
 
-Continue to seek efficiencies in service provision, cost reduction and value for money---
+Continue to seek efficiencies in service provision, cost reduction and value for money
+---
 7
 
 challenges and opportunities in the years ahead. From an economic perspective, the short-
@@ -18126,7 +18132,8 @@ implications for national fiscal policy - expenditure increases in the LA and ot
 
 with own resource income will have to be met by offsetting expenditure reductions in Voted
 
-expenditure to ensure compliance with fiscal rules---
+expenditure to ensure compliance with fiscal rules
+---
 8
 
 **Local Economic Outlook:**
@@ -18201,7 +18208,8 @@ revitalise the tourism industry, double the number of visitors, capture key oppo
 
 that exist for growth and highlight priority action areas to unlock the significant benefits
 
-that a thriving tourism industry can bring.---
+that a thriving tourism industry can bring.
+---
 9
 
 The renaissance has also been energised by the local authority’s determination to take
@@ -18272,7 +18280,8 @@ I have reviewed the up to date position and I am satisfied that every effort wil
 
 break-even on the Revenue Account for 2017; however there is pressure on a number of
 
-income heads and ongoing controls on expenditure are in place.---
+income heads and ongoing controls on expenditure are in place.
+---
 10
 
 The 2018 draft Budget reflects the need to continue a strong financial management ethos
@@ -18365,7 +18374,8 @@ H - Misc Services
 
 371,207,490
 
-**Table 2: Analysis of Expenditure by Division**---
+**Table 2: Analysis of Expenditure by Division**
+---
 The following chart gives a br
 
 **Chart 1: Anal**
@@ -32620,7 +32630,8 @@ t 2018 for each
 
 **€18.36**
 
-**P €402.5m)**---
+**P €402.5m)**
+---
 **Analysis of Income 2018**
 
 The level of expenditure sh
@@ -37945,7 +37956,8 @@ g HAP.
 
 **erty**
 
-**ial**---
+**ial**
+---
 76% of the Council's income
 
 Rates (35%), LPT (12%) and go
@@ -41773,7 +41785,8 @@ vided by the DHPLG
 
 **€162.00**
 
-**m**---
+**m**
+---
 14
 
 ***Limerick City and County Council - 2018 LPT Allocation***
@@ -41936,7 +41949,8 @@ resources for the delivery of the following services (compared to 10% LPT variat
 
 **(€394k)**
 
-**Table 5: Allocation of additional resources**---
+**Table 5: Allocation of additional resources**
+---
 15
 
 **Commercial Rates**
@@ -42019,7 +42033,8 @@ outlined below in ***Table 6***:
 
 €941k
 
-**Table 6: Allocation of additional resources from proposed 1.75% Commercial Rate increase**---
+**Table 6: Allocation of additional resources from proposed 1.75% Commercial Rate increase**
+---
 16
 
 ***Table 7*** below outlines the combined effect for 2018 of the LPT increase of 7.5% with
@@ -42172,7 +42187,8 @@ Article 29 of the Local Government (Financial & Audit Procedures) Regulations 20
 
 provides that the decision to alter the rate of refund should be decided at the statutory
 
-annual budget meeting and that the rate of refund decided in respect of the relevant local---
+annual budget meeting and that the rate of refund decided in respect of the relevant local
+---
 17
 
 electoral area shall apply to eligible persons for the year to which the budget relates. The
@@ -42247,7 +42263,8 @@ including arrears, for 2018 subject to the Scheme being approved by the Council.
 
 The Proposed Business & Retail Incentive Scheme for 2018 will continue to be available for
 
-businesses in all towns and villages across Limerick City and County Council. The scheme is---
+businesses in all towns and villages across Limerick City and County Council. The scheme is
+---
 18
 
 intended to address property vacancy rates, improve streetscapes and to support the
@@ -42344,7 +42361,8 @@ deliver on. ***To address this priority locally an Urban & Village Renewal Depar
 
 existing functions and staff with some targeted additional resources having regard to the
 
-need to deliver stronger results in this area. Under the operating model the relevant---
+need to deliver stronger results in this area. Under the operating model the relevant
+---
 19
 
 strategic directorate would be Economic Development and the relevant SPC - Economic
@@ -42427,7 +42445,8 @@ market we will launch a comprehensive advertisement campaign around this
 
 Apprenticeship Programme, to attract and train a new generation of craft workers within
 
-the Organisation.---
+the Organisation.
+---
 20
 
 The Council are mindful of our retired staff and those who plan to retire in the coming years.
@@ -42532,7 +42551,8 @@ thus consistency; all letters automated; reporting is standardised and automated
 
 **Number Receiving Pension**
 
-**Number Staff**---
+**Number Staff**
+---
 21
 
 for signed application form only. Future improvements will include grants applications
@@ -42609,7 +42629,8 @@ In accordance with Section 135 of the Local Government Act 2001, as amended the 
 
 Government Reform Act 2014, please find attached a report on the programme of capital
 
-projects proposed by Limerick City and County Council for the 3 years 2018 to 2020.---
+projects proposed by Limerick City and County Council for the 3 years 2018 to 2020.
+---
 22
 
 Given the fact that we are proposing allocations over 3 years, it would be unrealistic to
@@ -42728,7 +42749,8 @@ Budget as presented, the Members were required by law to consider the Budget. He
 
 that each division would be examined individually and Members would be afforded an
 
-opportunity to pose questions in relation to each division.---
+opportunity to pose questions in relation to each division.
+---
 23
 
 **Councillor Sheahan (J)**
@@ -42807,7 +42829,8 @@ He said Limerick was dealing with a hugely increased budget this year of €561.
 
 from €371 million last year. This was significant and indicated how well positioned the
 
-Council was in attracting businesses to locate and conduct their business in Limerick.---
+Council was in attracting businesses to locate and conduct their business in Limerick.
+---
 24
 
 Councillor Collins (M) said the investment loan of €85 million from the European Investment
@@ -42878,7 +42901,8 @@ Support Scheme payment of 4% for the coming year.
 
 He also welcomed the ambitious Capital Programme of €120 million for 2018 and referred,
 
-in particular, to a number of projects in the Municipal District of Newcastle West – Athletics---
+in particular, to a number of projects in the Municipal District of Newcastle West – Athletics
+---
 25
 
 Hub, Development of the Great Southern Greenway, Public Realm Renewal Plan for Glin,
@@ -42947,7 +42971,8 @@ budget book.
 
 He said the total estimated expenditure of €561 million was a very impressive amount that
 
-was only surpassed by Dublin City Council.---
+was only surpassed by Dublin City Council.
+---
 26
 
 He referred to the amount of €402 plus million that was allocated to HAP which, he said,
@@ -43018,7 +43043,8 @@ Economic Strategy Issues Paper for the Southern Region was stressed.
 
 be increased.
 
-• Could the process of getting voids back into use be accelerated.---
+• Could the process of getting voids back into use be accelerated.
+---
 27
 
 • Welcomed proposals for development of Tourism and Festivals.
@@ -43083,7 +43109,8 @@ On conclusion of debate on each of the Divisions, the Chief Executive clarified 
 
 for the Members in relation to what was before them at this point in the Meeting. He said
 
-there was a proposer and seconder to adopt the Budget as presented.---
+there was a proposer and seconder to adopt the Budget as presented.
+---
 28
 
 Councillor Sheahan (J) said the Fine Gael Party was opposed to the Budget as presented and
@@ -43136,7 +43163,8 @@ specified in the said Tables for the financial year ending on 31st December, 201
 
 accordance with Section 103 of the Local Government Act, 2001, as amended by the Local
 
-Government Reform Act, 2014.”---
+Government Reform Act, 2014.”
+---
 29
 
 Proposed by Councillor Collins (M);
@@ -43195,7 +43223,8 @@ Councillor Sheahan (J) stated that the Fine Gael Group would also be proposing a
 
 amendment to the Small and Medium Business Support Scheme. At this point, it was
 
-agreed to take a further adjournment of 10 minutes for them to consider their amendment.---
+agreed to take a further adjournment of 10 minutes for them to consider their amendment.
+---
 30
 
 On resumption, the following amendment to the Small and Medium Business Support
@@ -43250,7 +43279,8 @@ Councillors Browne, Butler, Costelloe, Daly, Galvin, Hogan, Hourigan, Hurley, Ke
 
 Leddin, McCreesh, McMahon, Mitchell, Cmhlr. Ó Ceallaigh, O’Donnell, Prendiville, Scanlan,
 
-Secas, Sheahan (J), Sheahan (M), Teskey. **(22)**---
+Secas, Sheahan (J), Sheahan (M), Teskey. **(22)**
+---
 31
 
 The Mayor declared the amendment proposed by Councillor Collins (M) and seconded by
@@ -43301,7 +43331,8 @@ And Resolved:
 
 by the Local Government Reform Act, 2014, subject to finances available, is adopted, as
 
-circulated. (Item 8 on Meeting agenda).”---
+circulated. (Item 8 on Meeting agenda).”
+---
 32
 
 In response to a query raised by Councillor Prendiville in relation to the Tourism Sector
@@ -43326,4 +43357,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -64,7 +64,8 @@ On resumption the Director General read of the following statement “*Following
 
 *and County Co**uncil’s Head of Marketing and Communication has moved to clarify comments*
 
-*made, by him, on Live95fm.*---
+*made, by him, on Live95fm.*
+---
 2
 
 *“Following on from today’s comments made by the elected Councillors of Limerick City and*
@@ -135,7 +136,8 @@ include:
 
  Housing Grants
 
- Homeless increased contribution---
+ Homeless increased contribution
+---
 3
 
  Local and Regional Roads own resources including public lighting
@@ -204,7 +206,8 @@ help small and local businesses.
 
 **circulated to Members, would be read into the Minutes of the Meeting as follows:**
 
-**“Introduction**---
+**“Introduction**
+---
 4
 
 The Draft Budget for the financial year ending 31st December 2025 has been prepared,
@@ -289,7 +292,8 @@ Councillors to be held on the 11th November and 22nd November.
 
 ***Metropolitan / Municipal Districts.*** These meetings will be convened in early 2025 following
 
-the adoption of the Budget.---
+the adoption of the Budget.
+---
 5
 
 ***Step 6 - Consideration and adoption of the Service Delivery Plan.***The 2025 Service Delivery
@@ -364,7 +368,8 @@ To fund increased demand, rising costs and the challenges of increasing pensions
 
 not being covered by corresponding increases in central government funding without
 
-imposing significant cuts in services year on year, the Budget seeks to maximise the available---
+imposing significant cuts in services year on year, the Budget seeks to maximise the available
+---
 6
 
 income base in order to fund the above additional resources. I am recommending the difficult
@@ -443,7 +448,8 @@ infrastructural deficits, including the shortfall of housing output relative to 
 
 Government is allocating €14.9 billion next year by way of (voted) capital expenditure, the
 
-highest level ever.---
+highest level ever.
+---
 7
 
 In parallel with voted expenditure, the Government is allocating €3 billion from the proceeds
@@ -524,7 +530,8 @@ For ***domestic demand***, incoming data are sending mixed signals. On the one h
 
 domestic economy has proven to be remarkably solid, evidenced by an unemployment rate
 
-that has stabilised at just over 4 per cent throughout this year. On the other hand, the level---
+that has stabilised at just over 4 per cent throughout this year. On the other hand, the level
+---
 8
 
 of Modified Domestic Demand (MDD) - a measure of the domestic economy - in the second
@@ -605,7 +612,8 @@ standards could be held-back in the years ahead.
 
 ***Table 1*** below outlines the main economic and fiscal variables underlying the Department of
 
-Finance's budget for 2025.---
+Finance's budget for 2025.
+---
 9
 
 *Variable - % change (unless*
@@ -822,7 +830,8 @@ level, and upon its completion in April 2025, will serve as a major employment h
 
 accommodating over 1,000 jobs. This project will contribute to the revitalising of the city
 
-centre with new business, retail, and leisure opportunities. In line with my commitment to---
+centre with new business, retail, and leisure opportunities. In line with my commitment to
+---
 10
 
 see enhanced connectivity and infrastructure, phase two of the Limerick to Foynes Rail Line
@@ -907,7 +916,8 @@ Office within the Council will ensure ongoing coordination and tracking of all i
 
 quarterly updates provided to maintain transparency and accountability. This office will work
 
-closely with the Mayoral Advisory and Implementation Committee, a newly established body---
+closely with the Mayoral Advisory and Implementation Committee, a newly established body
+---
 11
 
 that brings together representatives from public and private sectors, ensuring actions remain
@@ -942,7 +952,8 @@ Limerick) and Miscellaneous Provisions Act 2024, the Draft Budget is required to
 
 expenditure necessary to carry out the functions of the Council and the income estimated to
 
-accrue to the Council.---
+accrue to the Council.
+---
 12
 
 ***The Key Objectives of the 2025 Revenue Budget are set out below:***
@@ -1013,7 +1024,8 @@ and transitioning to a circular economy;
 
 Framework (NPF) and the development of Regional Land Use, Employment and Strategies with
 
-key partners and the Southern Regional Assembly.---
+key partners and the Southern Regional Assembly.
+---
 13
 
 ***The key objectives of the 2025 Revenue Budget are set out below:***
@@ -1170,7 +1182,8 @@ and Adare Heritage;
 
  Enhanced Support for our key existing and compelling new festivals and events including
 
-preliminary Ryder Cup plans;---
+preliminary Ryder Cup plans;
+---
 14
 
  Continue to maintain and market the 40km Limerick Greenway from Rathkeale to the Kerry
@@ -1229,7 +1242,8 @@ attractiveness of the city centre.
 
  Support the DEM and implementation of programme.
 
-**Continue to seek efficiencies in service provision, cost reduction and value for money**---
+**Continue to seek efficiencies in service provision, cost reduction and value for money**
+---
 15
 
 **Outturn 2024**
@@ -1334,7 +1348,8 @@ H - Misc Services
 
 **€942,789,672**
 
-**Table 2: Analysis of Expenditure by Division**---
+**Table 2: Analysis of Expenditure by Division**
+---
 16
 
 The following chart gives a breakdown of expenditure by each division.
@@ -1491,7 +1506,8 @@ Division, with comparative figures for 2024:
 
 **Analysis of Expenditure by Division**
 
-**(Excl HAP)**---
+**(Excl HAP)**
+---
 17
 
 **Analysis of Income 2025**
@@ -1574,7 +1590,8 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **23%**
 
-**Analysis of Income (excluding HAP)**---
+**Analysis of Income (excluding HAP)**
+---
 18
 
 56% of the Council's income (excluding HAP) is now generated locally through Commercial
@@ -1671,7 +1688,8 @@ Budget 2024).
 
 **Draft Budget 2025 €'m**
 
-**Adopted Budget 2024 €'m**---
+**Adopted Budget 2024 €'m**
+---
 19
 
 **Grants and Subsidies Income**
@@ -1746,7 +1764,8 @@ will not be adjusted if the basic rate of LPT is varied.
 
 Based on its shortfall position when expected 2025 LPT receipts are compared to the 2025
 
-Baseline, Limerick City & County Council will be in receipt of equalisation funding in 2025.---
+Baseline, Limerick City & County Council will be in receipt of equalisation funding in 2025.
+---
 20
 
 The Local Property Tax (Local Adjustment Factor) Regulations 2022 do not refer to yearly
@@ -1835,7 +1854,8 @@ to be approved at the local authority budget meeting. It is proposed to amend th
 
 so as to reward businesses moving into vacant premises more than those owning properties
 
-which remain vacant. This will be a first step in such a process which will be enhanced over---
+which remain vacant. This will be a first step in such a process which will be enhanced over
+---
 21
 
 my mayoral term. Therefore I am proposing that there would be no abatement of rates due
@@ -1916,7 +1936,8 @@ administered by the local authorities and fully funded by central Government. It
 
 of €170 million and is aimed at SMEs in the hospitality, retail and beauty sectors. This scheme
 
-builds on the success of the Increased Cost of Business Scheme (ICOB) which has paid €244---
+builds on the success of the Increased Cost of Business Scheme (ICOB) which has paid €244
+---
 22
 
 million to 75,000 businesses right across the country. The grant is available to qualifying
@@ -1991,7 +2012,8 @@ and improvement of laneways.
 
 centre to address issues of concern.
 
-**Climate Action**---
+**Climate Action**
+---
 23
 
 The Climate Action and Low Carbon Development (Amendment) Act 2021 provides that each
@@ -2054,7 +2076,8 @@ central management charges that will be recouped from Uisce Éireann**.** Materi
 
 equipment, services, plant hire and energy are now purchased through the Uisce Éireann
 
-procurement system and, therefore, no longer appears on the Council’s expenditure system.---
+procurement system and, therefore, no longer appears on the Council’s expenditure system.
+---
 24
 
 **Capital Budget 2025-2029**
@@ -2181,7 +2204,8 @@ Chart 6 profiles the Capital Expenditure for each of the five years:
 
 **Capital Expenditure 2025-2029 by Year**
 
-**€'m**---
+**€'m**
+---
 25
 
 **Conclusion**
@@ -2254,7 +2278,8 @@ confirmed that this concluded the review of all Divisions within the Revenue Acc
 
 Members would be afforded the opportunity for questions and answers in relation to each
 
-division.---
+division.
+---
 26
 
 **Councillor Sheahan**
@@ -2329,7 +2354,8 @@ he was pleased to see a focus on these areas, he expressed disappointment at the
 
 of our housing stock in the County, and hoped to see an improvement in the refurbishment
 
-of houses in 2025.---
+of houses in 2025.
+---
 27
 
 **Councillor Benson**
@@ -2398,7 +2424,8 @@ costs;
 
  Looked for more support for maintenance of burial grounds and particularly burial
 
-grounds where the access road is not owned by the Council;---
+grounds where the access road is not owned by the Council;
+---
 28
 
  Members questioned why the Council is responsible for Coroner fees;
@@ -2467,7 +2494,8 @@ Proposed by Councillor Sheahan;
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 29
 
 **THAT** the draft Annual Budget for the financial year ending 31st December, 2025, prepared
@@ -2538,7 +2566,8 @@ subject to the terms and conditions of the scheme:
 
 **Band**
 
-**% Refund**---
+**% Refund**
+---
 30
 
 Amend - Up to €3,000 Annual Rate Demand (with
@@ -2627,7 +2656,8 @@ D0905
 
 E1101
 
-300,000---
+300,000
+---
 31
 
 H0102
@@ -2690,4 +2720,5 @@ Signed:
 
 **Príomh Chomhairleoir**
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

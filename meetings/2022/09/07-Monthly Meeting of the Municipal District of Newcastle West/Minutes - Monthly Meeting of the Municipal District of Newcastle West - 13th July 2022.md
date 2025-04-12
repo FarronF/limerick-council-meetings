@@ -74,7 +74,8 @@ Seconded by: Councillor Ruddle
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 **(b)**
@@ -147,7 +148,8 @@ on a number of the units mentioned on the circulated report.
 
 The Members also sought an update on the unfinished housing estate at Cois na Féile,
 
-Abbeyfeale. In replying, the Administrative Officer, Housing Strategy outlined that they are---
+Abbeyfeale. In replying, the Administrative Officer, Housing Strategy outlined that they are
+---
 3
 
 due to meet the AHB next week to agree a schedule and that a new planning application is
@@ -226,7 +228,8 @@ On the proposal of Councillor Sheehan, seconded by Councillor Foley, it was agre
 
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
 
-€500 to Old Mill Development Association for a defibrillator.---
+€500 to Old Mill Development Association for a defibrillator.
+---
 4
 
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
@@ -303,7 +306,8 @@ Question submitted by Councillor T. Ruddle
 
 ***to Broadford village from Ashford side and the Dromcollogher side. Traffic approaches the***
 
-***village very quickly and this would help slow the traffic down.***---
+***village very quickly and this would help slow the traffic down.***
+---
 5
 
 REPLY:
@@ -374,7 +378,8 @@ REPLY:
 
 The NTA have just allocated €170,000 for the repair and upgrade of footpaths
 
-in Mountcollins and works will commence in the coming months.---
+in Mountcollins and works will commence in the coming months.
+---
 6
 
 NOTICES OF MOTION
@@ -437,7 +442,8 @@ fund the scheme.
 
 ***exiting the Woodfield Estates to the R522.***
 
-The Motion was seconded by Councillor Ruddle.---
+The Motion was seconded by Councillor Ruddle.
+---
 7
 
 REPLY:
@@ -510,7 +516,8 @@ District. Councillor Ruddle asked if a Dog Park would be more beneficial to the 
 
 town. A request was also made that consultation take place with the Working Group which
 
-has been established locally.---
+has been established locally.
+---
 8
 
 In replying, the Director acknowledged the need for an Arts Centre in Newcastle West and
@@ -585,7 +592,8 @@ forward.
 
 A request was made that the speed sensor on the Monegea road be moved closer to the
 
-speed limit sign.---
+speed limit sign.
+---
 9
 
 An update was sought on the application made to Transport Infrastructure Ireland for traffic
@@ -634,4 +642,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

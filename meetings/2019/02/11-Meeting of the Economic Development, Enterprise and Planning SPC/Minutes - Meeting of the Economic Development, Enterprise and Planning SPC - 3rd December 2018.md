@@ -100,7 +100,8 @@ Fund which was a great outcome for Limerick.
 
 In reply to queries regarding payment of contributions M. Woods, clarified what the
 
-development contribution scheme states in relation to change of use applications i.e.---
+development contribution scheme states in relation to change of use applications i.e.
+---
 ‘’where a contribution was paid previously for the existing use, the development shall
 
 be exempt from paying a contribution’ and in relation to replacement applications it
@@ -187,7 +188,8 @@ Failte Ireland Plans for 2019 include:
 
  4 Looped Drives
 
- 9 VEDPs---
+ 9 VEDPs
+---
  1,000 Business Supports
 
  500 Key account meetings
@@ -262,7 +264,8 @@ collaborate with the Sporting Limerick website and include content from the Spor
 
 Limerick website on the Limerick.ie platform in order to achieve the objective 3.0
 
-(unlocking the potential) of the above mentioned Action Plan.---
+(unlocking the potential) of the above mentioned Action Plan.
+---
 On the proposition of Cllr. O’Dea, seconded by Cllr. Eleanora Hogan it was
 
 unanimously agreed that the SPC recommend the adoption of the Final Draft
@@ -285,4 +288,5 @@ her major contribution to Limerick City and County Council over the years.
 
 **Councillor Vivienne Crowley**
 
-**Chairperson**---
+**Chairperson**
+---

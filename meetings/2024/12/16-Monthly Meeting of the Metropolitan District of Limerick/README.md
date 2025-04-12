@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-12-16 09:45:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-18)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-18" target="_blank">Link to meeting</a>**

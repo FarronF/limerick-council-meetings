@@ -60,7 +60,8 @@ Commemoration event will now be held in Ballingarry, Co. Tipperary.”
 
 Signed: Councillors R. O’Donoghue, E. Ryan, K. Sheahan, G. Mitchell, J. Scanlan, A.
 
-Teskey, M. Collins, C. McMahon.---
+Teskey, M. Collins, C. McMahon.
+---
 **2**
 
 Councillor O’Donoghue addressed the Meeting by stating that he was very
@@ -131,7 +132,8 @@ dated 23rd November, 2015, requesting a meeting with Council Officials and Knock
 
 Heritage Society in relation to the 2017 National Famine Commemoration. It was
 
-pointed out that this meeting had not taken place.---
+pointed out that this meeting had not taken place.
+---
 **3**
 
 The County and City Librarian then outlined the structures established to facilitate
@@ -188,4 +190,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

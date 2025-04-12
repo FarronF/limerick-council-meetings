@@ -68,7 +68,8 @@ Limerick Chamber and in relation to the hospitality strand of the Chamber highli
 
 of strategic action points which included :
 
- The representation of Limerick Chamber on key Council Committees to assist in driving the---
+ The representation of Limerick Chamber on key Council Committees to assist in driving the
+---
 2
 
 economic revitalisation of the city as a catalyst for the region.
@@ -151,7 +152,8 @@ their views in relation to a range of issues pertinent to the city.
 
  Suggestions in relation to the appointment of a city centre manager were positive but
 
-support staff would also be required.---
+support staff would also be required.
+---
 3
 
 In response to issues raised by Members, Dr. Ring made the following points :
@@ -228,7 +230,8 @@ In response to queries raised by Members in relation to the Cleeves Site, the Se
 
 noted that the main building, the chimney and a reservoir were listed and that other parts that
 
-merited conservation would be conserved.---
+merited conservation would be conserved.
+---
 4
 
 **4.**
@@ -323,7 +326,8 @@ of Environment, Community and Local Government that approval in principle has
 
 been granted for a new Central Library for Limerick under the new Library Capital
 
-Investment Programme 2016 – 2021.---
+Investment Programme 2016 – 2021.
+---
 5
 
 This decision now enables the Council to proceed to consider a concept design for
@@ -424,7 +428,8 @@ certified marathon, a half marathon and a 6 mile run/walk and relay marathon.
 
 7th May
 
-The University of Limerick Orchestra present their annual Summer Proms Concert---
+The University of Limerick Orchestra present their annual Summer Proms Concert
+---
 6
 
 under the baton of Conductor Liam Daly. The concert programme features Grieg’s
@@ -507,7 +512,8 @@ festival.
 
 ***arrangement so as to fast track the provision of social housing on suitably zoned land in the***
 
-***Council’s ownership.***---
+***Council’s ownership.***
+---
 7
 
 In proposing the motion Councillor Leddin noted that the process involved in the development
@@ -592,7 +598,8 @@ reduced the extent of demolition proposed in the 2008 Regeneration Masterplan.
 
 In line with the commitment in the LRFIP for monitoring and review of the
 
-programme, a review of the demolition and retention strategy took place in 2015.---
+programme, a review of the demolition and retention strategy took place in 2015.
+---
 8
 
 This review proposes further reduction in the overall number of houses to be
@@ -603,4 +610,5 @@ demolished and will be presented to the Elected Members at the next meeting.
 
 **MAYOR**
 
-**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

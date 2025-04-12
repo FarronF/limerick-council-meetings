@@ -76,7 +76,8 @@ along with further measures e.g. business stabilisation supports, business compe
 
 working capital loans with low interest rates and a range of stimulus measures to drive demand for
 
-products and services of firms.---
+products and services of firms.
+---
 He stated that Recovery Plans for SME’s will vary greatly between city and county and not keeping
 
 businesses alive will have major consequences in rural towns/villages.
@@ -149,4 +150,5 @@ That concluded the business of the meeting.
 
 **CLLR. EDDIE RYAN,**
 
-**CHAIRMAN**---
+**CHAIRMAN**
+---

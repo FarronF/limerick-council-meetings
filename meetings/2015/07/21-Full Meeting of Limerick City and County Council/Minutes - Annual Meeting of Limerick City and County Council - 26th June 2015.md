@@ -66,7 +66,8 @@ follows:
 
 **borrowing the Chain of Office, there is always somebody going to wear it after you so I**
 
-**wore it with immense pride and honour throughout my term.**---
+**wore it with immense pride and honour throughout my term.**
+---
 2
 
 **The Deputy Mayor and my fellow Councillors were always available and an excellent**
@@ -135,7 +136,8 @@ follows:
 
 **provides a service to assist retired Irish emigrants in London to re-settle in Ireland.**
 
-**I made five overseas visits during the year which I believe all reaped benefits for Limerick.**---
+**I made five overseas visits during the year which I believe all reaped benefits for Limerick.**
+---
 3
 
 **One was to the UK to meet with the wonderful staff of the Aisling Project who I**
@@ -218,7 +220,8 @@ follows:
 
 **hugely important area for the University which wants to grow and develop its**
 
-**international student numbers.**---
+**international student numbers.**
+---
 4
 
 **I have very strong views that we should cultivate and foster our links in various parts of**
@@ -293,7 +296,8 @@ follows:
 
 **There are many challenges going forward for all of us. We should face these challenges**
 
-**with a united front in the best interests of all the people of Limerick.**---
+**with a united front in the best interests of all the people of Limerick.**
+---
 5
 
 **We are one year into the reform programme for Limerick City and County Council and a**
@@ -362,7 +366,8 @@ County of Limerick for the coming year.
 
 **“That, Councillor John Loftus** ***be appointed Mayor of the City and County of Limerick to hold***
 
-***office to the next Annual Meeting or until his successor is appointed.”***---
+***office to the next Annual Meeting or until his successor is appointed.”***
+---
 6
 
 A vote was taken which resulted as follows:
@@ -429,7 +434,8 @@ Each of them had supported him in different ways throughout his life and he wish
 
 to publicly thank them for that support. He gave a special mention to his wife saying
 
-that, as everybody was well aware, the role of a Public Representative was not---
+that, as everybody was well aware, the role of a Public Representative was not
+---
 7
 
 confined to 9 to 5, Monday to Friday. To be an effective Councillor, one had to be
@@ -498,7 +504,8 @@ Mountcollins, Tournafulla and Templeglantine. He was extremely proud of where he
 
 came from and he now fervently hoped that his home place would be equally proud
 
-of him in his role as Mayor.---
+of him in his role as Mayor.
+---
 8
 
 He had referred earlier to his upbringing at home in Ballaugh, mentioning the values
@@ -575,7 +582,8 @@ Táim ag tnúth go mór le mo dhícheall a dhéanamh -
 
 i rith na bliana seo chugainn -
 
-ar son Cathair agus Chontae Luimnigh.---
+ar son Cathair agus Chontae Luimnigh.
+---
 9
 
 2.
@@ -628,7 +636,8 @@ Councillors Browne, McCreesh, McMahon, Ó Ceallaigh, Quinlivan, Sheehy. **(6)**
 
 For Councillor Keller
 
-Councillors Keller, Loftus, Prendiville. **(3)**---
+Councillors Keller, Loftus, Prendiville. **(3)**
+---
 10
 
 The Mayor declared Councillor Mitchell elected as Deputy Mayor of the City and
@@ -697,7 +706,8 @@ breadth of Limerick. With the support of the Council Executive, it was up to
 
 Councillors to deliver for the citizens of Limerick. In his role as Deputy Mayor, he
 
-looked forward to playing his part in this process.---
+looked forward to playing his part in this process.
+---
 11
 
 3.
@@ -784,7 +794,8 @@ something new and that that position had proved no less challenging. Councillor
 
 Sheahan (K) had himself identified the many highlights of a long year – a year of
 
-learning for the new organisation. The Chief Executive said he had found him to be---
+learning for the new organisation. The Chief Executive said he had found him to be
+---
 12
 
 most supportive of himself and the staff in rolling out many programmes. As Mayor,
@@ -827,4 +838,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

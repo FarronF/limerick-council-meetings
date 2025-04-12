@@ -80,7 +80,8 @@ children they support and their extended families. Located at the Park Point on 
 
 Road, he added that it would also be available to other users and is the first initiative of its
 
-kind in the country.---
+kind in the country.
+---
 The Chairperson endorsed the project and commended the foundation for all the good work
 
 they have done to date. He also expressed thanks to Cllr Secas for organising this very
@@ -167,7 +168,8 @@ Broadford is a good example. She suggested we should be looking at revitalising 
 
 buildings in rural villages and towns and that the needs of our aging population should be
 
-factored in to all plans, city and county alike.---
+factored in to all plans, city and county alike.
+---
 Ms. Vaughan Mullane pointed out that every small derelict building is used abroad. She
 
 asked how can we do this in Ireland? We need a town Mayor or Co-ordinator to drive this,
@@ -220,4 +222,5 @@ Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

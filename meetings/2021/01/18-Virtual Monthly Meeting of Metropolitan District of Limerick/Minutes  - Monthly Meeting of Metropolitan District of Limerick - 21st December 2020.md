@@ -66,7 +66,8 @@ setting out proposals to dispose of the Freehold Interest of premises situate at
 
 Park Upper, Limerick and the intention to bring a Section 183 Notice to Full Council in this
 
-regard, for approval.---
+regard, for approval.
+---
 2
 
 The report, as circulated, was noted by Members.
@@ -137,7 +138,8 @@ sent to the Department of Rural and Community Development in October 2020 in rel
 
 qualifying criteria under the Local Improvement Scheme had been received and he would arrange
 
-to circulate this to Members.---
+to circulate this to Members.
+---
 3
 
 **QUESTIONS**
@@ -220,7 +222,8 @@ Since the creation of the post of City Centre Revitalisation Officer (CCRO) in M
 
 has taken place. A key objective of the CCRO is to work with the business community
 
-to increase footfall in the city centre.---
+to increase footfall in the city centre.
+---
 4
 
 In June 2020 the Council launched its Shop Limerick Campaign to assist businesses
@@ -303,7 +306,8 @@ attended by the Conservation Officer, Fire Officer,  Area Planner as well as rel
 
 from the Urban Innovation Department. These are held every 2 weeks on an
 
-appointment basis.---
+appointment basis.
+---
 5
 
 To date a total of 40 applications have been received for residential development under the
@@ -382,7 +386,8 @@ We will keep the area Councilor’s informed of progress in relation to the hous
 
 At present, the detailed capital appraisal for the projects is being prepared for submission
 
-to the Department.---
+to the Department.
+---
 6
 
 **8.Question submitted by Councillor C. Slattery**
@@ -453,7 +458,8 @@ the criteria considered are:
 
 ***I will ask at the next meeting the capacity for bike parking on the newly installed bike stands on***
 
-***Parnell Street and the reason behind this number of bike stands on this street.***---
+***Parnell Street and the reason behind this number of bike stands on this street.***
+---
 7
 
 **REPLY:**The location and number of cycle stands installed as part of the Parnell Street
@@ -536,7 +542,8 @@ awareness and respect for others.
 
 Notwithstanding this where (as is the case in most city centre facilities) full segregation of
 
-cycle facilities is not required or practical we will continue to consider any measures that---
+cycle facilities is not required or practical we will continue to consider any measures that
+---
 8
 
 assist in highlighting such facilities in particular where strict regulatory enforcement is
@@ -599,7 +606,8 @@ A total of 345 Spot Fines have been issued to date in 2020.
 
 The Council initiated 56 Prosecutions in 2019.
 
-A total of 27 Prosecutions have been initiated to date in 2020.---
+A total of 27 Prosecutions have been initiated to date in 2020.
+---
 9
 
 **NOTICES OF MOTION**
@@ -668,7 +676,8 @@ In proposing the motion, Councillor O’Sullivan highlighted the concerns of con
 
 to the delay in the commencement of the Coonagh to Knockalisheen Section of this project. The
 
-community of Moyross in particular are frustrated at the thirteen year wait for the project.---
+community of Moyross in particular are frustrated at the thirteen year wait for the project.
+---
 10
 
 In seconding the motion, Councillor Benson outlined the importance of this project to the
@@ -739,7 +748,8 @@ to the Local Electoral Area Briefings.
 
 ***by this Act. We reiterate our support for the Good Friday Agreement and the political process***
 
-***arising from it, including the revoking of the Government of Ireland Act. We reaffirm our support***---
+***arising from it, including the revoking of the Government of Ireland Act. We reaffirm our support***
+---
 11
 
 ***for the self-determination of the people of Ireland as expressed in Article 3.1 of Bunreacht na***
@@ -812,7 +822,8 @@ consultancy services for this CFRAMS project is currently underway.
 
 **25.Notice of Motion submitted by Councillor J. Costelloe**
 
-***I will move at the next Meeting that the Council fast track the demolition of a number of***---
+***I will move at the next Meeting that the Council fast track the demolition of a number of***
+---
 12
 
 ***properties in St. Marys Park given that the issues of safety and ASB are of serious concerns to the***
@@ -877,4 +888,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

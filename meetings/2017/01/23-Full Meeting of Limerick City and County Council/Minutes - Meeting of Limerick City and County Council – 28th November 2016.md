@@ -78,7 +78,8 @@ Seconded by Councillor Ryan;
 
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”---
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+---
 2
 
 With the permission of the Mayor, the following items were raised:
@@ -153,7 +154,8 @@ It was agreed to adjourn the Meeting for 10 minutes to allow the group to meet w
 
 Members. It was further agreed that staff would leave the Chamber and that any
 
-Member who wished to meet the group would remain.---
+Member who wished to meet the group would remain.
+---
 3
 
 On resumption of the Meeting, the Mayor proceeded to Item No. 2 on the Agenda.
@@ -230,7 +232,8 @@ contained in Statutory Notice dated 4th November, 2016.”
 
 Circulated, copy of Statutory Notice dated 16th November, 2016, concerning disposal
 
-of land at Dooradoyle, Co. Limerick.---
+of land at Dooradoyle, Co. Limerick.
+---
 4
 
 Proposed by Councillor Sheahan (J);
@@ -299,7 +302,8 @@ Circulated, Chief Executive’s Reports for the months of September and October
 
 2016.
 
-The Chief Executive’s Reports were noted by the Members.---
+The Chief Executive’s Reports were noted by the Members.
+---
 5
 
 (c)
@@ -370,7 +374,8 @@ Circulated, Chairperson’s report – Environment Strategic Policy Committee Me
 
 held on 24th October, 2016.
 
-The report was noted by the Council.---
+The report was noted by the Council.
+---
 6
 
 (iii)
@@ -447,7 +452,8 @@ Proposed Visit to New York
 
 Circulated, report of the Senior Executive Officer, Corporate Services, dated 22nd
 
-November, 2016.---
+November, 2016.
+---
 7
 
 Councillor Keller queried the necessity to send the Mayor and three Members on the
@@ -520,7 +526,8 @@ presentation, summarised as follows, on the Winter Maintenance Plan for 2016-201
 
 • Level of service.
 
-• Delivery of winter services on priority routes.---
+• Delivery of winter services on priority routes.
+---
 8
 
 • Resources.
@@ -587,7 +594,8 @@ Proposed by Councillor Foley;
 
 Seconded by Councillor Leddin;
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, the Fire and Emergency Operations Plan, as circulated, be and is hereby
@@ -662,7 +670,8 @@ IBM Smarter Cities Challenge Report
 
 Circulated, report of the Deputy Chief Executive/Director, Economic Development,
 
-dated 18th November, 2016.---
+dated 18th November, 2016.
+---
 10
 
 Proposed by Councillor Hourigan;
@@ -729,7 +738,8 @@ Committee in relation to Culture and Arts would be established and that the Part
 
 would agree number of Members on the Committee and that a list of names would be
 
-brought before the January Meeting of the Council for approval.---
+brought before the January Meeting of the Council for approval.
+---
 11
 
 10.
@@ -800,7 +810,8 @@ Circulated, reports by Members who had participated at Conference/ Seminar/
 
 Meeting/Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 12
 
 QUESTIONS
@@ -899,7 +910,8 @@ In terms of the management of Housing Maintenance expenditure, the
 
 budgets are divided by Divisions.
 
-Reactive Repairs Non-Pay Investment – Houses Only---
+Reactive Repairs Non-Pay Investment – Houses Only
+---
 13
 
 Area
@@ -1070,7 +1082,8 @@ housing
 
 maintenance,
 
-traveller---
+traveller
+---
 14
 
 accommodation, maintenance of parks, open spaces and cemeteries and is the
@@ -1143,7 +1156,8 @@ I will move at the next Meeting that, in future, (a) planning grants require ful
 
 backed Bonding where multiple housing developments are approved and (b) a fee be
 
-introduced to recover the cost of reprocessing invalid planning applications.---
+introduced to recover the cost of reprocessing invalid planning applications.
+---
 15
 
 It was agreed to refer this Motion to the Economic Development, Enterprise and
@@ -1214,7 +1228,8 @@ care to a property as both a landlord and a tenant.
 
 It was agreed to refer this Motion to the Home and Social Development Strategic
 
-Policy Committee.---
+Policy Committee.
+---
 16
 
 20.
@@ -1281,7 +1296,8 @@ Committee.
 
 Correspondence
 
-The Correspondence circulated with the agenda was taken as read.---
+The Correspondence circulated with the agenda was taken as read.
+---
 17
 
 Proposed Development at Ardagh
@@ -1318,4 +1334,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

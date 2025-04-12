@@ -68,7 +68,8 @@ hold office until the next Annual Meeting or until a successor has been appointe
 
 Proposed by Councillor S. Hartigan;
 
-Seconded by Councillor S. Benson;---
+Seconded by Councillor S. Benson;
+---
 2
 
 “That Councillor Saša Novak Uí Chonchúir be appointed Cathaoirleach of the Metropolitan District
@@ -149,7 +150,8 @@ Councillor Kiely then addressed the Chamber:
 
 *Limerick city community radio , one of my first achievements after my election was finding the*
 
-*station their home in Tait place with the help of the executive. I got so much from my time with them*---
+*station their home in Tait place with the help of the executive. I got so much from my time with them*
+---
 3
 
 *I would encourage anyone with free time to give it ago, radio is part of who we are and is a very*
@@ -284,7 +286,8 @@ Councillor Kiely then addressed the Chamber:
 
 *Ar aghaidh linn Le Cheile . Ill leave you with this quote for consideration ,*
 
-*“I have never in my life learned anything from someone who agreed with me “* *(Dudley Field Malone)*---
+*“I have never in my life learned anything from someone who agreed with me “* *(Dudley Field Malone)*
+---
 4
 
 *Go raibh Maith agaibh*
@@ -345,7 +348,8 @@ Councillor McSweeney then addressed the Chamber:
 
 *most importantly the people of Limerick City West who put their faith in me in May 2019 and elected*
 
-*me to Limerick City and County Council.*---
+*me to Limerick City and County Council.*
+---
 5
 
 *Due to the ongoing Covid-19 Pandemic we as a city are going to the face the biggest challenges we*
@@ -390,4 +394,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

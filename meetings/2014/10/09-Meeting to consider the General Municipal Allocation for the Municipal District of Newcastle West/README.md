@@ -4,4 +4,4 @@
 
 **Date and Time:** 2014-10-09 12:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-general-municipal-allocation-municipal-district-newcastle-west-1)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-consider-general-municipal-allocation-municipal-district-newcastle-west-1" target="_blank">Link to meeting</a>**

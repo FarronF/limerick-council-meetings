@@ -62,7 +62,8 @@ and proposed the Chairman of the Adare Rathkeale Municipal District liaise with 
 
 Mayor to commemorate this event. This proposal was seconded by Councillor Sheahan
 
-and agreed.---
+and agreed.
+---
 2
 
 Councillor Sheahan proposed a representative of Irish Water be in attendance for the
@@ -131,7 +132,8 @@ Circulated, report of the Senior Executive Engineer, Service Operations West Div
 
 dated 10th November, 2020 outlining details of works, projects and future projects
 
-planned for the District.---
+planned for the District.
+---
 3
 
 Following discussion the following issues were raised by Members:
@@ -204,7 +206,8 @@ The Senior Executive Engineer advised that lands and funding have been provided 
 
 the walkway/eco park and works should proceed for this aspect of the project at the
 
-present time. Members were in agreement these works should commence, however,---
+present time. Members were in agreement these works should commence, however,
+---
 4
 
 Councillor O’Brien noted that the Special Meeting should also go ahead as he wanted
@@ -267,7 +270,8 @@ GMA funding available.
 
 On the proposal of Councillor Sheahan, seconded by Councillor Teskey, it was agreed to
 
-allocate €2,000 for Christmas Crib in the Adare-Rathkeale Municipal District Office.---
+allocate €2,000 for Christmas Crib in the Adare-Rathkeale Municipal District Office.
+---
 5
 
 **QUESTIONS**
@@ -332,7 +336,8 @@ Proposed by Councillor Collins;
 
 Seconded by Councillor Teskey;
 
-And Resolved:---
+And Resolved:
+---
 6
 
 “To amend Standing Orders to allow for remote meetings in light of Local Government
@@ -363,4 +368,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -82,7 +82,8 @@ The Chair thanked Mr. Brady for his presentation and acknowledged the work and
 
 commitment in his role and that there was no better person to take on this role. He is looking
 
-forward to an exciting year and felt it is a great occasion for the country.---
+forward to an exciting year and felt it is a great occasion for the country.
+---
 Cllr. M. Hourigan queried how existing families will get involved. Mr. Brady informed the
 
 committee that Catriona Crowe is involved in a genealogy project where she is researching
@@ -161,7 +162,8 @@ SIPTU always hold their Limerick meetings in one of these hotels. She is looking
 
 committee’s endorsement of the campaign.
 
-The Chair thanked all involved in this very important work.---
+The Chair thanked all involved in this very important work.
+---
 A discussion was had amongst the members regarding issues concerning employees with
 
 their employment rights, how to join unions and work permits. It was felt that this is
@@ -232,11 +234,13 @@ in the amount of €251,000.
 
 The Chair thanked everyone for attending and for giving their time to all the speakers at the
 
-meeting.---
+meeting.
+---
 Minutes Proposed By:
 
 Minutes Seconded By:
 
 Minutes Signed By Chair:
 
-Date:---
+Date:
+---

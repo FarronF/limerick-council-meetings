@@ -60,7 +60,8 @@ Minister for State with responsibility for Planning and Local Government, Peter 
 
 Clarification was received that it was proposed that John Kiely be invited to a Civic
 
-Reception with the Municipal District once restrictions are removed.---
+Reception with the Municipal District once restrictions are removed.
+---
 2
 
 Thanks was extended to the staff of the Area office for corresponding with Irish Water and
@@ -125,7 +126,8 @@ Municipal District may, by Resolution, for which at least one half of the total 
 
 Members of the District votes in favour, amend or revoke Standing Orders and make new
 
-Standing Orders.”---
+Standing Orders.”
+---
 3
 
 3. Corporate Services
@@ -184,7 +186,8 @@ regular basis and responds to all incidents of illegal dumping. It is the policy
 
 vigorous enforcement action in respect of all such incidents. The Council also has a dedicated
 
-commercial waste team who investigate suspected incidents of commercial waste dumping e.g.---
+commercial waste team who investigate suspected incidents of commercial waste dumping e.g.
+---
 4
 
 "construction and demolition" waste regardless of the location, and who likewise, will instigate
@@ -255,7 +258,8 @@ traffic passing through and coming to the town and improve the safety of vehicle
 
 pedestrians and road users.
 
-**Proposed by: Councillor Mitchell**---
+**Proposed by: Councillor Mitchell**
+---
 5
 
 **Seconded by: Councillor E Ryan**
@@ -318,7 +322,8 @@ currently how many applications are on the waiting list awaiting funding.
 
 The allocation for the Cappamore Kilmallock Municipal District for the Housing adaptation
 
-grant for private homeowners is €601297.75.---
+grant for private homeowners is €601297.75.
+---
 6
 
 We have 27 applications on the waiting list which are comprised of applications that have
@@ -391,7 +396,8 @@ hold an oral hearing to hear objections to the compulsory purchase order on the 
 
 2021 which will be heard virtually via MS Teams. Following the oral hearing, we will await
 
-the decision of An Bord Pleanála to either confirm or annul the compulsory purchase order.---
+the decision of An Bord Pleanála to either confirm or annul the compulsory purchase order.
+---
 7
 
 12.
@@ -462,7 +468,8 @@ on works planned for the R512/L1502 junction at Holycross and when is the planne
 
 commencement date.
 
-**REPLY:**---
+**REPLY:**
+---
 8
 
 The Municipal District Engineering Staff is currently revising the previous drawings that
@@ -535,7 +542,8 @@ these locations. We will review both locations and revert at the April meeting. 
 
 that the public lighting section does not have any funding currently allocated in the budget for
 
-the provision of new lighting.---
+the provision of new lighting.
+---
 9
 
 18.
@@ -590,4 +598,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cathaoirleach---
+Cathaoirleach
+---

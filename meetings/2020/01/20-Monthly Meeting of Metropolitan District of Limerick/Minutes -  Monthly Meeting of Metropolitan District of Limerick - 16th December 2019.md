@@ -62,7 +62,8 @@ Sympathy was also extended to the following staff members on their recent bereav
 
  Maria Woods on the passing of her mother, Maureen Woods.
 
-Members observed a minutes silence in their memory.---
+Members observed a minutes silence in their memory.
+---
 2
 
 (b)
@@ -153,7 +154,8 @@ December, 2019 seeking approval to the taking in charge of the following estates
 
 **Beechfield, Monaleen**
 
-**Cherryfield, Monaleen**---
+**Cherryfield, Monaleen**
+---
 3
 
 **Oakfield, Monaleen**
@@ -234,7 +236,8 @@ Co. Limerick. The report had been prepared in accordance with Section 179 3(a) o
 
 and Development Act, 2000 (as amended) and Part 8 of the Planning and Development
 
-Regulations, 2001 (as amended) and noted that it was proposed to proceed in accordance with---
+Regulations, 2001 (as amended) and noted that it was proposed to proceed in accordance with
+---
 4
 
 Section 5 of the report.
@@ -315,7 +318,8 @@ for response. Please see response below from Irish Water.
 
 We understand that TII will be installing and implementing the speed limits on this
 
-section of roadway, in accordance with County Limerick Road Traffic Special Speed---
+section of roadway, in accordance with County Limerick Road Traffic Special Speed
+---
 5
 
 Limit Byelaws 2019 in the first quarter of 2020.
@@ -402,7 +406,8 @@ the Service could not be extended given the constraints of the build in terms of
 
 capacity for a communal living environment. However, the Drop In Centre is
 
-currently operating extended day service into the evening. Further Day Services are---
+currently operating extended day service into the evening. Further Day Services are
+---
 6
 
 available in terms of the HSE Health Supports e.g. GP, Addiction Support, PHN,
@@ -531,7 +536,8 @@ Families
 
 62
 
-80---
+80
+---
 7
 
 Accommodation
@@ -630,7 +636,8 @@ agenda. The Meetings Administrator outlined the process to the Members. The Meet
 
 Administrator also confirmed that Officials are requested to attend the meeting where there is a
 
-Notice of Motion relevant to their Directorate for discussion on the agenda.---
+Notice of Motion relevant to their Directorate for discussion on the agenda.
+---
 8
 
 The Director, Service Operations confirmed to Members that a briefing will be arranged to discuss
@@ -721,7 +728,8 @@ accordance with the Allocations Scheme as adopted by the Elected
 
 Members.  Limerick City and County Council do not operate a placement system on
 
-the Housing Waiting List. Housing Applications are assessed in line with the Social---
+the Housing Waiting List. Housing Applications are assessed in line with the Social
+---
 9
 
 Housing Assessment Regulations 2011 (SI84/2011), Priority (Medical, Homeless,
@@ -802,7 +810,8 @@ Councillor Butler took the Chair as the Cathaoirleach had to leave the meeting f
 
 ***SMEs who can show they cannot afford to pay the living wage.***
 
-The motion was proposed by Councillor Costelloe, seconded by Councillor Benson and agreed.---
+The motion was proposed by Councillor Costelloe, seconded by Councillor Benson and agreed.
+---
 10
 
 In proposing the motion, Councillor Costelloe referred to the huge contribution that low paid
@@ -883,7 +892,8 @@ received no objection. Councillor Kiely confirmed that the School Warden operate
 
 location therefore the extinguishment of pedestrian right of way would not impact on their job.
 
-This was seconded by Councillor Sheahan and agreed.---
+This was seconded by Councillor Sheahan and agreed.
+---
 11
 
 **REPLY:**
@@ -968,7 +978,8 @@ Councillor O’Dea, seconded by Councillor Butler, and agreed.
 
 **That we request the Chief Executive to reach out to the various stakeholders (e.g. our**
 
-**footballing fraternity, the Markets Field Stadium and local businesses) and immediately**---
+**footballing fraternity, the Markets Field Stadium and local businesses) and immediately**
+---
 12
 
 **convene a Task Force in order to achieve the above goal.**
@@ -993,4 +1004,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

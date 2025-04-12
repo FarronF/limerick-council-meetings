@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-04-18 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-13)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-13" target="_blank">Link to meeting</a>**

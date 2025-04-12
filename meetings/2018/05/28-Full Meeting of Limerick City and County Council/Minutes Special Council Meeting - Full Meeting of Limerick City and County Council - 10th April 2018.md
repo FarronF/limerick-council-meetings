@@ -64,7 +64,8 @@ item was initially discussed, the Meetings Administrator had referred to corresp
 
 received from the Mayor disclosing an interest in this matter. In accordance with Section 177
 
-of the Local Government Act, 2001, as amended, and the Code of Conduct for Councillors, the---
+of the Local Government Act, 2001, as amended, and the Code of Conduct for Councillors, the
+---
 2
 
 Mayor would therefore be exempting himself from the Special Meeting and the Deputy
@@ -129,4 +130,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

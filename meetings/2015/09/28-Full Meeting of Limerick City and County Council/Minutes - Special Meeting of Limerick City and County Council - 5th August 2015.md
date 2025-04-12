@@ -70,7 +70,8 @@ with proposal agreed at Meeting of the Municipal District of Adare-Rathkeale hel
 
 14th July, 2015, with all costs associated with the disposal to be borne by Limerick
 
-Community Games.”---
+Community Games.”
+---
 2
 
 2.
@@ -137,7 +138,8 @@ affected by these proposals were aware of same.
 
 • A high level of lead was discharged from local mining into the Parteen Basin, which
 
-should be taken into consideration in relation to that option.---
+should be taken into consideration in relation to that option.
+---
 3
 
 • What effect would the abstraction of water from the Shannon have on:
@@ -186,4 +188,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -70,7 +70,8 @@ airports (state and private) of less than 3 million passengers
 
 While members thanked Dr. Cahill for a very comprehensive presentation, they expressed
 
-concern over the lack of funding available to Shannon Airport and that National Aviation---
+concern over the lack of funding available to Shannon Airport and that National Aviation
+---
 Policy was in direct contradiction with Project Ireland 2040-balanced regional growth.
 
 Replying to members, Dr. Cahill stated that the omission of financial support for Shannon
@@ -143,7 +144,8 @@ film service. He stated that, as it is a new industry, they are reliant on attra
 
 skills. He also stated that they are currently establishing a Mid-West Film Education and
 
-Training group to develop a supply of skilled people locally to work for future productions.---
+Training group to develop a supply of skilled people locally to work for future productions.
+---
 Members congratulated him on the success of Troy Studios and stated that it was a great
 
 vote of confidence having a film studio in Limerick.
@@ -198,4 +200,5 @@ That concluded the business of the meeting.
 
 **Councillor Eddie Ryan,**
 
-**Chairperson**---
+**Chairperson**
+---

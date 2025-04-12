@@ -66,7 +66,8 @@ And Resolved
 
 The Chief Superintendent gave a brief introduction and listed the changes in the various Garda Stations. He
 
-also outlined the current staffing levels within the Limerick Division and District.---
+also outlined the current staffing levels within the Limerick Division and District.
+---
 Ms. L. Breen then gave a presentation on the latest crime statistics for Limerick City and County under the
 
 following headings :
@@ -157,7 +158,8 @@ these are being dealt with at District Court level. There are alot of juveniles 
 
 He pointed out, however, that some shops do not make a complaint and do not follow up on CCTV
 
-cameras.---
+cameras.
+---
 
 
 The Superintendent stated that in a recent survey Limerick had the highest record of Insurance
@@ -238,7 +240,8 @@ number were removed from national routes.
 
 The Chief Superintendent stated that there are not enough resources available to have community police
 
-full time in county areas, it will be based on level of crime in the areas.---
+full time in county areas, it will be based on level of crime in the areas.
+---
 4. TO RECEIVE PRESENTATION FROM MR. WILLIAM PRIESTLEY ON THE
 
 SOCIAL ISSUES BEHIND DRUGS
@@ -309,7 +312,8 @@ is compulsory to have one public meeting per year.
 
 It was unanimously agreed to hold this public meeting in the Council Chamber, Dooradoyle, on Monday,
 
-10th December, 2018 at 7.00 p.m.---
+10th December, 2018 at 7.00 p.m.
+---
 Members asked that heretofore, if the Chief Executive is unable to attend JPC Meetings, then Deputy Chief
 
 Executive or a Director of Service attend meetings.
@@ -322,4 +326,5 @@ Signed : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Cathaoirleach
 
-Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

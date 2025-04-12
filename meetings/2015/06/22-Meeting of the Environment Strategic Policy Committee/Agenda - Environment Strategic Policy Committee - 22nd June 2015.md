@@ -56,4 +56,5 @@ hereby invited to attend.
 
 **6.To consider draft Standing Orders for SPC’s**
 
-7. **Any Other Business.**---
+7. **Any Other Business.**
+---

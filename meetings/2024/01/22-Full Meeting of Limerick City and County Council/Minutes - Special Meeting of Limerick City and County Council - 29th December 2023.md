@@ -54,7 +54,8 @@ They recalled his work with not only Treaty 300, but also his involvement on Lim
 
 VEC, the Harbour Commissioners and the Mid-Western Health Board, which highlighted his
 
-diverse range of interests, all with the common theme of making Limerick City a better place.---
+diverse range of interests, all with the common theme of making Limerick City a better place.
+---
 2
 
 Members remembered him as someone with a great sense of humour who was passionate
@@ -83,4 +84,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -74,7 +74,8 @@ Councillor Kieran O’Hanlon and the O’Connor Family, Keating Street, Limerick
 
 the death of Councillor O’Hanlon’s sister, Veronica (Ronnie) O’Connor. It was
 
-unanimously agreed to observe a minute’s silence as a mark of respect.---
+unanimously agreed to observe a minute’s silence as a mark of respect.
+---
 2
 
 1.
@@ -155,7 +156,8 @@ enhance the profile of Ireland, promote the destination for tourism and to furth
 
 build on the current relationships which existed with diaspora contacts in Britain.
 
-The estimated cost of the trip was €750.00.---
+The estimated cost of the trip was €750.00.
+---
 3
 
 Proposed by Councillor Sheahan (J);
@@ -222,7 +224,8 @@ Statutory Budget Meeting on Friday, 20th November, 2015, at 10am.
 
 Workshop on Monday, 19th October, 2015, at 12.30pm.
 
-GMA Budget Meeting on Monday, 19th October, 2015, at 2.30pm.---
+GMA Budget Meeting on Monday, 19th October, 2015, at 2.30pm.
+---
 4
 
 **Municipal District of Adare-Rathkeale**
@@ -303,7 +306,8 @@ The Chief Executive addressed the Meeting stating that the value of a
 
 potential increase or decrease in 2016 Local Property Tax allocation, if maximum
 
-variation of 15% were implemented by Limerick City and County Council, would be---
+variation of 15% were implemented by Limerick City and County Council, would be
+---
 5
 
 €2,302,060. The report of the Head of Finance had stated that based on preliminary
@@ -374,7 +378,8 @@ twelve month period ending 31st December, 2016.
 
 Arising from queries raised by Members, the Head of Finance clarified the
 
-following:---
+following:
+---
 6
 
 • No cost in relation to the provision of an overdraft.
@@ -455,7 +460,8 @@ Proposed by Councillor Ryan;
 
 Seconded by Councillor Byrne;
 
-And Resolved:---
+And Resolved:
+---
 7
 
 “That, in accordance with the Electoral Act, 1992 (as amended) and the
@@ -524,7 +530,8 @@ laws and this was seconded by Councillor Hurley:
 
 *roads, in the former City area only, between the hours of 7.30am to*
 
-*9.30am and from 4.30pm to 7.30pm.”*---
+*9.30am and from 4.30pm to 7.30pm.”*
+---
 8
 
 Councillor Hourigan proposed the following 2 amendments to the draft bye-
@@ -599,7 +606,8 @@ Proposed by Councillor Hurley;
 
 Seconded by Councillor Byrne;
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, in accordance with Section 10 of the Litter Pollution Act, 1997, the
@@ -668,7 +676,8 @@ The considerations recommended for the longer term were:
 
 • Develop a food zone.
 
-• Put enablers in place to support the strategy roll-out.---
+• Put enablers in place to support the strategy roll-out.
+---
 10
 
 In summing up, he said that it was hoped the Strategy, when in place, would
@@ -741,7 +750,8 @@ would be prominently displayed on the discount cards and used for all advertisin
 
 Members, in welcoming this initiative, thanked Mr. Moriarty and stated that it
 
-was most innovative.---
+was most innovative.
+---
 11
 
 On the proposal of Councillor Foley, seconded by Councillor Sheehy, the
@@ -818,7 +828,8 @@ Circulated, reports by Members who had participated at Conference/ Seminar/
 
 Meeting/Event.
 
-The reports were noted by the Members.---
+The reports were noted by the Members.
+---
 12
 
 National Tidy Towns Awards - 28th September 2015
@@ -889,7 +900,8 @@ Replies to the following Questions on the Agenda were circulated to all
 
 Members prior to the Meeting and the Questions were therefore considered as
 
-having been dealt with:---
+having been dealt with:
+---
 13
 
 10.
@@ -972,7 +984,8 @@ The Motion was seconded by Councillor Keller.
 
 A lengthy discussion ensued with a number of Members opposed to the
 
-Motion and a number of Members in favour of the Motion.---
+Motion and a number of Members in favour of the Motion.
+---
 14
 
 In the absence of agreement, the Mayor instructed that a Vote be taken in
@@ -1039,7 +1052,8 @@ A short discussion took place on this Motion. It was noted that it was proving
 
 difficult for a lot of towns and villages to cover expenditure associated with the
 
-purchase and running costs of Christmas Lights..---
+purchase and running costs of Christmas Lights..
+---
 15
 
 15.
@@ -1122,7 +1136,8 @@ Strategic Policy Committee)
 
 It was agreed to refer this Motion to the Economic Development, Enterprise &
 
-Planning Strategic Policy Committee.---
+Planning Strategic Policy Committee.
+---
 16
 
 19.
@@ -1185,4 +1200,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

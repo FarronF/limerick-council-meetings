@@ -78,7 +78,8 @@ Circulated, copy of draft Minutes of Meeting of the Draft Budgetary Plan 2021 he
 
 21st October, 2020.
 
-Proposed by: Councillor Galvin---
+Proposed by: Councillor Galvin
+---
 2
 
 Seconded by: Councillor Collins
@@ -149,7 +150,8 @@ He outlined the progress to date and noted that a working group had been set up 
 
 the plan with input from the Abbeyfeale Community Council and Abbeyfeale Business
 
-Community. Messrs. Malachy Walsh & Partners, are the Consultants for the plan.---
+Community. Messrs. Malachy Walsh & Partners, are the Consultants for the plan.
+---
 3
 
 He referred to surveys on accident breakdown and parked vehicle incidents, and also referred
@@ -220,7 +222,8 @@ On the proposal of Councillor Collins, seconded by Councillor Foley, it was agre
 
 On the proposal of Councillor Scanlan, seconded by Councillor Foley, it was agreed to allocate
 
-€1,000 to flashing lights at Feohanagh.---
+€1,000 to flashing lights at Feohanagh.
+---
 4
 
 3.
@@ -289,7 +292,8 @@ Ducting has been installed on the Bishop’s Court Section of the Great Southern
 
 Greenway Limerick as part of the resurfacing project that is currently on site.
 
-There is no provision to provide lighting as part of this contract.---
+There is no provision to provide lighting as part of this contract.
+---
 5
 
 8.
@@ -380,7 +384,8 @@ take the action specified in the notice or such other action as it thinks fit.
 
 Two landowners who received Section 70(2)(b) Notices have already complied.
 
-If any particular area is of concern to the Members please advise of same.---
+If any particular area is of concern to the Members please advise of same.
+---
 6
 
 NOTICES OF MOTION
@@ -447,7 +452,8 @@ In proposing the Motion, Councillor Scanlan expressed his disappointment at the 
 
 received and requested that the Local Authority work with the appropriate Approved Housing
 
-Bodies to improve the delivery of housing in our villages.---
+Bodies to improve the delivery of housing in our villages.
+---
 7
 
 12. Notice of Motion submitted by Councillor L. Galvin
@@ -526,7 +532,8 @@ pumps provide space heating only and are more suited to smaller homes, typically
 
 than 100m2. Air to water heat pumps provide both space and hot water and are
 
-suitable for larger homes. Both systems incorporate an external fan and compressor---
+suitable for larger homes. Both systems incorporate an external fan and compressor
+---
 8
 
 unit, which is usually placed at the rear of the property and looks like an air
@@ -597,7 +604,8 @@ Lane, Newcastle West.
 
 The footpaths at Churchtown were noted and it was requested that the tree stumps on the
 
-right hand side of the roadway be removed.---
+right hand side of the roadway be removed.
+---
 9
 
 The vacant houses in Mountcollins and Castleview was raised and the delay in getting them
@@ -642,4 +650,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

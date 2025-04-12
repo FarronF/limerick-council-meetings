@@ -66,4 +66,5 @@ Gordon Daly,
 
 Director of Services,
 
-Planning and Environmental Services.---
+Planning and Environmental Services.
+---

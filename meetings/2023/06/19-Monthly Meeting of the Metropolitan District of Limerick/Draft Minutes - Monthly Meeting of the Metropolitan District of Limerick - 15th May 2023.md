@@ -66,7 +66,8 @@ Seconded by Councillor McSweeney;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 (b) Circulated, copy of draft Minutes of the Special Meeting of the Metropolitan District of Limerick
@@ -159,7 +160,8 @@ Mulcair Drive Residents Association
 
 **Prospect Priory FC**
 
-**€500**---
+**€500**
+---
 3
 
 Rathbane Residents Association
@@ -312,7 +314,8 @@ consideration should be given to processing payments of up to €2,000, without 
 
 nominated groups to provide evidence of expenditure in advance. Members noted that this
 
-would assist nominated groups and speed up the process for them.---
+would assist nominated groups and speed up the process for them.
+---
 4
 
 Councillor Sheahan (M) confirmed that the correct description for one nominated group was
@@ -463,7 +466,8 @@ Thomondgate Residents Association
 
 €500
 
-**LIMERICK CITY WEST**---
+**LIMERICK CITY WEST**
+---
 5
 
 **Name of Group**
@@ -560,7 +564,8 @@ The report, as circulated, was noted by the Elected Members.
 
 **QUESTIONS**
 
-**7.Question submitted by Councillor S. Hartigan**---
+**7.Question submitted by Councillor S. Hartigan**
+---
 6
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick, what department is***
@@ -617,7 +622,8 @@ Budgets for the maintenance of these areas will be further reviewed in 2024.
 
 **REPLY**: The following areas outlined in black on the Patrickswell Local Area Plan 2015-2021 zoning
 
-map are deemed to be serviced or serviceable. The total area is 36.68 ha.---
+map are deemed to be serviced or serviceable. The total area is 36.68 ha.
+---
 7
 
 **10.Question submitted by Councillor D. McSweeney**
@@ -672,7 +678,8 @@ Enforcement Notice Served
 
 56
 
-(Image omitted)---
+(Image omitted)
+---
 8
 
 Cases Under Investigation
@@ -757,7 +764,8 @@ to a satisfactory review, the Social Coordinator formally recommends the final p
 
 Additionally, recipients must provide the Regeneration Directorate with a Progress Report
 
-and an Expenditure Report to receive their final tranche funding.---
+and an Expenditure Report to receive their final tranche funding.
+---
 9
 
 **14.Question submitted by Councillor S. Kiely**
@@ -830,7 +838,8 @@ with an expected appointment in Q2, 2023. The intention being to progress contra
 
 appointment and Phase A in 2023 and Phase B and C in 2024.
 
-**16.Question submitted by Councillor J. Leddin**---
+**16.Question submitted by Councillor J. Leddin**
+---
 10
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick if engagement has taken***
@@ -897,7 +906,8 @@ Government and Heritage (DHLGH) in the next two weeks.
 
 2023:
 
-**Bonfire Night Clean-ups**---
+**Bonfire Night Clean-ups**
+---
 11
 
 **Year**
@@ -982,7 +992,8 @@ are estimated to be completed in Q4 2023 and 2 units are estimated to be complet
 
 1 unit is scheduled for demolition to facilitate 6 units for social housing.
 
-**23.Question submitted by Councillor C. Slattery**---
+**23.Question submitted by Councillor C. Slattery**
+---
 12
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can Limerick City and County***
@@ -1057,7 +1068,8 @@ than the notice itself.
 
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and Environment
 
-Strategic Policy Committee.---
+Strategic Policy Committee.
+---
 13
 
 **25.Notice of Motion submitted by Councillor C. Slattery**
@@ -1130,7 +1142,8 @@ scheme would be reviewed as part of the Council’s annual budgetary process.
 
 The Notice of Motion was proposed by Councillor McSweeney, seconded by Councillor Butler and
 
-agreed.---
+agreed.
+---
 14
 
 In proposing the Motion, Councillor McSweeney highlighted the significant funding allocated for
@@ -1199,7 +1212,8 @@ agreed.
 
 In proposing the Motion, Councillor Kiely highlighted the difficulties for users of the Dochas Offices
 
-when cars were parked on the lanes and blocking entrances.---
+when cars were parked on the lanes and blocking entrances.
+---
 15
 
 **REPLY**: The lane behind the Dochas offices is property registered to Limerick City and County
@@ -1274,7 +1288,8 @@ to be addressed.
 
 any waste in a bonfire, backyard fire, stove or indoor grate is illegal and dangerous and
 
-should not be undertaken by any person.  Limerick City and County Council will undertake---
+should not be undertaken by any person.  Limerick City and County Council will undertake
+---
 16
 
 an awareness campaign in relation to illegal bonfires.  The most suitable time for this would
@@ -1299,4 +1314,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

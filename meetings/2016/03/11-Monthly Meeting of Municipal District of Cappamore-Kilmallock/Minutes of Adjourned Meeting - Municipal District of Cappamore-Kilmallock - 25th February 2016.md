@@ -60,7 +60,8 @@ The following issues were raised :
 
  Hyland’s Bend was very dangerous as there was a very steep drop with little protection.
 
- Drake’s Cross and Malone’s Crossroads required signage.---
+ Drake’s Cross and Malone’s Crossroads required signage.
+---
 2
 
  Roads in the area were in poor condition and required remedial works.
@@ -137,7 +138,8 @@ South Division and attached Chief Executive’s Report in relation to the Constr
 
 Pedestrian Bridge and Ancillary Works at Northbridge, Kilmallock which had been prepared in
 
-accordance with Section 179 3(a) of the Planning and Development Act 2000-2015, and Part 8---
+accordance with Section 179 3(a) of the Planning and Development Act 2000-2015, and Part 8
+---
 3
 
 of the Planning and Development Regulations, 2001-2015 and it was proposed to proceed in
@@ -220,7 +222,8 @@ Members requested that copies of the presentations be made available to them.
 
 On the proposal of Councillor O’Donnell, seconded by Councillor Ryan, it was agreed that the
 
-March Meeting would be held on Friday, 11th March, 2016.---
+March Meeting would be held on Friday, 11th March, 2016.
+---
 4
 
 **QUESTIONS**
@@ -309,7 +312,8 @@ Consulting Engineers by April of 2016. This schedule is still on track and the
 
 factors associated with any proposed change on such a heavily trafficked road
 
-are being given careful consideration by the Consultants, both with regard to---
+are being given careful consideration by the Consultants, both with regard to
+---
 5
 
 feasibility and impact on the operation and safety of the junction. Following
@@ -372,4 +376,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

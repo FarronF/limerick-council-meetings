@@ -72,7 +72,8 @@ It was agreed to take Item 7 next.
 
 *to a property as both a landlord and tenant’.*
 
-Motion proposed by Cllr J Sheahan and seconded by Cllr S Keary.---
+Motion proposed by Cllr J Sheahan and seconded by Cllr S Keary.
+---
 Cllr Sheahan outlined concerns he had regarding the maintenance of local authority houses
 
 by tenants and the Council and queries whether additional legislation would the care and
@@ -143,7 +144,8 @@ informed the members that the option of student accommodation has been explored 
 
 was not feasible as many students hold onto their accommodation all year. It was explained
 
-that there are profiles carried out on all homeless clients and they are often very complex---
+that there are profiles carried out on all homeless clients and they are often very complex
+---
 and diverse - holding a tenancy can be difficult for some people but there is support for
 
 tenants to enter and keep tenancies. The winter beds initiative is an extension of
@@ -214,7 +216,8 @@ A draft workplan for 2017 was outlined with inputs from the members including:
 
  Meeting re ASH Strategic Site Assessment on Council owned sites
 
- Rebuilding Ireland---
+ Rebuilding Ireland
+---
  Updates on the Regeneration Programme
 
  Anti-Social Behaviour and Estate Management
@@ -251,4 +254,5 @@ funds evicting tenants to prepare properties for sale.
 
 The Meeting then concluded.
 
-**Date of Next Meeting:** 27th of February 2017---
+**Date of Next Meeting:** 27th of February 2017
+---

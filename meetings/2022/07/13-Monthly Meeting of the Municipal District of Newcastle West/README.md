@@ -4,4 +4,4 @@
 
 **Date and Time:** 2022-07-13 10:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-75)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-75" target="_blank">Link to meeting</a>**

@@ -54,7 +54,8 @@ Cappamore-Kilmallock held on 3rd November, 2023.
 
 An Cathaoirleach wished to thank the Elected Members, staff and Pallasgreen Community
 
-for arranging the special meeting at short notice.---
+for arranging the special meeting at short notice.
+---
 2. Matters Arising:
 
 There were no matters arising
@@ -95,7 +96,8 @@ consider whether or not the proposed deletion should be made in accordance with 
 
 **Proposed : Cllr M Ryan**
 
-**Seconded: Cllr Egan**---
+**Seconded: Cllr Egan**
+---
 NOTICES OF MOTION
 
 5.Notice of Motion submitted by Councillor Carey
@@ -146,7 +148,8 @@ Regeneration Officer who will work with the local community to advance the propo
 
 A request was made that the reply include the directorate who will be responsible for the
 
-project moving forward.---
+project moving forward.
+---
 QUESTIONS
 
 7.Question submitted by Councillor Carey
@@ -181,7 +184,8 @@ public lighting on the R515 from Glen Grove to Portauns. Any proposed works woul
 
 subject to appropriate project specific funding being allocated.
 
-**The Questions were taken as read.**---
+**The Questions were taken as read.**
+---
 Any Other Business
 
  The Elected Members wished to thank the Roads team for the works undertaken in
@@ -232,4 +236,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -82,7 +82,8 @@ in this regard
 
 **request that funding be re-appropriated from property acquisition to fund the repair of voids throughout**
 
-**the city and county’**---
+**the city and county’**
+---
 **Item 3: Housing Delivery Update**
 
 Mr Seamus Hanrahan presented an update on the Housing Delivery Programme.
@@ -161,7 +162,8 @@ The Chair declared the motion defeated.
 
 
 
-The following motions were agreed:---
+The following motions were agreed:
+---
 **Recommendation 1**
 
 **‘That Limerick City and County Council** **write to the Minister for Housing, Planning and Local Government urging**
@@ -190,4 +192,5 @@ The following motions were agreed:---
 
 Sectoral Interests to be made aware of staff changes.
 
-**Date of next meeting**: Monday 22nd October 2018 at 3.00pm, Corporate Building, Dooradoyle.---
+**Date of next meeting**: Monday 22nd October 2018 at 3.00pm, Corporate Building, Dooradoyle.
+---

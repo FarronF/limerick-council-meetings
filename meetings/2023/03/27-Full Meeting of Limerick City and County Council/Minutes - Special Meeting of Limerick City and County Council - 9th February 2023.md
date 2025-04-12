@@ -56,7 +56,8 @@ Members noted how he was a committed member of Fine Gael all his life and served
 
 community of Abbeyfeale and the wider West Limerick area with great distinction, being a
 
-man of integrity and service.---
+man of integrity and service.
+---
 2
 
 Members noted that Sean Broderick was a member of Limerick County Council from 1979 to
@@ -107,4 +108,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

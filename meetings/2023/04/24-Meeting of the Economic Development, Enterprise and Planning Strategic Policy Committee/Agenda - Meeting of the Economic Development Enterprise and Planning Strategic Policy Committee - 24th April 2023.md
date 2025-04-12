@@ -26,4 +26,5 @@ Yours sincerely
 
 ***Cecilia Larkin, A/SEO,***
 
-***Economic Development & Enterprise Directorate***---
+***Economic Development & Enterprise Directorate***
+---

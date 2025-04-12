@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-10-23 12:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/workshop-for-the-elected-members-of-limerick-city-and-county-council)**
+**<a href="https://www.limerick.ie/council/whats-on/workshop-for-the-elected-members-of-limerick-city-and-county-council" target="_blank">Link to meeting</a>**

@@ -52,7 +52,8 @@ Adare from the proposed new Limerick-Foynes Road. He introduced the following:
 
 A PowerPoint presentation was given by Ms. Mary Fitzgerald, Mr. Gearoid Costelloe and Ms.
 
-Julie Tiernan under the following headings:---
+Julie Tiernan under the following headings:
+---
 **2**
 
  Importance of the Fitzgerald’s Woodlands House Hotel to the local area.
@@ -117,7 +118,8 @@ Adare.
 
  While in favour of the by-pass, Members stated that they would not support any
 
-proposal which could result in a loss of jobs.---
+proposal which could result in a loss of jobs.
+---
 **3**
 
  The importance of the Fitzgerald’s Woodlands House Hotel to the local area was
@@ -178,7 +180,8 @@ with a number of alternatives considered.
 
 would have to stand over the design proposals with An Bord Pleanála.
 
- An Bord Pleanála would be the ultimate decision-maker.---
+ An Bord Pleanála would be the ultimate decision-maker.
+---
 **4**
 
 The Director, Physical Development, confirmed that there would be a further design update
@@ -199,4 +202,5 @@ Signed:
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

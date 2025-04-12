@@ -64,7 +64,8 @@ Councillors Beasley, Butler, Daly, Doyle, Kiely, Kilcoyne, Leddin, McSweeney, Oâ
 
 Pond, Secas, Sheehan, Slattery and Talukder
 
-(15)---
+(15)
+---
 2
 
 **For Councillor Benson**
@@ -141,7 +142,8 @@ The Cathaoirleach invited nominations for the Office of Leas Chathaoirleach of t
 
 District of Limerick.
 
-Proposed by Councillor Slattery;---
+Proposed by Councillor Slattery;
+---
 3
 
 Seconded by Councillor Pond;
@@ -202,4 +204,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

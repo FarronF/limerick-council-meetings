@@ -86,7 +86,8 @@ committed. However, there has been a downward trend in residential burglaries. T
 
 success in addressing travelling burglars and added that it is worth noting that most burglaries occur
 
-between the hours of 5.00 p.m. and 9.00 p.m.---
+between the hours of 5.00 p.m. and 9.00 p.m.
+---
 The number of assaults have increased in all areas apart from the Bruff District. In some instances, the
 
 injured parties do not make a statement to the police. The biggest number of assaults are domestic
@@ -169,7 +170,8 @@ force put their lives at risk.
 
 Deputy O’Donoghue suggested that retired Gardai should be encouraged to come back two or three
 
-days a week, as they would have invaluable experience to pass on to new recruits.---
+days a week, as they would have invaluable experience to pass on to new recruits.
+---
 Superintendent Magner stated that she would liaise with Padraig Sutton in the Road Safety Authority to
 
 arrange a meeting between Limerick JPC and TII.
@@ -260,7 +262,8 @@ Protecting the security of the Irish State;
 
 Sustainable Change and Innovation.
 
-The Members of the JPC thanked Supt Ruane for his presentation to the JPC Meeting.---
+The Members of the JPC thanked Supt Ruane for his presentation to the JPC Meeting.
+---
 The Chairman stated that there was a better presence of Gardaí in the community fifteen years ago than
 
 there is now. True engagement at community level is needed to address the many criminal issues
@@ -341,7 +344,8 @@ The operation concentrated in the UL area and concluded on 1st December, 2022. I
 
 successful operation and those responsible were identified and have since been taken to court. Since 1st
 
-December 2022 only four bikes have been stolen.---
+December 2022 only four bikes have been stolen.
+---
 In reply to Councillor C. Sheehan, Superintendent Magner stated that she would get the figures for the
 
 number of bikes returned to owners and let Councillor Sheehan know. She added that property marking
@@ -416,7 +420,8 @@ the protection of children and vulnerable persons. If someone is doing relevant 
 
 organisation or group which has contact with children or vulnerable persons, they can apply for Garda
 
-vetting through the relevant organisation, but it has to be relevant work and they must have vetting---
+vetting through the relevant organisation, but it has to be relevant work and they must have vetting
+---
 prior to commencing work. An Garda Síochána provide the vetting service, we do not comment on
 
 suitability of members. Membership of organisations or groups is not a vetting/AGS function, as
@@ -493,7 +498,8 @@ appreciate that is behaviour while not only illegal (Insurance etc.) is particul
 
 balaclavas) and frustrating for commuters, residents and visitors to the city.
 
-The prosecutions for such offences rely solely on interceptions while driving.---
+The prosecutions for such offences rely solely on interceptions while driving.
+---
 The interception of offenders is difficult given the dangers of a pursuit to the individuals involved (no
 
 helmets etc.) in heavy traffic. In terms of finding a solution to this problem, Gardaí have engaged with
@@ -578,7 +584,8 @@ conjunction with the Garda Youth Diversion Project at the Moyross Youth Academy.
 
 specific “Project Off Road” initiative has been run in conjunction with the Garda/HSE Life Saver Project
 
-and the Garda Youth Diversion Project, which resulted in an award this week at the R.S.A. Leading Lights---
+and the Garda Youth Diversion Project, which resulted in an award this week at the R.S.A. Leading Lights
+---
 Awards in Dublin. This initiative was targeted at Primary School children who were present during a
 
 recreation of a serious road traffic collision involving a scrambler and a car.
@@ -653,7 +660,8 @@ https://www.policingauthority.ie/en/news/policing-authority-publishes-report-on-
 
 symposium-on-co-response-models-to-crisis-mental-health-events
 
-**13.NOTICE OF MOTION SUBMITTED BY COUNCILLOR SEAN HARTIGAN**---
+**13.NOTICE OF MOTION SUBMITTED BY COUNCILLOR SEAN HARTIGAN**
+---
 ***“I will move at the next m**eeting that statistics on fines issued for illegal parking are reported on at all***
 
 ***meetings of the Joint Policing Committee”.***
@@ -674,4 +682,5 @@ This concluded the business of the Meeting.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

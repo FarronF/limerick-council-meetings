@@ -76,4 +76,5 @@ taken against landlords letting substandard accommodation.
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

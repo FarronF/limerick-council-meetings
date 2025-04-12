@@ -42,7 +42,8 @@ out proposals for the disposal of property acquired compulsorily under the Derel
 
 Act, 1990 at Foxhall West, Colmanswell, Co Limerick and the intention to bring the
 
-Section 183 Notice to Full Council for approval.---
+Section 183 Notice to Full Council for approval.
+---
 The report, as circulated, was proposed by Councillor Carey, seconded by Councillor
 
 M.Ryan and agreed.
@@ -55,4 +56,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

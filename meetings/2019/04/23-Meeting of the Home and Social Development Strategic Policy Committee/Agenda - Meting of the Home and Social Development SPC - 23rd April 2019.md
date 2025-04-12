@@ -48,4 +48,5 @@ poor condition and close proximity to the Medieval Quarter.
 
 **Chairperson**
 
-**Limerick City and County Council**---
+**Limerick City and County Council**
+---

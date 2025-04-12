@@ -66,7 +66,8 @@ That a commitment be given in the event of the lights not working or
 
 causing traffic problems once installed, that the lights will be removed and parking
 
-spaces put back in their place.---
+spaces put back in their place.
+---
 2
 
 **(c)**
@@ -125,4 +126,5 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

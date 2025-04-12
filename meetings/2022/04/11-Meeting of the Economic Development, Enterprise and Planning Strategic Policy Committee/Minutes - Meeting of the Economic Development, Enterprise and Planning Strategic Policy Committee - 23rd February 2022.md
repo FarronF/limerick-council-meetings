@@ -68,7 +68,8 @@ Murray that monies in the development fund only covered capital projects. He sta
 
 refer their concerns regarding the maintenance of playgrounds to the Community, Tourism and
 
-Culture Directorate, who dealt with this matter.---
+Culture Directorate, who dealt with this matter.
+---
 **Item 3**
 
 **To consider Notice of Motion referred from Council meeting held on 24th** **January, 2022 submitted**
@@ -153,7 +154,8 @@ The MWREP replaced the Regional Action Plan for Jobs 2015-2017, which secured fu
 
 Engine Collaboration Centre, the Future Mobility Campus in Shannon and the National Bio-Economy
 
-Campus in Co. Tipperary.---
+Campus in Co. Tipperary.
+---
 While members welcomed the presentation and commended the level of collaboration between the
 
 stakeholders, they expressed concern over the lack of skilled workforce / trained apprentices to take
@@ -220,4 +222,5 @@ That concluded the business of the meeting.
 
 **Councillor Jerome Scanlan,**
 
-**Deputy Chairperson**---
+**Deputy Chairperson**
+---

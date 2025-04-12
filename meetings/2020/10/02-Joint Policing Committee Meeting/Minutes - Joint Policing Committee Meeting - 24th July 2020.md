@@ -72,7 +72,8 @@ Circulated, copy of Minutes of Joint Policing Committee Meeting held on 21st Feb
 
 Proposed by Councillor S. Kiely
 
-Seconded by Councillor J. Costelloe---
+Seconded by Councillor J. Costelloe
+---
 **2.Update from Chief Superintendent**
 
 The Chief Superintendent thanked Members for their vote of sympathy on the death of Garda Colm
@@ -167,7 +168,8 @@ to approve the following Notice of Motion :
 
 It was proposed by Councillor S. Kiely, seconded by Councillor M. Murphy and unanimously agreed to
 
-approve the following Notice of Motion :---
+approve the following Notice of Motion :
+---
 *“That Limerick City and County Council write to the Minister for Justice requesting that Garda resources*
 
 *should not be used for transfer of prisioners”.*
@@ -248,7 +250,8 @@ Communications: Website published (2019)
 
 He stated that 1,587 hours of CCTV was downloaded between January to May 2020 with 429 CCTV
 
-cameras across the city and county.---
+cameras across the city and county.
+---
 Mr. Bilauca outlined the following Limerick City CCTV operations which were noted by the members:
 
 32 CCTV cameras in St. Mary’s Park
@@ -335,7 +338,8 @@ people’s privacy, however, he agreed to follow up on the query.
 
 In reply to Members, the Chief Superintendent stated that from a Garda perspective this item needs
 
-to be approved as soon as possible and then it goes to the Commissioner. He added that every CCTV---
+to be approved as soon as possible and then it goes to the Commissioner. He added that every CCTV
+---
 camera is invaluable in investigations and prosecutions. He said he was very happy with the set up
 
 and service of the CCTV.
@@ -408,7 +412,8 @@ The following issues were addressed:
 
 Clarification of Powers of An Garda Siochana under Section 41 Road Traffic Act 1994
 
-The Chief Superintendent outlined to Members Section 41 Road Traffic Act 1994, as amended.---
+The Chief Superintendent outlined to Members Section 41 Road Traffic Act 1994, as amended.
+---
 Details of activities/number of seizures under the Act in the last twelve months
 
 The Chief Superintendent stated that the total number of vehicles seized pursuant to Section 41 Road
@@ -491,7 +496,8 @@ Councillor Teskey expressed concern at the increase in the theft of dogs in repl
 
 Superintendent stated that a lot of work has been done by the Gardai in relation to this matter which
 
-has had good success. He appealed to the public for their help in addressing this matter also.---
+has had good success. He appealed to the public for their help in addressing this matter also.
+---
 **8.Notice of Motion submitted by Councillor Sarah Kiely**
 
 *“In light of the* *Covid-19 Mobility Plan to reopen Limerick city centre extra resources are badly needed*
@@ -592,7 +598,8 @@ Ketamine
 
 Cash seized
 
-€ 140,438---
+€ 140,438
+---
 **11.Question submitted by Councillor John Costelloe**
 
 *“Has there been an increase in domestic violence in Limerick during* *Covid-19? Has the lack of*
@@ -635,4 +642,5 @@ This concluded the Meeting.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

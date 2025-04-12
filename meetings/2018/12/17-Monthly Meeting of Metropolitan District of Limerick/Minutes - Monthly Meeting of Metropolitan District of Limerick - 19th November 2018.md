@@ -68,7 +68,8 @@ Seconded by Councillor Lynch;
 
 And Resolved:
 
-“That the draft Minutes, as circulated, be taken as read and adopted and signed”.---
+“That the draft Minutes, as circulated, be taken as read and adopted and signed”.
+---
 2
 
 (a)
@@ -145,7 +146,8 @@ Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.
 
 Figures up to 31/10/2018 regarding Rebuilding Ireland Homeloan since
 
-introduction of the scheme in February 2018 for all of Limerick City and County.---
+introduction of the scheme in February 2018 for all of Limerick City and County.
+---
 3
 
 1.
@@ -238,7 +240,8 @@ best accounting practice.
 
 The Council pursues outstanding contributions through continuous active debt
 
-management.---
+management.
+---
 4
 
 **8.**
@@ -321,7 +324,8 @@ as follows:
 
 Most casual vacancies require minor works which are undertaken on an on-going
 
-basis by our Housing Maintenance staff.---
+basis by our Housing Maintenance staff.
+---
 5
 
 At present 33 properties in the Metropolitan area have been approved for Voids
@@ -436,7 +440,8 @@ of additional homes.
 
 It is the intention of Limerick City and County Council to submit additional properties for Voids
 
-funding.---
+funding.
+---
 6
 
 **NOTICES OF MOTION**
@@ -507,7 +512,8 @@ works at the Linear Park. Ms Donoghue assured the Members that the City Walls ar
 
 as an integral and unique part of the City’s heritage and it is the intention of all departments to
 
-maintain and care for them subject to funding.---
+maintain and care for them subject to funding.
+---
 7
 
 The Acting Senior Executive Officer agreed with the Members in respect of enhancing and
@@ -576,7 +582,8 @@ public spaces within the municipality that are not already equipped with a free 
 
 The call for applications was launched on November 7th. The Council has applied through our ICT
 
-Department for 4 vouchers under the WiFi4EU scheme, one for each metro/municipal council.---
+Department for 4 vouchers under the WiFi4EU scheme, one for each metro/municipal council.
+---
 8
 
 Mr Bilauca suggested that the installation of Public WiFi will be prioritised based on two criteria:
@@ -631,4 +638,5 @@ This concluded the Meeting.
 
 **Dated:**
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---

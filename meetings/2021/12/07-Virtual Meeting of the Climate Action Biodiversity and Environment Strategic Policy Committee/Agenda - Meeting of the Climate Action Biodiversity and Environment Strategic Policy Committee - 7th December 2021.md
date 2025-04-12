@@ -24,7 +24,8 @@ at 4.00pm. The business to be transacted is set out in the appended agenda.
 
 **PLANNING, ENVIRONMENT AND PLACEMAKING DIRECTORATE**
 
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -83,4 +84,5 @@ recycling facilities throughout the Metropolitan area and put in place plans to
 
 implement the necessary changes to ensure that recycling facilities, including bottle
 
-banks, can be accessed by everyone.---
+banks, can be accessed by everyone.
+---

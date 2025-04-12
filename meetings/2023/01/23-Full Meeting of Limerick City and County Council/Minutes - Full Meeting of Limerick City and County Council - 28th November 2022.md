@@ -62,7 +62,8 @@ place and noted the important role that the University played not only in Limeri
 
 across the wider Mid-West Region and he looked forward to the continued engagement and
 
-co-operation between Limerick City and County Council and the University in the future.---
+co-operation between Limerick City and County Council and the University in the future.
+---
 2
 
 **1.**
@@ -139,7 +140,8 @@ fair deal properties etc. where a Temporary Accommodation by Agreement (guest no
 
 would be entered into with the owner. The period would be a minimum 6 months ideally with
 
-utilities be paid by the residents.---
+utilities be paid by the residents.
+---
 3
 
 She confirmed that the payment for it would be €800 a month gratuity (tax free & excluded
@@ -222,7 +224,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 3, Colbert Avenue, Janesboro, Limerick, to Oliver Hanley, Legal Personal Representative (LPR)
 
-of Thomas Hanley, deceased, for the sum of €199.20, the disposal to be by way of Deed of---
+of Thomas Hanley, deceased, for the sum of €199.20, the disposal to be by way of Deed of
+---
 4
 
 Conveyance of the interest of Limerick City and County Council in the property, particulars of
@@ -305,7 +308,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -384,7 +388,8 @@ And Resolved:
 
 Act, 2001 (as amended), and Section 211 of the Planning and Development Act, 2000 (as
 
-amended), the approval of the Council be and is hereby given to the disposal of 2.643 acres---
+amended), the approval of the Council be and is hereby given to the disposal of 2.643 acres
+---
 6
 
 of land in the Lee Estate, King’s Island, Limerick, to Athlunkard Villa Football Club, for the
@@ -465,7 +470,8 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 at 20, Rose Court, Keyes Park, Limerick, to Mrs. Mary Crawford, in exchange for the
 
-acquisition of 567 Castle Oaks View, O’Malley Park, Limerick, subject to the covenants---
+acquisition of 567 Castle Oaks View, O’Malley Park, Limerick, subject to the covenants
+---
 7
 
 and conditions contained within the contract, particulars of which were contained in
@@ -542,7 +548,8 @@ Act, 2001 (as amended), and Section 211 of the Planning and Development Act, 200
 
 amended), the approval of the Council be and is hereby given to the disposal of three
 
-properties at Railway View, Knocklong, Co. Limerick, to Al Fitzgerald, for the sum of---
+properties at Railway View, Knocklong, Co. Limerick, to Al Fitzgerald, for the sum of
+---
 8
 
 €60,000, subject to the covenants and conditions contained within the contract,
@@ -623,7 +630,8 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-And Resolved:---
+And Resolved:
+---
 9
 
 “That, in accordance with the provisions of Section 183 of the Local Government
@@ -700,7 +708,8 @@ amended, the approval of the Council be and is hereby given to the attendance by
 
 Mayor of the City and County of Limerick, and a delegation, at a Cycling Study Tour in Utrecht,
 
-the Netherlands, from 16th to 19th October, 2022.”---
+the Netherlands, from 16th to 19th October, 2022.”
+---
 10
 
 (ii)
@@ -781,7 +790,8 @@ following a query from Members, the Meetings Administrator agreed to look at the
 
 standardising the number of Questions and Notice of Motions allowed per Member, across
 
-each Municipal District.---
+each Municipal District.
+---
 11
 
 (e)
@@ -856,7 +866,8 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 12
 
 “That, the Mid-West Region Homelessness Action Plan 2022-2025, as circulated, be
@@ -921,7 +932,8 @@ Proposed by Councillor O’Sullivan;
 
 Seconded by Councillor Collins (M);
 
-And Resolved:---
+And Resolved:
+---
 13
 
 “That, the approval of the Council be and is hereby given to recommended allocations
@@ -992,7 +1004,8 @@ Question submitted by Councillor S. Benson
 
 **carried out this year and, of those inspections, how many were (a) announced inspections,**
 
-**and (b) unannounced inspections.**---
+**and (b) unannounced inspections.**
+---
 14
 
 **REPLY:**
@@ -1089,7 +1102,8 @@ Street.
 
 Over the coming 12 months, Limerick City and County Council is proposing
 
-to provide:---
+to provide:
+---
 15
 
  A New Retail Economic Incentive Scheme 2023 providing up to €6,000
@@ -1170,7 +1184,8 @@ proposals: up to €15,000.
 
 start-up - maximum payable shall be 50% of the investment or
 
-€150,000, whichever is the lesser.---
+€150,000, whichever is the lesser.
+---
 16
 
 **Growth:**
@@ -1249,7 +1264,8 @@ Notice of Motion submitted by Councillor K. Sheahan
 
 The Motion was proposed by Councillor Sheahan (K) and seconded by Councillor
 
-Collins (M) and adopted.---
+Collins (M) and adopted.
+---
 17
 
 It was agreed that the Motion would also be forwarded to the National Transport
@@ -1322,7 +1338,8 @@ Notice of Motion submitted by Councillor S. Benson **(to be referred to Home**
 
 **whereby the intended purchaser must have a housing need, as allowed under Section 90**
 
-**(6) (b) (i) of the Housing Act, 1966.**---
+**(6) (b) (i) of the Housing Act, 1966.**
+---
 18
 
 It was agreed to refer the Motion to the Home and Social Development Strategic Policy
@@ -1395,7 +1412,8 @@ adopted.
 
 It was also agreed that a copy of the Motion would be forwarded to the Minister for
 
-Housing, Local Government and Heritage and the Minister for Finance.---
+Housing, Local Government and Heritage and the Minister for Finance.
+---
 19
 
 REPLY:
@@ -1462,7 +1480,8 @@ CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
-available on SharePoint for inspection by the Members.---
+available on SharePoint for inspection by the Members.
+---
 20
 
 PLANNING AND DEVELOPMENT:
@@ -1479,4 +1498,5 @@ Mayor
 
 Date:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

@@ -42,4 +42,5 @@ Sub-Committee held on 29th March, 2018.
 
 To discuss policing issues in the District.
 
-(Image omitted)---
+(Image omitted)
+---

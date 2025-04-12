@@ -29,7 +29,8 @@ out in the appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **Agenda**
@@ -56,4 +57,5 @@ that driver feedback signs are adapted to log the speeds detected in order to id
 
 how serious the problem of speeding is in particular areas and ascertain areas where
 
-speed reduction measures need to be introduced.---
+speed reduction measures need to be introduced.
+---

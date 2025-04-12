@@ -60,7 +60,8 @@ The outgoing Cathaoirleach, Councillor Sheahan paid tribute to all the staff of 
 
 Office for all their courtesy, help and support during his term as Chairman of the Adare -
 
-Rathkeale District.---
+Rathkeale District.
+---
 2
 
 On taking the Chair, Councillor Teskey thanked his proposer and seconder and said he
@@ -117,4 +118,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

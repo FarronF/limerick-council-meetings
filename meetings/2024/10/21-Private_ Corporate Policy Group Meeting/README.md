@@ -4,4 +4,4 @@
 
 **Date and Time:** 2024-10-21 14:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/private-corporate-policy-group-meeting-70)**
+**<a href="https://www.limerick.ie/council/whats-on/private-corporate-policy-group-meeting-70" target="_blank">Link to meeting</a>**

@@ -62,7 +62,8 @@ facilitate the consultation process.
 
 Members complemented An Garda Síochána for the policing of Rathkeale over the
 
-Christmas period and requested that a letter be sent to them acknowledging their---
+Christmas period and requested that a letter be sent to them acknowledging their
+---
 2
 
 efforts. Members pointed out the state of the unfinished housing estate in Ballingarry
@@ -127,7 +128,8 @@ flooding issues at Askeaton. Members noted the threat of flooding to the swimmin
 
 pool at Askeaton and requested Council staff to investigate if water was rising from
 
-underground.---
+underground.
+---
 3
 
 **6.**
@@ -202,7 +204,8 @@ Housing Section for the re-allocation of houses.
 
  Councillor O’Brien highlighted the need to salt minor roads with high volume usage
 
-such as the road to Pallaskenry school.---
+such as the road to Pallaskenry school.
+---
 4
 
 This concluded the Meeting.
@@ -215,4 +218,5 @@ Signed :
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

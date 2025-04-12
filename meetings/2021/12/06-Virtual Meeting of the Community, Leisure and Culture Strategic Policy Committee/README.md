@@ -4,4 +4,4 @@
 
 **Date and Time:** 2021-12-06 15:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-community-leisure-and-culture-strategic-policy-committee-10)**
+**<a href="https://www.limerick.ie/council/whats-on/meeting-community-leisure-and-culture-strategic-policy-committee-10" target="_blank">Link to meeting</a>**

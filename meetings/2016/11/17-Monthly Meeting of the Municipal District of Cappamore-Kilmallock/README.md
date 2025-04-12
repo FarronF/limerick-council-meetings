@@ -4,4 +4,4 @@
 
 **Date and Time:** 2016-11-17 15:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-8)**
+**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-8" target="_blank">Link to meeting</a>**

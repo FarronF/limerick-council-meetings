@@ -60,7 +60,8 @@ assaults are down throughout the District with an increase in minor assaults in 
 
 area. In addition, she advised the Gardaí are unable to follow through on these crimes
 
-unless a statement is made.---
+unless a statement is made.
+---
 Detective Sergeant Reidy advised there are a number of operations in place at the
 
 moment to target criminal drug activity in the District and further advised there has been
@@ -129,4 +130,5 @@ Signed:
 
 Dated:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_---
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---

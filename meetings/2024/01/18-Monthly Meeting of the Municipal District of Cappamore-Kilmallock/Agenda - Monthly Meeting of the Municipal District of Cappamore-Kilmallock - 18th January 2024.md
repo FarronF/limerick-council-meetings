@@ -42,7 +42,8 @@ Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the 14
 
 December 2023.
 
-(Copies Enclosed)---
+(Copies Enclosed)
+---
 2
 
 3.
@@ -103,7 +104,8 @@ and County Council seek to purchase land with a view to making serviced sites av
 
 potential first time buyers in the Cappamore Kilmallock Municipal District to showcase the future
 
-housing potential of this type of development as an example.---
+housing potential of this type of development as an example.
+---
 3
 
 QUESTIONS
@@ -134,4 +136,5 @@ I will ask at the next meeting of the Cappamore Kilmallock Municipal District
 
 a) How many Driver Feedback signs are on the R512 and R513
 
-b) What speeds are recorded at these locations---
+b) What speeds are recorded at these locations
+---

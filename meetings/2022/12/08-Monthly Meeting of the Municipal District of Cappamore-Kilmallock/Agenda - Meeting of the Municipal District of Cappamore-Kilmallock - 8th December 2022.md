@@ -30,7 +30,8 @@ Kilmallock held on the 17th November 2022
 
 2.Matters Arising
 
-Relating to the Minutes of the Municipal District Meeting of 17th November 2022.---
+Relating to the Minutes of the Municipal District Meeting of 17th November 2022.
+---
 2
 
 3.Property Services
@@ -83,7 +84,8 @@ the proposed locations of same.”
 
 previous motion on traffic issues in Doon, what is the outcome of the traffic survey carried
 
-out there to help with the traffic congestion in Main St, Doon.”---
+out there to help with the traffic congestion in Main St, Doon.”
+---
 3
 
 9.Question submitted by Councillor Carey
@@ -112,4 +114,5 @@ population. “
 
 “I will ask at the next meeting of the Cappamore Kilmallock Municipal District what dates
 
-voids in Cappamore/Kilmallock will actually be returned to use.”---
+voids in Cappamore/Kilmallock will actually be returned to use.”
+---

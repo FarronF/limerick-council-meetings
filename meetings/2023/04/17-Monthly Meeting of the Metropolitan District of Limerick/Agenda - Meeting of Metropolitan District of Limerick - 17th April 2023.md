@@ -73,7 +73,8 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
-(Image omitted)---
+(Image omitted)
+---
 2
 
 **2.Disposal of Land**
@@ -122,7 +123,8 @@ or not to make or amend the Draft Local Area Plan, in accordance with Section 20
 
 Planning and Development Act 2000 (as amended).
 
-(Report Enclosed).---
+(Report Enclosed).
+---
 3
 
 **QUESTIONS**
@@ -179,7 +181,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 
 will commence on the Mill Road Active Travel Scheme and for a detailed update on the progress
 
-of the scheme.---
+of the scheme.
+---
 4
 
 **12.Question submitted by Councillor C. Sheehan**
@@ -240,7 +243,8 @@ the Council can provide an update on this project.
 
 I will ask at the next Meeting of Metropolitan District of Limerick for an update on the water
 
-testing that has commenced at the Loughmore Canal with details from the water tested so far.---
+testing that has commenced at the Loughmore Canal with details from the water tested so far.
+---
 5
 
 **18.Question submitted by Councillor E. O’Donovan**
@@ -289,7 +293,8 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 
 Limerick City and County Council have carried out in relation to the provision of affordable
 
-housing in Patrickswell.---
+housing in Patrickswell.
+---
 6
 
 **24.Question submitted by Councillor S. Kiely**
@@ -352,7 +357,8 @@ County Council write to Tipperary Council, Inland Fisheries Ireland, LAWPRO and 
 
 bodies, to propose formulating an interagency task force to control alien invasive species on the
 
-Mulcair catchment.---
+Mulcair catchment.
+---
 7
 
 **30.Notice of Motion submitted by Councillor J. Pond**
@@ -397,4 +403,5 @@ be lived in by the applicants have their grant amount increased by at least 50%.
 
 **35.Correspondence**
 
-(Copy of Correspondence Enclosed).---
+(Copy of Correspondence Enclosed).
+---

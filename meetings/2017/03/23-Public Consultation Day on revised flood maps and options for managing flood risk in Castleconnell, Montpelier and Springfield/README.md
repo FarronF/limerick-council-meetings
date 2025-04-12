@@ -4,4 +4,4 @@
 
 **Date and Time:** 2017-03-23 14:00:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/public-consultation-day-revised-flood-maps-and-options-managing-flood-risk)**
+**<a href="https://www.limerick.ie/council/whats-on/public-consultation-day-revised-flood-maps-and-options-managing-flood-risk" target="_blank">Link to meeting</a>**
