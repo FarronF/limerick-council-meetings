@@ -17,9 +17,9 @@ When searching across in a year folder minutes for meetings near the end of the 
 Images in PDFs are currently omitted to ensure searching is easier. They will be marked with (Image omitted). To view these images you will need to navigate to the meeting 
 
 ## Search Tips
-You must have a github account and be signed in to acc
+You must have a GitHub account and be signed in to use GitHub's search feature
 
-Using github's search at the top of the page, you can search for words or phrases. e.g.
+Using GitHub's search functionality, you can search for words or phrases. e.g.
 ![example](screenshots/image.png)
 
 From here you will see various instances where this word appears in documents.
