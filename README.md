@@ -76,7 +76,7 @@ README.md files at each level to allow for better visibility of meetings in chil
 
 More PDFs. (replies to questions next)
 
-Better OCR for scanned pages to improve accuracy
+Better OCR for scanned pages to improve accuracy. (this may be hard due to my limited hardware)
 
 Normalise file names for consistancy in searching.
 
@@ -84,3 +84,7 @@ Possibly store minutes in the folder for the meeting they were recorded from rat
 
 ## Feedback
 If you have feedback for this project feel free to message me directly or open a GitHub discussion on the repo.
+
+## Support
+If this project is useful, feel free to let me know. Star the repo. 
+Or if you really want: <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="farronf" data-color="#FFDD00" data-emoji="🍺"  data-font="Arial" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
