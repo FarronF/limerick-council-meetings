@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -46,6 +47,7 @@ a Special Meeting of the District as a follow up on the recent weather events.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1. Adoption of Minutes
 
 (a) Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle
@@ -95,6 +97,7 @@ playground.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 Replies to the following Questions on the Agenda were circulated to all Members prior to the
@@ -152,6 +155,7 @@ incorporate additional design requirements including consideration of the active
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 travel facility cross section, the impacts of the 2023 speed limit review and the
 results from additional environmental surveys and we have also carried out
 additional archaeological test excavations at various locations.
@@ -201,6 +205,7 @@ an update once available.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor L. Galvin
 
 ! will ask at the next Meeting for a detailed update on the progress report arising from
@@ -243,6 +248,7 @@ and the maximum length of time that they have been vacant.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY;
 
 Vacant Units in Newcastle West MD
@@ -276,6 +282,7 @@ and finalised. The cost benefit of the scheme is proving challenging to achieve 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 greater (i.e. where benefits exceed the proposed project cost of the FRS) and further work is
 underway to maximise the benefits of the scheme whilst also refining the proposed capital
 cost of the scheme.
@@ -328,6 +335,7 @@ In proposing the Motion, Councillor Galvin referred to the substantial damage ca
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 extreme flooding event which took place recently in Abbeyfeale and to the damage caused
 to Abbeyfeale United FC and Fr. Casey's GAA grounds and facilities. In replying, the Director
 stated that Tranche 1 schemes for Limerick has been approved by the Office of Public Works
@@ -377,6 +385,7 @@ The following items were also raised.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 An update was sought on a clean-up and surveying of trees at Oakpark estate, Newcastle
 West. In replying, the Senior Executive Engineer agreed to revert to the Members on this
 matter.
@@ -420,6 +429,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

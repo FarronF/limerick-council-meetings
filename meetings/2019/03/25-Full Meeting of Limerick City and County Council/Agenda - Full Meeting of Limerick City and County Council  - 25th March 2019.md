@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 p Seirbhisi Corpardideacha,
 ee Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
 & Contae Luimnigh Ceanncheathni Chorparaideach,
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Disposal of Land
 
 To consider proposal for the disposal of land, in accordance with the provisions of Section 183 of
@@ -112,6 +114,7 @@ facilitate CAT A fit out as per report enclosed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii) Cleeves and Former Salesians Convent
 
 To consider the granting of a loan facility to Limerick Twenty Thirty Strategic Development DAC
@@ -161,6 +164,7 @@ Committee held on 18 February, 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 (vi) Chairperson’s Report - Cultural Strategic Policy Committee held on 12" February, 2019.
 R mendation No. 1
@@ -202,6 +206,7 @@ on the implementation of the Food Strategy and the plans for 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Conferences
 
 (i) Participation by Members at Conferences
@@ -248,6 +253,7 @@ is intended for these sub-committees to meet.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 NOTICES OF MOTION
@@ -302,6 +308,7 @@ in his home city where his legacy lives on to this day.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 Notice of Motion submitted by Councillor J. Loftus

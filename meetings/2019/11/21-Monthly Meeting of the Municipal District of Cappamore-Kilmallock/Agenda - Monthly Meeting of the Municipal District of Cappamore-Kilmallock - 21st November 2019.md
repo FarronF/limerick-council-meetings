@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——_— Comhairle Cathrach
 a & Contae Luimnigh
 a Limerick C
@@ -66,6 +67,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Capital Investment Directorate
 
 Part 8 Procedure — Station Close, Knocklong, Co. Limerick.
@@ -108,6 +110,7 @@ relation to the criteria for allocating social housing.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor Martin Ryan
 
 | will move at the next meeting of the Cappamore-Kilmallock Municipal District that,
@@ -150,6 +153,7 @@ relation to part of land in Bruree, which was the subject of recent roadworks.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor Martin Ryan
 
 | will ask at the next meeting of the Cappamore Kilmallock Municipal District if there are

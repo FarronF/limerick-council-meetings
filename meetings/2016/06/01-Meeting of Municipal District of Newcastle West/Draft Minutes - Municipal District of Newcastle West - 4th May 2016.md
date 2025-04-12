@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 4" May, 2016, AT 10:00 A.M.
@@ -54,6 +55,7 @@ coming weeks. He also stated that, as a result of matters raised in the Tidy Tow
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Report in relation to identification signage on the N21 approaching Newcastle West,
@@ -111,6 +113,7 @@ week in order to assess this matter.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 ion submitted ncillor J. Scanlan
@@ -172,6 +175,7 @@ Abbeyfeale. Given the limited availability of the sweeper, the Council can only 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 sweeping Mountcollins on a six monthly basis, should resources allow.
 
@@ -220,6 +224,7 @@ Members noted that there were grottos elsewhere with similar requirements.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 5
@@ -290,6 +295,7 @@ Development Fund shortly.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 6

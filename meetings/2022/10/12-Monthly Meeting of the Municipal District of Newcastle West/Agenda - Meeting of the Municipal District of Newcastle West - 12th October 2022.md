@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Ditiche Bardais an Chaisledin Nua Thiar,
 _—_—_— stolen ferenbecd Comhairie Cathrach agus Contae Luimnigh,
 & Contae Luimni:
@@ -67,6 +68,7 @@ Corporate Headquarters, Merchant's Quay, Limerick (061 - 556 000
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -115,6 +117,7 @@ Road Safety Audit be carried out at Dore’s Cross, Templeglantine.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 14.

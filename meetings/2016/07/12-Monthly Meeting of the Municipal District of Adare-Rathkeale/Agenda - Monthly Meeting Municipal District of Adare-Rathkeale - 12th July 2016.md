@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Seirdhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Limerick Local Economic & Community Plan (LECP
 
 To consider the adoption of a Statement of Consistency on the Draft Local Economic and
@@ -107,6 +109,7 @@ To consider the Community Initiative Scheme 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

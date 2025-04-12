@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Aras Viilliaen Smith O'Brien,
 
 Comhairle Cathrach Diliche Bardais an Chaisledin Nua Thiar.
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchant's Quay, Limerick Yai
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -112,6 +114,7 @@ Kerry Co-Op premises to the speed limit along Clooneyskehane will be constructed
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

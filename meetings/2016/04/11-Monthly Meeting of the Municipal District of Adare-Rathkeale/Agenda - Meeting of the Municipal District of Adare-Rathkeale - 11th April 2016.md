@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AD
 
 . —-
@@ -65,6 +66,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development & Planning
 (a) Part 8 — Rathkeale Enterprise Centre, Rathkeale Industrial Estate, Rathkeale
 
@@ -108,6 +110,7 @@ in the interest of public health and safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -163,6 +166,7 @@ be fully staffed at the first available opportunity.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

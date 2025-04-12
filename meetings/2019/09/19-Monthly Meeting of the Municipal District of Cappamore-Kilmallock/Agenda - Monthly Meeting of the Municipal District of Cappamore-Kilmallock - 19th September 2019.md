@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 2 o antatr, Aras Mhaine Seoighe,
@@ -59,6 +60,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office Report enaal
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Community Development Directorate
 (a) Update from the Community Development Directorate.
 
@@ -94,6 +96,7 @@ Directorate dated 4" September, 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Notice of Motion submitted by Councillor John Egan
 
 | will move at the next meeting of the Cappamore Kilmallock Municipal District that Limerick
@@ -134,6 +137,7 @@ previous Municipal District meetings in the interest of safety for all road user
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor John Egan
 
 twill ask at the next Meeting of the Municipal District for a progress update on the

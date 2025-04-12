@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiche Bardais an Chaiste4in Nua Thiar
 il 6 Canna Luimnigh Comhairle Cathrach gus Contae Luimragh,
 
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -119,6 +121,7 @@ looked at as a priority as it is an accident waiting to happen.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

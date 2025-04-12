@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
 WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON
@@ -44,6 +45,7 @@ was funding to undertake a feasibility study for the project.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Collins added that clarification had been sought from the Chief Executive
 and Head of Finance in relation to the criteria for allocating funds, under the Special
 Projects Category, from the General Municipal Allocation. He stated that it was

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM
 SMITH OBRIEN, GORTBOY, NEWCASTLE WEST, CO. LIMERICK,
@@ -42,6 +43,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 At the outset with the Cathaoirleach's permission, it was agreed to take Item 3 at this point.
 
 3. Home and Social Development:
@@ -93,6 +95,7 @@ would be kept up-to-date on progress of the scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Two Representatives, Neil Bolton and James O'Halloran, attended on behalf of Cluid
 Housing Association and replied to questions from Members. They stated that there had
 been design issues at Gortboy which had been resolved. They admitted that workmanship
@@ -135,6 +138,7 @@ following a brief discussion, it was agreed to bring the matter to a Party Leade
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 4. Question submitted by Councillor L. Galvin
@@ -202,6 +206,7 @@ them in 2014. In some instances there have been multiple refusals on the same pr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The current allocation of 14 houses will be closely monitored and further offers will be
 made if the applicants submit refusals. In Abbeyfeale there have been 5 refusals on the
 current vacant units and again some have more than one refusal recorded . The allocations
@@ -252,6 +257,7 @@ agreement is completed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Daar River View, Gortboy: This estate is currently the responsibility of NAMA. The
 Planning and Economic Development Department are in discussions with NAMA in this
 
@@ -306,6 +312,7 @@ sufficient funding being available.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Question submitted by Councillor M. Collins
 
 | will ask at the next Meeting if CCTV can be installed at Ash, Oak, Rowan and
@@ -355,6 +362,7 @@ location is responsible for protecting his/her property against river erosion.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Notice of Motion submitted b uncillor M. Collins
 
 ! will move at the next Meeting that an up-to-date map of all graveyards in the
@@ -405,6 +413,7 @@ trees have now been removed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Correspondence:
 
 Councillor Galvin stated that he supported the great work that had been carried out by the

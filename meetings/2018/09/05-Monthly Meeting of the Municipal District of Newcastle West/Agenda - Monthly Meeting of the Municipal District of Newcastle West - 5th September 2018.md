@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AD
 
 —————-
@@ -81,6 +82,7 @@ w @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -134,6 +136,7 @@ eastwards.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrbiisi Corparaideacha agus Bainistiocht Atrruithe
 Comnairie Cathrach agus Contae Luimnigh
 
@@ -49,6 +50,7 @@ of Councillor Maria Byrne to Seanad Eireann.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -100,6 +102,7 @@ Property Tax.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (e)
@@ -155,6 +158,7 @@ To hear presentation on Catchment Flood Risk Assessment and Management
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Regional Services Directorate
 Fire and Emergency Operations Pian
 
@@ -209,6 +213,7 @@ Clonakilty, Co. Cork, from 5™ to 7™ August, 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (b) Conference on Local, Economic and Community Plans held in Clonakilty,
@@ -257,6 +262,7 @@ when these would be presented to the Members of the Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -305,6 +311,7 @@ calls on them to use those resources to locate and replace lead pipes.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Comhairle Cathrach
 & Contae Luimnigh
 nN o™ Limerick City C
@@ -89,6 +90,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

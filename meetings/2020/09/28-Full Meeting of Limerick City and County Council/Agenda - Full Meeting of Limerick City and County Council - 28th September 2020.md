@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhisi Corparaideacha,
 ae 5 Cortae lanai Comhairle Cathrach agus Contae Lulmnigh,
 NON 4 Céna gCeannaithe,
@@ -68,6 +69,7 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 587150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (a) 31, McDermott Avenue, Janesboro, Limerick.
@@ -129,6 +131,7 @@ for Housing, Local Government and Heritage and in accordance with Section
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (9)
@@ -183,6 +186,7 @@ following Committees:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Strategic Policy Committee Reports
 
 To consider reports as follows:
@@ -237,6 +241,7 @@ Strategic Policy Committee held on 22" June, 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Physical Development
@@ -280,6 +285,7 @@ held in Kildare on 8 October, 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -331,6 +337,7 @@ premises in the Metropolitan District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14,
 
 15.
@@ -384,6 +391,7 @@ Forum.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 21.

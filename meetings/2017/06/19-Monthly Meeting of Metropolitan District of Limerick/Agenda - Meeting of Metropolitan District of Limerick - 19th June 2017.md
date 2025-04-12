@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha,
 Comhairte Cathrach agus Contae Luimnigh,
 
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -112,6 +114,7 @@ GMA Festivals and Events Grant Scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -166,6 +169,7 @@ either the approval or refusal of its lease.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

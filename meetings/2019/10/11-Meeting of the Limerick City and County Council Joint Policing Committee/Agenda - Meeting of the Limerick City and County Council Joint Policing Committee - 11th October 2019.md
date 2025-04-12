@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ni Serdhisi Corpardideacha,
 ee Comhairle Cathrach Comhairle Cathrach agus Contae Lumnigh
 o—~ & Contae Luimnigh Ceanncheathni Chorparéidesch,
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. To consider the following Question submitted by Councillor Michael Murphy :
 
 “| will ask at the next Meeting for an update on concerns expressed to me about the

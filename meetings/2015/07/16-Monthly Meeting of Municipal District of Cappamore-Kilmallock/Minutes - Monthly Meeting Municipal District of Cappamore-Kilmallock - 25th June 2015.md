@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON TUESDAY
@@ -44,6 +45,7 @@ Inspector Conlon agreed to attend the Municipal District Meetings quarterly.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Economic Development and Planning
 
 a P i Protected
@@ -95,6 +97,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, in accordance with Section 55 of the Planning and Development Act 2000 (as
 amended) the approval of the Municipal District of Cappamore-Kilmallock be and is
 hereby given to the deletion from the Record of Protected Structures of the three
@@ -141,6 +144,7 @@ Kilfinane — Forest View footpaths €7,000
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. G Municipal Alloc 2016
 
 The Members agreed to hold a workshop to discuss the General Municipal Allocation
@@ -187,6 +191,7 @@ were unable to identify the source on the evening in question due to
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the lateness of the hour and reduced visibility.
 
 Investigations continued the following day and the day after, in co-
@@ -234,6 +239,7 @@ The following items were raised at the completion of the Agenda:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members requested that the hedges around signposts be cut in order to make
 the signs more visible.
 

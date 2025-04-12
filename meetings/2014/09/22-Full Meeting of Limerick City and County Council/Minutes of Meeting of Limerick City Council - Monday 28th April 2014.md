@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ITEM NO.
 
 LIMERICK CITY COUNCIL
@@ -54,6 +55,7 @@ wording he was recommending the adoption of the Joint Traveller Accommodation Pr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rhebogue Group Housing
 
 “This development consists of five houses which accommodates one extended family grouping. A
@@ -108,6 +110,7 @@ senior official be appointed to deal with this group housing.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cllr. Kennedy fully supported the previous speakers adding that very genuine complaints were
 made by residents and St. Patrick's G.A.A. Club. He said promises were made in the past which
 were not adhered to and the Council should not delay in finding a satisfactory solution to the
@@ -166,6 +169,7 @@ sustainable solution has to be found and said he would abide by the intentions o
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Her Worship the Mayor, Cllr. K. Leddin thanked the Members for their comments and also the
 people in the public gallery who came to the meeting and said she was confident that the Manager
 would find a satisfactory solution to this problem.
@@ -220,6 +224,7 @@ which were circulated, be and the same are hereby confirmed”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. CHAIRMAN'S REPORT, SPECIAL MEETING OF ENVIRONMENTAL
 STRATEGIC POLICY COMMITTEE MEETING HELD ON 7TH APRIL, 2014
 
@@ -291,6 +296,7 @@ Angie Smalis
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 "That Limerick City Council bring the Limerick Culture Garden back to Limerick after the
 completion of the Bloom in the Park 2014 event held in Dublin”.
 
@@ -350,6 +356,7 @@ Development at Palm Court, Southill;
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 * Thomond Bridge & Abbey River Quay Walls Remedial Works—Prequalification for
 Contracts;
 
@@ -427,6 +434,7 @@ Estimated Travel and Subsistence: €349.71
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Conference Fee : €140.00
 
 Seminar organised by Ace Training "Tourism Technology and Competitive Strategies"
@@ -489,6 +497,7 @@ to be causing a road safety risk then they will be removed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. SOCIAL INTERVENTION GRANTS 2014
 
 It was proposed by Cllr. Kiely, seconded by Cllr. J. Leddin and unanimously agreed to approve
@@ -561,6 +570,7 @@ and 7 no. 2 bedroom apartments; (ii) improvements to the external facade includi
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 set back terraces to apartments on the second floor; (iii) demolition of an existing apartment unit
 and part of a duplex unit to accommodate a new gated entrance into Jackman Park; (iv) realignment
 of front gardens and road layout to provide a turning bay; (v) and all associated ancillary works at
@@ -620,6 +630,7 @@ the past and present members and staff of Limerick City Council for their contri
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 development of the city over hundreds of years. In the period since the establishment of Limerick
 Corporation in the 12” century, this ancient city of churches has been transformed into a centre of
 learning and commerce. She said the modern, thriving city today is testament to the vision and
@@ -680,6 +691,7 @@ economic development of Limerick City down through the years. He said he was con
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 new Local Authority would continue to guide the destiny of this ancient and celebrated city for
 many more centuries to come.
 
@@ -739,6 +751,7 @@ Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cllr. Kennedy said he wished to avail of this historic opportunity to express his thanks and
 appreciation to the people of Limerick for their support over the years. He paid tribute to his wife,
 Loretto and his family for their support over the years and said he was proud to say he was a citizen
@@ -785,6 +798,7 @@ MAYOR OF LIMERICK
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

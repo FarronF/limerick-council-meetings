@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
 WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK,
@@ -54,6 +55,7 @@ signed”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Community, Leisure and Emerge Cc
 
 Local Community Development Committee
@@ -108,6 +110,7 @@ Members thanked the Deputation for their presentation.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Members discussed the issues raised by the Deputations and agreed that some of the
@@ -165,6 +168,7 @@ from the Contribution Scheme would be forwarded to the Members by Head of Financ
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It was agreed that the Limerick Marketing Company would be invited to make a
 presentation at the Special Meeting scheduled for Wednesday, 15" April, 2015. It was
 also agreed that Innovate Limerick would be invited to a future Meeting.
@@ -218,6 +222,7 @@ allow for the carrying out of 8 schemes in their entirety and 1 part scheme,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 assuming that cost estimates remained unchanged.
@@ -274,6 +279,7 @@ Department and the matter would be considered further once they were received.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Scanian and seconded by Councillor Galvin, it was
 agreed that the June Meeting of the Municipal District of Newcastle West would be held
 in the Community Hall, Dromcollogher, Co.Limerick.

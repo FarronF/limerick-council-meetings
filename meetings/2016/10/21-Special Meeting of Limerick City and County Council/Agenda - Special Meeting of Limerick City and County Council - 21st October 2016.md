@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 I Comhairle Cathrach agus Contae Luimnigh.
 
@@ -47,6 +48,7 @@ Corporate Headquarters, Merchants Quay, Limerick ye
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We, the Elected Members of Limerick City and County Council call on the Mayor of the said Authority Mr
 Kieran O'Hanlon to convene a Special Meeting on Friday 21* October 2016 at 3pm in accordance with
 Limerick City and County Council, Standing Order Number’s 15 and 16 to discuss the following issues.

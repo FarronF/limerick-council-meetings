@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -46,6 +47,7 @@ Municipal District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii) Circulated, copy of draft Minutes of Special Meeting of the Municipal District of
 Cappamore-Kilmallock held on the 20" December, 2019.
 
@@ -89,6 +91,7 @@ location.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Concerns were also raised in relation to unauthorised parking and dumping on the section
 of road that would be closed at the level crossing. The Elected Members expressed
 disappointment that Limerick City and County Council had not formally been involved in the
@@ -136,6 +139,7 @@ communities with their future progress and development.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Housing Development Directorate
 
 (b) Housing Progress Report
@@ -181,6 +185,7 @@ Cappamore Kilmallock Municipal District?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Reply:
 
 The Estate Management Unit of the Council is being re-constituted as the Community
@@ -225,6 +230,7 @@ Cathaoirleach
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

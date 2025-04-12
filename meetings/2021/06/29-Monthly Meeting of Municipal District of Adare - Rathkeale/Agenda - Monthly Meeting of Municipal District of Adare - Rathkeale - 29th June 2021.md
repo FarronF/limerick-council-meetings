@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Comhairle Cathrach P = Gatdesack Ath Dere-Raeh Cada
 i i ormnairle Cathwach agus Contae Luimnigh,
 a“ i" ss ree Aras Séan Finan,
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick. v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mid West National Road Design Office
 
 Pr Mur: s Cross to the Traffic Lights in Adare Village &
@@ -105,6 +107,7 @@ To note proposal for disposal of land as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

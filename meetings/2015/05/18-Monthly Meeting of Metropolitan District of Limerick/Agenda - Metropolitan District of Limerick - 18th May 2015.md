@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirohist Corpardideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick y @lLimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -106,6 +108,7 @@ Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.

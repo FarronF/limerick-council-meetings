@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 ee % Contes Lalmanigk Comhairle Cathrach agus Contae Luimnigh,
 
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchant's Quay, Limerick v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -109,6 +111,7 @@ Abbeyfeale to beyond "Greyhound and Pet World".
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 15.

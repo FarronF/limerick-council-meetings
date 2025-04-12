@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ail Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -71,6 +72,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Economic Development Directorate
@@ -123,6 +125,7 @@ To note update on the path from Kildimo Village to the Beer Garden.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -190,6 +193,7 @@ a special effort to have the towns and villages in the District cleaned up.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.

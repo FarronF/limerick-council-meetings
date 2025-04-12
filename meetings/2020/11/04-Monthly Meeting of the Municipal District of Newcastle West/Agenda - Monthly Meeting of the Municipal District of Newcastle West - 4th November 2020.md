@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Duiche Bardais an Chaisieain Nua Thiar,
 _ — pact eect Comhairle Cathrach agus Contee Lulmnigh,
 
@@ -66,6 +67,7 @@ Cupeaie aise Merchant's Quay, Limerick VW @limorickCounctl
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) To note proposal for the disposal of property at Templeathea West, Athea,
 Co. Limerick to Athea Voluntary Housing Association CLG.
 
@@ -113,6 +115,7 @@ Street, Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 14.

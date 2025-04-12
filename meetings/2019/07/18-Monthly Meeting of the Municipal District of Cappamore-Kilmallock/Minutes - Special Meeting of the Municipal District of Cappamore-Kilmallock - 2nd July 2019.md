@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -50,6 +51,7 @@ amendment was agreed with the occupiers of same following this meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 He detailed the Folio details outlining legal ownership of various pieces of land relating to the
 area where the roadworks were taking place and confirmed that the local authority was
 satisfied with the ownership details of land where the road works were taking place. He

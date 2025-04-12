@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 = & Contae Luimnigh
 ~_ Limerick Cit
@@ -72,6 +73,7 @@ Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Maurice Quinlivan, T.D.:
 
 ‘t will ask at the next meeting for a progress report on operation ‘Operation Copdég’, how It is

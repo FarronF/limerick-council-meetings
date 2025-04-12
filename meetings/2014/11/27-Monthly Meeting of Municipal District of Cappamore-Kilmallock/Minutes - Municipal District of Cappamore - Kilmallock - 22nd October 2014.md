@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN LOUGH GUR
 HERITAGE CENTRE, LOUGH GUR, CO. LIMERICK, ON WEDNESDAY,
@@ -52,6 +53,7 @@ September, 2014.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) | Budgetary Plan Meeting of the Municipal District held on 10" October, 2014.
 
 Proposed by Councillor Gleeson;
@@ -101,6 +103,7 @@ road users.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor E. Ryan
 
 ! will ask at the next meeting what is the up-to-date position in relation to the
@@ -153,6 +156,7 @@ calming measures are warranted at this stage.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Notice of Motion submitted by Councillor E. Ryan
 
 1 will move at the next Meeting that the Council upgrade the public toilet
@@ -199,6 +203,7 @@ of funding.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Senior Executive Engineer, Environment, updated the Members in relation to a
 serious pollution incident on the Loobagh River in Kilmallock on 4th August last. The
 spill was caused by damage to pipe work from a steel slurry tower. Approximately
@@ -239,6 +244,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGE AND ON-LINE, ON THURSDAY 19" SEPTMBER
@@ -44,6 +45,7 @@ held on 5" September, 2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by: Councillor Carey
 Seconded by: Councillor E. Ryan
 
@@ -84,6 +86,7 @@ Cleansing) to the meeting who proceeded with his presentation on the proposed 60
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 default speed limits due to be introduced on the local roads network in November 2024
 explaining these measures aim to improve safety on the road network for all users.
 Seamus O'Reilly (SEE) explained to members that surveys had been undertaken in the
@@ -132,6 +135,7 @@ Woods in requesting extension of current local area plan until 2028.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed: Councillor Ryan (M)
 Seconded: Councillor Conway (G)
 
@@ -174,6 +178,7 @@ Seconded: Councillor M. Ryan
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. N of Motion submitted by Councillor Ca
 
 “| will move at the next meeting of the Cappamore-Kilmallock Municipal District for safety
@@ -211,6 +216,7 @@ Seconded: Councillor Stokes
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11, Notice of Motion submitted by Councillor Teefy
 
 “twill move at the next meeting of the Cappamore-Kilmallock Municipal District that a
@@ -247,6 +253,7 @@ Travel projects and will continue to be submitted for consideration by the NTA.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor O’Sullivan
 
 “t will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update
@@ -287,6 +294,7 @@ Capital Grant’.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor Conway
 
 | will ask at the next Cappamore-Kilmallock area meeting if signage can be erected in green
@@ -332,6 +340,7 @@ Funding would need to be identified to progress any works prior to taking on any
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Question submitted by Councillor Carey
 
 | will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update
@@ -359,6 +368,7 @@ Cappamore - 85 (Total
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19. Question submitted by Councillor Ryan
 
 “twill ask at the next meeting of the Cappamore-Kilmallock Municipal District do Limerick
@@ -395,6 +405,7 @@ The Questions were taken as read.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Any Other Business
 
 Councillor Conway (G) queried the public lighting on the Railway Road in Kilmallock which
@@ -442,6 +453,7 @@ Date:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

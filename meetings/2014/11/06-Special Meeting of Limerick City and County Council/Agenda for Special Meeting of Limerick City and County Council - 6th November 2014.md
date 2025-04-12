@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -38,6 +39,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCourcil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 From: Quinlivan Maurice
 
 Sent: 31 October 2014 12:43

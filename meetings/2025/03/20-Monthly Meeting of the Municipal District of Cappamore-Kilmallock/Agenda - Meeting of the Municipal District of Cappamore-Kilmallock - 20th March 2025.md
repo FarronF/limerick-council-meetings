@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach — in Chetan Anke Decne ne ;
 
 & Contae Luimnigh Olfig an Cneantair, Aras “Cl Mochesig.
@@ -58,6 +59,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 7.
@@ -104,6 +106,7 @@ projects.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Conway
 
 | will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an update

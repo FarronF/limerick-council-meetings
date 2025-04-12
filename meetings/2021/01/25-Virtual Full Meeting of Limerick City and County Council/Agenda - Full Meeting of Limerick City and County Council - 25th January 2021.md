@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 —_ & Contae Luimnigh
 ~ Limerick Cit
@@ -79,6 +80,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) 9-10, Patrick Street, Limerick.
 (e) The Square, Galbally, Co. Limerick.
 
@@ -123,6 +125,7 @@ Policy Committee held on 15"" December, 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (v) Chairperson’s Report ~ Meeting of Home and Social Development
 Strategic Policy Committee held on 16'" December, 2020.
 
@@ -164,6 +167,7 @@ priorities for the delivery of the Limerick Cultural Strategy in 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -208,6 +212,7 @@ City and County Development Plans until 2026.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

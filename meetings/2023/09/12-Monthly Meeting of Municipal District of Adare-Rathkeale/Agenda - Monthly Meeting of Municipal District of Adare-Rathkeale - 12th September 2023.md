@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 oe —-
@@ -81,6 +82,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Proposed Disposal of Adare Heritage Centre, Adare, Co. Limerick.
 (c) Proposed Disposal of 0.111 Hectares of land at Ballyvareen, Kildimo, Co. Limerick.
 (Reports Enclosed).
@@ -118,6 +120,7 @@ the defunct sewerage treatment plant in Askeaton prior to Irish Water being esta
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

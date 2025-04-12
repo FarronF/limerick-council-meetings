@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach — Bardasach Ath Dara-Rath Caola,
 
 Comhairle Cathwach agus Contae Luimnigh.
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development and Enterprise Directorate
 Proposed Rathkeale Local Area Plan 2023 — 2029
 

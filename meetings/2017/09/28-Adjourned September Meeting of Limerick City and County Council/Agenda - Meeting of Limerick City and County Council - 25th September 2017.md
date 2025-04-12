@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 _—_—_ & Contae Luimnigh
 ~~ =— Li ick City
@@ -84,6 +85,7 @@ vy @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Support Services Directorate
@@ -137,6 +139,7 @@ Environment Strategic Policy Committee to replace Councillor Crowley.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (f)
 
 (g)
@@ -196,6 +199,7 @@ York, under Section 142(5) of the Local Government Act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (1)
 
 Strategic Policy Committee Report
@@ -246,6 +250,7 @@ Meath, on 22™ September, 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) ‘A Practical Guide to Budget 2018’ to be held in Carlingford, Co. Louth, from
 13" to 15" October, 2017.
 
@@ -287,6 +292,7 @@ works exactly are to be carried out.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -329,6 +335,7 @@ use this method with regard to vacant houses.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

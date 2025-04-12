@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 eel Comhairle Cathrach
 — & Contae Luimnigh
 oo — Limerick Ci
@@ -74,6 +75,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 {c)
 (d)
 (e)
@@ -129,6 +131,7 @@ and Planning Strategic Policy Committee held on 10" July, 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i) Chairperson’s Report — Meeting of Climate Action, Biodiversity and
 Environment Strategic Policy Committee held on 12 September, 2023.
 
@@ -176,6 +179,7 @@ Limerick City and County Council Festivals and Events Grant Scheme 2023/2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Rural. Community and Culture Development
@@ -232,6 +236,7 @@ Limerick City and County Council Traffic Calming Policy for Urban Areas in 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -290,6 +295,7 @@ roads repaired under the Community Involvement Grant Scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -342,6 +348,7 @@ reversed or at least done on a phased basis.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23.
 
 Notice of Motion submitted by Councillor E. O’Donovan (to be referred to

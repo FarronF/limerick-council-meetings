@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Filling of Vacancies on Strategic Policy Committees and
 
 Other Bodies

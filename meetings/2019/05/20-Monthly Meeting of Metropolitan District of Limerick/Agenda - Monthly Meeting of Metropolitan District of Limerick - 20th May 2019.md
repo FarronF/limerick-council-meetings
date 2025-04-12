@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ~ : . 37) Sexbhisi Corparéideacha.
 __——_ Comhairle Cathrach Comhairle Catwach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathra Chorparaideach,
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 2
@@ -98,6 +100,7 @@ Court and the Units on Convent Street.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 NOTICES OF MOTION
 

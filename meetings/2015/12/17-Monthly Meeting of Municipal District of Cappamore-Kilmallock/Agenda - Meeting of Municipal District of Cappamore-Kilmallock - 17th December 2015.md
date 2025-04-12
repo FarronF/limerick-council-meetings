@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Question submitted by Councillor Donegan
 
 | will ask at the next Meeting for an update on repair works on the bridge in Bruree

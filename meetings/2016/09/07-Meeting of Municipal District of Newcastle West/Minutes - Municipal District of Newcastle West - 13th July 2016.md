@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 
@@ -60,6 +61,7 @@ e Vandalism in Botcha Court in Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Cycling on Great Southern Trail.
 
 1. Adoption of Minutes
@@ -111,6 +113,7 @@ matter being considered would inform the Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General nicipal i
 
 With the permission of the Cathaoirleach Councillor Browne proposed that Athea Tidy Towns
@@ -164,6 +167,7 @@ Key priorities to advance future of GST.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 e Putting in place appropriate governance structures.
@@ -219,6 +223,7 @@ Section 26 plan therefore were not detailed in the document.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 The ‘Order of Turn Out’ described the order in which resources would be located to an incident,
@@ -271,6 +276,7 @@ categorisation criteria.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6.  Deputation
 
 The Cathaoirleach stated that a request had been received from Killeline Leisure Centre to make
@@ -327,6 +333,7 @@ following:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) Traffic Management Plan for Abbeyfeale.
 (b) Traffic calming, road markings and footpaths from Dalton’s Cross on the N21 to the
 two filling stations at Killarney Road, Abbeyfeale.
@@ -384,6 +391,7 @@ lands nor is he interested in disposing of the land.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 The Operations Manager stated that he had been contacted by Mr. Brian Henry, Senior
@@ -440,6 +448,7 @@ West and South Division agreed to check this matter.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 The Motion was seconded by Councillor Scanlan.
@@ -499,6 +508,7 @@ pedestrian crossing on Main Street, Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 In proposing the Motion Councillor Browne stated that the pedestrian crossing at Joy’s corner
@@ -550,6 +560,7 @@ barriers along the Southern Trail were identified.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11
 
 It was agreed that the September Meeting of the District would be held on Wednesday, 7”

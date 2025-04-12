@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comnairle Cathrach agus Contar Luiranigh
 & Contae Luimnigh Oifig an Cheantais, Aras Mhainchin Seoighe
 
@@ -57,6 +58,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office ve
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Property Services
 
 *® Proposed disposal of Property at 3 Ath Alainn, Bruree, Co Limerick.
@@ -102,6 +104,7 @@ are not already in place. They are very effective and are a safety measure on th
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 10. Question submitted by Councillor Carey

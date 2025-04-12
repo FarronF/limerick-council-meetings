@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Pieanail, Comhshact agus Crutha Aite
 a & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh
 
@@ -44,6 +45,7 @@ business, in particular retall, in the core city centre area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor C. Sheehan (referred from Meeting of the
 Metropolitan District of Limerick held on 18” September, 2023 to the Economic
 Development, Enterprise and Planning Strategic Policy Committee)

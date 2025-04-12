@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle pcb
 & Contae Luimnig!
 NN 2 —_—_—_——————
@@ -88,6 +89,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 7.
@@ -139,6 +141,7 @@ purpose.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor B. Teefy
 
 8. | will move at the next Meeting that this Municipal District request, as a matter of

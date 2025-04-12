@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 QR MN a _“*—————
@@ -74,6 +75,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Park, Southill, Limerick.
 (b) Proposed Disposal of 1 Grennan Villas, St. Joseph’s Terrace, Limerick.
 (c) Proposed Disposal at 1-4 Parnell Street, Limerick.
@@ -120,6 +122,7 @@ a. Why after being placed on the vacant site on 19/06/18 was this site removed f
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 and when?
 
 b. Why was this site put back on the register on 14/09/20?
@@ -166,6 +169,7 @@ existing for funding from the University of Limerick, Clare County Council or Wa
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 contribute to the development of the Black Bridge in Plassey and if any discussions have been had
 within the local Authority, and / or with any other bodies regarding the development.
 
@@ -212,6 +216,7 @@ developments.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Notice of Motion submitted by Councillor S. Kiely (to be referred to the Climate Action,
 Biodiversity and Environment Strategic Policy Committee)
 

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach ; Coantar Bardasach Ath Dara-Rath Cacla,
 & Contae Luimnigh Comnhetie Cathrach eg.s Contac Luimmnigh,
 A Yi g Aras Séan Fin.
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Declaration of Interest
 
 To consider the Mayor's Report pursuant to Section 179 (3)(a) of the Planning and
@@ -99,6 +101,7 @@ nN
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -148,6 +151,7 @@ Nutritional.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.

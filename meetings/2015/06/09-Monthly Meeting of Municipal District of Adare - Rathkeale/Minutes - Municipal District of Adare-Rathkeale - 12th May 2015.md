@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 12™ MAY, 2015, AT 9.00 A.M.
@@ -48,6 +49,7 @@ e Ballymacave, Croagh
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Corporate Services
 
 Annual Meeting of Municipal District
@@ -98,6 +100,7 @@ the Health Board and report back to Members on the outcome.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 5. Question submitted by Councillor Ciara McMahon
@@ -159,6 +162,7 @@ number of posts including General Operatives.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Limerick City and County Council has recently employed a number of
 temporary General Operatives. Interviews for additional temporary General
 Operatives are scheduled to take place on week ending 15” May, 2015.
@@ -207,6 +211,7 @@ gasification systems
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 CHO Power Marc Lefour, Director of CHO Power who operate the Plant in
@@ -263,6 +268,7 @@ the proposal
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 2) Thursday Morning — Site visit of the Gasification Plant in Morcenx, Tour given by
@@ -320,6 +326,7 @@ the Morcenx Plant.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members expressed their disappointment at the negative media coverage their trip to the
 gasification plant in France had received as the coverage had focused on the cost of the
 trip and that the plant was not fully operational during the visit. They pointed out that,
@@ -367,6 +374,7 @@ outlining the need for a new sewerage plant for Askeaton.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 Councillor O’Brien indicated that the announcement of the shelving of the motorway

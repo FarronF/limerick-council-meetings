@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 14™ JULY, 2015, AT 9.00 A.M.
@@ -49,6 +50,7 @@ Rathkeale held on 9" June, 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Sheahan;
 Seconded by Councillor Keary;
 And Resolved:
@@ -101,6 +103,7 @@ It was agreed that Item 8 would be taken next.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Environment and Water
 Bleach Lough Anglers Ltd.
 
@@ -145,6 +148,7 @@ press release would issue at the same time to inform the public.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 5. Economic Development and Planning
@@ -202,6 +206,7 @@ Analysis of Limerick City and County prepared by Dr. Eileen Humphreys (UL) and
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 s
 
 Bernadette Quinn on behalf of the Local Community Development Committee. Members
@@ -251,6 +256,7 @@ calming/safety measures at this location.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Members expressed their concern regarding road safety at Kilcornan and other locations
@@ -298,6 +304,7 @@ including at municipal district level.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 The Chief Executive must consider the resource needs of the local authority in determining
@@ -347,6 +354,7 @@ allowing right of way only for traffic travelling from the South towards the N69
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 Guesthouse Junction). There is a Statutory process involved in the introduction of this
@@ -395,6 +403,7 @@ balance of funding.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 17. Notice of Motion submitted by Councillor S. Keary
 
@@ -442,6 +451,7 @@ the District which is dangerously unfit for purpose.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 During the course of their discussion Councillor O'Donoghue indicated that there was

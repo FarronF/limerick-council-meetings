@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach oa na — =
 & Contae Luimnigh Com hrach agus Contae Luimn’
 YT ile ee
@@ -43,6 +44,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1.
 
 Agenda
@@ -103,6 +105,7 @@ that these will be monitored to view the viability of their expansion at a later
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Notice of Motion submitted by Cmhir. S. O Ceallaigh

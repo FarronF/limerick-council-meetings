@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 il Comhairle Cathrach —e Papa Slag rent
 . mnhairie Cathra: s ie Luimng!
 & Contae Luimnigh Cas Seennt Chores 4
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 2
@@ -120,6 +122,7 @@ on the current situation and future plans for Rathbane Golf Club.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

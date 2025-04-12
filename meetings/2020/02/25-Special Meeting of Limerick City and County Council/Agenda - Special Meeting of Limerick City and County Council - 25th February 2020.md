@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ell Cor thairle Cathrach Comhawie Catiwa pect a are
 P : 2 nwach agus Comae Luimnigh,
 , an & Contae Luimnigh Ceanncheathra Chorpardideach,
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 Councillor Richard O’Donoghue

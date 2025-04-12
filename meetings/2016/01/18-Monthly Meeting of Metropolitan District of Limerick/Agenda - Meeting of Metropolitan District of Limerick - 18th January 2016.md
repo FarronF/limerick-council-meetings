@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AE
 Limerick
 
@@ -80,6 +81,7 @@ yw @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 QUESTIONS
@@ -125,6 +127,7 @@ tourists on a regular basis.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

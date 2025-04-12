@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 ne & Contae Luimnigh Comnhattie Cathrach agus Contae Luimnigh,
 
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchants Quay, Limerick, 1 y
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8.
 
 District Engineers Report

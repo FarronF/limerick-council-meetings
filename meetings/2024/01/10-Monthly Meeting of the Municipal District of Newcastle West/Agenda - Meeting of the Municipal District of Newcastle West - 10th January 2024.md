@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duliche Bardais an Chaisiedin Nua Thiar.
 & Contae Luimnigh Comhamte Cathrach agus Contae Luimnich.
 
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -116,6 +118,7 @@ village is planned for 2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.

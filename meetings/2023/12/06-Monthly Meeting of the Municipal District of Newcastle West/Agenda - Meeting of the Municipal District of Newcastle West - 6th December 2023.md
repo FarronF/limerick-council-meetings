@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_— Comhairie Cathrach
 
 & Contae Luimnigh
@@ -83,6 +84,7 @@ Y @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 accordance with Section 20(3)(n) of the Planning and Development Act 2000 (as
 amended)
 
@@ -133,6 +135,7 @@ Colbert's Terrace, (b) Main Street (c) Old Church Street (d) New Street (c) Conv
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -191,6 +194,7 @@ new supermarket extension. It is incumbent on the Council to provide adequate
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 within walking of town centre. The new draft public realm plans also show a
 reduction of car parking in the Square.
 

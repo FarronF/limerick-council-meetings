@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19 March, 2021.
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -23,6 +24,7 @@ Meetings Administrator.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We request a Special Meeting of Limerick City and County Council to discuss
 the following Motion —
 

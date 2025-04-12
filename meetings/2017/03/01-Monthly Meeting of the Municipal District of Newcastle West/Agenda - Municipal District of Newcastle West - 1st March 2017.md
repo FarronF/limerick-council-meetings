@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 <<
 
 Seirdhisi Corparéideacha,
@@ -76,6 +77,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Renaming of The Square, Newcastle West
@@ -127,6 +129,7 @@ thereafter.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

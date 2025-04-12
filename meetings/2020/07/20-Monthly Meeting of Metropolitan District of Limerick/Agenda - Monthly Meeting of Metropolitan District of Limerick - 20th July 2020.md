@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Comhairle Cathrach Comhairle Cathr asnCuieuaae
 & Contae Luimnigh ornare Tamwack agus fontae Luimnigh,
 
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 
 To note proposal for the disposal of land as follows :
@@ -101,6 +103,7 @@ Section 200{1) of the Local Government Act 2001 as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 6. Question submitted by Councillor C. Slattery
@@ -145,6 +148,7 @@ to the Covid-19 public health crisis and the implications of it?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor E O’Donovan
 
 | will ask the Council for an update on the installation of advisory speed limit signs in Limerick
@@ -184,6 +188,7 @@ prior to LSMATS strategy being brought to Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Travel and Trans tion Strate c Poli Committe
 
 | will move at the next meeting that the Council develop a School Streets Pilot Initiative, which

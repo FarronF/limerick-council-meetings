@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . Se®bhisi Corpardéideacha,
 
 _ parted poredaber dy Comhairle Cathrach agus Contae Lutmnigh,

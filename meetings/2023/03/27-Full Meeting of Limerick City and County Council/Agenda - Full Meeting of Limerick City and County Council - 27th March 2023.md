@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “al Comhairle Cathrach Comnsitie cemeeheune Sone eareian
 & Contae Luimnigh Ceanncheathra Chorparaideach,
 Vo a —— Oé na gCeannaithe.
@@ -56,6 +57,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - $57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) Folio LK14569F adjoining 55 College Avenue, Moyross, Limerick.
 
 (e) Folio LK68202F, 6 Chapel Street, Bruff, Co. Limerick.
@@ -115,6 +117,7 @@ To consider the Audit and Risk Committee’s Work Programme 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (4)
 
 (e)
@@ -171,6 +174,7 @@ To consider Draft Annual Report 2022.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 Strate sic Policy Committee Reports
@@ -225,6 +229,7 @@ submissions would be made available at the March Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Recommendation No. 3
 
 That, the Council write to the Minister for Housing to request more
@@ -265,6 +270,7 @@ To note the Development Fund Allocations for 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -311,6 +317,7 @@ Department of Housing.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -362,6 +369,7 @@ and Article 43 of Bunreacht na hEireann.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

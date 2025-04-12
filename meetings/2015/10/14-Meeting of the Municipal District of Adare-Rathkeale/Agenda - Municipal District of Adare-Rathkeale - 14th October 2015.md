@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -
 
 __—_—_ Seirdhisi Corpardideacha agus Bainistiocht Athruithe,
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 5.
@@ -111,6 +113,7 @@ representations.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

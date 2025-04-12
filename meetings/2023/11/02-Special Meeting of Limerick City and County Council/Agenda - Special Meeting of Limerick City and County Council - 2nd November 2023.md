@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—e_e Comhairle Cathrach
 = & Contae Luimnigh
 a Limerick
@@ -57,6 +58,7 @@ W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Subject: Special Blended Meeting Limerick City and County Council
 
 Location: Microsoft Teams Meeting

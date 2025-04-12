@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
 DOORADOYLE, LIMERICK, ON FRIDAY, 20™ JUNE, 2014, AT 12
@@ -48,6 +49,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the Abbeyfeale Local Area Plan 2014-2020 be made in accordance
 with the Chief Executive’s recommendations dated 11" June, 2014, under Section
 20(3)(n) of the Planning and Development Acts, 2000-2014.”
@@ -94,6 +96,7 @@ Kilmallock Local Area Plan 2009-2015 for a further period of 5 years.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. rral Notices to make a new L 1 Ai Plan for Castletro
 and extend the existing Plan
 
@@ -139,6 +142,7 @@ Date:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

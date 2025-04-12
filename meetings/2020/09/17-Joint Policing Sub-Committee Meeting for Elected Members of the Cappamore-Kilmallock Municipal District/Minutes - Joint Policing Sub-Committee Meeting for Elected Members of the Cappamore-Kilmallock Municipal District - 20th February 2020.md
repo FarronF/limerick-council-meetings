@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD AT ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -52,6 +53,7 @@ confirmed that while there had been a reduction in certain crime categories, tha
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 had seen an increase in recent months, particularly in commercial premises, and she
 confirmed that An Garda Siochana were looking at measures to address same. She also
 confirmed that while drink driving detections had reduced, that drug driving detections had

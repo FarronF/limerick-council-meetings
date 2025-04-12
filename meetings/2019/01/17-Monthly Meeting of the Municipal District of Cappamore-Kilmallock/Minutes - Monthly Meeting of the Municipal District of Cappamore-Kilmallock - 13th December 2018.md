@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -45,6 +46,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. HearSay19
 
 The Cathaoirleach welcomed Diarmuid Mcintyre, Director of the Hearsay International Audio
@@ -89,6 +91,7 @@ Limerick City & County Council on this work.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Support Services Directorate
 Lough Gur Co-Operative Development Society Limited
 
@@ -134,6 +137,7 @@ would be fully compliant with privacy, GDPR and legal requirements to ensure tha
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 operated in an effective and responsible manner by the local authority. He outlined the
 maintenance costs involved in operating the system and confirmed that a second phase of
 the CCTV Project, incorporating cameras in further locations throughout the County, would

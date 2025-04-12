@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Setrdhisi Corparaideacha,
 & Contae Luimnigh Comhairle Catteacts agus Contae Luimnigh
 
@@ -75,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (f) Annacotty Business Park, Annacotty, Co. Limerick.
 
 (g) Pallas, Kilmeedy, Co. Limerick.
@@ -136,6 +138,7 @@ Provisions) Act 2020 (Section 29) (Local Authorities) (Designation) Order 2020.�
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (9)
 
 (e)
@@ -190,6 +193,7 @@ Strategic Policy Committee held on 9"" November, 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iti)
@@ -243,6 +247,7 @@ Challenging Times and Change’ Enclosed)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iv) Chairperson’s Report — Meeting of Travel and Transportation Strategic
 Policy Committee held on 20" October, 2020.
 
@@ -287,6 +292,7 @@ To consider approving recommended Limerick Theatre Bursary Awards 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -340,6 +346,7 @@ by unit size.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -390,6 +397,7 @@ recruitment of a specialist dietician in post for adults with diabetes.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.

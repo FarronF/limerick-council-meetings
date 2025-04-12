@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —=_—
 
 a —
@@ -85,6 +86,7 @@ yw @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Capital Investments Directorate
@@ -132,6 +134,7 @@ Abbeyfeale, Athea, Mountcollins, Tournafulla and Templeglantine will be occupied
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

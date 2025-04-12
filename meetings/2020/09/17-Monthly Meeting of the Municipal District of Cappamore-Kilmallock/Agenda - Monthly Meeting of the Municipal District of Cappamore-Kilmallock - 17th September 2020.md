@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh Oifig an Cheantair, Aras er pte
@@ -53,6 +54,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W alimerickC
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. National & Regional Services Directorate
 
 Part 8 Planning Application for a Fire Service Training Centre at
@@ -94,6 +96,7 @@ including tributaries of the Loobagh and Maigue Rivers.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor Martin Ryan
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
 Transport Infrastructure Ireland and Limerick City and County Council review the safety
@@ -137,6 +140,7 @@ Development Plans that will have to be dealt with in the near future.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor Martin Ryan
 
 ! will ask at the next meeting of the Municipal District of Cappamore-Kilmallock for an

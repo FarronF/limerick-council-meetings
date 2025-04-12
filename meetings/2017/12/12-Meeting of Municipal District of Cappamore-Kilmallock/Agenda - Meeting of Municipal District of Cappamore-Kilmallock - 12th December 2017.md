@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Setrbhisi Corpardideacha,
 _—_—_ 5 Cordasludneion Comhairle Coeach acne Comes Luimnnigh,
 or. : : a Cé na gCeannaithe,
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 ___ & Contae Luimnigh
 
@@ -79,6 +80,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) 9, Rathbane Road, Rathbane, Limerick.
 
 (b) 11, Desmond Drive, Adare, Co. Limerick.
@@ -128,6 +130,7 @@ Development, Enterprise and Planning Strategic Policy Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (g)
@@ -183,6 +186,7 @@ Strategic Policy Committee held on 12" June, 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii) | Chairperson’s Report — Meeting of Climate Action, Biodiversity and
 Environment Strategic Policy Committee held on 13™ June, 2023.
 
@@ -228,6 +232,7 @@ Strategy 2023-2027: Embrace the Experience.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Update on Community CCTV in Limerick
 To receive Update on Community CCTV in Limerick following Data Protection
 Commission Audit.
@@ -273,6 +278,7 @@ held in Tullamore, Co. Offaly, on 1% June, 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -327,6 +333,7 @@ adaptation/older persons’ grants in Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -381,6 +388,7 @@ providers of Public Lighting be reviewed as a matter of urgency.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 Notice of Motion submitted by Councillor S. Benson

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 wl Comhairle Cathrach
 & Contae Luimnigh
 aAaZ“™ I °———_—_—_——
@@ -86,6 +87,7 @@ Y @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -141,6 +143,7 @@ to St. Ita’s Terrace in the interest of the Abbeyfeale Tidy Towns and crime sa
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

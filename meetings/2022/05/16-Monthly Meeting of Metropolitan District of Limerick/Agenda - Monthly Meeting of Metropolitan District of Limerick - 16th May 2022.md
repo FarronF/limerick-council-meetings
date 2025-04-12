@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—__— Comhairie Cathrach a pay
 = eo, & Contae Luimnigh jomhe! — Chearaditent:
 . cé the,
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Annual Meeting
 
 To agree a date for the Annual Meeting of the Metropolitan District of Limerick.
@@ -84,6 +86,7 @@ waterfront to include a new pedestrian bridge over the river Shannon.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick if the Council has any plans to
@@ -126,6 +129,7 @@ design for the Roundabout at Rosmér, Old Cork Road.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 13. Notice of Motion submitted by Councillor J. Leddin (to be referred to the Community, Leisure

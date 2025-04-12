@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 6" April, 2016, AT 10:00 A.M.
@@ -57,6 +58,7 @@ urgent need of resurfacing. It was stated that Mountcollins was on the list for 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 would commence the following year.
 
 Proposed by Councillor Foley;
@@ -100,6 +102,7 @@ course.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. lor L.
 
 1 will ask at the next Meeting when the village of Mountcollins will be resurfaced, as it is ina
@@ -156,6 +159,7 @@ REPLY: A meeting is to be arranged on site with regard to this matter.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 Notice of Motion submitted by Councillor L. Galvin

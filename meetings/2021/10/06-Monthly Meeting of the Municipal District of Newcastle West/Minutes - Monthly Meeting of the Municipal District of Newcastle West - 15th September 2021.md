@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -48,6 +49,7 @@ outline to the Members of her experience to date in various Local Authorities.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members welcomed the Senior Planner and they highlighted the following items:
 
 Economic future of the District
@@ -102,6 +104,7 @@ Administrator agreed to forward this item to Corporate Services.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. uestion submi by Councill
 
 | will ask at the next Meeting for an urgent meeting with Irish Water to discuss the severe
@@ -148,6 +151,7 @@ with regard to the new borehole and waste water treatment plant.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. General Municipal Allocation (GMA)
 
 On the proposal of Councillor Ruddle, seconded by Councillor Galvin, it was agreed to allocate
@@ -199,6 +203,7 @@ and once agreement is reached, works will commence shortly thereafter.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Te Question submitted by Councillor F. Foley
 
 | will ask at the next Meeting for an update on speed ramps on St. Ita’s Road,
@@ -249,6 +254,7 @@ to bring this laneway to an acceptable standard.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In order to take a roadway/laneway in charge there is a formal process under
 Section 11 of the Roads Act 1993, which includes advertising the intention in
 local newspapers and seeking submissions from the public.
@@ -301,6 +307,7 @@ if someone is working from home, that they should be able to do the same work fr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 as in the office but this was not the case in some instances. However, it was also noted that
 although some staff were on leave, they did resolve issues that arose when contacted.
 
@@ -354,6 +361,7 @@ This item was dealt with as part of Item 2 on the Agenda.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. Notice of Motion submitted Councillor J. Scanlan
 
 1 will move at the next Meeting that our Authority provide a serviced area to accommodate
@@ -403,6 +411,7 @@ replying, the Director agreed to raise these items with the Director, Housing.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Clarification was also sought on the proposed development at Woodfield Manor, Newcastle
 West and the provision of social housing or affordable housing at this estate as per the
 Minutes of the July meeting. The Meetings Administrator agreed to seek clarification on this
@@ -448,6 +457,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

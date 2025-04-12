@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach : Se&bhisi Corparaideacha,
 & Contae Luimnigh Cormaine Cathvach agus Contae Luimnigh,
 

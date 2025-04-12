@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, COUNTY
 HALL, DOORADOYLE, CO. LIMERICK, ON FRIDAY, 16™ MAY, 2014,
@@ -43,6 +44,7 @@ Gleeson, Ryan, Sheahan (K) and Wade.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 At the outset, the Cathaoirleach welcomed the large attendance of the public to the
 Meeting and said the role of the public was primarily to observe and listen to the
 proceedings of the Meeting.
@@ -94,6 +96,7 @@ and establish new community based projects and initiatives. It is important to p
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 here that these people give a service above and beyond their duty, often meeting groups
 outside of office hours and late into the evening.
 
@@ -150,6 +153,7 @@ further erode our rural communities and it is time to stand up and fight back.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Collins (M) confirmed that he was proposing both part (a) and part (b) of
 the Motion, as set out in the Requisition.
 
@@ -194,6 +198,7 @@ development activities. He added that the reforms would provide for the alignmen
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the local community development sector with local government through the
 establishment of Local Community Development Committees, which would be
 mandated to prepare Local Community Plans in order to bring strategic co-ordination
@@ -238,6 +243,7 @@ the voting was as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 For:
 
 Councillors Collins (J), Collins (M), Fitzgerald, Foley, Gleeson, Ryan, Sheahan (K),
@@ -285,6 +291,7 @@ The County Secretary declared the Motion carried.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), it
 was unanimously agreed to postpone the LCDC meeting which had been arranged
 until after the Local Elections.
@@ -301,6 +308,7 @@ Data:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

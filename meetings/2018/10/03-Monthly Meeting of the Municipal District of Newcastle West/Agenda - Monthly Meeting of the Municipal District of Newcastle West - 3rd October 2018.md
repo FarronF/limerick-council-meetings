@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —=
 
 “rN
@@ -85,6 +86,7 @@ wv @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -137,6 +139,7 @@ buildings (vii) details on the formation of a working group to progress the plan
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 Notice of Motion submitted by Councillor F, Foley

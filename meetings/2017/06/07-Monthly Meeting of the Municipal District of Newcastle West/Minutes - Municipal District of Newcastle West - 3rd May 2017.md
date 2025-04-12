@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 3" MAY,
@@ -53,6 +54,7 @@ weeks.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 The Director in reply to a query raised in relation to derelict property at 15 Assumpta Park
@@ -108,6 +110,7 @@ to the Municipal District of Newcastle West and that the maximum amount of grant
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Scheme was €1,000 She also stated that the closing date for applications was the 26" May, 2017
@@ -162,6 +165,7 @@ were advised that the locations were as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Clash Road.
 e Killarney Road adjacent to the Coursing Club.
 e Knockbrack.
@@ -214,6 +218,7 @@ REPLY: A dog waste bin will be installed in order to deal with issue on the stre
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Other Matters Raised
 
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the following

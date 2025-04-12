@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ADS
 —=—>
 
@@ -94,6 +95,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 3: National Development Plan 2018-2027
 Overview of Housing Issues
 
@@ -144,6 +146,7 @@ CHAS Flats. Mr. Seamus Hanrahan advised that the Cosgrave Park construction budg
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 currently being assessed by the Department of Housing, Planning and Local Government
 (DHPLG). St. Anne’s Court is owned by the St. Vincent de Paul and is undergoing the
 acquisition process. CHAS Flats is at Part 8 public display and will be presented to the
@@ -196,6 +199,7 @@ development
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 5: Housing Delivery Overview 2017
 
 Mr. Seamus Hanrahan gave a presentation outlining the main projects in the Housing
@@ -252,6 +256,7 @@ Main reasons for Non-Compliance.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 He stated the majority of inspections in 2016 were on HAP properties and explained what
 ‘fail’ means in terms of non-compliance with the standards. He stated that while a
 substantial number of properties were non-compliant, they were for minor reasons.

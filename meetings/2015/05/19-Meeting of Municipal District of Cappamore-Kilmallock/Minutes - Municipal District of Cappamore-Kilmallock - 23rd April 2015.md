@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON THURSDAY,
@@ -49,6 +50,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the following estates — (i) Bellview, Kilmallock; (ii) Glen Grove, Kilmallock - be
 taken in charge, in accordance with Section 180 of the Planning and Development
 Acts, 2000-2014, and Section 11 of the Roads Act, 1993”.
@@ -100,6 +102,7 @@ O'Sullivan’s Centra Shop).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 As soon as further information is available Limerick City and County Council will
 inform all Councillors.
 
@@ -149,6 +152,7 @@ their recent bereavements:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Sean & Dominic Treacy, on the death of their father, Jeremiah Treacy,
 Knockmore, Bruree.
 

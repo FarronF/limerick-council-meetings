@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -56,6 +57,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -112,6 +114,7 @@ that adequate sight lines be provided for all traffic exiting the Woodfield Esta
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 & Contae Luimnigh
 no a SN
@@ -76,6 +77,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 7.
@@ -133,6 +135,7 @@ to Gala Supermarket on the Killarney Road, Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.

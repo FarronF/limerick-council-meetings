@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Oidiehe Bardais an Chaisleain Nua Thiar,
 _ ..-—l & Contas tadrretight Comhairle Cathrach agus Contae Lulmnigh
 
@@ -68,6 +69,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WF @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 QUESTIONS

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 16TH
@@ -53,6 +54,7 @@ Proposed by Councillor Collins, seconded by Councillor Galvin, and resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 “That the following housing estate be taken in charge in accordance with Section 180 of
@@ -109,6 +111,7 @@ the bin currently located at the Vocational School, if not being utilised, be mo
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Church Street, Executive Engineer Roads agreed to follow up on the matter.
@@ -165,6 +168,7 @@ replaced Ronaldson’s Bridge on the Shangarry Ballintubrid borders was taken.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 REPLY: Any suitable stone recovered from the existing structures at this location
@@ -223,6 +227,7 @@ vehicles wishing to access Breens.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It was agreed to invite a staff member from the Road Design Office to the next Meeting.
 
 8c. Question submitted by Councillor L. Galvin
@@ -271,6 +276,7 @@ planning issues that may require enforcement.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Councillor Browne in proposing the Motion stated that there were concerns in relation to
@@ -329,6 +335,7 @@ Council in respect of same. This money has been paid and the Council is
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 obligated to carry out the works. Efforts have been made by Council staff
@@ -385,6 +392,7 @@ This proposal was seconded by Councillor Collins and agreed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 REPLY: The budget allocation for 2015 was adopted by the full Council in January

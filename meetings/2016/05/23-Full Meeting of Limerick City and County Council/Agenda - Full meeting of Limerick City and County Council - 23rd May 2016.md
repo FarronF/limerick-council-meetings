@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha agus Bainistiocht Athruithe
 Comhairle Cathrach agus Contae Lutnngh
 
@@ -56,6 +57,7 @@ Castletroy, Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (c) Mungret College, Co. Limerick (to The Trustees Of Mungret St. Paul’s GAA
@@ -108,6 +110,7 @@ Stakeholder Group of Limerick 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (a)
@@ -169,6 +172,7 @@ Chief Executive already circulated)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 (i)
@@ -232,6 +236,7 @@ To consider the adoption of the Limerick Cultural Strategy: A Framework
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Limerick 2020 Bid for European Capital of Culture
 To approve the second round of the Limerick 2020 Bid for the designation
 
@@ -275,6 +280,7 @@ to 13" March, 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 {c) Open House Information Session on Lobbying Regulation held in Dublin
 on 19” April, 2016.
 
@@ -322,6 +328,7 @@ Meeting/Event.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -371,6 +378,7 @@ construction by Limerick City and County Council in 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -426,6 +434,7 @@ the interests of both safety and of visual amenity.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.
@@ -480,6 +489,7 @@ relation to access to mental health services.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 Notice of Motion submitted by Councillor C. Prendiville

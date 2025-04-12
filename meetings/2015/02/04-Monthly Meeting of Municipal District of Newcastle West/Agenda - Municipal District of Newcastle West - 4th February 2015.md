@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_— Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 5.
@@ -106,6 +108,7 @@ entrance to Breen’s house at Barna.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

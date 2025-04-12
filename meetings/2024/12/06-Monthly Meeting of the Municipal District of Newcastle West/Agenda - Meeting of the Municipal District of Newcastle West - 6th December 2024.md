@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairie Cathrach Duiche Bardais an Chaisledin Nua Thiar,
 pt LO 6 Coritse Lulmnigh Comhairle Cathrach agus Contae Luimnigh,
 
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation
 
 To review position in relation to allocations under the General Municipal Allocation

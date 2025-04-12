@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON TUESDAY, 9™ FEBRUARY, 2016, AT 9.00 A.M.
@@ -54,6 +55,7 @@ companies were refusing to insure properties that had not flooded previously but
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 risk of flooding. He condemned these practices and called on the Association of Irish Local
@@ -104,6 +106,7 @@ Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Maigue Rivers Trust
 
 The Senior Executive Engineer, Environment gave a presentation on the economic importance of
@@ -158,6 +161,7 @@ supportive of the development.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Next District Meeting
 
 it was agreed that the next Meeting would be held on Wednesday, 9" March, 2016 at 9.00 a.m. at
@@ -211,6 +215,7 @@ City and stressed the need for funding to be made available to upgrade Rathkeale
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 capital of the District. Councillor Sheahan highlighted the need for a similar investment in
@@ -263,6 +268,7 @@ outstanding issues.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Flooding Issues
 
 To receive update on proposals to address the fl ng issues in Foynes, Askeaton and

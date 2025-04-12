@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———_ Comhairle Cathrach Dich Bandai an Chaisedin Niue Thr
 Comhairle Cathrach ‘ont imni
 
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6.
 
 7.
@@ -122,6 +124,7 @@ Cross/junction in Clouncagh.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15S.

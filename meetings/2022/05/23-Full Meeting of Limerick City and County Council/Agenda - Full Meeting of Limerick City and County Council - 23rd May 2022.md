@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Serbhisi Corperaideacha,
 
 _—_ Comhairle Ca thrach Comhairle Cathrach sgus Contae Luimnigh.
@@ -68,6 +69,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - 587150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Filling of Vacancies on Strategic Policy Committees and Joint Policing
@@ -134,6 +136,7 @@ Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 {r)
 (s)
 
@@ -205,6 +208,7 @@ transfers.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (4)
 
 (e)
@@ -255,6 +259,7 @@ be held in London on 15" and 16" June, 2022.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (k)
 
 ()
@@ -297,6 +302,7 @@ the installation of chimney stacks.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (m)
 
 (iil)
@@ -342,6 +348,7 @@ To receive update on response to the Ukraine crisis.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -395,6 +402,7 @@ names of the consultants and the type of service that they provided to this Auth
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

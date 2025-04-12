@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar.
 & Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh.
 
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -114,6 +116,7 @@ the bridge dividing Kerry and Limerick on the Kilmorna Road.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 Notices of Motion submitted by Councillor J. Scanian

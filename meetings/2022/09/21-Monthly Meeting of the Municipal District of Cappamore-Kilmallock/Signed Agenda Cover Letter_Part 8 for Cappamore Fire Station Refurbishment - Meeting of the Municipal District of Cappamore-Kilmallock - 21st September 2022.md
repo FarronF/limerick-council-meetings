@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 AN Lf ™
@@ -70,6 +71,7 @@ Par Ww
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Accompanying drawings:
 
 DD0064-1 Existing & Proposed Site Layout

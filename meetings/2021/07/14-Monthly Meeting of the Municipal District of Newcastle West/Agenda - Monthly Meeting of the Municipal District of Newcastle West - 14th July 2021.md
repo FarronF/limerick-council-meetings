@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach ___Diiche Bardais an Chaistedin Nua Thiar,
 tom, & Contae Luimnigh Conehualrte eal es Rea eae ty
 ncoN ——__—__ Willian rhe
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchant's Quay. Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Di | of La
 
 To note proposal for the disposal of Property at Glensharrold, Carrickerry,
@@ -109,6 +111,7 @@ incurred on the air to water heating systems installed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -169,6 +172,7 @@ living amenity in Castleview Estate, Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 Notices of Motion submitted by Councillor J. Sheahan

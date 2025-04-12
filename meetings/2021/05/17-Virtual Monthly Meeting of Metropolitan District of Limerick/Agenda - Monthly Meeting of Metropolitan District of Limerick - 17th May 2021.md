@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 
@@ -70,6 +71,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleanala
 at Walkers Lane, Annacotty.
 
@@ -109,6 +111,7 @@ of these houses per Electoral Area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting of the Metropolitan District of Limerick can Limerick City and County
@@ -150,6 +153,7 @@ measures and interventions in housing estates that have been designated a “30k
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Question submitted by Councillor J. Collins
 
 | will ask at the next Meeting of the Metropolitan District of Limerick what measures Limerick City
@@ -194,6 +198,7 @@ delay.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for the Council to install
@@ -234,6 +239,7 @@ plans in place to create a designated outdoor dining area in Limerick City Centr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next Meeting of the Metropolitan District of Limerick that road space on the
 Dock Road be reallocated more appropriately towards cycling, walking and an improved public
 realm.

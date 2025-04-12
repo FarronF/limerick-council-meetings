@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_— Comhairle Cathrach P a Caton a
 a = & Contae L igh Ceanncheathra Chorparaideach,
 — Cé na gCeannaithe,
@@ -44,6 +45,7 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Carroll, Siobhan
 
 From: Benson, Sharon
@@ -66,6 +68,7 @@ Cllr Sharon Benson
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 31st of May 2022
 
 To the Mayor of Limerick City and County Council,
@@ -89,6 +92,7 @@ Cllr Sasa Novak 4 » Urn 6
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 BUILDING AN IRELAND OF £ :
 QuAls
 Clir, PJ CAREY

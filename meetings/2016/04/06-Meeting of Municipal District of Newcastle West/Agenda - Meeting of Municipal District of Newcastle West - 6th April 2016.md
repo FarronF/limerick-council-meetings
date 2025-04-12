@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 al Comhairle Cathrach agus Contae Luimnigh,
 
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -107,6 +109,7 @@ approach towards Castlemahon school in the interest of safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

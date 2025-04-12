@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach — = bia ler
 & Contae Luimnigh Combhairie Cathvach agus Contae Ludmnigh,
 

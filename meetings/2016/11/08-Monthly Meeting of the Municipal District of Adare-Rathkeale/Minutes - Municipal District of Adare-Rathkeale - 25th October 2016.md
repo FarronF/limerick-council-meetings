@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT THE DRAFT BUDGETARY PLAN 2017 MEETING OF THE
 MUNICIPAL DISTRICT OF ADARE-RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 25" OCTOBER, 2016, AT 6.30 P.M.
@@ -50,6 +51,7 @@ as amended,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 This concluded the Meeting.
 
 Signed:

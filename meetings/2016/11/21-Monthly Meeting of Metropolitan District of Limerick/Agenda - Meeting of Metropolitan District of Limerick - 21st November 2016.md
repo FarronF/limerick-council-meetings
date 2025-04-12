@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 rT Seirbhisi Corpardideacha,
 Comhasle Cathrach agus Contae Luimnigh,
 
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 {a)
@@ -119,6 +121,7 @@ and Development Act 2000 (as amended).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 7.
@@ -168,6 +171,7 @@ insecure contracts?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -231,6 +235,7 @@ also work with those struggling with alcohol and codeine addiction in this Distr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. ice of ir Hurl
 
 I will move at the next Meeting that the Council upgrades the road between the Annacotty

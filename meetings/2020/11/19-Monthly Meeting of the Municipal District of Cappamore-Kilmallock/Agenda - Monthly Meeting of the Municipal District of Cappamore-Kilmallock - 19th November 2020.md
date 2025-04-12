@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh Oifig an Crheartair, Ares Mhainchin Scoighe
@@ -53,6 +54,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Community Development Directorate
 Disposal of Property
 To note proposal for the disposal of property at The Square, Galbally, Co. Limerick.
@@ -89,6 +91,7 @@ consideration be given to the provision of a speed ramp at the Glenstal end of M
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Notice of Motion submitted by Councillor Gerald Mitchell
 
 | will move at the next meeting of the Municipal District of Cappamore-Kilmallock that the
@@ -131,6 +134,7 @@ along the R513.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Question submitted by Councillor Donegan
 | will ask at the next Meeting of the Municipal District of Cappamore-Kilmallock for an update
 

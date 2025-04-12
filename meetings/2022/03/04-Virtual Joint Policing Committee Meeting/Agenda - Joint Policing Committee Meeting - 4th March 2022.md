@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhis{ Corpardidescha,
 Comhairle Cathrach agus Contae Ludmmnigh,
 il rb Freche ca sto rt
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Maurice Quinlivan, T.D.:
 
 ‘| will ask at the next meeting for an update regarding the proposed pilot 24/7 Multi-agency

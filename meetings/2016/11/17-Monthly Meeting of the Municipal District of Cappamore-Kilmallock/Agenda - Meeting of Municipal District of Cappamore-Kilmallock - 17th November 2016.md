@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Seirdhist Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -100,6 +102,7 @@ Cappamore-Kilmallock.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Question submitted by Councillor E. Ryan
 
 I will ask at the next Meeting for a full breakdown of all costs incurred in providing the

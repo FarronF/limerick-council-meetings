@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK, ON TUESDAY, 2”° DECEMBER, 2014, AT
@@ -51,6 +52,7 @@ existing Local Area Plan.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Environment and Water
 
 Gortadroma Landfill
@@ -104,6 +106,7 @@ The result of the voting was as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 For the Amendment:
 Councillors Keary, McMahon, Neville, O'Brien, O'Donoghue and Sheahan. (6)
 The Meeting Administrator declared that the amendment was carried.
@@ -153,6 +156,7 @@ size. The continuation of current residential zoning will compound and
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii).
 
 4
@@ -211,6 +215,7 @@ possible into the scheme. A comprehensive tree survey carried out by a
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii).
 
 liv)
@@ -269,6 +274,7 @@ Development Area Phase 1 to Open Space compliments these guidelines.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 ¢ The Adare Area Plan has zoned 34.54 hectares as Residential Development
@@ -323,6 +329,7 @@ Flying Boat & Maritime Museum.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Deputation from the Parents’ Council of Shanagolden National
 School
 
@@ -371,6 +378,7 @@ The local elected representatives have been briefed on this initiative.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 8. Notice of Motion submitted by Councillor E. O’Brien
@@ -405,6 +413,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 C. ~ aN
 6unoz.
 wv > s
@@ -413,6 +422,7 @@ wv > s
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

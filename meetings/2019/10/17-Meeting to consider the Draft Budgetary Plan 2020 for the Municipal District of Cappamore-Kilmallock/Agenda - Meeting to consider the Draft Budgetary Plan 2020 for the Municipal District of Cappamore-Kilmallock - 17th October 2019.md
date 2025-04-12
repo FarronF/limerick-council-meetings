@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimmigh,
 & Contae Luimnigh Olfig an Cheantatr, Aras Mhainchin Seoighe,
 

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 am™~
 — Limerick City
 & County Council
@@ -72,6 +73,7 @@ m customerservices@limerick.te
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Disposal of Land
@@ -125,6 +127,7 @@ up to May 2022.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (d)
@@ -183,6 +186,7 @@ Strategic Policy Committee held on 16" June, 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -229,6 +233,7 @@ Institute of Technology to Mary Immaculate College cycleway
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -280,6 +285,7 @@ Code of Conduct for its students for the coming academic year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Comhairle Cathrach Comnhairie Cath feaaOsnl L sigh
 . ervey ve Cathrach agus Contae Luiny
 & Contae Luimnigh Ceanncheathri Chorparaideach
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor Sean Hartigan
 
 | will ask at the next Meeting of the Joint Policing Committee for an update on recent measures

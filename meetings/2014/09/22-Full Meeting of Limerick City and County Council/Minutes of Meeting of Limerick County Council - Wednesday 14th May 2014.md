@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 LIMERICK COUNTY COUNCIL HELD IN THE COUNCIL
 CHAMBER, COUNTY HALL, DOORADOYLE, CO. LIMERICK, ON
@@ -49,6 +50,7 @@ of the Government.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ne
 
 The Senior Executive Planner outlined the procedure to be adhered to following
@@ -103,6 +105,7 @@ which would be highly unlikely if the land was zoned ‘Agriculture.’
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. 1! recommend an increase in the area of open space as indicated on the map submitted (additional
 open space area of 0.58 hectares). This change is in line with the proper planning and sustainable
 development of the area in that it will provide additional open space for the residents in the area
@@ -146,6 +149,7 @@ Data:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

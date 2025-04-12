@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 
 = a —— —s
@@ -49,6 +50,7 @@ To consider the Chief Executive’s Report prepared pursuant to Section 179, sub
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Planning and Development Regulations, 2001 (as amended) in relation to the

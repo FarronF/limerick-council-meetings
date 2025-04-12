@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 en Comhairle Cathrach
 & Contae Luimnigh
 are” F a ‘“
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of interest.
 
 3. Disposal of Land
@@ -110,6 +112,7 @@ and Limerick Civic Trust have very limited resources.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor C. Slattery
 | will ask at the next Meeting of the Metropolitan District of Limerick, can the Council advise how
 
@@ -153,6 +156,7 @@ fouling bins present in Limerick City and who is responsible for emptying these 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor E. O'Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick on how many parking fines
@@ -194,6 +198,7 @@ to request that all measures are taken to ensure no redundancies are made at thi
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21. Notice of Motion submitted by Councillor S. Hartigan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and

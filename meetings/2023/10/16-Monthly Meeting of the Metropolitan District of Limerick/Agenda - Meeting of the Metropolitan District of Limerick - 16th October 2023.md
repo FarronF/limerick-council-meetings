@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ~ Setbhisi Corparaideacha,
 —_—_—_ ee ee of Comhairle Cathwach agus Contae Luimnigh,
 a ontae Luimnig Ceanncheathn Chorparaidesch,
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick <\ 062 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Minutes
 To adopt Minutes of the following Meetings:
 
@@ -110,6 +112,7 @@ the Planning & Development Act 2000 (as amended) and Section 11 of the Roads Act
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ESTIONS
 6. Question submitted by Councillor D. McSweeney
 
@@ -166,6 +169,7 @@ and rat infested etc. Can the Council take these lanes in charge again please. T
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 lane in Granville Park that also needs to be taken in charge. We need to support our elderly
 people who no longer can do the up keep of these lanes.
 
@@ -220,6 +224,7 @@ for the delivery of the much-needed proposed Library for the greater Castletroy 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19. Question submitted by Councillor E, O'Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the removal
@@ -264,6 +269,7 @@ service level agreement.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 27. Question submitted by Councillor S. Benson
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, what the budget is for the
@@ -314,6 +320,7 @@ to cover schools that have not yet received funding.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 34. Notice of Motion submitted by Councillor C. Slattery (to be referred to the Local Electoral
 Area Briefings)
 

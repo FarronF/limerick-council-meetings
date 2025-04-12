@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirdhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation
 
 To agree date for General Municipal Allocation Workshop.

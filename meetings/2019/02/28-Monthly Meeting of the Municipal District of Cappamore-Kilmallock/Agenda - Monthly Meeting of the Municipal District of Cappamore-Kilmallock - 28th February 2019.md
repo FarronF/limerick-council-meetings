@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 aa Comhairle Cathrach
 — rs & a ae
 —— 6 sesh Conca
@@ -45,6 +46,7 @@ in the Municipal District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 >

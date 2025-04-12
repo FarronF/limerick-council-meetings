@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON TUESDAY, 10™ NOVEMBER, 2015, AT 9.00 A.M.
@@ -52,6 +53,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Regional Directorate (Mid West National Road Design Office)
 Proposed N21 Adare Western Approach Improvement Scheme
 
@@ -110,6 +112,7 @@ temporary car parking adjacent to the town park.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 The Senior Engineer informed the Members that the proposed works would cost in excess of €1
@@ -166,6 +169,7 @@ resource through a silvicultural method of Close to Nature Forestry
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 In response to Members queries on the possibility of restoring Curragh Chase House and opening
@@ -215,6 +219,7 @@ remaining four will be ready in two weeks for allocation.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 NOTICES OF MOTION
@@ -261,6 +266,7 @@ flooding.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Members sought an update on the re-examination of the one way traffic system in Rathkeale and

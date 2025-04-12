@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -51,6 +52,7 @@ years,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 At the end of the presentation, the Director, Community Development Directorate on behalf
 of Limerick City & County Council, presented Mr Gleeson and Ms Grant with a Certificate
 and album to acknowledge the nomination and participation of St. Michael’s Day Care
@@ -95,6 +97,7 @@ Executive confirmed the position that he outlined to Members at the Special Meet
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 on the 26" September 2018, that the road scheme would proceed in accordance with the
 Part VIll as approved.
 
@@ -139,6 +142,7 @@ communities.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 They especially stressed the importance of the work currently being done in the area of
 derelict sites, which was complimentary to the work being done by local Tidy Towns groups,
 etc. in communities.
@@ -180,6 +184,7 @@ Directorate dated 4'" September, 2019, which was noted by the Members
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 9. Notice of Motion submitted by Councillor John Egan
@@ -223,6 +228,7 @@ public road.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -275,6 +281,7 @@ previous Municipal District meetings in the interest of safety for all road user
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Reply: The detailed design for traffic calming measures has been completed and this
 design is currently going through public consultation under Section 38 of the Roads Act
 1994, as amended by the Public Transportation Act, 2009 (section 46).
@@ -321,6 +328,7 @@ graveyard. A consultant is currently assessing the tenders received.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17 .Question submitted by Councillor Martin Ryan
 
 | will ask at the next Meeting of the Municipal District for details of the Council's

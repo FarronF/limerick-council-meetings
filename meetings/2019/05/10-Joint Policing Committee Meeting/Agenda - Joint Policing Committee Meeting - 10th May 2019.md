@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 DKS
@@ -84,6 +85,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -137,6 +139,7 @@ daily to serve the needs of this vast area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. To consider the following Notice of Motion submitted by Councillor Paul Keller :
 
 “I propose, since the existing road traffic legislation does not apply to green spaces, housing

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _— Comhairle Cathrach
 = & Contae Luimnigh
 see Limerick City
@@ -81,6 +82,7 @@ v www.limerickie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Social Development Directorate
@@ -134,6 +136,7 @@ To discuss water quality issues in Rathkeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -196,6 +199,7 @@ along the trail route in the towns and villages.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

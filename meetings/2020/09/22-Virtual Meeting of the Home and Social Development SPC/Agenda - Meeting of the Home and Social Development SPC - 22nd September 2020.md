@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ‘TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL
 DEVELOPMENT STRATEGIC POLICY COMMITTEE
 
@@ -58,6 +59,7 @@ bill.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Call for Agenda Items.
 
 9, Any other business.

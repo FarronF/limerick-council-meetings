@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ _——_i Comhairle Cathrach
 & Contae Luimnigh
 DBL OO Oe
@@ -81,6 +82,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 UESTION

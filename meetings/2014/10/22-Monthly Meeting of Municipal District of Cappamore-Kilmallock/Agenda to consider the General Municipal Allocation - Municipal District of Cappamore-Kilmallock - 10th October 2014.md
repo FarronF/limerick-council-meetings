@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Pe
 peer
 
@@ -50,6 +51,7 @@ reviewing the levels of discretionary allocations in 2014 budget.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Section 102 (4A) (c) and (d) provide that it is a reserved function of the members of a
 municipal district to adopt the draft budgetary plan with or without amendment.
 
@@ -73,6 +75,7 @@ Head of Finance.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 CAPPAMORE KILMALLOCK MUNICIPAL DISTRICT DRAFT BUDGETARY PLAN
 2015
 

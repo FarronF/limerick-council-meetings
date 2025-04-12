@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Comhairle Cathrach Duiche Bardais an Chaidedin Nus Tat
 & Contae Luimnigh Comhairle Catlvach agus Contae Luimni
 PP OO  —— Aras William Smith O'Brien,
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -117,6 +119,7 @@ at Lyons Cross, Kilmorna Road, Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

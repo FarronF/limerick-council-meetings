@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——_ Comhairle Cathrach Comhairle Cathra fan Carica LabTolaae
 . . Orns e wacn, & a ee Lu ‘ugh,
 ai > & Contae Luimnigh Ceanncheathna Chorparaideach,
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rural, Community, Culture and Tourism Development Directorate
 
 General Disposals
@@ -113,6 +115,7 @@ Members of Limerick City and County Council for the Year ended
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (d)
@@ -164,6 +167,7 @@ resignation from the Trust of the Council’s nominee, Councillor Talukder.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (s)
 
 (h)
@@ -221,6 +225,7 @@ Recommendation:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iv) | Chairperson’s Report — Meeting of the Community, Leisure, Arts,
 Heritage and Culture Strategic Policy Committee held on 12" March,
 
@@ -269,6 +274,7 @@ To consider approving recommended grants under the Arts Act, 2003.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (c) Individual Arts Bursary Awards 2025
@@ -313,6 +319,7 @@ suffering from car parking issues on a regular basis.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9.
 
 10.
@@ -366,6 +373,7 @@ fulltime Access Officer, with appropriate seniority and training.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -412,6 +420,7 @@ the relating purchase monies amount to, and when completions are expected.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor N. Stokes
@@ -456,6 +465,7 @@ Gaza, East Jerusalem and the West Bank. Note: (b) Referred to Protocol Committee
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 31.
 
 10
@@ -493,6 +503,7 @@ tourists and interested parties.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Motion sub: Councillor S. Hickey-O'’Mara
 
 | will move at the next Meeting that this Council engage the services of a Sustainability

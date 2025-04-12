@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cxiiche Bardais an Chaisleain Nua Thisr,
 _—_—_ Comhairle brah Comhairte Cathrach agus Contae Luimnigh,
 
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchant's Quay, Limerick C061 - 556 000
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Construction of six cattle underpasses and one cattle overpass at five locations
 on the newly developed Great Southern Greenway at Garranekeevan, Dromin
 (MacTurlough), Doonakeen, Knocknasna and Port.

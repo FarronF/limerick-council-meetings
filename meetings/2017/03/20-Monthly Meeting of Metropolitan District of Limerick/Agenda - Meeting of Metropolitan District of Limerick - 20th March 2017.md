@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -113,6 +115,7 @@ To consider approving Grant Scheme for Festival Funding 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -173,6 +176,7 @@ Limerick, including connectivity with areas outside of the district.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 is.
 
 16.

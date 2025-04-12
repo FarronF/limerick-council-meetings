@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE COMMUNITY
 CENTRE, CAPPAMORE, CO. LIMERICK, ON THURSDAY, 9™ MAY,
@@ -45,6 +46,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Service Operations Directorate
 
 (a) Operations and Maintenance Services-Update on traffic counters
@@ -86,6 +88,7 @@ North Bridge along the bank of the Loobagh River beside Colaiste lésaef.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 She explained that following a competition run locally to name the walk, that the name “The
 Priory Walk” was selected and the Elected Members were now being asked to formally
 approve this name for the walkway.
@@ -130,6 +133,7 @@ items were raised:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Pro Meeting with Transport Inf rel
 
 The Elected Members asked for an update on this proposed meeting and the Director,

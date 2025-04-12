@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach Combisirie Camwach eps Conmeetuaneton
 - . ¥
 wv” ™ & Contae Luimnigh Ceanncheathni Chorpardideach,
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows :
 
@@ -99,6 +101,7 @@ of the Existing Playground at Castletroy, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Economic Development Directorate
 
 Part 8 Procedure ~ Extension to ENGINE, Cecil Street
@@ -138,6 +141,7 @@ from this funding.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Question submitted by Councillor J. Costelloe
 
 | will ask at the next Meeting how many peopie are employed in the Troy Studios Development and
@@ -179,6 +183,7 @@ Covid plans.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting for an update on the progress of reinstating speed ramps on the
@@ -222,6 +227,7 @@ preference based on number of bedrooms required and publishes these figures.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 24. Notice of Motion submitted by Councillor D. McSweeney (to be referred to the Climate Action,
 Biodiversity and Environment Strategic Policy Committee)
 
@@ -256,6 +262,7 @@ of all those who have lost their lives to addiction and those who are in active 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 30. Correspondence
 
 (Copy of Correspondence Enclosed).

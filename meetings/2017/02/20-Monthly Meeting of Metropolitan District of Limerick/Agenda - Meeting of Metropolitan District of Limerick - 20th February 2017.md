@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Sewrbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -74,6 +75,7 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Service Operations Directorate - Planning and Environmental Services
@@ -127,6 +129,7 @@ been waived.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -188,6 +191,7 @@ Plan must take this into account and provide for all access from the Dock Road.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.

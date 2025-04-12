@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rith Caola,
 & Contae Luimnigh Comhairle Cathrach agus “ee prey ty
 ~ a ns = = Line Nua,
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick. Ld Coeksases0
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Capital Investment Directorate
 Part 8 Procedure — Towerfield, Croom, Co. Limerick
 To consider the Chief Executive’s Report pursuant to Section 179 3 (a) of the Planning and
@@ -99,6 +101,7 @@ been appointed in Adare on the occasion of the retirement of Mike Brouder.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

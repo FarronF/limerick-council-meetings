@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28" March 2017
 
 To/Each Member of the Economic Development, Enterprise and Planning

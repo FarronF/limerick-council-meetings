@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ie Comhairle Cathrach
 & Contae Luimnigh
 Arc™N acer
@@ -65,6 +66,7 @@ mm customerservices@limerick ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Limerick City & County Council
 3.1 MAR 2025
 

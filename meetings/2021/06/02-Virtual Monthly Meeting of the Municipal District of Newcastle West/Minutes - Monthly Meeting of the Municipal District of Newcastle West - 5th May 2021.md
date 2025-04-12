@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -49,6 +50,7 @@ Seconded by: Councillor Ruddle
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -98,6 +100,7 @@ On the proposal of Councillor Ruddle, seconded by Councillor Galvin, it was agre
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
 €1,000 to Ferndale Residents Association.
 
@@ -149,6 +152,7 @@ In litter fines, €300 was collected and there was no money collected in dog fo
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Galvin expressed dissatisfaction at the response received with regard to the
 number of dog fouling and litter fines issued in 2021. Concern was expressed with regard to
 the rise in incidents of illegal dumping and dog fouling in recent months. Where fines were
@@ -198,6 +202,7 @@ excessive speed in this location and it is difficult to cross the road.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: The completion of a speed survey and a pedestrian count survey will be
 required at the above location with regard to the provision of a pedestrian
 crossing. These surveys will be carried out within the next few weeks.
@@ -246,6 +251,7 @@ REPLY:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The needs assessment in determining the number and a suitable bed-type mix for the
 proposed Part 8 at the Forge, Broadford is based on the Approved Housing Waiting List. A
 breakdown of the approved Housing Waiting List is provided below. The Capital Investment
@@ -292,6 +298,7 @@ will be carried out.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 12. Notice of Motion submitted by Councillor L. Galvin
@@ -343,6 +350,7 @@ statutory processes”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion, Councillor Scanlan requested that priority be given to upgrading
 Newcastle West Waste Water Treatment Plant. An update on the requested meeting with
 Irish Water was also raised and the Meetings Administrator agreed to follow up on this
@@ -394,6 +402,7 @@ where this is possible.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Motion was seconded by Councillor Ruddle.
 
 REPLY: As part of the current programme of works on the Limerick Greenway, ducting
@@ -439,6 +448,7 @@ footpaths was also raised.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members wished to thank Minister S. Harris, Minister for Further and Higher Education,
 Research, Innovation and Science, Minister N. Collins, Minister of State and congratulate
 Limerick Institute of Technology on receiving university status. It was agreed that the
@@ -492,6 +502,7 @@ It was agreed to hold the Annual Meeting of the District on Wednesday, 2"? June,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 This concluded the Meeting.
 
 Signed:

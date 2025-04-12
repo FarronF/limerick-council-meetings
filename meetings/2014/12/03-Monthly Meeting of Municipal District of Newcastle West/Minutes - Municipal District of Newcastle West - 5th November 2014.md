@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM
 SMITH OBRIEN, GORTBOY, NEWCASTLE WEST, CO. LIMERICK,
@@ -47,6 +48,7 @@ efforts made by both Council staff and the Gardai.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Zz
 Members outlined their concerns, which included the following:
 
@@ -114,6 +116,7 @@ Nos. (Personal Public Service Nos.).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Customer Services:
 
 The Executive Architect circulated to Members copy plans of the Proposed Refurbishment
@@ -158,6 +161,7 @@ arranged with Cluid Housing Association in the near future.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Question submitted by Councillor J. Scanlan
 
 | will ask at the next Meeting if remedial works will be undertaken to improve sight
@@ -203,6 +207,7 @@ Management Plan was urgently required for the town.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: There is considerable merit in acquiring this building from a transportation
 perspective. Clearly, its acquisition would be dependant on a funding source
 being made available to purchase the property at a reasonable price.
@@ -255,6 +260,7 @@ now ceased."
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Following receipt of the above direction, the Council confirmed to the Office
 of the Data Protection Commissioner that the practice had ceased in April
 2014.
@@ -301,6 +307,7 @@ additional street bins in Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members welcomed that the Fire Station in Abbeyfeale was re-opened but they stated that
 a long-term solution was needed to the on-going problems being experienced by the
 Station. Members requested that they be kept up-to-date on the situation.

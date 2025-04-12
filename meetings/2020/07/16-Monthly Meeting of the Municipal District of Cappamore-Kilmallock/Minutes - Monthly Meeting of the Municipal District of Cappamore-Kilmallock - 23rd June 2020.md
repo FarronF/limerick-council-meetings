@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN COLAISTE IOSAEF
 COMMUNITY COLLEGE, SHEARE’S ST, KILMALLOCK, CO. LIMERICK,
@@ -37,6 +38,7 @@ for all those who had perished in recent months because of the Covid 19 crisis a
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the work done by all frontline workers in facing the challenges encountered in dealing with
 Covid 19.
 
@@ -89,6 +91,7 @@ same. The Director, Support Services-Finance, Corporate, HR & ICT confirmed that
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 presentation would be made to the Elected Members later in the year in relation to the
 completion of works contained in the Schedule of Municipal District Works 2020.
 
@@ -137,6 +140,7 @@ NOTICE OF MOTION
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
 Limerick City and County Council and the Department of Transport, Tourism and Sport
 review the heavy traffic loading on the R513 Regional road from Caherconlish to
@@ -181,6 +185,7 @@ what are its future plans.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Cilr Mitchell, seconded by Cllr Teefy and agreed that the Meetings
 Administrator would, on behalf of the Elected Members, write to Shannon Doc outlining
 the concerns expressed in the Notice of Motion and seek a reply to same.
@@ -223,6 +228,7 @@ Reply:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Transport Infrastructure Ireland (Til) were contacted by Limerick City and County Council on
 the 12" March 2020 regarding the above issue. TIl responded and recommended that: “as
 there is no need to prevent overtaking other than on approach to this junction, the lining
@@ -267,6 +273,7 @@ direct result of a partial network blockage further downstream.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Water Services Operatives later that evening removed a significant amount of debris and
 unblocked this sewer. It is my understanding that the sewer is now functioning as designed
 and that overflow discharges to the river have now ceased.
@@ -286,6 +293,7 @@ Cathaoirleach
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

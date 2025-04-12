@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN KILCORNAN COMMUNITY CENTRE, KILCORNAN, CO. LIMERICK ON
 TUESDAY, 8™ NOVEMBER, 2016, AT 9.00 A.M.
@@ -54,6 +55,7 @@ agreed that Irish Water and the EPA should be invited to the next Meeting of the
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Circulated, copy of draft Minutes of Budgetary Plan 2017 Meeting of the Municipal District
 of Adare-Rathkeale held on 25" October, 2016.
 
@@ -107,6 +109,7 @@ consider proposals from Limerick City & County Council. In accordance with their
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 procedures for requests of funding, a feasibility report has now been requested.
@@ -159,6 +162,7 @@ and the position had been clarified.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 5. Service Operations Directorate — Planning & Environmental Services
@@ -216,6 +220,7 @@ format, accessible by the public and the Elected Members.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 © Details of 13 derelict sites on the Register for Rathkeale including properties about to be
@@ -277,6 +282,7 @@ the Municipal District of Adare-Rathkeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Report was noted by the Members.
 
 7. Flooding Issues
@@ -326,6 +332,7 @@ lived in would be a matter for An Garda Siochana.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Notice of Motion submitted by Councillor A. Teskey.
 
 It was noted that this Item had been considered in conjunction with Item 5 (b) on the Agenda.
@@ -375,6 +382,7 @@ first lowered then brought back to its original level with the new road making m
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 In seconding the Motion Councillor Keary noted that while property owners must not allow water

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach Duiche Bardais an Genie Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Conte Luimnigh.
 AA fe a SSS Aras William Smith O’Brien,
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY e@limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 7.
@@ -115,6 +117,7 @@ property.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

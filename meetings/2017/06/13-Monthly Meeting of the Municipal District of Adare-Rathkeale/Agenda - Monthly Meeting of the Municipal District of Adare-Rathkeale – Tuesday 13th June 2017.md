@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——_ Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick eee a0aa0e
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) | To note update on the Taking-In-Charge of An Curran Estate, Pallaskenry.
 
 (Copy Enclosed)
@@ -107,6 +109,7 @@ To note update on the path from Kildimo Village to the Beer Garden.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

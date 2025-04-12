@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 — & Contae Luimnigh
 * aie — Limerick Ci
@@ -70,6 +71,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 10.
@@ -121,6 +123,7 @@ are due to change.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Policing Committee held on 2” June, 2023) _
 
 | will move at the next meeting for the creation of an action plan, similar to Operation Copég, to

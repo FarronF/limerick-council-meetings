@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrbnist Corparaiceacha agus Bainistioctt Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -58,6 +59,7 @@ To consider proposal for the disposal of land at:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d)
 (e)
 
@@ -119,6 +121,7 @@ Group of Limerick 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 (f) Proposed Visit to Birmingham
@@ -170,6 +173,7 @@ transfers to reserves.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Tourism Sector Su rt Scheme 2015
 To consider the adoption of Tourism Sector Support Scheme 2015.
 
@@ -220,6 +224,7 @@ on 27"/28" July, 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (I) Seminar “Changes to Community Development,” to be held in
 Galway on 31* July /1* August, 2015.
 
@@ -267,6 +272,7 @@ vacant with specific numbers given on each electoral area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -321,6 +327,7 @@ beverages brands.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -382,6 +389,7 @@ promotion commencing in 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22.
 
 23.

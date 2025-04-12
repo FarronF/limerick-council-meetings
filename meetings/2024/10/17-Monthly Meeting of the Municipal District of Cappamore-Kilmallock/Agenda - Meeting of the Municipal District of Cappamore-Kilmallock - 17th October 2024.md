@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 AON ff “
@@ -66,6 +67,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Property Services
 
 Disposal of Freehold Interest in property at 5 Ash Hill, Kilmallock, Co. Limerick.
@@ -102,6 +104,7 @@ dereliction and back into use for housing need.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Notice of Motion submitted by Councillor Teefy
 
 “| will move at the next meeting of the Cappamore-Kilmallock Municipal District that traffic

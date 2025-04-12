@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathract Ceantar Bardasach Ath Dara-Réth Caola,
 Le) aine Catnracn
 
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) To note proposal for the disposal of property at Galvone Industrial Estate (Former
 Provincial Floor Covering Site), Limerick.
 
@@ -106,6 +108,7 @@ To review survey for parking in Adare
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 OTICE 10
 
 Notice of Motion submitted by Councillor K. Sheahan
@@ -119,6 +122,7 @@ AOB
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

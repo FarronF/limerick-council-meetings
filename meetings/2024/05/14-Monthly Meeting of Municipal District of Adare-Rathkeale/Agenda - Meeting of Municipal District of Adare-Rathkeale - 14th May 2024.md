@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 AN ‘“
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposals of Freehold Interest at 9 Boherbue, Rathkeale, Co.
@@ -104,6 +106,7 @@ To update Members on issues of interest in the District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11,
@@ -166,6 +169,7 @@ these estates.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 19.

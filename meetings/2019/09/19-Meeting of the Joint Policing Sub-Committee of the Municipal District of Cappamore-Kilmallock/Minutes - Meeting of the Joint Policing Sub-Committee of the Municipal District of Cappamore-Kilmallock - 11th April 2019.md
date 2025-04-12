@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN THE OLD IRISH WAYS MUSEUM,
@@ -48,6 +49,7 @@ additional resources including staffing and a policing plan for the area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Superintendent Sugrue confirmed to the Members that Garda John Curtin, Ballylanders and
 Sergeant Helen Holden, Cappamore are due to retire shortly and that plans to replace these
 staff members are currently in train.

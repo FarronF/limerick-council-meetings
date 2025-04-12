@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_ Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -56,8 +57,10 @@ Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 10.
@@ -107,8 +110,10 @@ Council's plans to support Inland Fisheries Ireland and the local Angling Club.
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -154,6 +159,7 @@ Kilmallock for consideration and adoption.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Director of Service pointed out that the Standing Orders presented were
 consistent with Government Guidelines and each Municipal District had a
 requirement to adopt its own Standing Orders.
@@ -204,6 +210,7 @@ The Members noted the report and welcomed the proposed development.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Travel and Transportation
 
 Mr. Brian Kennedy made a presentation in relation to set-up of Operational Divisions.
@@ -255,6 +262,7 @@ carried out in 2015, subject to available funding.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor N. Gleeson
 
 | will ask at the next Meeting about developing a car park in Doon beside the
@@ -305,6 +313,7 @@ and asked if the situation could be reviewed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor O' Donnell seconded the Motion.
 
 REPLY:
@@ -341,8 +350,10 @@ Cathaoirleach
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON FRIDAY,
@@ -392,6 +403,7 @@ District as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 To finance Gross Revenue Expenditure Municipal District
 Details of Proposed Expenditure proposed expenditure
 
@@ -432,6 +444,7 @@ He outlined that those projects must specify a minimum spend of €50,000
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 each and it was envisaged that this spend would be for projects of a specific
 and strategic nature. It was noted that the total amount allocated for special
 projects in each of the Municipal Districts was €100,000 with €150,000 being
@@ -472,6 +485,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

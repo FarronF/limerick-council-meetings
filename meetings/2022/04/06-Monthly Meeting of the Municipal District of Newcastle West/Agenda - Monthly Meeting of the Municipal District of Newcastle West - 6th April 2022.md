@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ___ Comhairle Cathrach
 & Contae Luimnigh
 AoN
@@ -81,6 +82,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 11.
@@ -126,6 +128,7 @@ Browne’s corner to the Church as it is in very bad condition.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.

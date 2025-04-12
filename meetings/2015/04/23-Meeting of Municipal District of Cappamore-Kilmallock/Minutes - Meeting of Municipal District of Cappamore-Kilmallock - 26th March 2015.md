@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, Co. LIMERICK, ON THURSDAY,
@@ -46,6 +47,7 @@ the Members on the following:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ne
 
 The background.
@@ -106,6 +108,7 @@ Item No. 4 in committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. General Municipal Allocation
 
 The Director provided a breakdown of the amount that was required to be allocated
@@ -149,6 +152,7 @@ Members:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 GMA and Development Fund Allocations for Cappamore-Kilmallock 2015
 
 Total ———C BODE
@@ -189,6 +193,7 @@ the May Monthly Meeting on Wednesday 13th May, 2015 at 4 pm.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ With the Cathaoirleach’s permission, sympathy was extended to the following on
 their recent bereavements:
 
@@ -211,6 +216,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

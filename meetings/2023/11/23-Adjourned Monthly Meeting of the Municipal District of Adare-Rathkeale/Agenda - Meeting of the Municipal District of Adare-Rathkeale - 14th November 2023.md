@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 agi Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 & Contae Luimnigh Comhairie Cathrach agus = rm ny
 Ne <4 Li rick Cit Line Nua.
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @limerickCouneil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Declaration of Interest
 
 Planning, Environment and Place Making Directorate
@@ -104,6 +106,7 @@ improve safety for all road users.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

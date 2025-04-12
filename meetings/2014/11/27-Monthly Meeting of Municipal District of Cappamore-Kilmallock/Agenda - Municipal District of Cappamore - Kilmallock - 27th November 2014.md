@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -59,8 +60,10 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4,
 
 7.
@@ -110,6 +113,7 @@ pedestrian bridge at North Bridge, Kilmallock.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13

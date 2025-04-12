@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiiche Bardais an Chaisledin Nua Thiay,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -118,6 +120,7 @@ growing. A number of constituents have been in contact about this.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

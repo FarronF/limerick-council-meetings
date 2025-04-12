@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
 _—_ Comhairle Cathrach agus Contae Luimnigh,
 
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -109,6 +111,7 @@ where there are many families with young children living.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 a.
@@ -155,6 +158,7 @@ Correspondence
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

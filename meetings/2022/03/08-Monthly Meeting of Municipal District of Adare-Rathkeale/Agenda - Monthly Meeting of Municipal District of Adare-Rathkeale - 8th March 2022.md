@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Rardasach Ath Dara-Rath Caota,
 
 & Contae Luimnigh Combhanrle Cathrach agus ¢ gr ston Po
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) Disposal of Freehold Interest of premises consisting of a dwelling house situate
 at Holycross, Rathkeale, Co. Limerick.
 (Reports Enclosed).
@@ -105,6 +107,7 @@ our housing waiting list within our District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

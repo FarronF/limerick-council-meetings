@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 28" JUNE,
@@ -46,6 +47,7 @@ District for the coming year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Foley;
 Seconded by Councillor Sheahan;
 
@@ -94,6 +96,7 @@ the coming year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The incoming Leas-Chathaoirleach congratulated Councillor Collins on being elected Cathaoirleach.
 He thanked his Proposer and Seconder and all the Members for their support.
 

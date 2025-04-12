@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 = & Contae Luimnigh
 ~e * — Limerick City
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land / Proposed Sub-Lease
 
 To note proposal for the disposal of land, and proposed sub-lease as follows :
@@ -99,6 +101,7 @@ Dock Road, Limerick,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 5. Question submitted by Councillor J. Leddin
@@ -141,6 +144,7 @@ explored ownership of this Castle, which attracts many visitors.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the flood
@@ -178,6 +182,7 @@ Cork Road to include Georgian Village up as far as Rosmor.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Notice of Motion submitted by Councillor C. Slattery (to be referred to the Local Electoral Area
 Briefings)
 
@@ -215,6 +220,7 @@ and littering during the Covid 19 lockdown.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23. Notice of Motion submitted by Councillor C. Sheehan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and County

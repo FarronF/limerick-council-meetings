@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -110,6 +112,7 @@ construction and completion is expected.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -164,6 +167,7 @@ and remove the dump at river side of King John’s Castle.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -223,6 +227,7 @@ provide more affordable, quality student accommodation in the district.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.

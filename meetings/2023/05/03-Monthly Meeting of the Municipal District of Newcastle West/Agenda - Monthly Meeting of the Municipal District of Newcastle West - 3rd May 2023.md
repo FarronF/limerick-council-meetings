@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 & Contae Luimnigh
 ae ae
@@ -82,6 +83,7 @@ e wow limerick le
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -133,6 +135,7 @@ the interest of safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.

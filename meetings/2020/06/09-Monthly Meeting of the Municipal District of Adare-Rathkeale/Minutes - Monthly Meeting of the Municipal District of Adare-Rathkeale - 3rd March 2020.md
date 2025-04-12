@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 TUESDAY, 3°° MARCH, 2020 AT 9.00 A.M.
@@ -45,6 +46,7 @@ Meeting which would need to be convened to meet the timelines of the scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Keary requested a bus stop and good quality bus shelter also be included in
 the design of the scheme. The Senior Executive Engineer agreed to include this request.
 
@@ -88,6 +90,7 @@ with Section 20 (3)(n) of the Planning and Development Act 2020 (Amended)”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Operations and Maintenance Services
 
 District Engineers Report
@@ -139,6 +142,7 @@ Village.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e €2,500 for Ballysteen Carnegie Library.
 e €3,500 for Ballinakill Development Group.
 e €6,500 for public lighting at Killaheen, Reens, Ardagh.
@@ -185,6 +189,7 @@ Meeting to discuss.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor K. Sheahan
 
 | will ask at the next Meeting when will the road in Shanagolden, known as Kerry Hill,
@@ -235,6 +240,7 @@ Til’s Road Safety Engineer and revert.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Keary advised lighting is required on the Sli na Slainte in Askeaton. The Senior
 Executive Engineer informed Councillor Keary the Til will not fund this request at the
 present time.

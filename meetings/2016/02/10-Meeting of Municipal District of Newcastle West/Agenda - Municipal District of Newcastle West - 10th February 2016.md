@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_
 
 a
@@ -67,6 +68,7 @@ Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 UESTIONS
 
 uestion submi b uncillor L. Galvin

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN
 COLAISTE IOSAEF COMMUNITY COLLEGE, SHEARE’S ST,
@@ -41,6 +42,7 @@ main goals with the acquisition of Kilmallock Business Park from Shannon Commerc
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Properties and the ambitious plans to develop part of the business Park into a regional fire
 services training centre, as well as supporting existing businesses within the Business Park.
 
@@ -90,6 +92,7 @@ Seconded by Councillor M. Ryan.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That Councillor Gerald Mitchell be appointed Leas-Cathaoirleach of the Municipal District of
 Cappamore-Kilmaliock to hold office until the next Annual Meeting or until a successor has
 been appointed”
@@ -115,6 +118,7 @@ Date:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a
 
 

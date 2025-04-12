@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach
 & Contae Luimnigh
 — Limerick City
@@ -81,6 +82,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -140,6 +142,7 @@ Great Southern Greenway to advise dog owners to keep their dogs on a lead at all
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. | will move at the next Meeting that a safety survey be carried out at the junction known
 locally as Lees Cross on the Bruff line (R521).
 

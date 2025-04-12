@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirdhisi Corpardideacha.
 ee oe pelreale cones Comhairle Cathrach agus Contae Luimnigh,
 = g Ceanncheathni Chorpardideach.
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - 587150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Physical Development Directorate
@@ -115,6 +117,7 @@ Roundabout in Adare.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Seirbhisi Corpartideacna,
 ee Comhairle Cathrach Comhairle Cathvach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathra Chorpantidesch,
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

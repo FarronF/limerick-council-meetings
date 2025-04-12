@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i
 
 ar™N ,
@@ -76,6 +77,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) Municipal Reception
 
 To consider the grant of a Municipal Reception to honour Newcastle West GAA for their
@@ -123,6 +125,7 @@ villages arising from the Municipal District Meeting held in the hall in Castlet
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 & Contae Luimnigh
 
@@ -82,6 +83,7 @@ Corporate Headquarters, Merchants Quay, Limerick (063 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. That Limerick City and County Council makes a Scheme for the abatement of rates
 due to it by liable persons, or classes of liable persons, in respect of vacant
 properties in accordance with the provisions of Section 9 of the Local Government

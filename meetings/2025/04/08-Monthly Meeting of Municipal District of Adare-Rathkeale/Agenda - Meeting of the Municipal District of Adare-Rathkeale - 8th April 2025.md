@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach 7 bay herboseaph Ath Dara-Rath Caola,
 .. Ps Somhairie Cathrach agus Contae Lutmnigh,
 
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Disposal of Land
@@ -86,6 +88,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

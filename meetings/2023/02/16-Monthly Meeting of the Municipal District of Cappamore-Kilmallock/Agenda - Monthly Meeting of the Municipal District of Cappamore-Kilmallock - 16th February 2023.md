@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——_ Comhairle Cathrach Combiaine Cotsuactiemis Cortes Liiekit
 
 & Contae Luimnigh Olfig an Cheantair, Aras a Mochenso.
@@ -56,6 +57,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office nd
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Property Services
 
 To consider Disposal of Property at:
@@ -98,6 +100,7 @@ Limerick City and County Council to promote and allocate grant funding to suppor
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Notice of Motion submitted by Councillor Carey
 
 I will move at the next meeting of the Cappamore/Kilmallock Municipal District that Active

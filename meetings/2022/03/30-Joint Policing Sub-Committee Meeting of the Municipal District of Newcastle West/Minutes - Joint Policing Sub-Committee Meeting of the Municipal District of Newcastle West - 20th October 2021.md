@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST JOINT
 POLICING SUB COMMITTEE HELD IN ARAS WILLIAM SMITH
@@ -43,6 +44,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
 2. Policing Issues in the District
@@ -88,6 +90,7 @@ crime.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Superintendent Magner gave an overview of the joint initiatives which have taken place in the
 District which included the Limerick Greenway, Community Bus, Dog Chip Scanners, Property
 Marketing Initiative and the Schools Programme and acknowledged the success of these projects.
@@ -137,6 +140,7 @@ that the contact person with regard to any queries on CCTV is Garda Alan Doody.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 She outlined to the Members the opening hours of the Garda Station in Abbeyfeale. She stated
 that a response with regard to the cost of the Garda Station in Abbeyfeale is awaited and a reply
 will be given in due course. She referred to the assignment of Garda Tommy Cummane to

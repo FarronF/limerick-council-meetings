@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 THURSDAY, 21° JULY, 2016, AT 4.30 P.M.

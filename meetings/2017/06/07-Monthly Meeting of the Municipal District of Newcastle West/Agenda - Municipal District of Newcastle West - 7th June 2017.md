@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 7.
@@ -116,6 +118,7 @@ repaired as the road surface is deteriorating.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14,

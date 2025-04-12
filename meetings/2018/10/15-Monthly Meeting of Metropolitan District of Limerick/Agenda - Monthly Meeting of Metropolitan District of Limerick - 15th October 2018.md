@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Seirbhisi Corpardideacha,
 if
 _——_— rp bereaket pein nek Comhairle Cathrach agus Contae Luimnigh,
@@ -67,6 +68,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Capital Investment Directorate
 Part 8 Procedure — Housing Development at Barnakyle, Patrickswell, Co. Limerick
 
@@ -113,6 +115,7 @@ cameras there are in Limerick City North and how many are monitored and in worki
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9.
 
 10.
@@ -168,6 +171,7 @@ standard proposed originally and implemented by Smarter Travel elsewhere in the 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

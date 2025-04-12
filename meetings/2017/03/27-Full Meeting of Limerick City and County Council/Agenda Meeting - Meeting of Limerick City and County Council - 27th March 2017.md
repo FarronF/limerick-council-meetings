@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -74,6 +75,7 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Support Services Directorate
@@ -112,6 +114,7 @@ Local Government Act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (f)
 
 (g)
@@ -167,6 +170,7 @@ housing.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iv) | Chairperson’s Report — Community, Leisure and Emergency Services
 Strategic Policy Committee Meeting held on 21* February, 2017.
 
@@ -205,6 +209,7 @@ To note the Local Community Development Committee Annual Report 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Economic Development Directorate
@@ -250,6 +255,7 @@ Culture and Arts Working Group to Liverpool and Manchester, under Section
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 Proposed Visit to Finland
@@ -319,6 +325,7 @@ Co. Cork, on 19""/20" April, 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -366,6 +373,7 @@ Municipal Districts over the past year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -414,6 +422,7 @@ administrative area of the Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.
@@ -464,6 +473,7 @@ obstacles.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 23.

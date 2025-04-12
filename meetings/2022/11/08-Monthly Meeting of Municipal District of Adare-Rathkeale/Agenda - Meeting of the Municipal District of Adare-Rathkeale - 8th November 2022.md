@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “ll Comhairie Cathrach
 & Contae Luimnigh
 AN fi ™
@@ -79,6 +80,7 @@ W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Housing Directorate
 
 To receive a report on the proposals for No. 24 St. Mary’s Park, Rathkeale, Co. Limerick.

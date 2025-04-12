@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia
 & Contae Luimnigh Comhaite Cathrach agus Contac Luimugh
 
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Design and Delivery Services
 Kildimo Village to the Beer Garden Public House
 

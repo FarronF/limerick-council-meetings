@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach agus Contae Luirnnigh,
 Comhairle Cathrach Oifig an Chantal, Aras Mhainchin Seoighe,
 & Contae Luimnigh ill Mochealdg,
@@ -58,6 +59,7 @@ Limerick City and County Councit, Ares lainchin Seoighe Ares Ofice
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Declaration of Interest
 
 4. Property Services
@@ -87,6 +89,7 @@ a view to traffic calming.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor Carey
 
 “| will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update on

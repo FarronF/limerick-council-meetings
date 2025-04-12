@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 wl Comhairle Cathrach
 & Contae Luimnigh
 ano” “a — ote
@@ -61,6 +62,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -------- Original message --------
 
 From: "Sheehan, Conor" <conor,shechan limerick.ic>
@@ -81,6 +83,7 @@ Conor
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 » » FY FY YY
 
 i ae A

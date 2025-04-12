@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 ai Comhairle Cathrach agus Contae Luimnigh,
 
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Economic Development and Planning
@@ -104,6 +106,7 @@ into consideration the impact on the usability of the footpaths for those with d
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -157,6 +160,7 @@ been done in Dublin and other areas.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 4

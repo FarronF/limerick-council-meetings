@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 pe Comhairle Cathrach
 & Contae Luimnigh
 
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17th of June 2020
 Cathaoirleach a chara,
 
@@ -79,6 +81,7 @@ an gyi. Gl
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 at,
 
 ey

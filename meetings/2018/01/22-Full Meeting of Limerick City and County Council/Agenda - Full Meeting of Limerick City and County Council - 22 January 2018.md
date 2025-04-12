@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhisi Corpardidescha,
 
 _— ap Mal neers Comhairle Cathrach agus Contae Luimnigh.
@@ -75,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Support Services Directorate
@@ -111,6 +113,7 @@ Nominations to the Cultural Strategic Policy Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -161,6 +164,7 @@ Government Act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (h)
 
 Strategic Policy Committee Reports
@@ -217,6 +221,7 @@ relation to Recommendation No. 1)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 (iv) | Chairperson’s Reports - Cultural Strategic Policy Committee
@@ -264,6 +269,7 @@ Organisations, held in Limerick on 1* December, 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) Entitlement to Health Services, to be held in Clonakilty, Co. Cork, from 19"
 to 21* January, 2018.
 
@@ -304,6 +310,7 @@ Limerick City Centre.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

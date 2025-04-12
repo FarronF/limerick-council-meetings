@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 
 & Contae Luimnigh
@@ -87,6 +88,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. To consider Notice of Motion submitted by Councillor J. Pond (referred from Meeting of
 Metropolitan District of Limerick held on 18 June, 2018) :
 

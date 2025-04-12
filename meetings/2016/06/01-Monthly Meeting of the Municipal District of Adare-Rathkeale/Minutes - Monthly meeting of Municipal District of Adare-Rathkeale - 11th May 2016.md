@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 WEDNESDAY, 11™ MAY, 2016, AT 9.00 A.M.
@@ -54,6 +55,7 @@ number of measures to be implemented.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 She noted that St. Joseph’s Boys National School operated a Junior School Warden Scheme and
 that, while the school were eager to continue with same, the safety of the children had to be
 taken into consideration. In response to an enquiry from Members, Ms McMahon noted that 40%
@@ -100,6 +102,7 @@ the Monthly Meeting to be held at the conclusion of the Annual Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Community Support Services
 
 Mr. D. Hennessy, Administrative Officer, Community Support Services outlined details of the
@@ -153,6 +156,7 @@ where the property owner had been unable to obtain affordable fire insurance.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 The Director, Regional Services noted that a certain level of receipts were included in the budget
@@ -208,6 +212,7 @@ to same. He noted that no funding had been allocated for these works.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 In relation to Ballysteen, the Operations Manager indicated that the Office of Public Works (OPW)
@@ -258,6 +263,7 @@ www.foyneslimerick.ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor S. Keary
 
 | will ask at the next Meeting for the current status of the Planning Application by Cadence

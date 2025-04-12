@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __ Comhairle Cathrach
 & Contae Luimnigh
 ACN ~~
@@ -78,6 +79,7 @@ W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Roads, Traffic & Cleansing
 2023 Development Fund Allocations
 

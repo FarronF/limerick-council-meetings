@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Comhairle Cathrach
 & Contae Luimnigh
 
@@ -71,6 +72,7 @@ em Customerservices@limerick.ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest
 3. Disposal of Land
 To note proposal for the disposal of land as follows:
@@ -119,6 +121,7 @@ Development Act 2000 (as amended).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 6. Question submitted by Councillor J. Leddin
 
@@ -165,6 +168,7 @@ to Corbally and Castleconnell.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor U. Gavan
 
 | will ask at the next meeting of the Metropolitan District of Limerick, for an update on previous
@@ -215,6 +219,7 @@ spaces in the Metropolitan area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21. Question submitted by Councillor S. Hickey-O’ Mara
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a timeline for the
@@ -264,6 +269,7 @@ tenants and Council officials.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28. Notice of Motion submitted by Councillor S. Beasley
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and

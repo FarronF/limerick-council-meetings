@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—_ Comhairle Cathrach Diiiche Bardais an Chaisiedin Nua Thier,
 
 Luimn Comhairle Cathrach agus Contae Luimnigh,
@@ -62,6 +63,7 @@ LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -110,6 +112,7 @@ Green Way in July and August brought their own bikes.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

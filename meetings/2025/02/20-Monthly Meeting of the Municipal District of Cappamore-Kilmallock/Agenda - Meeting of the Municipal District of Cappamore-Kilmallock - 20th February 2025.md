@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Golieach agus Contae Luimnigh,
 & Contae Luimnigh Oifig an Cheantam, Aras M) grit .
 noe a ‘ Cu c ‘
@@ -54,6 +55,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest
 
 3. Deputation
@@ -92,6 +94,7 @@ Doon.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -139,6 +142,7 @@ Dromkeen, Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

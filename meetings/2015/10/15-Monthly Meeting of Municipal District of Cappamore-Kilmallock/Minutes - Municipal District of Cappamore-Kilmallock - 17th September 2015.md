@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON THURSDAY
@@ -50,6 +51,7 @@ to circulate the Members details on the role of the Management Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 nN
 
 QUESTION
@@ -95,6 +97,7 @@ Discretionary Budget.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Motion was proposed by Councillor Sheehy and seconded by Councillor
 Mitchell.
 
@@ -143,6 +146,7 @@ World Championship coinciding with the November Monthly Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members thanked Mr. Lehane for all his hard work, courtesy and co-operation
 during his time as Director of the Municipal District. They also welcomed the new
 Director Ms. Cotter Coughlan adding that they were looking forward to working with

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 6"
@@ -49,6 +50,7 @@ signed.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Deputation
 
 Deputation from West Fest Committee
@@ -106,6 +108,7 @@ National Roads Authority and we are awaiting a response from them.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 n ed ouncillor L. Galvin
 
 | will ask at the next Meeting for a full detailed report on Cois na Feile,
@@ -156,6 +159,7 @@ neighbouring sites.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ownership History
 
 The site was owned by Limerick County Council and then sold to Denis
@@ -204,6 +208,7 @@ Holy Cross cemetery (at turntable) and that a refuse bin be provided.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Galvin, in proposing the Motion, stated that there was a need for the
 provision of a second tap and refuse bin in Holy Cross cemetery.
 
@@ -254,6 +259,7 @@ Planning Application. He stated that the item had been received after the issue 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Agenda. He advised the Members that the removal of the car parking spaces, if

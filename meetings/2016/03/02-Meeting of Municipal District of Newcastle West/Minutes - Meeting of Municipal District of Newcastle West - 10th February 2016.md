@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 10” FEBRUARY
 
@@ -54,6 +55,7 @@ the General Municipal Allocation Special Projects Fund.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle West held on 27"
@@ -110,6 +112,7 @@ and funding would need to be provided for this development.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. i mi ncillor J. Scanlan
 
 ! will ask at the next Meeting for (a) the cost of a single/double burial space at Calvary Cemetery,

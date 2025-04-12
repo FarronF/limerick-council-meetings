@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Part 8 — Proposed N21 Adare Western Approach Improvement Scheme
@@ -87,6 +89,7 @@ To note update on the provision of a new sewerage treatment plan in Askeaton.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

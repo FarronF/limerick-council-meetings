@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 4TH NOVEMBER, 2015, AT 10:00 A.M.
@@ -55,6 +56,7 @@ members of the Deputation then withdrew from the Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of the following Meetings:
@@ -114,6 +116,7 @@ priority enhancement measures as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 > Restoration of the heritage style lamp posts.
@@ -167,6 +170,7 @@ REPLY: Signage ordered and to be erected as soon as possible.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 repaired (the small car park) and if the bricks can be removed or reused.
 
@@ -221,6 +225,7 @@ stated that he agreed that flood waters needed to be monitored.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 REPLY: The OPW CFRAM Flood study does not cover the area mentioned. The CFRAM

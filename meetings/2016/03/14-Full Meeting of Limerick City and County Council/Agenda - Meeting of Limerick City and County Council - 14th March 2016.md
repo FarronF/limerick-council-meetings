@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbnisi Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -54,6 +55,7 @@ To consider proposal for the disposal of land at
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (d)
@@ -109,6 +111,7 @@ e Home and Social Development SPC.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (iv) To consider the nomination of a replacement to the following
@@ -161,6 +164,7 @@ Dail Eireann:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) Chief Executive’s Report
 
 To consider Chief Executive’s Reports for the months of January and
@@ -199,6 +203,7 @@ for Fair Conditions of Employment.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Conferences
@@ -262,6 +267,7 @@ on reduced budgets.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -311,6 +317,7 @@ Detectors in all Social Housing Units within the jurisdiction of this Authority.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

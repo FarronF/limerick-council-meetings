@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Duiche Bardais an Chaisleain Nua Thiar,
 —=-— Comhairle Cathrach agus Contae Luimnigh,
 
@@ -61,6 +62,7 @@ Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8.
 
 Physical Development Directorate
@@ -109,6 +111,7 @@ car park.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9.
 
 10.

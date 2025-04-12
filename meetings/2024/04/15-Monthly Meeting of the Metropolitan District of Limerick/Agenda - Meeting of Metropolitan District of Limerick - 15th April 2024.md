@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach Comhairle Cat Bit eet
 
 i} wle mre : A UMT i egrl,
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick (\ 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Disposal of Land
 
 To note proposal for the disposal of land as follows :
@@ -108,6 +110,7 @@ provision of a dog park in Castletroy Park.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick why the lane between
@@ -162,6 +165,7 @@ communicate with the Council in the delivery of an efficient public service.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19. Notice of Motion submitted by Councillor S. Kiely
 
 | will move at the next Meeting of the Metropolitan District of Limerick that a request be sent to

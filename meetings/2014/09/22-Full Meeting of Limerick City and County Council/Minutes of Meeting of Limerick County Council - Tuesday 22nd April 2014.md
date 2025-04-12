@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK COUNTY
 COUNCIL HELD IN THE COUNCIL CHAMBER, COUNTY HALL,
 DOORADOYLE, CO. LIMERICK, ON TUESDAY, 22"° APRIL, 2014,
@@ -50,6 +51,7 @@ Agus an Cinneadh:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Keary stated that he was disappointed with the reply that he had received at
 the last Meeting in relation to the number of meetings/briefings that had taken place between
 Management and Oireachtas Members. The County Secretary, in response, stated that
@@ -101,6 +103,7 @@ Gardenhill, Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It was noted that the Council had approved a resolution at its Meeting held on 27” May,
 2013, disposing of this property to Mr. Peter Kearney in accordance with Statutory Notice
 dated 8” May, 2013. It would therefore be necessary for the Council to rescind the previous
@@ -150,6 +153,7 @@ Elections only, i.e. those with the letter ‘L’ opposite their names on the r
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii) Spending Limits for Local Election Candidates in May Election
 
 Circulated, County Secretary's report dated 7" April, 2014, in relation to the Disclosure of
@@ -197,6 +201,7 @@ e Support Payment Bands.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Accounts Profile City & County.
 Applicant Group City/County.
 Qualifying Criteria/Payment Deadline.
@@ -245,6 +250,7 @@ Scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Economic Development and Planning
 
 Councillor Collins (J) disclosed an interest in Items 6(a) and 6(b) and, in accordance with
@@ -291,6 +297,7 @@ following into the Minutes:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rationale for ing Variations
 
 “The rationale for the proposed variations to the Southern Environs Local Area Plan and the
@@ -345,6 +352,7 @@ in area.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 With:
 
 "Within designated Neighbourhood Centres in the Limerick Urban Area the net convenience shopping floor area
@@ -402,6 +410,7 @@ The definition of neighbourhood centres in the Retail Planning Guidelines (2012)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “Comprise a small group of shops, typically comprising newsagent, small supermarket/ general grocery store, sub-
 post office and other small shops of a local nature serving a small, localised catchment population”.
 
@@ -468,6 +477,7 @@ additional zoning which would have the potential to impact upon the city centre.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 The Retail Strategy for the Mid West Region specifically recognises the function of neighbourhood and village
@@ -533,6 +543,7 @@ city centre and states that:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “Those centres in the Metropolitan Area meeting the day to day needs of a local catchment population through the
 provision of main food shopping outlets should be supported and reinvigorated where necessary. However, their
 role should not be allowed fo expand to encompass a materially broader range of comparison goods as this could
@@ -593,6 +604,7 @@ and Development Acts 2000-2013."
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) Proposed Material Contravention to the Limerick County Development
 Plan 2010-2016
 
@@ -638,6 +650,7 @@ Development Acts, 2000-2013.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) Newcastle Wes | Area Plan 2014-2020
 
 Circulated, (a) report of the Director of Economic Development and Planning dated 4"
@@ -689,6 +702,7 @@ Employment.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ve Community, Leisure and Emergency Services
 (a) Contribution Scheme 2014
 
@@ -739,6 +753,7 @@ course of 2013.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A short discussion took place in relation to the level of fines, problem of dog fouling, role
 of education and awareness and use of mobile CCTV units for detection of offences.
 
@@ -786,6 +801,7 @@ Rosscarbery, Co. Cork (9""-11"" May): Councillor P.C. Fitzgerald.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the Council
 approved the attendance of the following additional Members at Conferences already approved
 
@@ -839,6 +855,7 @@ agreed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Correspondence
 
 The Correspondence circulated with the Agenda was taken as read.
@@ -884,6 +901,7 @@ he was proud to have served as a Member of a local authority that had played suc
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 in the social and economic life of this great County. He concluded by commending all the hard-
 working staff for providing an excellent service at a time of ever reducing revenue and funding
 
@@ -936,6 +954,7 @@ interest in its history.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mr. Gallagher thanked the Council for its support in producing the book and said copies
 of his book were available for all in attendance.
 
@@ -968,6 +987,7 @@ Data:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhisi Corparaideacha.
 : 2 Cathrach Contae
 
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -115,6 +117,7 @@ Metropolitan area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -172,6 +175,7 @@ Limerick’ campaign as part of the wider ‘Make Way Day’.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

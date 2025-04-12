@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach
 = —_ ° Contas —
 — ime
@@ -42,6 +43,7 @@ the 28th February, 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Proposed Trailhead Visitors Centre and Facilities at Ballyhoura
 
 Receive presentation from John McCarthy, Project Manager, Spentide Ltd on the
@@ -87,6 +89,7 @@ in relation to Hospital Sewerage Treatment Plant, Hospital, Co.Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor Ger Mitchell
 
 | will ask at the next meeting of the Municipal District as to what is the current update
@@ -103,6 +106,7 @@ with a view to possibly installing speed ramps.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

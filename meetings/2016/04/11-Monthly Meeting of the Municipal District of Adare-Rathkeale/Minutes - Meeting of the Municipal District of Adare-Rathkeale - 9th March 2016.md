@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON TUESDAY, 9™ MARCH, 2016, AT 9.00 A.M.
@@ -52,6 +53,7 @@ ramps could be used as they were less expensive than tarmac.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 The Senior Engineer, Transportation highlighted the benefits of providing area wide traffic calming
@@ -101,6 +103,7 @@ Elected Members and highlighted the inadequacies of the existing pavement and dr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 indicated that a set-down area and carpark, in the vicinity of the school, was proposed as part of
@@ -155,6 +158,7 @@ next month.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. General Municipal Allocation
 It was agreed that the General Municipal Allocation Workshop should be held on Monday, 14”
 March, 2016 at 11.00 a.m.
@@ -204,6 +208,7 @@ Councillor Sheahan informed the Meeting that he was withdrawing his Notice of Mo
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Correspondence
 
 Correspondence was noted.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE CONCERT HALL,
 UNIVERSITY OF LIMERICK, CASTLETROY, LIMERICK, ON FRIDAY, 6™
@@ -52,6 +53,7 @@ of the Council as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LOCAL ELECTIONS 2014
 RETURN OF PERSONS ELECTED - LIMERICK CITY AND COUNTY COUNCIL
 The following is The Result Of the Poll Taken On: 23° May, 2014.
@@ -108,6 +110,7 @@ Date: 29” May, 2014.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LOCAL ELECTIONS 2014
 RETURN OF PERSONS ELECTED - LIMERICK CITY AND COUNTY COUNCIL
 
@@ -164,6 +167,7 @@ Fine Gael
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LOCAL ELECTIONS 2014
 RETURN OF PERSONS ELECTED - LIMERICK CITY AND COUNTY COUNCIL
 
@@ -222,6 +226,7 @@ Date: 29" May, 2014.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. ELECTION OF CATHAOIRLEACH:
 
 The Chief Executive invited nominations for the office of Cathaoirleach for the coming
@@ -273,6 +278,7 @@ congratulated him on his election.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On taking the Chair, Councillor Sheahan (K) stated that it was a great honour for him to be
 elected as the first Cathaoirleach of Limerick City and County Council. He thanked his
 Proposer and Seconder and acknowledged the support from his colleagues in the Council
@@ -322,6 +328,7 @@ successor is appointed.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A vote was taken which resulted as follows:
 
 For Councillor Browne
@@ -373,6 +380,7 @@ their priorities in setting policies and making decisions. He said that, as an o
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the Council had engaged in a significant process of adaptation to meet the challenge that
 the Action Programme for Local Government ‘Putting People First had presented. He
 added that the staff of the two former Authorities had come together, had embraced the
@@ -424,6 +432,7 @@ SPC Chairs-Designate for a three-year term.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 As there were no other nominations, the Cathaoirleach declared Councillors Donegan,
 Gleeson, Foley and Hourigan appointed as SPC Chairs-Designate for a three-year term.
 
@@ -473,6 +482,7 @@ Members of the Council, as Trustees. Under the Act, the Council was required to 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 these nominations annually. The Grouping system applied and the groups necessary in
@@ -522,6 +532,7 @@ consider the appointment of 1 Member to the Library Association of Ireland.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Quinlivan;
 Seconded by Councillor Browne;
 
@@ -575,6 +586,7 @@ Limited.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12
 
 12. LOCAL AUTHORITY MEM vA IATION:
@@ -625,6 +637,7 @@ and Scanlan appointed to the Governing Authority of the University of Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13
 
 15. UNIVERSITY OF LIMERICK GRADUATE ENTRY MEDICAL SCHOOL
@@ -676,6 +689,7 @@ Trust.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14
 
 e Hunt Museum Company:
@@ -729,6 +743,7 @@ Implementation Team for Rathkeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15
 
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), this item
@@ -777,6 +792,7 @@ agreed to defer this item.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 24. tL! !
 
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), it was
@@ -826,6 +842,7 @@ Company Limited.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
@@ -857,6 +874,7 @@ Date:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

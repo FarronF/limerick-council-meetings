@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_— Comhairle Cathrach é _— aehtiy Corpertidenct,
 i 1 omhairle Cathrac agus Contae uimnigh.
 aAmN & Contae Luimnigh Ceanncheathri Chorpardideach,
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -120,6 +122,7 @@ the Old Mill Ardagh, in the interest of safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

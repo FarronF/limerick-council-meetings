@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh
 ~~ i ~ _ Ayas Séan Finn,
@@ -59,6 +60,7 @@ erickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community Development Directorate
 
 Disposal of Land
@@ -104,6 +106,7 @@ from future storms.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE DEEBERT
 HOUSE HOTEL, DEEBERT, KILMALLOCK, CO. LIMERICK, ON
@@ -45,6 +46,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. National & Regional Services Directorate
 
 Application fora ining Centre at
@@ -95,6 +97,7 @@ Municipal District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Following an assessment of all applications received and inspection visits, a total of 53 valid
 applications were approved, for a total grant amount under the scheme of €100,000. They
 also confirmed that all applicants would be written to advising them of the outcome of their
@@ -136,6 +139,7 @@ these concerns under Section 70 of the 1993 Roads Act requesting that:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ‘The owner or occupier of any structure and the owner or occupier of any land on which a
 structure is situated shall take all reasonable steps to ensure that the structure or the use of
 the structure is not a hazard or potential hazard to persons using a public road and that it
@@ -176,6 +180,7 @@ Transport Infrastructure Ireland and Limerick City and County Council review the
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the pedestrian crossings on the N24 at Pallasgreen and Oola, do they need to be upgraded
 to Stop/Go lights and to review the traffic calming measures in Pallasgreen and Oola.
 
@@ -222,6 +227,7 @@ Reply:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 An undertaking was given in 2018/19 to undertake the mapping of all road signage in the
 Cappamore Kilmallock Municipal District Area, which is still on going.
 
@@ -266,6 +272,7 @@ Water provide a list of available capacity at Sewerage Treatment Plants in the C
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Kilmallock Municipal District to assist in the deliberations on the Development Plans that
 will have to be dealt with in the near future.
 
@@ -310,6 +317,7 @@ Cathaoirleach
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

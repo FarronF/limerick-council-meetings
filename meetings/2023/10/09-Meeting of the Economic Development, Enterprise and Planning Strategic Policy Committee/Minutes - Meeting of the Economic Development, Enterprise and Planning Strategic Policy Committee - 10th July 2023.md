@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Pleanail, Comhshaol agus Cruthu Aite
 _—_—_—_ i Covlina Laltsodon Comhairle Cathrach agus Contae Luimnigh
 
@@ -68,6 +69,7 @@ meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Economic Development, Enterprise and Planning SPC Meeting now sits with the Planning,
 Environment & Place-Making Directorate.
 
@@ -131,6 +133,7 @@ Circular. Response — this is not covered in Circular.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cllr Keary proposed the following on the Group Water Scheme:
 
 | will move at the next meeting that, Limerick City and County Council, call on Mr. Darragh
@@ -190,6 +193,7 @@ There will be a taking in charge briefing at the next meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ftem 4;
 Presentation on Climate Action by Kieran Reeves, Climate Action Coordinator, Environment &
 Climate Change
@@ -253,6 +257,7 @@ Full details of scheme will be circulated to members.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 6
 Any Other Business
 

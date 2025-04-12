@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairie Cathrach
 ; & Contae Luimnigh
 aAar™ —_ ee
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On 7 Sep 2021 1:25 PM, "Kiely, Sarah" <sarah.kiely@limerick.ie> wrote:
 
 Cathaoirleach,

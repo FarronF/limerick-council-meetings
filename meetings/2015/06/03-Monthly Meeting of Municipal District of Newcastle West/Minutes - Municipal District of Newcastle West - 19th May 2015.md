@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
 WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON
@@ -47,6 +48,7 @@ a loan of 2.37m from the Housing Finance Agency.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Director further stated that Cluid entered into a Building Agreement with
 Kilmoney Construction. In March 2009, Kilmoney assigned their interest in the
 Building Agreement to Shineford Limited. The Building Agreement between
@@ -100,6 +102,7 @@ Manager confirmed that staff would be available on the day, if required.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed
 to invite a staff member from the Economic Development and Planning Directorate to
 the next Meeting in relation to Rathronan Estate, Athea, Co. Limerick.

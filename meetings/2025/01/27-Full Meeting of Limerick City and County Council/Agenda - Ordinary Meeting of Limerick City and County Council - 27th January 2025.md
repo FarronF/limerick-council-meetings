@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach : — Setrbhisi Corpardideacha,
 & Contae Luimnigh Comnairie Cathrach agus Corkae Luimnigh,
 fs, Ceanncheathrd Chorpardideach.
@@ -75,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Derelict Disposals
 
 (d) Property at Kerry Road, Abbeyfeale, Co. Limerick.
@@ -116,6 +118,7 @@ nominee to the Local Community Development Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (f) Nominations to Strategic Policy Committees
 
 {i) To consider the approval of Sectoral Nominees to the Strategic Policy
@@ -152,6 +155,7 @@ Meeting / Event.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -200,6 +204,7 @@ of animal welfare issues, including horses, during the recent freezing weather.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -260,6 +265,7 @@ establish an ambulance base at Kilmallock Primary Health Centre, Kilmallock.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 Notice of Motion submitted by Councillor S. Hickey-O'Mara
@@ -307,6 +313,7 @@ orange and red weather alerts.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23.
 
 Notice of Motion submitted by Councillor A. Teskey
@@ -354,6 +361,7 @@ outages into the future.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 31.
 
 Notice of Motion submitted by Councillor E, O'Donovan

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach I nt Corpardidescha
 —_ & Contae Luimnigh Se ead Chama,
 a Cé na gCeannaithe,
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (f
@@ -133,6 +135,7 @@ To consider the adoption of the Limerick City and County Council Corporate Plan
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) Audit
 
 (i) Audit Committee Work Programme 2019-2020
@@ -178,6 +181,7 @@ Committee Meeting held on 29™ October, 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -230,6 +234,7 @@ Arrangements.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Community Development
@@ -278,6 +283,7 @@ November, 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -334,6 +340,7 @@ BER grade.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

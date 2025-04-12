@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———_ Comnairie Cathrach
 & Contae Luimnigh
 AN ~~ a

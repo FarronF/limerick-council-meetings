@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caota,
 & Contae Luimnigh Comhairte Cathrach agus —— oe
 NN ‘“ ean Finn,
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick. v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -108,6 +110,7 @@ To update Members on issues of interest in the District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

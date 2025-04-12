@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD AT THE FIRE STATION,
 NEWCASTLE WEST, ON THURSDAY, 9™ OCTOBER, 2014, AT 12
@@ -41,6 +42,7 @@ Newcastle West, as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NEWCASTLE WEST MUNICIPAL DISTRICT DRAFT BUDGETARY PLAN 2015
 
 Municipal District
@@ -104,6 +106,7 @@ the Metropolitan District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 * He clarified that it was not envisaged that each Member would get a specific
 discretionary individual allocation.
 

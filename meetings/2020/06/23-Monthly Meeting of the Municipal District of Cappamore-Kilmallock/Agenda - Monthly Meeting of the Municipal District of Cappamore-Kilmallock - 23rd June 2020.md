@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __-_e Comhairie Cathrach Comhairle Cathrach agus Contae Luimnigh
 
 & Contae Luimnigh Olftg an Cheantair, Aras Mhainchin Secighe.
@@ -55,6 +56,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Support Services Directorate
 (i) Draft Schedule of Municipal District Works (SMDW) 2020
 To consider Draft Schedule of Municipal District Works for 2020.
@@ -94,6 +96,7 @@ illegal dumping.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 10.

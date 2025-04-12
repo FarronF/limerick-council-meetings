@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
 WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON
@@ -53,6 +54,7 @@ TOTAL: | General Municipal Allocation ss €225,000—~—“‘C*™S
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 The A/Head of Finance confirmed that it was necessary to assign the ‘Special Projects — LA

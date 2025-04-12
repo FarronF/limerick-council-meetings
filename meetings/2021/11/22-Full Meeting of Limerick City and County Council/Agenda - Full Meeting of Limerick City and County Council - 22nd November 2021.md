@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 uel Comhairie Cathrach Convatie Cote raeghy hilar rami
 . . Co 2 sthywach agu ae Uuilry .
 Z & Contae Luimnigh Ceanncheathna Chorpsraidesch,
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) 10, Ash Hill, Kilmallock, Co. Limerick.
 
 (e) Castlefarm, Hospital, Co. Limerick.
@@ -118,6 +120,7 @@ Manchester from 1* to 3% December, 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (qd)
 
 (e)
@@ -171,6 +174,7 @@ Environment Strategic Policy Committee held on 5" October, 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (iii) | Chairperson’s Report — Meeting of Community, Leisure and Culture
@@ -217,6 +221,7 @@ Limerick Theatre Bursaries 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8.
 
 10.
@@ -265,6 +270,7 @@ economy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -322,6 +328,7 @@ above.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.
@@ -370,6 +377,7 @@ in an effort to combat climate change.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22. Notice of Motion submitted by Councillor S. Benson
 | will move at the next Meeting that this Council carry out an audit and inspection
 

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 & Contae Luimnigh
 
@@ -69,6 +70,7 @@ Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Deputation from Bruff Grange Meanus Community Council
 
 To receive Deputation from Bruff Grange Meanus Community Council.
@@ -106,6 +108,7 @@ villages throughout the Municipal District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 5. Question submitted by Councillor Teefy
 | will ask at the next meeting of the Municipal District of Cappamore Kilmallock:

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick y @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 N
@@ -104,6 +106,7 @@ Crescents to monitor and stop anti-social behaviour at these estates.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

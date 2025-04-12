@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -58,6 +59,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. To consider the Capital Programme 2016-2018 in accordance with Section
 135 (2) of the Local Government Act, 2001, as amended by the Local
 Government Reform Act, 2014.

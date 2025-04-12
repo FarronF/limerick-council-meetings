@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -45,6 +46,7 @@ owner at O’Rourke’s Cross.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii) Circulated, copy of draft Minutes of Draft Budgetary Plan Meeting of the Municipal
 District of Cappamore-Kilmallock held on the 18"" October, 2018.
 
@@ -91,6 +93,7 @@ going ahead as the person scheduled to give the presentation was ill, and had se
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 apologies for their inability to attend. He confirmed that this item would be included on the
 Agenda of a future Meeting.
 
@@ -144,6 +147,7 @@ statutory process, could not be amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Having regard to the Standing Orders and the legal advice obtained, the Meetings
 Administrator explained that he was therefore not in a position to include the Notice of
 Motion on the Agenda for the Municipal District Meeting.
@@ -203,6 +207,7 @@ metres
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Footpath repairs on Moore Street
 and between Technical School and
 
@@ -266,6 +271,7 @@ Date:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

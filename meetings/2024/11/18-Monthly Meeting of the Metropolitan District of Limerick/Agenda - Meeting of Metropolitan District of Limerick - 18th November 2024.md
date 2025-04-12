@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 ; & Contae Luimnigh
 Ao™ 2 _—_—=_=——_—
@@ -72,6 +73,7 @@ Y @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Standing Orders for the Metropolitan District of Limerick
 To consider the adoption of Standing Orders for the Metropolitan District of Limerick.
 
@@ -123,6 +125,7 @@ Developments.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Question submitted by Councillor S. Benson
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, how many people on the
@@ -177,6 +180,7 @@ proposed footpath that will link Rich Hill Woods / Grangewood to the Mackey Roun
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Question submitted by Councillor U. Gavan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick has consideration been given
@@ -224,6 +228,7 @@ location from the current 50 kmph down to 30 kmph.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 24. Notice of Motion submitted by Councillor E. Secas

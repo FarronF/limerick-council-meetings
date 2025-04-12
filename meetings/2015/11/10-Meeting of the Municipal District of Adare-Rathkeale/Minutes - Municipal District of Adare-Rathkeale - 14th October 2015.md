@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD IN CROOM CIVIC CENTRE, CROOM, CO.
 LIMERICK ON WEDNESDAY, 14™ OCTOBER, 2015, AT 9.00 A.M.
@@ -55,6 +56,7 @@ e Local Economic and Community Plan (LECP) for Limerick City and County,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Background Information and Socio-Economic Statement, dated September 2015.
@@ -106,6 +108,7 @@ independent consultants on gasification.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Ss. Question submitted by Councillor T. Neville
@@ -157,6 +160,7 @@ on-going over the coming months.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 In relation to Foynes, tenders are currently being assessed. It is expected
@@ -213,6 +217,7 @@ school principal.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Line markings, as agreed, were completed at this time. The committee
 proposed to prepare a plan for access to the school in the interests of health
 and safety. The Senior Executive Engineer agreed that Limerick City and
@@ -263,6 +268,7 @@ premises.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 REPLY: The Adare Local Area Plan has an objective to facilitate the provision of
@@ -317,6 +323,7 @@ opinion on the matter.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Corres n
 
 Correspondence was noted.
@@ -368,6 +375,7 @@ rural crime.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 Councillor O'Donoghue highlighted an instance of subsidence adjacent to the roadway at

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 21°" APRIL, 2015, AT 9.00
@@ -51,6 +52,7 @@ point.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Finance, Motor Tax and ICT
 (a) General Municipal Allocation
 
@@ -103,6 +105,7 @@ The Deputation consisted of Denis McAuliffe and Jim McNamara.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Mr. McAuliffe gave a presentation with regard to planning the connecting link between the
@@ -153,6 +156,7 @@ appropriate where the general speed limit applies.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It is the responsibility of a driver to obey a Speed Limit and to ensure that the
 vehicle speed is appropriate for the prevailing circumstances, even if that
 speed is lower than the Speed Limit applying.
@@ -200,6 +204,7 @@ Pallaskenry Community Council and was not constructed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 The Motion was proposed by Councillor O'Brien and seconded by Councillor Neville.
@@ -253,6 +258,7 @@ Members indicated that they would agree on a date for the Meeting at a later sta
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Correspondence
 
 Members expressed their disappointment that the OPW had not engaged with them

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 
@@ -54,6 +55,7 @@ Southern Trail under the following headings:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Great Southern Trail (GST) progress to date.
@@ -115,6 +117,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, in accordance with Sections 54 and 55 of the Planning and Development Act 2000 (as
 amended) the approval of the Municipal District of Newcastle West be and is hereby given to
 the addition of Cooney’s Thatched House, Gortnagluggin, Feenagh (P.P.S.2016/B) to the Record
@@ -168,6 +171,7 @@ place on record that he was in agreement with the terms of reference as set out.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 (b) To review position in relation to allocations under the Municipal District Special Projects
@@ -225,6 +229,7 @@ will be considered later this year dependent on the availability of funding.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 Assumpta Park, Newcastle West; (b) The O’Gorman properties along Lower Maiden Street,
@@ -283,6 +288,7 @@ within the next two weeks.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor M. Collins
 
 1 will ask at the next Meeting if Transport Infrastructure Ireland can be asked to carry out a
@@ -339,6 +345,7 @@ In proposing the Motion Councillor Galvin stated that the traffic calming works 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 but that since the installation of these measures several accidents had occurred at this location.
@@ -394,6 +401,7 @@ works be carried out by Irish Water on the water reservoir in Glin, which is lea
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Sheahan in proposing the Motion stated that works were required immediately on
 this reservoir. He asked that this item be placed on the Agenda again for December.
 

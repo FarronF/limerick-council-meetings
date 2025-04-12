@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; } Selrbhisi Corpargideachs,
 _—_—_e__ Comhairle proce Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnig Ceanncheathn’é Chorparaideach,
@@ -55,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) 24, Flood Street, Pennywell, Limerick.
 
 (d) 28, Marian Park, Patrickswell, Co. Limerick.
@@ -124,6 +126,7 @@ To consider Chief Executive's Report for the months of September and October
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -178,6 +181,7 @@ Environment Strategic Policy Committee held on 10” October, 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (iv)  Chairperson’s Report — Meeting of Home and Social Development
@@ -227,6 +231,7 @@ Meeting / Event.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -269,6 +274,7 @@ information to us as Councillors/Directors of this Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14,

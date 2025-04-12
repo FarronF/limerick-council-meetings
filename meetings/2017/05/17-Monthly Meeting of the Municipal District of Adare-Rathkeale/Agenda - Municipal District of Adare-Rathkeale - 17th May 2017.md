@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 tas
 =
 COMHAIRLE
@@ -75,6 +76,7 @@ vy
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Support Services Directorate - Corporate Services
 Annual Meeting of Municipal District
 
@@ -116,6 +118,7 @@ Ballysteen.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -177,6 +180,7 @@ Croom Garda Station, in light of the age and condition of the current vehicles.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.

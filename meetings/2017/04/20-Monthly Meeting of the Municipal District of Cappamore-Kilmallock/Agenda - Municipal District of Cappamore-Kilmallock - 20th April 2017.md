@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —S
 =
 
@@ -90,6 +91,7 @@ wv @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) ferral of Notices to make a New for Hospi end the
 Existing Plan
 
@@ -140,6 +142,7 @@ Creativity Plan for Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Arts Programme
 
 To receive update on Arts Programme 2017.

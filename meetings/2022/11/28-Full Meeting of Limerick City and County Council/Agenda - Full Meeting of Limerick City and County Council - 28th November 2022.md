@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 z Seirbhis{ Corpardideacha,
 _——_ Comhehie pra erd Comhairle Cathrach agus Contae Luumnigh,
 Ceanncheathrii Chorpardideach,
@@ -69,6 +70,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) 102, Glasgow Park, Limerick.
 
 (e) Land comprising Folio LK14569F adjoining 55, College Avenue, Moyross,
@@ -134,6 +136,7 @@ approval).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (a)
@@ -182,6 +185,7 @@ Policy Committee held on 25" October, 2022.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (v) Chairperson’s Report — Meeting of Home and Social Development
 Strategic Policy Committee held on 19" October, 2022.
 
@@ -230,6 +234,7 @@ To consider approving recommended allocations for Limerick Theatre Bursaries
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -283,6 +288,7 @@ Seanad, as promised to this Council in the Minister's correspondence of April 22
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Comhairle Cathrach
 & Contae Luimnigh
 AmN 7 ‘
@@ -81,6 +82,7 @@ W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rural, Culture, Community and Tourism D n
 
 Part VIII — Proposed Remodelling and Extension of the Adare Heritage Centre

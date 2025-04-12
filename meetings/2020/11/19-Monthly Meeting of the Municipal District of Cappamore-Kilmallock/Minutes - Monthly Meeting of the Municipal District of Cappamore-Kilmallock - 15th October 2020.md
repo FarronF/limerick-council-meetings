@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE DEEBERT
 HOUSE HOTEL, DEEBERT, KILMALLOCK, CO. LIMERICK, ON
@@ -46,6 +47,7 @@ not be involving itself in the affairs of the Cappamore Kilmallock Municipal Dis
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Community Development Directorate
 Disposal of Property
 
@@ -93,6 +95,7 @@ was proposed by Cllr Carey, seconded by Clir M. Ryan and agreed by the Elected M
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Elected Members also expressed their thanks in particular to Diarmuid Sheehy, E.E. for
 his work in getting this estate taken in charge.
 
@@ -138,6 +141,7 @@ fallen trees or gathered debris at structures that could pose a flood risk.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The OPW operates a hydrometric gauge upstream of Kilmallock at Riversfield Weir. On August
 17" 2020, water levels were recorded far in excess of anything previously experienced at this
 gauge. When the recorded levels are analysed against rating curves calibrated to model flood

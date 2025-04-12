@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhisi Corparaideacha,
 
 __—_—_—_ Comhairle Ca thrach Comhairle Cathrach agus Contae Luimnigh,
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Services Operations Directorate
 
 8 Pr re — Sycamore Avenue, Rathbane, Limerick
@@ -102,6 +104,7 @@ used for official events last year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -158,6 +161,7 @@ and RAS tenants as part of any housing needs assessment.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

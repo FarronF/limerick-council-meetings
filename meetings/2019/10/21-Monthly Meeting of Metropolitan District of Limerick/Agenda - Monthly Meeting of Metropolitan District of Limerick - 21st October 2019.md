@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach ; — Seirbhisi Corparaideacha,
 § Contae Luimnigh Comhatie Cathrach agus Comtae Luimnigh,
 
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 (c) Disposal of Freehold Interest of premises consisting of a dwelling house situate at 27 Kilmurry
 Avenue, Garryowen, Limerick.
@@ -108,6 +110,7 @@ during the term of the previous Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 7. Question submitted by Councillor C. Sheehan
 
@@ -152,6 +155,7 @@ Council put a management plan in place to rejuvenate the Westfield Wetlands.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next Metropolitan Meeting of Limerick City and County Council that the Council
 investigates the feasibility of developing a cycle path from the Mill Road to the city centre along the
 riverbank,

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ————
 
 aAr™ i“
@@ -52,6 +53,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 /
 H}/ b
 We the Fianna Fail Councillors Cait On the Mayor of Limerick City & County Council to convene a

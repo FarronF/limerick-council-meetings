@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seubrisi Corparéideacha agus Bainistiock Athrulthe.
 Comhairie Cathrach agus Contae Luimnigh,
 
@@ -49,6 +50,7 @@ circulated — Copy Enclosed, together with report)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Finance, Motor Tax and ICT
 
 (a)
@@ -104,6 +106,7 @@ Sector on the Environment Strategic Policy Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (c) Chief Executive’s Report
@@ -151,6 +154,7 @@ support the Limerick Privilege Card.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Conferences
 
 (i)
@@ -227,6 +231,7 @@ AOIFE Annual Conference to be held in Ballinasloe, Co Galway, on
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -270,6 +275,7 @@ Irish Constitution.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -321,6 +327,7 @@ budget.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.

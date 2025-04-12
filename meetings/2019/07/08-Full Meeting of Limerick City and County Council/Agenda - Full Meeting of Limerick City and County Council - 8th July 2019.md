@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhisi Corparéideacha,
 Comnhaire Cathwach agus Contae Luimingh,
 —— & Contae Luimnigh p preacet teach enter
@@ -48,6 +49,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Disposal of Land
 
 To consider proposal for the disposal of land, in accordance with the provisions of Section 183 of
@@ -89,6 +91,7 @@ To consider the Draft Strategic Policy Committee Scheme, 2019 — 2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) Local Traveller Accommodation Consultative Committee
 
 To consider the nomination of 4 Members to the Local Traveller Accommodation Consultative
@@ -126,6 +129,7 @@ Joint Policing Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (h) Board of Governors of St. John’s Hospital
 
 To consider the nomination of the Mayor of the City and County of Limerick and 1 Member to the
@@ -171,6 +175,7 @@ To consider the nomination of 3 Members to the Rural Water Monitoring Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (q) —_Belltable — Special Sub Committee of Board
 
 To consider the nomination of the Mayor (ex-officio) to the Belltable — Special Sub Committee of
@@ -216,6 +221,7 @@ June, 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (cd) “From Ballot Box to Council Chamber” held in Wexford on 5" to 7" July, 2019.
 (d) “Creating Economic & Business Opportunities from Climate Change” to be held in Tullamore,
 Co. Offaly on 9" October, 2019.
@@ -261,6 +267,7 @@ into use? What measures are planned to reduce this turnaround time?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 OF MOTION
 
 ion submitted by Councillor A. T:
@@ -299,6 +306,7 @@ it would be harmful to the air quality and thus the people of Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 | will move at the next meeting, that Limerick City and County Council :

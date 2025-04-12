@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach Duce Bardais an Chaisedin Nua Thiar,
 & Contae Luimnigh Conde coneises ree ae ,
 AN ™ Brien,
@@ -52,6 +53,7 @@ Corporate Headquarters, Merchant's Quay, Limerick VW @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.

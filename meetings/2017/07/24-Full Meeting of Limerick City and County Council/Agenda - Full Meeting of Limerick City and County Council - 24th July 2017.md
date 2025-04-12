@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ‘ Seirbhisi Corpardideacha.
 _——_— Comhairle Cathrach Sin Catiwach agin Corean udwige
 & Contae Luimnigh Ceanncheathra Chorpardideach.
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Customer Services, Culture and Arts Directorate
@@ -103,6 +105,7 @@ Transportation Strategic Policy Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -156,6 +159,7 @@ County Council Audit Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 Strategic Policy Committee Reports
@@ -204,6 +208,7 @@ scheme etc.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii)
 
 (iv)
@@ -253,6 +258,7 @@ To note the proposed allocations from the Development Fund 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 Limerick Food Strategy Steering Group
@@ -296,6 +302,7 @@ Allocation Scheme 2017 Enclosed)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Service Operations Directorate
 Litter Report 2016
 
@@ -346,6 +353,7 @@ Meeting/Event.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -396,6 +404,7 @@ vacant houses back into use.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -445,6 +454,7 @@ Councillors on the Shannon Estuary Way at a Workshop with Failte Ireland.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.

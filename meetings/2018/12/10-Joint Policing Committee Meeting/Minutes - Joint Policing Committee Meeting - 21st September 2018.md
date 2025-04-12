@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING
 COMMITTEE HELD IN COUNCIL CHAMBER, MERCHANT’S QUAY, ON
 FRIDAY, 21* SEPTEMBER, 2018, AT 10.00 A.M.
@@ -51,6 +52,7 @@ requested that details of same be forward to Sergeant O'Donoghue for his attenti
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ms. McElvaney requested that the names of all the Community Guards and the areas
 they are covering be circulated to the Joint Policing Committee and not just all Councillors.
 
@@ -98,6 +100,7 @@ decreased over the last few months due to an increase of patrolling and arrest o
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 of offenders. He stated that an anti-burglary strategy had been drawn up for the remainder
 of the year, which would see members of the Roads Policing Unit carrying out additional
 patrols.
@@ -147,6 +150,7 @@ and services. The Members acknowledged that Traffic Corps were proactive in poli
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 issues but legislation for same needed to be strengthen. Following further discussion, the
 Members agreed that this Motion should be forward on behalf of the Committee to the
 Minister for Transport.

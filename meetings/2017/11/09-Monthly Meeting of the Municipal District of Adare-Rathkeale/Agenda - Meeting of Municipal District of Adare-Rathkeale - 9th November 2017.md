@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 j Seirbhisi Corparaideascha,
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 go &Contae Luimnigh Ceanncheathni Chorpardideach,
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Deputation from Adare Recreation & Community Complex T/A Manor Fields Adare
@@ -106,6 +108,7 @@ we
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Question submitted by Councillor E. O’Brien
 
 | will ask at the next Meeting under what circumstances tenants of social housing are

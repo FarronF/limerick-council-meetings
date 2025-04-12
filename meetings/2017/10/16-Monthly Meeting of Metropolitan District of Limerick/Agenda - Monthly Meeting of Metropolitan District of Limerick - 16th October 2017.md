@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Seirbhisi Corpardideacha,
 _—_—_—_—" Comhairle Cathrach Conihaa/ia Coben agus Corns serch
 & Contae Luimnigh Ceanncheathni Chorpardideach,
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Service Operations Directorate
 Planning and Environmental Services
 
@@ -109,6 +111,7 @@ Metropolitan District of Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -161,6 +164,7 @@ Council's across the country.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -221,6 +225,7 @@ through the market for the duration of the Saturday market.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.

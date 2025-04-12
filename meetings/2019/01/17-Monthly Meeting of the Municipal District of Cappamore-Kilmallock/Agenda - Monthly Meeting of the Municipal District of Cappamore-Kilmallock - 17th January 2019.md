@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———— Comhairle Cathrach
 = & Contae Luimnigh
 mo — Limerick Cit
@@ -44,6 +45,7 @@ the 13th December, 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Crime Prevention
 
 To receive presentation from Sgt Bernie Leetch, Crime Prevention Officer, An Garda

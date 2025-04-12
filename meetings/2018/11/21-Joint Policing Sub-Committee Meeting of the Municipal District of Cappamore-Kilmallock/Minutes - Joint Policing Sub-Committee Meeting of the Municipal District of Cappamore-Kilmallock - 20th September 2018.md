@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -49,6 +50,7 @@ criminals and as an important resource to support An Garda Siochana in tackling 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Superintendent informed the Members that the Small Area Policing Plan initiative would
 be launched in the coming months and that this initiative would improve the level of
 communication and contact between the public and An Garda Siochana in tackling crime. The

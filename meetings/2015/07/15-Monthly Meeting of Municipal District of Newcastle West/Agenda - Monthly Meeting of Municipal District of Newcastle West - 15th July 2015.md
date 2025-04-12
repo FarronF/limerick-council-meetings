@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Corporate Services and Change Management
@@ -98,6 +100,7 @@ in Athea Village can be repaired.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -162,6 +165,7 @@ provided to repair and preserve the Cistercian Church, Fairy Street, Athea.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.

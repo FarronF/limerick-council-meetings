@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 en Seirohisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3;
 
 4.
@@ -124,6 +126,7 @@ To consider Report on Derelict Sites in the Metropolitan Area 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 QUESTIONS
@@ -167,6 +170,7 @@ traffic drive on to this busy road safely.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -227,6 +231,7 @@ whether fluent speakers or beginners, wishing to improve their Irish.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Comhairle Cathrach
 & Contae Luimnigh
 ALN « NO a
@@ -66,6 +67,7 @@ mcustomerservices@limerick.io
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -109,6 +111,7 @@ felling licenses applied for, the number of tree reports completed and the costs
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor S. Hartigan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick to outline in tabular form,
@@ -154,6 +157,7 @@ outside St. Nessan's School.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor E. O'Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick to request that railings on
@@ -196,6 +200,7 @@ proposed upgrades of the Playground in the People's Park.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 19. Notice of Motion submitted by Councillor S. Hartigan (to be referred to the Climate Action,
@@ -237,6 +242,7 @@ the area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 25. Notice of Motion submitted by Councillor S. Kiely
 
 | will move at the next Meeting of the Metropolitan District of Limerick that we write to the Minister

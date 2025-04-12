@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhisi Corparaideacha,
 _—_—_—_ eee Comhairle Cathrach agus Contae Luimnigh.
 g Ceanncheathni Chorpardideach,
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -114,6 +116,7 @@ are on the housing list to receive accommodation from the Local Authority in the
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -170,6 +173,7 @@ conjunction with Clare County Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

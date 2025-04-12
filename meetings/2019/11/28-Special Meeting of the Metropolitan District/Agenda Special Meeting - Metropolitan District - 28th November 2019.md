@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Setbhisi Corparaideacha,
 r ~ te Cathract Cc ae '
 —_ & Contae Luimnigh. saidhamiaah ote oh cleat een
@@ -45,6 +46,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We the undersigned wish to request a Special Meeting of Limerick City and County Council to discuss
 Planning Permission granted to Irish Cement at their plant in Mungret.
 

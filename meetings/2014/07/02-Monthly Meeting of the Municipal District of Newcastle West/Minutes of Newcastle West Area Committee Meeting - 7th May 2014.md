@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF NEWCASTLE AREA COMMITTEE MEETING HELD ON 7°” MAY,
 2014, IN ARAS WILLIAM SMITH O'BRIEN, NEWCASTLE WEST
 
@@ -47,6 +48,7 @@ The disposal was proposed by Cllr. Galvin and seconded by Cllr. Scanlan.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions
 Questions submitted by Councillor Scanlan:
 
@@ -96,6 +98,7 @@ passable to traffic”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 P. Vallely stated that a lot of work was required for this road and it
 needed to be placed on the roads programme. However in the short
 term drains would be opened and tar patching will be carried out.
@@ -143,6 +146,7 @@ to take place within 10 days of this meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cllr. Riedy wished all existing Councillors well in the upcoming elections and
 thanked all staff for their efforts.
 

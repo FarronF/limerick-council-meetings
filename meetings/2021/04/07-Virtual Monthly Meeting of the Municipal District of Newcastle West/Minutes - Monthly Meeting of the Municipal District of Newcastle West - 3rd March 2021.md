@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -51,6 +52,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Circulated, report of Head of Property and Community Facilities, dated 11” February, 2021,
 concerning proposal to dispose of property at The Demesne, Newcastle West, Co. Limerick.
 
@@ -94,6 +96,7 @@ to the Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Executive Engineer, gave a presentation to the Members on the proposed works on the
 N21 Coolanoran Road Improvement Scheme. The proposed works are in the vicinity of the
 Applegreen Service Station,
@@ -144,6 +147,7 @@ He stated that works under this scheme included footpath widening and other vari
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 including public car park resurfacing at the Demesne, Newcastle West, a pedestrian crossing
 and footpath works at Station Road and Sheehan's Road Newcastle West.
 
@@ -193,6 +197,7 @@ preliminary stages of being purchased by Limerick City and County Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 The following is a list of vacant properties illustrating how long they have been vacant and
@@ -264,6 +269,7 @@ Assessment/Funding to be N/A - 20/11/2020 |
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 by Councillor Sheahan and seconded by Councillor Galvin that a pilot scheme for Affordable
 Housing be considered for these properties. The need for an Affordable Housing Scheme for
 Newcastle West was also raised. The Director stated that he would raise these matters with
@@ -316,6 +322,7 @@ funding to proceed with the detailed design process.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Question submitted by Councillor J. Scanlan
 
 1 will ask at the next Meeting (a) how much was spent on refurbishing 22 Cluain Arra,
@@ -365,6 +372,7 @@ with Limerick City & County Council's Traffic Calming Policy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 While there is a very low number of speed violations, the 85%ile recorded
 speed is 23km/hr, significantly lower than the 30km/hr speed limit within this
 estate.
@@ -414,6 +422,7 @@ of road space from motorists.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The allocations are directed at footpath widening, pedestrian crossings and
 reducing road widths at crossing points.
 
@@ -463,6 +472,7 @@ contractor is required to rectify same prior to Limerick City and County Council
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 taking possession of the building. The Defects Liability Period commences
 when the building is certified as being “substantially complete” in accordance
 with the building contract and is typically 12 months in duration.

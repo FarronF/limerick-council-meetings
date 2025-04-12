@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN PASTORAL
 CENTRE, NICKER, CO. LIMERICK, ON THURSDAY, 15™ JANUARY,
@@ -54,6 +55,7 @@ On resumption, the Meeting proceeded with the Agenda.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 tN
 
 1. Adoption of Minutes:
@@ -103,6 +105,7 @@ advance of this year’s Tidy Towns Competition.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Motion was proposed by Councillor O'Donnell and seconded by Councillor
 Mitchell
 

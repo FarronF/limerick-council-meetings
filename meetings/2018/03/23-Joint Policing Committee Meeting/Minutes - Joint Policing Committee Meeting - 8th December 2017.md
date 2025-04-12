@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF MEETING OF JOINT POLICING COMMITTEE HELD IN THE
 CONFERENCE ROOM, ESTUARY HOUSE, GARDA STATION, HENRY STREET,
 LIMERICK ON FRIDAY, 8™ DECEMBER, 2017 AT 10.00 A.M.
@@ -64,6 +65,7 @@ volunteered to use the device on a rostered basis.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6 (a)
 
 Mr. Willoughby then gave presentation on the Active Mobility Pilot in Limerick Garda Division.
@@ -119,6 +121,7 @@ given great service on policing to the city and county.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6 (b)
 
 6 (c)
@@ -174,6 +177,7 @@ the Members.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “1 will move at the next Metropolitan Area Meeting that a Driver Feedback Sign be erected at the
 Ballinacurra side of the Dooradoyle Flyover to slow traffic in Ballinacurra which is currently
 speeding on the road”.
@@ -223,6 +227,7 @@ Probationer Gardai to Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It was noted that five Probationer Gardai were allocated to Limerick from the recent attestation
 and this was welcomed by the Members. Howevr, Members referred to the urgent need for
 
@@ -240,6 +245,7 @@ CHAIRMAN
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

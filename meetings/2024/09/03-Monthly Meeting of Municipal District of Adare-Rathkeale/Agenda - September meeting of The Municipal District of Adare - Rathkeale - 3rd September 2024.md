@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 & Contae Luimnigh
 AD NO ——
@@ -85,6 +86,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -127,6 +129,7 @@ and reassurance of safe drinking water in 2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.

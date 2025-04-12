@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhisi Corpardideacha.
 __— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
 & Contae Luimnigh Ceanncheathni Chorpardideach.
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 Notice of Motion subm i O’Brien

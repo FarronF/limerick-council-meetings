@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardiieacha,
 Comhairte Cathrach agus Contae Luimnigh,
 
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -122,6 +124,7 @@ Store and the Old Hall at Castlemahon Village.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

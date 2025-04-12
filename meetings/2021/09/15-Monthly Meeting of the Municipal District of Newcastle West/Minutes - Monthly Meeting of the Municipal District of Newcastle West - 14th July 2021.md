@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -50,6 +51,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 District of Newcastle West held on 23” June, 2021.
 
 Proposed by: Councillor Collins
@@ -99,6 +101,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agree
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agreed to allocate
 €3,000 for upgrade works to the footbridge in Athea to Athea Tidy Towns.
 
@@ -149,6 +152,7 @@ Directorate.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will ask at the next Meeting for (a) a detailed update on the takeover of the Rays in
 Mountcollins and (b) the proposed new Council housing development in Mountcollins.
 
@@ -198,6 +202,7 @@ that family type houses be considered in smaller villages in the District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Notice of Motion submitted by Councillor L. Galvin
 
 1 will move at the next Meeting that this Council put in place Part 8 housing applications for
@@ -255,6 +260,7 @@ waiting list, sewerage capacity in towns and villages for new housing developmen
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Disposal of Land
 
 Circulated, report of Director, Housing Development Directorate, dated 2” July, 2021,
@@ -304,6 +310,7 @@ addition, there is an outstanding commitment of €19,739.92. (b) When the
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 works that are required to bring the estate to taking in charge standard are
 completed the formal taking in charge process will be commenced (c) The
 Property & Community Facilities Department currently have no compulsory
@@ -354,6 +361,7 @@ reducing\eliminating ongoing maintenance issues.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Outturn costs for the air-to-air heating system accounted for 15% of the average cost of the
 upgrade works, just under €7,000 ex VAT, per unit. Average out turn cost amounted to just
 under €47,000 per unit ex VAT.
@@ -402,6 +410,7 @@ Tit provided approval to LCCC to proceed to the next stage of the approval proce
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Next stage
 
 LCCC will organise a Road Safety Audit on the proposed design and incorporate any necessary
@@ -455,6 +464,7 @@ This item was dealt with as part of Item No. 3 on the Agenda.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next Meeting that this Council replaces the chain link fence and wire in
 Reilig Ide Naofa Abbeyfeale and remove the trees from the drain. These are located to the
 rear of the newly constructed houses and the trees are causing an obstruction to water flow
@@ -506,6 +516,7 @@ of being relet. The maintenance of the unit while vacant is limited to necessary
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 immediate issues that require to be addressed and within the level of
 resources available.
 
@@ -554,6 +565,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

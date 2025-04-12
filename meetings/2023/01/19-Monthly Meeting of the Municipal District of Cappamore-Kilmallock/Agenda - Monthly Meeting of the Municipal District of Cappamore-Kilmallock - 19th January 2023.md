@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach aqus Contae Luimnigh,
 & Contae Luimnigh Olfig an Cheantair, Aras Mhaichin Seoighe,
 
@@ -54,6 +55,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office wW @Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Property Services
 
 To consider Disposal of Property at:
@@ -98,6 +100,7 @@ Kilmallock District.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 10. Question submitted by Councillor Carey

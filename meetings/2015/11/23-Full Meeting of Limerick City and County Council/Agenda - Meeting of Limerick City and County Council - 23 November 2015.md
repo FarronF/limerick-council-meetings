@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i
 
 Limerick seca auvucusanncoumesameaeus
@@ -42,6 +43,7 @@ report, already circulated — Copies Enclosed)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -101,6 +103,7 @@ To hear presentation.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 Conferences
@@ -181,6 +184,7 @@ and 28" November, 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (n) Conference “A Practical Guide to Budget 2016,” to be held in Clonakilty,
 Co. Cork, from 4" to 6 December, 2015.
 
@@ -233,6 +237,7 @@ down.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9.
 
 10.
@@ -278,6 +283,7 @@ Correspondence.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

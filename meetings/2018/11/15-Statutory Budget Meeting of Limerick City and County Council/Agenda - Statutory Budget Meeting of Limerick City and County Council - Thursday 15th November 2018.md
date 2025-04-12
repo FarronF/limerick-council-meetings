@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Comhairle Cathrach
 & Contae Luimnigh
 nAr™N —_—_——
@@ -84,6 +85,7 @@ vw @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . To determine the proportion of commercial rates refund that applies on vacant
 properties in 2019 within the administrative area of Limerick City and County
 Council, in accordance with the provisions of Section 31 of the Local Government

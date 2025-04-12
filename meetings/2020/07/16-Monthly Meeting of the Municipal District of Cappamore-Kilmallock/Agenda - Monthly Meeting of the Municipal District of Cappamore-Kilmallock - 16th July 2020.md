@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 
 & Contae Luimnigh
@@ -66,6 +67,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Physical Development Directorate
 
 To consider Draft Municipal District of Cappamore-Kilmallock (Parking Places)
@@ -106,6 +108,7 @@ phase of the CCTV installation programme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 7. Question submitted by Councillor Donegan
 

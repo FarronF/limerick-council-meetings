@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14" January 2022.
 
 A Chomhairleoir, a chara,
@@ -44,6 +45,7 @@ Update on GMA Community Grants
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 6. Notice of Motion submitted by Councillor Egan

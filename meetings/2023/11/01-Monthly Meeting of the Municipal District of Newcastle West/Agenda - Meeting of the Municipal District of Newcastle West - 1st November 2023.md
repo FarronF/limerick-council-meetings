@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 a i aaa
@@ -63,6 +64,7 @@ October, 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 utation
 
 To receive Deputation from West Limerick Sports Complex.
@@ -100,6 +102,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -165,6 +168,7 @@ Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.

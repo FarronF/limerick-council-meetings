@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 5" OCTOBER, 2016, AT 10:00 A.M.
@@ -46,6 +47,7 @@ housing estates in the interests of safety for those living there.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Service Operations Directorate
 Planning and Environmental Services
 (a) Taking in Charge of Estates — Declaration of Road to be Public Roads
@@ -95,6 +97,7 @@ work on the report.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 hri Lightin,
 
 The Cathaoirleach said that he had received an email from the Newcastle West Business
@@ -145,6 +148,7 @@ will be renewed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: The renewal of the road markings in the Woodfield Estates Newcastle West is
 currently being carried out.
 
@@ -196,6 +200,7 @@ November 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 12. Notice of Motion submitted by Councillor J. Scanlan
@@ -248,6 +253,7 @@ footpath from St. Michael’s House, Ballyagran towards the village.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Councillor Galvin, in proposing the Motion, stated that it was imperative that this footpath be

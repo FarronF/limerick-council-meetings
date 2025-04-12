@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 iil — Limerick City
@@ -81,6 +82,7 @@ W e@LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Physical Development Directorate
 
 To discuss N69 Reens Pike junction and parking issues at Coolanoran.
@@ -120,6 +122,7 @@ districts littering offence laws during the month of December 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

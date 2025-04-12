@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i
 
 i
@@ -77,6 +78,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Schedule of Works for the Municipal District
 
 To consider draft Schedule of Works 2017 for the Municipal District of Adare-Rathkeale.
@@ -129,6 +131,7 @@ To note update on the Taking-In-Charge of An Curran Estate, Pallaskenry.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -180,6 +183,7 @@ Club at our April Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor R. O'Donoghue
 
 14. —_| will move at the next Meeting that, as a matter of urgency, the derelict/vacant properties in the

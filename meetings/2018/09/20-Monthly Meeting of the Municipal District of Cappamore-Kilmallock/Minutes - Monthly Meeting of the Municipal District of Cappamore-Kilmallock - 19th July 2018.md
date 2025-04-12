@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -43,6 +44,7 @@ subject to the amendment outlined above.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii) Circulated, copy of draft Minutes of Annual Meeting of the Municipal District of
 Cappamore-Kilmallock held on 28th June, 2018
 
@@ -87,6 +89,7 @@ by Councillor Gleeson and seconded by Councillor Sheehy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. General Municipal Allocation
 
 The Cathaoirleach confirmed that he had requested that this item be added to the agenda
@@ -131,6 +134,7 @@ be enforced at all times to ensure full compliance with the rules.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor B. Teefy
 
 I will ask at the next Meeting if Limerick City & County Council can put a programme in place
@@ -174,6 +178,7 @@ involved in this project.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 « Emergency Services
 
 The Members praised the work of the emergency services and Council staff following some
@@ -210,6 +215,7 @@ Date:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

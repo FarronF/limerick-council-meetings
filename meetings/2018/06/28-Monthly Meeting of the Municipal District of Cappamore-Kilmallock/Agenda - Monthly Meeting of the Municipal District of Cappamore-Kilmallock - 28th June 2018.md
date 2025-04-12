@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 aArN
 
 ae Comhairle Cathrach
@@ -77,6 +78,7 @@ wwew.timericicie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Consideration and Adoption of the Draft Municipal District of Cappamore-

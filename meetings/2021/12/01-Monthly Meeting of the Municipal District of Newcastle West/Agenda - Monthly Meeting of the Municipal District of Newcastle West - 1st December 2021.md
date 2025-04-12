@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ ar Habra Cathrach
 ontae Luimnigh
 ans” , oe
@@ -82,6 +83,7 @@ www.timerick.te
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -136,6 +138,7 @@ Daar River Walk and Daar River View, Newcastle West be resolved.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

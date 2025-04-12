@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Comhaire Cathrach __ Ceantar Bardasach Ath Dara-Réth Cacta,
 & Contae Luimnigh Comhalrle Catheach agus — prs
 BQ a — as Séan Finn,
@@ -55,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposal of land as follows:
@@ -90,6 +92,7 @@ tN
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation (GMA) 2019
 
 To review position in relation to allocations under the General Municipal Allocation 2019.

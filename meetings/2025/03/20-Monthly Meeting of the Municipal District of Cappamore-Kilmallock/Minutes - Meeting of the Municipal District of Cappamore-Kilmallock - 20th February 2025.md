@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE AND ON-LINE, ON
 THURSDAY, THE 20™ FEBRUARY 2025 AT 3.00PM.
@@ -49,6 +50,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interests
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
@@ -101,6 +103,7 @@ Business Park, Kilmallock, Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The report, as circulated, was noted by Members.
 
 c) Circulated, report of the Senior Staff Officer, Housing Support Services, dated 7”
@@ -147,6 +150,7 @@ accordance with Section 8 of the report.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The following amendments were proposed by Councillor Stokes and seconded by
 Councillor Teefy:
 
@@ -195,6 +199,7 @@ Cemeteries budget, 2024 Schedule of Works.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 The contractor procured to carry out the footpath restorations works in Effin Graveyard last
@@ -243,6 +248,7 @@ on the situation at O'Rourke's on the N20.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 A Judicial Review hearing regarding An Bord Pleanala’s approval of the N20 O’Rourke’s Cross
@@ -289,6 +295,7 @@ respect to the maintenance of the public roads.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The waste disposal site operator has, however, in recent weeks been asked to cease
 operations temporarily so as to carry out improvements to their own access road leading up
 to the old quarry. It should be noted that this road is not a public road. Limerick City and
@@ -334,6 +341,7 @@ improvements may be necessary.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Any Other Business
 
 The Leas Cathaoirleach referred to the recent announcement by Or. Pat Daly, Director

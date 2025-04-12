@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) To receive update on the Taking-In-Charge of Ballyvareen Estate.
 
 (c) To note update on the Taking-In-Charge of An Curran Estate, Pallaskenry.
@@ -102,6 +104,7 @@ the old Anderson Factory being made available for use for the Rathkeale Butterfl
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

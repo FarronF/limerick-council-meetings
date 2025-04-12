@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh pa ser tl
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchant's Quay, Limerick et aT
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 8.
@@ -117,6 +119,7 @@ be significantly improved.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -177,6 +180,7 @@ Treatment Plant facilities in Newcastle West taking place.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Notice of Motion submitted by Councillor F. Foley

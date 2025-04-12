@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AE
 
 Seirbhis! Corpardideacha,
@@ -78,6 +79,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Support Services Directorate
 
 (a) Strategic Policy Committees —- Sectoral Nominations
@@ -122,6 +124,7 @@ Meeting held on 24" October, 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (f)
@@ -173,6 +176,7 @@ York, under Section 142(5) of the Local Government Act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Service Operations Directorate
@@ -215,6 +219,7 @@ amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -261,6 +266,7 @@ November, 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (c)
@@ -336,6 +342,7 @@ Meeting/Event.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -385,6 +392,7 @@ full or part-time OT / Occupational Therapist.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -440,6 +448,7 @@ completed in areas and also improve transparency and future planning.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 23.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 Comhairle Cathvach agus Contae Luimnigh,
 Arms —_~ o Corman Lassner Aras Williarn Smith O'Brien,

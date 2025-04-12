@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28 August, 2014.
 
 Corporate Services.
@@ -42,6 +43,7 @@ Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -93,6 +95,7 @@ Question submitted by Councillor J. Sheahan
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -133,6 +136,7 @@ Reserved Functions and revised budgetary process.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
 GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 2"°
@@ -174,6 +178,7 @@ Meeting would take place on Wednesday, 3 September, 2014 at 10.00 a.m.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Travel and Transportation:
@@ -223,6 +228,7 @@ presented, and did not support the proposal.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions submitted by Councillor J. Scanlan:
 
 “| will ask at our July Meeting as to when renewal work will occur on the
@@ -273,6 +279,7 @@ with Castleisland Area Office.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 “| will ask for an up-date on the river at the back of the Town Park,
@@ -307,6 +314,7 @@ Cathaoirleach
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ~ LIMERICK CITY |
 AND COUNTY
 COUNCIL
@@ -321,6 +329,7 @@ NEWCASTLE WEST |
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Municipal District of Newcastle West, in exercise of its powers under the Local
 
 Government Act, 2001, as amended by the Local Government Reform Act 2014 hereby make
@@ -385,6 +394,7 @@ ____124 _| Motions of Sympathy and Adjournments | IS,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 DURATION OF STANDING ORDERS
 
 These Standing Orders shall continue in force until altered, amended, or repealed. The
@@ -459,6 +469,7 @@ authority, if selected in accordance with this sub-paragraph, shall not have any
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 In the case of the Annual Meeting in an election year the election of a Cathaoirleach is to be
@@ -545,6 +556,7 @@ thing done at the meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22.
 
 For the purposes of Standing Order No. 20 “signature” includes a facsimile of a signature
@@ -623,6 +635,7 @@ Ordinary Meeting .
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ORDER OF BUSINESS
 
 31.
@@ -715,6 +728,7 @@ a Member may object to any part thereof as not being an accurate record and upon
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 40.
 
 motion any question of altering the record shall be determined by the Municipal District
@@ -788,6 +802,7 @@ A Motion may be withdrawn by leave of the Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 49.The following Motions may be made without Notice at a Meeting:-
 
 (1) On matters expressly required by statute to be done at the Meeting.
@@ -864,6 +879,7 @@ Mecting for consideration;
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 « In the absence of such a representative, the Cathaoirleach will make such determination
 in accordance with Standing Orders;
 
@@ -928,6 +944,7 @@ Motion, and shall become the question upon which any further amendment may be mo
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 63.
 
 Where there is only one Amendment and it is carried, it shall then be taken to be the
@@ -1012,6 +1029,7 @@ debate.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 75.
 
 76.
@@ -1096,6 +1114,7 @@ any further part in that meeting on that day.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 83A.
 
 83B.
@@ -1174,6 +1193,7 @@ information.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 $4.
 
 No Members shall address the Cathaoirleach, unless from one of the seats reserved to
@@ -1262,6 +1282,7 @@ Members.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 96.
 
 Councillors are not permitted to receive or make telephone calls during meetings and all
@@ -1348,6 +1369,7 @@ District Members may determine when appointing the Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 107.
 
 108.
@@ -1440,6 +1462,7 @@ legal provisions.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 SUSPENSION OF STANDING ORDERS
 
 120. (i) In any case of urgency, or upon Motion made on a notice duly given, any one or more
@@ -1497,6 +1520,7 @@ or sister)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 EXPRESSIONS OF SYMPATHY
 
 125. Expressions of Sympathy must be submitted in writing to the Cathaoirleach on the
@@ -1524,6 +1548,7 @@ MEETINGS ADMINISTRATOR
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 COMHAIRLE CATHRACH & CONTAE LUIMNIGH
 LIMERICK CITY & COUNTY COUNCIL
 
@@ -1569,6 +1594,7 @@ TRAVEL & TRANSPORTATION
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Oifig Dearadh Bothar
 Naisidnta an Mhedin larthair
 Comhairle Chontae Luimnigh
@@ -1639,6 +1665,7 @@ Lezenck Cry Council and Nomh Tipperary County Cosexil. Coonter Luimunigh. Combai
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 \
 
 _

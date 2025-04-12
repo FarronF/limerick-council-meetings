@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Comhairle Cathrach rere — sens parler
 7 Comhairle Cattwach warring)
 ~ & Contae Luimnigh Avas William Smith O'Brien,
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 Housing Development Directorate
@@ -101,6 +103,7 @@ Castlemahon Village.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

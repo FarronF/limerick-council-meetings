@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 <i Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
 Comhairle Cathrach agus Contae Luimnigh,
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick, @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation (GMA)
 
 To review position in relation to allocations under the General Municipal Allocation

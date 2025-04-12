@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _— Comhairle Cathrach
 & Contae Luimnigh
  ———
@@ -82,6 +83,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Housing Development Directorate
 
 10.
@@ -135,6 +137,7 @@ and all of the Daar River View estate.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 17.

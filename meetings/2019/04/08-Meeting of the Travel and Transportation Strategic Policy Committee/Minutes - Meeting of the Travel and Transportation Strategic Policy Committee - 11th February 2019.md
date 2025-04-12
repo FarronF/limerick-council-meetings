@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 
 & Contae Luimnigh
@@ -53,6 +54,7 @@ Funding in the amount of €2.15 million has been provided to advance the M20 Li
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cork scheme, and funding in the amount of €1.4 million has been provided to advance the
 N69 Foynes to Limerick Scheme in 2019. €450,000 has been provided for both the N21
 Abbeyfeale Relief Road and the N21 Newcastle West Relief Road projects, and €100,000 for
@@ -106,6 +108,7 @@ approves the Review of the Speed Limits, which will come before it shortly. He a
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 this may allow the Council to bring forward proposals for further calming and
 improvements.
 
@@ -160,6 +163,7 @@ conjunction with Economic Development Directorate, was preparing a draft Climate
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Adaptation Strategy in accordance with the requirements of the Climate Action and Low
 Carbon Act 2015 and the National Adaptation Framework.
 

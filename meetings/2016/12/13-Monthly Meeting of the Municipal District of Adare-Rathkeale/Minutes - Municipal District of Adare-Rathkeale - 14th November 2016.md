@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
 ADARE-RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON MONDAY, 14™ NOVEMBER, 2016, AT 6.00 P.M.
@@ -55,6 +56,7 @@ Lands depicted on the Ordnance Survey's First Edition 6” Mapping of the 1840's
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 extent of such lands depended on ‘gentlemen's agreements’ between the land-owners and

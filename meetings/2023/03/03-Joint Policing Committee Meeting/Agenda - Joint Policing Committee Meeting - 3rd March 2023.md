@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 ; & Contae Luimnigh
 ee — Limerick City
@@ -74,6 +75,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Question submitted by Maurice Quinlivan, T.D. :
 
 “| will ask at the next Meeting of the Joint Policing Committee for details of the number of illegal

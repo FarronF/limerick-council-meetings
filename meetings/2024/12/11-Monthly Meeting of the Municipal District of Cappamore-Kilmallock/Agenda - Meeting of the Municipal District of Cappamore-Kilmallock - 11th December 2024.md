@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach agus Contae Luimnigh,
 Comhairle Cathrach Oifig an Cheantair, Aras Mhainchir Seoighe,
 & Contae Luimnigh cal Mochece
@@ -53,6 +54,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office we
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Declaration of Interest
 
 4. Property Services

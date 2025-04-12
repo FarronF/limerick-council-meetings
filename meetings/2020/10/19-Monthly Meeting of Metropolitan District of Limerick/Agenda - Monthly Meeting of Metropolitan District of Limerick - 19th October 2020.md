@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 eer —— Limerick City
@@ -67,6 +68,7 @@ m customerservices@limerick.ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows :
 
@@ -115,6 +117,7 @@ in accordance with Section 131A and Schedule 14A of the Local Government Act 200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 6. Question submitted by Councillor D. McSweeney
@@ -155,6 +158,7 @@ on roads surrounding University Hospital Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next meeting if Limerick City and County Council will review fish passage at the
@@ -189,6 +193,7 @@ them as a security measure.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18. Notice of Motion submitted by Councillor S. Kiely
 
 | will move at the next meeting of Limerick Metropolitan District that we write to the Minister for

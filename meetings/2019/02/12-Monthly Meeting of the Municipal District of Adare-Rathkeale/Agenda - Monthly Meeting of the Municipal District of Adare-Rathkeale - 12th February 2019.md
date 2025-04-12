@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimngh,
 
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick. w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 utation from ir’ r
 
 To receive Deputation from the Cardiac First Responder Group. (Item to be taken at 9.00
@@ -103,6 +105,7 @@ tw
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -159,6 +162,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

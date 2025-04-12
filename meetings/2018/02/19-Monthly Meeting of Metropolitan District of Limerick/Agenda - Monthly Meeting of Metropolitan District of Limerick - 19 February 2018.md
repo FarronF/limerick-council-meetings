@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_— Comhairle Cathrach
 & Contae Luimnigh
 AcoN —_—_—_—_—_—_—_———
@@ -75,6 +76,7 @@ w @LimerickCouncit
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Disposal of Land
@@ -124,6 +126,7 @@ Castieconnell for over a year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -182,6 +185,7 @@ acquiring a suitable site in the area for a new Burial Ground.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 Correspondence

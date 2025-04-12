@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 aLN td ‘
 =
 COMHAIRLE
@@ -75,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -133,6 +135,7 @@ Bloodmill Road will be completed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -194,6 +197,7 @@ purposes by people across the whole Metropolitan District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

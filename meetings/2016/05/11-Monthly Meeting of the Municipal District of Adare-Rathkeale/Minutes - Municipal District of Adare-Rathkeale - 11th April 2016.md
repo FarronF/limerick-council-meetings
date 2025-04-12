@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 MONDAY, 11™ APRIL, 2016, AT 9.00 A.M.
@@ -54,6 +55,7 @@ priorities. The council would, however, continue to engage with Irish Water in t
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Transport Infrastructure Ireland (TIl) had made it clear that a footpath from Adare to the
 Adare GAA grounds would not be funded as part of the scheme. Contact would, however,
 be made with the Roads Department of the Council in relation to the possibility of laying a
@@ -101,6 +103,7 @@ accordance with the Deputy Chief Executive's Report.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Members welcomed the proposal and indicated that it was important that sufficient vehicular
@@ -154,6 +157,7 @@ it was hoped work would commence on site within four weeks.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 The Operations Manager indicated that a Meeting with the Office of Public Works (OPW) would
@@ -204,6 +208,7 @@ complaints arise the Council investigates the issues and issue notices if warran
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 8. Question submitted by Councillor R. O'Donoghue
@@ -265,6 +270,7 @@ If an applicant is VAT exempt there are other options available to them.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 10. Question submitted by Councillor K. Sheahan
@@ -320,6 +326,7 @@ social housing in Adare.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Notice of Motion submitted by Councillor S. Keary
 
 I will move at the next Meeting that Limerick City and County Council should, as a matter of
@@ -372,6 +379,7 @@ the safety of young people using schools and sports facilities and we should be 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 needs of the elderly people at Churches, Doctors Surgeries etc. When we adopt this policy it
@@ -428,6 +436,7 @@ Joint Policing Committee (JPC).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. Correspondence
 
 Correspondence was noted.

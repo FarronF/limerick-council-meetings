@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_— Comhairle Cathrach Diliche Bardais an Chaistedin Nua Thar,
 Comhairle Cathrach agus Contac Luimnigh,
 x o~ & Contae Luimnigh. Aras Wittiam Smith O’Brien
@@ -55,6 +56,7 @@ Corporate Headquarters, Merchant's Quay. Limerick v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning
@@ -103,6 +105,7 @@ housing development along Forge Road, Broadford.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 & Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh,
 

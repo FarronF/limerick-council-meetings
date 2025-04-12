@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -67,6 +68,7 @@ Sees edoerans arioras Glen Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic lopm nd Plannin;
 
 Proposed Amendment No. 2 to the Southern Environs Local Area Plan 2011-2017 in

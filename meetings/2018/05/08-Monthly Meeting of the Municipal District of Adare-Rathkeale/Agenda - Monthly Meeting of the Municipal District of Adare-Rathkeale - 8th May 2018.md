@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 <—
 
 =
@@ -77,6 +78,7 @@ W @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Regional Services Directorate —- Mid West Road Design Office
@@ -116,6 +118,7 @@ To note update on drainage issues at Courtmatrix.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -153,6 +156,7 @@ Service Operations Directorate — Planning and Environmental
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

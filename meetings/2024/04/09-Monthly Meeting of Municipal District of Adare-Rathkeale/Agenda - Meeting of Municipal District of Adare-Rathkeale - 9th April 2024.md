@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ie Comhairle Cathrach
 & Contae Luimnigh
 NN =
@@ -72,6 +73,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Disposal of 0.00099 acres (0.0004 ha) of land at Camoge Park, Skagh, Croom, Co.
 Limerick.
 (Reports Enclosed).
@@ -114,6 +116,7 @@ as a matter of urgency due to their immense poor condition.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Notice of Motion submitted by Councillor J. O’Donoghue
 
 | will move at the next Meeting a motion of no confidence in the Chair of the Adare-

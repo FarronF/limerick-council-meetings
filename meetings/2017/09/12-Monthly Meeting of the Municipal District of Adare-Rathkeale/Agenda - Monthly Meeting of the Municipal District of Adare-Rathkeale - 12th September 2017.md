@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———_ pana Cathrach
 —_ ontae Luimnigh
 — Limerick Ci
@@ -83,6 +84,7 @@ W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Economic Development Directorate
@@ -132,6 +134,7 @@ Ballysteen.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -185,6 +188,7 @@ movement.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Notice of Motion submitted by Councillor E. O’Brien
 
 I will move at the next Meeting that this District supports the introduction of the Life

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——
 Limerick
 CITY & COUNTY
@@ -74,6 +75,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ne
 
 NOTICES OF MOTION ADJOURNED FROM PREVIOUS ING

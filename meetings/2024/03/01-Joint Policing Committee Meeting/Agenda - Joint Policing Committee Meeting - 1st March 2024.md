@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ei Comhairle Cathrach . Sexbhisi Corpartideacha,
 “ : Comnatie Cathwach agus Contae Lutwjh,
 - ,—_ & Contae Luimnigh Ceanncheathna Chorpardideach.
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Question submitted by Deputy Maurice Quinlivan, T.D.

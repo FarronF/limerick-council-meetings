@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacta,
 & Contae Luimnigh Comharte Cathrach agus Contae Luimnigh.
 ~ Aras Séan Finn,
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Community, Tourism and Culture Directorate
@@ -98,6 +100,7 @@ Library.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

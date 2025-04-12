@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_— Comhairle Cathrach
 = & Contae Luimnigh
 . = ——> Limerick City

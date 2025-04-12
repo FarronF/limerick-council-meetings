@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—__ Comhairle Cathrach
 & Contae Luimnigh
 ALN SS
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 To receive a presentation on Derelict Sites and Vacant Homes Activation Programme.
@@ -99,6 +101,7 @@ of the District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——
 
 . = .
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 For 2015 the main, strategic, non-discretionary expenditure of Limerick City and
 County Council will form part of the main local authority budget. Included in this is
 expenditure on Housing Maintenance, Roads Grants and own funding, libraries, fire
@@ -78,6 +80,7 @@ Head of Finance.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 METROPOLITAN MUNICIPAL DISTRICT DRAFT BUDGETARY
 PLAN 2015
 ee ee ee
@@ -121,6 +124,7 @@ Relevant Gross Expenditure (B=A
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

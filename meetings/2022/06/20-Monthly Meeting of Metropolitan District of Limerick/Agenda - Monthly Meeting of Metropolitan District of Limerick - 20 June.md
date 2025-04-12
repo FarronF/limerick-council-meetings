@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 ; o~ & Contae & Contae Luimnigh
 a“™
@@ -59,6 +60,7 @@ oe werwkimerickie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -109,6 +111,7 @@ very successful for this area last Summer.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor E. O’Donovan
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the festoon
 
@@ -150,6 +153,7 @@ have for St. Anne’s Court and if they could provide an update on any developme
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 15. Notice of Motion submitted by Councillor S. Kiely

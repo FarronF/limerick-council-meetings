@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON TUESDAY
@@ -48,6 +49,7 @@ Lawlor of HL Commodity Foods who has leased the building since it was built in
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Economic Development and Planning
 Innovate Limerick
 
@@ -99,6 +101,7 @@ policy for the purchase of one off rural houses for letting to Council tenants.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The City and County Council sought approval from the DECLG for the
 purchase of individual houses with a view to having flexibility in
 particular for special needs cases. However, we have not received
@@ -148,6 +151,7 @@ Pride of Place Competition.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Cathaoirleach advised the Meeting that the 11th June had been confirmed as
 the date for the Members to visit a river project in Tyrone.
 

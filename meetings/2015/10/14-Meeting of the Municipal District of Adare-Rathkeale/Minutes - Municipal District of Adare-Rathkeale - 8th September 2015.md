@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD IN KILCORNAN COMMUNITY CENTRE,
 KILCORNAN, CO. LIMERICK ON TUESDAY, 8" SEPTEMBER, 2015, AT
@@ -55,6 +56,7 @@ measures at this location.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 REPLY: The issue of traffic calming at this location has been raised with the NRA
@@ -112,6 +114,7 @@ Proposed by Councillor O’Brien;
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seconded by Councillor McMahon;
 And Resolved:
 
@@ -163,6 +166,7 @@ Members, this item would go before the full Council. He pointed out that there w
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 constraints as the lease needed to be renewed by November. Following a lengthy
@@ -214,6 +218,7 @@ REPLY: This work will be carried out under the 2016 Road Works Scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor S. Keary
 
 ! will ask at the next Meeting what is the policy of Limerick City and County Council
@@ -259,6 +264,7 @@ speed limit in this estate to 30 kph this year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 13. Question submitted by Councillor R. O’Donoghue
@@ -310,6 +316,7 @@ the second grave be set at the same price or discounted.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 REPLY: The price of graves is set by the Chief Executive as part of the financial
@@ -361,6 +368,7 @@ Ballyculhane, Kildimo.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Pothole repairs will be carried out in the next few weeks. The road at this
 location will be considered for next year’s road works programme.
 
@@ -410,6 +418,7 @@ and County Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23. Correspondence
 
 Correspondence was noted.
@@ -445,6 +454,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

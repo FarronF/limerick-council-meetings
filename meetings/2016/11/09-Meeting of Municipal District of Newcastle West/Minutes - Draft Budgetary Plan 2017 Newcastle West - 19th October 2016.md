@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
 WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON
@@ -55,6 +56,7 @@ Newcastle West as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _Sve__|___ General Municipal Allocation 2017_| Municipal District of Newcastle West _
 
 (B04 |localRoads SO

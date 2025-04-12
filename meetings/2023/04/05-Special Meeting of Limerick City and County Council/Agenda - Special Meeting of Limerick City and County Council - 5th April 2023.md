@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 j Seirbhisi Corpartikicactu,
 a Comhairle Cathrach Comhairle Cathrach agus Corina Luimnigh,
 & Contae Luimnigh Ceanncheathné Chorparaideach,

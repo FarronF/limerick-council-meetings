@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 il Comhairle Cathrach
 & Contae Luimnigh
 AN ~
@@ -77,6 +78,7 @@ v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 7.

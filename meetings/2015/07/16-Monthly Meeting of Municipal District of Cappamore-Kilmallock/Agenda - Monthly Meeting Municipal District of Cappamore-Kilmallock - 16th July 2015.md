@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_
 
 An fi ™
@@ -85,8 +86,10 @@ Limerick
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 7.
@@ -134,6 +137,7 @@ Question submitted by Councillor O’Donnell
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

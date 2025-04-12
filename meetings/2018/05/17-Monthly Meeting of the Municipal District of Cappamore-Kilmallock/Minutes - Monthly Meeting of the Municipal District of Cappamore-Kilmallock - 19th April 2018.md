@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -48,6 +49,7 @@ The Members noted the report, as circulated.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. General Municipal Allocation
 
 Circulated, Cappamore-Kilmallock General Municipal Allocation (GMA) 2018 Schedule
@@ -96,6 +98,7 @@ confident the 5 lights will be operating before the end of April 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 There is no funding available at present for the upgrade of estates to LED
 lighting.
 
@@ -143,6 +146,7 @@ Mitchell.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: There is currently sufficient zoned lands for residential development in Bruff
 Local Area Plan which was extended in April 2017 for a 5-year period.
 Following adoption of the Regional Spatial and Economic Strategies (RSES) in
@@ -193,6 +197,7 @@ Administrator stated he would follow up on this with the Head of Digital Strateg
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . id Ca m
 
 Councillor Gleeson expressed his concerns regarding the possible closure of the Dairygold Co-
@@ -209,6 +214,7 @@ Date:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

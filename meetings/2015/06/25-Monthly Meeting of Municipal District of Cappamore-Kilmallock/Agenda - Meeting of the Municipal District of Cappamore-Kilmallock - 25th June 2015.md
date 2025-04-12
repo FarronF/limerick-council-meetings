@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_-_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 
 xn — Comhairle Cathrach agus Contae Luimnigh.
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick (Regge tetosets).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 7.
@@ -108,6 +110,7 @@ Knocklong, Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 Notice of Motion submitted by Councillor O’Donnell

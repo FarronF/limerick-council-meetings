@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 
@@ -57,6 +58,7 @@ e Proposed new Garda Station for Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Upgrade of Glin Garda Station.
 
 The location of Go Safe vans was discussed and the Superintendent was asked who was
@@ -110,6 +112,7 @@ Section 180 of the Planning and Development Acts 2000-2015 and Section 11 of the
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 UESTION
 5. Question submitted by Councillor J. Scanian
 
@@ -157,6 +160,7 @@ Newcastle West Municipal District at a cost of €10,000.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 8. uestion subm ncillor M. Collins
 
@@ -211,6 +215,7 @@ the coming weeks.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 NOTICES OF MOTION
@@ -269,6 +274,7 @@ The Motion was seconded by Councillor Galvin and agreed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Dublin Coach will be contacted with regard to stops at Abbeyfeale and Newcastle
 West for their Tralee to Galway service.
 
@@ -321,6 +327,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LIMERICK CITY AND COUNTY COUNCIL
 MUNICIPAL DISTRICT OF NEWCASTLE WEST
 

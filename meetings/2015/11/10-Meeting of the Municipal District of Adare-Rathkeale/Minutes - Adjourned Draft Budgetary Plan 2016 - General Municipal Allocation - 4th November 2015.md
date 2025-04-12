@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT THE ADJOURNED DRAFT BUDGETARY
 PLAN 2016 MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE,
@@ -56,6 +57,7 @@ such heading.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor O'Brien;
 Seconded by Councillor O'Donoghue;
 And Resolved:

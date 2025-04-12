@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . Seirdhisi Corpardideacha,
 _—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathru Chorparaideach,

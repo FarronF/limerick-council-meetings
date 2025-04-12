@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON TUESDAY 23RD JUNE,
@@ -61,6 +62,7 @@ Meetings would be run as efficiently as possible and that he expected the full s
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the Members in this regard.
 
 2. Election of Leas-Chathaoirleach of the Municipal District

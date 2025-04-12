@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7 ——_ Comhairle Cathrach Combe geac coats unwigh
 
 wac - ls
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 QUESTIONS
@@ -113,6 +115,7 @@ the village.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 13.

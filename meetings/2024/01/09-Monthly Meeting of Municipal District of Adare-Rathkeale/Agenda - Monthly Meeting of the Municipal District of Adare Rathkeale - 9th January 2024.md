@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach __ Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comnhairte Cathvach agus aa oed a
 “~™ i ~~ ~ 5
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposal of land at 4 High Street, Croom, Co. Limerick.
@@ -99,6 +101,7 @@ in the Adare-Rathkeale Municipal District area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Sewbhisi Corparaideacha,
 eel Comhairle Cathrach Comhaite Cathrach agus Contae Luimnigh,
 ~ & Contae Luimnigh Ceanncheathri Chorpardideach,
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Regeneration, Sports and Recreation Directorate
 (a)_Part 8 Procedure —Moyross Avenue Upgrade
 
@@ -114,6 +116,7 @@ a lot of green area, can the green area be cut into to make up car parking space
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, with the Factory Youthspace
@@ -162,6 +165,7 @@ feasibility study in early 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. Question submitted by Councillor D. McSweeney
 
 | will ask at the next Meeting of the Metropolitan District of Limerick what engagement has
@@ -207,6 +211,7 @@ not in a suitable location.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 N OF MOTION
 
 23. Notice of Motion submitted by Councillor D. Butler
@@ -256,6 +261,7 @@ maintenance of cemeteries, located within the Metropolitan District of Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 30. Notice of Motion submitted by Coundillor S. Kiely
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the restrictions on

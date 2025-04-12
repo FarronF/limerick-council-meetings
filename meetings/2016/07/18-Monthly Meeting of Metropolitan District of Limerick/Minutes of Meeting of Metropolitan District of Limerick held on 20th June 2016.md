@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 20" JUNE, 2016, AT
 
@@ -61,6 +62,7 @@ of Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 (approx.) of land by way of long term lease, comprising of the newly refurbished plaza area.
@@ -120,6 +122,7 @@ included: Limerick City and County Council (and the LEO within the Council), Lim
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Education and Training Board, Department of Social Protection, the HSE and the Local
@@ -175,6 +178,7 @@ place and what are the future plans to secure a new management company.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The current operator has been engaged on a month by month basis, on the terms
 of the original contract to operate and manage the facility. The operator was paid
 €296,400 (ex VAT) in 2015.
@@ -238,6 +242,7 @@ accommodation accordingly.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 $
 
 11. Question submitted by Councillor John Costelloe
@@ -292,6 +297,7 @@ Collins.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 A number of Members raised concerns regarding the level of funding which had been provided
@@ -346,6 +352,7 @@ Policy Committee for further consideration.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 15. Notice of Motion submitted by Councillor Joe Leddin
@@ -403,6 +410,7 @@ the increases proposed in the new book of quantum regarding insurance compensati
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The motion was seconded by Councillor O’Hanlon.
 
 A number of Members also referred to the issue of rising motor insurance costs and that urgent
@@ -456,6 +464,7 @@ Backfilling and Reinstatement of Openings in Public Roads).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 Therefore, responsibility for repairing the roads and footpaths damaged by pipe
@@ -512,6 +521,7 @@ Valley area which would then cater for the Singland and Garryowen areas and woul
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 numbers from that area travelling to Castletroy College thereby eliminating some of the
@@ -569,6 +579,7 @@ inadequate in this instance and it was requested that officials from the Housing
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 also attend the public meeting in relation to this matter.
 
 24. Correspondence

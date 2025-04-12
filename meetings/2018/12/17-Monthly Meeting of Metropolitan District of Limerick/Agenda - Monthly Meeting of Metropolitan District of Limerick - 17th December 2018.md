@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach pees Corpertidaach
 _—__ 5 Contes takin Comhairle Cathrach agus Contae Luimnigh,
 ontae Luimnig Ceanncheathni Chorpardideach,
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) Disposal of 3 Galvone View, Limerick in exchange for 207 Valley View, O'Malley Park,
 Limerick.
 
@@ -113,6 +115,7 @@ To note the Public Consultation Report in relation to the Draft City and County 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -164,6 +167,7 @@ Builds construction methods and conventional construction methods?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -235,6 +239,7 @@ national target of 12-15% of commencement notices received’ .
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -294,6 +299,7 @@ and consultants have been appointed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 22.
@@ -353,6 +359,7 @@ already some SIPTU members of staff have declared that they will not cross the p
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26.
 
 27.

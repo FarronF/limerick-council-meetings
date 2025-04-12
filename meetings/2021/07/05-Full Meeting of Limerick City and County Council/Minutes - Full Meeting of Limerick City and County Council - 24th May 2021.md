@@ -1216,6 +1216,7 @@ and cost estimates. LAs will be notified of successful projects
 throughout 2021 as project details are finalised.
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Settlements with Waste Water Discharge Authorisations - Wastewater Treatment Capacity
 
 Waste Water Discharge Licences (WWDL) and Certificates of Authorisation (CoA) 17th June 2020

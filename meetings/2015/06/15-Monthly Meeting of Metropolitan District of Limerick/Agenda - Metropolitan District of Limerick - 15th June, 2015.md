@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick  @LimerickCouncit
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (a)
@@ -118,6 +120,7 @@ Road.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -168,6 +171,7 @@ such as Raheen, Dooradoyle, Castletroy, Ennis Road and Mayorstone.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -224,6 +228,7 @@ made available as a venue for the Civil Ceremony of Marriage.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.

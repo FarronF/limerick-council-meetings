@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Catnhrach Comhairle Cathrach agus Contae Luimnigh
 
 _—_ 5 Onntan Luimnigh Olig an Cheantal, Aras eee
@@ -58,8 +59,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office a
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Local Authority Housing, Construction and Maintenance
 
 © Part 8 Cappamore Fire Station
@@ -112,6 +115,7 @@ our local cemeteries.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

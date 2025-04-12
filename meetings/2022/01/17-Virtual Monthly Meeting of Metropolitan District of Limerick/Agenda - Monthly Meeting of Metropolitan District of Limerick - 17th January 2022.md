@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Serbhisi Corparaideacha,
 _—_ 5 Contae Lu pervs Comhairle Cathrach agus Contne Lutmnigh,
 es. mnig Ceanncheathni Chorperdideach,
@@ -50,6 +51,7 @@ Corporate Headquarters, Merchants Quay, Limerick  061- 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Di | id
 To note proposal for the disposal of land as follows:
 
@@ -92,6 +94,7 @@ update on its current status.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor E. O’Donovan
 
 1 will ask at the next Meeting of the Metropolitan District of Limerick for an update on waste
@@ -140,6 +143,7 @@ been applied to tenders in the past year and what percentage did this make up of
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 F MOT
 
 14. Notice of Motion submitted by Councillor E. O'Donovan

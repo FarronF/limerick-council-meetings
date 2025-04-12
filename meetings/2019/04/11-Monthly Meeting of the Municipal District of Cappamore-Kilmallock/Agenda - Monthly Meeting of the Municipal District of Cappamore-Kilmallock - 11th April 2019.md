@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_— Comhairle Cathrach
 = & Contae Luimnigh
 — Limerick Ci ;
@@ -44,6 +45,7 @@ the 21" March, 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. ATG Retirement Village
 
 Receive presentation from Owen O'Sullivan on the ATG Retirement Village, Clarina

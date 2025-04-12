@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncit
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Adare Fountain
 To receive an update in relation to the restoration of the Adare Fountain.
 Housing Directorate
@@ -92,6 +94,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

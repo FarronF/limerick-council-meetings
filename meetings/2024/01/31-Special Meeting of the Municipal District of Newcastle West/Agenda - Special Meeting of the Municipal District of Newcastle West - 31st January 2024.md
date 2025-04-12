@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AN 7 “
 
 Comhairle Cathrach Diliche Bardais an Chaisledin Nua Thiar,
@@ -71,6 +72,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY a@limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 and site including utilities, drainage, landscaping and public realm. Widening of the existing
 entrance to accommodate 2-way traffic.
 

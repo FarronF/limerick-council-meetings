@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbinisi Corparaideacha agus Bainistiocy Athrulthe
 Comhairle Cathrach agus Contae Luimnnigh.
 
@@ -64,6 +65,7 @@ To consider proposal for the disposal of land at:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (g)
@@ -128,6 +130,7 @@ eeee
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (a)
@@ -176,6 +179,7 @@ Annual Report.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (h)
 
 (i)
@@ -223,6 +227,7 @@ Government Act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 (m)
@@ -275,6 +280,7 @@ for Limerick 2016-2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 Community Initiative Scheme 2016
@@ -343,6 +349,7 @@ National Heritage Week to be held in Kilkenny from 20™ to 28” August,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (ii) R onference/Seminar/Meeting/Event
@@ -383,6 +390,7 @@ associated with same.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -432,6 +440,7 @@ We will move at the next Meeting that this Council appoints a Tourism Officer.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor J. Leddin
 
 15. | will move at the next Meeting that Limerick City and County Council include the

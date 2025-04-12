@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A Sezbhisi Corparaideacha,
 a Comhairle Cathrach Combate Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathra Chorpardidesch,
@@ -75,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Foreign Travel
 
 To consider approval of foreign travel, in accordance with Section 142(5) of the Local

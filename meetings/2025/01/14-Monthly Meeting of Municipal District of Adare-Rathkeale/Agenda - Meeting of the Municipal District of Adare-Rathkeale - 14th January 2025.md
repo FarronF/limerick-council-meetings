@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 Comhairie Cathvach egus Contae Luimmnigh,
 Se & Contae Luimnigh Aras Stan Forwn.
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Roads, Traffic and Cleansing

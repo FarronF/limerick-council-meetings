@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Sewbhisi Corparaideacha
 
 Comharle Cathrach agus Contae Luimnigh
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rural, Community and Culture Development Directorate
 General Disposals
 
@@ -120,6 +122,7 @@ from Chief Executive already circulated)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (a)
@@ -173,6 +176,7 @@ Strategic Policy Committee held on 10" April, 2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -227,6 +231,7 @@ under the Dolores O'Riordan Music Bursary Scheme 2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (4)
@@ -281,6 +286,7 @@ To approve the Limerick City and County Council Tree Policy 2024-2030.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -332,6 +338,7 @@ should be removed as we consider this to be unfair and unjust.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14,

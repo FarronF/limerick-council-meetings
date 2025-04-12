@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Comhairle Cathrach
 & Contae Luimnigh
 OM ee —————
@@ -83,6 +84,7 @@ W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development Directorate
 To consider the proposed amendment to the Adare Local Area Plan 2015 — 2021 and the
 Chief Executive's Report dated 30th November 2018, which relates to the rephasing of
@@ -123,6 +125,7 @@ nN
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

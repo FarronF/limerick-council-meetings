@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community, Leisure & Culture Strategic Policy Committee Meeting 03/02/2020 _
 
 A meeting of the Community, Leisure & Culture Strategic Policy Committee was held in the
@@ -52,6 +53,7 @@ committee meeting held on the 14" November, 2019 were unanimously adopted.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 2: Matter Arising
 
 There were no matters arising from the minutes of the previous meeting.
@@ -100,6 +102,7 @@ highlighted key achievements in 2019 including SICAP Audit requirements and the 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 allocation of €500,000 for the LEADER Programme awarded to the LCDC as one of the top
 four performing LEADER Local Action Groups in the country.
 
@@ -148,6 +151,7 @@ at the meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 8: Date of next Meeting
 
 The next meeting of the Community, Leisure and Culture SPC will be held on Monday 11%

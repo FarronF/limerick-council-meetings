@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach
 
 & Contae Luimnigh
@@ -69,6 +70,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposal of land as follows:
@@ -120,6 +122,7 @@ in their Offices in Dublin.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -173,6 +176,7 @@ Draw Out Limerick €1,000
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

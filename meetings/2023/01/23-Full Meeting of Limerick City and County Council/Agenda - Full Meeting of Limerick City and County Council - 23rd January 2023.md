@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach Ccunhaite tue papell aatarorerig
 wna Catlwacn agus Contac uuirreng 5
 = ™ & Contae Luimnigh Ceanncheatnni Chorpardideach,
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) 8, Quin’s Cottages, Rosbrien, Limerick.
 
 (d) 58, Upper Carey's Road, Limerick.
@@ -108,6 +110,7 @@ ended 31* December, 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (4)
@@ -161,6 +164,7 @@ the Steering Group.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (g)
 
 Strategic Policy Committee Reports
@@ -209,6 +213,7 @@ Line reinstatement will future-proof the line to become a dual line.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 {v) Chairperson’s Report — Meeting of Home and Social Development
 Strategic Policy Committee held on 14" December, 2022.
 
@@ -258,6 +263,7 @@ Meeting / Event.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -309,6 +315,7 @@ line from Limerick to Foynes and discuss potential of disused Mungret line.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

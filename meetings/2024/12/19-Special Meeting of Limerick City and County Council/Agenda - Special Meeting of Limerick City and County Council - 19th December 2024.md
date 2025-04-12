@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach ; Seirbhisi Corparaideacha,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 9g Ceanncheathru Chorparaidesch,
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) To consider the nomination of a replacement to Moyross Community Enterprise
 Centre Limited consequent to the election of Councillor Conor Sheehan to Dail
 Eireann.

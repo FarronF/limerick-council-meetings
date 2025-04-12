@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCourcil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development and Planning
 
 Proposed Patrickswell Local Area Plan 2015 - 2021
@@ -114,6 +116,7 @@ trading tradition and bringing to life the area's central role in the 1916 Risin
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Notice of Motion submitted by Councillor Maurice Quinlivan
@@ -158,6 +161,7 @@ homelessness.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

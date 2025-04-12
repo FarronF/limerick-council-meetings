@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -74,6 +75,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Finance
 (a) LFi cial Statement 2013 for Limerick City Council
 
@@ -111,6 +113,7 @@ Gratuities" to fund future gratuity costs.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) Raising of Loan
 
 To consider approving application for sanction from the Minister for the
@@ -155,6 +158,7 @@ Report.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -211,6 +215,7 @@ Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development and Planning
 Limerick County Development Plan 2010-2016 and Limerick City
 
@@ -253,6 +258,7 @@ To consider approving recommended Grants under the Arts Act, 2003.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Conferences
@@ -321,6 +327,7 @@ but not in Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -369,6 +376,7 @@ under current legislation to reduce the Local Property Tax by 15%.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.
@@ -422,6 +430,7 @@ Authority equally.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23.
 
 24.
@@ -472,6 +481,7 @@ Limerick who actively resist and oppose this unjust tax.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor J. Loftus
 
 29. | will move at the next Meeting that Limerick City and County Council disengage from

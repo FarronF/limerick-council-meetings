@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE JPC SUBCOMMITTEE HELD IN ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON THURSDAY, 14™ FEBRUARY, 2019 AT 10:00 A.M.
@@ -50,6 +51,7 @@ excellent policing of the District over the season. While some residents of the 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rathkeale had complained of over policing due to checkpoints etc. it was agreed that the
 District experienced a relatively crime free Christmas season as a result of this policing
 plan, The Superintendent advised the biggest issue in the town of Rathkeale for the

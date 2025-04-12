@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach ae Coe
 
 . 2 Comhalrie Cathwach agus Contae Luimnigh

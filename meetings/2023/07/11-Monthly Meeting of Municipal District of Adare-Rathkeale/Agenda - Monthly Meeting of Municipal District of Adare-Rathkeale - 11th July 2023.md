@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantaer Bardasach Ath Dara-Rath Cacia,
 — Contes Uilewih Comhairle Cathrach agus comes Lay
 NEN 4 : , i” Line tun,
@@ -58,6 +59,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Disposal of Land

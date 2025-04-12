@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 17™ DECEMBER, 2018 AT
 9.45 A.M.
@@ -53,6 +54,7 @@ Rural Community Development team. Cllr Leddin requested an update on the CPO pro
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -121,6 +123,7 @@ Economic Development Directorate
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Castletroy Local Area Plan 2019-2025
 
 Circulated copy of Chief Executive’s Report dated 19"" November, 2018 in relation to the proposed
@@ -173,6 +176,7 @@ the pay by weight or pay by lift option will be used. Mr McGuigan stated that th
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 consultation report was for noting at the Metropolitan meeting and the new Bye-Laws will be on
@@ -232,6 +236,7 @@ zones.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 ¢ Members referred to the N69 in particular on approach to Clarina and reduction of
@@ -289,6 +294,7 @@ Suspension of Standing Orders
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 It was proposed by Cllr J Leddin and seconded by Cllr J O’Dea to suspend Standing Orders in order
@@ -353,6 +359,7 @@ construction. The main time saving is at Stage 3 and 4 (site stage). On a curren
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 7
@@ -419,6 +426,7 @@ a Derelict Site.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21, Question submitted by Councillor S.Lynch
 
 | will ask at the next meeting how many rough sleepers do we have on our streets compared to
@@ -481,6 +489,7 @@ Commencement Notices
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 received
 Number of new
 buildings notified to the
@@ -539,6 +548,7 @@ proposes to examine the provision of a pedestrian walkway now, under the
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 Limerick-Shannon Metropolitan Area Transport Strategy and we will seek grant
@@ -567,6 +577,7 @@ pocommodated in
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTI MOTION
 
 18. Notice of Motion submitted by Councillor J. Gilligan
@@ -615,6 +626,7 @@ refuse collectors charge customers on a pay by weight basis.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12
 
 It was agreed to refer this Motion to the Environment Strategic Policy Committee.
@@ -669,6 +681,7 @@ I call on my fellow Metropolitan Councillors to join me in calling for the natio
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13
 
 initiative to be implemented in Limerick Fire and Rescue who are currently fully trained in this.
@@ -723,6 +736,7 @@ Psychiatric Nurses Association (PNA) and have been denied recognition by the HSE
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14
 
 national strike of ambulance staff is to take place on Wednesday 19*” December and already

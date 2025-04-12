@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach Sexbhisi Corpardideacha
 ; Comhairle Cathvach agus Contae Luimnigh,
 > & Contae Luimnigh Ceanncheathna Chorpardideach.

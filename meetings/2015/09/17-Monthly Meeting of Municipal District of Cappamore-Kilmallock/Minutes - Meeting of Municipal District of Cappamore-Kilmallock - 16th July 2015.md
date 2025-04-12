@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON THURSDAY
@@ -47,6 +48,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Corporate Services and Change Management
 
 1 015 - I Constituenci
@@ -93,6 +95,7 @@ The Members commended the staff on the works already carried out.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 Replies to the following Questions on the Agenda were circulated to all Members
@@ -136,6 +139,7 @@ that work would start in the river in August.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. ion submitted uncillor chell
 
 | will ask at the next Meeting what number of dwellings at Presentation Close
@@ -180,6 +184,7 @@ the interests of safety for all road users.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 The Motion was proposed by Councillor Mitchell and seconded by Councillor Ryan.
@@ -220,6 +225,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 om te
 
 

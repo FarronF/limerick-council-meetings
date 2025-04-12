@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 mhair Yr Comhairle Cathrach agus Contae Luimnigh:
 -e_e“ Comhairle Cathrach ¢ Part
 & Contae Luimnigh Otftg an Creantaiy, Aras i wancrin Seoighe,
@@ -61,6 +62,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office y .
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Declaration of Interest
 
 Disposal of Land
@@ -96,6 +98,7 @@ application.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

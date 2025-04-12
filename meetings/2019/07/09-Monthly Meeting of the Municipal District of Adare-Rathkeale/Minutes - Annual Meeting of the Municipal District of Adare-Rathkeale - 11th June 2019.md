@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF
 ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON TUESDAY, 11™ JUNE, 2019 AT 9.00 A.M.
@@ -49,6 +50,7 @@ discussion.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 With the consent of the Cathaoirleach Councillor O'Donoghue proposed a five minute
 adjournment to speak to his fellow Councillors. This was seconded by Councillor Keary.
 On the resumption of the Meeting the election of the Cathaoirleach and Leas-
@@ -91,6 +93,7 @@ and looked forward to working with their fellow Councillors in the year ahead.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 This concluded the Meeting.
 
 Signed:

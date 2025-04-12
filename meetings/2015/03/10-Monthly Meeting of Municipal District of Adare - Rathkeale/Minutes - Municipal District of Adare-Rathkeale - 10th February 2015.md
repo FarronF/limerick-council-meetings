@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 10™ FEBRUARY, 2015, AT
@@ -58,6 +59,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 2. Disposal of Land
@@ -105,6 +107,7 @@ to discuss this issue further.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4 Eco ic D lo
 
 (a) Proposed Askeaton Local Area Plan 2015-2021
@@ -156,6 +159,7 @@ urgency at which the CFRAM Maps were required prior to the next District Meeting
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) Request to Amend the Croom Local Area Plan 2009
 
 Circulated, copy of letter dated 30" January, 2015 and accompanying map from the
@@ -208,6 +212,7 @@ for Money Assurances.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 Members indicated their support for the proposal and highlighted the need to support
@@ -255,6 +260,7 @@ resurfaced under the Restoration Improvement Grant for 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Richard O'Donoghue
 
 ! will ask at the next Meeting the Council's future plans regarding Cois Sruthain
@@ -301,6 +307,7 @@ considered for any suitable vacancy that arises in their area of choice
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 12. Question submitted by Councillor Stephen Keary
@@ -357,6 +364,7 @@ reasons as set out above.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members indicated that residents of apartments often do not have access to a yard to
 store refuse bins. On the proposal of Councillor Sheahan, seconded by Councillor O'Brien
 it was agreed that the Environment Section should be requested to apply the same rules in
@@ -404,6 +412,7 @@ parking in Adare and traffic safety issues on the N20 and N21.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 REPLY: There is currently no funding available to contract out or employ parking
@@ -441,6 +450,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

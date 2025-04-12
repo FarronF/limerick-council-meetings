@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Comhairle Cathrach ae Pater Corpartideacha,
 7 Combhairie Catrvach agus Corvtae Lulrmnigh
 > & Contae Luimnigh Ceanncheathra Chorpardideach,
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 At our most recent Strategic Policy Committee meeting to consider this matter, the
 SPC members have approved that a local SME Committee be established as a sub-
 committee of Innovate Limerick and that the membership of the committee should

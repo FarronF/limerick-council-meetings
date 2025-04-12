@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——_—_—_— Comhairle Cathrach cate Caieres sey ber ae aee ey
 : Crmuiree ©. 4 gus orilue ules 1
 & Contae Luimnigh Ceanncheathri Chorpardidesch,
@@ -67,6 +68,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 9.
@@ -132,6 +134,7 @@ is there a timeline for same.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. To consider the following Question submitted by Councillor J. Costelloe :
 
 | will ask at the next meeting, following the recent announcement of 32 probationer Gardai

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha,
 
 Comhairle Cathrach s
@@ -68,6 +69,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Capital Investment Directorate
 Design and Delivery Services
 Part 8 Procedure — Housing Development at DeValera Park, Sexton Street North (2 units)
@@ -115,6 +117,7 @@ To agree allocations under the GMA Fund 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -169,6 +172,7 @@ commencement.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

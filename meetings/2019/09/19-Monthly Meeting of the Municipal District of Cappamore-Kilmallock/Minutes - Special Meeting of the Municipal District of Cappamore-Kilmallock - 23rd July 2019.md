@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -40,6 +41,7 @@ adjacent to Colaiste lésaef.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Following discussions on completion of the presentation, it was agreed to amend the
 Kilmallock Area Plan as follows:-
 

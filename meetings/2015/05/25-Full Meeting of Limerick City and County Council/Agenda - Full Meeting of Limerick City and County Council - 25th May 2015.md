@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 agus
 
 a ce
@@ -47,6 +48,7 @@ To consider proposal for the disposal of land at:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) 20, Linden Court, Kennedy Park, Limerick.
 (d) — Bunlicky, Limerick.
 (e) Southill House, Roxboro Road, Limerick.
@@ -85,6 +87,7 @@ Council Audit Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) Invitation
 
 To consider approving invitation to the Mayor of the City and County of
@@ -127,6 +130,7 @@ modification, or refuse to make it, in accordance with Sections 13 (5) and
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) Proposed Variation No. 5 to Limerick City Development
 Plan 2010-2016 to incorporate the Shannon Integrated
 Framework Plan for the Shannon Estuary
@@ -172,6 +176,7 @@ Consultative Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -217,6 +222,7 @@ May, 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -266,6 +272,7 @@ Social Development Strategic Policy Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -318,6 +325,7 @@ and welfare of dogs and for the safety of the public.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.
@@ -363,6 +371,7 @@ Councillors represent.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23.
 
 24.
@@ -392,6 +401,7 @@ Correspondence.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

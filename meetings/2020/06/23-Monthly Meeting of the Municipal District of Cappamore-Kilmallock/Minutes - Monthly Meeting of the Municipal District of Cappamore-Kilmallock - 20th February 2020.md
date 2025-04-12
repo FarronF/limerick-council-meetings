@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -45,6 +46,7 @@ increased usage of electric cars could provide.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Deputation from Step Forward Disability Group
 
 The Cathaoirleach welcomed Maureen Browne and Noreen Meagher from Step Forward
@@ -93,6 +95,7 @@ Directorate dated 31st January, 2020, which was noted by the Members.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 6. Notice of Motion submitted by Councillor Donegan
@@ -135,6 +138,7 @@ our patients, GPs and staff.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor Mitchell
 
 | will move at the next meeting of the Municipal District of Cappamore-Kilmallock that the
@@ -181,6 +185,7 @@ Services at 061-556000 or the free phone litter line 1800 201 501 or the See /t?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 9. Question submitted by Councillor Donegan
 
@@ -227,6 +232,7 @@ relating to fence and entrance at old bridge?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Reply:
 
 (a) To date we have received no details from larnréd Eireann regarding the title of the
@@ -268,6 +274,7 @@ the fire service to the Elected Members at a Municipal District Meeting later in
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e¢ Vote of Sympathy
 
 The Elected Members extended a Vote of Sympathy to Marie O'Neill, Finance Services,
@@ -292,6 +299,7 @@ Cathaoirleach
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

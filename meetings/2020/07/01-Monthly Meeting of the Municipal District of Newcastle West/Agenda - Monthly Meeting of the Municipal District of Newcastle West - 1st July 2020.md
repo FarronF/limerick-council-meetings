@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ _——il Comhairle Cathrach
 & Contae Luimnigh
 aAnmN - SS
@@ -89,6 +90,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -144,6 +146,7 @@ to the undertaking of works by Irish Water in the interests of safety and public
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Notice of Motion submitted by Councillor M. Collins
 
 | will move at the next Meeting that speed ramps be installed at Gortboy Lane, Gortboy,

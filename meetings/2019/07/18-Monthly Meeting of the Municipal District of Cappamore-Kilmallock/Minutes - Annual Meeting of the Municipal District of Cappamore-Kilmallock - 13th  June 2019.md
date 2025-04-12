@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -49,6 +50,7 @@ congratulated Cllr Donegan on his election and wished him well for the year ahea
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On taking the Chair, Councillor Donegan thanked his Proposer and Seconder and said he was
 looking forward to working with the Members, Management and Staff over the next twelve
 months in his role as Cathaoirleach of the Municipal District of Cappamore-Kilmallock.

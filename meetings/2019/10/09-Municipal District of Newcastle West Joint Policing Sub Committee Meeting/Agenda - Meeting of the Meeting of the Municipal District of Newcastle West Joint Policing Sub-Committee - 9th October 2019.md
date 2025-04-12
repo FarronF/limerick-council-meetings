@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 & Contae Luimnigh Comnairle Cathwach agus Contae Luirnnigh,
 

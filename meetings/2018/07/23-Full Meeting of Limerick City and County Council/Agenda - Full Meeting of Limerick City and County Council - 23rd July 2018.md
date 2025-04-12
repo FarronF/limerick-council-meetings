@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha.
 
 Comhairle Cathrach
@@ -71,6 +72,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (d) St. Nessan’s Road, Ballykeeffe, Limerick.
@@ -117,6 +119,7 @@ Annual Report.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) Limerick Market Trustees
 
 To consider the nomination of the Mayor of the City and County of Limerick,
@@ -160,6 +163,7 @@ Policy Committee Meeting held on 9" July, 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 Recommendation No. 1
@@ -212,6 +216,7 @@ Local Government ({AILG).”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii)
 
 (iv)
@@ -261,6 +266,7 @@ Chairperson’s report for that meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Physical Development Directorate
 Flood Risk Management Plans - CFRAMS
 
@@ -307,6 +313,7 @@ Bridge / Montpelier.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (c) Litter Report 2017
@@ -355,6 +362,7 @@ Authority who incur weekly rental costs in excess of: (a) €150; (b) €200 and
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -402,6 +410,7 @@ be on a property comparable with that which they occupy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

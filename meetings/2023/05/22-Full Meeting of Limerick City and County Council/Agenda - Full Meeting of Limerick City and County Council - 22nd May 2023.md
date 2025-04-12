@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ? Sewbhisi Corparaideacha.
 
 a pa acl} prbore Comhairle Cathrach agus Contae Luimnigh,
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) 7, Claughaun Court, Garryowen, Limerick.
 
 (f} 75, Carey's Road, Limerick.
@@ -125,6 +127,7 @@ Executive already circulated)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (4)
@@ -176,6 +179,7 @@ Transportation Strategic Policy Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 )
 
 (k)
@@ -241,6 +245,7 @@ and Planning Strategic Policy Committee held on 24" April, 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1)
 
 (iv) | Chairperson’s Report — Meeting of Travel and Transportation Strategic
@@ -292,6 +297,7 @@ Treatment Plant Upgrade Scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -334,6 +340,7 @@ City and County.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -388,6 +395,7 @@ television free of charge.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.

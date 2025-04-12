@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 15TH
@@ -47,6 +48,7 @@ signed.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Deputation
 
 Deputation from Knockaderry Clouncagh Community Council
@@ -102,6 +104,7 @@ Members noted the contents of the Senior Executive Officer's Report dated 8" Jul
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 4. Community, Leisure and Emergency Services
@@ -157,6 +160,7 @@ that this item would be deferred to the next Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 QUESTIONS
@@ -214,6 +218,7 @@ Newcastle West Area are as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2015 €35,000
 
 Burial Ground Committees also carry out maintenance works in
@@ -272,6 +277,7 @@ owner.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 NOTICES OF MOTION
 14. Notice of Motion submitted by Councillor J. Scanlan
@@ -330,6 +336,7 @@ Athea.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Templeathea Church and graveyard are Recorded Monuments, LI034-
 004001/002, protected under the National Monuments Act (Amendments)
 1930-2004. They are contained within the medieval civil parish of
@@ -381,6 +388,7 @@ was private property.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 19. Notice of Motion submitted by Councillor M. Collins
@@ -438,6 +446,7 @@ General Municipal Allocation.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members asked that an item be included on the September Agenda in relation to
 the General Municipal Allocation 2016.
 

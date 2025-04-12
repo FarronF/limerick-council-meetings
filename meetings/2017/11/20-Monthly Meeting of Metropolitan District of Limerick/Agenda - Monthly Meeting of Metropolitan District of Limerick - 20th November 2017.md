@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha,
 
 Comhairle Cathrach
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Service Operations Directorate
 Speed Limit Review
 
@@ -107,6 +109,7 @@ Sarsfield, | propose that his statue be moved to a more prominent position.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

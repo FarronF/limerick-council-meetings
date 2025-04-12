@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairie Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 
 imn Comhairle Cathrach agus Contae Lulmnigh,
@@ -58,6 +59,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -115,6 +117,7 @@ parking available.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

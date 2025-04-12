@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Diutiche Bardais an Chaisledin Nua Thiar,
 a Comhairle Cathrach agus Contae Luimnigh,
 
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 unicipa ition Operations an: Services
@@ -101,6 +103,7 @@ Committee at a future Meeting of the District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -168,6 +171,7 @@ Management team to progress the provision of an eight lave 25m public pool with
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ancillary public facilities for the County Town of Newcastle West and its hinterland.
 21. | will move at the next Meeting that this Council install CCTV cameras to curtail the
 fly tipping and excessive dumping that is occurring at Glin Pier so as to prevent it

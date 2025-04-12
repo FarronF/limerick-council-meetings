@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __— Comhairle Cathrach
 & Contae Luimnigh
 
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick © 061 - §57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 
 To note proposal for the disposal of land as follows:
@@ -100,6 +102,7 @@ accordance with the provisions of Section 19 of the Planning and Development Act
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 6. Question submitted by Councillor S. Benson
@@ -142,6 +145,7 @@ which remains closed one year after completion so as it can be opened without de
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 12. Notice of Motion submitted by Councillor F. Kilcoyne

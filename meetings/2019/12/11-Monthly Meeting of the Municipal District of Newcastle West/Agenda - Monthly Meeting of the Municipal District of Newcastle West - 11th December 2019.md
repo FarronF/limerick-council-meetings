@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __ Comhairle Cathrach Diiiche Rardais an Chaisledin Nua Thiat,
 
 Comtuitrle Cathract agus Contae Lutnimgt:
@@ -59,6 +60,7 @@ Corporate Headquarters, paasclioait’s Giames Limerick ¥ @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Housing Development Directorate
 
 To note progress report from the Housing Development Directorate.
@@ -104,6 +106,7 @@ Raheenagh (q) Ashford (r) Monagea (s) Athea.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

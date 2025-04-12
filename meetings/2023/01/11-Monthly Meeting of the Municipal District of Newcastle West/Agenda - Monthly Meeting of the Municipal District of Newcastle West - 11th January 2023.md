@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ pA Comhairle Cathrach
 & Contae Luimnigh
 AN So
@@ -77,6 +78,7 @@ www limerick.te
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 10.
@@ -130,6 +132,7 @@ b) The 2 lights out in the Old Mill.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 14.

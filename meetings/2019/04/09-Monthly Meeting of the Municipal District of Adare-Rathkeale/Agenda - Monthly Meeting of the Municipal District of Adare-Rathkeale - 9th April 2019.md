@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—" Comhairle Cathrach
 = & Contae Luimnigh
 * — Limerick Cit
@@ -86,6 +87,7 @@ wwwlimerickie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Planning and Environmental Services
 
 To discuss the reinstatement of the iconic Chinaman landmark on Main Street, Rathkeale.
@@ -122,6 +124,7 @@ Development Regulations 2001 (As Amended), for Kilcornan
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -166,6 +169,7 @@ To note update on the Sli na Slainte in Askeaton.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -221,6 +225,7 @@ irish insurers.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 22.

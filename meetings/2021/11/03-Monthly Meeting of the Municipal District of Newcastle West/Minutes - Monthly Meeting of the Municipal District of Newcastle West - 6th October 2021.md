@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -46,6 +47,7 @@ Members noted the proposal.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Transportation and Mobility Directorate
 
 To receive update from the proposed bypasses for Abbeyfeale and
@@ -96,6 +98,7 @@ by the roadway. However, he stated that there is nothing definite about moving t
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 or about funding for same at the present time but was hopeful of approval to progress to
 Phase 3.
 
@@ -148,6 +151,7 @@ which they are processed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 He made reference to the GDPR Article 6 Lawful Basis which states that processing is
 necessary for compliance with a legal obligation and for the performance of a task carried out
 in the public interest or in the exercise of official authority vested in the controller.
@@ -197,6 +201,7 @@ On the proposal of Councillor Collins, seconded by Councillor Foley, it was agre
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Director referred to the District allocations under the Development Fund for 2021, which
 makes a provision of €250,000 for the Metropolitan/Municipal Districts - €100,000 for the
 Metropolitan District and €50,000 for each Municipal District. He stated that in 2020
@@ -246,6 +251,7 @@ being prepared and further meetings will be arranged to try and secure funding f
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the project. The design of the scheme is progressing with engagement with Irish
 Water and preparation of site investigation and slit trench contract.
 
@@ -318,6 +324,7 @@ Clash Road, Abbeyfeale, Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 DS-130-20 The Convent Building, Abbeyfeale, Co. Limerick. _| Notice of Intention to add to
 DSR
 
@@ -375,6 +382,7 @@ us an update on the by passes for Abbeyfeale and Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 This item was dealt with as part of No. 3 on the Agenda.
 
 9. Question submitted by Councillor J. Scanian
@@ -429,6 +437,7 @@ approximately 3 to 4 months to complete once started.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Category 3 dwellings (S No). These can require a deeper retrofit which will involve works to
 the building envelope such as external wall insulation, internal wall insulation, attic insulation,
 floors, windows, mechanical and electrical installations, Internal joinery and stairs, bathroom,
@@ -487,6 +496,7 @@ the case is being progressed and a Notice has been served on the registered
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 owner of the Council’s intention to enter the particulars of the land in the
 Derelict Sites Register.
 
@@ -537,6 +547,7 @@ from these car parks and are therefore not available to other bike hire provider
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion, Councillor Scanian expressed disappointment at the response
 received.
 
@@ -591,6 +602,7 @@ for the Council. it allows cases to be tracked and managed, with a view to achie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 optimum outcomes for the Councillors and Citizens of Limerick. In 2020, 34,863 cases were
 created. Of these, 28,300 cases closed in 2020. This confirms a closure rate of 82% rate on
 service requests.
@@ -652,6 +664,7 @@ request. In very rare instances, the subject line may have had some minor edits 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — these edits are usually undertaken to remove any personal or sensitive data that may have
 
 been recorded in the subject line. This policy is in place to ensure that the Council is compliant
@@ -706,6 +719,7 @@ remove the bend and improve sight lines at this location.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Meetings Administrator stated that a number of months ago, it was agreed with the
 Members that a Deputation from Meadow Court Residents Association could attend a
 meeting of the District. However given the Covid 19 restrictions which were in place with

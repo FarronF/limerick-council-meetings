@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE LIMERICK CITY GALLERY OF ART, CARNEGIE BUILDING, PERY SQUARE, LIMERICK, ON
 MONDAY, 16™ JANUARY, 2017 AT 9.45 A.M.
@@ -55,6 +56,7 @@ land would be included on the agenda for the January Meeting of the Full Council
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Members welcomed the proposal as positive news for Limerick marking the expansion of
@@ -111,6 +113,7 @@ importance of availing of this structure to consider strategic issues raised by 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Members on foot of their Notices of Motion. He pointed out that, going forward, he would
@@ -167,6 +170,7 @@ under the Fire Services Act, 1981. He noted that hospital management had agreed 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 maximum combination of beds and trolleys in the A&E should be 44 and where this number was
@@ -230,6 +234,7 @@ importance of regulating parking to ensure a turnover of spaces. He noted that t
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 3” parking initiative had lead to issues and that the morning might be more appropriate in this
@@ -285,6 +290,7 @@ measures that will be undertaken to resolve this issue.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 The Mayor informed Members that this motion would be sent to the Environment Strategic

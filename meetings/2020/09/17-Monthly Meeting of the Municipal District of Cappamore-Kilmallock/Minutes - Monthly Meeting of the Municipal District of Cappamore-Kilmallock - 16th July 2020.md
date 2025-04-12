@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE PASTORAL
 CENTRE, SHEARES STREET, KILMALLOCK, CO. LIMERICK, ON
@@ -52,6 +53,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Under Matters Arising, the Elected Members referred to recent media reports citing a
 reference to “cronyism” by an Elected Member in reference to the election of the
 Cathaoirleach and Leas Cathaoirlech at the Annual Meeting in June of the Municipal District.
@@ -97,6 +99,7 @@ from their adoption to take account of possible developments in the Electric Veh
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 He confirmed that the statutory Bye-Law process required the Local Authority to undertake
 a public consultation process prior to the adoption of the Draft Municipal District of
 Cappamore-Kilmallock (Parking Places) (Amendment) Byelaws, 2020 and that approval of
@@ -139,6 +142,7 @@ the west side approach road into Bruree village on the R518.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Clir. Donegan, seconded by Clir. Carey and agreed.
 Reply:
 
@@ -188,6 +192,7 @@ areas.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Anew Head of Enterprise in the Limerick Enterprise Office will be appointed in the next two
 months and they will review the delivery of services across the city and county to ensure
 that all areas are receiving the highest level of support available.
@@ -238,6 +243,7 @@ number of illegal dumping/waste issues recorded.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. There is no specific annual budget for CCTV equipment but the costs are paid from
 the “Litter Management/Waste Enforcement” budgets. The Council owns some
 equipment and engages private operators in other cases.
@@ -287,6 +293,7 @@ Reply:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Shannon Commercial Properties no longer have any Business Parks in the Cappamore
 Kilmallock Municipal District. They disposed of their last Business Park in the District
 (Kilmallock Business Park) to Limerick City and County Council in January 2020.
@@ -328,6 +335,7 @@ County Council to the Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Thomastown Railway Crossing
 
 The Elected Members were advised by the Executive Engineer, Cappamore-Kilmallock

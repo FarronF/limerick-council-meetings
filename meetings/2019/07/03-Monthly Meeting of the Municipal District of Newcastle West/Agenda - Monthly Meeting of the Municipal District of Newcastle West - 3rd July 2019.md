@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ditiche Bardais an Chaisleain Nua Thiar,
 ee & Cortes tadinedeh Comhairle Cathach aqus Contae Luimnigh
 
@@ -69,6 +70,7 @@ Corporate Headquarters, Merchant's Quay, Limerick YW e@LimerickCouncit
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) To note proposal for the disposal of 0.053 Ha. land at Garryduff, Newcastle
 West, to Hannah and Nora Collins.
 (Report Enclosed)
@@ -113,6 +115,7 @@ Roads.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -167,6 +170,7 @@ Cross, Ballingarry, in the interest of safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 | will move at the next Meeting that this Council discuss the proposed procedure for

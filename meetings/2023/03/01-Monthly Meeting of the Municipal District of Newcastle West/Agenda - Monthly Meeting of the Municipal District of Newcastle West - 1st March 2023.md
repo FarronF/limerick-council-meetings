@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 le Duiche Bardais an Chaisleain Nua Thie,
 aie a Contec Cath ach Comhairle Cathrach agus Contae Luimnigh,
 Yi ign Aras William Smith O'Brien.
@@ -74,6 +75,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Transportation and Mobility Directorate
@@ -117,6 +119,7 @@ It was approved at this Council budget meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 14,

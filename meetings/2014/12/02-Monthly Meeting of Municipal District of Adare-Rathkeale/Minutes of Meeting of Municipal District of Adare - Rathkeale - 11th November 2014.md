@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK, ON TUESDAY, 11™ NOVEMBER, 2014, AT
@@ -50,6 +51,7 @@ questions and concerns.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Suspension of Standing Orders: On the conclusion of the presentation, the Head of
@@ -108,6 +110,7 @@ use are derelict and do not fulfil modern residential demands, facilities or
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii).
 
 3
@@ -166,6 +169,7 @@ development on these lands shall incorporate as many of the trees as
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii).
 
 tiv)
@@ -224,6 +228,7 @@ Development Area Phase 1 to Open Space compliments these guidelines.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e The Adare Area Plan has zoned 34.54 hectares as Residential Development
 Area Phase 1 and 13.66 hectares Residential Development Area Phase 2.
 Accordingly the Adare Area Plan currently has land zoned that is expected to
@@ -274,6 +279,7 @@ apartment block without precise details of same.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Permits for the collection and disposal of waste are issued by the National
@@ -327,6 +333,7 @@ end of this year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 The Travel & Transportation Department will assess the need for Traffic
@@ -381,6 +388,7 @@ pending a Council agreed strategy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 9. Notice of Motion submitted by Councillor R. O’Donoghue
@@ -427,6 +435,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ,
 
 >
@@ -438,6 +447,7 @@ Residential Development Area phose 2
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

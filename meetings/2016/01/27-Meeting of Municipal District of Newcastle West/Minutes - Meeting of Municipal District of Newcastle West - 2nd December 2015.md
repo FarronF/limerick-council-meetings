@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 2" DECEMBER, 2015, AT 10:00 A.M.
@@ -55,6 +56,7 @@ the format for the presentation. He advised that a letter would issue to them, i
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 acknowledging their Deputation. The Deputation consisted of Mr. David Cahill, Chairperson, Ms.
@@ -119,6 +121,7 @@ something needed to be done to bring back people to live in towns and villages. 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 proposed by Councillor Galvin, seconded by Councillor Sheahan and agreed that a Motion be
@@ -176,6 +179,7 @@ Town Park.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 8. uestion submitted by Councillor L. Galvin
 
@@ -231,6 +235,7 @@ The Operations Manager stated that each estate is looked at on its merits.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 NOTICES OF MOTION
@@ -289,6 +294,7 @@ REPLY: The Council will refer Councillor Scanlan’s Notice of Motion to Irish W
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 their attention if the Notice of Motion is adopted at the Meeting of 2"

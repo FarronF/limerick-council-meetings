@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Comhairle Cathrach
 & Contae Luimnigh
 aAr™ _——
@@ -82,6 +83,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Service Operations Directorate - Planning and Environmental Services
@@ -128,6 +130,7 @@ amount for Limerick City and outline how much of this figure will be recovered.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -183,6 +186,7 @@ throughout the State.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 15. Notice of Motion submitted by Councillor M. Hurley

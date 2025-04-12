@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 COMMUNITY CENTRE, CASTLETOWN CONYERS, CO.
@@ -55,6 +56,7 @@ e Directional signs to be placed in the village.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Cathaoirleach and Members commended the Deputation for their presentations
 and thanked them for hosting the Municipal District Meeting in the Community Centre.
 
@@ -108,6 +110,7 @@ Councillor Collins stated that he wished to have it recorded that he did not agr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 the Minutes were an accurate record of what was discussed and agreed. Following
@@ -169,6 +172,7 @@ the speed limit of the town.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Operations Manager stated that funding for the feasibility study could be
 considered under the General Municipal Allocation.
 
@@ -218,6 +222,7 @@ which will be presented shortly to the Municipal District Councillors.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 With the permission of the Cathaoirleach, it was agreed to take Items 8 and 10 together.
 
 8. Question submitted by Councillor L. Galvin
@@ -264,6 +269,7 @@ been completed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor J. Scanlan
 
 ! will ask at the next Meeting when will the footpath system be put in place along
@@ -314,6 +320,7 @@ is necessary on the N21.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Notice of Motion submitted by Councillor J. Sheahan
 
 | will move at the next Meeting that Limerick City and County Council contact
@@ -364,6 +371,7 @@ Water.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 417. Notice of Motion submitted by Councillor J. Scanlan

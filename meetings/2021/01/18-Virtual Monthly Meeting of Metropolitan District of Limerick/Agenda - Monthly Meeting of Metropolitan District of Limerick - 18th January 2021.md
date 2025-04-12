@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 & Contae Luimnigh
 Ne — ——————————
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Economic Development
 Draft Southern Environs Local Area Plan 2021 — 2027
 To consider the Chief Executive’s Report dated 17" December, 2020 on the Draft Southern Environs
@@ -96,6 +98,7 @@ of these gates.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor J. Costelloe
 
 | will ask at the next meeting what percentage of the new housing stock for 2021 will the Council
@@ -140,6 +143,7 @@ and work with the relevant stakeholders to build it into future plans for this l
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Notice of Motion submitted by Councillor E. O’Donovan
 
 | will move at the next meeting of Limerick Metropolitan Council that the National Transport

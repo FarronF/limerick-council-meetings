@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —— Comhairle Cathrach Cornhiwirte Caieethenn Ooteuenn
 _o Wi Cou mil J sf U veoh,
 re. & Contae Luimnigh Ceanncheathra Chorpardideach,
@@ -52,6 +53,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . Question submitted by Deputy Maurice Quinlivan, T.D.
 1 will ask at the next Meeting of the Joint Policing Committee for a progress report on the
 

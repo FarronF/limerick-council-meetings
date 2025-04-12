@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _———_— Comhairle Cathrach Cciche Bardais an Chaisleain Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contae Lumnigh
 = , g Aves Wilkamn aaa chor
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 i1.
@@ -106,6 +108,7 @@ place.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

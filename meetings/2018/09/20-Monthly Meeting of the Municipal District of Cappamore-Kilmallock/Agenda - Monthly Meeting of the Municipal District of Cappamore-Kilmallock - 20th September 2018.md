@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach
 = ——_ & Contae ——
 = roe om
@@ -53,6 +54,7 @@ Pallas, Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 7.
@@ -97,6 +99,7 @@ Kilmallock.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Notice of Motion submitted by Councillor Teefy

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach Ceantar Bardasach Ath Dera-Rath Cacia
 
 : : Cornhairie Cathrach agus Contae Luimmnigh,
@@ -55,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Roads, Traffic & Cleansing

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach Comhairle Cathr ivan Caine anoun
 & Contae Luimnigh ee : a
 
@@ -71,6 +72,7 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rural, Community and Culture Directorate
 
 General Disposals
@@ -132,6 +134,7 @@ To fix date for the 2025 Statutory Budget Meeting
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (4)
@@ -186,6 +189,7 @@ the remaining Committee Members.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Environment, Climate Action and Shared Services
@@ -236,6 +240,7 @@ Record Number: 2022/1132 JR), which is listed for hearing on 26 - 28 November
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -283,6 +288,7 @@ damage/claims as a result of overgrown hedges.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -337,6 +343,7 @@ fish kill in this river.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.
@@ -388,6 +395,7 @@ exclusion.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 27.
 
 Notice of Motion submitted by Councillor L. Galvin
@@ -432,6 +440,7 @@ as the current restrictions are causing distress for families in the Midwest.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 31.
 
 33.

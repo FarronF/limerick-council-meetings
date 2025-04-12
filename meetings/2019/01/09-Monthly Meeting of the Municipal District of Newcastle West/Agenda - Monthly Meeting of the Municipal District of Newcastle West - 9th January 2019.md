@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _————
 
 aArN
@@ -86,6 +87,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 S.
 
 10.
@@ -137,6 +139,7 @@ Notices of Motion submitted by Councillor L. Galvin
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -205,6 +208,7 @@ safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21,
 
 Notice of Motion submitted by Councillor Collins

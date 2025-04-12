@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13" February, 2015.
 
 To/ The Cathaoirleach_ and each Member of the Municipal
@@ -43,6 +44,7 @@ outline of the Team Limerick Clean Up Campaign.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 7.
@@ -95,6 +97,7 @@ addressed immediately with stop Signs and lining.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

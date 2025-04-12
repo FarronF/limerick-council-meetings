@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—_ Comhairle Cathrach
 & Contae Luimnigh
 NIN ‘ =
@@ -82,6 +83,7 @@ W @LemerickCounci
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 10.

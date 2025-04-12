@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 __—_—_—" & Contae Luimnigh
 a —_—_—
@@ -62,6 +63,7 @@ oe wevewslimerick.te
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ADR MO ™
 
 <>

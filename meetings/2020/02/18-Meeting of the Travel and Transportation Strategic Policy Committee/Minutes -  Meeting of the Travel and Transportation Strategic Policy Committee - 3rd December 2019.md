@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—__ Comhairle Cathrach
 & Contae Luimnigh
 
@@ -39,6 +40,7 @@ Mr. Kennedy updated the Committee on items arising from the last meeting:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1. Arrange workshop with Members on the outline proposals from the LSMATS:
 
 Mr. Kennedy advised we are still awaiting sufficient information from the NTA on the
@@ -92,6 +94,7 @@ where Traffic Wardens are not on duty. LCCC in conjunction with the NTA is under
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 transport strategy for the Metropolitan Area that will prioritise and enable a modal shift to
 sustainable and active travel modes.
 
@@ -140,6 +143,7 @@ Route to UL be circulated to the members.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 3: Agree dates for T&T SPC 2020
 
 The Members agreed the following dates for 2020 meetings:
@@ -214,6 +218,7 @@ _of discussions 2 meeting with TIl to be
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 arranged to agree progress in early
 
 2020. i
@@ -272,6 +277,7 @@ understanding that there was no additional cost to the Council arising from the 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Street cycle lane works. He also said that the design of the MIC to City Centre Cycle Lane
 Scheme will commence in 2020, and that there will be consultation as part of the scheme.
 
@@ -321,6 +327,7 @@ Limerick, in his opinion, was a sustainable transport plan.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cllr. Ryan (M) disagreed stating as a road haulier, a route which by-passed Limerick city was
 badly needed. The Chair believed that the LNDR would support the desire to make Limerick
 city a more liveable city.
@@ -376,6 +383,7 @@ Cllr. Secas asked about education actions contained in the Plan.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In response Mr. Slavin confirmed that he had spoken with the HSE about representation and
 would welcome any representation from Headway (as requested by Cllr. O’ Donovan); that the
 LSMATS will incorporate a review of the Limerick Cycle Network, and where feasible
@@ -424,6 +432,7 @@ opportunity to set ambitious targets to achieve a greater modal mix.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In a written response the Director stated that while the National Transport Authority would
 not be setting active modal share targets in the LSMATS, it is expected that in the 2020-2040
 time period the walking mode share in Limerick City could reasonably reach 20% - 25%, Public
@@ -473,6 +482,7 @@ signage in the City of which some was out of date and others were confusing. She
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a review of signage and the installation of updated “welcome” signage at the entrance points
 to the City.
 

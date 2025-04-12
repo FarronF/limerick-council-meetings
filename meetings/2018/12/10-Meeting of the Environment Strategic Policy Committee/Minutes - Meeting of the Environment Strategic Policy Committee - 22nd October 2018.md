@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a_i Comhairle Cathrach . pabrentienc rm Potente —_
 Luimnigh omhair' agus Contae
 ANS ™ isso a Ceanncheathru Chorpardideach.
@@ -57,6 +58,7 @@ materials, roads and pavements — Mr. Mark McConnell
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mr McConnell gave a presentation to the Committee on the opportunities for re-
 use/recycling of waste plastic materials. He noted that currently China imports most of
 Ireland’s waste plastics, but from this year this had changed. In addition, the range of plastic
@@ -101,6 +103,7 @@ Item 3: Presentation on the Noise Action Plan — Ms. Anne Goggin
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ms Goggin confirmed that the Noise Action Plan had recently been adopted. It covers the
 period 2018-2023. She noted that noise pollution is ranked as the second most common
 cause of pollution related illness by the WHO. The Action Plan is the third such round of noise
@@ -146,6 +149,7 @@ two years will be undertaken to ensure that the plant does not recur.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 She advised that some areas around the city have been treated in previous years. It is hoped
 to extend the pilot to the Rathkeale area in 2019.
 
@@ -194,6 +198,7 @@ to be shared with other community-based groups for similar events. She said that
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 sustainability was an area where many Tidy Towns groups have not successfully addressed
 and initiatives such as the Conscious Cup Campaign and the #RunReuseRecycle Run could
 assist groups in achieving higher marks under this criterion.
@@ -215,6 +220,7 @@ The meeting then concluded.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

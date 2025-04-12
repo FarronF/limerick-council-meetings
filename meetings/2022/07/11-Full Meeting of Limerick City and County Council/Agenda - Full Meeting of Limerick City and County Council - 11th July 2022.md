@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a_i Comhairle Cathrach Combate Cathwa: peealap card ap graarang
 . . mw le Cattwac’ agus Contae wuirninagh,
 —_ & Contae Luimnigh Ceanncheathra Chorparaidesch,
@@ -67,6 +68,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) Forty Acres, Bruree, Co. Limerick.
 
 (b) 30, Wingfield Orchard, Newcastle West, Co. Limerick.
@@ -128,6 +130,7 @@ further 16 Members of the Council as members of Limerick Market Trustees.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (
@@ -179,6 +182,7 @@ grounds to establish availability of grave spaces.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (v) Note: Meeting of Travel and Transportation Strategic Policy
@@ -219,6 +223,7 @@ To consider participation by Members at the following Conference:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -267,6 +272,7 @@ determined.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

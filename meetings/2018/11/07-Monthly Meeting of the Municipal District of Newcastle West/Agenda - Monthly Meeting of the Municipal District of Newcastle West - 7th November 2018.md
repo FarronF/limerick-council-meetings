@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a
 
 Ani ™
@@ -78,6 +79,7 @@ wv @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9.
 
 10.
@@ -132,6 +134,7 @@ own within the Municipal District of Newcastle West and for how long they are va
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 14.

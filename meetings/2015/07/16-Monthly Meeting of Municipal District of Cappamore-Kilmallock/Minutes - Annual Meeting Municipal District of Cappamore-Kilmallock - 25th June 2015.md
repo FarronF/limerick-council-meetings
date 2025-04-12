@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON THURSDAY 25™
@@ -52,6 +53,7 @@ foxy Tom O'Donnell from Bulgaden was Chairman of the Kilmallock Board of Guardia
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 which was the precursor to the County Councils.
 

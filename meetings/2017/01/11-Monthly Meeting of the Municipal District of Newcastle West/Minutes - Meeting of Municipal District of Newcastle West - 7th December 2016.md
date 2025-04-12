@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 7" DECEMBER, 2016, AT 10:00 A.M.
@@ -49,6 +50,7 @@ information.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Meeting with Transport Infrastructure Ireland
 
 The Cathaoirleach said that a meeting had taken place with Transport Infrastructure Ireland as
@@ -103,6 +105,7 @@ A discussion took place on the scheme and the following points were made by the 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 e Concern was expressed in relation to possible anti-social behaviour.
@@ -159,6 +162,7 @@ Section (70) Notice requiring them to carry out the works.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. esti mi incillor F. F
 
 ! will ask at the next Meeting for an update on a possible site for a new burial ground in
@@ -213,6 +217,7 @@ in Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Road repairs will be carried out at the traffic lights at the church in Abbeyfeale
 within the next few weeks prior to Christmas.
 NOTICES OF MOTION
@@ -265,6 +270,7 @@ the Gas Pipeline coming from Foynes. He stated that it was imperative that the E
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Development Directorate of Limerick City and County Council engage with the bodies involved
@@ -321,6 +327,7 @@ libraries play in providing a safe environment where the values of equality and 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 and we oppose any plans, if any, to introduce staff less libraries in Newcastle West, Abbeyfeale,

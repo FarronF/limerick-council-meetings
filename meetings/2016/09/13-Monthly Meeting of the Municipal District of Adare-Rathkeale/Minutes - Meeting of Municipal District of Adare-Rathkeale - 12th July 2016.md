@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 TUESDAY, 12™ JULY, 2016, AT 9.00 A.M.
@@ -54,6 +55,7 @@ disruption. No amendment to the minutes were proposed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Social Development Directorate
 (a) Limerick Sports Partnership
 
@@ -105,6 +107,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That the Members of the Municipal District of Adare-Rathkeale having considered the draft
 Limerick Local Economic Community Plan, find it is consistent with the Limerick City Development
 Plan 2010, the Limerick County Development Plan 2010 and the relevant Local Area Plans and that
@@ -154,6 +157,7 @@ requires large scale investment and must compete with other policy priorities.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 In the 2016 Budget the Council allocated a total of €33 million to Division B — Road
@@ -207,6 +211,7 @@ authority.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 In addition it must be noted that the local office has recently employed a contractor
@@ -266,6 +271,7 @@ relation to same had been taking place at national level.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 e The number of appliances sent to an incident was based on the information received in the
@@ -323,6 +329,7 @@ kept updated on progress in relation to same.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 (c) | Update on the Taking in Charge of An Curran Estate, Pallaskenry
@@ -376,6 +383,7 @@ Maintenance budget.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 10. Question submitted by Councillor Adam Teskey
@@ -426,6 +434,7 @@ Adare or anti investment in Adare.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Notice of Motion submitted by Councillor S. Keary
 
 | will move at the next Meeting that Limerick City and County Council immediately exercise their
@@ -478,6 +487,7 @@ appropriate staff.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 On the proposal of Councillor McMahon, seconded by Councillor Keary, it was agreed to host a

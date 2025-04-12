@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrbnisi Corparaideachs agus Bainistiocit Athrulthe
 Comnairie Cathrach agus Comae Luimnign
 
@@ -54,6 +55,7 @@ To consider proposal for the disposal of land at:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 {iv)
@@ -112,6 +114,7 @@ on the resignation of Shane Clifford, Councillor:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (a)
@@ -174,6 +177,7 @@ Year Ended 31" December 2014.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 (h) Twinning
@@ -227,6 +231,7 @@ March 2016.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Limerick 2020 Directorate
@@ -275,6 +280,7 @@ Housing Supply 2016,” to be held in Wexford, from 22™ to 24” January, 2016
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 e Forum “Demystifying EU Funding — Helping Organisations to Access the
@@ -328,6 +334,7 @@ Gortadroma.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -385,6 +392,7 @@ pension would not be eligible for a bin waiver for this year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -433,6 +441,7 @@ disability allowance who are in receipt of the waiver.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 22.
@@ -477,6 +486,7 @@ Correspondence.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ‘ Se&bhis{ Corpardidescha,
 _—__ Comhairle Cathrach Comhairie Cathyach agus Contae Luinynigh,
 & Contae Luimnigh Ceanncheathni Chorpardideach,

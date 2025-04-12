@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_—_ Comhairle Cathrach Comhairle Cobeaeh agnceeataerige
 -~ — 6 Contae Luimnigh Ceanncheathni Chorparaideach,
 ” F : . Cé na gCeannaithe.
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -121,6 +123,7 @@ Regulations, 2001 (as amended) in relation to Lower Carey’s Road, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -180,6 +183,7 @@ in each of Limerick's Regeneration areas in 2018 and 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -234,6 +238,7 @@ monitored to view the viability of their expansion at a later time.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -300,6 +305,7 @@ in the future.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Correspondence

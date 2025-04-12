@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD
 IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 1* June,
 2016, AT 10:00 A.M.
@@ -57,6 +58,7 @@ process.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 e it was proposed to bring Part Vill Report to the July Meeting for consideration.
 
@@ -111,6 +113,7 @@ e To promote best practice in heritage conservation and management.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 3
@@ -170,6 +173,7 @@ development of the GST is underway.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 The marketing of the Great Southern Trail will be undertaken following the necessary
@@ -228,6 +232,7 @@ contractor.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Cathaoirleach referred to Item 5 which had been deferred earlier in the Meeting and it was agreed to
 take this item before the Notices of Motion.
 
@@ -285,6 +290,7 @@ accordance with Section 66 of the Local Government Act, 2001, as amended”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 NOTICES OF MOTION
@@ -341,6 +347,7 @@ Funding Programme, the Roads Engineer agreed to email the list of projects and a
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 to Members. It was also stated that the second round of funding under the Programme was
@@ -391,6 +398,7 @@ REPLY: Prior to carrying out a major overlay of the carriageway in Glin Village,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 prudent to undertake a strategic Public Realm Plan for the village. This plan would
@@ -447,6 +455,7 @@ the Municipal District to propose the change of name and to commence the process
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 After a brief discussion, it was agreed to make contact with residents of the Square in relation to
 the proposal and if the feedback was positive to proceed to Full Council with a Motion.
 

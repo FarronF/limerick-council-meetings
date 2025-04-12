@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Comhairle Cathrach
 
 & Contae Luimnigh
@@ -52,6 +53,7 @@ Item 2: Presentation on Mobility Management Plans by Limerick Smarter Travel
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 At the suggestion of the Chair, and with the agreement of the Members, this item was
 brought forward on the agenda.
 
@@ -100,6 +102,7 @@ roads within this Municipal District”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion, Cllr Galvin said that the proper numbering of all roads was
 important for the reporting of littering, crime, or road quality issues. He acknowledged that
 regional and some local roads already had road number signs in place, but called for number
@@ -150,6 +153,7 @@ development of the lines.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In seconding the Motion, Clir Lynch suggested that Irish Rail should be invited to make a
 presentation on its plans for the rail lines in Limerick to a future SPC meeting.
 
@@ -200,6 +204,7 @@ these will be monitored to view the viability of their expansion at a later time
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion, Cmhir O Ceallaigh said that there was a need to trial a number of
 secure parking spaces for motorcycles in the City, suggesting that the area around the Milk
 Market might be a suitable location. He argued that motorcycles are more fuel-efficient and
@@ -247,6 +252,7 @@ misses and traffic issues in the towns and villages of County Limerick.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion, Cllr O’Donoghue referred to the recent tragic fatality in Ballingarry
 and called on traffic calming measures to be installed in all towns and villages in County
 Limerick. He stated that speed ramps were the only effective way to reduce speeding.

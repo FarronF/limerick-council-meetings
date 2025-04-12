@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGE AND ON-LINE, ON THURSDAY, THE 16™
@@ -47,6 +48,7 @@ All Members concurred with the sentiments of the Cathaoirleach Councilor Martin 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councilor Conway (G) referred to local community contractors who had provided assistance
 to the local authority staff during the severe weather event and requested the services
 provided by these contractors be utilized in the future should the need arise.
@@ -90,6 +92,7 @@ There was no interest declared.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Property Disposal
 
 Circulated, report of the Senior Staff Officer, Housing Support Services, Gerard
@@ -129,6 +132,7 @@ great works carried out by them on the Kiiteely and Dromkeen burial grounds.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 6. Notice of Motion submitted by Councillor Carey
@@ -168,6 +172,7 @@ with the local Garda Roads Policing Unity to carry out speed checks at this loca
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “| will move at the next meeting of the Cappamore-Kilmallock Municipal District that a
 traffic survey be completed at Thomastown Cross on the Kilmallock-Charleville road L8572 &
 18576 with a view to traffic calming.”
@@ -204,6 +209,7 @@ application is the 14" March 2025.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Conway
 
 “twill ask at the next meeting of the Cappamore-Kilmallock Municipal District if the L1509

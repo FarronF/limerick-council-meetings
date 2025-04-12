@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—_ Comhairle Cathrach pac asbarn bana he inareih
 Offig an Cheantair, Aras Mhainchin Seoighe,
 & Contae Luimnigh Gill Mochesisg,
@@ -58,6 +59,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office ve € rr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Decl ° In
 
 4. Property Services
@@ -95,6 +97,7 @@ network upgrade by Limerick City and County Council a number of years ago.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Carey
 | will ask at the next meeting of the Cappamore/Kilmallock MD meeting what the possibility is of
 

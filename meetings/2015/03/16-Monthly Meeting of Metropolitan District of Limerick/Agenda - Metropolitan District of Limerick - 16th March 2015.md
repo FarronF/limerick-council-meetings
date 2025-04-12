@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 Taking in Charge of Estates - Declaration of Roads to be Public Roads
@@ -114,6 +116,7 @@ pitches.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -165,6 +168,7 @@ charge.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

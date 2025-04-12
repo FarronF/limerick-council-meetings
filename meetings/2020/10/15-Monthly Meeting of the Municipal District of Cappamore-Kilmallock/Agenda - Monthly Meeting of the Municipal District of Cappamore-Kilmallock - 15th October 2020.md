@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Comhairle Cathrach agus Contae Lusmniigh,
 & Contae Luimnigh Ov‘g an Cheantair, Aras Maar fre: ten
 An f™ e -alig,
@@ -51,6 +52,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office v rg ~
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Physical Development Directorate
 
 To consider Report on the Public Consultation for the Draft Municipal District of
@@ -89,6 +91,7 @@ phase 1 & 2.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor John Egan
 
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that

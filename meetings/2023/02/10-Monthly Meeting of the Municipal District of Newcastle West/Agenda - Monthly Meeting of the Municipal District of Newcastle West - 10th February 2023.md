@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Disiche Bardais an Chaisleain Nua Thiar,
 _—_—_—_ & Contae Luimnigh Comhairte Cathrach agus Contae Luimnigh,
 
@@ -58,6 +59,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Disposal of Land
@@ -107,6 +109,7 @@ road linking the River Arra and the Bridge of Tears Roundabout.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -168,6 +171,7 @@ Passage, Meenoline South next to the Greenway.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Notice of M Hor J.

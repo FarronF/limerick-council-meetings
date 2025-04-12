@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community, Leisure & Culture Strategic Policy Committee Meeting 07/09/2020
 
 A meeting of the Community, Leisure & Culture Strategic Policy Committee was held in the
@@ -51,6 +52,7 @@ _
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 2: Matters Arising
 
 There were no matters arising from the minutes of the previous meeting.
@@ -98,6 +100,7 @@ emphasis on attracting rural visitors to the city and vice versa.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A Potter Coogan outlined that there are already a number of festivals and events taking
 place around County Limerick such as Eigse Michael! Hartnett, Hearsay Festival and
 soulscapes,
@@ -147,6 +150,7 @@ agreed as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Locations of the above meetings are to be decided.
 
 Cllr O’ Hanlon thanked all speakers and acknowledged the hard work they had put in to

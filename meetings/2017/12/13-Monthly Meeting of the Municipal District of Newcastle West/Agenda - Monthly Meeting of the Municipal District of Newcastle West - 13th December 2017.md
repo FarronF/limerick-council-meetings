@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Duiche Bardais an Chaisledin Nua Thiar,
 __—_ Comhairle Cathrach agus Contae Luimnigh,
 
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation (GMA)
 
 To review position in relation to allocation under the General Municipal Allocation.
@@ -96,6 +98,7 @@ To receive update on taking in charge of estates in the Municipal District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

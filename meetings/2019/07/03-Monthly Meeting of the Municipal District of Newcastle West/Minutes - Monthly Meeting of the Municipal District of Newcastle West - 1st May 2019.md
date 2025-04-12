@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -52,6 +53,7 @@ Residents Association was formed in 2014 and the following items need to be addr
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e the lack of visibility when exiting the estate onto the N21. She noted that five accidents
 had occurred at this location.
 
@@ -108,6 +110,7 @@ Realm, Newcastle West Development Association - Vision 2023
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Housing Grants - €3.2m allocated to the District.
 
 Newcastle West.ie Website — Launched in December 2018
@@ -166,6 +169,7 @@ SS ee eee
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
 €2,000 to Templeglantine Tidy Towns.
 
@@ -214,6 +218,7 @@ be given immediate priority.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 A working draft of the Public Realm Plan will be presented to Dromcollogher
@@ -267,6 +272,7 @@ particular follow up on named cases. Also, it should be noted that each case
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 automatic case number assigned, which is unique to each case for
 identification purposes.
 
@@ -313,6 +319,7 @@ area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. n m b ncillo
 
 | will ask at the next Meeting for speed repeater signs at three approach roads entering the
@@ -358,6 +365,7 @@ contact via email.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Notice of Motion submitted Councillor L. Galvin
 
 1 will move at the next Meeting that (a) a survey be carried out on the roads in Mountcollins,
@@ -406,6 +414,7 @@ upgrades in 2019 this area can be considered.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18. Notice of Motion submitted by Councillor M. Collins
 
 | will move at the next Meeting for three new street lights, one at the back of school in
@@ -456,6 +465,7 @@ to serve the people of the Municipal District and its hinterland.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: The funding mechanism from central government (Department of Transport
 Tourism and Sport) for the construction of new swimming pools is the Large
 Scale Sport infrastructure Fund (LSSIF). This is a new fund that was introduced
@@ -508,6 +518,7 @@ up on this with Central Services.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Prior to the conclusion of the Meeting, the Cathaoirleach and Councillors thanked the
 Director, Senior Executive Engineer, Meetings Administrator and all staff of the District for
 their help and assistance over this term of the Council. The Members who held the position
@@ -525,6 +536,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

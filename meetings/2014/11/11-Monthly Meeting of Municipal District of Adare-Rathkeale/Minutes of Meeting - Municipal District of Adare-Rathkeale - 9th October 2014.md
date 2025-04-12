@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF ADARE-RATHKEALE HELD IN ARAS SEAN FINN, NEW
 LINE ROAD, RATHKEALE, CO. LIMERICK, ON THURSDAY, 9"
@@ -42,6 +43,7 @@ to the Municipal District of Adare-Rathkeale as follows:-
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ADARE RATHKEALE MUNICIPAL DISTRICT DRAFT BUDGETARY PLAN 2015
 
 Municipal District
@@ -89,6 +91,7 @@ strategic focus in relation to Council owned property/land.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Following further discussion, Members agreed that the allocation of the General
 Municipal Allocation was a step in the right direction and was in keeping with the
 spirit of the Local Government Reform Act, 2014.
@@ -112,6 +115,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Duiiche Bardais Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -72,6 +73,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -9O an
 Traffic ing at Kilcornan
 

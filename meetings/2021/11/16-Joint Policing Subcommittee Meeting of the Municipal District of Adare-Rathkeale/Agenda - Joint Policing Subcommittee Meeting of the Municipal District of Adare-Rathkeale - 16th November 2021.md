@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 & Contae Luimnigh Cormihawte Cathrach agus C = rsa
 aArmN fr \ vas Séan Finny

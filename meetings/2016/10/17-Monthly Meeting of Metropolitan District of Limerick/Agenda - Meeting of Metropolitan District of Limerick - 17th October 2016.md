@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——" Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairie Cathrach agus Contae Luimnigh,
 
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 Question submitted by Councillor Joe Leddin
@@ -108,6 +110,7 @@ outlining the size of each site?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -165,6 +168,7 @@ impact on their local area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
 DOORADOYLE, LIMERICK, ON MONDAY, 7™ JULY, 2014, AT
@@ -47,6 +48,7 @@ agreed prior to the adjournment.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Home and Social Development
 
 Part 8 P. - nd Modifications to R | Development at
@@ -98,6 +100,7 @@ pursuant to Section 179 of the Planning and Development Acts, 2000-2014, and Par
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The report stated that the proposal was advertised on 22" March, 2014, and
 plans and particulars in relation to same were made available for public inspection
 from 24" March until 9" May, 2014. It was proposed to proceed as indicated in the
@@ -144,6 +147,7 @@ Bridges Rehabilitation Contracts 2014.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. Economic Development and Planning
 
 (b) Taking in Charge of Estates - Declaration of Roads to be
@@ -192,6 +196,7 @@ Cathaoirleach stated that Item No. 16 (a) would be taken at this point:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16(a) Newcastle West Local Area Plan 2014-2020
 
 Circulated, report of the Director of Economic Development and Planning
@@ -244,6 +249,7 @@ funding avenues to support Local Area Plan implementation.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mid-West Strategic Plan 2012 states:
 
 “In the absence of full alignment upgrades, consideration must be immediately given to
@@ -294,6 +300,7 @@ Sheahan (K), Sheahan (M), Teefy. (29)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Against:
 
 Councillors Browne, Keller, Loftus, McCreesh, McMahon, O Ceallaigh, Prendiville,
@@ -341,6 +348,7 @@ Accommodation Consultative Committee.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Cathaoirleach declared Councillors Lynch, Sheahan (M), Hurley and
 McMahon appointed to the Local Traveller Accommodation Consultative Committee.
 
@@ -386,6 +394,7 @@ Council of the Association for the full five-year term.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
@@ -436,6 +445,7 @@ Seconded by Councillor Sheahan (J);
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 “That, Councillors Collins (J), Clifford and Scanlan be appointed as
@@ -489,6 +499,7 @@ County Council was therefore required to appoint 1 further Member to the Board.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11
 
 Proposed by Councillor Collins (M);
@@ -540,6 +551,7 @@ RAPID Action Implementation Team for Rathkeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12
 
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan
@@ -589,6 +601,7 @@ of Culture.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13
 
 The Cathaoirleach declared, in addition to the Cathaoirleach (ex-officio), the
@@ -631,6 +644,7 @@ Date:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

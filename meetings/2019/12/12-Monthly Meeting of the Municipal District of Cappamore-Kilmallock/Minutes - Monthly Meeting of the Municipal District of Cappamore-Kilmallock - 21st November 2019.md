@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -47,6 +48,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ili) Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappamore-
 Kilmallock held on the 17" October, 2019.
 
@@ -91,6 +93,7 @@ taken at this point:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next meeting of the Cappamore-Kilmallock Municipal District that
 Limerick City and County Council close the access pathways at the rear of Cois Abhainn
 and Deebert Close estates in Kilmallock due to ongoing antisocial behaviour.
@@ -137,6 +140,7 @@ Directorate dated 25" October, 2019, which was noted by the Members
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NO MOTION
 
 7. Notice of Motion submitted by Councillor PJ Carey
@@ -182,6 +186,7 @@ favour of bollards being provided, the bollards will be provided in early 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Notice of Motion submitted by Councillor Brigid Teefy
 
 I will move at the next Meeting of the Cappamore-Kilmallock Municipal District that
@@ -230,6 +235,7 @@ Folio details relating to Bruree at their offices at Limerick Junction. They hav
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 request for clarification on title to larnréd Eireann Head Office in Dublin and a reply is
 currently awaited from them on this.
 
@@ -275,6 +281,7 @@ Creamer who works In the Corporate Services Department, Limerick City & County C
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Elected Members extended a Vote of Sympathy to the family and friends of John
 Tierney, The Hill, Kilmallock following his recent passing. They acknowledged the huge work
 and commitment that John had put in to Kilmallock Tidy Towns over the years. They
@@ -300,6 +307,7 @@ Cathaoirleach
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

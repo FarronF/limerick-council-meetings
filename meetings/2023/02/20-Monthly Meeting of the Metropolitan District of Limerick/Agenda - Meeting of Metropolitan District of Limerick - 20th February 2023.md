@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Setrbhisi Corperdidescha,
 ae pa alread Comhairie Cathrach agus Contae Lulmnigh
 ontae mrnigi Ceanncheathra Chorpardidesch,
@@ -52,6 +53,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 
 To note proposal for the disposal of land as follows :
@@ -96,6 +98,7 @@ are deployed in the city.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
@@ -139,6 +142,7 @@ the long-term plans for Donnellan's Field / Thomondgate Weir.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor C. Sheehan
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on Limerick
 
@@ -183,6 +187,7 @@ proposed Flood Relief Scheme for Annacotty including Mulcair Drive and Mountshan
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Question submitted by Councillor $. Novak Ui Chonchdir
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the Mobility
@@ -223,6 +228,7 @@ Spaces to use within the city centre.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26. Notice of Motion submitted by Councillor C. Sheehan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the Active Travel

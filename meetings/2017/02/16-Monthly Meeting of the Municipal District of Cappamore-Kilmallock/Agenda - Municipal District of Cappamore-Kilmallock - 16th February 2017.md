@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——
 
 sie -
@@ -92,6 +93,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development Directorate
 
 (a) To receive Presentation on Town and Village Renewal Scheme.

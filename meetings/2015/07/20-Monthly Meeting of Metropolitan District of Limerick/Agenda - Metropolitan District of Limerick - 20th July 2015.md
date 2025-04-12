@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 2
@@ -110,6 +112,7 @@ To receive Presentation from Respond Housing Association.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -161,6 +164,7 @@ programme should be paid for by the state, as in Ballynanty and Kileely.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -221,6 +225,7 @@ surrounding areas.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.

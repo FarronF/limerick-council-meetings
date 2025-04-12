@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 WEDNESDAY, 1°" JUNE, 2016, AT THE CONCLUSION OF THE ANNUAL MEETING
@@ -56,6 +57,7 @@ e The presentation and implementation of the plan and the timeframe for its adop
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Members noted that issues relevant to the District such as, traveller supports, village renewal,
@@ -113,6 +115,7 @@ the Adare-Rathkeale District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 The Senior Executive Officer, Property noted the Members request and undertook to bring same
@@ -169,6 +172,7 @@ that, while the attenuation tank to be placed under the car park was designed to
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 water from the adjacent N21, the outfall from same would have the capacity to cater also for
@@ -224,6 +228,7 @@ Derelict Sites Register.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 (b) Update on the Taking in Charge of Ballyvareen Estate
@@ -279,6 +284,7 @@ to advance.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Sewerage Treatment Plant in Askeaton
 
 Circulated, series of emails, with the latest dated 24" May, 2016, from Irish Water giving updated
@@ -332,6 +338,7 @@ where applicable, the European Journal {if the works may exceed approx
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 not just price. The initial assessment is a pass/fail based on their financial,
@@ -388,6 +395,7 @@ and September inclusive. (Section 2(3)) Regulations 2004 - Casual Trading Act 19
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 exempt from the provision of the Casual Trading Act 1995 the selling between the
 01* May and the 30" September in any year of (i) strawberries, raspberries,
 blueberries, gooseberries, blackberries, loganberries, tayberries and currants, and
@@ -439,6 +447,7 @@ poor condition and should be replaced with concrete.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 Councillor Sheahan noted that he had previously sought a report on the resurfacing of Main

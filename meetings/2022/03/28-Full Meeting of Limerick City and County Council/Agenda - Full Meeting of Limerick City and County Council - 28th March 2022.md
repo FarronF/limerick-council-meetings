@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __— Comhairie Cathrach sopnhonvte Cah pes Corpertideacha,
 : ry Comhairle Cathrac us © L r
 en 8 Contac Luimnigh Cearmcheativs: Chorporaideach,
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To consider proposal for the disposal of land, in accordance with the provisions of
@@ -120,6 +122,7 @@ To consider Chief Executive’s Report for the months of January and February,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -168,6 +171,7 @@ and beverages, and catering services.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -213,6 +217,7 @@ Strategic Policy Committee held on 7" February, 2022.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (iv)
@@ -259,6 +264,7 @@ Development Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -301,6 +307,7 @@ so that they can be allocated as soon as possible.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -355,6 +362,7 @@ transplantations.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.

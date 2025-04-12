@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Comhairle Cathrach
 = & Contae Luimnigh
 oo Li ick Cit
@@ -58,6 +59,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae __ * ——paaly | lta He gray Ble Lravel
 
 Baal ~ Khe.

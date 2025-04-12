@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 
 Comhairle Cathrach agus Contae Luimnigh,
@@ -40,6 +41,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We the undersigned on behalf of the Fianna Fail Party call a Special meeting of Limerick City
 and County Council to discuss the potential impact to the Limerick and Midwest Region of a
 

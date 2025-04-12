@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN COMMUNITY
 CENTRE, GALBALLY CO. LIMERICK, ON THURSDAY, 28" FEBRUARY,
@@ -47,6 +48,7 @@ the benefit and enjoyment of all.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 She acknowledged the contribution of Limerick City & County Council in facilitating and
 supporting the formation of the Trust from the outset. The formation of the Trust was also
 consistent with one of the objectives of the current River Basin Management Plan for Ireland,
@@ -94,6 +96,7 @@ Municipal District.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Operations & Main rvices-Threshold Project
 
 The Executive Engineer, Cappamore Kilmallock and the Executive Engineer Operations &
@@ -131,6 +134,7 @@ Glenbrohane Defibrillator Project
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 tala A
 (a a,
 lh
@@ -164,6 +168,7 @@ tender process for the construction of the scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion
 
 8. Notice of Motion submitted by Councillor Brigid Teefy
@@ -207,6 +212,7 @@ of signage as an asset and the possible use of barcoding on signage for identifi
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 rM Arising:
 
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the following

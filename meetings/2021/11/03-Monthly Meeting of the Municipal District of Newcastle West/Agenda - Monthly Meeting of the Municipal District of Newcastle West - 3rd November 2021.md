@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach Diiche Bardais an Chaisledin Nua Thiar,
 & Contae Luimni Comhairie Cathrach agus Contae Luimnigh,
 CS ™ igh Aras Wittiam Smith O'Brien,
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Transportation and Mobility Directorate
@@ -114,6 +116,7 @@ for the Newcastle West Municipal District for the year 2022.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Serbhisi Corparéideacha,
 
 _—_—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (b) Castleview, Newcastle West, Co. Limerick.
@@ -109,6 +111,7 @@ issues with the cervical screening programme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (f)
@@ -167,6 +170,7 @@ Chairperson’s Report — Cultural Strategic Policy Committee Meeting held on
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Recommendation No. 1
 
 “That, the composition of the Assessment Panel for the Open Call on individual
@@ -220,6 +224,7 @@ Cork, on 26", 27" and 28" October, 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (i) “Social Media and Effective Time Management” to be held in Carlingford, Co.
@@ -264,6 +269,7 @@ District per annum for Civic Receptions.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Notice of Motion submitted by Councillor R. O’Donoghue (to be

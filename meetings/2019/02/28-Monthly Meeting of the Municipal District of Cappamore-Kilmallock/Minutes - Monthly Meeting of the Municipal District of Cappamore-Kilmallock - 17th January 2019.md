@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -47,6 +48,7 @@ Digital Strategy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Rural Isolation & Crime Prevention
 
 The Cathaoirleach welcomed Sgt Bernie Leetch, Crime Prevention Officer, Henry St Garda
@@ -91,6 +93,7 @@ important event to raise awareness of rural isolation and crime prevention.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Question submitted by Councillor Teefy
 
 | will ask at the next Meeting of the Municipal District:
@@ -145,6 +148,7 @@ Threshold Project and the planned resurfacing of this area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Vote of Sympathy
 
 The Members extended a Vote of Sympathy to the family and friends of Seamus Sexton,

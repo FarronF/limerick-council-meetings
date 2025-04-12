@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ___ Seirbhis{ Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh.,
 
@@ -76,6 +77,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Support Services Directorate
 (a) Chief Executive’s Report
 
@@ -113,6 +115,7 @@ Councillor Prendiville.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (f)
 
 Strategic Policy Committee Reports
@@ -165,6 +168,7 @@ Planning Strategic Policy Committee Meeting held on 3° April, 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (9)
 
 (h)
@@ -218,6 +222,7 @@ Ended 31" December, 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -271,6 +276,7 @@ accordance with Sections 13 (5) and (6) of the Planning and Development Act, 200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -322,6 +328,7 @@ Co. Cork, on 17/18" May, 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (f} Conference on Mna na hEireann — Celebrating Women in Modern Ireland,
@@ -366,6 +373,7 @@ developing them as Social and Affordable Housing.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -409,6 +417,7 @@ campaign to ensure Pope Francis visits Limerick in his proposed trip to Ireland 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

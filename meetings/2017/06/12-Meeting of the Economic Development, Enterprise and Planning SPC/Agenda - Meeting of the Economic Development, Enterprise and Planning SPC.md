@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6” June 2017
 
 To/Each Member of the Economic Development, Enterprise and Planning

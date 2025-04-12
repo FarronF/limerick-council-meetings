@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Comhairle Cathrach — PO se per en aprmy
 i omhai ae Luimnig)
 nArN & Contae Luimnigh Ceanncheathru Chorparéiteach,
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 3. Social Development Directorate — Urban and Rural Community Development
@@ -116,6 +118,7 @@ Lisheen Park and Laurel Park will commence.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -179,6 +182,7 @@ groups with the below amounts, out of the General Municipal Allocation:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 [St. Mary’s Adult EducationCentre 2,000
 St. Mary’s Prize Band
 Athlunkard Boat Club '€2,000 |
@@ -266,6 +270,7 @@ Community Centre for Castletroy, Monaleen, Annacotty and surrounding areas.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.

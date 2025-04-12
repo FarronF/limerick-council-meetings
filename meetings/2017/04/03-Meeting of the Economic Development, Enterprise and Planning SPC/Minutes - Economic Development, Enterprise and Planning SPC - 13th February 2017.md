@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE ECONOMIC
 DEVELOPMENT, ENTERPRISE AND PLANNING STRATEGIC POLICY
 COMMITTEE HELD IN THE COUNCIL CHAMBER, CITY HALL, MERCHANTS
@@ -60,6 +61,7 @@ Notice of motion submitted by Cllr. J. Sheahan.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ‘| will move at the next meeting that the Council calls on Gas Networks Ireland to
 ensure that the proposed Gas Pipeline from Foynes to Kerry Co-op plant in Listowel,
 take into account the location, the design and capacity of the pipe for future potential
@@ -117,6 +119,7 @@ be re-introduced at a future time if required.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 6
 To consider Motion referred from full Council meeting on the 23” of January
 
@@ -170,6 +173,7 @@ o 39 grants approved - value €851,094
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 © 316 clients in LEO Portfolio (1,895 employees)
 o Net new jobs for 2016 = 129
 e New priorities for 2017

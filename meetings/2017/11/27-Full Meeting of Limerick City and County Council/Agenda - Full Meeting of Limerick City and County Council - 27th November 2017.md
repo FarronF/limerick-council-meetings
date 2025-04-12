@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhis{ Corparaideacha,
 _————— & Contae Luimnigh aah oo tats
 
@@ -76,6 +77,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 (d)
 (e)
@@ -135,6 +137,7 @@ the resignation of Councillor Sean Lynch from the Partnership.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -194,6 +197,7 @@ and optimise the utilisation of existing housing stock.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Recommendation No. 2
 
 That, Limerick City and County Council commence a survey of vacant
@@ -237,6 +241,7 @@ embedded in all Council policy documents going forward.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 (v) Chairperson’s Report — Environment Strategic Policy Committee
@@ -283,6 +288,7 @@ and Spatial Economic Strategy for the Southern Region.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Regional i Direct e
 (a) Cultural Strategic Policy Committee
 
@@ -336,6 +342,7 @@ accordance with Section 66 of the Local Government Act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Physical Development Directorate
@@ -389,6 +396,7 @@ from 8" to 10" December, 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -434,6 +442,7 @@ many were re-homed, and how many were put down.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -482,6 +491,7 @@ overground slurry stores to these reception tanks.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar,
 imni Comhairle Cathrach agus Contae Luimnigh,
 aAZm™ i =~ 6 Contae Luimnigh Aras William Smith O'Brien.
@@ -56,6 +57,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 10.
@@ -105,6 +107,7 @@ provided for the 10 step down Bungalow Units and when will these be occupied.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

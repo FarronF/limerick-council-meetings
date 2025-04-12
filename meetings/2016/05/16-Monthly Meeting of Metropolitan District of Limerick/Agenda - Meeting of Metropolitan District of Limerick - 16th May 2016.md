@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 — Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Support Services Directorate
 Annual Meeting of the Metropolitan District of Limerick
 
@@ -97,6 +99,7 @@ Roxborough.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -154,6 +157,7 @@ city landscape.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -207,6 +211,7 @@ Road be reallocated to facilitate this purchase.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 $s
 
 20. Notice of Motion submitted by Councillor Malachy McCreesh

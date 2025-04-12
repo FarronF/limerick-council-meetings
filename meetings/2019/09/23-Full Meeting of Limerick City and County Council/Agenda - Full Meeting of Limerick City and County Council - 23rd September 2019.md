@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach Comhairt Gumnchena Come tuberdgh
 Fain & Contae Luimnigh Ceanncheathru: Chorparaideach,
 “A coN ——————— Cé na gCeannaithe.
@@ -68,6 +69,7 @@ Corporate Headquarters, Merchants Quay, Limerick . (061 - 587150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (g)
@@ -134,6 +136,7 @@ To consider Chief Executive's Reports for the months of June, July and August 20
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (4)
 
 (e)
@@ -182,6 +185,7 @@ To consider the nomination of 4 external members to the Audit Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (g) Foreign Travel
 
 To consider approving of foreign travel in respect of invitations received by the Mayor
@@ -225,6 +229,7 @@ accordance with the Housing (Traveller Accommodation) Act, 1998.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Service Operations Directorate
 Speed Limit Review - Special Speed Limit Bye-Laws 2019
 
@@ -278,6 +283,7 @@ measures due for implementation in the final Quarter of the current financial ye
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -330,6 +336,7 @@ Transport budget to Cycling.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.

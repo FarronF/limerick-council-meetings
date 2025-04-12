@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha agus Batnistiocht Athruithe.
 ee Comhairle Cathrach agus Contae Luimnigh
 
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchants Quay, Limerick we
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -111,6 +113,7 @@ L1140 to Bruff.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor Sheehy
 
 11. 1 will move at the next Meeting that the Council address the lack of signage and
@@ -121,6 +124,7 @@ the misleading signage at Drakes Cross, Glenroe.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

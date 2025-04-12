@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhis{ Corpardideacha.
 __——_— & Contae Luimnigh = ena
 aAar™N ————————————— cé annaithe,
@@ -67,6 +68,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Development Regulations 2001 (as amended) in relation to the Extension of the Great
 Southern Greenway walking and cycling route from Rathkeale to Ballingarrane, Co. Limerick
 along the former Limerick to Kerry railway line.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairie Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 a Olfg an Cheantair, Aras Mhainchin Seoighe,
@@ -57,6 +58,7 @@ Linmertcli City and County Councl, Arne Betnchds Secighe Ares, Omics W @Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 
 3
@@ -101,6 +103,7 @@ Bruree road to improve sightlines and general safety at the junction.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor Teefy
 | will move at the next meeting of the Cappamore Kilmallock Municipal District that
 consideration be given to the provision of some form of traffic calming, such as Driver

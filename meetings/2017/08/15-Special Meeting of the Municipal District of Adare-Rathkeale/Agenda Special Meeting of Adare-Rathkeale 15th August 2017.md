@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhist Corpardideacha,
 ir! hr, imnigh,
 ee & Contae Luimnigh a. boheme

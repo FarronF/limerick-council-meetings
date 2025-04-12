@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 = & Contae Luimnigh
 ~~ Limerick City
@@ -76,6 +77,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions submitted by Councillor L. Galvin
 
 | will ask at the next Meeting (a) how many applicants are on the housing waiting list
@@ -122,6 +124,7 @@ is cctv installed there.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.

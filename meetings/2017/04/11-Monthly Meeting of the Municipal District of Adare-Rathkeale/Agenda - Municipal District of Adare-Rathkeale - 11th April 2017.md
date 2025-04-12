@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick < 061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8.
 
 Service Operations Directorate — Planning & Environmental Services

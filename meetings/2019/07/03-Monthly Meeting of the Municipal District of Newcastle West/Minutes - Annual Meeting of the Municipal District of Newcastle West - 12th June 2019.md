@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -50,6 +51,7 @@ wished him well in the year ahead.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On taking the Chair, Councillor Scanlan expressed his appreciation on being appointed
 Cathaoirleach of the Municipal District of Newcastle West and congratulated all Members on
 being elected to the Council. He acknowledged the hard work and marvellous contribution

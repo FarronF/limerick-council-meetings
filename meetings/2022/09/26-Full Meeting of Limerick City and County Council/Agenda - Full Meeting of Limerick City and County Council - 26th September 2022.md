@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 - ‘esas Cearpaaibdaaciae
 — Comhairle Cathrach Comhairle Cathwach agus Comtne Ludrrrdah,
 
@@ -70,6 +71,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 Declaration of Interest
@@ -150,6 +152,7 @@ amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -202,6 +205,7 @@ in accordance with the provisions of Section 66 of the Local Government Act,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (g) Foreign Travel
@@ -239,6 +243,7 @@ accordance with Section 106 of the Local Government Act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Transportation and Mobility
@@ -286,6 +291,7 @@ of the Local Government Act, 2001, as amended, and Section 14 of the Roads Act,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -341,6 +347,7 @@ an ‘Active Farmer’ in the context of the Local Improvement Scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -396,6 +403,7 @@ Scheme Outline issued by the Department of Rural and Community Affairs.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor S. Benson (to be referred to the Travel
 and Transportation Strategic Policy Committee)
 

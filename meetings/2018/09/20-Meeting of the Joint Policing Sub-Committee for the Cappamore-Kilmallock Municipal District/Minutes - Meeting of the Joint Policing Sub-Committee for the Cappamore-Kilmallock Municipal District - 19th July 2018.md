@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -48,6 +49,7 @@ the formal launch and communication of this initiative was likely to take place 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members acknowledged the work done by An Garda Siochana in the District and
 welcomed the proposed Community Policing Initiative. This initiative made a lot of sense as
 it would deepen the contacts between An Garda Siochana and the community and would

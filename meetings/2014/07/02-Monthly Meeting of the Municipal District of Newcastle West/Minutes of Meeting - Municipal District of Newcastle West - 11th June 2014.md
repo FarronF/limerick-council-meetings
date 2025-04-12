@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM
 SMITH OBRIEN, GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON
@@ -47,6 +48,7 @@ Seconded by Councillor Sheahan;
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 “That, Councillor Jerome Scanlan be appointed Cathaoirleach of the Municipal District of
@@ -108,6 +110,7 @@ Members imminently. The Director provided an update on the Customer Relationship
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Management System (Sugar-CRM).
 
 In relation to Customer Services, some Members stated that it was taking too long to get a

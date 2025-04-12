@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a E Comhairle Cathrach
 = & Contae Luimnigh
 “ne — Limerick City
@@ -75,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We request a Special Meeting of Limerick City and County Council to discuss the
 closure of the Rehab Logistics plant in Raheen, the dismissal of 37 workers with
 disabilities and the refusal of the Rehab Group to agree to pay the workers a fair
@@ -94,6 +96,7 @@ Clir. Fergus Kilcoyne. —~
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We request a Special Meeting of Limerick City and County Council to discuss the following:
 
 “That, in light of the recent Government announcement on the Rural Development Policy

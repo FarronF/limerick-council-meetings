@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i } Seirbhisi Corparaideacha
 _—_ Comhairle Cathrach Camarle Cathrach agus Contac Luimnigh,
 & Contae Luimnigh Ceanncheathns Chorpardideach,
@@ -46,6 +47,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - §57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest.
 
 3. Disposal of Land
@@ -86,6 +88,7 @@ monitored and when the flood defences are deployed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting of the Metropolitan District of Limerick when the housing
@@ -131,6 +134,7 @@ installation of the railing at Steamboat Quay.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor E. O'Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for information on bike
@@ -172,6 +176,7 @@ County Council expect all work on O'Connell Street to be completed and when we c
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22. Question submitted by Councillor S. Kiely
 
 | will ask at the next Meeting of the Metropolitan District of Limerick how many vacancies exist
@@ -217,6 +222,7 @@ we are lacking physical infrastructure for our communities and community groups.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28. Notice of Motion submitted by Councillor C. Slattery
 
 | will move at the next Meeting of the Metropolitan District of Limerick, that now that the area
@@ -257,6 +263,7 @@ centre be retained on O'Connell Street in the city centre.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 34. Notice of Motion submitted by Councillor E. O’Donovan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that an awareness

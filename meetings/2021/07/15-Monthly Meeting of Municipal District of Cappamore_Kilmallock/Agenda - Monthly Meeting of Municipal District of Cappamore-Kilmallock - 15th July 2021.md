@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 _—e_eom & Conte Latranioh Oifig wn Cheantair, Aras —— Seoighe,
@@ -52,6 +53,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTIONS
 
 2. Notice of Motion submitted by Councillor PJ Carey

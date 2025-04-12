@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 p-P
 
 _——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4
@@ -101,6 +103,7 @@ without one and that a bin collection service be put in place, where necessary.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

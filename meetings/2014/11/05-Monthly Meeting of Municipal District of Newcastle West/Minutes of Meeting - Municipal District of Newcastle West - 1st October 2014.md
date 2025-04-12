@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
 GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 1°
@@ -51,6 +52,7 @@ to try to resolve the matter.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members voiced grave concerns about the closure of the Fire Station, particularly as
 the town of Abbeyfeale was one of the biggest employers in West Limerick. They were
 concerned that the emergency response time would be increased by a minimum of 15
@@ -96,6 +98,7 @@ undertaking that he would attend the November Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 5. uestion submitted by Councillor vin
@@ -141,6 +144,7 @@ year end, and the works considered if funding is available.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor J. Scanlan
 
 ! will ask at the next Meeting if road lining can be renewed or put in place at a
@@ -185,6 +189,7 @@ danger at present. It should be noted that they survived Storm Darwin on
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 12. Notice of Motion submitted by Councillor J. Scanlan
@@ -236,6 +241,7 @@ year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Notice of Motion submitted by Councillor S. Browne
 
 | will move at the next Meeting that the Council improves the signage and bus stop
@@ -288,6 +294,7 @@ has inevitably impacted on the Council’s capacity to purchase new books.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 However, the Council's records would indicate that Newcastle West Library
 has not been disproportionately impacted upon, relative to other Branches in
 the City and County Library Service.

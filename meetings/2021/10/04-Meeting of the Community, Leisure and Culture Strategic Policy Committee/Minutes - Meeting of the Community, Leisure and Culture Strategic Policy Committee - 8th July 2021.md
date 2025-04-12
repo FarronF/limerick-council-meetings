@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community, Leisure & Culture Strategic Policy Committee Meeting 08/07/2021
 _ Microsoft Teams -
 
@@ -51,6 +52,7 @@ There were no matters arising from the minutes of the previous meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 P Little advised the members that the first meeting of the cultural subcommittee would take
 place on Tuesday 13"" July and advised any other members to let her know if they wanted to
 join the committee.
@@ -103,6 +105,7 @@ Humphreys stated that she would be delighted to present to the PPN at a later st
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 also asked a question on behalf of M Conlon who was unable to attend the meeting with
 regards the lack of community facilities in Limerick City West and the lack of LEADER funding
 in this area, He asked what actions are being taken to fast track community facilities in this
@@ -154,6 +157,7 @@ committees.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 J Butler stated that a lot of groups are moving out of the city to county Limerick and County
 Clare with the lack of facilities/clubs based around the river. She asked if this is something
 that will be addressed in the Active Cities programme.

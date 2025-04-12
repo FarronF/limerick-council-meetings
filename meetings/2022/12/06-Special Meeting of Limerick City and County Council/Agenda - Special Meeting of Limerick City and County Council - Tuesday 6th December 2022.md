@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “i Comhairle Cathrach Combuirle Chitunch enue ConeLuirnion
 vw ag. ie UTTY .
 Ll ™ & Contae Luimnigh Ceanncheathra Chorpardidesch,

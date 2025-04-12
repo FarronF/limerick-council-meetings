@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ —<- Duiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -66,6 +67,7 @@ Crenarata Uesdemiartare Marchante Quau Miemaricl et A imate Crnmertt
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11,
@@ -123,6 +125,7 @@ Notices of Motion submitted by Councillor L. Galvin
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

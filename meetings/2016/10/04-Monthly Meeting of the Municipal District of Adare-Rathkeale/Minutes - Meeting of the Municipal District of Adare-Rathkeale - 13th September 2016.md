@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 TUESDAY, 13™ SEPTEMBER, 2016, AT 9.00 A.M.
@@ -55,6 +56,7 @@ to safety in the estate.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Update on the Taking in Charge of Ballyvareen Estate
 
 Members indicated that the range of issues outstanding in relation to Ballyvareen Estate was
@@ -107,6 +109,7 @@ District and building a good relationship with the general public. Members welco
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 reopening of Croom Garda Station and raised concerns at the high influx of visitors in Rathkeale
@@ -156,6 +159,7 @@ Department of Transport, Tourism and Sport for further clarity.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor A. Teskey
 
 1 will ask at the next Meeting to know what is the delay and what time scale is there in relation
@@ -205,6 +209,7 @@ works such as this should be funded from general Council funds and the Members s
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 to allocate their discretionary funding to the many other deserving projects throughout the
@@ -260,6 +265,7 @@ the road. He expressed his dissatisfaction with Transportation Infrastructure Ir
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 West Road Design Office at how this decision was communicated and at how those affected by

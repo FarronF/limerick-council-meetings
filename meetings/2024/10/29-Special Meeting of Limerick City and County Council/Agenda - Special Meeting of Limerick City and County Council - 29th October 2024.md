@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -  ——_ Comhairle Cathrach
 & Contae Luimnigh
 AN ~S —_ _ *
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Sent: Thursday, October 24, 2024 10:18 PM
 Subject: Special Meeting
 

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 = Limerick City
@@ -83,6 +84,7 @@ Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 10.
@@ -140,6 +142,7 @@ of Ballyhoura Development CLG.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -200,6 +203,7 @@ To consider the nomination of 3 Members to the Audit and Risk Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28.
 
 31.

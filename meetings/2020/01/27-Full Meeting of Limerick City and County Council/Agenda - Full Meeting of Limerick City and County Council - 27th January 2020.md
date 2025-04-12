@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : ni Seirbhisi Corparaideacha,
 =i ay balay eesmtoh aa Comhairle Cathrach agus Contae Luimnigh.
 & Contae rinig Ceanncheathni Chorparaideach,
@@ -69,6 +70,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - §57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 (g)
@@ -122,6 +124,7 @@ resignation of Councillor Slattery as a member of the Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (f)
@@ -175,6 +178,7 @@ amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (h)
 
 Strategic Policy Committee Reports
@@ -239,6 +243,7 @@ Public Lighting Energy Efficiency Project — Southern Region.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Conferences
@@ -289,6 +294,7 @@ numbers given to charities and the number euthanized.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 TUESDAY, 14™ MAY, 2019 AT 9.00 A.M.
@@ -47,6 +48,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-
 Rathkeale held on 9" April, 2019.
 
@@ -92,6 +94,7 @@ will be taken into consideration.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Design and Delivery Services
 Kildimo Village to the Beer Garden Public House
 Circulated, report of the A/Director of Service, Capital Investment dated 1% May, 2019
@@ -134,6 +137,7 @@ Members welcomed the progress.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Marine Cove, Foynes
 Circulated, report of the Senior Executive Engineer, Service Operations West Division
 
@@ -186,6 +190,7 @@ to allocate the following:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 @ €2,500 to the Foynes Museum.
 
 On the proposal of Councillor Sheahan, seconded by Councillor O’Donoghue it was
@@ -234,6 +239,7 @@ closed for applications, and a shortlisting process is underway.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 12. Notice of motion received from Councillor K. Sheahan

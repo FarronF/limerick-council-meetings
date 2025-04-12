@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 en Comhairle Cathrach
 & Contae Luimnigh
 
@@ -66,6 +67,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To consider proposal for the disposal of land, in accordance with the provisions of
@@ -120,6 +122,7 @@ To consider Chief Executive's Report for the months of January and February.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -174,6 +177,7 @@ noting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -222,6 +226,7 @@ Strategic Policy Committee held on 22™ February, 2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 7.
@@ -268,6 +273,7 @@ Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8.
 
 10.
@@ -311,6 +317,7 @@ date of full repayment should monies remain due to the Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

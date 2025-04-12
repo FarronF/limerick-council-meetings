@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_—_ Seirbhisi Corparéideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -52,6 +53,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Area Plan, in accordance with Section 20 (3m) of the Planning and Development
@@ -100,6 +102,7 @@ Patrickswell to Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -164,6 +167,7 @@ Northern side of the river
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

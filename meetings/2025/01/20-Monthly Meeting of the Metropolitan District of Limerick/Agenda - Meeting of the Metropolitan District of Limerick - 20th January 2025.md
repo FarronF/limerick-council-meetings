@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Sewbdhisi Corparaideacha,
 eg 6 Cont Lui ah Comhairle Cathwach agus Contae Luimnigh,
 , ontae Lutmnig) Ceanncheathna Chorparaideach,
@@ -49,6 +50,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest
 
 3. Di | nd
@@ -98,6 +100,7 @@ been in use for several years.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Question submitted by Councillor J. Leddin
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for the Council to clarify the
@@ -147,6 +150,7 @@ the site.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18. Question submitted by Councillor U. Gavan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick what is the timeline for the
@@ -197,6 +201,7 @@ purposes.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 25. Notice of Motion submitted by Councillor E. O'Donovan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that this Council carries

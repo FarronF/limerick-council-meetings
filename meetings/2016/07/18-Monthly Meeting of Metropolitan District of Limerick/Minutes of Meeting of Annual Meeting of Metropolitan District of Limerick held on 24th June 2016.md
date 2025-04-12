@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK
 HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON FRIDAY, 24™ JUNE, 2016,
 
@@ -52,6 +53,7 @@ income to Limerick during 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Highlights:
 
 e Arrival of more than 30 new retailers in the past 12 months.
@@ -116,6 +118,7 @@ Seconded by Councillor Collins.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 to hold office until the next Annual Meeting or until a successor has been appointed”.
@@ -178,6 +181,7 @@ Councillors Keller, Loftus and Prendiville (3)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 For Councillor Secas
 Councillors Leddin and Secas (2)
 
@@ -227,6 +231,7 @@ Limerick to hold office until the next Annual Meeting or until a successor is ap
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Hurley;
 Seconded by Councillor Collins.
 
@@ -280,6 +285,7 @@ resigned. They congratulated former Councillor Byrne on her appointment to the S
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 The Director congratulated Councillor Hourigan and Councillor Butler on their elevation to the

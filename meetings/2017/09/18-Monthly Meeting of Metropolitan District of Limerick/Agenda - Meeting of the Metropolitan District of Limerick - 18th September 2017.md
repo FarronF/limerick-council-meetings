@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhrisi C bideact
 ee Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Saamuhaamnd c sy
@@ -68,6 +69,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 (e) Disposal of Freehold Interest of premises consisting of a dwelling house situate at 28
@@ -112,6 +114,7 @@ Policing Committee and to agree arrangements for Sub Committee Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -163,6 +166,7 @@ meetings for May, June, July, August or September.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -215,6 +219,7 @@ of more social and affordable houses
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD AT ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -51,6 +52,7 @@ were looking at measures to address same.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Superintendent Ryan confirmed that Garda Jim Ryan from the Bruff Garda Station had retired
 recently, and the Superintendent advised that he had sought more resources to support the
 operations of An Garda Siochana in the District. The Elected Members welcomed this and

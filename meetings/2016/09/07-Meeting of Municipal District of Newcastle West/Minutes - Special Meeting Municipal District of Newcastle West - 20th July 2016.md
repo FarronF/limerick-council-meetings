@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
 NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK,
 
@@ -61,6 +62,7 @@ be raised with the Directors who would be in a better position to give a more co
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 reply. She then withdrew from the Meeting.
 
 A discussion took place among Members in relation to the presentation and also regarding the

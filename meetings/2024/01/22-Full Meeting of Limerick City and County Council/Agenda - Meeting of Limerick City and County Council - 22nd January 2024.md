@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5 , Sewbhisi Corparai che
 
 Comhairle Cathrach crebnthe Cathe aC aoaemathy
@@ -71,6 +72,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To consider proposal for the disposal of land, in accordance with the provisions of
@@ -128,6 +130,7 @@ Co. Limerick, in the form of a 35-year lease.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Support Services
@@ -180,6 +183,7 @@ participation in the Annual St. Patrick’s Day Parade, New York City, USA.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (iii)
@@ -243,6 +247,7 @@ Environment Strategic Policy Committee held on 13" December, 2023.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Transportation and Mobility
@@ -288,6 +293,7 @@ on an air quality strategy for Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -335,6 +341,7 @@ for laneways and other areas, as needed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

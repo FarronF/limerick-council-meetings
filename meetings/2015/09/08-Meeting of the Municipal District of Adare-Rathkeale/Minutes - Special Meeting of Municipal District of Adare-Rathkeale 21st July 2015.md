@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
 DISTRICT OF ADARE-RATHKEALE HELD IN THE TRAINING ROOM,
 LOWER GROUND FLOOR, DOORADOYLE ON TUESDAY, 21°" JULY, 2015
@@ -54,6 +55,7 @@ Council would disengage with the Company promoting the Gasification Plant, repay
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In view of the decision reached under Item 1, Councillor Sheahan withdrew his Notice of
 Motion.
 

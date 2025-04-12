@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 & Contae Luimnigh
 at iT rors
@@ -72,6 +73,7 @@ W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Minutes
 
 To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on 16"
@@ -117,6 +119,7 @@ Report Enclosed).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. i rts and R ion Directorate
 
 Part 8 — Southside Connectivity Project
@@ -168,6 +171,7 @@ many people are on the Limerick City and County Council social housing list.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor S. Beasley
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, what is the annual revenue
@@ -221,6 +225,7 @@ are considering for the development of the site that was purchased at Annacotty 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Question submitted by Councillor U. Gavan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick if the Council has actively
@@ -270,6 +275,7 @@ unauthorised developments that have had to be removed/demolished between 2019 an
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a detailed update on the
@@ -326,6 +332,7 @@ Department to establish if, with the focus on DAC-led cultural institutions and 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 in the tourism survey and other marketing materials, will there be similar avenues of support for
 non-DAC attractions to access over the coming months / years, ahead of the new tourism strategy
 being introduced.
@@ -371,6 +378,7 @@ County Council would present to city centre retailers at no cost parking ticket 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2025 provided the retailers have paid their 2024 rates in full. | would suggest large retailers who
 pay more than €20K in rates receive a 100 book of tickets and all other retailers 25 books of tickets
 to distribute free parking tickets to their customers in Limerick City centre. A provision for such a
@@ -412,6 +420,7 @@ disciplines akin to Clare Arts Office's online directory at clarearts.ie.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 49. Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the Council facilitate

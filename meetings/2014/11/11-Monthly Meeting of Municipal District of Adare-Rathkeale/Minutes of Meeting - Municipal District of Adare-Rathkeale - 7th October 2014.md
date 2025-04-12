@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD IN BALLYNEETY GOLF’ CLUB,
 BALLYNEETY, CO. LIMERICK, ON TUESDAY, 7™ OCTOBER, 2014, AT 9.30
@@ -54,6 +55,7 @@ project.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Environment and Water
 
 Gortad ndfil
@@ -105,6 +107,7 @@ Scheme would take place.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Travel and Transportation
 
 The Senior Executive Engineer, Roads, gave an update on county roads programme for
@@ -158,6 +161,7 @@ the notice was served fails to comply with it.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 Where there is an immediate and serious risk to road users, the local

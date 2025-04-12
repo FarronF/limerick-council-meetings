@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 6th
@@ -49,6 +50,7 @@ August, 2017 setting out details of proposals to remove three structures from th
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Protected Structures in accordance with Sections 54 and 55 of the Planning and Development
@@ -101,6 +103,7 @@ Members noted the Draft Heritage Plan.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Social Development Directorate
 Community Initiative Scheme 2017
 
@@ -154,6 +157,7 @@ at the location.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 The Director of Services noted their concerns but stated that all issues had to be evaluated in
@@ -213,6 +217,7 @@ attend a future Meeting of the District in relation to the River Galey and other
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 District.
 
 11. Question submitted by Councillor J. Scanian
@@ -268,6 +273,7 @@ Company be invited to attend the October Meeting of the District to present to t
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 their plans for an all-weather multi use Astro Turf Pitch.
@@ -324,6 +330,7 @@ REPLY: The town centres of Abbeyfeale and Newcastle West are designated pay park
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 areas in accordance with the Abbeyfeale and Newcastle West Parking Places Bye

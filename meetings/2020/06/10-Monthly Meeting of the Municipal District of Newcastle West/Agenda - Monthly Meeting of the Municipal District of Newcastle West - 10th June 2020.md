@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Comhairle Cathrach
 & Contae Luimnigh
 “Ns — Limerick City
@@ -78,6 +79,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. General Municipal Allocation
 
 To review position in relation to allocations under the General Municipal Allocation 2020.
@@ -126,6 +128,7 @@ Newcastle West be conducted in the interest of public safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. | will move at the next Meeting that a safety audit be carried out on the derelict
 plant at Castlemahon.
 

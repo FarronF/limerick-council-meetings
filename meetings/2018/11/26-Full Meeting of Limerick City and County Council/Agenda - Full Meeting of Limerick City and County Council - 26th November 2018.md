@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Seirbhisi Corpardideacha,
 
 — a Comhairle Cathrach agus Contae Luimnigh,
@@ -80,6 +81,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) 25, Lilac Court, Southill, Limerick.
 
 (f) 26, Garryglass Avenue, Ballinacurra Weston, Limerick.
@@ -141,6 +143,7 @@ Section 106 (2) of the Local Government act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (f)
@@ -194,6 +197,7 @@ Mayor of the City and County of Limerick, as set out below, under Section 142
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 Gi)
@@ -235,6 +239,7 @@ Planning Strategic Policy Committee Meeting held on 8" October,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iv)
 
 (v)
@@ -280,6 +285,7 @@ Arts Bursaries 2018 be recommended to Council for approval.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Social Development Directorate
@@ -327,6 +333,7 @@ to 16" December, 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 (g) Local Government (Restoration of Town Councils) Bill, 2018, to be held in
@@ -373,6 +380,7 @@ Special Meeting of the Council held on 6" November, 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -419,6 +427,7 @@ analysis, including mandatory site audits.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

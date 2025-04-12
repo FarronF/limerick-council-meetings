@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_— Comhairle Cathrach - args na Forberthe Fisicit®,
 & Contae Luimnigh jomhairle Cathrach agus Contae Luimnigh,
 i =m enemmnstnsstticci ea eci Ceanncheathni Chorpardideach,
@@ -66,6 +67,7 @@ The following were the main points from the briefing;
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Mr. Murphy outlined the policy framework for the management of Irish Water's
 water infrastructure and services. He explained that by 2050, our population will
 grow by 1.2 million with a consequential increased demand for water.
@@ -119,6 +121,7 @@ the following:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ This new water source will address the serious water supply deficit across the region.
 
 ¢ It will deliver social, economic and environmental benefits across the entire region.
@@ -166,6 +169,7 @@ significant upgrading to facilitate both current and future developments.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members sought clarification as to the accuracy and/or veracity of some of the Irish Water
 figures, particularly when compared to figures circulated in the Kennedy report.
 
@@ -212,6 +216,7 @@ The main points from the briefing are as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ The overall aim of the Water Framework Directive 2000/60/EC is “to achieve good
 ecological status in all waters”.
 
@@ -263,6 +268,7 @@ which submissions on the draft Noise Action Plan could be received was 29" June,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 She pointed out that Noise should be factored in from the outset when proposed
 developments are being planned. She explained that it is difficult and costly to retrofit noise
 mitigation measures either subsequent to planning having being granted or subsequent to
@@ -310,6 +316,7 @@ cutting contractors.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ms. Goggin further explained that, subject to budgetary provision, a pilot programme on
 invasives control on road verges in the Newcastle West area has been provisionally agreed
 with the Newcastle West area office.
@@ -324,6 +331,7 @@ The meeting then concluded.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

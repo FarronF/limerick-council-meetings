@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LIMERICK CITY & COUNTY COUNCIL
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held on
@@ -26,6 +27,7 @@ Economic Development and Planning
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LIMERICK CITY & COUNTY COUNCIL
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held on
@@ -53,6 +55,7 @@ Environment & Water Services.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LIMERICK CITY & COUNTY COUNCIL
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held
@@ -107,6 +110,7 @@ Environment & Water Services
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 IMERICK CITY & NTY COUN
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held on

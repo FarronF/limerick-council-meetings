@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AP
 
 Seirbhisi Corparéideacha,
@@ -71,6 +72,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Support Services Directorate
@@ -124,6 +126,7 @@ the public road.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -181,6 +184,7 @@ introduced, will further damage local democracy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) r Spoka Washington State, USA
 
 To consider approving visit by the Mayor to Spokane, Washington State, USA,
@@ -222,6 +226,7 @@ Section 48(8)(a) of the Planning and Development Act, 2000 (as amended).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Physical Development Directorate
@@ -278,6 +283,7 @@ held in Dublin on 6™ March, 2017.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -328,6 +334,7 @@ terms of the privacy, washing facilities, type of beds, cleanliness and length o
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -379,6 +386,7 @@ Human Organs.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.
@@ -433,6 +441,7 @@ Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor C. Prendiville (to be
 
 referred to the Home and Social Development Strategic Policy Committee)

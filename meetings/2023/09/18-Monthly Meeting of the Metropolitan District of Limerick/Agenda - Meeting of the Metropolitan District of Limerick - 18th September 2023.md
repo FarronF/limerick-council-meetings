@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
  _——ee Comhairle Cathrach
 & Contae Luimnigh
 NN —__—_—_—__
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest.
 
 3. Disposal of Land
@@ -116,6 +118,7 @@ attractiveness for new business to establish in the city centre.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ja Question submitted by Councillor J. Leddin
 
 | will ask at the next Meeting of the Metropolitan District of Limerick who is contracted to collect
@@ -169,6 +172,7 @@ Road junction.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
@@ -223,6 +227,7 @@ enable the inclusion of a new policy in these same plans that would seek to ensu
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 housing developments (excluding single apartment block developments in the city centre) of
 greater than 25 residential units, that at least 50% of these residential units will be allocated for
 private market sale through one of the following.
@@ -271,6 +276,7 @@ Coonagh and Clondrinagh roundabouts and the upkeep of same.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 29. Question submitted by Councillor O. O’Sullivan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that the North Circular
@@ -316,6 +322,7 @@ without a school bus place.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 35. Notice of Motion submitted by Councillor S. Kiely
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the possibility of a
@@ -366,6 +373,7 @@ many to consider leaving the profession.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 42. Correspondence
 (Copy of Correspondence Enclosed).
 

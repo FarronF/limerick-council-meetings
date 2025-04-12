@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_——_ Comhairle Cathrach
 & Contae Luimnigh
 AN LM ON OO
@@ -63,6 +64,7 @@ m Customerservices@limerick ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mayor 2 chara ‘
 ‘ ip
 

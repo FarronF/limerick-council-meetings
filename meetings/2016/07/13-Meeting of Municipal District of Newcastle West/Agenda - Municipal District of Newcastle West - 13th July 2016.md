@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirbhisi Corpardideacha agus Bainistfocht Athrulthe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Part 8-Cois na Feile, Abbeyfeale
 
 To consider the Deputy Chief Executive’s Report, prepared pursuant to Section 179(3) (a) of
@@ -114,6 +116,7 @@ relief at Balliniongig/Moyvane, Dromcollogher.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -181,6 +184,7 @@ Business Association for their 3 year Christmas Lights Project in Newcastle West
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.

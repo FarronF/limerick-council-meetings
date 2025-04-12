@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhisi Corparaideacha,
 _—_—_—_—_ B ondsa Laliminian Comhairle coher ee
 a leannchea'
@@ -71,6 +72,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Support Services Directorate
@@ -111,6 +113,7 @@ To consider the adoption of the Audit Committee Work Programme
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (f)
@@ -162,6 +165,7 @@ accommodation.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -211,6 +215,7 @@ Strategic Policy Committee Meeting held on 19” February, 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (gs)
 
 (v)
@@ -260,6 +265,7 @@ Act, 2001, as amended.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Economic Development Directorate
@@ -306,6 +312,7 @@ Policy for Urban Areas, in accordance with Section 130 of the Local Government A
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Social Development Directorate
 Local Community Development Committee Annual Report 2017
 
@@ -353,6 +360,7 @@ on 11" April, 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -404,6 +412,7 @@ these reviews will carried out on an annual basis.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -450,6 +459,7 @@ Certificate examination subject.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.

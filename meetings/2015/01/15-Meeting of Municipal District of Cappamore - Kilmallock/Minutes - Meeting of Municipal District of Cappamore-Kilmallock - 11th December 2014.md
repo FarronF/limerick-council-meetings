@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN COMMUNITY
 CENTRE, CAPPAMORE, CO. LIMERICK, ON THURSDAY, 11"
@@ -48,6 +49,7 @@ In the interim where bulbs were being replaced it was with a higher wattage.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Travel and Transportation:
 
 Operations Manager, West & South Division informed the Members that the repairs
@@ -99,6 +101,7 @@ Championship, and
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Gleeson, seconded by Councillor Teefy it was agreed
 to hold the next Monthly Meeting on 15" January, 2015 in Nicker at 3.30pm and to
 receive a Deputation from Pallasgreen Community Council.
@@ -117,6 +120,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

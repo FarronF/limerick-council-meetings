@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ————— Comhairle Cathrach Pn Cchemacemnunenen
 a & Contae Luimnigh Ceanncheathni Chorparaideach,
 ANcrN . Cé na gCeannaithe,
@@ -62,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -135,6 +137,7 @@ behaviour along the Canal Bank and Island Bank in Limerick city”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. N f i i uncillor Conor n
 
 17.
@@ -159,6 +162,7 @@ fines would be recovered by way of attachment of earnings, if applicable”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

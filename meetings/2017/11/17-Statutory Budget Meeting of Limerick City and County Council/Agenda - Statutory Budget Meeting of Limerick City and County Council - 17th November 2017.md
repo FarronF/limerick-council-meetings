@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach _ — oa
 a & Contae Luimnigh alata neces imnig
 XE ‘ Cé na gCeannaithe.
@@ -56,6 +57,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . To determine the proportion of commercial rates refund that applies on vacant
 properties in 2018 within the administrative area of Limerick City and County
 Council, in accordance with the provisions of Section 31 of the Local

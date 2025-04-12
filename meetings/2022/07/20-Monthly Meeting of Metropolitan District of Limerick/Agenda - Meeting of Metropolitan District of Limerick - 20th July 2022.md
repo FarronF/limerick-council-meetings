@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _e_e Comhairle Cathrach Comhairle Gucumatseu Lae
 & Contae Luimnigh Ceanncheathna Chorpardideach;
 “wt” Cé na gCeannaithe,
@@ -46,6 +47,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -99,6 +101,7 @@ the derelict property at 79 Roundwood Estate as to when works will start to refu
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor J. Leddin
 
 | will ask Limerick Metropolitan Council when the planned upgrades of the Children’s Playground in
@@ -144,6 +147,7 @@ extended to Annacotty and Groody/Ballysimon Road as soon as possible
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Notice of Motion submitted by Councillor E. Secas
 
 | will move at the next Meeting that the Metropolitan District of Limerick engage with the Data

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Diiiche Bardais an Chaisledin Nua Thiar,
 Comnhairle Cathrach agus Contue Luimnigh,
 
@@ -67,6 +68,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Plan, in accordance with Section 20 (3)(n) of the Planning and Development Act 2000
 (as amended).
 
@@ -112,6 +114,7 @@ Newcastle West town.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairie Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh Oilfig an Cheantaiy, Aras er ee
@@ -67,8 +68,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -123,6 +126,7 @@ traffic and pedestrians.”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.

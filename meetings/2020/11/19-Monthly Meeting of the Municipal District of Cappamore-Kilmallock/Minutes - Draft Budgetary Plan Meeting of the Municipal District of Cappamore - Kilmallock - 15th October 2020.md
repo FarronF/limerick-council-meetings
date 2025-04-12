@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD
 IN THE DEEBERT HOUSE HOTEL, DEEBERT, KILMALLOCK, CO.
@@ -43,6 +44,7 @@ the Metropolitan District allocation.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The proposed breakdown was outlined as follows:
 
 [ Service _ General Municipal Allocation-2021 Cappamore-Kilmallock MD

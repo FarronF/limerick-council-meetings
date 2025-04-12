@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 
@@ -55,6 +56,7 @@ Circulated, Report of the Director, Physical Development Directorate dated 31* A
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 The Senior Executive Officer stated that it was the intention of Limerick City and County Council
@@ -113,6 +115,7 @@ e Satisfactory design and implementation of Traffic Management Plan in Abbeyfeal
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. eneral Muni LAI ion
 
 It was proposed by Councillor Collins that €5000 be allocated to Glin Rovers Soccer Club to carry
@@ -172,6 +175,7 @@ the lighting system on behalf of the town of Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 E NS
 
 6. Question submitted by Councillor L. Galvin
@@ -240,6 +244,7 @@ REPLY: (a)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 photographic survey. The second was provided by the Department of
@@ -308,6 +313,7 @@ REPLY:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Scanlan, seconded by Councillor Sheahan.
 
 The erection of a suitable directional sign is a matter for the local authority rather
@@ -368,6 +374,7 @@ Proposed by Councillor Sheahan, seconded by Councillor Galvin.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 The Council will bring the above Notice of Motion to the attention of Transport
@@ -400,6 +407,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

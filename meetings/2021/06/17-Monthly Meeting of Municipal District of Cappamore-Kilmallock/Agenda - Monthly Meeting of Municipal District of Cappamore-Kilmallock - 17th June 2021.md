@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh O¥fg art Cheantaiy, Aras Mhaiichin Seoighe,
 
@@ -73,6 +74,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office ¥
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Notice of Motion submitted by Councillor PJ Carey
 
 | will move at the next meeting of the Cappamore-Kilmallock Municipal District that the

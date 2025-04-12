@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 = & Contae Luimnigh
 oo — Limerick Cit
@@ -44,6 +45,7 @@ Cappamore-Kilmallock held on the 18th October, 2018.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
 the 18" October, 2018.
 (Copy enclosed)

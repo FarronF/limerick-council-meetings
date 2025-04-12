@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_— Seirbhisi Corpardideacha agus Bainisttocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -67,6 +68,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -117,6 +119,7 @@ on an ongoing basis.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. | will move at the next Meeting that, given the recently announced ability to adjust speed
 limits at Local Authority level, an audit be undertaken of our residential estates so as to
 introduce appropriate limits therein in the interests of general safety.

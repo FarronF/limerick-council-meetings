@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Sewbhisi Corparaideacha,
 _—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimrugh,
 & Contae Luimnigh Ceanncheathna Chorpardideach.
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Disposal of Land
 
 To note proposal for the disposal of land as follows :
@@ -112,6 +114,7 @@ Government Act 2001 (as amended).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Rural, Community and Culture Development Directorate
 Draft Local Economic and Community Framework Plan 2023 - 2028
 
@@ -161,6 +164,7 @@ timeframe for those works.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
@@ -209,6 +213,7 @@ area by the NTA.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23. Question submitted by Councillor E. O'Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that we write to Irish Rail
@@ -256,6 +261,7 @@ bridges and across other suitable locations in the City.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 30. Notice of Motion submitted by Councillor E. Secas
 
 | will move at the next Meeting of the Metropolitan District of Limerick that we write to An Post
@@ -308,6 +314,7 @@ installed close to dog parks in Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 37. Notice of Motion submitted by Councillor S. Hartigan (to be referred to the Climate Action,
 
 Bi and Environment Strategic Poli mitt

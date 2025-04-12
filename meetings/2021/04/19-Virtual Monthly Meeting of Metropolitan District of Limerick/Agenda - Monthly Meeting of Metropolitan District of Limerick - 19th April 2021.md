@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Comhairle Cathrach
 & Contae Luimnigh
 
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -117,6 +119,7 @@ County Council allocate a permanent sweeper to the Limerick City East area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the Noise
@@ -161,6 +164,7 @@ trees along the border.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting of the Metropolitan District of Limerick can Limerick City and County
@@ -208,6 +212,7 @@ Northside of the city.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. llor J. Costell
 
 | will ask at the next Meeting of the Metropolitan District of Limerick what are the results of the
@@ -242,6 +247,7 @@ Annacotty Weir on the River Mulkear so that lampreys can travel the river freely
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26. Notice of Motion submitted by Councillor E. Secas (to be referred to the Climate Action,
 Biodiversity and Environment Strategic Policy Committee)
 
@@ -293,6 +299,7 @@ development commences within the first two and half years.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 30. Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Travel and
 Trans portation Strategic Policy Committee)
 

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE
 WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
@@ -51,6 +52,7 @@ B04 Local Roads ____| 95,000 :
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community Initiatives
 Special Projects — LA Infrastructure _
 

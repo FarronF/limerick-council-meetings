@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Serbhisi Corpardideacha,
 
 a path oul fennel Comnairle Cathwach agus Contae Luimnigh,
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) Knocklong West, Kilmallock, Co. Limerick (LK5817L).
 (e) 5, Ash Hill, Kilmallock, Co. Limerick (LK5601L).
 
@@ -114,6 +116,7 @@ To note update on Corporate Plan 2024-2029.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (4)
 
 (e)
@@ -173,6 +176,7 @@ and Arts Scheme 2024.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -221,6 +225,7 @@ after reporting a bulb gone on a street light to have the bulb replaced.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -272,6 +277,7 @@ filled in the University Hospital Limerick Oncology Department as soon as possib
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 21.

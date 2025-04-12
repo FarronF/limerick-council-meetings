@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia,
 : 2 ‘om athe . “or '
 
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick. 1 Y @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community Development Directorate
 Great Southern Greenway
 
@@ -89,6 +91,7 @@ To discuss the Ryder Cup due to be held in Adare in 2026.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Drache Bardais an Chaisledin Nua Thiar,
 & Contae Luimnigh Cormbhuairie Cattwach agus Contae Luimnigh,
 
@@ -56,6 +57,7 @@ Corporate Headquarters, Merchant's Quay, Limerick y
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ADJOURNED QUESTIONS
 Questions submitted by Councillor T. Ruddle
 

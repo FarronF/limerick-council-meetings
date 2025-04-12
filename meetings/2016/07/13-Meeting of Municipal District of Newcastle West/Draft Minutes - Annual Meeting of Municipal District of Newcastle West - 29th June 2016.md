@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
 NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY 29™ JUNE, 2016, AT 10.30
@@ -51,6 +52,7 @@ e List of Board Members and their respective titles for the previous 10 years.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Some Members sought clarification from the Chief Officer regarding the criteria for
@@ -106,6 +108,7 @@ Councillors Browne, Foley, Galvin, Sheahan and Scanlan. (5)
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Abstentions:
 Councillor Collins. (1)
 

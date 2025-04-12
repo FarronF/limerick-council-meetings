@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Duiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 10.
@@ -118,6 +120,7 @@ junctions/intersections within Newcastle West be renewed.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

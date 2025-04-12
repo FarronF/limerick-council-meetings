@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 & Contae Luimnigh
 aAanm™. —_ —_—_—_————_————
@@ -73,6 +74,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Abbeyfeale Goods Shed and site will become one of the main Visitor Experiences
 and Service Centre Hubs on the Limerick Greenway. Development to include:
 
@@ -117,6 +119,7 @@ bottom of the Giants Garden, Athea to the graveyard.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -179,6 +182,7 @@ be in line with the recent upgrade of footpaths.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Pe
 
 ——
@@ -67,6 +68,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 
 To note proposal for the disposal of land as follows :
@@ -106,6 +108,7 @@ it is waterlogged every time it rains.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor E. Secas
 
 | will ask at the next meeting that the Council provide the costs of providing water supplies at burial
@@ -152,6 +155,7 @@ the projected timeline until it is open to applications.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor C. Sheehan
 
 | will ask at the next meeting for a full breakdown of the number of houses in Rhebogue broken
@@ -200,6 +204,7 @@ plans are in place for extreme weather conditions and what defines extreme weath
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19. Question submitted by Councillor S. Benson
 
 | will ask at the next meeting for an update on the new Clonmacken development including a
@@ -245,6 +250,7 @@ marketing of the line.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26. Notice of Motion submitted by Councillor O. O’Sullivan
 
 | will move at the next meeting that the Council undertake a campaign to encourage city businesses

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Economic Development and Planning
@@ -108,6 +110,7 @@ flow between the River Shannon and Westfield Lake and visa versa.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor Joe Leddin
 
 . [will move at the next Meeting that Limerick City and County Council carry out
@@ -155,6 +158,7 @@ more permanent designated parking.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor Malachy McCreesh
 
 13.1 will move at the next Meeting that an immediate response is required from
@@ -204,6 +208,7 @@ Merchant's Quay.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Cmhir. Séighin O Ceallaigh
 19.1 will move at the next Meeting that Limerick City and County Council provide a
 

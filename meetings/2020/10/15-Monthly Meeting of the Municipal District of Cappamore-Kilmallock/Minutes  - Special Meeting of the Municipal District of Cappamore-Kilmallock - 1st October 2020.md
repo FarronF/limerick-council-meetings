@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE
 DEEBERT HOUSE HOTEL, DEEBERT, KILMALLOCK, CO. LIMERICK,
@@ -41,6 +42,7 @@ engagement that had taken place prior to the submission of the Part 8 applicatio
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 included meeting with the Elected Members, meeting with local businesses in the Business
 Park and meeting with Kilmallock Partnership group prior to the completion of the Part 8
 application. She confirmed that the location of a Fire Service Training Centre would be very
@@ -88,6 +90,7 @@ whether the Environmental Protection Agency should be consulted on the issue.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Overall, the Elected Members agreed that there were some concerns raised in their
 deliberations that would have to be addressed. They also agreed that a comprehensive
 design should be prepared, incorporating Phase 1 and Phase 2 of the proposed Fire Services
@@ -112,6 +115,7 @@ Cathaoirleach
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

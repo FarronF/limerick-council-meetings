@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN COMMUNITY HALL,
 DROMCOLLOGHER, CO. LIMERICK, ON WEDNESDAY, 3*°° JUNE, 2015,
@@ -52,6 +53,7 @@ West held on 19" May, 2015.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Collins;
 Seconded by Councillor Browne;
 And Resolved:
@@ -103,6 +105,7 @@ estate should be completed as soon as possible.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 The Senior Executive Planner, Economic Development and Planning, outlined the
@@ -160,6 +163,7 @@ the properties.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 A discussion took place in relation to other properties on the Protected Structures List
@@ -215,6 +219,7 @@ Meelin from the Spout, Mountplummer, Broadford.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Asign has been ordered for the above location.
 
 6. Question submitted by Councillor J. Scanlan
@@ -266,6 +271,7 @@ the coming years would also be considered.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Concern was expressed by the Members at the manner in which the General Municipal
 Allocation had been dealt with in 2015. Members were informed that the Chief
 Executive was aware of the concerns raised and had given an undertaking that the

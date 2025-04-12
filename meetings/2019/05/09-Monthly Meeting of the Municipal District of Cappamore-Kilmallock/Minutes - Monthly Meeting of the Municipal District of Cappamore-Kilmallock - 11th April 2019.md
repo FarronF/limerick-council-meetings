@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE OLD IRISH
 WAYS MUSEUM, CAHERGUILLAMORE, BRUFF, CO. LIMERICK, ON
@@ -45,6 +46,7 @@ visit to the Museum.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Matters Arising
 
 The Members expressed their thanks to the Staff and Students of Scoil Pol, Kilfinane for
@@ -92,6 +94,7 @@ month period and reported on.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members welcomed the proposal and commended the City & County Librarian on the
 library facilities and service provided by Limerick City and County Council and hoped that the
 new pilot would encourage greater usage of the Library services.
@@ -135,6 +138,7 @@ all drivers.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It was unanimously agreed to forward this Notice of Motion to Corporate Services for
 inclusion on the Agenda for the Full Council Meeting scheduled for Monday the 29" April,
 2019.
@@ -178,6 +182,7 @@ complete and hoped it would be done before the end of May.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Date for next Meeting
 
 It was agreed to convene the May meeting of the Cappamore-Kilmallock Municipal District in

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrbiiisi Corparaideacha.
 > Comhairle Cathrach agus Contae Luimnigh,
 
@@ -69,6 +70,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation
 
 To consider approving allocations under the General Municipal Allocation to the Local
@@ -106,6 +108,7 @@ To receive a presentation in relation to the Northern Distributor Road.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

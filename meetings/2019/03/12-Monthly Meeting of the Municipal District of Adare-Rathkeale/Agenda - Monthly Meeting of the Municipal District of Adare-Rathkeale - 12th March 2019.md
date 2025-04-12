@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 aa peat Cathrach
 & Contae Luimnigh
 ALN i No
@@ -76,6 +77,7 @@ Ww alimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Deputation from Adare Community Trust
 
 To receive Deputation from Adare Community Trust Group. (Item to be taken at 9.00
@@ -112,6 +114,7 @@ To note update on drainage issues at Courtmatrix.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -164,6 +167,7 @@ adequate explanation as to its reason for the sale of all the Council land at Pa
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

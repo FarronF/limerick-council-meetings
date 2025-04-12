@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK,
 ON THURSDAY, 21% JULY, 2016 AT 3.30 P.M.
@@ -56,6 +57,7 @@ consideration by the Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4, Adoption of Minutes
 
 (a) Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappamore-
@@ -105,6 +107,7 @@ and commitment to the community.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3(b) Mid West National Road Design Office
 
 The Senior Executive Engineer, Mid West National Road Design Office outlined proposals for
@@ -155,6 +158,7 @@ The Cathaoirleach wished the Members and Staff well for the holiday period.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 This concluded the Meeting.
 
 Signed:

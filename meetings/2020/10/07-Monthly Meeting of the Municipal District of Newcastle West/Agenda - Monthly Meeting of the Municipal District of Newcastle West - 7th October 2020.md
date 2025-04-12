@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_— Comhairle Cathrach Den ence eacroddin Mion Thr.
 & Contae Luimnigh Comhaiste Cat a — =
 APN a -_ Gortbui,
@@ -69,6 +70,7 @@ Corporate Headquarters, Merchant's Quay, Limerick v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6.
 
 10.
@@ -122,6 +124,7 @@ Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 14.

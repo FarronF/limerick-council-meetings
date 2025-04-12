@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 _—_—_— Comhairle Cathrach agus Contae Luimnigh.
 
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development Directorate
 Great Southern Trail
 
@@ -102,6 +104,7 @@ Assumpta Park, Newcastle West; (b) The O’Gorman properties along Lower Maiden 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -164,6 +167,7 @@ works be carried out by Irish Water on the water reservoir in Glin, which is lea
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.

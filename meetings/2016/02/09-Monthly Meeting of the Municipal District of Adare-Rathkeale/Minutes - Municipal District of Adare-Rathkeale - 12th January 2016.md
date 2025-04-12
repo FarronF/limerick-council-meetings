@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON TUESDAY, 12™ JANUARY, 2016, AT 9.00 A.M.
@@ -52,6 +53,7 @@ summary. This was seconded by Councillor Neville.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Members indicated that Foynes had not been serviced by proper road/rail and that a high quality
@@ -101,6 +103,7 @@ training.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 Very serious and violent incidents took place in Askeaton, primarily in Church View Estate,
@@ -153,6 +156,7 @@ work on same should be commenced.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In seconding the Motion, Councillor O’Brien indicated that pedestrian crossings were beneficial for
 both the elderly and children and queried their cost and what rationale was used for their
 
@@ -199,6 +203,7 @@ Minister be written to in this regard.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ze Correspondence
 
 Councillor O’Brien expressed his dissatisfaction with the reply from Irish Water regarding the
@@ -246,6 +251,7 @@ were being walked on private land.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Neville indicated that in the mornings the stop/go system for traffic going into Limerick
 City from Ballyneety was not configurated correctly. The Operations Manager, South and West
 Division, indicated that he would look into the matter.

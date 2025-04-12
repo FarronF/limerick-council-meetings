@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 & Contae Luimnigh
 
@@ -70,6 +71,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) 1, Saint Peter Street, Limerick (deferred from November Meeting)
 (b) 55, Keane Street, Killalee, Limerick.
 
@@ -132,6 +134,7 @@ Transportation Strategic Policy Committee.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -191,6 +194,7 @@ Strategic Policy Committee held on 6 December, 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iv) Chairperson’s Report — Meeting of Travel and Transportation Strategic
 Policy Committee held on 14'* December, 2021.
 
@@ -234,6 +238,7 @@ Bord Pleandla at Aughinish Alumina Limited.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Community. Tourism and Culture
 
 (a) Discover Limerick DAC Funding
@@ -270,6 +275,7 @@ vehicles and energy usage, in line with Government climate action policy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -321,6 +327,7 @@ property, in the past three years.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -367,6 +374,7 @@ Limerick City and County Museum.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Notice of Motion submitted by Councillor L. Galvin

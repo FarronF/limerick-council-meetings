@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 = & Contae Luimnigh
 * — Limerick C
@@ -78,6 +79,7 @@ customerservices@limerick.ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mid West National Road Design Office
 Proposed N21 Coolanoran Traffic Calming Scheme
 
@@ -118,6 +120,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

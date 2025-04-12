@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——_ Comhairle Cathrach PB sorte oe tccerticlpontpelden 5
 & Contae Luimnigh omhaiile Cathrach agus Contae Luimnag!
 Avas William Smith OBnen
@@ -69,6 +70,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -119,6 +121,7 @@ Soccer Club Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

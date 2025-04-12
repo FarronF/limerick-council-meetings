@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirdhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 lay oN. ia ‘ Cé na gCeannaithe,
@@ -63,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development Directorate
 
 Deferral of notices to make a new Local Area Plan for Cappamore and extend the

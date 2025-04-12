@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
 DISTRICT OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE
 ROAD, RATHKEALE, CO. LIMERICK ON TUESDAY, 14™ JULY, 2015, AT
@@ -54,6 +55,7 @@ Playgrounds.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor O'Brien and seconded by Councillor Neville agreement was
 reached that the remaining €50,000 on Special Projects would be allocated for the
 construction and provision of a rescue and recreational slipway at Ringmoylan Quay,

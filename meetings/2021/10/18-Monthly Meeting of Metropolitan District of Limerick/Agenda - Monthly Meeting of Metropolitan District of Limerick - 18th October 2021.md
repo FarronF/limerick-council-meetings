@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Selrbhis{ Corparsideacha
 2 : Comhairle Cathrach agus Contae Lutmnigh,
 "”™ & Contae Luimnigh Ceanncheathrii Chorparaideach,
@@ -50,6 +51,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - $7150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Minutes
 To adopt Minutes of the following Meetings:
 
@@ -91,6 +93,7 @@ City and County Council residential properties currently listed for sale or disp
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for the list of all the Approved
@@ -136,6 +139,7 @@ the Old Garda Barracks in Lord Edward Street.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Question submitted by Councillor J. Costelloe
 
 | will ask at the next Meeting of the Metropolitan District of Limerick who is responsible for the
@@ -180,6 +184,7 @@ in the upcoming budget.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21. Question submitted by Councillor O. O’Sullivan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the rollout of
@@ -217,6 +222,7 @@ residences and businesses).
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 27. Notice of Motion submitted by Councillor S. Hartigan
 
 | will move at the next Meeting of the Metropolitan District of Limerick, that Limerick City and

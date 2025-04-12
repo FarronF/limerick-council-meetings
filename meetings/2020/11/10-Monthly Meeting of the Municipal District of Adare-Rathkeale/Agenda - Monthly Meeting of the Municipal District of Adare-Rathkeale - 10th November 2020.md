@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach : Cearter Gardasech Ath Dara-Rath Caola
 s s Somhairie Cathrach agus Contae Luimrigh,
 
@@ -54,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -94,6 +96,7 @@ discuss the future of the Industrial Park Lands in Askeaton.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

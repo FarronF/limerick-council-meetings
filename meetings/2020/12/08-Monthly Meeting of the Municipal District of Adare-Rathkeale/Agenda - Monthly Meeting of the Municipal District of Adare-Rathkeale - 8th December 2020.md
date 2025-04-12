@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 ry Comhairle Cathrach agus Contae Luimnigh,
 ——- & Contae Luimnigh ieee Sani Fawr
@@ -68,6 +69,7 @@ Corporate Headquarters, Merchants Quay, Limerick. v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Operations and Maintenance Services
 District Engineers Report
 
@@ -100,6 +102,7 @@ Park, Rathkeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 ——— & Contae Luimnigh
 SN Limerick city
@@ -69,6 +70,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest.
 
 3. Disposal of Land
@@ -109,6 +111,7 @@ the boat club at UL and what financial resources are available for this maintena
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor D. McSweeney
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a breakdown of the
@@ -154,6 +157,7 @@ in the Metropolitan District are vacant and what is the breakdown by electoral a
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor S. Kiely
 
 | will ask at the next Meeting of the Metropolitan District of Limerick how much was granted to
@@ -196,6 +200,7 @@ housing list.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22. Question submitted by Councillor C, Slattery
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, can Limerick City and County
@@ -243,6 +248,7 @@ for maintenance of active travel routes.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28. Notice of Motion submitted by Councillor E. O’Donovan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that this Council will write

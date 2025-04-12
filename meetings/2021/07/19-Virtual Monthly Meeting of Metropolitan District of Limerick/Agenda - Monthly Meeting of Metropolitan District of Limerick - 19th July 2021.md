@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach
 —_ & Contae Luimnigh
 a — Limerick Ci
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Di of Land
 To note proposal for the disposal of land as follows:
 
@@ -110,6 +112,7 @@ the city area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor S. Kiely
 
 | will ask at the next Meeting of the Metropolitan District of Limerick how many Approved Housing
@@ -154,6 +157,7 @@ update on when the King John’s / Limerick Castle station will be reopened.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 14. Notice of Motion submitted by Councillor O. O’Sullivan
@@ -198,6 +202,7 @@ campaign to promote the purchase of dog licences in Limerick City and County.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ! will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
 County Council revive the twinning partnership with the City of Quimper in France and re-establish
 the longstanding connection between the two cities.

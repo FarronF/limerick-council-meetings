@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ie Comhairle Cathrach
 & Contae Luimnigh
 rr
@@ -69,6 +70,7 @@ mm customerservices@limerickie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest
 
 3. Disposal of Land
@@ -111,6 +113,7 @@ Road, Raheen, Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 6. Question submitted by Councillor D. Butler
 
@@ -161,6 +164,7 @@ disappeared to and can it be reinstated immediately.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Question submitted by Councillor P. Reale
 
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the rollout
@@ -211,6 +215,7 @@ what ongoing remediation works will be completed in 2025.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next meeting of the Metropolitan District of Limerick how many presentation of
@@ -261,6 +266,7 @@ a humanitarian hub in the Southside of Limerick City.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 29. Notice of Motion submitted by Councillor M. Donoghue
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the owners of the

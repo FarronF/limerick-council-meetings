@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——_ Comhairle Cathrach
 & Contae Luimnigh
 ars —_—_—_—_—_—_—_——
@@ -69,6 +70,7 @@ m Customerservices@limerick.ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 (a) Disposal of Freehold Interest of premises consisting of a dwelling house situate
@@ -106,6 +108,7 @@ and how many have been resolved.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor E. Secas
 
 Overlaying of Upper Carey's Road was included in the three year programme 2016-2019 and
@@ -147,6 +150,7 @@ and Bedford Row between January 2019 and January 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor C. Slattery
 
 1 will ask at the next meeting, regarding verges and roundabouts left to grow for bee
@@ -180,6 +184,7 @@ compliance the cost of waste collection is added to the customers rent bill.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Notice of Motion submitted by Councillor S$. Novak Ui Chonchuir (to be referred to
 
 | will move at the next meeting that the Council introduces a litter bin tagging system (QR
@@ -227,6 +232,7 @@ who have given over 20 years of their working lives to the Company.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23. Notice of Motion submitted by Councillor O. O’Sullivan
 
 | will move at the next meeting that the Council seek an explanation from Shannon Heritage

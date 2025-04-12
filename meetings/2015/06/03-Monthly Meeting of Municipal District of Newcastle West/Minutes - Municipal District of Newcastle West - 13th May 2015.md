@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN THE FIRE
 STATION, ABBEYFEALE, CO. LIMERICK, ON WEDNESDAY 13th May,
@@ -45,6 +46,7 @@ of safety and visibility regarding the proposal.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A lengthy discussion ensued and on the proposal of Councillor Sheahan, seconded
 by Councillor Galvin, it was unanimously agreed to proceed with the removal of 4 car
 parking spaces on the southern side of Main Street, Abbeyfeale.

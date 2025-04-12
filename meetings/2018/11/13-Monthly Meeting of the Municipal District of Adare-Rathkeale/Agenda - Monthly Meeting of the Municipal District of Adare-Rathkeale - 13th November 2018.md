@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_ Comhairle Cathrach
 & Contae Luimnigh
 aM OO
@@ -83,6 +84,7 @@ WY @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation (GMA) 2018
 
 To review position in relation to allocations under the General Municipal Allocation 2018.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A Comhairle Cathrach
 == & Contae Luimnigh
 am. Li ick Cit
@@ -77,6 +78,7 @@ Corporate Headquarters, Merchants Quay, Limerick (063 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. To consider the Capital Programme 2025 to 2029 in accordance with Section 135
 (2) of the Local Government Act, 2001, as amended by the Local Government
 Reform Act, 2014 and Local Government (Mayor of Limerick) and Miscellaneous

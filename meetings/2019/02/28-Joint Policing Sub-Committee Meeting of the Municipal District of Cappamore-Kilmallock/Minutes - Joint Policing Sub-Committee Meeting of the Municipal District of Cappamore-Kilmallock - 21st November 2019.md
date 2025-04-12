@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -48,6 +49,7 @@ should be left on display in cars.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Superintendent referred to increased liaison between An Garda Siochana and Limerick
 City & County Council whereby Exclusion Orders had been served on tenants of local authority
 housing under Housing Legislation. He confirmed that this was an important measure in

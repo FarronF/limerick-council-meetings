@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 pe Comhairle Cathrach Seirbhisi Comardideacha,
 PY Py Comhairle Cathvach agus Contac Ludmnigh,
 & Contae Luimnigh Ceanncheathré Chorparaideach,
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 21.

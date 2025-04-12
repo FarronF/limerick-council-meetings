@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . Sewbhisi Corparaideacha,
 ell Comhairle Cathrach Comhairle Cathrach agus Contae Luimragh
 & Contae Luimnigh Ceanncheathni Chorperdideach:
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Guay, Limerick . 061-
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Service Operations Directorate
 
 Planning and Environmental Services
@@ -101,6 +103,7 @@ Castle Station might take place and why there is currently a delay with this sch
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 9. Question submitted by Councillor E, O’Donovan
@@ -147,6 +150,7 @@ issued so far this year, how many were paid and how many have resulted in prosec
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 16. Question submitted by Councillor C. Sheehan
 
@@ -188,6 +192,7 @@ pedestrian crossings in the Metropolitan Area.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 23. Notice of Motion submitted by Councillor E. O'Donovan
@@ -226,6 +231,7 @@ to provide access to daytime facilities and appropriate supports, as a matter of
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 28. Notice of Motion submitted by Councillor S. Benson

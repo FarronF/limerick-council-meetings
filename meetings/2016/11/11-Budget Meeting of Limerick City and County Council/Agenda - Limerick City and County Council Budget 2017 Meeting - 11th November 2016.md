@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ —-_£ Seirbhis{ Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -55,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick FE lresterreieae
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . To determine the proportion of commercial rates refund that applies on vacant
 properties in 2017 within the administrative area of Limerick City and County
 Council, in accordance with the provisions of Section 31 of the Local

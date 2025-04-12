@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Comhairle Cathrach Duiiche Bardais an Chaisledin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contae Lulmnigh.
 Te Aras William Smith OBrien,
@@ -61,6 +62,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) To note proposal for the disposal of 1— 10 Cois Na Féile, Abbeyfeale, Co.
 
 (e) To note proposal for the disposal of Property at 69 Castleview Estate, Newcastle
@@ -107,6 +109,7 @@ To receive Update on Distributor Roads for Newcastle West and Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 14,

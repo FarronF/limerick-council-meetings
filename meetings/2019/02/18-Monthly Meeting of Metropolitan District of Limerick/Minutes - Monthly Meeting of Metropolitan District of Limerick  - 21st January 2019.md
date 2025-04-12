@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE COUNCIL CHAMBER, MERCHANT'S QUAY, LIMERICK, ON MONDAY, 21% JANUARY, 2019 AT
 9.45 A.M.
@@ -50,6 +51,7 @@ Champions Cup, and the positive experience had by the visiting Exeter Supporters
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Capital Investment Directorate
 
 Pp ure-G Pl Rosbrien Road
@@ -105,6 +107,7 @@ e 7% levy of the market value of the vacant site will be charged 1* January 2020
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ms S. Hourigan, in her role as Vacant Homes Officer, outlined that the Councils objectives in
 relation to vacant homes were mapping of vacant homes to gain an accurate picture of vacancy
 and re-activation of vacant homes in particular in areas of high demand for social housing.
@@ -155,6 +158,7 @@ Total 35 families including 52 adults and 69 children.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mid West Simon Family Hub, Dublin Road:
 
 7 single parents with 14 children
@@ -211,6 +215,7 @@ meeting of 12" February, 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 8. Question submitted by Councillor S. Lynch
@@ -263,6 +268,7 @@ collection arrangement.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 11. Question submitted by Comhairleoir S. 6 Ceallaigh
@@ -318,6 +324,7 @@ to funding.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 14. Question submitted by Councillor J. Costello
@@ -394,6 +401,7 @@ List of approved properties:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17 The Gables, Pennywell
 20 Parkview
 
@@ -459,6 +467,7 @@ extended until 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 The zoning is Open Space and Recreational.
@@ -515,6 +524,7 @@ groups with the below amounts, out of the General Municipal Allocation:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 St. Mary’s Adult Education Centre
 St. Mary’s Prize Band
 
@@ -577,6 +587,7 @@ This Motion was proposed by Councillor Leddin, seconded by Cllr Lynch and agreed
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Leddin and seconded by Cllr Lynch, it was agreed to allocate €3,000
 to the following:
 
@@ -626,6 +637,7 @@ Development Directorate to commence work on this in the first quarter of 2019.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion Councillor Hogan welcomed the audit and queried with the Executive
 the timeframe for completion date of the audit.
 
@@ -677,6 +689,7 @@ suspended in order to complete the Agenda.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13
 
 23. Notice of Motion submitted by Councillor M. Hurley
@@ -730,6 +743,7 @@ the number of unoccupied council owned houses.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14
 
 REPLY: The Service Operations Section are currently working on a review of both the

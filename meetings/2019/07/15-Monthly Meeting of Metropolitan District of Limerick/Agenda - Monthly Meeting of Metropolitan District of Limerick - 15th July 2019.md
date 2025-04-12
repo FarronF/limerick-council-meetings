@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Comhairle Cathrach Corhairie Cateacheent C = reer
 i™ & Contae Luimnigh Ceanncheathni Chorpardideach,
 NrN ees Cé na gCeannaithe.
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - S57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Disposal of Land
 
 To note proposal for the disposal of land as follows;
@@ -109,6 +111,7 @@ on it which is quite dangerous with oncoming traffic.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 8. Question submitted by Councillor C. Sheehan
 
@@ -157,6 +160,7 @@ yet to commence.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 NOTICES OF MOTION
 

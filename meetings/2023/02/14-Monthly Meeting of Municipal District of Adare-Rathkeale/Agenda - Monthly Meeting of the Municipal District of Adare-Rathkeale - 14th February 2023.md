@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
 & Contae Luimnigh Comharie Cathrach agus ¢ a ae
 > > e
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick. 1 @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Urban & Rural Community Development
 Askeaton Public Realm Plan
 
@@ -100,6 +102,7 @@ being available.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

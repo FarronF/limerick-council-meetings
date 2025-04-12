@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 ars ———~ a
@@ -74,6 +75,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 (d)
 {e)
@@ -137,6 +139,7 @@ To consider Chief Executive’s Report for the months of June, July and August
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -199,6 +202,7 @@ Meeting scheduled for 20" October, 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Community. Tourism and Culture
@@ -249,6 +253,7 @@ be held in Carlingford, Co. Louth, from 1* to 3" October, 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -294,6 +299,7 @@ in the interests of safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

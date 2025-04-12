@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 gL Comhairle Cathrach
 & Contae Luimnigh
 An ~~ — —
@@ -77,6 +78,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -131,6 +133,7 @@ as that fronting properties towards House No. 20 on the left hand side therein.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -195,6 +198,7 @@ passengers travelling South West and the other serving passengers going North Ea
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21. —_‘ It will move at the next Meeting that Limerick City and County Council look at the
 cleaning and security of Newcastle West playground. In recent times the playground
 has become an area for littering and anti social behaviour.

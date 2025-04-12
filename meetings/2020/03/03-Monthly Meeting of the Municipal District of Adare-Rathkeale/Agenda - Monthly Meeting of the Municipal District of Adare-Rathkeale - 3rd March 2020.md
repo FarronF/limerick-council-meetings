@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnugh,
 
@@ -64,6 +65,7 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © weunilimerick.te
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 I - 202
 
 To consider the Chief Executive’s Report dated 21" February 2020 on the proposed
@@ -100,6 +102,7 @@ authorisation to become a Building Society.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach Duliche Bardais an Chaisledin Nua Thiar
 : Camihnairie Cathrach agus Contae Luimnigh.
 an i = = ee Aras William Smith OBrien
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -108,6 +110,7 @@ Orchard housing estate, Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.

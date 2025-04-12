@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ditiche Bardais an Chaisledin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
@@ -58,6 +59,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -106,6 +108,7 @@ Plan and also when can we expect work to being on the new car park.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.

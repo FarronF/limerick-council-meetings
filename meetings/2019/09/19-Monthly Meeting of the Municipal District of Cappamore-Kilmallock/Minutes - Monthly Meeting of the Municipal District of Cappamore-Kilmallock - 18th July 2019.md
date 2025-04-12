@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -48,6 +49,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 {iii} | Circulated, copy of draft Minutes of Special Meeting of the Municipal District of
 Cappamore-Kilmallock held on the 2" July, 2019.
 
@@ -93,6 +95,7 @@ and gave an overview of the proposed Kilmallock Local Area Plan 2019-2025, She a
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 through each submission received in relation to it and the proposed response to each
 submission by Limerick City & County Council.
 
@@ -138,6 +141,7 @@ Upgrade to Inlet Works
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Please note Hospital will require planning permission, which our consultants are currently
 preparing the application for. Hospital forms part of the Waste Water Treatment Plant
 Upgrade Contract 2.
@@ -183,6 +187,7 @@ raised pedestrian crossing, which will be going ahead later this year.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 While a recent funding application through the Low Cost Safety Scheme for additional works
 at this location was unsuccessful, a tender is currently being placed by Central Services for
 the provision of Driver Feedback Signs, which also includes 10 No. for the Cappamore-
@@ -227,6 +232,7 @@ the Department in advance, with works commencing upon receipt of approval.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 To manage the issue, we are in the process of introducing a fast-track process that will see a
 pilot project being launched to return 30 of the properties in the coming months, After the
 first phase is completed, we will move to return more of the properties in batches of 30.
@@ -273,6 +279,7 @@ been met by installation in two waves.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Wave i
 Currently the Smart CCTV project Wave 1 is in transition (test) status.
 
@@ -334,6 +341,7 @@ their applications under the DoJ Community CCTV Scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In November 2018, we secured €334,573 in funding from the Community CCTV Scheme of
 the Department of Justice for the 14 towns included in the Smart CCTV Project. This allows
 us now to complete Wave 2 of the project and also to maintain sufficient funding for the
@@ -379,6 +387,7 @@ meeting will occur shortly after the summer period.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor Martin Ryan
 
 | will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an
@@ -423,6 +432,7 @@ suggested items for this proposed meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 ¢ Vote of Sympathy

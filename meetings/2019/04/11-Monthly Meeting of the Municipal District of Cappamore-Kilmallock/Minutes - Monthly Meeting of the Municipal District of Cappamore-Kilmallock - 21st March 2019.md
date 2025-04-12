@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN SCOIL POL
 SECONDARY SCHOOL, KILFINANE, CO. LIMERICK, ON THURSDAY,
@@ -49,6 +50,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Presentation on the proposed Trailhead Visitor Centre and
 
 facilities at Ballyhoura
@@ -95,6 +97,7 @@ land at 22 Mullally Lawn, Cappamore, Co.Limerick. It was intended to bring the
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 proposed disposal to the Full Council for approval. The Members noted the
 report as circulated.
 
@@ -138,6 +141,7 @@ Directorate dated 8'* March, 2019, which was noted by the Members.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions
 5. uestion submitted by Councillor Ger Mitchell
 
@@ -184,6 +188,7 @@ Council review the traffic calming measures in the proximity of Scoil P6l Second
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the National School, and the GAA Grounds in Kilfinane with a view to possibly installing
 speed ramps.
 
@@ -230,6 +235,7 @@ funded in a voluntary capacity.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Speed Ramps Galbally
 
 The Members thanked the Council for the recent work carried out on the provision of speed

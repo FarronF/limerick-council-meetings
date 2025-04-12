@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8" February, 2022.
 
 To: The Mayor and Each Member of Limerick City and County Council

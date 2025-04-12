@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 & Contae Luimnigh
 ar” vs ~\
@@ -59,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -121,6 +123,7 @@ linking Lower Park and Rhebogue be included in the tender.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the detailed
@@ -167,6 +170,7 @@ completing this master plan.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor S. Hartigan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a report on energy efficiency
@@ -209,6 +213,7 @@ to city centre active travel project.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19. Question submitted by Councillor S. Novak Uf Chonchuir
 
 | will ask at the next Meeting of the Metropolitan District of Limerick can the Council outline plans
@@ -243,6 +248,7 @@ connects.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 24. Notice of Motion submitted by Councillors S. Benson and S. Hartigan
 
 At the next Meeting of the Metropolitan District of Limerick, we will ask that Limerick City and

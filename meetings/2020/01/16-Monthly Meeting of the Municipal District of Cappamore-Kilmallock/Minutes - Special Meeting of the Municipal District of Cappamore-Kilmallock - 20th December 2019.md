@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -46,6 +47,7 @@ with distinction as @ Councillor over the following decades, He paid tribute to 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 describing him as a gentleman who was very intelligent and performed very effectively as a
 Councillor.
 

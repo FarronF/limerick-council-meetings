@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Sm Comhairle Cathrach Ce oe a an a) Nua Thar,
 imn ‘athrach agus Contae Luimnigh,
 & Contae Lu igh Aras Wiliam Smith O'Brien
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 10.
@@ -113,6 +115,7 @@ with the start dates for the works at:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -185,6 +188,7 @@ problem in Collins Park, Abbeyfeale.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 N Motion submi illor J. Sheahan

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Avas William Smith O'Brien,
 
 Comhairle Cathrach Duliche Bardais an Chaisledin Nua Thiar,

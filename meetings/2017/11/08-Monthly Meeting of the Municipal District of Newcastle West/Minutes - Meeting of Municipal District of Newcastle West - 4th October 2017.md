@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN KANTOHER BUSINESS
 PARK, KILEEDY, CO. LIMERICK ON WEDNESDAY, 4th OCTOBER, 2017,
@@ -52,6 +53,7 @@ Feasibility Impact Study later in the Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Deputation
 
 The Cathaoirleach welcomed representatives from Kantoher Development Group and outlined
@@ -111,6 +113,7 @@ the following:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ €3,500 to lights on the R515.
 e €1,000 to lights for Feenagh Cemetery.
 
@@ -162,6 +165,7 @@ Newcastle West to sit on the Board.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agreed to nominate
@@ -219,6 +223,7 @@ will be advised as soon as a decision has been made by Irish Water.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Irish Water generally does not attend District Meetings but will be happy to meet
 with the Members on the clinic meetings in Dooradoyle. Two elected Members
 attended the most recent clinic on 25" September. Irish Water will contact the
@@ -276,6 +281,7 @@ draft Bye-Laws are currently being prepared.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The revised proposals and the draft Bye-Laws will be brought before the November
 Municipal/Metropolitan District Meetings.
 NOTICES OF MOTION

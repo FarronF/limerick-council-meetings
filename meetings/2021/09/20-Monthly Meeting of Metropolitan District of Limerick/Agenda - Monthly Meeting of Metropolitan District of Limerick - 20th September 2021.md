@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 pe E Comhairle Cathrach
 ; & Contae Luimnigh
 Am SS
@@ -55,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows :
 
@@ -100,6 +102,7 @@ ownership are currently boarded up and for how long these houses are unoccupied.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor J. Leddin
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that Limerick Metropolitan
@@ -146,6 +149,7 @@ plan to introduce choice based letting which was supposed to be introduced over 
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor J. Costelloe
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, in relation to the site at Sheep
@@ -188,6 +192,7 @@ streets that currently cannot cater for two way traffic and on street parking.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Notice of Motion submitted by Councillor C. Slattery
 
 1 will move at the next Meeting of the Metropolitan District of Limerick that the Council do a

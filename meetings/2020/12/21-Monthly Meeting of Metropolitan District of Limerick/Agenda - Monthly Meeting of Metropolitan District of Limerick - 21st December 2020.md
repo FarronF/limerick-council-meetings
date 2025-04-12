@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Sebbhisi Corpardideacha,
 ae ne pled — Comhairle Cathrach agus Contae Luimnigh,
 ontae Luimnig Ceanncheathns Chorperaideach,
@@ -49,6 +50,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows :
 
@@ -95,6 +97,7 @@ their properties.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting for an update on when derelict houses in Kennedy Park and Hyde Road
@@ -136,6 +139,7 @@ infrastructure.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14, Question submitted by Councillor J, Costelloe
 
 | will ask at the next meeting how many fines have been issued in relation to illegal dumping in the
@@ -180,6 +184,7 @@ Northern Distributor Road and allow this vital project to continue to proceed as
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Notice of Motion submitted by Councillor C. Slattery
 
 | will move at the next Metropolitan Meeting that a pedestrian crossing be installed outside
@@ -221,6 +226,7 @@ in St. Marys Park given that the issues of safety and ASB are of serious concern
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26. Notice of Motion submitted by Councillor C. Sheehan
 
 | will move at the next meeting of Limerick Council that this Council pledges its support for the

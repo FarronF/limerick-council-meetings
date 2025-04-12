@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7 ——_ Comhairle Cathrach
 & Contae Luimnigh
 Ane —<—@—
@@ -71,6 +72,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 The construction of the Limerick Greenway Hub @ Newcastle West.
@@ -123,6 +125,7 @@ where they are uneven.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -187,6 +190,7 @@ side of Castletown Village.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.

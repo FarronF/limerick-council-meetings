@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Comhairle Cathrach
 & Contae Luimnigh
 ars i“ ~N : —_——_—_———
@@ -86,6 +87,7 @@ VY @limerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -134,6 +136,7 @@ ramps are disintegrating.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.

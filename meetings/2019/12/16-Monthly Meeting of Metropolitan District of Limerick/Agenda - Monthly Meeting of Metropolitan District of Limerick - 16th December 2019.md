@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach CccctaiiaCiee etne ocpis Cornea Lulmrigh
 & Contae Luimnigh Ceanncheathni Chorparaideach,
 NOS [SS Cé na gCeannaithe.
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 To consider the taking in charge of the following housing estates in accordance with Section 180 of
 the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993:
 
@@ -90,6 +92,7 @@ Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 QUESTIONS
 
@@ -135,6 +138,7 @@ in the student villages.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 12. Question submitted by Councillor S. Benson
@@ -184,6 +188,7 @@ SMEs who can show they cannot afford to pay the living wage.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 19. Notice of Motion submitted by Councillor S. Benson (to be referred to the Climate Action,
@@ -227,6 +232,7 @@ weather is mild to combat the poor air quality in Limerick caused by the burning
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 25. Notice of Motion submitted by Councillor C. Sheehan (to be referred to the Travel and

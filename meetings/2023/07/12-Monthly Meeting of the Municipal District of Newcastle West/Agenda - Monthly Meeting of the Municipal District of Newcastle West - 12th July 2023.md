@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Comhairie Cathrach PE —_ =o Hr Thiar,
 & Contae Luimnigh Aras William Smith OBrien.
 7k LO os ———
@@ -64,6 +65,7 @@ Corporate Headquarters, Merchant's Quay, Limerick v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -114,6 +116,7 @@ evening.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.

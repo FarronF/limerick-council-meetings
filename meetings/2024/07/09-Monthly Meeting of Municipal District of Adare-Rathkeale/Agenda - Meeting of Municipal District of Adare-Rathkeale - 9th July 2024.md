@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_— Comhairle Cathrach
 & Contae Luimnigh
 AN I 7S
@@ -75,6 +76,7 @@ VY @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -118,6 +120,7 @@ Council.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

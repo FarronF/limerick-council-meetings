@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD
 IN ARAS MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO.
@@ -57,6 +58,7 @@ unicipal Allocation-2019
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation
 
 The Director noted that the Special Projects-LA Infrastructure, in the sum of €100,000, was

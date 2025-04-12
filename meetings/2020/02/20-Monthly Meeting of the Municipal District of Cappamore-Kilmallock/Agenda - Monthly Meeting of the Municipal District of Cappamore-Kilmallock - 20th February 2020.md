@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __ Comhairle Cathrach Comranie Catt nay agus area Luimnigh,
 
 z dig an Cheantat, Aras Mhainchin Seoighe,
@@ -61,6 +62,7 @@ Limerick City and County Council. Aras Mainchin Seoighe Area Office v
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Capital Investment Directorate
 
 Disposal of Property
@@ -105,6 +107,7 @@ Bulgaden, Meanus, Grange, Bruff, Garrydoolis and Templebraden.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Notice of Motion submitted by Councillor Martin Ryan
 
 | will move at the next meeting of the Municipal District of Cappamore-Kilmallock that

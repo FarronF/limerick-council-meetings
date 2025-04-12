@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Sesbhis\ Compartédeacha,
 & Contae Luimnigh Com)naitle Cathwach agus Contae Luimnigh,
 
@@ -58,6 +59,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 (c) Disposal of Freehold Interest of premises consisting of a dwelling house situate at Tervoe,
@@ -103,6 +105,7 @@ in relation to the O’Connell Street Revitalisation Project.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 QUESTIONS
 
@@ -145,6 +148,7 @@ completion dates, amount of units per project and breakdown of size of units.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 12. Question submitted by Councillor B. Leddin
 
@@ -189,6 +193,7 @@ progress this project.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 19. Notice of Motion submitted by Councillor J. Costelloe

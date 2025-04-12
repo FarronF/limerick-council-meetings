@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 TUESDAY, 11™ JUNE, 2019 AT 9.30 A.M.
@@ -48,6 +49,7 @@ allocate the following from Councillor McMahon's allocation:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, Councillor
 O’Brien requested the support of all Councillors at the annual Gandelow Races at
 Ringmoylan Pier on Saturday the 15th June, 2019 at 6pm.

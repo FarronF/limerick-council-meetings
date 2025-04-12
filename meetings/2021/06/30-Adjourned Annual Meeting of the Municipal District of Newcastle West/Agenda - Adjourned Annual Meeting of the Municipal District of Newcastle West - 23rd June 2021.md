@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach Diliche Berdale — otea' =
 — gh Aras Wiliam Smith O'Brien,
 aArN i“ =

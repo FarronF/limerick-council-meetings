@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE AND ON-LINE, ON
 THURSDAY, THE 20" MARCH 2025 AT 3.00PM.
@@ -46,6 +47,7 @@ Cappamore-Kilmallock held on 20" February, 2025.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by: Councillor Stokes
 Seconded by: Councillor Conway
 
@@ -90,6 +92,7 @@ Seconded by: Councillor M. Ryan;
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 And Resolved.
 
 “That the Part 8 in relation to the proposed housing development at former Garda Station,
@@ -140,6 +143,7 @@ Bruff Afterschool Project
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Colmanswell Community Council
 
 Doon District & Mens Shed
@@ -198,6 +202,7 @@ Rockhill/Bruree Tidy Towns
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions
 
 7. Question submitted by Councillor O’Sullivan
@@ -243,6 +248,7 @@ funding calls.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Conway
 
 | will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an
@@ -286,6 +292,7 @@ can be their main way of communicating when out in public.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Notice of Motion was proposed by Cllr Stokes, seconded by Cllr M. Ryan, and
 agreed.
 
@@ -335,6 +342,7 @@ The Notice of Motion was proposed by Cllr Teefy, seconded by Cllr M, Ryan, and a
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 The Roads Engineer for the Cappamore-Kilmallock Municipal District will review the

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
 GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 3°
@@ -53,6 +54,7 @@ And Resolved:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the approval of the District be and is hereby given to the making of Standing Orders
 in accordance with Part 6 and Schedule 10 of the Local Government Act, 2001 as
 amended by the Local Government Reform Act, 2014 and in accordance with the Local
@@ -101,6 +103,7 @@ present scheme but that the Council’s Roads Section would investigate the matt
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions submitted by Councillor J. Scanlan
 
 4. ! will ask if immediate action can be taken to address the issue of footpath
@@ -154,6 +157,7 @@ Galvin.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Question submitted by Councillor M. Collins
 
 10. 1 will ask if a plan for the Monagea Road from Knockane towards the 80 kph
@@ -209,6 +213,7 @@ design
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 Notice of Motion submitted by Councillor L. Galvin
@@ -262,6 +267,7 @@ land owner.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor J. Sheahan
 
 15. 1 move that the drinking water supply in Glin be brought to a standard that it
@@ -321,6 +327,7 @@ District of Newcastle West.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Local Government Reform Act 2014
 
 At this point the Cathaoirleach indicated that the remainder of the Meeting would be held

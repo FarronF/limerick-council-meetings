@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -48,6 +49,7 @@ the Agenda again for the November 2018 Municipal District Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. cial D °} orate
 U e on C Deve wn & Vill Renewal
 initiatives.
@@ -94,6 +96,7 @@ University of Limerick in preparing a design project focussed on the northern en
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Kilmallock (around the new footbridge), looking at how this threshold approach to Kilmallock
 could be improved.
 
@@ -145,6 +148,7 @@ level.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 5. uestion submitted by Councillor Mitchell
 
@@ -187,6 +191,7 @@ the east of the graveyard in front of a private dwelling.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Council will investigate the option of providing 4-6 car parking spaces at
 the graveyard. This will require the acquisition of a small amount of land to
 the west of the graveyard and the replacement of the existing hedgerow with
@@ -233,6 +238,7 @@ Municipal District Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 * Deputation
 
 On the proposal of Councillor Sheehy, seconded by Councillor Donegan, it was agreed to

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach Seirbhisi Corparaideacha
 Comnhairie Cathrach agus Contae Luimnigh,
 ~~ & Contae Luimnigh Cearncheathré Chorparaideach,
@@ -53,6 +54,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -97,6 +99,7 @@ acquire more land at Kilmurry or create another cemetery for Castletroy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 7. Question submitted by Councillor J. Leddin
 | will ask at the next Meeting can Limerick City and County Council consider the placement of
@@ -142,6 +145,7 @@ contracts,
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 14. Question submitted by Councillor S. Benson
 
@@ -186,6 +190,7 @@ frequency of spraying and reduce the volume of herbicides used.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | propose that Limerick City and County Council write to the Minister for Health demanding that
 immediate emergency funding be made available to provide sufficient bed spaces and staff for
 the safe and efficient functioning of the hospital.
@@ -228,6 +233,7 @@ Barrington Street to the standard set out in the Design Manual for Urban Roads a
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next Meeting that our Metropolitan Council follow through on our support for
 Limerick football and provide start up funds, from our GMA funding, to enable Limerick United
 and it’s Academy continue its work for soccer football in Limerick.

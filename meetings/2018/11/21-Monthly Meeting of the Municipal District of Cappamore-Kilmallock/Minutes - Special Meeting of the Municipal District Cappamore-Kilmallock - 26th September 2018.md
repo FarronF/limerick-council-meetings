@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, MILLMOUNT,
 KILMALLOCK, CO. LIMERICK, ON WEDNESDAY, 26™ SEPTEMBER, 2018, AT 7.00 P.M.
@@ -49,6 +50,7 @@ commercial business.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillors also referred to the commercial business at O’Rourke’s Cross which is an
 employer and ratepayer in the area and for which this decision may have implications for
 the future of this business.

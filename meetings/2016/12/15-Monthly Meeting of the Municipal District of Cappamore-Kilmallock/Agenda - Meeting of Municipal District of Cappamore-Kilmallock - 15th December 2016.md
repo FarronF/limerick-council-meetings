@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 <——
 :
 
@@ -75,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Service Operations Directorate
 lic Lightin;
 
@@ -114,6 +116,7 @@ matter of urgency. | will also ask what the time frame will be for this report.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 Notice of Motion submitted by Councillor L.M. Sheehy
 

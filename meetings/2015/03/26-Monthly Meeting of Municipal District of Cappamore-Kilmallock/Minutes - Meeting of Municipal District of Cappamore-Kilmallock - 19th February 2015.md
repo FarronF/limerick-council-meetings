@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON THURSDAY,
@@ -47,6 +48,7 @@ With the Cathaoirleach’s permission, it was agreed to take Item 4 at this poin
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Economic Development and Planning
 
 Limerick City & County Co il Business & Retail Incentive Scheme
@@ -96,6 +98,7 @@ to achieve its objectives and then extend to other areas.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Environment & Water Services
 
 Team Limerick Clean-Up Campaign
@@ -144,6 +147,7 @@ County Council in relation to the old Store premises in Herbertstown.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 The former Co-Op Store in Herbertstown is registered in the name of a
@@ -200,6 +204,7 @@ The response was as follows:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A meeting will be arranged with the Councillors who have been
 nominated to the Home and Social Development SPC over the next
 few weeks to discuss and agree a new protocol.
@@ -248,6 +253,7 @@ Teefy.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion Councillor O'Donnell indicated that the scheme is not
 available to community groups adding that Limerick City and County Council should
 be flexible and extend the scheme.
@@ -301,6 +307,7 @@ Improvement Grant’ from the Department of Transport. Due to the
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 recent recession this grant stream has stopped and has not been
 replaced.
 
@@ -316,6 +323,7 @@ Dated:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

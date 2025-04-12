@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 , Seirbhisi Corpartideacha,
 ————— Comhairle Cathrach shia Ciliach aan Corian Gikerdch,
 
@@ -58,6 +59,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) 3, Galvone View, Limerick.
 
 (f) 4, Galvone View, Limerick.
@@ -123,6 +125,7 @@ include content from the Sporting Limerick website on the Limerick.ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 platform in order to achieve the objective 3.0 (unlocking the potential)
 of the above mentioned Action Plan.”
 
@@ -170,6 +173,7 @@ Social Devel ent
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Physical Development
 
 Draft City and County of Limerick (Segregation, Storage and Presentation of
@@ -224,6 +228,7 @@ Meeting/Event.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -272,6 +277,7 @@ not currently covered with Coca Cola Bike stations.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14,

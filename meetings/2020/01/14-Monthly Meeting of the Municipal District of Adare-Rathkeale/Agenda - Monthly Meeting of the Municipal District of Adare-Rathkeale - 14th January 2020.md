@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 aa Comhairie Cathrach Ceantar Bardasach Ath Dara-Rath Coola,
 aw & Contae Luimnigh Comhairle Cathrach agus Contae Luirmigh.
 Ars. i \
@@ -60,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 10.

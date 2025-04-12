@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _-_em Comhairle Cathrach
 & Contae Luimnigh
 ae. Limerick Cit
@@ -80,6 +81,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 FA
 
 10.
@@ -149,6 +151,7 @@ engaged in non core court duties and it’s impact on frontline policing”.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

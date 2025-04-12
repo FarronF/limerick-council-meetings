@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——
 —_—=>=>"
 
@@ -84,6 +85,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Disposal of Land
@@ -133,6 +135,7 @@ To consider Chief Executive’s Reports for the months of March and April 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -181,6 +184,7 @@ Maintenance of Open Spaces Grant”
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -234,6 +238,7 @@ Planning Strategic Policy Committee held on 26" April, 2021.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 5
@@ -276,6 +281,7 @@ sewerage treatment plants in Co. Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -329,6 +335,7 @@ fines would be recovered by way of attachment to earnings, if applicable.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ceanncheathrnds Chorparaideach,
 neN —_—eeeee Cé na gCeannaithe,
 => Limerick City Luimneach
@@ -57,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Disposal of Land
@@ -142,6 +144,7 @@ To consider Draft Annual Report 2019
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ec)
 
 (4)
@@ -198,6 +201,7 @@ Farming Sector to Strategic Policy Committees.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 Limerick Market Trustees
@@ -259,6 +263,7 @@ Committee Meeting held on 24" February, 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Recommendation No. 1:
 
 That, all future recipients of HAP would be Garda vetted similar to the
@@ -297,6 +302,7 @@ Mobility Award Scheme 2020 — Round 1.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (d) Grants under the Arts Act
@@ -334,6 +340,7 @@ funding to complete Phase Two of Patrickswell Village Renewal Scheme.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -392,6 +399,7 @@ are the plans for expenditure for 2020.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -443,6 +451,7 @@ authorisation to become a Building Society.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Keary, E. O’Brien ’ % ‘Sheahan, A. Teskey
@@ -486,6 +495,7 @@ Meetings due to COVID-19 restrictions.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 27.
 
 10

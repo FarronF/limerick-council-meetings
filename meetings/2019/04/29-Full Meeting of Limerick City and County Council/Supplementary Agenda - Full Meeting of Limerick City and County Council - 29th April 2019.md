@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Sebhist Corperdideacha,
 _——_—_ & Contac Lal igh Comhairle Cathrach agus Contae Luimnigh.
 fos. ontae Luimnig Ceanncheathni Chorpardideach,

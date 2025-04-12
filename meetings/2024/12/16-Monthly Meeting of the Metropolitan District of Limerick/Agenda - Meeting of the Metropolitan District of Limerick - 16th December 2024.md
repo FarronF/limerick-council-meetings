@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 & Contae Luimnigh
 nAcr™N a ——_—_——_—
@@ -70,6 +71,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of interest
 3. Dis | of Land
 To note proposal for the disposal of land as follows:
@@ -114,6 +116,7 @@ Limerick.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 7. Question submitted by Councillor M. Donoghue
 
@@ -160,6 +163,7 @@ need.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 14. Notice of Motion submitted by Councillor S. Kiely
 

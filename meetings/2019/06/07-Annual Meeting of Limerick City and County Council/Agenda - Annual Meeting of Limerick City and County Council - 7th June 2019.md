@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __ Comhairle Cathrach
 & Contae Luimnigh
 
@@ -73,6 +74,7 @@ w @LimerickCouncil
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 To fix dates for Annual Meetings of Metropolitan District of Limerick and Municipal
@@ -124,6 +126,7 @@ To appoint 1 representative to the Library Association of Ireland.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -191,6 +194,7 @@ To consider the nomination of 1 Member to Limerick Civic Trust.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 24.
 
 25.

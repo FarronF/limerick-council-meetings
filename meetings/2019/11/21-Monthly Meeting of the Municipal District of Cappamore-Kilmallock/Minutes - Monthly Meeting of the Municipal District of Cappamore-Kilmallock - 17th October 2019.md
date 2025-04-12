@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -48,6 +49,7 @@ Meeting as Cllrs E. Ryan and M. Ryan were not in attendance.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor G.Mitchell;
 Seconded by Councillor PJ.Carey.
 And Resolved:
@@ -96,6 +98,7 @@ and Practice to the Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Senior Executive Engineer, Physical Development Directorate outlined the background
 to the project, which had been funded by the Heritage Council and was running from July
 2019 until December 2021.
@@ -143,6 +146,7 @@ well-being:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1. Amend Objective H3 Special Control Area as follows:
 
 It is the objective of the Council not to permit development in the Special Control Area (SCA)
@@ -179,6 +183,7 @@ Members also agreed that it was important that estates were taken in charge as s
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 possible given the fact that property owners were also paying Local Property Tax on their
 properties.
 
@@ -222,6 +227,7 @@ occurs at Lower Annagh, and to extend the OPW remit on the Annagh river from whe
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 they currently stop and include the yellow highlighted area on the attached map from
 bench mark 109.3 to bench mark 115.2 as road no L1122 has flooded and is at continuous
 risk of flooding and damage /diversions being caused.
@@ -268,6 +274,7 @@ Reply:
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Limerick City & County Council are currently engaging with local stakeholders in relation to
 this issue and are preparing an application for minor works to the Office of Public Works to
 carry out dredging of the existing drainage channel from benchmark 109.3 to benchmark
@@ -314,6 +321,7 @@ tenancies.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Question submitted by Councillor Martin Ryan
 
 | will ask at the next meeting of the Municipal District for information re proposed traffic
@@ -359,6 +367,7 @@ Junction, and a speed cushion on the Hospital side of McNulty’s Garage.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A Section 38 process was undertaken during September 2019 and a recommendation in
 relation to same is currently being prepared for the Senior Roads Engineer in relation to
 these works.
@@ -398,6 +407,7 @@ Cathaoirleach
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

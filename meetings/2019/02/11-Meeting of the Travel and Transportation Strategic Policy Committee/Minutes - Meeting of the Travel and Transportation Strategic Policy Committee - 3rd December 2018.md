@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _e Comhairle Cathrach
 & Contae Luimnigh
 AN ~ ,
@@ -48,6 +49,7 @@ Limerick City and County Council would, with Clare County Council, urgently Prog
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 development of the Northern Distributor Road (NDR), a vital piece of infrastructure for the
 City and County”.
 
@@ -95,6 +97,7 @@ the outcomes of the L-SMATS.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cllr. J Pond acknowledged the reply and stated that the Members of the SPC should receive a
 regular briefing on progress on the NDR.
 
@@ -142,6 +145,7 @@ The Meeting then concluded.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 
 ---

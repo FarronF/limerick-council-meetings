@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 nr Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach egus Contae Luimnigh,
 a Aras Wiliam Smith O'Brien,

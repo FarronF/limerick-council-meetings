@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Comhairle Cathrach agus Conta Luimnigh,
 & Contae Luimnigh Olfig an Cheantaly, Aras Mha we n seoighe,
 
@@ -57,6 +58,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Rural, Cultural, Community & Tourism Development Directorate
 
 To receive an update on the 2025 National Famine Commemoration Ceremony planned for
@@ -94,6 +96,7 @@ has deteriorated.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motions
 
 9. Notice of Motion submitted by Councillor M. Ryan

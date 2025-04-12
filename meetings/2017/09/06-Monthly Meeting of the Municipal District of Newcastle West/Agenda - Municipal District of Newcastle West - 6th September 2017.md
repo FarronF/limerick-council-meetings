@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Seirbhisi Corparéideacha,
 ee a teleoalat paella Comhairle Cathrach agus Contae Luimnigh.
 , g Ceanncheathru Chorparaideach,
@@ -72,6 +73,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 7.
@@ -125,6 +127,7 @@ Ballykennedy South, Ballingarry in the interest of safety.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.

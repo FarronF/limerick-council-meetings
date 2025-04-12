@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrdinisi Corparaideacha,
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
@@ -65,6 +66,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 Notice of Motion submitted by Councillor L.M. Sheehy
 

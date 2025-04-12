@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Oifig an Cheantair, Aras Mhainchin Seoighe,
 
@@ -43,6 +44,7 @@ Limerick City and County Council. Aras Mainchin Seoighe Area Office ¥
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Capital Investment Directorate
 Part 8 Procedure ~ Station Close, Knocklong, Co. Limerick.
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning
@@ -86,6 +88,7 @@ Cappamore-Kilmallock Municipal District?
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor Teefy
 
 | will ask at the next meeting of the Municipal District of Cappamore Kilmallock how

@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—— Comhairle Cathrach
 & Contae Luimnigh
 ANN f_™
@@ -73,6 +74,7 @@ customerservices@limerick.ie
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 HLT was enysnpuen
 200 O08 Or of gO SE AIT Hes
 

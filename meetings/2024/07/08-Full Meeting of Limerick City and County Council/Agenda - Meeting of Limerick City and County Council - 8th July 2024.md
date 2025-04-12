@@ -2,6 +2,7 @@
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach Seirbnisi Corparéideacha,
 . Comhairle Cathrach agus Contae Luimnigh,
 = Sr. & Contae Luimnigh Ceannchestnns Chorparaideach,
@@ -66,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Support Services
 
 (a)
@@ -120,6 +122,7 @@ City North having been appointed at the Annual Meeting.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (g)
 
 (iv)
@@ -187,6 +190,7 @@ Note: No meeting held since last Chairperson’s report.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -234,6 +238,7 @@ years.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -290,6 +295,7 @@ and ask that the law be changed for victims of violent assault.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 23.
@@ -342,6 +348,7 @@ from the River Shannon to supply Dublin and other counties.
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 by Councillor E. Secas
 
 | will move at the next meeting that Limerick City and County Council calls for an
