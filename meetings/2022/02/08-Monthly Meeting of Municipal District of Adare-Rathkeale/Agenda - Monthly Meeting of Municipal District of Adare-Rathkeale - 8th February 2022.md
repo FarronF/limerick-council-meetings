@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-8th-february-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 <i Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
@@ -47,6 +50,7 @@ s@limerick.ie
 Coanncheathra Chorpardidesch, Cé na gCeannaithe,Luimneach 1 . o wirniinarhia
 Corporate Headquarters, Merchants Quay, Limerick, @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 General Municipal Allocation (GMA)
@@ -71,5 +75,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 A.0.B
+
 
 ---

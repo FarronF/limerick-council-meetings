@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/02-minutes-of-19th-november-md-meeting.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE

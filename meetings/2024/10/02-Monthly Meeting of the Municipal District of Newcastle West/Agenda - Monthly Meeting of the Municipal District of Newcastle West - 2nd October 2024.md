@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-2024-10-02-agenda-october.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairie Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 
@@ -51,6 +54,7 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ vevewlimerick.te
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -108,6 +112,7 @@ the Demesne car park next to Newcastle West Town soccer field (b) Can signage be
 erected at the entrance to the Demesne letting people know where there is car
 parking available.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -138,5 +143,6 @@ addressed at House No. 32 to 37 and House No. 39 to 42.
 | will move at the next Meeting (a) the Council identify a location for a bus stop at
 Barnagh and Bus Eireann to provide a bus stop at Barnagh Gardens (b) that the
 Council request the Local Link to provide a bus service from Athea to Abbeyfeale.
+
 
 ---

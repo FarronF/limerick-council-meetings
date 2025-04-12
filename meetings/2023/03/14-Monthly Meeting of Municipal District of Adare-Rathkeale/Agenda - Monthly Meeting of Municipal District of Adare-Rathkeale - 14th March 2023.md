@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20March%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
@@ -55,6 +58,7 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach . © Worm imerickie
 Corporate Headquarters, Merchants Quay, Limerick. 1 @LimerickCouncil
 € 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5.
@@ -76,5 +80,6 @@ To review position in relation to allocations under the General Municipal Alloca
 2022/2023.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

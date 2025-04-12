@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28a%29%202019-05-01%20Minutes%20May.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -45,6 +48,7 @@ Ms. Guiry addressed the Meeting and conveyed the apologies of the Chairperson an
 Secretary of the Residents Association for their inability to attend. She welcomed the
 opportunity to outline to the Members issues at the estate. She stated that Cryleview
 Residents Association was formed in 2014 and the following items need to be addressed:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -100,6 +104,7 @@ Realm, Newcastle West Development Association - Vision 2023
 @ Development Fund - €350,000 allocated to the District.
 
 2
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -158,6 +163,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 
 SS ee eee
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
@@ -204,6 +210,7 @@ REPLY: Repair works will be carried out on this wall within the next few weeks.
 
 | will ask at the next Meeting that the long awaited Public Realm Study for Dromcollogher
 be given immediate priority.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -257,6 +264,7 @@ contacted and met several times regarding the My Limerick platform and
 advised to contact Customer Services senior staff should they require any
 particular follow up on named cases. Also, it should be noted that each case
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 automatic case number assigned, which is unique to each case for
@@ -302,6 +310,7 @@ of the plan.
 Also the location of ramps would have to be agreed with the residents in this
 area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12. n m b ncillo
@@ -345,6 +354,7 @@ Sustainment and Housing Assessments.
 Staff are available to meet with customers on the arrangement of an
 appointment or via telephone. If customers wish, staff are also available to
 contact via email.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -392,6 +402,7 @@ REPLY: This request can be considered under the GMA Local Roads allocation for 2
 
 However, should any other source of funding become available for footpath
 upgrades in 2019 this area can be considered.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -441,6 +452,7 @@ We the Councillors of the Municipal District of Newcastle West call on the Chief
 of Limerick City and County Council to begin the process to apply for funding for the
 provision of a 25 metre public swimming facility/pool to be located in Newcastle West Town
 to serve the people of the Municipal District and its hinterland.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -493,6 +505,7 @@ up on this with Central Services.
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Prior to the conclusion of the Meeting, the Cathaoirleach and Councillors thanked the
@@ -509,7 +522,9 @@ Dated:
 
 11
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%20Minutes%20MD%20Special%20Meeting%202nd%20July%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -44,6 +47,7 @@ folio could be agreed. Following a request from Elected Members, a further meeti
 arranged on site to amend the line of kerbing across from the six townhouses, and this
 amendment was agreed with the occupiers of same following this meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 He detailed the Folio details outlining legal ownership of various pieces of land relating to the
@@ -78,5 +82,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

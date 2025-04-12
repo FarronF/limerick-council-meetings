@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-minutes-of-monthly-meeting-13th-april-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD ON TUESDAY, 13TH** **APRIL, 2021 AT 9:30 A.M.**

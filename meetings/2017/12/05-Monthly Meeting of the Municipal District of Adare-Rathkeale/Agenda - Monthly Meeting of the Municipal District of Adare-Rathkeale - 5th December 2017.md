@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/00%20Agenda%205th%20December%2C%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 _—_—" & Contae Luimnigh
@@ -74,6 +77,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Service Operations Directorate — Operations and Maintenance Services
@@ -122,6 +126,7 @@ To note update on pedestrian controlled crossing for Adare.
 (Copy Enclosed)
 
 nN
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -177,5 +182,6 @@ needed car park for Adare Village to help alleviate traffic congestion.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

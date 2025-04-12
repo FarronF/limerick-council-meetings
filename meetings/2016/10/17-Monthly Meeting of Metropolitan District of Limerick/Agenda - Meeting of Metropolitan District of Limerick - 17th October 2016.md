@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_17th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __——" Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairie Cathrach agus Contae Luimnigh,
@@ -59,6 +62,7 @@ customerservices@limerick.te
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach  wwew.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 QUESTIONS
@@ -100,6 +104,7 @@ Question submitted by Councillor Cian Prendiville
 | will ask at the next meeting that the Council provide a map highlighting all currently
 unused council-owned lands in the Metropolitan District and an accompanying legend
 outlining the size of each site?
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -157,6 +162,7 @@ Economic Development, Enterprise and Planning Str.
 legislation to allow Councils to seize derelict sites, which are having an extreme negative
 impact on their local area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 16.
@@ -206,5 +212,6 @@ expanded to include the entire area of Raheen, Dooradoyle and Mungret.
 
 Correspondence.
 (Copy of Correspondence Enclosed).
+
 
 ---

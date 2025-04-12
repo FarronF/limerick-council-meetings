@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Annual-Meeting-of-the-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 ——— & Contae Luimnigh
@@ -61,5 +64,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 \ 061 - §57150
+
 
 ---

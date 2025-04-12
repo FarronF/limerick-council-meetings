@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_12th_may_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
@@ -41,6 +44,7 @@ Circulated Report from Head of Finance dated 12" May, 2015.
 Members noted and approved the disposal of land as set out below:-
 
 e Ballymacave, Croagh
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -90,6 +94,7 @@ this was a serious public health issue.
 
 The Senior Executive Engineer indicated that he would bring this issue to the attention of
 the Health Board and report back to Members on the outcome.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -151,6 +156,7 @@ REPLY: The recruitment of staff is subject to sanction by the Department of the
 Environment. A staffing request is currently with the Department for a
 number of posts including General Operatives.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Limerick City and County Council has recently employed a number of
@@ -197,6 +203,7 @@ Representative
 
 Prm Energy Sytems Inc. Ronald Bailey, President of company who design PRM
 gasification systems
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -252,6 +259,7 @@ The Visit was divided into three information gathering sessions
 
 1) Wednesday Evening — Open Discussions with Leonardo Reira, Environpower on
 the proposal
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -309,6 +317,7 @@ tannery waste as an example of effective odour control.
 Proximity of residents to the plant, ML stated that there were local residents within 250m of
 the Morcenx Plant.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Members expressed their disappointment at the negative media coverage their trip to the
@@ -355,6 +364,7 @@ He indicated that this was a health threat and that no new houses should be buil
 Askeaton until a sewerage plant was built. He requested that Irish Water be written to
 outlining the need for a new sewerage plant for Askeaton.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8
@@ -377,5 +387,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

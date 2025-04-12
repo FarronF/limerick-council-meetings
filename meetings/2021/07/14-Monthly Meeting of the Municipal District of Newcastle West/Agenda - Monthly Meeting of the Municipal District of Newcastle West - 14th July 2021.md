@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-2021-07-14-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach ___Diiche Bardais an Chaistedin Nua Thiar,
 tom, & Contae Luimnigh Conehualrte eal es Rea eae ty
@@ -58,6 +61,7 @@ Corporate Headquarters, Merchant's Quay. Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Di | of La
@@ -101,6 +105,7 @@ infrastructure in several areas in Newcastle West town.
 | will ask at the next Meeting what was the total spend on retrofitting of the Houses
 Nos. 13 to 24 at Castleview, Newcastle West and how much of this outlay was
 incurred on the air to water heating systems installed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -161,6 +166,7 @@ in that area.
 owned untenanted property be properly maintained in the best interest of the general
 living amenity in Castleview Estate, Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19.
@@ -172,5 +178,6 @@ re-instatement of footpaths and road overlay at Churchview, Ballyagran, Co. Lime
 
 | will move at the next Meeting that Limerick City and County Council take ownership
 of the footbridge in Athea village.
+
 
 ---

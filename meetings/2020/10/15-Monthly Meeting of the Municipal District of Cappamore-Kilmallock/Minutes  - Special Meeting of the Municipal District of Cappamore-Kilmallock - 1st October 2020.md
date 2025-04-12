@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/03-minutes-special-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE
@@ -34,6 +37,7 @@ The Director, National & Regional Shared Services then outlined the background t
 Services search for a suitable site for the proposed Fire Service Training Centre and the
 rationale for choosing Kilmallock Business Park. She outlined the consultation and
 engagement that had taken place prior to the submission of the Part 8 application and this
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -81,6 +85,7 @@ They noted also the details of the one submission that was made as part of the P
 consultation process in relation to the issue of smoke generated as part of the burning, and
 whether the Environmental Protection Agency should be consulted on the issue.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Overall, the Elected Members agreed that there were some concerns raised in their
@@ -104,7 +109,9 @@ This concluded the Meeting.
 Signed: Date:
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

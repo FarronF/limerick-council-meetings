@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_of_meeting_16th_january2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE LIMERICK CITY GALLERY OF ART, CARNEGIE BUILDING, PERY SQUARE, LIMERICK, ON
@@ -48,6 +51,7 @@ setting out proposals to lease Floor 3, Corporate Buildings, Dooradoyle to Gener
 Ireland Limited for a period of 5 years, with General Motors Ireland Limited having an option to
 extend for a further period of 5 years, and that it was intended that the proposed disposal of
 land would be included on the agenda for the January Meeting of the Full Council.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -104,6 +108,7 @@ Prior to dealing with the Notices of Motion on the agenda, the Mayor stressed th
 the Strategic Policy Committee structure and the external expertise it afforded and the
 importance of availing of this structure to consider strategic issues raised by the District
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -158,6 +163,7 @@ The Chief Fire Officer informed Members that, as the emergency department at UHL
 
 prior to 1990, legislation relating to fire certificates did not apply, however, it was covered
 under the Fire Services Act, 1981. He noted that hospital management had agreed that the
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -221,6 +227,7 @@ event but that many businesses had been closed at the time and had missed an opp
 more business. He pointed out that traffic and parking would be reviewed and stressed the
 importance of regulating parking to ensure a turnover of spaces. He noted that the “Free from
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -275,6 +282,7 @@ Hospital and the continuing instances of nurses leaving Ireland.
 with flytipping and littering in the Galvone area, a review and report is carried out on the
 measures that will be undertaken to resolve this issue.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -287,5 +295,6 @@ This concluded the Meeting.
 Signed: 7
 
 Dated:
+
 
 ---

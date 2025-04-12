@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-council-meeting-03.12.2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Setrdhisi Corparaideacha,
 & Contae Luimnigh Comhairle Catteacts agus Contae Luimnigh
@@ -69,6 +72,7 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (f) Annacotty Business Park, Annacotty, Co. Limerick.
@@ -129,6 +133,7 @@ Provisions) Act 2020 (Section 29) (Local Authorities) (Designation) Order 2020.�
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (9)
@@ -182,6 +187,7 @@ Strategic Policy Committee held on 9"" November, 2020.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (ii)
@@ -234,6 +240,7 @@ Employment and the SME Growth Task Force, for their consideration.’
 (Copy of Report ‘Supporting Limerick’s SMEs through
 Challenging Times and Change’ Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (iv) Chairperson’s Report — Meeting of Travel and Transportation Strategic
@@ -276,6 +283,7 @@ Limerick Theatre Bursary Awards 2020
 To consider approving recommended Limerick Theatre Bursary Awards 2020.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -329,6 +337,7 @@ authority builds, could | get a detailed breakdown of these figures by amount of
 and unit size and what is the ceiling cost per unit for Turnkeys in Limerick broken down
 by unit size.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12.
@@ -378,6 +387,7 @@ Notice of Motion submitted by Councillor E. O’Donoan
 Minister for Health, University Hospital Limerick and the HSE requesting the urgent
 recruitment of a specialist dietician in post for adults with diabetes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17.
@@ -396,5 +406,6 @@ Council in 2024.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

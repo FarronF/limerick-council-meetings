@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-january-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i Comhairle Cathrach agus Contae Luirnnigh,
 Comhairle Cathrach Oifig an Chantal, Aras Mhainchin Seoighe,
@@ -52,6 +55,7 @@ Limerick City and County Councit, Ares lainchin Seoighe Ares Ofice
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Declaration of Interest
@@ -80,6 +84,7 @@ recreation park.”
 survey be completed at Thomastown Cross on the Kilmallock-Charlevile road L8572 & L8576 with
 a view to traffic calming.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8. Question submitted by Councillor Carey
@@ -94,5 +99,6 @@ the Stone Mansion Project in Kilmallock and if there is a timeline for construct
 “twill ask at the next meeting of the Cappamore-Kilmallock Municipal District if the L1509
 Hospital to Elton Road through Ballycahill is being considered for inclusion in the2025 Road
 Surfacing Programme.”
+
 
 ---

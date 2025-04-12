@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28b%29%202017-06-28%20Minutes%20%20Annual%20Meeting%20Newcastle%20West.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
@@ -39,6 +42,7 @@ had extended beyond operational matters.
 
 The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach of the Municipal
 District for the coming year.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -87,6 +91,7 @@ Chathaoirleach of the Municipal District. He offered him his congratulations and
 
 the coming year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The incoming Leas-Chathaoirleach congratulated Councillor Collins on being elected Cathaoirleach.
@@ -107,5 +112,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

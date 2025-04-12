@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%2011th%20July%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ail Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -65,6 +68,7 @@ oo wwwlimerickie
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -115,6 +119,7 @@ Footpath from Kildimo to the Beer Garden Public House
 To note update on the path from Kildimo Village to the Beer Garden.
 
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -182,6 +187,7 @@ a special effort to have the towns and villages in the District cleaned up.
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19.
@@ -219,5 +225,6 @@ Community Initiatives Scheme 2017
 To discuss allocations under the Community Initiative Scheme 2017.
 
 (This item to be taken in committee)
+
 
 ---

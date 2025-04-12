@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_meeting_270317.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corparaideacha,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -68,6 +71,7 @@ West, Co. Limerick.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -104,6 +108,7 @@ for 2017.
 To consider the grant of a Civic Reception to honour Professor Don Barry,
 President of the University of Limerick, in accordance with Section 74 of the
 Local Government Act, 2001, as amended.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -159,6 +164,7 @@ housing.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (iv) | Chairperson’s Report — Community, Leisure and Emergency Services
@@ -195,6 +201,7 @@ Local Community Development Committee Annual Report 2016
 To note the Local Community Development Committee Annual Report 2016.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -239,6 +246,7 @@ Culture and Arts Working Group to Liverpool and Manchester, under Section
 142 (5) of the Local Government Act, 2001, as amended.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -308,6 +316,7 @@ Netherlands, on 18/19" April, 2017.
 (o) 2-Day Social Media Training for Councillors to be held in Clonakilty,
 Co. Cork, on 19""/20" April, 2017.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -353,6 +362,7 @@ Question submitted by Cmhir. S. 6 Ceallaigh
 
 | will ask at the next Meeting how many litter fines have been issued in each of the
 Municipal Districts over the past year.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -400,6 +410,7 @@ McMahon, E. O’Brien, R. O’Donoghue, K. Sheahan, A. Teskey
 We will move at the next Meeting that Transport Infrastructure Ireland make direct
 arrangements for the gathering and removal of litter along national roads in the
 administrative area of the Council.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -450,6 +461,7 @@ of barriers when trying to get on an even footing in their sector. The Minister 
 continue to deny responsibility when it comes to breaking down some of those
 obstacles.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21.
@@ -499,5 +511,6 @@ access to the redress scheme for the Creagh Lane victims.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-2024-09-11-minutes-september.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -43,6 +46,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 such interests were declared.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Environment, Climate Action and Shared Services Directorate
@@ -87,6 +91,7 @@ acknowledged. The work carried out at Castlemahon burial ground was also acknowl
 Abbeyfeale, Co. Limerick.
 
 Members noted the proposal.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -136,6 +141,7 @@ The Senior Executive Engineer addressed the Meeting. He outlined the background 
 review of speed limits which took place as a result of a Programme for Government and to an
 
 3
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -187,6 +193,7 @@ The Members thanked the Senior Executive Engineer for the comprehensive presenta
 While the Members were in favour of road safety, dissatisfaction was expressed on the 60kph
 Default Speed Limits being put in place for local roads. The Members referred to the financial
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 costs involved, the importance of enforcing proper speed on our roads, the importance of
@@ -235,19 +242,24 @@ Looking ahead, the current programme anticipates the construction phase to begin
 2026, subject to a Part 10 planning process. We are confident that the ongoing work will
 ensure the successful and timely delivery of this crucial project for the community.
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 View 1 Proposed
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -260,11 +272,13 @@ o
 6
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 View 2 Existing
 
 11
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -279,13 +293,16 @@ o
 
 12
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -315,6 +332,7 @@ advertised for tender.
 of funding.
 
 15
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -353,6 +371,7 @@ Yours sincerely,
 
 Pececntiard BE serve prarsanta 2 stestifteastocr Obi gocertety tara Frdigie te Cocnét Sorrel atl ae Mtl ag wrew ie
 TR protons pereerat dase in ascartonce wil fs Oute Prmcuctiony Neto avatbes uh ween Ube,
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -403,6 +422,7 @@ funded
 
 16
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Minor Refurbishment. Voids | 13 2024 - 10 units, 2025 - 3 units 1toiSmonths —
@@ -450,6 +470,7 @@ Carrying out works as necessary in 2025.
 Park be pruned in the interest of safety.
 
 17
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -502,6 +523,7 @@ signage measures at the above locations. With regard to traffic calming
 
 18
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 measures, additional funding will be required and the Traffic Calming Policy
@@ -553,6 +575,7 @@ The Motion was seconded by Councillor Galvin.
 
 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 REPLY: Limerick City and County Council will arrange for signage to be put in place as
@@ -601,6 +624,7 @@ available on our website in the coming weeks.
 We would like to thank you for your correspondence. | trust that this update provides clarity
 to both you and your (District) Members. Should you have any further queries, please don’t
 hesitate to contact us on the details below.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -653,6 +677,7 @@ Clouncagh.
 
 21
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The recent footpath works carried out on the R522 at Killeline, Newcastle West, was
@@ -700,6 +725,7 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 
 ---

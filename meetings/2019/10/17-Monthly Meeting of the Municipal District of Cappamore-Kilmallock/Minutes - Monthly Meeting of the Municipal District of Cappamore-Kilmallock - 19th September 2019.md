@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/04%20Minutes%2019th%20Sept%202019%20MD%20Mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -45,6 +48,7 @@ Cappamore. They also praised the community spirit and efforts by the people of C
 in various projects and initiatives, which they had delivered in the community over the
 years,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 At the end of the presentation, the Director, Community Development Directorate on behalf
@@ -87,6 +91,7 @@ included on the Agenda for the meeting with TIl.
 The Meetings Administrator also referred to correspondence from Conn Murray, former
 Chief Executive, Limerick City & County Council dated 11" March 2019, where the Chief
 Executive confirmed the position that he outlined to Members at the Special Meeting held
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -131,6 +136,7 @@ presentation and acknowledged the work being done across the Community Developme
 Directorate and the supports being provided to various organisations and local
 communities.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 They especially stressed the importance of the work currently being done in the area of
@@ -170,6 +176,7 @@ approved at the October 2019 Meeting.
 
 Circulated, Housing Progress Report from the Director of Services, Housing Development
 Directorate dated 4'" September, 2019, which was noted by the Members
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -212,6 +219,7 @@ to take all reasonable steps to ensure that a tree, shrub, hedge or other vegeta
 the land is not a hazard or potential hazard to persons using a public road, and that it
 does not obstruct or interfere with the safe use of a public road or the maintenance of a
 public road.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -264,6 +272,7 @@ Question submitted by Councillor Mitchell
 on the traffic calming measures being installed in Hospital, which was highlighted at
 previous Municipal District meetings in the interest of safety for all road users.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Reply: The detailed design for traffic calming measures has been completed and this
@@ -309,6 +318,7 @@ update on the proposed development works at Caherconlish Graveyard.
 Reply: The Council has tendered for the works for the extension of Caherconlish
 graveyard. A consultant is currently assessing the tenders received.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17 .Question submitted by Councillor Martin Ryan
@@ -351,5 +361,6 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Minutes-of-JPC-Meeting-11th-October-2019.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
 **COUNCIL CHAMBER, CORPORATE HEADQUARTERS,** **MERCHANT’S QUAY, ON FRIDAY, 11TH**

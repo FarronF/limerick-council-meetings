@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_municipal_district_of_adare_-_rathkeale_-_11th_november_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
@@ -43,6 +46,7 @@ EnviroPower which consisted of Keith Hulbert, Leonardo Rivera, Patrick Torpey an
 O'Kelly. The delegation outlined their proposal on their proposed bid for Lease of
 Gortadroma Landfill Site. A discussion ensued on the matter and Members raised various
 questions and concerns.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -101,6 +105,7 @@ appropriate way of maintaining these buildings is allowing their use for
 commercial or dual purposes. At present these dwellings not in commercial
 use are derelict and do not fulfil modern residential demands, facilities or
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (ii).
@@ -157,6 +162,7 @@ There are a significant proportion of existing trees on the land zoned as
 
 phase 2 residential and phase 2 serviced sites at Deepark. Any future
 development on these lands shall incorporate as many of the trees as
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -215,6 +221,7 @@ development in accordance with the County Development Plan and the
 zoning of Adare Soccer Club portion of ground at Deerpark from Residential
 Development Area Phase 1 to Open Space compliments these guidelines.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 e The Adare Area Plan has zoned 34.54 hectares as Residential Development
@@ -263,6 +270,7 @@ storage of refuse bins and arrangements for the bin collection service is
 normally the responsibility of the management company for the particular
 apartment block. However, it is difficult to comment on an individual
 apartment block without precise details of same.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -315,6 +323,7 @@ REPLY: Provision has been made in the 2014 Development Fund to install speed
 
 cushions at Church Road, Croom. These works will be completed before the
 end of this year.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -369,6 +378,7 @@ this matter.
 | recommend therefore that a decision on this Notice of Motion be deferred
 pending a Council agreed strategy.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8
@@ -414,6 +424,7 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ,
@@ -424,7 +435,9 @@ Zoning changed from Agriculture to
 Residential Development Area phose 2
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

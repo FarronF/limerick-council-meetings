@@ -4,4 +4,9 @@
 
 **Date and Time:** 2018-03-20 10:00:00
 
-**<a href="https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west-discuss-roads-within-municipal" target="_blank">Link to meeting</a>**
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west-discuss-roads-within-municipal)**
+
+Files: 
+
+Agenda - Special Meeting of the Municipal District of Newcastle West to discuss Roads within the Municipal District of Newcastle West - 20th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-20%20Agenda%20Special%20Meeting%20on%20Roads%20issues.pdf) - [Extracted text](./Agenda%20-%C2%A0Special%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20to%20discuss%20Roads%20within%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2020th%20March%202018.md)
+

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-c-draft-minutes-special-meeting-07.04.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON WEDNESDAY, 7TH APRIL, 2021, AT

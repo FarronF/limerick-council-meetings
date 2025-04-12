@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/8th%20Oct%202018%20-%20Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_— Comhairle Cathrach oa na — =
 & Contae Luimnigh Com hrach agus Contae Luimn’
@@ -36,6 +39,7 @@ PHYSICAL DEVELOPMENT DIRECTORATE
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -96,6 +100,7 @@ Notice of Motion submitted by Cmhir. S. 6 Ceallaigh
 designated parking spaces for motorbikes and mopeds in Limerick City centre and
 that these will be monitored to view the viability of their expansion at a later time.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -117,5 +122,6 @@ from the fatalities, near misses and traffic issues in the towns and villages of
 Limerick.”
 
 Presentation by Limerick Smarter Travel on Mobility Management Plans
+
 
 ---

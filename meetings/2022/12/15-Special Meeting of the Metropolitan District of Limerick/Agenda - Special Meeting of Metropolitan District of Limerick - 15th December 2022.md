@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20December%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ae Comhairle Cathrach Cornhairie Car reach up Cone Lneae,
 * . c r he Th ag eu! u
@@ -46,5 +49,6 @@ at Punches Cross, Limerick.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimmeach w @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

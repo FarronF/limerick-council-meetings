@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20April%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 ai Comhairle Cathrach agus Contae Luimnigh,
@@ -51,6 +54,7 @@ Clarina, Co. Limerick.
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach  vevew.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -96,6 +100,7 @@ Question submitted by Councillor Cian Prendiville
 | will ask at the next meeting what the planning process was for the erection of the
 new advertisement hoardings and public phones in the City Centreand did it take
 into consideration the impact on the usability of the footpaths for those with disabilities?
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -149,6 +154,7 @@ Notice of Motion submitted by Councillor Cian Prendiville
 series of outdoor cinema showings in the People's Park over this or next summer, as has
 been done in Dublin and other areas.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -167,5 +173,6 @@ The Connolly site offers 145 acres, vast space for expansion, easier access for 
 their families and extensive parking. The co-location with Connolly Hospital and the new
 Rotunda Maternity Hospital will result in better clinical outcomes. It will be cheaper and
 faster to build than on the St. James's site.
+
 
 ---

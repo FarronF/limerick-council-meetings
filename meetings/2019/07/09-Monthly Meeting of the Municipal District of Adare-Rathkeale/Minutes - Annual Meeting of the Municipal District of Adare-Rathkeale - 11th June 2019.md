@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28b%29%20Minutes%20of%20Annual%20Meeting%2011th%20June%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF
 ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
@@ -43,6 +46,7 @@ July Meeting to enable discussion on the matter.
 Pallaskenry also be included on the Agenda for the July Meeting, to enable
 discussion.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 With the consent of the Cathaoirleach Councillor O'Donoghue proposed a five minute
@@ -84,6 +88,7 @@ him well for the coming year.
 Councillors Sheahan and O’Brien expressed their thanks at their nomination and election
 and looked forward to working with their fellow Councillors in the year ahead.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 This concluded the Meeting.
@@ -92,5 +97,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

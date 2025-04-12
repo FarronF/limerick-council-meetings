@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i Comhairle Cathrach agus Contae Luimnigh,
 Comhairle Cathrach Oifig an Cheantair, Aras Mhainchir Seoighe,
@@ -47,6 +50,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office we
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Declaration of Interest
@@ -74,6 +78,7 @@ Maintenance carry out an audit and inspection of doors and windows at Council un
 Riverview Estate, Kiimallock in accordance with the Guidelines for Housing Authorities in
 implementation of Standards in Rented Accommodation with a view toa replace/repair
 programme for the New Year.”
+
 
 
 ---

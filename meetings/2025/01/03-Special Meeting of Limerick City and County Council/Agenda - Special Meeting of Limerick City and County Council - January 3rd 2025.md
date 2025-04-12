@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-special-meeting-03.01.2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 es Comhairle Cathrach
 & Contae Luimnigh
@@ -56,5 +59,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 v @LimerickCouncil
 061 - 557150
+
 
 ---

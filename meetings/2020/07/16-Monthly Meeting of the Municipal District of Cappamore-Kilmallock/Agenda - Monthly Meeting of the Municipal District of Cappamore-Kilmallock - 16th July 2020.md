@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-agenda-monthy-meeting-cappamore-kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach
 
@@ -60,6 +63,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Physical Development Directorate
@@ -98,6 +102,7 @@ Limerick City and County Council seek immediate funding from the Department of J
 & Equality, and from within the Local Authority, for the installation of CCTV security
 cameras throughout the Municipal District for areas that were not included in the first
 phase of the CCTV installation programme.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -139,5 +144,6 @@ Water clarify fully the statement made on local public airwaves on the 7th July 
 tan O’ Mahony of Irish Water that Hospital water supply was incurring problems. New
 water pipes have been laid and a new borewell was provided by the appointed operators
 which | was reliably informed had adequate supply.
+
 
 ---

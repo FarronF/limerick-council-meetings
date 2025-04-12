@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -40,6 +43,7 @@ Seconded by Councillor Sheehy:
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -86,6 +90,7 @@ Works Programme and informed them that same would be completed in September.
 
 The Members commended the staff on the works already carried out.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 QUESTIONS
@@ -127,6 +132,7 @@ REPLY: The design of these works has recently been completed by Inland
 Fisheries Ireland. A meeting of the Councillors and stakeholders will be
 held in the near future to review the proposed works and it is envisaged
 that work would start in the river in August.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -171,6 +177,7 @@ signage at 90 degree bend where accidents are occurring on a continual basis
 on the Hospital to Kilteely road a short distance from St. Joseph's school, in
 the interests of safety for all road users.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -210,8 +217,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 om te
+
 
 ---

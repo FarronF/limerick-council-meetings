@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/00%20Agenda%2010th%20October%2C%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ; Seirdhisi Corpardideacha.
 ee oe pelreale cones Comhairle Cathrach agus Contae Luimnigh,
@@ -60,6 +63,7 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 587150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -108,6 +112,7 @@ Notice of Motion submitted by Councillor A. Teskey
 N21 onto the L1427. This junction is located at the Limerick side of the Lantern
 Roundabout in Adare.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -142,5 +147,6 @@ Kilcornan.
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

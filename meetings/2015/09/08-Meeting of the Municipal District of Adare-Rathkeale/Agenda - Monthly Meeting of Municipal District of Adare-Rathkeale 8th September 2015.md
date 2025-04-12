@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%208th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -53,6 +56,7 @@ Ballyroe, Loghill
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach & www.limerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -99,6 +103,7 @@ on the 2016 List of Local Road Schemes in circumstances where L1423 Curraghbridg
 towards Ballylongford was completed during the 2015 Roads Scheme.
 
 nN
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -155,6 +160,7 @@ Question submitted by Councillor K. Sheahan
 Askeaton and when it is anticipated that the Council will be in a position to take over
 even a part of the estate.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17.
@@ -205,5 +211,6 @@ Water) to assist Councillors in their representations on behalf of Rate Payers.
 in the Community Park in Ballingarry, in the interest of public health and safety.
 
 Correspondence
+
 
 ---

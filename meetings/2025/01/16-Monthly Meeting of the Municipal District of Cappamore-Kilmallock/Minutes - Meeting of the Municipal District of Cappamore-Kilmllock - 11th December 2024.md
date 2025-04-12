@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-cappamore-kilmllock-11th-december-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -41,6 +44,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Matters Arising
@@ -79,6 +83,7 @@ Placemaking to the meeting.
 
 Sean McGrath, Executive Engineer, Planning Enforcement gave a brief overview of the
 works carried out by the Council to enable the taking in charge of the Cluain Foinse Estate
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -126,6 +131,7 @@ Member requested an information evening be arranged for the Cappamore-Kilmallock
 Municipal District to facilitate members of the general public who may be interested in
 availing of this scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7 Notice of Motion submitted by Councillor PJ Carey
@@ -160,6 +166,7 @@ The Meetings Administrator advised Members on the changes to the private housing
 scheme whereby from the 1° of January, 2025 applicants will no longer be able to apply for
 assistance to replace fossil fuel boilers in their homes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Leas Cathaoirleach Cllr. Conway (G) wished all present a Happy Christmas and thanked Staff
@@ -176,7 +183,9 @@ Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

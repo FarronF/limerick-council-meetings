@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%20Adare-Rathkeale%2014th%20June%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE WOODLANDS HOTEL, ADARE ON TUESDAY, 14TH**

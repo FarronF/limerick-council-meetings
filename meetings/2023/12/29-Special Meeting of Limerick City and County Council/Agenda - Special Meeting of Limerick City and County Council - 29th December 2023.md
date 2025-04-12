@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-special-meeting-of-limerick-city-and-county-council-29-12-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach
 & Contae Luimnigh
@@ -53,5 +56,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 @LimerickCouncil
 
 \ 061 - 557150
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28a%29%20Minutes%20Annual%20Meeting%2013th%20June%202017.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD AT ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**

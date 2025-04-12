@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-2021-10-20-minutes-jpc-subcommittee.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST JOINT
@@ -36,6 +39,7 @@ of the Municipal District of Newcastle West held on 3% March, 2021.
 Proposed by: Councillor Scanian
 Seconded by: Councillor Foley
 And Resolved:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -80,6 +84,7 @@ necessity of the public in being cautious with regard to this matter.
 
 She also stressed the importance of the assistance of members of the public in the reporting of
 crime.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -129,6 +134,7 @@ the 999 telephone number is effective in emergencies. She referred to CCTV which
 responsibility of Limerick City and County Council which offers great assistance to the Gardai and
 that the contact person with regard to any queries on CCTV is Garda Alan Doody.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 She outlined to the Members the opening hours of the Garda Station in Abbeyfeale. She stated
@@ -166,5 +172,6 @@ This concluded the Meeting.
 Signed:
 
 Cathaoirleach
+
 
 ---

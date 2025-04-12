@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%207th%20October%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -53,6 +56,7 @@ Level Goals.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach & wwwalimerickic
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -114,6 +118,7 @@ ONAG
 pedestrian entrance at St. Ita’s Terrace, Abbeyfeale, coming out on to the Grove Road,
 opposite the old entrance to the Rugby Club.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -137,5 +142,6 @@ Notice of Motion submitted by Councillor M. Collins
 | will move at the next Meeting of the Municipal District of Newcastle West that an
 allocation of €10,000 be allocated from the General Municipal Allocation towards the
 provision of new Christmas lights for Newcastle West town.
+
 
 ---

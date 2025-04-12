@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/agenda-special-meeting-of-council-11.02.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8" February, 2022.
 
@@ -18,5 +21,6 @@ Meetings Administrator.
 AGENDA
 
 1. Discussion on Development Plan Process.
+
 
 ---

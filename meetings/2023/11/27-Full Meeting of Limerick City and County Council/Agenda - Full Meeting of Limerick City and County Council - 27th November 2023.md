@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Full-Meeting-of-Limerick-City-and-County-Council-27th-November-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ; } Selrbhisi Corpargideachs,
 _—_—_e__ Comhairle proce Comhairle Cathrach agus Contae Luimnigh,
@@ -48,6 +51,7 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -117,6 +121,7 @@ To consider Chief Executive's Report for the months of September and October
 2023.
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b)
@@ -170,6 +175,7 @@ and Planning Strategic Policy Committee held on 9" October, 2023.
 Environment Strategic Policy Committee held on 10” October, 2023.
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -218,6 +224,7 @@ To note reports by Members who have participated at Conference / Seminar /
 Meeting / Event.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -258,6 +265,7 @@ NOTICES OF MOTION
 We will move at the next Meeting that this Council call on the Government to review
 GDPR (General Data Protection Regulation) rules regarding housing and giving out
 information to us as Councillors/Directors of this Council.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -305,5 +313,6 @@ accommodation capacity in both the city and county, particularly to cater for th
 shortage of bed spaces for single men and women.
 
 Correspondence
+
 
 ---

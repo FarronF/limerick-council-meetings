@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Special%20Meeting%207th%20June%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 . Seirbhisi Corpardideacha,
 
@@ -52,5 +55,6 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
 ( 061 - 557150
 
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

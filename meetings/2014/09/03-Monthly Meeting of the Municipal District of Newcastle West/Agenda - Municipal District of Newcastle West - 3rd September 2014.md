@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20municipal_district_of_newcastle_west_agenda_-_wednesday_3rd_september.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 28 August, 2014.
 
@@ -35,6 +38,7 @@ To consider the adoption of Standing Orders for Meetings of the Municipal Distri
 Newcastle West.
 
 (Draft Standing Orders enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -86,6 +90,7 @@ Question submitted by Councillor J. Sheahan
 
 (b) Does the application of chlorine volume/frequency affect taste for the householder.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12.
@@ -124,6 +129,7 @@ To hear presentation on Local Government Reform Act 2014, with particular emphas
 Reserved Functions and revised budgetary process.
 
 (This item will be taken in committee at 11.30 a.m.)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -164,6 +170,7 @@ And Resolved:
 It was agreed that Meetings of the Municipal District of Newcastle West would be
 held on the first Wednesday of every month at 10.00 a.m. It was noted that the next
 Meeting would take place on Wednesday, 3 September, 2014 at 10.00 a.m.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -212,6 +219,7 @@ agreed to recommend the scheme for approval to the full Council.
 
 Councillor Collins stated that he was not in agreement with the scheme, as
 presented, and did not support the proposal.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -262,6 +270,7 @@ It was noted that this bridge was the responsibility of both Limerick City and C
 Council and Kerry County Council. It was agreed that the matter would be raised
 with Castleisland Area Office.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -295,6 +304,7 @@ Dated:
 
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ~ LIMERICK CITY |
@@ -306,6 +316,7 @@ FOR THE
 MUNICIPAL
 DISTRICT OF
 NEWCASTLE WEST |
+
 
 
 ---
@@ -369,6 +380,7 @@ ____124 _| Motions of Sympathy and Adjournments | IS,
 
 125 Expressions of Sympath fg
 16 Revocation and Commencement 6
+
 
 
 ---
@@ -443,6 +455,7 @@ Annual Meeting shall not have a second or casting vote and any employee of the l
 authority, if selected in accordance with this sub-paragraph, shall not have any vote.
 
 2.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -529,6 +542,7 @@ thing done at the meeting.
 
 3.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 22.
@@ -605,6 +619,7 @@ date to be named by her/him. The remaining business will be considered at the ne
 Ordinary Meeting .
 
 4.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -697,6 +712,7 @@ the person chairing the Meeting and any minutes claiming to be so signed shall b
 in evidence without proof. When the question that they be confirmed is put from the Chair,
 a Member may object to any part thereof as not being an accurate record and upon a
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 40.
@@ -768,6 +784,7 @@ Notice of Motion or Question from each Councillor signing same.
 District must sign the notice.
 
 A Motion may be withdrawn by leave of the Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -844,6 +861,7 @@ Mecting for consideration;
 
 7.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 « In the absence of such a representative, the Cathaoirleach will make such determination
@@ -906,6 +924,7 @@ relevancy shall be determined by the Cathaoirleach at her/his absolute discretio
 
 an amendment is carried, the Motion, as amended, shall take the place of the original
 Motion, and shall become the question upon which any further amendment may be moved.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -990,6 +1009,7 @@ after which the Motion authorised by this order shall be put without further
 
 debate.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 75.
@@ -1073,6 +1093,7 @@ any further part in that meeting on that day.
 
 10.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 83A.
@@ -1149,6 +1170,7 @@ This shall be as a point of information only and there shall be no debate on thi
 information.
 
 11.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -1237,6 +1259,7 @@ Meetings of the Municipal District without the prior approval of the Municipal D
 Members.
 12.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 96.
@@ -1321,6 +1344,7 @@ Where one quarter is not a whole number the next highest whole number plus one
 applies. The term of a Special Committee shall be for such period as the Municipal
 District Members may determine when appointing the Committee.
 13.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -1413,6 +1437,7 @@ legal provisions.
 
 14.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 SUSPENSION OF STANDING ORDERS
@@ -1469,6 +1494,7 @@ or sister)
 
 15.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 EXPRESSIONS OF SYMPATHY
@@ -1494,6 +1520,7 @@ EUGENE GRIFFIN
 MEETINGS ADMINISTRATOR
 
 16.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -1538,6 +1565,7 @@ DIRECTOR
 TRAVEL & TRANSPORTATION
 
 2_068_16_o0a39
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -1608,6 +1636,7 @@ ee
 ‘Mid West Nasional Road Design Office is 2 collaboration ef Limerxt Cosory Council, Troaxcnamd piirtndivraches is ea Olfig Dearadh Béchar Néisiints a> Mbedix laribai: ite Cocuhawte
 Lezenck Cry Council and Nomh Tipperary County Cosexil. Coonter Luimunigh. Combaire Cacheath Luirenigh Coeshairie Checmne Thichraié Auoce Thesidh.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 \
@@ -1624,6 +1653,7 @@ t
 
 |
 +} .
+
 
 
 ---

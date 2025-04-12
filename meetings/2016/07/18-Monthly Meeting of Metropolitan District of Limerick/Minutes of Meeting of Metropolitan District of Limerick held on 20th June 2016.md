@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20on%2020th%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 20" JUNE, 2016, AT
@@ -54,6 +57,7 @@ of Limerick.
 
 (g) Disposal of 2 areas of land, totalling 347 square metres (approx.) to Coras lompar Eireann
 (C.1.E.) at Parnell Street by way of long term lease. Acquire from C.I.E. 2,446 square metres
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -113,6 +117,7 @@ way of potentially financing such projects.
 Agencies involved in the delivery of the LECP were mainly those represented on the LCDC. These
 included: Limerick City and County Council (and the LEO within the Council), Limerick and Clare
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -166,6 +171,7 @@ QUESTIONS
 ! will ask at the next Meeting, in relation to Rathbane Golf Club, how much funding had been
 paid to the current service provider per annum, what service level agreement is currently in
 place and what are the future plans to secure a new management company.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -229,6 +235,7 @@ roof on the building which will shortly go to tender. On completion of same the
 Council will make arrangements with St. Paul’s Scouts to lease agreed
 accommodation accordingly.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 $
@@ -282,6 +289,7 @@ very significant fall in the membership of the club. The motion was seconded by 
 
 Collins.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -334,6 +342,7 @@ In response to further queries, the Senior Executive Officer, Corporate Services
 matter would be referred to the Enforcement Section for follow-up. It was also agreed that the
 motion would be referred to the Economic Development, Enterprise and Planning Strategic
 Policy Committee for further consideration.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -391,6 +400,7 @@ issue, it had a very significant effect on businesses and people in general in t
 He referred to the spiralling cost of insurance and to the expected additional increases following
 the increases proposed in the new book of quantum regarding insurance compensation.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The motion was seconded by Councillor O’Hanlon.
@@ -442,6 +452,7 @@ footpaths are carried out after completing pipe laying works in accordance with
 the terms of the Road Opening Licence and in accordance with the Purple Book,
 (Guidelines for Managing Openings in Public Roads-Guidelines for the Opening,
 Backfilling and Reinstatement of Openings in Public Roads).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -497,6 +508,7 @@ A number of Members however were not in agreement with the motion, referring to 
 general growth of population in the Castletroy area which meant that a second school was
 required in that area. Reference was made to the potential for such a school at the Parkway
 Valley area which would then cater for the Singland and Garryowen areas and would curtail the
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -554,6 +566,7 @@ issues and concerns of the residents.
 Members pointed out that the consultation by Co-operative Housing Ireland had been very
 inadequate in this instance and it was requested that officials from the Housing Section should
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 also attend the public meeting in relation to this matter.
@@ -568,5 +581,6 @@ Signed:
 MAYOR
 
 Dated:
+
 
 ---

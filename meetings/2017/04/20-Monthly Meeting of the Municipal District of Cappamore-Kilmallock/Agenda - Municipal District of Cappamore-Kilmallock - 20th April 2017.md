@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_25th_march_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —S
 =
@@ -84,6 +87,7 @@ wv @LimerickCouncil
 
 (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) ferral of Notices to make a New for Hospi end the
@@ -133,6 +137,7 @@ To note the National Creative Ireland Programme 2017-2022 and proposed
 Creativity Plan for Limerick.
 (National Creative Ireland Programme Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) Arts Programme
@@ -161,5 +166,6 @@ Notice of Motion submitted by Councillor W. O'Donnell
 | will move at the next Meeting that Limerick City and County Council investigate the
 provision of additional parking for residents at Sycamore Drive, Bruff, to include
 possible reduction of the existing green area.
+
 
 ---

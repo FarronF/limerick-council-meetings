@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_21st_november_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 rT Seirbhisi Corpardideacha,
 Comhasle Cathrach agus Contae Luimnigh,
@@ -58,6 +61,7 @@ customerservices@limerickie
 Ceanncheathri Chorparéideach, Cé na gCeannaithe, Lulmneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -112,6 +116,7 @@ and Development Act 2000 (as amended).
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5.
@@ -159,6 +164,7 @@ d by Councillor if
 
 permanent contracts, to ensure job security and help stem the increase in short term,
 insecure contracts?
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -222,6 +228,7 @@ Notice of Motion submitted by Councillor Cian Prendiville
 for extra funding to be provided to expand Novas’ Community Detox scheme so that it can
 also work with those struggling with alcohol and codeine addiction in this District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17. ice of ir Hurl
@@ -242,5 +249,6 @@ dilapidated state to be removed.
 
 19, Correspondence.
 (Copy of Correspondence Enclosed).
+
 
 ---

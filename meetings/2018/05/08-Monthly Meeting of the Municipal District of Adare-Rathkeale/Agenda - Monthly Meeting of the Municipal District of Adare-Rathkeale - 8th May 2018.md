@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%208th%20May%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 <—
 
@@ -71,6 +74,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerickie
 W @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -109,6 +113,7 @@ Drainage Issues in Courtmatrix
 To note update on drainage issues at Courtmatrix.
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -145,7 +150,9 @@ Service Operations Directorate — Planning and Environmental
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

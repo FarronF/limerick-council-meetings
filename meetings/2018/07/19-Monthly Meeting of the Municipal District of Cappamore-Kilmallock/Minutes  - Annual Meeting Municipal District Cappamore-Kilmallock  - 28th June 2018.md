@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/03%20Minutes%20Annual%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2028thJune2018.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS

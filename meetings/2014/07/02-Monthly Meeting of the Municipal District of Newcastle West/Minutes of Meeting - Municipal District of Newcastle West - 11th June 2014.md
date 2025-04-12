@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_of_newcastle_west_-_minutes_of_meeting_11_june_14.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM
@@ -40,6 +43,7 @@ year.
 
 Proposed by Councillor Galvin;
 Seconded by Councillor Sheahan;
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -101,6 +105,7 @@ Director advised that discussions were ongoing in relation to finalisation of st
 Operational Divisions and that information in relation to same would be circulated to the
 Members imminently. The Director provided an update on the Customer Relationship
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Management System (Sugar-CRM).
@@ -143,6 +148,7 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 
 ---

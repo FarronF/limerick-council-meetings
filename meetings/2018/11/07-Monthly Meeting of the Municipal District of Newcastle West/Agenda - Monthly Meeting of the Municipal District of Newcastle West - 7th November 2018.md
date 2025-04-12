@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%202018-11-07%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a
 
@@ -72,6 +75,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerick.te
 wv @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 9.
@@ -125,6 +129,7 @@ Hazelgrove, Newcastle West.
 | will ask at the next Meeting for the number of untenanted properties the Council
 own within the Municipal District of Newcastle West and for how long they are vacant.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12.
@@ -148,5 +153,6 @@ N f ion i il ca
 
 reviewing traffic management arrangements along Boherbui road from the Church
 towards the junction with Old Killeline in Newcastle West.
+
 
 ---

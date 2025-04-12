@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_22nd_april_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ae
 
@@ -59,5 +62,6 @@ e Abbeyfeale Community Development Association.
 
 Ceanncheathrui Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/03-minutes-annual-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN
@@ -34,6 +37,7 @@ and up to date on developments and which were welcomed by all the Members.
 
 He spoke of many highlights in his year as Cathaoirleach and the achievement of one of his
 main goals with the acquisition of Kilmallock Business Park from Shannon Commercial
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -83,6 +87,7 @@ Municipal District for the coming year.
 Proposed by Councillor E. Ryan;
 Seconded by Councillor M. Ryan.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “That Councillor Gerald Mitchell be appointed Leas-Cathaoirleach of the Municipal District of
@@ -107,8 +112,10 @@ Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a
+
 
 ---

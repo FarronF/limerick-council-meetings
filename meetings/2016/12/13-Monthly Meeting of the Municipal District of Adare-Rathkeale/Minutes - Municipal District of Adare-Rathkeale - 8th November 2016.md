@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_8th_november2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN KILCORNAN COMMUNITY CENTRE, KILCORNAN, CO. LIMERICK ON
@@ -47,6 +50,7 @@ It was agreed that the three local TD’s and Irish Water should again be writte
 need for an upgrade of the Askeaton Sewerage Treatment facilities and that the relevant Minister,
 the Taoiseach, local Senators and the EPA should also be contacted in this regard. Members also
 agreed that Irish Water and the EPA should be invited to the next Meeting of the District.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -100,6 +104,7 @@ are in agreement that works would be beneficial at this location and have agreed
 consider proposals from Limerick City & County Council. In accordance with their
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -150,6 +155,7 @@ Councillor Sheahan noted that unfortunately the message had gone out locally tha
 burials were to be allowed. He pointed out that he had since had discussions with Council staff
 
 and the position had been clarified.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -206,6 +212,7 @@ Sites Register.
 
 © Progress in bringing the Derelict Sites Registers for the City and County together in digital
 format, accessible by the public and the Elected Members.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -267,6 +274,7 @@ October, 2016 enclosing the Assessment Report on the Public Consultation Phase o
 Project for the introduction of a 30 kilometres per hour special speed limit in 5 housing estates in
 the Municipal District of Adare-Rathkeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Report was noted by the Members.
@@ -315,6 +323,7 @@ Planning and Development Act.
 Temporary dwellings that are parked on a public road / footpath and are not being
 lived in would be a matter for An Garda Siochana.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11. Notice of Motion submitted by Councillor A. Teskey.
@@ -362,6 +371,7 @@ In proposing the Motion Councillor Teskey noted instances where road works resul
 raising of the road level above the floor level of adjacent property with the potential for rainwater
 to drain from the road into such property. He suggested that in such instances the road should be
 first lowered then brought back to its original level with the new road making material.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -413,6 +423,7 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 
 ---

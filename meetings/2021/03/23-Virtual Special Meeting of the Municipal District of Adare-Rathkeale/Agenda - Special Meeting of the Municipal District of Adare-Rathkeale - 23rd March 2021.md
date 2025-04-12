@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-23rd-march-2021-1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach _ Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhasie Cathrach agus Contae Luimnigh
@@ -45,5 +48,6 @@ To discuss the proposed social housing development in Pallaskenry.
 = customerservices@limerick.te
 Ceanncheathri: Chorpardideach, Cé na gCeannaithe,Luimneach l © wvew.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick. Se eelraareae
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-b-minutes-budget-meeting-26.11.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD AT THE MILLENNIUM THEATRE, TUS

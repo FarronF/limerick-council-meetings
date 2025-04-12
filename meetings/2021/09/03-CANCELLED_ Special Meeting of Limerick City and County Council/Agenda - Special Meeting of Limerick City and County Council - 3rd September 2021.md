@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-08/agenda-and-requisition-special-meeting-03.09.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NN
 
@@ -48,6 +51,7 @@ Meetings Administrator.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick . (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ES
@@ -80,5 +84,6 @@ Clir Fergus Kilcoyne
 Cllr Elisa O’ Donovan
 
 Get Outlook for iOS
+
 
 ---

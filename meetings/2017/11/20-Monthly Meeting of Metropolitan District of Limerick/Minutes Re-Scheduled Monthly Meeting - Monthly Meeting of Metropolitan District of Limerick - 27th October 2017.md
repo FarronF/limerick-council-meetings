@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%28a%29%20Minutes%20Re-Scheduled%20Monthly%20Meeting%2027th%20October%202017.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT RE-SCHEDULED MEETING OF METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON FRIDAY, 27TH**

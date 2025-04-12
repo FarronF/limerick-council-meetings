@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%209th%20July%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ Comhaire Cathrach __ Ceantar Bardasach Ath Dara-Réth Cacta,
 & Contae Luimnigh Comhalrle Catheach agus — prs
@@ -49,6 +52,7 @@ Ceanncheathra Chorpardideach, Cé na gCeannaitheLuimneach | © wevewsimorickie
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 ( 061-556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Disposal of Land
@@ -83,6 +87,7 @@ To discuss the recent French group encampment at the Five Crosses, Rathkeale.
 
 tN
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 General Municipal Allocation (GMA) 2019
@@ -90,5 +95,6 @@ General Municipal Allocation (GMA) 2019
 To review position in relation to allocations under the General Municipal Allocation 2019.
 
 AOB
+
 
 ---

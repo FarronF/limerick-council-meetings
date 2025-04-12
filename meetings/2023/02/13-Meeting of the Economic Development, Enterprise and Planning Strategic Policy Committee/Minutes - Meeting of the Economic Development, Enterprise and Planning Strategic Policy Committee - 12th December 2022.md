@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2012th%20December%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 12 DECEMBER 2022 at 2PM IN**

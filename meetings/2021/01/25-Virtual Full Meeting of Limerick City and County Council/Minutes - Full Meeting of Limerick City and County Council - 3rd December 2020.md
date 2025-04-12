@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/01-b-minutes-council-meeting-03.12.2020.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD AT LIMERICK RACECOURSE, GREENMOUNT PARK,

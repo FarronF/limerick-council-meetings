@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-special-meeting-21.12.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach — = bia ler
 & Contae Luimnigh Combhairie Cathvach agus Contae Ludmnigh,
@@ -51,5 +54,6 @@ To seek the Members’ approval to the granting of the Honorary Freedom of Limer
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2028th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seubrisi Corparéideacha agus Bainistiock Athrulthe.
 Comhairie Cathrach agus Contae Luimnigh,
@@ -42,6 +45,7 @@ To consider proposal for the disposal of land at Ballinacarriga, Kildimo.
 
 Statutory Notice dated 16" September, 2015, already
 circulated — Copy Enclosed, together with report)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -97,6 +101,7 @@ Sector on the Environment Strategic Policy Committee.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -142,6 +147,7 @@ Services Strategic Policy Committee that the Council would endorse and
 
 support the Limerick Privilege Card.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -218,6 +224,7 @@ AOIFE Annual Conference to be held in Ballinasloe, Co Galway, on
 
 (Details already circulated electronically)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -259,6 +266,7 @@ Notice of Motion submitted by Councillor C. Prendiville
 | will move at the next meeting that Limerick City and County Council support
 the calls for a Referendum to completely delete the 8th Amendment from the
 Irish Constitution.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -310,6 +318,7 @@ Notice of Motion submitted by Councillor S. Browne
 the Government to restore in full the respite carer grant in the forthcoming
 budget.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 18.
@@ -339,5 +348,6 @@ place in other locations along the route.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

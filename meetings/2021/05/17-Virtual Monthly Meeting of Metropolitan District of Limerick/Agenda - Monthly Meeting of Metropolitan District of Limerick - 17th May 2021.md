@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-meeting-of-metropolitan-district-of-limerick-17th-may-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach
 & Contae Luimnigh
@@ -64,6 +67,7 @@ w @LimerickCouncil
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleanala
@@ -101,6 +105,7 @@ Electoral Area.
 
 engaged with the Council under the Repair and Lease Scheme to upgrade houses and the location
 of these houses per Electoral Area.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -141,6 +146,7 @@ possible use of solar compacting bins.
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for details of traffic calming
 measures and interventions in housing estates that have been designated a “30kph Slow Zone”.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -185,6 +191,7 @@ felling on the site of Gough Place, Rossbrien Road.
 Clonmacken Part 8 housing development and if the Council could issue an explanation for the
 delay.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 20. Question submitted by Councillor C. Sheehan
@@ -224,6 +231,7 @@ Road in Castletroy to facilitate people to safely cross the road and access the 
 County Council engage with hospitality traders, other local traders and An Garda Siochana to put
 plans in place to create a designated outdoor dining area in Limerick City Centre.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 | will move at the next Meeting of the Metropolitan District of Limerick that road space on the
@@ -242,5 +250,6 @@ Environment and Climate Change to roll out the initiative nationwide.
 
 29. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

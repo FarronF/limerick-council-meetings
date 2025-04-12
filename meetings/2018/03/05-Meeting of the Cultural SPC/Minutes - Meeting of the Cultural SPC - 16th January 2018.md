@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Item%201.pdf)
+
+---
 1
 
 A meeting of the Cultural Strategic Policy Committee was held in Council Chamber, Limerick

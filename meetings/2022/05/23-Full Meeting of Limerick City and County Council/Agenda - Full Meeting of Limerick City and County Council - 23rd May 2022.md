@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%20Ordinary%20Meeting%2023.05.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 : Serbhisi Corperaideacha,
 
@@ -61,6 +64,7 @@ Costelloe, Councillor.
 © wernt kmorickie
 Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 587150
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -126,6 +130,7 @@ Planning and Development Act, 2000 (as amended), at:
 Limerick.
 
 (q) Disposal of 0.002 hectares of land at Galvone industrial Estate, Limerick.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -197,6 +202,7 @@ transfers.
 
 (Report already circulated)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (4)
@@ -246,6 +252,7 @@ Note: Visit to Savannah previously approved at the January Meeting.
 be held in London on 15" and 16" June, 2022.
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (k)
@@ -286,6 +293,7 @@ That, Limerick City and County Council write to the Minister for
 Housing, Local Government and Heritage requesting that the Building
 Regulations be amended to ensure that all new houses would include
 the installation of chimney stacks.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -330,6 +338,7 @@ Community, Tourism and Culture
 Response to Ukraine Crisis
 
 To receive update on response to the Ukraine crisis.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -383,6 +392,7 @@ Question submitted by Councillor $. Keary
 to December 2021 to private marketing consultants engaged by this Authority; the
 names of the consultants and the type of service that they provided to this Authority.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -431,5 +441,6 @@ accredited DAFNE Centre (Dose Adjustment For Normal Eating), and when the first
 DAFNE training will be provided to staff and to people with Diabetes.
 
 Correspondence
+
 
 ---

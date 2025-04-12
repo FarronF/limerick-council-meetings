@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Minutes%20Special%20Meeting%2023rd%20October%2C%202017.pdf)
+
+---
 1
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**

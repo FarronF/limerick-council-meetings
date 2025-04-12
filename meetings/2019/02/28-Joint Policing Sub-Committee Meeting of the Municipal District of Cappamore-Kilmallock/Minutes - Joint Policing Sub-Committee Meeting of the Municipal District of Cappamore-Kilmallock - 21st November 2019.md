@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Minutes%20JPC%20Sub%20Committee%20Meeting%2021st%20November%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
@@ -41,6 +44,7 @@ in comparison with the same period in 2017 but did confirm that there had been a
 increase in thefts from cars. The Superintendent stressed the importance of members of the
 public ensuring that their vehicles were securely locked at all times and that no property
 should be left on display in cars.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -88,5 +92,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

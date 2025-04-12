@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%202018-12-05%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —=_—
 
@@ -79,6 +82,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ vevewAimerickie
 yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -125,6 +129,7 @@ maintenance (e) is there an emergency budget to carry out works.
 | will ask at the next Meeting for a detailed breakdown of when the vacant houses in
 Abbeyfeale, Athea, Mountcollins, Tournafulla and Templeglantine will be occupied.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -163,5 +168,6 @@ sale.
 
 | will move at the next Meeting that the road running parallel to New Street,
 Abbeyfeale be resurfaced (back of Jim Lanes Bar) as it is impassable.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-2021-03-03-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Duiche Bardais an Chaiste4in Nua Thiar
 il 6 Canna Luimnigh Comhairle Cathrach gus Contae Luimragh,
@@ -58,6 +61,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -112,6 +116,7 @@ looking for a ramp to slow cars down coming into this estate. It is particularly
 dangerous with the number of small children playing in the estate. Could this be
 looked at as a priority as it is an accident waiting to happen.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13.
@@ -151,5 +156,6 @@ Notice of Motion submitted by Councillor J. Scanian
 | will move at the next Meeting that the hand over process for refurbished Council
 properties by Design and Delivery be reviewed in the interest of improved efficiency
 and customer service levels for new tenants.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%2018.09.17.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ; Seirbhrisi C bideact
 ee Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
@@ -62,6 +65,7 @@ View, O’Malley Park, Limerick being transferred to Limerick City and County Co
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -104,6 +108,7 @@ Joint Policing Committee
 
 To note the proposal for the establishment of Geographical Sub Committee of the Joint
 Policing Committee and to agree arrangements for Sub Committee Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -155,6 +160,7 @@ meeting to amend our development plan to ban incineration, gasification, frackin
 This was sent to the Economic and Development SPC but that seems to have scheduled no
 meetings for May, June, July, August or September.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12.
@@ -205,6 +211,7 @@ N F Mi N
 within the Metropolitan District that is either zoned residential and or suitable for
 residential development, subject to zoning, to enable debate on fast-tracking the building
 of more social and affordable houses
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -260,5 +267,6 @@ Notice of Motion submitted by Cmhir. S. 6 Ceallaigh
 | will move at the next meeting that this Council calls on local owners of vacant properties
 to engage with the Council's housing department, with the aim of making these properties
 available.
+
 
 ---

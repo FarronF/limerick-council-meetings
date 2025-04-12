@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_special_meeting_15th_february2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Sewbnisi Corparéideacha,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -44,5 +47,6 @@ o@ vevevlimerickie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach t w @LimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
+
 
 ---

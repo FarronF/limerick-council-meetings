@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_adare-rathkeale_-_21st_april_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
@@ -44,6 +47,7 @@ e Cluain Ard, Fedamore”
 
 With the permission of the Cathaoirleach it was agreed to take item 5 on the agenda at this
 point.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -96,6 +100,7 @@ take item 4 on the agenda at this point.
 Councillor Neville welcomed representatives from Friends of the Great Southern Trail.
 The Deputation consisted of Denis McAuliffe and Jim McNamara.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -145,6 +150,7 @@ Cross, Adare.
 REPLY: There is a presumption that ‘Children at Play’ signage on rural roads is not
 appropriate where the general speed limit applies.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 It is the responsibility of a driver to obey a Speed Limit and to ensure that the
@@ -190,6 +196,7 @@ identical to the reply that had been given to Item 7 on the Agenda.
 / will move at the next Meeting that Limerick City and County Council construct a
 footpath at Drominclara, Pallaskenry. This footpath was previously promised to
 Pallaskenry Community Council and was not constructed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -243,6 +250,7 @@ May Meeting, which is scheduled for 12" May 2015, be brought forward to 5” May
 
 Members indicated that they would agree on a date for the Meeting at a later stage.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14. Correspondence
@@ -265,5 +273,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

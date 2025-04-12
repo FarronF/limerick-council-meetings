@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_meeting_of_limerick_city_county_council_-_19-09-16.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Setrbiisi Corparaideacha agus Bainistiocht Atrruithe
 Comnairie Cathrach agus Contae Luimnigh
@@ -42,6 +45,7 @@ To consider filling casual vacancy on the Council consequent on the election
 of Councillor Maria Byrne to Seanad Eireann.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -92,6 +96,7 @@ To consider whether to pass a resolution to vary the basic rate of Local
 Property Tax.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -147,6 +152,7 @@ Catchment Flood Risk Assessment and Management (CFRAM)
 To hear presentation on Catchment Flood Risk Assessment and Management
 (CFRAM) Draft Flood Risk Management Plans (FRMP).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Regional Services Directorate
@@ -200,6 +206,7 @@ To consider participation by Members at the following Conferences:
 (a) Conference on Brexit, the Economic Consequences for Ireland, held in
 Clonakilty, Co. Cork, from 5™ to 7™ August, 2016.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -246,6 +253,7 @@ I will ask at the next meeting if LCO Enterprise Development Company has prepare
 
 the design frameworks for each of the strategic sites in the Limerick 2030 Plan and
 when these would be presented to the Members of the Council.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -294,6 +302,7 @@ to Environment Strategic Policy Committee)
 introduce Orthophosphate to the Water Supply in Limerick and Clare, and instead
 calls on them to use those resources to locate and replace lead pipes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13.
@@ -333,5 +342,6 @@ Council.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

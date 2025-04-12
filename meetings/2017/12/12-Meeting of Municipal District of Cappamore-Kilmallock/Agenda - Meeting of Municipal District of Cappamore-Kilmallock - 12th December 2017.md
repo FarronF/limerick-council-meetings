@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/00%20Agenda%20Meeting%20MD%20Cappamore-Kilmallock%20121217.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Setrbhisi Corpardideacha,
 _—_—_ 5 Cordasludneion Comhairle Coeach acne Comes Luimnnigh,
@@ -51,6 +54,7 @@ customerservices@limerick.ie
 Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach ¥ @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -77,5 +81,6 @@ Question submitted by Councillor E. Ryan
 funding to carry out works under the Local Improvement Scheme; (b) how many are on
 the waiting list for the Scheme in Limerick; and (c) how many are on the waiting list for
 the Scheme in the Municipal District of Cappamore-Kilmallock.
+
 
 ---

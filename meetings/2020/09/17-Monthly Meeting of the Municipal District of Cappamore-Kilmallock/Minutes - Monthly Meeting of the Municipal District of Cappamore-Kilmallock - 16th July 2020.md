@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/04-minutes-july-2020-mthly-mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE PASTORAL
@@ -46,6 +49,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Under Matters Arising, the Elected Members referred to recent media reports citing a
@@ -90,6 +94,7 @@ would create an exemption from the requirement to pay parking fees for a maximum
 four hours and that this exemption would be reviewed after a period of twenty-four months
 from their adoption to take account of possible developments in the Electric Vehicle sector.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 He confirmed that the statutory Bye-Law process required the Local Authority to undertake
@@ -130,6 +135,7 @@ District Area.
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
 Limerick City and County Council install traffic calming measures and appropriate signage on
 the west side approach road into Bruree village on the R518.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -178,6 +184,7 @@ under the framework of the Local Economic and Community Plan (LECP) for Limerick
 and County prepared by the LCDC. Ballyhoura Development, West Limerick resources and
 the Paul Partnership each have a role to play in business support in their own respective
 areas.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -228,6 +235,7 @@ equipment. There are a further 12 prosecutions pending at present.
 2. The equipment was installed in both urban and rural areas where there was a high
 number of illegal dumping/waste issues recorded.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. There is no specific annual budget for CCTV equipment but the costs are paid from
@@ -276,6 +284,7 @@ that are operated by Limerick City and County Council and Shannon Commercial Pro
 
 Reply:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Shannon Commercial Properties no longer have any Business Parks in the Cappamore
@@ -316,6 +325,7 @@ be invited to attend, in addition to the Superintendent from the Bruff District.
 agreed to invite AnneMarie McDonald, Community Sustainment Officer, Limerick City and
 County Council to the Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ¢ Thomastown Railway Crossing
@@ -330,6 +340,7 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 
 ---

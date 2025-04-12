@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2013%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ————
 
@@ -46,6 +49,7 @@ Meetings Administrator.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 /
@@ -81,5 +85,6 @@ Clit Joe Crowley
 Cllr Kieran O'Hanlon
 
 Cllr Jerry O'Dea
+
 
 ---

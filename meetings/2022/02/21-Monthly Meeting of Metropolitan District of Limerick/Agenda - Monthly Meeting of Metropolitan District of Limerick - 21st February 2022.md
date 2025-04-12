@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-february-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 — Comhairle Cathrach
 & Contae Luimnigh
@@ -60,6 +63,7 @@ mcustomerservices@limerick.io
 @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land
@@ -101,6 +105,7 @@ formulation of a Tree Strategy for Limerick City and County Council.
 | will ask at the next Meeting of the Metropolitan District of Limerick for a report on trees felled by
 Limerick City and County Council during 2021 to include the number of trees felled, the number of
 felling licenses applied for, the number of tree reports completed and the costs involved.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -146,6 +151,7 @@ upgrade works will commence at the People's Park playground as they are long ove
 | will ask at the next Meeting of the Metropolitan District of Limerick that a bus shelter be considered
 outside St. Nessan's School.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13. Question submitted by Councillor E. O'Donovan
@@ -187,6 +193,7 @@ sometimes sweep onto the footpath, possibly endangering pedestrians.
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 proposed upgrades of the Playground in the People's Park.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICES OF MOTION
@@ -227,6 +234,7 @@ plan for Bloodmill Road and the surrounding area be examined and revised as a ma
 given the volume of traffic, the proposed new school and the recent residential developments in
 the area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 25. Notice of Motion submitted by Councillor S. Kiely
@@ -241,5 +249,6 @@ County Council increase the Burial Ground Maintenance Grant for 2022.
 27. Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-2021-05-05-minutes.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -42,6 +45,7 @@ West, held on 7* April, 2021.
 
 Proposed by: Councillor Galvin
 Seconded by: Councillor Ruddle
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -90,6 +94,7 @@ On the proposal of Councillor Ruddle, seconded by Councillor Galvin, it was agre
 
 On the proposal of Councillor Ruddle, seconded by Councillor Galvin, it was agreed to allocate
 €2,000 to Corrandeel Housing.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -141,6 +146,7 @@ population figures.
 
 In litter fines, €300 was collected and there was no money collected in dog fouling fines.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councillor Galvin expressed dissatisfaction at the response received with regard to the
@@ -189,6 +195,7 @@ and hall in Castlemahon. The school has a multi million euro extension for compl
 September and there is also a new school/community field being developed. There is
 excessive speed in this location and it is difficult to cross the road.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 REPLY: The completion of a speed survey and a pedestrian count survey will be
@@ -236,6 +243,7 @@ community housing units at Nunan’s corner in the village.
 
 REPLY:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The needs assessment in determining the number and a suitable bed-type mix for the
@@ -280,6 +288,7 @@ REPLY: This estate is currently in the process of being taken in charge by the C
 
 Once the taking in charge process is complete, the installation of 30kph signage
 will be carried out.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -331,6 +340,7 @@ The project is at a very early stage (concept design) it is anticipated it will 
 the WWTP project is completed. This will be subject to funding and other approvals including
 statutory processes”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 In proposing the Motion, Councillor Scanlan requested that priority be given to upgrading
@@ -381,6 +391,7 @@ the Limerick Greenway on both short sections immediately on either side of Stati
 (b) that a native tree planting programme be put in place to compliment the amenity
 where this is possible.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Motion was seconded by Councillor Ruddle.
@@ -424,6 +435,7 @@ out as appropriate.
 The substantial amount of money paid out by Irish Public Bodies for insurance claims in
 Limerick City and County Council was referred to. The responsibility for vehicles parking on
 footpaths was also raised.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -477,6 +489,7 @@ It was agreed to hold the Annual Meeting of the District on Wednesday, 2"? June,
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 This concluded the Meeting.
@@ -488,5 +501,6 @@ Dated:
 Cathaoirleach
 
 11
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02-minutes_of_special_meeting_08.01.2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT A SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -52,6 +55,7 @@ Ongoing support from IFI, OPW, EPA, Irish Water and Limerick City & County
 Council.
 
 VVVVVVYV
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -123,6 +127,7 @@ the River Loobagh would cost €40,656.
 
 €40,656
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Members commended the Delegation for their presentation adding that it was a
@@ -135,5 +140,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

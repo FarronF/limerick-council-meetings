@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01b-2021-10-20-minutes-draft-budgetary-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE
@@ -45,6 +48,7 @@ B04 Local Roads ____| 95,000 :
 
 | [Amenity |
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Community Initiatives
@@ -82,5 +86,6 @@ Signed:
 
 Cathaoirleach
 Dated
+
 
 ---

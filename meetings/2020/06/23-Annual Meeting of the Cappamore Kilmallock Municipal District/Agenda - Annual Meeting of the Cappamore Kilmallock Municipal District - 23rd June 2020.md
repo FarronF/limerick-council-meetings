@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/06-agenda-annual-meeting-23-6-20.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Olig en Cheentel, Anes php tes
@@ -44,5 +47,6 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seot
 Limerick City and County Council, Aras Mainchin Seoighe Area Office y Cosas
 
 19
+
 
 ---

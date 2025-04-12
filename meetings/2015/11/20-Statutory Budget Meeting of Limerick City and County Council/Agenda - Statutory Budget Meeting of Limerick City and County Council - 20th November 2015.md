@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Statutory%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2020th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -52,6 +55,7 @@ Regulations, 2014, and Section 14 of the Local Government Act, 1946.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4. To consider the Capital Programme 2016-2018 in accordance with Section
@@ -81,5 +85,6 @@ Medium Business Support Scheme 2016 and copy of proposed Tourism Support
 Scheme 2016, copy of revised Limerick City & County Council Business & Retail
 
 Incentive Scheme)
+
 
 ---

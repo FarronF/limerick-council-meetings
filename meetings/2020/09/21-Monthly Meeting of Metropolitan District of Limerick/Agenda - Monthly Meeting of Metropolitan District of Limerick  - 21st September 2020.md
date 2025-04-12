@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-monthly-meeting-21st-september-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach Combisirie Camwach eps Conmeetuaneton
 - . ¥
@@ -51,6 +54,7 @@ de
 Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land
@@ -92,6 +96,7 @@ of the Existing Playground at Castletroy, Limerick.
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5. Economic Development Directorate
@@ -129,6 +134,7 @@ Corbally and Kings Island and the timeframe for completion for both projects.
 
 for the installation of new bus shelters and what locations in the Limerick City East area will benefit
 from this funding.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -169,6 +175,7 @@ Metropolitan Council meetings.
 
 | will ask at the next Meeting for a breakdown of the expenditure of the Guiding Limerick through
 Covid plans.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -212,6 +219,7 @@ person.
 Council compiles data on the demand for housing from people on the housing list in each area of
 preference based on number of bedrooms required and publishes these figures.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 24. Notice of Motion submitted by Councillor D. McSweeney (to be referred to the Climate Action,
@@ -245,10 +253,12 @@ for people of all ages and all abilities.
 City Hall in purple for International Recovery Day on 30th of September, in support and recognition
 of all those who have lost their lives to addiction and those who are in active recovery.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 30. Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28b%29%20Minutes%20of%20Draft%20Budgetary%20Plan%202020%20Meeting%2023rd%20October%2C%202019.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING OF THE MUNICIPAL**
 
 **DISTRICT OF ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE,**

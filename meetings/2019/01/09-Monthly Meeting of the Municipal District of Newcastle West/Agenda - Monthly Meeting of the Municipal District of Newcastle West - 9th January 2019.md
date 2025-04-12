@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%202019-01-09%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _————
 
@@ -80,6 +83,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 & wwwlimerickie
 w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 S.
@@ -129,6 +133,7 @@ ADJOURNED NOTICES OF MOTION
 Notices of Motion submitted by Councillor L. Galvin
 
 | will move at the next Meeting that the purchase of the Lane property, Killarney Road,
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -197,6 +202,7 @@ Notice of Motion submitted by Councillor Scanlan
 between the Kerry Co-Op premises and Clooneyskehane in the interest of pedestrian
 safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21,
@@ -206,5 +212,6 @@ Notice of Motion submitted by Councillor Collins
 | will move at the next Meeting that this Municipal District will impose a voluntary ban
 on election posters for this year’s Council, European and any Referenda elections
 taking place on May 24" 2019.
+
 
 ---

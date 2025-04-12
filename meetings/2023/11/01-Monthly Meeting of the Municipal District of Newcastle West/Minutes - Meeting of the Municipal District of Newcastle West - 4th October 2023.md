@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-Minutes-Meeting-of-the-Municipal-District-of-Newcastle-West-4th-October-2023.pdf)
+
+---
 MINUTES
 
 OF

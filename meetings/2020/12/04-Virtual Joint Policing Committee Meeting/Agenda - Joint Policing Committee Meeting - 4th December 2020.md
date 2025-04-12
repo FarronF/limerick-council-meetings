@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/signed-agenda-jpc-meeting-4th-dec-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -83,6 +86,7 @@ w @LimerickCouncil
 
 \ 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -147,5 +151,6 @@ Notice of Motion submitted by Dr. Breda Hayes
 Justice and to the Minister for Children seeking legislative intervention to remove the
 prohibition in Section 252 of the Children Act 2001 against naming child victims in
 appropriate circumstances”.
+
 
 ---

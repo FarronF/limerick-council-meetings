@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/Item%20for%20Agenda%20-%20Ardrahan%2C%20Galbally%20-%20Purchase%20of%20Freehold%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%202.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_—— Comhairle Cathrach
 & Contae Luimnigh
@@ -67,6 +70,7 @@ customerservices@limerick.ie
 
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 HLT was enysnpuen
@@ -75,6 +79,7 @@ HLT was enysnpuen
 gt
 
 4+ Ec
+
 
 
 ---

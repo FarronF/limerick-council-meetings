@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-special-meeting-05.02.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -57,6 +60,7 @@ m Customerservices@limerick ie
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Mayor 2 chara ‘
@@ -74,5 +78,6 @@ Srcron Sensor eu <r be
 bina. Secas
 CoNol, Sadho =
 yee ge
+
 
 ---

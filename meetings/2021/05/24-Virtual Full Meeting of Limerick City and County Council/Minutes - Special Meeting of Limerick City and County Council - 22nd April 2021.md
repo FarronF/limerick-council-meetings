@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-d-draft-minutes-special-meeting-22.04.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON THURSDAY, 22ND APRIL, 2021, AT

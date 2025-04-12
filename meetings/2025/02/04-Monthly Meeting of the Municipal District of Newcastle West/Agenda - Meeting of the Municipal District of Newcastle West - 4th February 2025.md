@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/00-2025-02-04-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ae Comhairle Cathrach Duce Bardais an Chaisedin Nua Thiar,
 & Contae Luimnigh Conde coneises ree ae ,
@@ -46,6 +49,7 @@ Corporate Headquarters, Merchant's Quay, Limerick VW @limerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -82,5 +86,6 @@ is identified and implemented on Regional Roads within our Municipal Area.
 
 | will move at the next Meeting that our Local Authority identify/provide a premises
 for a much needed Men’s Shed facility in the immediate Newcastle West vicinity.
+
 
 ---

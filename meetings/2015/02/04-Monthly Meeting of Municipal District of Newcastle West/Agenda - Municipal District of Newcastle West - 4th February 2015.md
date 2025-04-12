@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_4th_february_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_—_— Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -57,6 +60,7 @@ To receive Deputation from Newcastle West Arts Committee.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -99,6 +103,7 @@ Authority regarding the linking up of the crash barrier at Barna.
 | will ask at the next Meeting what the current position is regarding a traffic plan at the
 entrance to Breen’s house at Barna.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -117,5 +122,6 @@ Notice of Motion submitted by Councillor M. Collins
 | will move at the next Meeting that an assessment be carried out on the bridge over the
 White River at Glensharrold, Carrigkerry. It is old and in poor condition and a safety
 hazard for users.
+
 
 ---

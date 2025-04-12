@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20October%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle pcb
 & Contae Luimnig!
@@ -82,6 +85,7 @@ w @LimerickCouncil
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -132,11 +136,13 @@ Notice of Motion submitted by Councillor G. Mitchell
 amended to include upgrade of Sewerage Treatment Plants which are not fit for
 purpose.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Notice of Motion submitted by Councillor B. Teefy
 
 8. | will move at the next Meeting that this Municipal District request, as a matter of
 urgency, that extra Gardai be assigned to the Bruff District.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-20th-June-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 ; o~ & Contae & Contae Luimnigh
@@ -53,6 +56,7 @@ oe werwkimerickie
 
 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land
@@ -102,6 +106,7 @@ is the cost per waiver to the local authority for the service.
 consider closure of Back Lane at Mother Macs with a start time of 11am and not 6pm as this was
 very successful for this area last Summer.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7. Question submitted by Councillor E. O’Donovan
@@ -142,6 +147,7 @@ audit for Loughmore Canal.
 | will ask at the next Meeting of the Metropolitan District of Limerick, what plans do the Council
 have for St. Anne’s Court and if they could provide an update on any developments.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICES OF MOTION
@@ -181,5 +187,6 @@ Ballynanty areas.
 
 20. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

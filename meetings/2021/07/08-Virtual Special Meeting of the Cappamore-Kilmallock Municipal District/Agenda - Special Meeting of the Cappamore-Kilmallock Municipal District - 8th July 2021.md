@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-8th-july-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ft omens aptly er
 
@@ -46,5 +49,6 @@ _ — —_ aiameay pa
 @LimerickCouncil
 
 Limerick City and County Council, Aras Mainchin Seoighe Area Office v
+
 
 ---

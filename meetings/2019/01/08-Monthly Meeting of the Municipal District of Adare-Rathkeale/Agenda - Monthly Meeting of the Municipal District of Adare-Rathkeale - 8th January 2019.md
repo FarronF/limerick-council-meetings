@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%208th%20January%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach
 & Contae Luimnigh
@@ -75,6 +78,7 @@ W e@LimerickCouncil
 
 © 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Physical Development Directorate
@@ -113,6 +117,7 @@ districts littering offence laws during the month of December 2018.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -134,5 +139,6 @@ commercial vehicles in Rathkeale town.
 purchase order to the vacant housing estate on the Ballywilliam Road in Rathkeale.
 
 AOB
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01a%202018-05-02%20Minutes%20May.pdf)
+
+---
 MINUTES
 
 OF

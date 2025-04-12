@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/00%20Agenda%2014th%20May%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairte Cathrach agus Contae Luimnigh,
@@ -54,6 +57,7 @@ Corporate Headquarters, Merchants Quay, Limerick. WY @limerickCouncit
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Design and Delivery Services
@@ -90,6 +94,7 @@ To note Development Fund allocations 2019.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -125,5 +130,6 @@ Rathkeale Municipal District to vote no in the forthcoming plebiscites for a dir
 elected mayor.
 
 AOB
+
 
 ---

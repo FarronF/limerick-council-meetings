@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%2017th%20May%252c%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 tas
 =
@@ -69,6 +72,7 @@ customerservices@limerickic
 vy
 (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Support Services Directorate - Corporate Services
@@ -108,6 +112,7 @@ To note update on proposals to address the flooding issues in Foynes, Askeaton a
 
 Ballysteen.
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -169,6 +174,7 @@ Minster for Justice and An Garda Siochana for an immediate upgrading of Garda ve
 Croom Garda Station, in light of the age and condition of the current vehicles.
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17.
@@ -190,5 +196,6 @@ those responsible for the maintenance of the National roads in this District.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

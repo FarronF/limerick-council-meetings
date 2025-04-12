@@ -1,7 +1,0 @@
-# Meeting Details
-
-**Meeting Name:** Adare Public Consultation on the Shannon Catchment Flood Risk Assessment and Management
-
-**Date and Time:** 2015-12-09 14:00:00
-
-**<a href="https://www.limerick.ie/council/whats-on/adare-public-consultation-shannon-catchment-flood-risk-assessment-and-management" target="_blank">Link to meeting</a>**

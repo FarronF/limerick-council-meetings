@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-january-council-meeting-25.01.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach
 —_ & Contae Luimnigh
@@ -73,6 +76,7 @@ w @LimerickCouncil
 
 © 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (d) 9-10, Patrick Street, Limerick.
@@ -116,6 +120,7 @@ Policy Committee held on 15"" December, 2020.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (v) Chairperson’s Report ~ Meeting of Home and Social Development
@@ -155,6 +160,7 @@ To consider approving recommended allocations of strategic investment
 priorities for the delivery of the Limerick Cultural Strategy in 2021.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -199,6 +205,7 @@ Notice of Motion submitted by Councillor E. Ryan
 I will move at the next Meeting that Limerick City and County Council retain its current
 City and County Development Plans until 2026.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -240,5 +247,6 @@ issues around this policy; and (c) that this Motion be circulated to all local A
 to discuss.
 
 Correspondence
+
 
 ---

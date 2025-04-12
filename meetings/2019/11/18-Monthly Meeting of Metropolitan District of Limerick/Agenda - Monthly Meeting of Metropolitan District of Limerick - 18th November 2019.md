@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Monthly%20Meeting%2018th%20November%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 . Sewbhisi Corparaideacha,
 ell Comhairle Cathrach Comhairle Cathrach agus Contae Luimragh
@@ -54,6 +57,7 @@ of 0.136 Hectares to Limerick City and County Council.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach (Reperts-Ervotctdjaci
 Corporate Headquarters, Merchants Guay, Limerick . 061-
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Service Operations Directorate
@@ -93,6 +97,7 @@ QUESTIONS
 | will ask at the next Meeting for an update on the Coke Zero Bike Scheme proposed extension to
 L..T. Also, when the opening of the Colbert Station Bike Scheme and reopening of the King Johns
 Castle Station might take place and why there is currently a delay with this scheme.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -139,6 +144,7 @@ many were allocated to people living in emergency accommodation.
 | will ask at the next Meeting how many dog fouling fines have Limerick City and County Council
 issued so far this year, how many were paid and how many have resulted in prosecution.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -179,6 +185,7 @@ inception of the project.
 | will ask at the next Meeting to please advise on the maximum wait times for all controlled
 pedestrian crossings in the Metropolitan Area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICES OF MOTION
@@ -216,6 +223,7 @@ Wickham Street to the Park Canal.
 extend the opening hours of the TEP services to provide 24hr accommodation to service users and
 to provide access to daytime facilities and appropriate supports, as a matter of urgency.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -248,5 +256,6 @@ chartered transport planner to provide professional input to all Directorates.
 | will move at the next Meeting that Limerick City and County Council would set an active travel
 modal share target of 50% for the Limerick Metropolitan Area as an objective of the Limerick
 Shannon Metropolitan Area Transport Strategy (LSMATS).
+
 
 ---

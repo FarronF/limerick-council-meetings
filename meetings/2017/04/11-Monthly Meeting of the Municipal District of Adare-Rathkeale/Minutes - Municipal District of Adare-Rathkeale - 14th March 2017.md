@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_14th_march_2017.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN BALLYHAHILL COMMUNITY HALL, BALLYHAHILL, CO. LIMERICK ON**

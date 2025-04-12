@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/draft_minutes_-_environment_strategic_policy_committee_-_24_october_2016.pdf)
+
+---
 **TO:**
 
 **The Chairperson and each Member of the Limerick City and County Council**

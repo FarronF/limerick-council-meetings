@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-november-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -72,6 +75,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 YW @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -112,6 +116,7 @@ Ardagh, Co. Limerick.
 Churchtown, Newcastle West, Co. Limerick.
 
 (Reports Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -166,6 +171,7 @@ road resurfacing, water and lighting.
 newly created islands from Mountmahon towards the town (b) can a contract be put
 in place to have these cut on a regular basis.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 16.
@@ -196,5 +202,6 @@ Notice of Motion submitted by Councillor L. Galvin
 
 | will move at the next Meeting that speed ramps be installed at the two entrances
 to Athea village (Upper and Lower Athea).
+
 
 ---

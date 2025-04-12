@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%20March%20Meeting%20260318.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Seirbhisi Corparaideacha,
 _—_—_—_—_ B ondsa Laliminian Comhairle coher ee
@@ -65,6 +68,7 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach vel
 imerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -103,6 +107,7 @@ To consider the adoption of the Audit Committee Work Programme
 2018 for Limerick City and County Council Audit Committee
 
 (Report and Draft Work Programme Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -154,6 +159,7 @@ appropriate action is taken against landlords letting substandard
 accommodation.”
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (ii)
@@ -201,6 +207,7 @@ Chairperson’s Report - Community, Leisure and Emergency Services
 Strategic Policy Committee Meeting held on 19” February, 2018.
 
 (Chairperson’s Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -250,6 +257,7 @@ Act, 2001, as amended.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -294,6 +302,7 @@ Policy for Urban Areas, in accordance with Section 130 of the Local Government A
 2001, as amended, and Section 38 of the Road Traffic Act, 1994, as amended.
 
 (Report and Draft Policy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -340,6 +349,7 @@ Letterkenny, Co. Donegal, from 6™ to 8” April, 2018.
 
 on 11" April, 2018.
 (Details already circulated electronically)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -391,6 +401,7 @@ County Council tenants, when was the previous rent review; due to the distress
 caused to some tenants following the most recent review, could it be confirmed that
 these reviews will carried out on an annual basis.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -436,6 +447,7 @@ Notice of Motion submitted by Councillor J. Scanlan
 requested to consider retaining CSPE (Civic, Social and Political Education) as a Junior
 Certificate examination subject.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 20.
@@ -454,5 +466,6 @@ derelict, vacant, and in poor states of repair.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

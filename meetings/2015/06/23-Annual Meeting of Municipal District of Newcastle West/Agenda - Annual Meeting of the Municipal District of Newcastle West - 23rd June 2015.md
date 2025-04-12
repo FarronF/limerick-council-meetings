@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2023rd%20June%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -46,5 +49,6 @@ until the next Annual Meeting or until a successor has been elected.
 @ customerservices@limerick.ie
 Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach oe vewewstimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

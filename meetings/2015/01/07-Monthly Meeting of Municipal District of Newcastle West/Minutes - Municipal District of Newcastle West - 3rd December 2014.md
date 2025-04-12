@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_3rd_december_2014_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM
@@ -35,6 +38,7 @@ Seconded by Councillor Browne;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -86,6 +90,7 @@ Association stated, however, that the completion of the scheme was dependent on
 Department approval within the timeframe specified. They also stated that Members
 would be kept up-to-date on progress of the scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Two Representatives, Neil Bolton and James O'Halloran, attended on behalf of Cluid
@@ -126,6 +131,7 @@ complete.
 
 Members again expressed concern about not having access to the Main Offices and,
 following a brief discussion, it was agreed to bring the matter to a Party Leader's Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -193,6 +199,7 @@ Abbeyfeale. The current allocated houses in Newcastle West have 20 refusals reco
 them in 2014. In some instances there have been multiple refusals on the same property.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The current allocation of 14 houses will be closely monitored and further offers will be
@@ -241,6 +248,7 @@ REPLY:
 Carrig Desmond, Churchtown: A Legal Agreement is to be signed between Limerick City
 & County Council and the Bond Holder. The contractor will commence on-site once this
 agreement is completed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -295,6 +303,7 @@ REPLY: Camas Road and McLoughlins Road are included in the Roads Programme
 Repairs to The Mass Rock will be considered later in the year subject to
 sufficient funding being available.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10. Question submitted by Councillor M. Collins
@@ -342,6 +351,7 @@ Councillor Scanlan seconded the Motion.
 REPLY: This is private property. The Council has checked the matter with the Office
 of Public Works who have informed us that the property owner at this
 location is responsible for protecting his/her property against river erosion.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -392,6 +402,7 @@ removal by the Council's Parks and Landscaping Department and these
 
 trees have now been removed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14. Correspondence:
@@ -420,5 +431,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

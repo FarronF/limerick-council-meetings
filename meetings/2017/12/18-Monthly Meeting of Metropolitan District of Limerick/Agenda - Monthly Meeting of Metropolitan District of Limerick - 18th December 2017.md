@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Agenda%2018th%20December%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Seirbhisi Corparaideacha.
 : 2 Cathrach Contae
@@ -58,6 +61,7 @@ Prospect, Limerick being transferred to Limerick City and County Council.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -107,6 +111,7 @@ Question submitted by Councillor M. McCreesh
 
 | will ask at the next Meeting foran update on Air Quality monitoring within the
 Metropolitan area.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -164,6 +169,7 @@ establish, fund and resource an Annual National ‘Make Way Day’ which would b
 in each region and that this District will annually support and promote a local ‘Make Way
 Limerick’ campaign as part of the wider ‘Make Way Day’.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -216,5 +222,6 @@ Pope Francis will include Limerick as part of the itinerary of his visit to Irel
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

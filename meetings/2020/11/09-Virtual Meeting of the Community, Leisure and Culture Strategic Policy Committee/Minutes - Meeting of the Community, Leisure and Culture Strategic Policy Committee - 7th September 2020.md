@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-7th-of-september-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Community, Leisure & Culture Strategic Policy Committee Meeting 07/09/2020
 
@@ -45,6 +48,7 @@ committee meeting held on the 6" July, 2020 were unanimously adopted.
 
 _
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Item 2: Matters Arising
@@ -90,6 +94,7 @@ Following the presentation, the members were given the opportunity to ask questi
 
 L Crowley highlighted that she would like to see more county based festivals and also an
 emphasis on attracting rural visitors to the city and vice versa.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -139,6 +144,7 @@ agreed as follows:
 
 11" October, 2021 3.00pm
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Locations of the above meetings are to be decided.
@@ -147,6 +153,7 @@ Cllr O’ Hanlon thanked all speakers and acknowledged the hard work they had pu
 today’s presentations.
 
 As there were no other matters for discussion, the meeting was brought to a close.
+
 
 
 ---

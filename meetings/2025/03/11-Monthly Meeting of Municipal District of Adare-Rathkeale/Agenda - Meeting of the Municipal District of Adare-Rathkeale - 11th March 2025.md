@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-11th-march-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ae Comhairle Cathrach ; Coantar Bardasach Ath Dara-Rath Cacla,
 & Contae Luimnigh Comnhetie Cathrach eg.s Contac Luimmnigh,
@@ -54,6 +57,7 @@ Sean So SS eee 1 @ veo Mimerickie
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Declaration of Interest
@@ -91,6 +95,7 @@ General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2025.
 
 nN
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -140,6 +145,7 @@ and Employment to ask for an update on what the Government have done to date and
 what measures if any have they undertaken to address the impending closure of Wyeth
 Nutritional.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -159,5 +165,6 @@ Notice of Motion submitted by Councillor J. O’Donoghue
 especially around the number of days it was being repaired in 2024 and the costs involved.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

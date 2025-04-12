@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Special%20Meeting%20130618.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i Seirdhisi Corpardideacha,
 _—__ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
@@ -46,5 +49,6 @@ veer limerickie
 
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach yw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - $57150
+
 
 ---

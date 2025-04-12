@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-ii-2020-09-02-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 gL Comhairle Cathrach
 & Contae Luimnigh
@@ -71,6 +74,7 @@ To review position in relation to allocations under the General Municipal Alloca
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -123,6 +127,7 @@ Questions submitted by Councillor J. Scanian
 | will ask at the next Meeting when footpath renewal work is likely to be undertaken
 along the right hand Beechwood Avenue approach to Meadow Court Estate., as well
 as that fronting properties towards House No. 20 on the left hand side therein.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -187,10 +192,12 @@ Notices of Motion submitted by Councillor M. Collins
 Bus Eireann to provide two bus shelters at South Quay, Newcastle West, one serving
 passengers travelling South West and the other serving passengers going North East.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21. —_‘ It will move at the next Meeting that Limerick City and County Council look at the
 cleaning and security of Newcastle West playground. In recent times the playground
 has become an area for littering and anti social behaviour.
+
 
 ---

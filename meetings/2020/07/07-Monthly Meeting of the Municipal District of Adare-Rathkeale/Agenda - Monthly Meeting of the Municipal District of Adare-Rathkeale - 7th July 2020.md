@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/00-agenda-7th-july-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 & Contae Luimnigh Comthnirle Cathrach agus Contae Luimnigh,
@@ -51,6 +54,7 @@ To update Members on issues of interest in the District.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach ] p pet
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -87,5 +91,6 @@ boundary fencing etc along the river bank by the Sli na Slainte walk in Rathkeal
 the recent investment into the Greenway.
 
 0.8
+
 
 ---

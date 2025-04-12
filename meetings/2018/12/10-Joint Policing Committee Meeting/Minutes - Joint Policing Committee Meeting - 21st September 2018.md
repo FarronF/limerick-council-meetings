@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-limerick-joint-policing-committee-21st-september-2018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING
 COMMITTEE HELD IN COUNCIL CHAMBER, MERCHANT’S QUAY, ON
@@ -45,6 +48,7 @@ Councillor Keary requested an update in respect of a previous query in relation 
 Garda road signs being removed from National Primary Routes. The Chief Superintendent
 requested that details of same be forward to Sergeant O'Donoghue for his attention.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Ms. McElvaney requested that the names of all the Community Guards and the areas
@@ -90,6 +94,7 @@ Traffic
 He acknowledged that vehicle thief was a problem around the city, with some
 vehicles being left unlocked. He informed the Members that the amount of burglaries had
 decreased over the last few months due to an increase of patrolling and arrest of anumber
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -139,6 +144,7 @@ The Motion was proposed by Councillor Keary and seconded by Councillor Mitchell.
 In proposing, the Motion Councillor Keary highlight the controls of selling most goods
 and services. The Members acknowledged that Traffic Corps were proactive in policing this
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 issues but legislation for same needed to be strengthen. Following further discussion, the
@@ -164,5 +170,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

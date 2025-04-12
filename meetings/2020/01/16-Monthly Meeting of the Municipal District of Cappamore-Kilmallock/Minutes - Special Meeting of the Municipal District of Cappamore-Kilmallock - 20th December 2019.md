@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/03%20Minutes%20Special%20Meeting%20Dec%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -40,6 +43,7 @@ The Cathaoirleach recalled that the late Michael Barry, who was from Cappawhite,
 Tipperary was originally elected onto the then Limerick County Council in 1974 and served
 with distinction as @ Councillor over the following decades, He paid tribute to Mr Barry
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 describing him as a gentleman who was very intelligent and performed very effectively as a
@@ -79,5 +83,6 @@ This concluded the Meeting.
 Signed:
 
 Date:
+
 
 ---

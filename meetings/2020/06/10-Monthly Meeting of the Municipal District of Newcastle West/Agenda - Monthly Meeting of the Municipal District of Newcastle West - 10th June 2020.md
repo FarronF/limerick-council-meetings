@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-06-10-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ Comhairle Cathrach
 & Contae Luimnigh
@@ -72,6 +75,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4. General Municipal Allocation
@@ -119,9 +123,11 @@ Notices of Motion submitted by Councillor J. Scanian
 11. | will move at the next Meeting that an audit of the utilities infrastructure within
 Newcastle West be conducted in the interest of public safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12. | will move at the next Meeting that a safety audit be carried out on the derelict
 plant at Castlemahon.
+
 
 ---

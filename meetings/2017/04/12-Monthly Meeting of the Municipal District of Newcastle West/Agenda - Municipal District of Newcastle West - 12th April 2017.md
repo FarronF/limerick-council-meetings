@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-04-12_agenda_april_meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -54,6 +57,7 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Com rt Services
@@ -98,6 +102,7 @@ To consider and approve the publication of the Draft Limerick City and County Co
 
 the Local Government Act 2001 (as amended).
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -168,5 +173,6 @@ Cregan’s Cross.
 within the immediate Town Centre Area of Newcastle West.
 
 Corres en
+
 
 ---

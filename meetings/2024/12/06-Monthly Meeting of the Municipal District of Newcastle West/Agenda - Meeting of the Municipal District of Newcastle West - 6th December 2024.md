@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairie Cathrach Duiche Bardais an Chaisledin Nua Thiar,
 pt LO 6 Coritse Lulmnigh Comhairle Cathrach agus Contae Luimnigh,
@@ -53,6 +56,7 @@ To Discuss Housing Maintenance Budget for the District.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwtimerick.e
 Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 General Municipal Allocation
@@ -78,5 +82,6 @@ Not submitt Councillor M. Collins
 
 upgraded footpaths, ramps and lighting be installed at Feohanagh Village. The village
 has had no investment or work done in many years.
+
 
 ---

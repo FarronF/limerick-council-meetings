@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_adjourned_draft_budgetary_plan_meeting_for_metropolitan_district_-_20th_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -46,5 +49,6 @@ for the financial year ending 31st December, 2015.
 Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach © wwew.limerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

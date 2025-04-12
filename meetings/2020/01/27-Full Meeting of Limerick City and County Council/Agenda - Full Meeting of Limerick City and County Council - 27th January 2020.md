@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00-agenda-january-meeting-27.01.2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 : ni Seirbhisi Corparaideacha,
 =i ay balay eesmtoh aa Comhairle Cathrach agus Contae Luimnigh.
@@ -63,6 +66,7 @@ em Customerservices@limerick.ie
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - §57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -115,6 +119,7 @@ resignation of Councillor Slattery as a member of the Committee.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (e)
@@ -166,6 +171,7 @@ accordance with the provisions of Section 66 of the Local Government Act, 2001, 
 amended.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -230,6 +236,7 @@ Public Lighting Energy Efficiency Project — Southern Region.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -278,6 +285,7 @@ ti i llor E. O'Donovan
 
 | will ask at the next Meeting the number of dogs and horses seized in the last 5 years, the
 numbers given to charities and the number euthanized.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -339,5 +347,6 @@ the Sugar system is not working from my point of view.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

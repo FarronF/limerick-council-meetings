@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/Agenda%20-%20Special%20Meeting%20of%20Council%20-%2020th%20March%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -54,5 +57,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 wv @LimerickCouncil
 
 (061 - 557150
+
 
 ---

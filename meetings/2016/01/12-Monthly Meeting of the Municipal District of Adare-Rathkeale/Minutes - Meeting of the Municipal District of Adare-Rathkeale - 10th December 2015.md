@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20December%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
@@ -48,6 +51,7 @@ connection to these houses and carry out any related works, in conjunction with 
 
 road works,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -96,6 +100,7 @@ apparently the item had been cancelled. On the proposal of Councillor Neville, s
 Councillor O'Donoghue it was agreed that the Travel & Transportation SPC be written to in order
 to establish the reason for this cancellation.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ADJOURNED NOTICE OF MOTION
@@ -143,6 +148,7 @@ will be taken;
 e The schedule of works and estimated costs are issued to the bondholder.
 ¢ The bondholder may then appoint their own consultant to examine the
 Council’s schedule of works and costs.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -196,6 +202,7 @@ works under consideration included laying down 70 m of footpath and the removal 
 
 and wall.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -243,6 +250,7 @@ approved scheme through the OPW Minor Works platform at this location. Design
 work is nearing completion and it is hoped to present proposal for approval to the
 OPW in the short term. In the interim, local crews continue to monitor this location
 at periods of high tides and take remedial action as required.
+
 
 
 ---
@@ -293,6 +301,7 @@ the Council were mindful of the importance of removing water from the road and e
 achieve this. He indicated that there were many Health and Safety issues when undertaking
 improvements works on public roads and the safety of workers was paramount.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councillor Sheahan raised the issue of flooding in the carpark of the Coach Inn in Kildimo. The
@@ -337,5 +346,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

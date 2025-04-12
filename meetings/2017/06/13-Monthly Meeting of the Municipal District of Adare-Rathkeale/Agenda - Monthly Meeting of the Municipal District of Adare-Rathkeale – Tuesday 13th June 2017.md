@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Monthly%20Meeting%2013th%20June%252c%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——_ Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -60,6 +63,7 @@ e Ballyvareen, Kildimo
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Lutmneach
 Corporate Headquarters, Merchants Quay, Limerick eee a0aa0e
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) | To note update on the Taking-In-Charge of An Curran Estate, Pallaskenry.
@@ -100,6 +104,7 @@ To note update on the path from Kildimo Village to the Beer Garden.
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -128,5 +133,6 @@ Shanagolden, monitoring vehicular traffic from Newcastle West to the N69.
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

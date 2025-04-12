@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/agenda%20met%20jpc%20meeting%2019%20nov.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 : Seirdnnisi Corparéideacha,
 _—_—_ Pehle anlar ol Comhairle Cathrach agus Contae Luimnigh.
@@ -59,5 +62,6 @@ approaching the pedestrian crossing.
 
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01%202017-04-12%20Minutes%20April%20Meeting%20Municipal%20District%20%20Newcastle%20West%20.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 
 NEWCASTLE WEST HELD IN ÁRAS WILLIAM SMITH OBRIEN, NEWCASTLE

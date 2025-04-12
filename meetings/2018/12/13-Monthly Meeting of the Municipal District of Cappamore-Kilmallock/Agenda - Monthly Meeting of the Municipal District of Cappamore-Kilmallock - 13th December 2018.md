@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%20Agenda%20MD%20Meeting%2013th%20Dec%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_— Comhairle Cathrach
 i fs & —o ——
@@ -32,6 +35,7 @@ AGENDA
 
 the 21°* November, 2018.
 (Copy enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -78,5 +82,6 @@ Question submitted by Councillor Teefy
 | will ask at the next meeting of the Municipal District that consultation take’s place
 with Bruff Community with a view to finding a solution to the ongoing issue of off street
 parking in Bruff.
+
 
 ---

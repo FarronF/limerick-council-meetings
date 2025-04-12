@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20to%20Consider%20Draft%20Budgetary%20Plan%202018%20for%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20October.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ; Seirbhisi Corparaideacha,
 _—_ 5 eee carta Comhairle Cathrach agus Contae Luimnigh,
@@ -42,5 +45,6 @@ Kilmallock.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach  @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+
 
 ---

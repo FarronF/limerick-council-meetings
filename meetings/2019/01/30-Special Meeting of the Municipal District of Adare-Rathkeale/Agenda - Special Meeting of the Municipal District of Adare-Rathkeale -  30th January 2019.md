@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%2030th%20January%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_— pa ieee deed
 & Contae Luimnigh
@@ -64,5 +67,6 @@ Corporate Headquarters, Merchants Quay, Limerick.
 W @LimerickCouncil
 
 { 061 - 556 000
+
 
 ---

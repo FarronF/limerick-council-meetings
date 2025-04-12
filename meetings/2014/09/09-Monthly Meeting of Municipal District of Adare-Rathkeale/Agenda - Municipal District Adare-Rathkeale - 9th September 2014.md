@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/4%20reply_to_question_-_municipal_district_of_adare-rathkeale_-_9th_september_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 LIMERICK CITY & COUNTY COUNCIL
 
@@ -19,6 +22,7 @@ A snag list of these outstanding works was issued to the developer on 14” Augu
 Pat Fitzgerald,
 A/Director of Service,
 Economic Development and Planning
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -45,6 +49,7 @@ occasional use basis but this should be on an infrequent or emergency basis.
 Kieran Lehane
 Director of Service
 Environment & Water Services.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -99,6 +104,7 @@ Director
 Environment & Water Services
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 IMERICK CITY & NTY COUN
@@ -147,5 +153,6 @@ It is intended to meet on site in the near future to discuss the matter further.
 
 Finbarr Keyes,
 Senior Executive Engineer.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_270217.pdf)
+
+---
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Social Development Directorate**

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Draft%20Minutes%20of%20the%20Environment%20Strategic%20Policy%20Committee%2025th%20June%202018.-.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_— Comhairle Cathrach - args na Forberthe Fisicit®,
 & Contae Luimnigh jomhairle Cathrach agus Contae Luimnigh,
@@ -60,6 +63,7 @@ Midlands Region Water Supply Project.
 
 The following were the main points from the briefing;
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ¢ Mr. Murphy outlined the policy framework for the management of Irish Water's
@@ -112,6 +116,7 @@ reflected in the recently published Consultation Submissions Report.
 He explained that Water Supply project will deliver benefits for the wider region, including
 the following:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ¢ This new water source will address the serious water supply deficit across the region.
@@ -158,6 +163,7 @@ improvements to the water and waste water facilities in the Limerick region. The
 stated that some facilities in Limerick county were in very poor condition and needed
 significant upgrading to facilitate both current and future developments.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Members sought clarification as to the accuracy and/or veracity of some of the Irish Water
@@ -202,6 +208,7 @@ Ms. Anne Goggin provided a briefing to the Members on the River Basin Management
 for lreland 2018-2021.
 
 The main points from the briefing are as follows:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -253,6 +260,7 @@ She explained the background to the environmental noise directive of 2002 and th
 Environmental Noise Regulations of 2006 and confirmed that the final date in respect of
 which submissions on the draft Noise Action Plan could be received was 29" June, 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 She pointed out that Noise should be factored in from the outset when proposed
@@ -299,6 +307,7 @@ Knotweed include; prioritising control in Special Areas of Conservation, establi
 control programme for river banks and road verges and the provision of training for hedge
 cutting contractors.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Ms. Goggin further explained that, subject to budgetary provision, a pilot programme on
@@ -312,7 +321,9 @@ programme of eradication.
 
 The meeting then concluded.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

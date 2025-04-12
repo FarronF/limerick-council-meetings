@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_19th_february_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -40,6 +43,7 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 With the Cathaoirleach’s permission, it was agreed to take Item 4 at this point.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -89,6 +93,7 @@ have the financial resources to extend the scheme and any extension of the schem
 would dilute the potential impact of the scheme which should be given an opportunity
 to achieve its objectives and then extend to other areas.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Environment & Water Services
@@ -135,6 +140,7 @@ can arrange for the permanent removal of bins, if required.
 
 ! will ask at the next Meeting for an update on action taken by Limerick City &
 County Council in relation to the old Store premises in Herbertstown.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -191,6 +197,7 @@ Housing be made available at District Meeting”
 
 The response was as follows:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 A meeting will be arranged with the Councillors who have been
@@ -237,6 +244,7 @@ county villages.
 
 The Motion was proposed by Councillor O'Donnell and seconded by Councillor
 Teefy.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -290,6 +298,7 @@ on R513 at junction.
 In the past the grant stream used for works of this nature was ‘Specific
 Improvement Grant’ from the Department of Transport. Due to the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 recent recession this grant stream has stopped and has not been
@@ -304,7 +313,9 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

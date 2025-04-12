@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/02%20Minutes%20Dec%202019%20MD%20Mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -41,6 +44,7 @@ construction of 12 residential units at Station Close, Knocklong, Co. Limerick. 
 been prepared in accordance with Section 179(3) (a) of the Planning and Development Act
 2000 (as amended) and Part VIII of the Planning and Development Regulations 2001 (as
 amended).
+
 
 
 ---
@@ -88,6 +92,7 @@ Council owned housing stock, funding for which was approved by the full Council,
 that this programme would commence in the first quarter of 2020 with a sample survey of
 housing stock across both Limerick City and County housing areas.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) Housing Pro R
@@ -130,6 +135,7 @@ Kilmallock Municipal District?
 (b) How many tenants are on the Housing Assisted Payment (HAP) Scheme in the
 Cappamore-Kilmallock Municipal District?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Reply:
@@ -165,6 +171,7 @@ The ESB website states that ESB e-cars is currently undertaking a €20m program
 expand and enhance the charging network across Ireland which is part funded by the Irish
 Government's Climate Action Fund, to help meet the expected growth of electric vehicles in
 the coming years.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -208,6 +215,7 @@ Meeting. On the proposal of Cllr Donegan, seconded by Clir Teefy, and agreed it 
 decided to invite the two deputations to attend the respective January 2020 and
 February 2020 Municipal District Meetings.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ¢ Vote of Sympathy
@@ -247,5 +255,6 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%2020th%20March%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 aAr™N
 
@@ -65,6 +68,7 @@ Ceanncheathni Chorparaideach, Cé na a Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -121,6 +125,7 @@ Presentation on Richard Harris Film Festival
 
 To receive presentation by Zeb Moore on Richard Harris Film Festival.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 UESTION
@@ -165,6 +170,7 @@ Social Dev ent Strategic Policy Committee
 | will move at the next Meeting that Limerick City and County Council invite expressions
 of interest for the development of social and affordable houses on the Guinness site
 Carey's Road as part of our house building programme.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -217,5 +223,6 @@ in charge Chesterfield Grove Estate in Castletroy View.
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

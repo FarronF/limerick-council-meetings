@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%202018-02-07%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —=_
 
@@ -76,6 +79,7 @@ mcustomerservices@limerickie
 @ wewlimerickie
 yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -125,6 +129,7 @@ Question submitted by Councillor F. Foley
 | will ask at the next Meeting when will the contractor return and finish the over lay at
 Knocknagorna Bridge in Athea.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12.
@@ -160,5 +165,6 @@ Study be prepared for Dromcollogher Town
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

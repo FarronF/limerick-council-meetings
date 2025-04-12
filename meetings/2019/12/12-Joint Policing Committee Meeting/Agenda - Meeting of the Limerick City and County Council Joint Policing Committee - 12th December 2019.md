@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Amended%20Agenda%20JPC%20Meeting%2012th%20Dec%2019%20v3.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——_—_—_— Comhairle Cathrach cate Caieres sey ber ae aee ey
 : Crmuiree ©. 4 gus orilue ules 1
@@ -60,6 +63,7 @@ have been promoted to higher ranks be replaced.
 © vevew.limerickie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -125,6 +129,7 @@ Can | ask the Commissioner, are An Garda Siochana looking into the setting up of
 unit in the Limerick Division given the number of unsolved murders in the division, and if so
 is there a timeline for same.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15. To consider the following Question submitted by Councillor J. Costelloe :
@@ -139,5 +144,6 @@ and
 2. Why is this initiative not in place until the New Year. | am sure the extra numbers would
 be welcomed by the Superintendent for major nights like St. Stephen’s Night and New Year's
 Eve.
+
 
 ---

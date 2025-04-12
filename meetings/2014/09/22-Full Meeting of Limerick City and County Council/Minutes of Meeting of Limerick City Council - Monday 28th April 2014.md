@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/4%20minutes_of_meeting_of_limerick_city_council_-_monday_28th_april_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ITEM NO.
 
@@ -47,6 +50,7 @@ The Manager stated that the alternative wording which he is proposing incorporat
 statutory responsibilities and the Councillors wishes and as a result of this amendment to the
 wording he was recommending the adoption of the Joint Traveller Accommodation Programme
 2014 — 2018. The recommended change to the wording be amended to read as follows :
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -100,6 +104,7 @@ relation to Rhebogue Group Housing.
 
 Cllr. McCarthy agreed with the previous speakers and also with Cllr. O'Hanlon's suggestion that a
 senior official be appointed to deal with this group housing.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -158,6 +163,7 @@ will be provided but it will not be immediate. The issues raised by Members will
 a proposal for an alternative entrance for St. Patrick's G.A.A. Club examined. He said that a
 sustainable solution has to be found and said he would abide by the intentions of this Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Her Worship the Mayor, Cllr. K. Leddin thanked the Members for their comments and also the
@@ -210,6 +216,7 @@ On the proposition of Cllr. Kiely, seconded by Cllr. Long, it was unanimously ag
 
 “That the Minutes of Special Meeting of Limerick City Council held on 1* April, 2014, copies of
 which were circulated, be and the same are hereby confirmed”.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -281,6 +288,7 @@ Aaron Lawless
 Angie Smalis
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 "That Limerick City Council bring the Limerick Culture Garden back to Limerick after the
@@ -338,6 +346,7 @@ Thermal Upgrade 2014 Contract 1 — Ballinacurra Weston;
 Proposed Changing Rooms and Associated Civil / Service Site Works at Moyross AFC;
 Integrated Design Team Services as part of Major Capital Works Framework for
 Development at Palm Court, Southill;
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -415,6 +424,7 @@ Held in the Quality Hotel, Killarney, Co. Kerry
 
 Estimated Travel and Subsistence: €349.71
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Conference Fee : €140.00
@@ -475,6 +485,7 @@ In reply, the Meetings Administrator stated that the document attached to the re
 
 Members clarifies the position in relation to the erection of posters and if any posters are considered
 to be causing a road safety risk then they will be removed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -547,6 +558,7 @@ Residential units and (b) a change in the composition of units from 14 no. 1 bed
 and 14 no. 4 bedroom duplex units to 7 no. 2 bedroom duplex units, 6 no. 3 bedroom duplex units
 and 7 no. 2 bedroom apartments; (ii) improvements to the external facade including the provision of
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 set back terraces to apartments on the second floor; (iii) demolition of an existing apartment unit
@@ -604,6 +616,7 @@ Her Worship the Mayor, Cllr. K. Leddin said that this was the last occasion that
 speaking in the Chamber either as Mayor or as an Elected Member of the Council. She was deeply
 honoured to be able to address all present on what is a historic occasion. She expressed gratitude to
 the past and present members and staff of Limerick City Council for their contribution to the
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -664,6 +677,7 @@ excellence in public service for the citizens of Limerick. He thanked each of th
 management and staff, both past and present, for their outstanding contribution to the social and
 economic development of Limerick City down through the years. He said he was confident that the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 new Local Authority would continue to guide the destiny of this ancient and celebrated city for
@@ -722,6 +736,7 @@ been elected and is very proud of the work he does and looked forward to working
 
 Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Cllr. Kennedy said he wished to avail of this historic opportunity to express his thanks and
@@ -767,7 +782,9 @@ CONFIRMED THIS CM DAYORLO 2014".
 
 MAYOR OF LIMERICK
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

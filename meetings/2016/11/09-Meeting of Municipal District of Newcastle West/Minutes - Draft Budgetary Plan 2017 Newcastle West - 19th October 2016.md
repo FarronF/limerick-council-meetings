@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_draft_budgetary_plan_2017_newcastle_west_191016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
@@ -49,6 +52,7 @@ He informed the Members that a total of €1,203,000 had been allocated by the C
 to the General Municipal Allocation with €225,000 of this assigned to the Municipal District of
 Newcastle West as follows:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _Sve__|___ General Municipal Allocation 2017_| Municipal District of Newcastle West _
@@ -88,5 +92,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

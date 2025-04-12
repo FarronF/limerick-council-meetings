@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01a-2024-05-01-minutes-may.pdf)
+
+---
 MINUTES
 
 OF

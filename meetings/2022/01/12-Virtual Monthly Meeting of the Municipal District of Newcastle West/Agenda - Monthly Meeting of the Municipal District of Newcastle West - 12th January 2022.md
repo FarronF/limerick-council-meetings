@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-2022-01-12-agenda-january.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -70,6 +73,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 @LimerickCouncil
 © 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5.
@@ -126,6 +130,7 @@ Question submitted by Councillor Foley
 I will ask at the next Meeting for the footpath to be replaced from Maurice O’Connell
 to Gala Supermarket on the Killarney Road, Abbeyfeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -156,5 +161,6 @@ Notice of Motion submitted by Councillor Foley
 
 | will move at the next Meeting that safety measures be put in place on the N21 at the
 junction known as Dillane’s Forge leading onto the L7056 in Templeglantine.
+
 
 ---

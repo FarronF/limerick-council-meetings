@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%2015th%20July%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ Comhairle Cathrach Corhairie Cateacheent C = reer
 i™ & Contae Luimnigh Ceanncheathni Chorpardideach,
@@ -46,6 +49,7 @@ To agree Schedule of Dates for Metropolitan District Meetings.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - S57150
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -102,6 +106,7 @@ privately owned lands.
 extended across Newboro and back toward Collopys Cross as this area constantly has pedestrians
 on it which is quite dangerous with oncoming traffic.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -149,6 +154,7 @@ percentage of the monthly private rent is made up of top up payments/HAP payment
 the Metropolitan Area where planning permission currently has been granted but development has
 yet to commence.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -194,5 +200,6 @@ facilities.
 
 19. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

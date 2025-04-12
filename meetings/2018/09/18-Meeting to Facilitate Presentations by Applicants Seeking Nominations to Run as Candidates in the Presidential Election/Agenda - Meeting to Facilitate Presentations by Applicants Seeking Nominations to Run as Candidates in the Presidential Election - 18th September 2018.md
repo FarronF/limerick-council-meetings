@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20for%20Presentations%20by%20Applicants%20-%20Presidential%20Election.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __——_— Comhairle Cathrach
 & Contae Luimnigh
@@ -60,5 +63,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 © vevew limerick.te
 
 © 061 - $$7150
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-10th-July-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 en Comhairle Cathrach
 & Contae Luimnigh
@@ -55,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copies Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Declaration of interest.
@@ -103,6 +107,7 @@ I will ask at the next Meeting of the Metropolitan District of Limerick, can the
 the Limerick Civic Trust regarding funding as they are looking after our graveyards in Limerick City
 and Limerick Civic Trust have very limited resources.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8. Question submitted by Councillor C. Slattery
@@ -145,6 +150,7 @@ pathway around St. Mary’s Park.
 | will ask at the next Meeting of the Metropolitan District of Limerick for the details on the dog
 fouling bins present in Limerick City and who is responsible for emptying these bins.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15. Question submitted by Councillor E. O'Donovan
@@ -185,6 +191,7 @@ any staff redundancies are planned for St. Vincent's Lisnagry Special Needs Scho
 the National Council for Special Education (NCSE) for the upcoming school year 2023/2024, and
 to request that all measures are taken to ensure no redundancies are made at this school.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21. Notice of Motion submitted by Councillor S. Hartigan
@@ -222,5 +229,6 @@ and restoration of the Sallors Home on O'Curry Street.
 26. Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

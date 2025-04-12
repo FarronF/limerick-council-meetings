@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20Council%20Meeting%2028.11.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 z Seirbhis{ Corpardideacha,
 _——_ Comhehie pra erd Comhairle Cathrach agus Contae Luumnigh,
@@ -63,6 +66,7 @@ Planning and Development Act, 2000 (as amended), at:
 yv
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (d) 102, Glasgow Park, Limerick.
@@ -127,6 +131,7 @@ approval).
 18 November, 2022 (retrospective approval).
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c)
@@ -174,6 +179,7 @@ Policy Committee held on 25" October, 2022.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (v) Chairperson’s Report — Meeting of Home and Social Development
@@ -220,6 +226,7 @@ Limerick Theatre Bursaries 2022
 To consider approving recommended allocations for Limerick Theatre Bursaries
 2022.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -273,6 +280,7 @@ matter of priority to Dail Report Stage and, thereafter, through all Stages in t
 Seanad, as promised to this Council in the Minister's correspondence of April 22nd,
 2022.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12.
@@ -323,5 +331,6 @@ areas throughout Limerick City and County would be written to immediately inform
 them of their potential liability for the payment of the 3% RZLT.
 
 Correspondence
+
 
 ---

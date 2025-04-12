@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%202nd%20November%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ae Comhairle Cathrach
 
@@ -66,5 +69,6 @@ Corporate Headquarters, Merchants Quay, Limerick.
 @LimerickCouncil
 
 ( 061 - 556 000
+
 
 ---

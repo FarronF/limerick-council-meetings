@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-c-minutes-adjourned-meeting-09.12.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE ON THURSDAY, 9TH DECEMBER, 2021, AT

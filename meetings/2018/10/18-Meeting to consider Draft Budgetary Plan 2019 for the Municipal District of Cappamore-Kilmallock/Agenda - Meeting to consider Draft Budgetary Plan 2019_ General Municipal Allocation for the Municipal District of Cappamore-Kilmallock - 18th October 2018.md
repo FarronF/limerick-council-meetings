@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —_— Comhairle Cathrach
 
@@ -33,5 +36,6 @@ AGENDA
 Kilmallock.
 
 (Copy enclosed)
+
 
 ---

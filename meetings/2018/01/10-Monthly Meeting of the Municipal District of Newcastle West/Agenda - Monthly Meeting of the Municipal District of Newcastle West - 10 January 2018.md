@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%202018-01-10%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_
 
@@ -75,6 +78,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ wwwlimerickie
 w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -125,6 +129,7 @@ entrances.
 Lynch's Corner with The Square, and (b) opposite Dick Darby's at Church Street,
 Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12.
@@ -150,5 +155,6 @@ Notice of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that this Council repair the river bank erosion at the
 affected properties along New St., Abbeyfeale since the Department of the OPW
 have refused to do so.
+
 
 ---

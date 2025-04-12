@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 10” FEBRUARY
@@ -47,6 +50,7 @@ have initial assessment done as this would help to move the discussion forward.
 Following general discussion, the Director of Services stated that it would be important to get an initial
 study done to identify the need for CCTV Systems and that it may be possible to provide funding under
 the General Municipal Allocation Special Projects Fund.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -103,6 +107,7 @@ and funding would need to be provided for this development.
 
 (b) The Council will arrange to repair the perimeter fence as soon as possible.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4. i mi ncillor J. Scanlan
@@ -152,5 +157,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

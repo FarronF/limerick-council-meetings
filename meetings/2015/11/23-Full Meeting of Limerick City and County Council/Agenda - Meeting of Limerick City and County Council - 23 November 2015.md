@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i
 
@@ -35,6 +38,7 @@ To consider proposal for the disposal of land at:
 
 (Statutory Notice dated 16"" September, 2015, together with
 report, already circulated — Copies Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -93,6 +97,7 @@ Compassionate Communities Project
 
 To hear presentation.
 (This item will be taken at 4.00 p.m.)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -173,6 +178,7 @@ Clare, from 20" to 22 November, 2015.
 Seminar “Regulation of Lobbying Act 2015,” to be held in Galway on 27”
 and 28" November, 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (n) Conference “A Practical Guide to Budget 2016,” to be held in Clonakilty,
@@ -224,6 +230,7 @@ the number of retained Fire Fighters within the new Local Authority; (v) what is
 the number of in-house staff within the Fire Service, from the Chief Executive
 down.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 9.
@@ -268,7 +275,9 @@ development of Local Authority budgets.
 Correspondence.
 (Copy of Correspondence Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/02%20Minutes%20of%2026th%20Sept%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -43,6 +46,7 @@ Reference was also made to the right-turning lane on the northern side, which th
 Members felt could potentially cause tailbacks as large vehicles turned in to the
 commercial business.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councillors also referred to the commercial business at O’Rourke’s Cross which is an
@@ -81,5 +85,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

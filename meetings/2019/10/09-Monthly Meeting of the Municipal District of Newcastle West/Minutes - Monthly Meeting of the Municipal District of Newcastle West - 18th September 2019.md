@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01-2019-09-18-Minutes-September.pdf)
+
+---
 MINUTES
 
 OF

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-minutes-of-monthly-meeting-14th-september-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE COUNCIL CHAMBER, DOORADOYLE, CO. LIMERICK ON**

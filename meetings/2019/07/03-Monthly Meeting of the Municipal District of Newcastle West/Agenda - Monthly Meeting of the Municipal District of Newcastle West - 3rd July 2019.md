@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%202019-07-03%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ditiche Bardais an Chaisleain Nua Thiar,
 ee & Cortes tadinedeh Comhairle Cathach aqus Contae Luimnigh
@@ -63,6 +66,7 @@ West, to Gerard and Claire Conway.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © weorectimerickie
 Corporate Headquarters, Merchant's Quay, Limerick YW e@LimerickCouncit
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) To note proposal for the disposal of 0.053 Ha. land at Garryduff, Newcastle
@@ -105,6 +109,7 @@ To consider and approve the Speed Limit Bye-Laws for National and Non-National
 Roads.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -159,6 +164,7 @@ Notices of Motion submitted by Councillor L. Galvin
 I will move at the next Meeting that a public lighting scheme be put in place at Snow’s
 Cross, Ballingarry, in the interest of safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -167,5 +173,6 @@ Cross, Ballingarry, in the interest of safety.
 the completion of documentation by undertakers prior to the opening of a grave for
 burial with the Elected Representatives and undertakers before this new procedure is
 enforced.
+
 
 ---

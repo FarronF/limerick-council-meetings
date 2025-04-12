@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2021st%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -48,6 +51,7 @@ High Level Goals.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wewewslimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -90,6 +94,7 @@ Question submitted by Councillor Sean Lynch
 | will ask at the next meeting if a permission/licence was granted by the Local
 Authority to remove, dispose of or store hazardous goods i.e. asbestos in the
 vicinity of the Dock Road, Limerick.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -148,6 +153,7 @@ associated assembly of students in the streets from approximately 10:30 pm until
 September to June. The unauthorised taxi activity taking place in Little Gerard
 Griffin Street continues to cause major problems for residents.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -194,5 +200,6 @@ to help provide support, sanctuary and security.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

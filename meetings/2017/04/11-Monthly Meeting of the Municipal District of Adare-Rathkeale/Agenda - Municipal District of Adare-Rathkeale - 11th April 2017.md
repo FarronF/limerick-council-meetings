@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_adare-rathkeale_-_11th_april_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha.
 Comhairle Cathrach agus Contae Luimnigh,
@@ -48,6 +51,7 @@ To receive Deputation from Rathkeale Boxing Club. (Item to be taken at 10.00 a.m
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach ! w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick < 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8.
@@ -94,5 +98,6 @@ with senior members of the Housing Section of the Council with a view to ascerta
 information on the involvement of Approved Housing Bodies working in the District.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

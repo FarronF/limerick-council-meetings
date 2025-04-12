@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Agenda%20JPC%20Meeting%2016th%20December%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 : Seirbhisi Corpartideacna,
 ee Comhairle Cathrach Comhairle Cathvach agus Contae Luimnigh,
@@ -56,6 +59,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 }
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -88,5 +92,6 @@ Notice of Motion submitted by Councillor Sean Hartigan :
 
 “| will move at the next meeting that statistics on fines issued for illegal parking are reported on at
 all meetings of the Joint Policing Committee”.
+
 
 ---

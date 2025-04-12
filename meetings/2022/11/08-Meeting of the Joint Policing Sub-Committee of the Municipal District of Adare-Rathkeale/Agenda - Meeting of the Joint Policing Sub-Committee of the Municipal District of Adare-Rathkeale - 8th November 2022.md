@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%208th%20November%202022%20JPC.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 - ——_é Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 P : Comhairle Cathvach agus Contae Luimnigh.
@@ -46,5 +49,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 © wwwlimerickie
 
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 ( 061 - 556 000
+
 
 ---

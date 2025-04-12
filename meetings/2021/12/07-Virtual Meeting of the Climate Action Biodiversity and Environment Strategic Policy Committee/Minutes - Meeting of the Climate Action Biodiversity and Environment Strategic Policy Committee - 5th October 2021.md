@@ -1,6 +1,9 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20211005-cabe-spc-minutes.pdf)
+
+---
 **Minutes of the Online Meeting of Limerick City & County Council Climate Action,**
 
-**Biodiversity and Environment Strategic Policy Committee held on Tuesday 5th****October,**
+**Biodiversity and Environment Strategic Policy Committee held on Tuesday 5thOctober,**
 
 **2021 at 4pm.**
 
@@ -38,7 +41,7 @@ Planning and Environmental Services.
 
 **Item 1: Adopt minutes of the Climate Action, Biodiversity and Environment Strategic Policy**
 
-**Committee Meeting that was held on 8****th** **June, 2021.**
+**Committee Meeting that was held on 8th** **June, 2021.**
 
 The minutes were proposed by Cllr. O’Brien, seconded by Cllr. Hartigan, and adopted.
 
@@ -68,7 +71,8 @@ Cllr O’Brien thanked Mr. Stephens and asked from an agricultural perspective h
 
 reduce our GHG emissions in real terms and maintain and strengthen our local economy in
 
-real terms.---
+real terms.
+---
 Mr. Stephens, in reply, confirmed that the Energy & Emissions Balance only deals with the
 
 energy element of agriculture. Some work has been done at examining how agricultural waste
@@ -147,7 +151,8 @@ data centres in proximity to the estuary. He also asked should we decompartmenta
 
 where peat use is low for those where it is high, to allow for the continuation of small-scale
 
-peat extraction.---
+peat extraction.
+---
 Mr. Stephens, in reply, that the report focuses only on the amount of energy we are using,
 
 not on the location of data centres. He commented that if you can usefully harness the River
@@ -214,7 +219,8 @@ feasibility study on a large green area at the back of the Old Cork Road that ru
 
 4 housing estates to determine if a community facility such as a dog walking park can be
 
-established in the area.”---
+established in the area.”
+---
 In proposing the motion, Cllr Slattery noted that the green space in question had no lighting,
 
 no facilities for old/young people, and no uses. The area suffers from anti-social behavior.
@@ -253,7 +259,7 @@ that the area needs to be a multi-purpose space.
 
 **Item 5. Notice of Motion submitted by Councillor S. Kiely (referred from the Metropolitan**
 
-**District of Limerick held on 21****st** **June, 2021).**
+**District of Limerick held on 21st** **June, 2021).**
 
 “I will move at the next Meeting of the Metropolitan District of Limerick that we phase out
 
@@ -291,7 +297,8 @@ Cllr Hartigan supported the motion and noted that he had spoken previously with 
 
 Lynch SEE and notes LCCC is moving in the right direction. He would like to see the weed-
 
-spraying tender and process being reviewed.---
+spraying tender and process being reviewed.
+---
 Ms Gallagher then read the reply:
 
 “In 2020, we carried out a full review of where, how and why we use herbicide in the Council,
@@ -346,7 +353,9 @@ Is mise le meas,
 
 **Strategic**
 
-**Policy Committee**---
+**Policy Committee**
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

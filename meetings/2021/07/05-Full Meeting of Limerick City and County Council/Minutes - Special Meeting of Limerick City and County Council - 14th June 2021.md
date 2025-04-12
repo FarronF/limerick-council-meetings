@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-c-minutes-special-meeting-14.06.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL

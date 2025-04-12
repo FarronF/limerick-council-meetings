@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Annual-Meeting-of-Limerick-City-and-County-Council-30th-June-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Cormhairle Cathrach ; 1 seibhisi Corparaideacha,
 Contae Luimnigh Comhairle Cathwach agus Contae Luimngh,
@@ -47,5 +50,6 @@ office for the ensuing year or until a successor is elected.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \. 061 - §57150
+
 
 ---

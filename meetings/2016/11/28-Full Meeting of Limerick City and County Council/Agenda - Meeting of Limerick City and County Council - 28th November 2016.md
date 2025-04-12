@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_council_meeting_281116.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 AE
 
@@ -72,6 +75,7 @@ oe vevew limerickie
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Support Services Directorate
@@ -114,6 +118,7 @@ strengthened into the future.
 
 (ii) Chairperson’s report — Environment Strategic Policy Committee
 Meeting held on 24" October, 2016.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -165,6 +170,7 @@ York, under Section 142(5) of the Local Government Act, 2001, as amended.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -205,6 +211,7 @@ Scheme, in accordance with Section 66 of the Local Government Act, 2001, as
 
 amended.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -250,6 +257,7 @@ Wexford from 30" September to October, 2016.
 (b) Conference “Rebuilding Ireland: Action Plan for Housing and
 Homelessness,” held in Edgeworthstown, Co. Longford, on 4°°/5"
 November, 2016.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -325,6 +333,7 @@ Meeting/Event.
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -372,6 +381,7 @@ Notice of Motion submitted by Councillor L. Galvin
 
 | will move at the next Meeting that this Council consider utilising the services of a
 full or part-time OT / Occupational Therapist.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -427,6 +437,7 @@ online interactive map that is available to Councillors, staff and the public to
 on, for example, road issues and which would aid with the efficiency of works to be
 completed in areas and also improve transparency and future planning.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21.
@@ -460,5 +471,6 @@ the Limerick to Cork Motorway.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

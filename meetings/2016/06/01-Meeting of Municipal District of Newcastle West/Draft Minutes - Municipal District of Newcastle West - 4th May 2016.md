@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20May%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
@@ -47,6 +50,7 @@ parking issues to the adjacent estate.
 The Senior Executive Engineer, West Division informed the members that signage in
 relation to Desmond Hall had now been approved and would be put in place in the
 coming weeks. He also stated that, as a result of matters raised in the Tidy Towns
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -103,6 +107,7 @@ Crescent will be renewed.
 
 REPLY: An inspection on the existing fencing at this location will be carried out in the coming
 week in order to assess this matter.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -164,6 +169,7 @@ The Newcastle West Municipal District currently has access to the road sweeper f
 every second week and this is rotated between the towns of Newcastle West and
 Abbeyfeale. Given the limited availability of the sweeper, the Council can only commit to
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -210,6 +216,7 @@ District has received a request to meet Mountcollins Development Association and
 matter can be discussed further at that time.
 
 Members noted that there were grottos elsewhere with similar requirements.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -280,6 +287,7 @@ design of any infrastructural improvements could be carried out at that stage su
 the necessary funds being available. A submission in this regard will be made to the
 Development Fund shortly.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 16.
@@ -336,5 +344,6 @@ Signed:
 Dated:
 
 Cathaoirleach
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Draft%20Budgetary%20Plan%202016%20-%20General%20Municipal%20Allocation%20-%2020th%20October%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT THE DRAFT BUDGETARY PLAN 2016
 MEETING OF THE MUNICIPAL DISTRICT OF ADARE-RATHKEALE HELD IN
@@ -43,5 +46,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

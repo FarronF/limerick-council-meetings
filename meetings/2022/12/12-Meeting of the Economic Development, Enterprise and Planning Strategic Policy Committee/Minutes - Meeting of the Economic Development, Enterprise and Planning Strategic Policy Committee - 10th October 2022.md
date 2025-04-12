@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Minutes-Agenda-Economic-Development-Enterprise-SPC-Meeting-10th-Oct-2022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 10th** **OCTOBER, 2022 at**

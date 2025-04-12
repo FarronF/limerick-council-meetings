@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ot Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -50,6 +53,7 @@ To receive deputation from Calvary Cemetery.
 | Ceannchesthra Chorpardideach, Ofna gCeannaithe, Luimneach & wwwalimerick.ie
 | Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -91,6 +95,7 @@ to remove the very significant leaf fall in the area.
 
 | will ask at the next Meeting when the part of the footpath in urgent need of repair will be
 replaced at Chapel Close.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -143,5 +148,6 @@ R520 be relocated to a safer area at the junction as it is causing a sight line 
 for vehicle owners accessing the regional road.
 
 Correspondence
+
 
 ---

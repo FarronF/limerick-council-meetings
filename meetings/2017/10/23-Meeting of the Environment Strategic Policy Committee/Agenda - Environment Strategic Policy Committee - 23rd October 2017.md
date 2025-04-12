@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Environment%20Strategic%20Policy%20Committee%20-%2023rd%20October%202017.pdf)
+
+---
 **17th** **October, 2017**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**

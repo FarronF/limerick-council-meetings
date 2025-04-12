@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-meeting-of-the-metropolitan-district-18th-january-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -54,6 +57,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Economic Development
@@ -88,6 +92,7 @@ for the South Circular Road Covid-19 mobility plans that were implemented during
 
 Bridge gates and if there has been any advancement by Limerick Council on the permanent opening
 of these gates.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -132,6 +137,7 @@ in remembrance of all those who have lost their lives to the river.
 look into the feasibility of installing a permanent panoramic or ferris wheel at Arthur's Quay Park
 and work with the relevant stakeholders to build it into future plans for this location.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15. Notice of Motion submitted by Councillor E. O’Donovan
@@ -151,5 +157,6 @@ the position of an Animal Cruelty Inspector in Limerick City and County.
 
 18. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,6 +1,9 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-joint-policing-committee-meeting-1st-march-2024.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE COUNCIL**
 
-**CHAMBER, DOORADOYLE AND ONLINE ON FRIDAY, 1****ST** **MARCH, 2024 AT 10.00 A.M.**
+**CHAMBER, DOORADOYLE AND ONLINE ON FRIDAY, 1ST** **MARCH, 2024 AT 10.00 A.M.**
 
 **IN THE CHAIR :**
 
@@ -52,7 +55,7 @@ Administrative Officer (Mr. M. Leahy) and Ms. K. Shelly, Policing Authority
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.****MINUTES**
+**1.MINUTES**
 
 Circulated, copy of Minutes of Joint Policing Committee Meeting held on 8th December, 2023 :
 
@@ -72,7 +75,7 @@ outlined his objection to the upcoming changes to Joint Policing Committees stru
 
 believed that the proposed changes may deplete the role of Councillors.
 
-**2.****UPDATE FROM CHIEF SUPERINTENDENT**
+**2.UPDATE FROM CHIEF SUPERINTENDENT**
 
 The Chief Superintendent referred to the recent significant drugs seizure worth €21m in Foynes and he
 
@@ -86,7 +89,8 @@ recently, entitled ‘Think Before you Park’. The aim of this initiative is to
 
 repercussions of obstructive parking, which can pose challenges for various road users including
 
-people with disabilities, cyclists, parents pushing buggies and other pedestrians.  He also referred to---
+people with disabilities, cyclists, parents pushing buggies and other pedestrians.  He also referred to
+---
 Mobility No Insurance App, which was launched in Limerick recently. Thirty cars were seized in the
 
 first two weeks of its launch. He informed Members that the Operational Life Saver Education, which
@@ -95,7 +99,7 @@ was initially launched in Limerick, is now being rolled out nationwide. He infor
 
 there were three fatalities on Limerick roads since the start of this year.
 
-**3.****OVERVIEW ON CRIME STATISTICS FROM SENIOR CRIME AND POLICING ANALYST**
+**3.OVERVIEW ON CRIME STATISTICS FROM SENIOR CRIME AND POLICING ANALYST**
 
 Ms. L. Collins, Senior Crime and Policing Analyst gave a brief statistical overview of current crime
 
@@ -165,7 +169,8 @@ Greenways and suburban areas, the Chief Superintendent stated that the next grou
 
 are due out from Templemore on 20th March, 2024 and he has requested at least thirty new recruits
 
-for Limerick. He said he will do all he can to ensure Limerick gets these additional vital resources. He---
+for Limerick. He said he will do all he can to ensure Limerick gets these additional vital resources. He
+---
 stated that Limerick has received a number of new Garda pedal bikes, however, no update in relation
 
 to e bikes. A new app has also been launched which identifies vehicles that have no insurance. It also
@@ -236,7 +241,8 @@ buying stolen goods, they are supporting criminality. He appealed to the public 
 
 reputable traders. He also promoted property marking, which greatly assists Gardaí when stolen
 
-goods are retrieved.---
+goods are retrieved.
+---
 Cllrs. Teskey and Keary voiced their concern at people calling to houses asking if they wanted
 
 tarmacadam done as they had some left over from local road works in the area, and they asked that
@@ -257,7 +263,7 @@ and lifesaver programmes. Engagement is also taking place with Youth Diversion P
 
 also going to schools regularly highlighting the dangers of driving irresponsibly.
 
-**4.****PRESENTATION BY MR. TIM WILLOUGHBY, INFORMATION TECHNOLOGY, GARDA**
+**4.PRESENTATION BY MR. TIM WILLOUGHBY, INFORMATION TECHNOLOGY, GARDA**
 
 **HEADQUARTERS, ON BODY WORN CAMERAS**
 
@@ -271,7 +277,7 @@ year and confirmed that every uniformed Guard in Henry Street will have such cam
 
 Members welcomed the body worn cameras and thanked Mr. Willoughby for his presentation.
 
-**5.****CORRESPONDENCE**
+**5.CORRESPONDENCE**
 
 Reply e-mail from Private Secretary to the Minister for Justice regarding Community Policing Units.
 
@@ -307,10 +313,11 @@ E mails from Waterford Council and Fingal Council acknowledging receipt of Resol
 
 Limerick Joint Policing Committee Meeting held on 8th December, 2023, that the Commissioner be
 
-written to voicing the Council’s opposition to proposals to disband dedicated community policing.---
-**6.****QUESTION SUBMITTED BY COUNCILLOR AZAD TALUKDER**
+written to voicing the Council’s opposition to proposals to disband dedicated community policing.
+---
+**6.QUESTION SUBMITTED BY COUNCILLOR AZAD TALUKDER**
 
-***“I will ask at the next Meeting of the Joint Policing Committee if additional re******sources can be directed***
+***“I will ask at the next Meeting of the Joint Policing Committee if additional re**sources can be directed***
 
 ***to the Immigration Office at Henry Street Garda Station to reduce the waiting time as this is causing***
 
@@ -334,7 +341,7 @@ for communication directly between the Immigration Office and the Applicant who 
 
 available appointment based on the date the application was received.
 
-**7.****QUESTION SUBMITTED BY DEPUTY MAURICE QUINLIVAN, T.D.**
+**7.QUESTION SUBMITTED BY DEPUTY MAURICE QUINLIVAN, T.D.**
 
 “***I will ask at the next Meeting of the Joint Policing Committee what steps are being taken to combat the sale***
 
@@ -376,14 +383,15 @@ result of this engagement Limerick City North Community Engagement & Crime Funct
 
 an application to relaunch Op Feabhsaigh in a similar format as seen in 2023. It’s aim again is to confront and
 
-challenge the issue of drugs and anti-social behaviour which worked very successfully in the past.---
-**8.****QUESTION SUBMITTED BY DEPUTY MAURICE QUINLIVAN, T.D.**
+challenge the issue of drugs and anti-social behaviour which worked very successfully in the past.
+---
+**8.QUESTION SUBMITTED BY DEPUTY MAURICE QUINLIVAN, T.D.**
 
 ***“I will ask at the next Meeting of the Joint Policing Committee, in relation to the issue of wandering and***
 
 ***stray horses in urban areas, what is the number of seizures for non-compliance with horse chipping***
 
-***guidelines and the number o******f horses destroyed in Limerick in 2023 and to date in 2024”.***
+***guidelines and the number o**f horses destroyed in Limerick in 2023 and to date in 2024”.***
 
 In reply, the Chief Superintendent referred to below table in regards to the seizures of Horses throughout
 
@@ -549,7 +557,9 @@ That concluded the business of the meeting.
 
 **Councillor Adam Teskey, Chairman**
 
-**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

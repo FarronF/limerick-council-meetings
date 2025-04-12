@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
@@ -45,6 +48,7 @@ Seconded by Councillor O’Brien:
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -103,6 +107,7 @@ e The proposals for a permanent car park with 33 spaces adjacent to the school w
 well, the school was in favour of same and there would be no necessity to create
 temporary car parking adjacent to the town park.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -158,6 +163,7 @@ that the primary management objective for the entire forest at Curragh Chase was
 conservation, biodiversity and recreation and that Coillte were committed to managing the
 resource through a silvicultural method of Close to Nature Forestry
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -206,6 +212,7 @@ REPLY: There are five vacant houses in the Adare-Rathkeale area, four of these a
 vacancies and one is a void which will be returned for re-letting in two weeks. The
 remaining four will be ready in two weeks for allocation.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -251,6 +258,7 @@ indicated that the 1993 Roads Act empowered the Council to enter lands to do wor
 
 flooding.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -275,5 +283,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

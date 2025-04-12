@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-metropolitan-district-of-limerick-17th-february-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ie Comhairle Cathrach
 & Contae Luimnigh
@@ -63,6 +66,7 @@ mm customerservices@limerickie
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Declaration of Interest
@@ -103,6 +107,7 @@ amended) in relation to the proposed development of Twenty No. Housing Units at 
 Road, Raheen, Limerick.
 
 (Report Enclosed).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -153,6 +158,7 @@ proposed upgrade to the Mackey Roundabout and the timeline of these proposed wor
 of Ballinacurra Gardens, where the entrance stone to Baggot Estate, erected back in 2014, has
 disappeared to and can it be reinstated immediately.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14. Question submitted by Councillor P. Reale
@@ -201,6 +207,7 @@ as stipulated in the planning conditions in respect to Irish Cement.
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on all
 environmental remedial work carried out in the Loughmore Canal and Common in last year and
 what ongoing remediation works will be completed in 2025.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -251,6 +258,7 @@ Consultant's review.
 | will move at the next Meeting of the Metropolitan District of Limerick that we discuss setting up
 a humanitarian hub in the Southside of Limerick City.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 29. Notice of Motion submitted by Councillor M. Donoghue
@@ -298,6 +306,7 @@ Road.
 
 | will move at the next meeting of the Metropolitan District of Limerick that this Council contact
 Transport For Ireland to request that the TFI 90 Minute Fare scheme be introduced in Limerick.
+
 
 
 ---

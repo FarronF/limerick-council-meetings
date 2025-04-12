@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_draft_minutes_of_meeting_6th_may_15_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
@@ -42,6 +45,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and
 signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -99,6 +103,7 @@ REPLY: A submission on traffic calming measures has been submitted to the
 National Roads Authority and we are awaiting a response from them.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 n ed ouncillor L. Galvin
@@ -148,6 +153,7 @@ Boundary encroached
 Home and Social Development is not aware of any encroachment on
 neighbouring sites.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Ownership History
@@ -194,6 +200,7 @@ Te Notice of Motion submitted by Councillor L. Galvin
 
 ! will move at the next Meeting that a second tap be provided at the upper part of
 Holy Cross cemetery (at turntable) and that a refuse bin be provided.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -244,6 +251,7 @@ Members, from the Economic Development and Planning Directorate in relation to t
 removal of 4 car parking spaces at Main Street, Abbeyfeale, in conjunction with a
 Planning Application. He stated that the item had been received after the issue of the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -280,5 +288,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

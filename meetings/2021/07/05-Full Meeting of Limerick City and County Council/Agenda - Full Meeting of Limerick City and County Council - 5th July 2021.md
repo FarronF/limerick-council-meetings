@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-ordinary-meeting-05.07.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 am™~
 — Limerick City
@@ -66,6 +69,7 @@ m customerservices@limerick.te
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -117,6 +121,7 @@ To consider Chief Executive’s Report for the month of May 2021.
 To agree Schedule of Proposed Dates for Strategic Policy Committee Meetings
 up to May 2022.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -175,6 +180,7 @@ Strategic Policy Committee held on 16" June, 2021.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -219,6 +225,7 @@ Question submitted by Councillor C, Sheehan
 
 | will ask at the next Meeting for an update on the Part 8 process for the Limerick
 Institute of Technology to Mary Immaculate College cycleway
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -270,6 +277,7 @@ I will move at the next Meeting that Limerick City and County Council write to t
 President of the University of Limerick requesting that UL establish an off-campus
 Code of Conduct for its students for the coming academic year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17.
@@ -300,5 +308,6 @@ of electric vehicle charging points a requirement of all planning applications f
 homes, schools and workplaces.
 
 Correspondence
+
 
 ---

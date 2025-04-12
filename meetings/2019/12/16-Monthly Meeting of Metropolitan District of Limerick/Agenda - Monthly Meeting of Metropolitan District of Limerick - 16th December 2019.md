@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00%20Agenda%2016th%20December%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach CccctaiiaCiee etne ocpis Cornea Lulmrigh
 & Contae Luimnigh Ceanncheathni Chorparaideach,
@@ -47,6 +50,7 @@ To adopt Minutes of the following Meetings:
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 To consider the taking in charge of the following housing estates in accordance with Section 180 of
@@ -82,6 +86,7 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development Reg
 Co. Limerick.
 
 (Reports Enclosed).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -126,6 +131,7 @@ service users to daytime facilities and supports.
 Limerick and to clarify if the figures on homelessness in the Chief Executive's report are inclusive of
 all people living in hotels, B&B’s, hubs, hostels, TEP services, and those in temporary accommodation
 in the student villages.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -175,6 +181,7 @@ NOTICES OF MOTION
 - introduce a living wage of €12.30 per hour in 2020, with appropriate legal protections for those
 SMEs who can show they cannot afford to pay the living wage.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -217,6 +224,7 @@ Hospital Limerick.
 a “no burn night” banning the lighting of solid fuel fires for one night in late Spring 2020 when the
 weather is mild to combat the poor air quality in Limerick caused by the burning of solid fuels/coal.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -229,5 +237,6 @@ lane on Shannon Bridge into a segregated cycle lane.
 
 26. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

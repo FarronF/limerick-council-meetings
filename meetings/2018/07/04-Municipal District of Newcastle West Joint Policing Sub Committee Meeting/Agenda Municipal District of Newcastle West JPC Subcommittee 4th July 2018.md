@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%202018-07-04%20Agenda%20Municipal%20District%20of%20Newcastle%20West%20JPC%20Subcommittee.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 =
 
@@ -68,5 +71,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 2 le
 & vewwlimerick.le
 yw @LimerickCouncil
+
 
 ---

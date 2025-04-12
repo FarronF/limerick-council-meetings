@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-agenda-monthly-meeting-of-the-metropolitan-district-18th-october-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_ Comhairle Cathrach Selrbhis{ Corparsideacha
 2 : Comhairle Cathrach agus Contae Lutmnigh,
@@ -44,6 +47,7 @@ Metropolitan District of Limerick.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - $7150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Minutes
@@ -83,6 +87,7 @@ letting.
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a list of current Limerick
 City and County Council residential properties currently listed for sale or disposal.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -128,6 +133,7 @@ study for footpaths along the Rossbrien Road.
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the plans for
 the Old Garda Barracks in Lord Edward Street.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14. Question submitted by Councillor J. Costelloe
@@ -171,6 +177,7 @@ condition.
 surgeons in the Limerick City West area to the tune of 50,000 euro. | hope this would be approved
 in the upcoming budget.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21. Question submitted by Councillor O. O’Sullivan
@@ -206,6 +213,7 @@ next Travel and Transportation SPC meeting, on UL’s plans to reduce car use wi
 staff population and in the interim, to confirm what actions UL are taking to provide parking for
 existing staff and student cars to prevent overflow to the surrounding neighbourhood (private
 residences and businesses).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -243,5 +251,6 @@ accommodation crisis given the plans to further increase numbers year on year.
 | will move at the next Meeting of the Metropolitan District of Limerick that the possibility of litter
 bin sponsorship be examined as 2 way to provide revenue for the provision of more bins in the city
 and its environs and to support local businesses to be more visible on their respective streets / areas.
+
 
 ---

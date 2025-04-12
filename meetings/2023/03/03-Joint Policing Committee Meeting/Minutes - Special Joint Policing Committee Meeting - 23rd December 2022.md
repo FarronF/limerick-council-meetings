@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Special%20Joint%20Policing%20Committee%20Meeting%20-%2023rd%20December%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF SPECIAL MEETING (IN COMMITTEE) OF THE LIMERICK JOINT POLICING**
 
 **COMMITTEE HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE AT 10.00 A.M., ON FRIDAY,**

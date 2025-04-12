@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20T%26T%20SPC%203.12.18.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_ Comhairle Cathrach
 
@@ -23,6 +26,7 @@ sures: Ares TA.
 CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE
 
 PHYSICAL DEVELOPMENT DIRECTORATE
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -53,5 +57,6 @@ Thornfield, Oakfield, Monaleen Park, Kylemore, Evanwood, and Cairnsfort in Castl
 Transport Infrastructure Ireland (Tl) be requested to erect a high quality effective Sound
 Barrier along the Motorway to the above Housing Estates to reduce the Motorway noise
 to an acceptable level within these residential developments.
+
 
 ---

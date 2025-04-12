@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -47,5 +50,6 @@ Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach & wwe limerick.ie
 w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

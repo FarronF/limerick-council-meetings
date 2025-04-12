@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%2012th%20March%2C%202019%20v1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 aa peat Cathrach
 & Contae Luimnigh
@@ -70,6 +73,7 @@ Ww alimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Deputation from Adare Community Trust
@@ -104,6 +108,7 @@ Drainage Issues in Courtmatrix
 To note update on drainage issues at Courtmatrix.
 
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -156,6 +161,7 @@ Council attend the March Adare-Rathkeale Municipal District meeting to give an
 adequate explanation as to its reason for the sale of all the Council land at Pallaskenry.
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -170,5 +176,6 @@ pathway.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

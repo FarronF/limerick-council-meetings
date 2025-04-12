@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%202018-12-05%20Agenda%20Newcastle%20West%20JPC%20Subcommittee%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __——_ Duiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -45,5 +48,6 @@ To discuss policing issues in the District:
 @ customerservices@limerickie
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach & weewlimerickic
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

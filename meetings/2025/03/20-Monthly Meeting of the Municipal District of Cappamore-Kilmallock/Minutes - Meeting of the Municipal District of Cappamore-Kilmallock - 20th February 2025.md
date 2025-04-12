@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-february-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE AND ON-LINE, ON
@@ -42,6 +45,7 @@ Seconded by: Councillor Stokes
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -94,6 +98,7 @@ for approval:
 Disposal of land comprising 1.24 acres/0.50 hectares, situate at Site E, Kilmallock
 Business Park, Kilmallock, Co. Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The report, as circulated, was noted by Members.
@@ -138,6 +143,7 @@ The report had been prepared in accordance with Section 179 3(a) of the Planning
 Development Act 2000 (as amended) and Part 8 of the Planning and Development
 Regulations, 2001 (as amended) and noted that it was proposed to proceed in
 accordance with Section 8 of the report.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -186,6 +192,7 @@ QUESTIONS
 completion timeline on the footpath repairs at Effin Graveyard which were included in the
 Cemeteries budget, 2024 Schedule of Works.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 REPLY:
@@ -233,6 +240,7 @@ to the junction.
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District for an update
 on the situation at O'Rourke's on the N20.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 REPLY:
@@ -278,6 +286,7 @@ agreed the operator ensure that a road sweeper was in place fulltime when waste 
 delivered. This instruction has been adhered to and there has been no significant issues with
 respect to the maintenance of the public roads.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The waste disposal site operator has, however, in recent weeks been asked to cease
@@ -322,6 +331,7 @@ The Cappamore-Kilmallock Municipal District will liaise with Cork County Council
 the drainage network on the county boundary at Maiden Hall, to determine if any
 improvements may be necessary.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Any Other Business
@@ -354,6 +364,7 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 
 ---

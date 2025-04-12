@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-minutes-of-monthly-meeting-8th-march-2022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE WOODLANDS HOUSE HOTEL, ADARE, CO. LIMERICK ON**

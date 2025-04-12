@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/7%20minutes_of_inaugural_meeting_of_limerick_city_and_county_council_-_friday_6th_june_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE CONCERT HALL,
@@ -45,6 +48,7 @@ and stated that he had already circulated the Certificate giving the names and d
 of the persons elected. The Meetings Administrator then read the names of the persons
 elected as a result of the Poll taken on 23 May, 2014, which comprised the 40 Members
 of the Council as follows:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -101,6 +105,7 @@ Returning Officer.
 Date: 29” May, 2014.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 LOCAL ELECTIONS 2014
@@ -154,6 +159,7 @@ Returning Officer. Date: 29" May, 2014.
 Clogh, Croagh, Co. Limerick.
 
 Fine Gael
+
 
 
 ---
@@ -213,6 +219,7 @@ Returning Officer.
 Date: 29" May, 2014.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. ELECTION OF CATHAOIRLEACH:
@@ -263,6 +270,7 @@ Secas, Sheehy. (10)
 The Chief Executive declared Councillor Sheahan (K) elected as Cathaoirleach and
 congratulated him on his election.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 On taking the Chair, Councillor Sheahan (K) stated that it was a great honour for him to be
@@ -310,6 +318,7 @@ Seconded by Councillor O’Hanlon;
 “That, Councillor Joe Crowley be appointed Leas-Chathaoirleach of Limerick
 City and County Council to hold office to the next Annual Meeting or until his
 successor is appointed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -361,6 +370,7 @@ economic, social and community development locally. In this regard, he added, it
 closer and more responsive to the day-to-day needs of citizens and more representative of
 their priorities in setting policies and making decisions. He said that, as an organisation,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 the Council had engaged in a significant process of adaptation to meet the challenge that
@@ -411,6 +421,7 @@ Seconded by Councillor O’Hanlon;
 “That, Councillors Donegan, Gleeson, Foley and Hourigan be appointed as
 SPC Chairs-Designate for a three-year term.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 As there were no other nominations, the Cathaoirleach declared Councillors Donegan,
@@ -459,6 +470,7 @@ The Meetings Administrator stated that under the Markets Act, 1852, Limerick Cit
 County Council was entitled to nominate the Cathaoirleach, together with a further 16
 Members of the Council, as Trustees. Under the Act, the Council was required to make
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10
@@ -506,6 +518,7 @@ Market Trustees was deferred.
 
 The Meetings Administrator stated that Limerick City and County Council was required to
 consider the appointment of 1 Member to the Library Association of Ireland.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -559,6 +572,7 @@ appointed as the Council's representative to the Irish Public Bodies Mutual Insu
 
 Limited.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12
@@ -607,6 +621,7 @@ Authority of the University of Limerick.”
 
 As thee were no other nominations, the Cathaoirleach declared Councillors O'Dea
 and Scanlan appointed to the Governing Authority of the University of Limerick.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -657,6 +672,7 @@ Council on the Hunt Museums’ Trust.”
 As there were no other nominations, the Cathaoirleach declared Councillors
 Crowley and O'Donnell appointed as the Council's representatives on the Hunt Museums’
 Trust.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -710,6 +726,7 @@ Forum West.
 The Meetings Administrator clarified that this item should have been titled RAP/D Action
 Implementation Team for Rathkeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15
@@ -756,6 +773,7 @@ Mitchell and O'Dea appointed to the Board of Governors of St. John’s Hospital.
 
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), it was
 agreed to defer this item.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -805,6 +823,7 @@ The Meetings Administrator stated that Limerick City and County Council was requ
 appoint 1 Member to the Board of Management of St. Munchin’s Community Development
 Company Limited.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Proposed by Councillor Collins (M);
@@ -835,7 +854,9 @@ An Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

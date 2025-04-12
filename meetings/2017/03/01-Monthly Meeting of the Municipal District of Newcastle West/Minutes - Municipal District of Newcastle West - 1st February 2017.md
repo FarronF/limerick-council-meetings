@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_2017-02-01_minutes_february_municipal_district_newcastle_west.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE
@@ -45,6 +48,7 @@ outside the school.
 
 The Department of Education had been contacted but funding was not forthcoming. Mr. Dalton
 stated that they were asking the Council to assist with funding this venture.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -95,6 +99,7 @@ application for 2017 was being prepared.
 
 Members asked that contact be made again with Transport Infrastructure Ireland to stress the
 dangerous condition of this road and the urgency for works to be carried out.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -149,6 +154,7 @@ Templeathea, Athea as promised some time ago.
 
 REPLY: These works will be completed within the next two weeks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7. Question submitted by Councillor L. Galvin
@@ -199,6 +205,7 @@ NOTICES OF MOTION
 | will move at the next Meeting that the Council calls on Transport Infrastructure Ireland (TII)
 to replace stacking lanes at all the junctions on the N21 in the Municipal District of Newcastle
 West where the directional arrows were removed in the interest of safety.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -253,6 +260,7 @@ Association had requested funding to provide a marquee to host this event which 
 would be of benefit to the area. Members asked that contact be made with the Directors of
 Economic Development and Culture to seek assistance with funding for the project.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Members expressed their disappointment that a Draft Plan for Newcastle West which had been
@@ -283,5 +291,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

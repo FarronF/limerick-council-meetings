@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%208th%20November%2C%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “ll Comhairie Cathrach
 & Contae Luimnigh
@@ -73,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 W @LimerickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Housing Directorate
@@ -105,5 +109,6 @@ open and frank debate on the recent media reports regarding the travelling commu
 Rathkeale.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

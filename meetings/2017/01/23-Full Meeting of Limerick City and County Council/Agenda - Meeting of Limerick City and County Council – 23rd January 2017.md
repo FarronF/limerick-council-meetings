@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_council_meeting_230117.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 AP
 
@@ -65,6 +68,7 @@ already circulated)
 Ceanncheathrié Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -116,6 +120,7 @@ include a provision in relation to the regulation of sulky-racing on
 
 the public road.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -173,6 +178,7 @@ introduced, will further damage local democracy.
 
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (e) r Spoka Washington State, USA
@@ -212,6 +218,7 @@ Executive's report, or otherwise decide not to make the scheme, in accordance wi
 Section 48(8)(a) of the Planning and Development Act, 2000 (as amended).
 
 (Report from Director, Chief Executive’s Report and copy of Draft Scheme Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -268,6 +275,7 @@ held in Dublin on 6™ March, 2017.
 
 (Details already circulated electronically)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -316,6 +324,7 @@ value of the development contributions that could be due.
 | will ask at the next Meeting for the details of the quality and nature of the new
 emergency homeless accommodation provided in Limerick before Christmas, in
 terms of the privacy, washing facilities, type of beds, cleanliness and length of stay.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -366,6 +375,7 @@ Notice of Motion submitted by Councillor J. Gilligan
 I will move at the next Meeting that Limerick City and County Council calls on the
 Government to notify the Council of Europe’s Convention Against Trafficking in
 Human Organs.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -420,6 +430,7 @@ referred to the Environment Strategic Policy Committee)
 Council to urgently tackle the issue of dog fouling throughout the city and county of
 Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Notice of Motion submitted by Councillor C. Prendiville (to be
@@ -455,5 +466,6 @@ households which was discontinued in January 2014.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

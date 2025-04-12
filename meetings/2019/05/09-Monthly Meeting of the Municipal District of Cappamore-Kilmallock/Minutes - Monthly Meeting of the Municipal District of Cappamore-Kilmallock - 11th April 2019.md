@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/02%20Minutes%20April%202019%20Meeting%20Cappamore-Kilmallock%20MD.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE OLD IRISH
@@ -38,6 +41,7 @@ Mr O'Connor stated that he was delighted to welcome the Elected Members and Coun
 Officials to the Museum and that the concept for the Museum was to retain a record of
 previous Irish living from a different era in Irish life and he hoped that all would enjoy their
 visit to the Museum.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -85,6 +89,7 @@ The City & County Librarian confirmed that a Working Group, comprising various
 representative was being set up so that this pilot would be closely monitored over a twelve-
 month period and reported on.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Members welcomed the proposal and commended the City & County Librarian on the
@@ -126,6 +131,7 @@ delays also result in young drivers incurring huge costs in purchasing extortion
 premiums. The Members agreed that these laws should be immediately revisited and that a
 more pragmatic and common sense approach should be used to achieve a fairer system for
 all drivers.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -169,6 +175,7 @@ Council is making considerable progress in tackling dereliction.
 The Members expressed their disappointment that the Speed Limit Review was not yet
 complete and hoped it would be done before the end of May.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ¢ Date for next Meeting
@@ -178,5 +185,6 @@ Cappamore on the 9" May at 1.30 p.m.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20February%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -47,6 +50,7 @@ To receive Deputation from Rathkeale Community Council. (Item to be taken at 9.0
 Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach © werwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Transportation & Travel / Environment
@@ -93,6 +97,7 @@ To receive update on proposals to address the flooding issues in Foynes, Askeato
 Ballysteen.
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -112,5 +117,6 @@ To receive update on request to provide footpaths from Adare village to the GAA 
 Adare.
 
 Correspondence
+
 
 ---

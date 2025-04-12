@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28a%29%20Minutes%20Annual%20Meeting%2007.07.2022.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND

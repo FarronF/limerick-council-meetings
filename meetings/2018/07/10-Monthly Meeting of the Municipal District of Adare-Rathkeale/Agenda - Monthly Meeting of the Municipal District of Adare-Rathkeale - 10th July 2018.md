@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%2010th%20July%252c%202018%20v2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 =
 
@@ -87,6 +90,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 © vevew Mmerick. le
 Ww @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Physical Development Directorate
@@ -124,6 +128,7 @@ To note update on pedestrian controlled crossing for Adare.
 
 tw
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -144,7 +149,9 @@ Correspondence
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

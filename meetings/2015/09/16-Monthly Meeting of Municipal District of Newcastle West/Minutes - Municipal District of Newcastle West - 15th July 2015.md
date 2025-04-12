@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2015th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
@@ -40,6 +43,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and
 signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -95,6 +99,7 @@ was 14" August, 2015.
 Members noted the contents of the Senior Executive Officer's Report dated 8" July,
 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -148,6 +153,7 @@ June, 2015.
 
 On the Proposal of Councillor Scanlan, seconded by Councillor Collins, it was agreed
 that this item would be deferred to the next Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -204,6 +210,7 @@ Newcastle West Area are as follows:
 
 2013 €48,000
 2014 €48,000
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -262,6 +269,7 @@ that he would make enquiries from local people to try and establish the register
 
 owner.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -319,6 +327,7 @@ funding be provided to repair and preserve the Cistercian Church, Fairy Street,
 
 Athea.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 REPLY: Templeathea Church and graveyard are Recorded Monuments, LI034-
@@ -368,6 +377,7 @@ REPLY:
 
 This matter had been investigated and our records show that this area
 was private property.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -425,6 +435,7 @@ funding be allocated to setting up this Development Association,
 arrangements can be made to allocate the relevant funding from the
 General Municipal Allocation.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Members asked that an item be included on the September Agenda in relation to
@@ -436,5 +447,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

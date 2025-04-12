@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-29th-june-2021_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Comhairle Cathrach P = Gatdesack Ath Dere-Raeh Cada
 i i ormnairle Cathwach agus Contae Luimnigh,
@@ -58,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick. v
 @LimerickCouncil
 ( 061 - 886 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Mid West National Road Design Office
@@ -97,6 +101,7 @@ To note proposal for disposal of land as follows:
 (b) Disposal of Freehold Interest in property at Ballywilliam, Rathkeale, Co. Limerick.
 
 (Reports Enclosed).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -147,5 +152,6 @@ Lane, Askeaton, the cottage in the curtilage of Beagh Castle, Ballysteen and Mil
 Askeaton be added to the conservation list of Limerick City and County Council.
 
 (Copy of Correspondence Enclosed)
+
 
 ---

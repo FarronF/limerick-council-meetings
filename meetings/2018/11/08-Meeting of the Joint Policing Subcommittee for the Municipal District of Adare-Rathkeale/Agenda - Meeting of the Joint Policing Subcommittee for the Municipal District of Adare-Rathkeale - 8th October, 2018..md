@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%208th%20November%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ..—el Comhaltie’ rear
 
@@ -63,5 +66,6 @@ To discuss policing issues in the Adare-Rathkeale District.
 = ie
 — ; aiieaiagi fafa
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
+
 
 ---

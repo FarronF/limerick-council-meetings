@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-18th-September-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
  _——ee Comhairle Cathrach
 & Contae Luimnigh
@@ -57,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Declaration of Interest.
@@ -109,6 +113,7 @@ attractiveness for new business to establish in the city centre.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Ja Question submitted by Councillor J. Leddin
@@ -160,6 +165,7 @@ progress of the widening of Golf Links Road by O'Shea's Pub.
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 progress on the distributor road connecting Groody Road to Golf Links Road/Old School House
 Road junction.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -214,6 +220,7 @@ enable the inclusion of a new policy in these same plans that would seek to ensu
 
 4
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 housing developments (excluding single apartment block developments in the city centre) of
@@ -261,6 +268,7 @@ was committed to in 2020 under Active Travel proposals.
 roundabout maintenance plan and sponsorship scheme with particular reference to the
 Coonagh and Clondrinagh roundabouts and the upkeep of same.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 29. Question submitted by Councillor O. O’Sullivan
@@ -304,6 +312,7 @@ address the level of vacancy and dereliction on the street.
 to the Minister for Education to ask her to ensure that a bus service is provided for children
 attending the Limerick Educate Together Secondary School who are eligible but currently
 without a school bus place.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -354,9 +363,11 @@ unacceptable situation whereby many Early Years Practitioners providing the cruc
 into education for our children in a pre-school setting receive no salary out of term time causing
 many to consider leaving the profession.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 42. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

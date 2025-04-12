@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%20Agenda%2017th%20December%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach pees Corpertidaach
 _—__ 5 Contes takin Comhairle Cathrach agus Contae Luimnigh,
@@ -56,6 +59,7 @@ limerick.ic
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (d) Disposal of 3 Galvone View, Limerick in exchange for 207 Valley View, O'Malley Park,
@@ -106,6 +110,7 @@ To note the Public Consultation Report in relation to the Draft City and County 
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -155,6 +160,7 @@ conventional standard construction?
 3. What is the approximate % construction cost difference (if any), between the Rapid
 
 Builds construction methods and conventional construction methods?
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -226,6 +232,7 @@ national target of 12-15% of commencement notices received’ .
 
 4. What is the proposed number of inspectors budgeted for this service in 2019?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -283,6 +290,7 @@ Notice of Motion submitted by Councillor E. Secas
 as possible for the proposed road widening scheme to upgrade Lower Golf Links Road near
 O'Shea's pub now that the topographical and hydrographic surveys have been completed
 and consultants have been appointed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -342,6 +350,7 @@ Psychiatric Nurses Association (PNA) and have been denied recognition by the HSE
 day national strike of ambulance staff is to take place on Wednesday 19th December and
 already some SIPTU members of staff have declared that they will not cross the pickets.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 26.
@@ -363,5 +372,6 @@ ice of i itted by Councillor J. Leddin
 Finance to introduce interest rate caps so as to prevent credit finance companies taking
 advantage of vulnerable people looking to access short term loans with exorbitant interests
 rates in excess of 60%.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Municipal-District-of-Newcastle-West-1st-November-2023_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach
 & Contae Luimnigh
@@ -57,6 +60,7 @@ October, 2023.
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 utation
@@ -92,6 +96,7 @@ General Municipal Allocation
 
 To review position in relation to allocations under the General Municipal Allocation
 2023.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -157,6 +162,7 @@ out in following Social Housing Estates: (a) Clash Road, Abbeyfeale, (b) Pairc
 Luachra, Abbeyfeale, (c) Radharc Na Féile, Abbeyeale, (d) Hill View Drive,
 Abbeyfeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 20.
@@ -201,5 +207,6 @@ cemeteries be renewed as a matter of urgency.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

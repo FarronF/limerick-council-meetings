@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01b-2020-09-09-minutes-september.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -42,6 +45,7 @@ Special Speed Limit) Bye-Laws 2020.
 
 Circulated, report of Senior Executive Engineer, Operations and Maintenance Services, dated
 20" August, 2020.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -97,6 +101,7 @@ consideration should also be given to using social media.
 Following discussion, it was agreed that a workshop for the Councillors with the Consultants
 would be arranged prior to the Draft Plan going on public display.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4. General Municipal Allocation (GMA)
@@ -148,6 +153,7 @@ responsible for granting planning (c) what are the planning conditions (d) were 
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 conditions adhered to (e) is there a public right of way up to the Cross and if so who is
@@ -192,6 +198,7 @@ carried out on the River Feale, Abbeyfeale at McCarthy's bend with regard to div
 water to the Abbeyfeale Water Treatment Plant.
 
 REPLY: No response from Irish Water.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -252,6 +259,7 @@ follows:
 *lf it can be powered by mechanical or electrical power alone (i.e. it can continue without you
 pedalling or scooting it) then it is considered to be a ‘mechanically propelled vehicle’(MPV).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Under road traffic law if an MPV is used in a public place it is subject to all of the regulatory
@@ -297,6 +305,7 @@ continue with daily maintenance at these play facilities.
 / will ask at the next meeting when footpath renewal work is likely to be undertaken along
 the right hand Beechwood Ave., approach to Meadow Court Estate.,
 as well as that fronting properties towards House No. 20 on the left hand side therein.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -344,6 +353,7 @@ the Convent of Mercy, Abbeyfeale.
 
 The Motion was seconded by Councillor Foley.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 REPLY: Limerick City and County Council will arrange to carry out an inspection on the
@@ -387,6 +397,7 @@ Allaughaun as he now has responsibility for the OPW.
 
 It was also proposed by Councillor Scanlan and seconded by Councillor Galvin that Irish Water
 be requested to attend the October Meeting of the District to discuss the above matters.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -439,6 +450,7 @@ REPLY: Qualifying criteria under the Local Improvement Scheme grants are set out
 
 9
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 the Department of Rural and Community Development.
@@ -490,6 +502,7 @@ an area for littering and anti social behaviour.
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Motion was seconded by Councillor Ruddle.
@@ -540,6 +553,7 @@ Newcastle West.
 
 11
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 It was agreed to hold the October Meeting of the District on Wednesday, 7" October, 2020,
@@ -559,5 +573,6 @@ Cathaoirleach
 Dated:
 
 12
+
 
 ---

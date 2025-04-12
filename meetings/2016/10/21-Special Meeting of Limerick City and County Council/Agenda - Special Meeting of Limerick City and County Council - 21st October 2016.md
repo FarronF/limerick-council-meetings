@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_special_meeting_of_limerick_city_and_county_council_-_21st_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 I Comhairle Cathrach agus Contae Luimnigh.
@@ -41,6 +44,7 @@ Meetings Administrator.
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach ares
 Corporate Headquarters, Merchants Quay, Limerick ye
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 We, the Elected Members of Limerick City and County Council call on the Mayor of the said Authority Mr
@@ -83,6 +87,7 @@ Eddie Ryan M.C.C.
 Linm GALVIN mcec, .
 
 ‘De sagan He pproomcs
+
 
 
 ---

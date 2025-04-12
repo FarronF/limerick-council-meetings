@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01b-draft-minutes-annual-meeting-21st-june-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 21ST** **JUNE, 2021 AT**

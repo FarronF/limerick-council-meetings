@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28d%29%20Minutes%20Special%20Meeting%2027th%20November%2C%202017.pdf)
+
+---
 1
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING ‘IN COMMITTEE’ OF THE**

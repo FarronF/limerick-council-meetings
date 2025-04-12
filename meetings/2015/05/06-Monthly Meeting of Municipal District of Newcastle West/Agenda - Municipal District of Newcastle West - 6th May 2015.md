@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda_may_meeting_of_newcastle_west.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -54,6 +57,7 @@ customerservices@limerickie
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach . @ www limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -99,5 +103,6 @@ Notice of Motion submitted by Councillor S. Browne
 | will move at the next meeting of the Council that measures be put in place to protect
 Athea National School and adjoining houses from river erosion and flooding as the
 school is in danger of losing its play ground and basketball court.
+
 
 ---

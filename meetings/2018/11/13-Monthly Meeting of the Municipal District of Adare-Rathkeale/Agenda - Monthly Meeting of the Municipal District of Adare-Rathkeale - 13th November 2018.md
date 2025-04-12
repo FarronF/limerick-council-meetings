@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%2013th%20November%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -77,6 +80,7 @@ WY @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 General Municipal Allocation (GMA) 2018
@@ -122,5 +126,6 @@ nw
 (Copy Enclosed)
 
 (Copy Enclosed)
+
 
 ---

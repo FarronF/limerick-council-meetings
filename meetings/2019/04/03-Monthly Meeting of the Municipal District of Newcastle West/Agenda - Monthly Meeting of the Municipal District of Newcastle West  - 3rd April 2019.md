@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%202019-04-03%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach Duiche Bardais an Genie Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Conte Luimnigh.
@@ -54,6 +57,7 @@ eee
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach wvew.limerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick WY e@limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b)
@@ -108,6 +112,7 @@ building works at The Glebe, Monagea.
 enable connectivity through the L21021 from the N21 at Barnagh to allow access to
 property.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -146,5 +151,6 @@ Newcastle West call on the Executive of Limerick City and County Council to begi
 process to apply for funding for the provision of a 25 metre public swimming
 facility/pool to be located in Newcastle West Town to serve the people of the
 Municipal District and its hinterland.
+
 
 ---

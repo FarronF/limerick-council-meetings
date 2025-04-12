@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-e-minutes-adjourned-special-meeting-17.06.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE ADJOURNED SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON THURSDAY, 17TH JUNE, 2021, AT 9 AM.

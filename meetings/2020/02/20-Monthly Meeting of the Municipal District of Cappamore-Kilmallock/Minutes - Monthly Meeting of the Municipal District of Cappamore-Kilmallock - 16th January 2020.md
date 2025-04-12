@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/04-minutes-jan-2020-md-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -40,6 +43,7 @@ Under Matters Arising, the Elected Members requested that clarification be sough
 preference locations selected by qualified applicants on the Housing Waiting List in the
 Municipal District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (ii) Circulated, copy of draft Minutes of Special Meeting of the Municipal District of
@@ -81,6 +85,7 @@ concerns raised by the local community about the lengthy diversion involved and 
 community was being split in two with the suggested closure of this railway crossing. They
 asked that consideration should be given instead to the provision of an overbridge at this
 location.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -128,6 +133,7 @@ in local communities. They agreed the importance of continued co-operation betwe
 Limerick City and County Council and Ballyhoura Development CLG in supporting local
 communities with their future progress and development.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5. Housing Development Directorate
@@ -172,6 +178,7 @@ their positions?
 (b) Will there be a designated Estate Management Officer position appointed to the
 Cappamore Kilmallock Municipal District?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Reply:
@@ -215,7 +222,9 @@ Signed: Date:
 Cathaoirleach
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-Annual-Meeting-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS OF THE ANNUAL MEETING OF THE

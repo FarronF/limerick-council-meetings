@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Special-Meeting-of-Council-17-June-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 . Setbhisi Corpardideacha,
 ee Comhairie Cathrach Cormhatlrie Cathrach agus Contac Luimeigh,
@@ -49,5 +52,6 @@ amendments.
 
 ———— een ee W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

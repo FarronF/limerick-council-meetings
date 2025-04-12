@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/02%20Minutes%20Dec%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -38,6 +41,7 @@ Seconded by Councillor Gleeson;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -81,6 +85,7 @@ services in the Cappamore-Kilmallock Municipal District during 2018.
 The Elected Members noted the Municipal District works and services delivered in the
 various areas in the Municipal District during 2018 and complimented all the staff of
 Limerick City & County Council on this work.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -126,6 +131,7 @@ system.
 The Head of Digital Strategy also stressed the importance that these Smart CCTV systems
 would be fully compliant with privacy, GDPR and legal requirements to ensure that they were
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 operated in an effective and responsible manner by the local authority. He outlined the
@@ -164,5 +170,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

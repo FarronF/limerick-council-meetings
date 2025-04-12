@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/minutes-of-jpc-meeting-held-on-4th-dec-2020.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT VIRTUAL MEETING OF THE JOINT
 
 POLICING COMMITTEE HELD ON 4TH DECEMBER, 2020, AT 10.00 A.M.

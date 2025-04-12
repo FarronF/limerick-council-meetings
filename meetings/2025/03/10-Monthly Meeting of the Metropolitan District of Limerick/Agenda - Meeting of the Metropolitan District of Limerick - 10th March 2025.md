@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-metropolitan-district-of-limerick-10th-march-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -65,6 +68,7 @@ em Customerservices@limerick.ie
 ¥ @LimerickCouncit
 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Declaration of Interest
@@ -112,6 +116,7 @@ Development Act 2000 (as amended).
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 QUESTIONS
@@ -156,6 +161,7 @@ the area from a tourist point of view.
 | will ask at the next Meeting of the Metropolitan District of Limerick what is the status of the
 dockless bike scheme for Castletroy/Annacotty and when will it be expanded beyond Castletroy
 to Corbally and Castleconnell.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -206,6 +212,7 @@ Council travel from.
 clarify which department has responsibility for the removal of dumped waste/litter from green
 spaces in the Metropolitan area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21. Question submitted by Councillor S. Hickey-O’ Mara
@@ -254,6 +261,7 @@ County Council engage with the Department of Housing to determine the status of 
 Situ scheme, as the delays from the Department are causing unnecessary stress for landlords,
 tenants and Council officials.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 28. Notice of Motion submitted by Councillor S. Beasley
@@ -277,5 +285,6 @@ released to their new owners.
 | will move at the next Meeting of the Metropolitan District of Limerick that the Mayor and the
 Director General liaise with UL and An Garda Siochana, to set up and chair a taskforce to address
 car parking problems in residential areas around the University of Limerick.
+
 
 ---

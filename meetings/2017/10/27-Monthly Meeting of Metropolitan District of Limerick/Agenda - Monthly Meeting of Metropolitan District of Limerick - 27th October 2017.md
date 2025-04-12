@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/00%20Agenda%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20October%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 : Seirbhisi Corpardideacha,
 _—_—_—_—" Comhairle Cathrach Conihaa/ia Coben agus Corns serch
@@ -58,6 +61,7 @@ Caheranardish, Mungret, Co. Limerick.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Service Operations Directorate
@@ -101,6 +105,7 @@ To agree the date for a meeting to consider the Draft Budgetary Plan 2018 for th
 Metropolitan District of Limerick.
 
 (Report Enclosed).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -152,6 +157,7 @@ Question submitted by Councillor C. Prendiville
 ! will ask at the next Meeting, what progress has been made towards streaming
 Metropolitan District Meeting online for the public to follow, or watch back, as in other
 Council's across the country.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -212,6 +218,7 @@ Transportation SPC)
 where stalls are set up on a Saturday morning, should be closed to cars seeking to cut
 through the market for the duration of the Saturday market.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 20.
@@ -231,5 +238,6 @@ housing, as a matter of urgency.
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-08/agenda-ordinary-meeting-of-limerick-city-and-county-council-august-26th-2024.pdf)
+
+---
 30th July, 2024.
 
 To: The Mayor and Each Member of Limerick City and County Council

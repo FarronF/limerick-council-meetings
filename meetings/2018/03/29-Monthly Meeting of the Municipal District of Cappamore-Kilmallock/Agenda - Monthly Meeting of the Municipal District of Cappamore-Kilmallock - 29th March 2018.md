@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20290318.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Setrdinisi Corparaideacha,
 
@@ -59,6 +62,7 @@ Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach ©081 - 557150
 
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICE OF MOTION
@@ -66,5 +70,6 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 
 3. | will move at the next Meeting that this District campaign for the inclusion of
 Ardpatrick in the Clar programme to avail of grant monies to invest in the community.
+
 
 ---

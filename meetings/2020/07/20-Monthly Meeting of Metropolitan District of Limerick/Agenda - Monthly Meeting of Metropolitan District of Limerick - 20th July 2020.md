@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/00-agenda-monthly-meeting-20th-july-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 al Comhairle Cathrach Comhairle Cathr asnCuieuaae
 & Contae Luimnigh ornare Tamwack agus fontae Luimnigh,
@@ -51,6 +54,7 @@ To adopt Minutes of the following Meetings :
 Ceanncheathra Chorparéideach, Cé na gCeannaithe, Lutmneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land
@@ -93,6 +97,7 @@ To consider approving the draft Metropolitan District of Limerick (Parking Place
 Section 200{1) of the Local Government Act 2001 as amended.
 
 (Report Enclosed).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -137,6 +142,7 @@ Manual! for Urban Roads and Streets (DMURS), and National Cycle Manual (NCM) and
 is any training planned in the near future with the focus on the changed circumstances due
 to the Covid-19 public health crisis and the implications of it?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12. Question submitted by Councillor E O’Donovan
@@ -175,6 +181,7 @@ banks of the river in Limerick City.
 facilitate public consultations to include online and public forums to facilitate engagement
 prior to LSMATS strategy being brought to Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Travel and Trans tion Strate c Poli Committe
@@ -203,5 +210,6 @@ services at University Hospital Limerick.
 
 22. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

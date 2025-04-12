@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-a-minutes-council-meeting-25.01.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ON MONDAY, 25TH JANUARY, 2021, AT 3PM.

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
@@ -49,6 +52,7 @@ who would deliver the plan.
 social and physical / environment.
 
 e The presentation and implementation of the plan and the timeframe for its adoption.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -106,6 +110,7 @@ Courthouse, Adare.
 Members welcomed the proposed disposal and asked that the proceeds of the sale be applied to
 the Adare-Rathkeale District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -161,6 +166,7 @@ design development and the ongoing design process with the social housing scheme
 In response to an enquiry from Members, the Senior Engineer, Mid West Road Design Office noted
 that, while the attenuation tank to be placed under the car park was designed to cater for surface
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -214,6 +220,7 @@ The Senior Executive Planner informed the Members that Rathkeale would be includ
 of action for 2016 and he would revert to Members in November 2016 with a progress update. He
 also undertook to circulate Members with a map showing the existing sites in Rathkeale on the
 Derelict Sites Register.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -269,6 +276,7 @@ the District requested that provision be made in the 2017 budget to allow Phase 
 
 to advance.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8. Sewerage Treatment Plant in Askeaton
@@ -320,6 +328,7 @@ contract.
 For capital works above €50,000.00, these are usually procured on etenders.ie and
 where applicable, the European Journal {if the works may exceed approx
 €5,000,000.) These tenders are evaluated against specification and award criteria,
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -376,6 +385,7 @@ exemption from a casual trading licence to a grower or any person acting on beha
 of a grower selling berries and new potatoes on the side of the road between May
 and September inclusive. (Section 2(3)) Regulations 2004 - Casual Trading Act 1995
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 exempt from the provision of the Casual Trading Act 1995 the selling between the
@@ -426,6 +436,7 @@ The following issues were raised at the conclusion of the agenda :-
 Councillor Sheahan noted that two tarmacadam footpaths exiting the east of Askeaton were in
 poor condition and should be replaced with concrete.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 9
@@ -442,5 +453,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_ncw_-_meeting_11-06-14_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a
 
@@ -59,5 +62,6 @@ if % Cé na gCeannaithe, Luimneach t: 061 407100
 ‘ Merchant's Quay, Limerick f: 061 415266 we: wwew.limerickcity.te
 
 i
+
 
 ---

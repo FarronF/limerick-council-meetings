@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01a-2020-10-07-minutes-october.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -45,6 +48,7 @@ And Resolved:
 
 (b) Circulated, copy of draft Minutes of Meeting of the Adjourned Meeting of the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Municipal District of Newcastle West held on 9" September, 2020.
@@ -89,6 +93,7 @@ Circulated, report of Administrative Officer, Urban & Rural Community Developmen
 
 The Members agreed to allocate funding to the organisations as outlined in the report. This
 was proposed by Councillor Galvin and seconded by Councillor Scanlan.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -138,6 +143,7 @@ water to the Abbeyfeale Water Treatment Plant.
 
 REPLY:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 e In early 2016, following extreme floods, a breach formed on the River Feale. The
@@ -183,6 +189,7 @@ localrepsupport @water.ie or by phone at 1890 178 178.
 
 Councillor Foley acknowledged the response received from Irish Water but also referred
 to the ongoing issue with regard to river erosion at the town park.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -231,6 +238,7 @@ Feale but rather restored and protected its natural channel flow to that of the 
 pre 2016. While it is accepted that there has been erosion at the Public Park, Irish
 Water’s position is that this did not occur as a result of the emergency works
 undertaken.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -285,6 +293,7 @@ mitigate the blockages and need for repeated jetting/cleaning out. A proposal wa
 
 6
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Irish Water for approval and recently a purchase order has been issued to a Contractor to
@@ -335,6 +344,7 @@ receiving Rental Accommodation Scheme Support (RAS).
 
 6 households are approved.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Of the 358 households who have expressed an interest in being house in NCW they are
@@ -367,6 +377,7 @@ purchased by our Authority in the Newcastle West Municipal District in each of t
 from 2016 to 2020 along with the numbers acquired in the same period through Section 5
 
 obligations.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -409,6 +420,7 @@ acceptable on the discs both day and night.
 
 The playback issue is not apparent in any of our discs assessed and may be a user issue. VLC
 player is recommended.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -461,6 +473,7 @@ commitment that all essential upgrade works on residential properties purchased 
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Authority be undertaken immediately once property purchased, in order that those homes
@@ -506,6 +519,7 @@ clearly mark out and define the trading area at the Square, Newcastle West. A br
 followed and it was agreed that a list of traders and map would be circulated.
 
 11
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -556,6 +570,7 @@ along with two Elected Members and three Council officials.
 
 12
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Senior Executive Engineer referred to the workshop, which was to take place with the
@@ -575,7 +590,9 @@ Dated:
 
 13
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20February%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
 & Contae Luimnigh Comharie Cathrach agus ¢ a ae
@@ -54,6 +57,7 @@ direct management by Uisce Eireann (formerly Irish Water).
 Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach
 Corporate Headquarters, Merchants Quay, Limerick. 1 @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Urban & Rural Community Development
@@ -93,6 +97,7 @@ Question submitted by Councillor S. Keary
 circa eleven acres to a private developer without foul sewer or storm water connectivity
 being available.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -119,5 +124,6 @@ users at this location.
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

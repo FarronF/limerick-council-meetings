@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00%202022-05-04%20Agenda%20May.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —_— Comhairle Cathrach Diliche Bardais an Chaistedin Nua Thar,
 Comhairle Cathrach agus Contac Luimnigh,
@@ -49,6 +52,7 @@ Corporate Headquarters, Merchant's Quay. Limerick v
 @LimerickCouncil
 © 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -96,6 +100,7 @@ the Demesne, Newcastle West.
 I will ask at the next Meeting for an update on the acquisition of the unfinished
 housing development along Forge Road, Broadford.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -115,5 +120,6 @@ properties are then being sold on the private market.
 
 | will move at the next Meeting that the Greenway Carpark at Gortboy, Newcastle
 West be tarmacked.
+
 
 ---

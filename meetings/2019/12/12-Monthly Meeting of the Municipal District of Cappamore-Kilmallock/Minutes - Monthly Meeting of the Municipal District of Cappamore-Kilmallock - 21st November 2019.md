@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/02-Minutes-November-2019-Mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -41,6 +44,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (ili) Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappamore-
@@ -83,6 +87,7 @@ Superintendent of An Garda Siochana.
 
 With the permission of the Members, it was agreed that Item No. 8 on the Agenda would be
 taken at this point:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -129,6 +134,7 @@ Reception scheduled for 7pm on the 27 November 2019.
 Circulated, Housing Progress Report from the Director of Services, Housing Development
 Directorate dated 25" October, 2019, which was noted by the Members
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NO MOTION
@@ -172,6 +178,7 @@ Reply:
 
 Consultation will take place with the residents located at this address and if they are in
 favour of bollards being provided, the bollards will be provided in early 2020.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -220,6 +227,7 @@ Reply:
 Irish Rail recently advised Limerick City & County Council that they do not have any Title or
 Folio details relating to Bruree at their offices at Limerick Junction. They have referred the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 request for clarification on title to larnréd Eireann Head Office in Dublin and a reply is
@@ -264,6 +272,7 @@ The Elected Members extended 2 Vote of Sympathy to the family and friends of Ann
 recently. Anne was a former employee of Limerick City Council, and was a sister of Liz
 Creamer who works In the Corporate Services Department, Limerick City & County Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Elected Members extended a Vote of Sympathy to the family and friends of John
@@ -288,7 +297,9 @@ This concluded the Meeting.
 Signed: Date:
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

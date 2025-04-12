@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/agenda-annual-meeting-of-metropolitan-district-28th-june-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach aes ea Sestohisi Corpartidescha,
 
@@ -48,5 +51,6 @@ mm customerservices@limerickie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

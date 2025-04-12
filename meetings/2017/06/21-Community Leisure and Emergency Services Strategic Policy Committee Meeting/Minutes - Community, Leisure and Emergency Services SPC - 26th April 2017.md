@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Item%201%20Minutes%20260417.pdf)
+
+---
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**

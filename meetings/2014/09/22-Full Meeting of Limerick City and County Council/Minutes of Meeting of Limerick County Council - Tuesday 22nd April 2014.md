@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/3%20minutes_of_meeting_of_limerick_county_council_-_tuesday_22nd_april_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK COUNTY
 COUNCIL HELD IN THE COUNCIL CHAMBER, COUNTY HALL,
@@ -43,6 +46,7 @@ Cuidit 6n Councillor Collins (M);
 Agus an Cinneadh:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -94,6 +98,7 @@ which was passed at Council Meeting held on 20” December, 2011.”
 (c) Circulated, copy of Statutory Notice dated 7™ April, 2014, concerning disposal of land at
 Gardenhill, Co. Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 It was noted that the Council had approved a resolution at its Meeting held on 27” May,
@@ -142,6 +147,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the Me
 unanimously agreed to issue Polling Cards to electors who were entitled to vote at Local
 Elections only, i.e. those with the letter ‘L’ opposite their names on the register of electors.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (ii) Spending Limits for Local Election Candidates in May Election
@@ -187,6 +193,7 @@ e¢ Target Group.
 
 ¢ Support Scheme Summary.
 e Support Payment Bands.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -235,6 +242,7 @@ The Members noted the report and welcomed the proposed development.
 Councillor Harty thanked her fellow Members for their support and approval for this
 Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6. Economic Development and Planning
@@ -279,6 +287,7 @@ and the Variation should not go ahead.
 Councillor Hannon, in proposing the Variation to the Limerick County Development Plan
 2010-2016, and Amendment to the Southern Environs Local Area Plan 2011-2017, read the
 following into the Minutes:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -332,6 +341,7 @@ Replace (1* bullet point at Section 10.6.4.3)
 
 “Within designated Neighbourhood Centres the gross convenience shopping floor area should not exceed 900sqm
 in area.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -388,6 +398,7 @@ floorspace representing not more than 20% of the net floor area of a single unit
 
 Reasons and Considerations
 The definition of neighbourhood centres in the Retail Planning Guidelines (2012) is as follows:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -454,6 +465,7 @@ This wording is incorporated into the proposed variation and as such the propose
 compliance with the Regional Planning Guidelines in this respect. The variation does not seek to provide for any
 additional zoning which would have the potential to impact upon the city centre.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10
@@ -518,6 +530,7 @@ being sold from convenience stores in neighbourhood centres.
 The Retail Planning Strategy for the Mid West Region 2010 — 2016 at Paragraph 6.11 refers to centres outside the
 city centre and states that:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “Those centres in the Metropolitan Area meeting the day to day needs of a local catchment population through the
@@ -577,6 +590,7 @@ Agus an Cinneadh:
 2017, in regard to Neighbourhood Centres, be made under Section 20(3)(d) of the Planning
 and Development Acts 2000-2013."
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c) Proposed Material Contravention to the Limerick County Development
@@ -620,6 +634,7 @@ Limerick County Development Plan 2010-2016 for the construction of a two-storey 
 school, to be used for educational purposes, which would accommodate circa 1,000 no.
 students at Skagh, Croom, in accordance with Section 34 (6)(a)(iv) of the Planning and
 Development Acts, 2000-2013.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -671,6 +686,7 @@ Galvin and seconded by Councillor Foley — the /ands the subject of Submission 
 zoned as per the Submission, i.e. 3 Serviced Sites, and the remainder zoned for Enterprise and
 Employment.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ve Community, Leisure and Emergency Services
@@ -720,6 +736,7 @@ considered by the Council under Section 10 of the Litter Pollution Acts, 1997-20
 highlighted the broad range of activities undertaken by the Litter Management Team during the
 course of 2013.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 A short discussion took place in relation to the level of fines, problem of dog fouling, role
@@ -765,6 +782,7 @@ April): Councillor Enright.
 
 Letterkenny, Co. Donegal (2"%-4"™ May): Councillors Sheahan (K) and Wade.
 Rosscarbery, Co. Cork (9""-11"" May): Councillor P.C. Fitzgerald.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -818,6 +836,7 @@ Residential Mortgage Facilities.
 The Motion was proposed by Councillor Scanlan, seconded by Councillor Riedy, and
 agreed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12. Correspondence
@@ -861,6 +880,7 @@ Council and indeed County Limerick down through the years. Since the Council’s
 1899, he outlined that the Council had employed thousands of people and had been directly
 involved in the affairs of the County in a wide variety of areas. The Cathaoirleach reiterated that
 he was proud to have served as a Member of a local authority that had played such a key role
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -913,6 +933,7 @@ would be of use to anyone who wished to delve into the history of County Limeric
 began during a time when Mr. Gallagher worked with the County Council and developed an
 interest in its history.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Mr. Gallagher thanked the Council for its support in producing the book and said copies
@@ -944,7 +965,9 @@ An Runai Contae
 
 Data:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

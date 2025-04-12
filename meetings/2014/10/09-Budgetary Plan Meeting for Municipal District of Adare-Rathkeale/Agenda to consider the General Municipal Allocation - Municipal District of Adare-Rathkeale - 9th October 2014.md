@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_of_adare_-_rathkeale_-_agenda_to_consider_the_general_municipal_allocation_-_9th_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Ko
 ———
@@ -52,5 +55,6 @@ Rathkeale for the financial year ending 31° December, 2015.
 © customerservices@limerickie
 Ceanncheathna Chorparaideach, Cé na gCeannaithe, Luimneach © www limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

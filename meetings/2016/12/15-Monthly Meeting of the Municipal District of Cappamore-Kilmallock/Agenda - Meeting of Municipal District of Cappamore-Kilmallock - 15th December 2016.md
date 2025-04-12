@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_15th_december_2016_1_1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 <——
 :
@@ -69,6 +72,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Service Operations Directorate
@@ -107,6 +111,7 @@ funeral homes and outskirts of Hospital on the Limerick side and on Knocklong si
 towards Tennis club. This is a health and safety issue and must be addressed as a
 matter of urgency. | will also ask what the time frame will be for this report.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICE OF MOTION
@@ -115,5 +120,6 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 1 will move at the next Meeting that the Municipal District of Cappamore-Kilmallock
 calls on the CEO of Limerick City and County Council to immediately suspend any roll
 out of the ‘Open Library Initiative’.
+
 
 ---

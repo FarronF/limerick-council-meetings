@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-limerick-joint-policing-committee-10th-december-2018_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Tn Comhairle Cathrach
 & Contae Luimnigh
@@ -63,5 +66,6 @@ m customerservices@limerick.ie
 @ wenwdmerick.ie
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
+
 
 ---

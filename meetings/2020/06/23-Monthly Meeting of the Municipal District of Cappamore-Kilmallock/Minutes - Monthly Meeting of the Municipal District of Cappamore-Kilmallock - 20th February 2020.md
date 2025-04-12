@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/02-minutes-of-monthly-meeting-20-2-20.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -38,6 +41,7 @@ E Cars in relation to the provision of electric charging points in the Municipal
 agreed that Limerick City and County Council should take a lead in this area in providing
 charging points in the Municipal District, given the significant environmental impacts that
 increased usage of electric cars could provide.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -86,6 +90,7 @@ by the Elected Members.
 Circulated, Housing Progress Report from the Director of Services, Housing Development
 Directorate dated 31st January, 2020, which was noted by the Members.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICE OF MOTION
@@ -126,6 +131,7 @@ sustainable service.”
 receive the level of service that they have become accustomed to over the last 18 years and
 are confident that we can deliver a viable plan which will be sustainable in the future for
 our patients, GPs and staff.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -172,6 +178,7 @@ Members of the public who witness environmental pollution such as fly tipping, l
 or backyard burning may also report it to Limerick City and County Council Customer
 Services at 061-556000 or the free phone litter line 1800 201 501 or the See /t? Say It! App.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 QUESTIONS
@@ -217,6 +224,7 @@ to certain land relating to these works;
 (b) What is the current position with regard to Planning Enforcement measures
 relating to fence and entrance at old bridge?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Reply:
@@ -257,6 +265,7 @@ significant contribution of the fire service in Kilmallock over the years. The E
 agreed to invite Michael Ryan, Chief Fire Officer to give a presentation on the operation of
 the fire service to the Elected Members at a Municipal District Meeting later in the year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 e¢ Vote of Sympathy
@@ -280,7 +289,9 @@ This concluded the Meeting.
 Signed: Date:
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

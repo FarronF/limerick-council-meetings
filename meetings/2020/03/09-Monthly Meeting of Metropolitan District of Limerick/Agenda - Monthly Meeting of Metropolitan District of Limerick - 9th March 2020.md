@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/00-agenda-monthly-meeting-9th-march-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 P Sewbhisi Corparaideacha,
 _——_ a sarah Cathrach Comhairte Cathwach agus Comae Luimnigh,
@@ -37,6 +40,7 @@ To adopt Minutes of Monthly Meeting of the Metropolitan District of Limerick hel
 February, 2020.
 
 (Copy Enclosed).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -86,6 +90,7 @@ accordance with the provisions of Section 19 of the Planning and Development Act
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 To consider and discuss the Strategic Housing Development Application at Canal Bank, Pa Healy
@@ -122,6 +127,7 @@ management of the Lower River Shannon.
 
 | will ask at the next Metropolitan Meeting of Limerick City and County Council that the Council
 confirms the number of properties in Limerick that are currently available to rent under AirBnb.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -164,6 +170,7 @@ apply for funding to develop a Limerick to Scariff Greenway that will incorporat
 | will move at the next meeting that Limerick Metropolitan Council add the granite mooring bollard
 on Merchant's Quay to the Record of Protected Structures.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -197,5 +204,6 @@ Alleviation Project.
 21. Correspondence
 
 {Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-19th-september-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -38,6 +41,7 @@ held on 5" September, 2024.
 
 (Copies Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Proposed by: Councillor Carey
@@ -76,6 +80,7 @@ Members welcomed Seamus O’Reilly, Senior Executive Engineer (Road, Traffic &
 Cleansing) to the meeting who proceeded with his presentation on the proposed 60kph
 
 ‘
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -124,6 +129,7 @@ between now and 2028 could be looked at once it aligned with planning criteria s
 the County Development Plan.Members agreed with the explanation given by Maria
 Woods in requesting extension of current local area plan until 2028.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Proposed: Councillor Ryan (M)
@@ -165,6 +171,7 @@ which would give equal priority to all road users.
 Proposed: Councillor Conway
 Seconded: Councillor M. Ryan
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 9. N of Motion submitted by Councillor Ca
@@ -201,6 +208,7 @@ Cleansing budget.
 Proposed: Councillor M. Ryan
 Seconded: Councillor Stokes
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11, Notice of Motion submitted by Councillor Teefy
@@ -235,6 +243,7 @@ submission to the National Transport Agency (NTA) to consider the provision of f
 the works. Approval to proceed with the proposed works has not be sanctioned to date, The
 works in Ballyorgan will remain on the Municipal District’s programme of proposed Active
 Travel projects and will continue to be submitted for consideration by the NTA.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -274,6 +283,7 @@ Development Contribution Scheme does not provide for the construction or funding
 creche in Bruff, It is suggested that alternative funding sources should be sought, such as
 the Department of Children, Equality, Disability, Integration and Youth ‘Building blocks
 Capital Grant’.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -319,6 +329,7 @@ advertised and interested parties could apply to the Council.
 
 Funding would need to be identified to progress any works prior to taking on any such lease.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17. Question submitted by Councillor Carey
@@ -343,6 +354,7 @@ preferences.”
 REPLY:-
 
 Cappamore - 85 (Total
+
 
 
 ---
@@ -379,6 +391,7 @@ intention to bring the units back in operation on a phased basis. The Municipal 
 liaising with suppliers on improved security of the units.
 
 The Questions were taken as read.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -426,7 +439,9 @@ Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Adjourned-Agenda-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-23rd-November-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 OO Comhairle Cathrach
 
@@ -53,5 +56,6 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach
 Corporate Headquarters, Merchants Quay, Limerick.
 
 ( 061 - 586 000
+
 
 ---

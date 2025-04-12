@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Agenda%20JPC%20Meeting%2019%209%2019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ew Comhairle Cathrach
 & Contae Luimnigh
@@ -53,5 +56,6 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 063 980 19
+
 
 ---

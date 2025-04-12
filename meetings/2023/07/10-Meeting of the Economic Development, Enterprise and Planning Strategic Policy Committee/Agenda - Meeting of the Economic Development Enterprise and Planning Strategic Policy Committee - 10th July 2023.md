@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Meeting-of-the-Economic-Development-Enterprise-and-Planning-Strategic-Policy-Committee-10th-July-2023.pdf)
+
+---
 26th **June 2023**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**

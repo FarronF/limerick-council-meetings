@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/02%20Minutes%20Nov%20Meeting%20Municipal%20District%20Capp-Kil.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -38,6 +41,7 @@ requirements for a fifth leg off the roundabout for an access into a service or 
 would be different to that of a fifth leg access being provided onto a regular road. They also
 requested clarification on what meetings took place between TII staff and the business
 owner at O’Rourke’s Cross.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -83,6 +87,7 @@ District.
 
 The Meetings Administrator informed the Elected Members that this presentation was not
 going ahead as the person scheduled to give the presentation was ill, and had sent their
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -135,6 +140,7 @@ Members at that time would have been entitled to decide by resolution to vary or
 the proposal. That entitlement has passed.” He also referred to legal advice received from
 Senior Counsel on Part 8’s in general, which stated that a Part 8, which has completed the
 statutory process, could not be amended.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -192,6 +198,7 @@ metres
 
 €2
 ‘Kilmallock —_| Footpaths Glenfield. €5
+
 
 
 ---
@@ -256,7 +263,9 @@ Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%28ii%29Supplementary-Agenda-Meeting-of-Metropolitan-District-of-Limerick-15th-May-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach Sexbhisi Corpardideacha
 ; Comhairle Cathvach agus Contae Luimnigh,
@@ -49,5 +52,6 @@ om Customerservices@limerick.ie
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+
 
 ---

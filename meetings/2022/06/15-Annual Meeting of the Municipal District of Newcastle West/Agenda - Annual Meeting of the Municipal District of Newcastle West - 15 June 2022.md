@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-AGM-15-06-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach Duliche Bardais an Chaisieain Nua Thier,
 & Contae Luimnigh Comhairle Cathrach egus Contae Luimnigh,
@@ -44,5 +47,6 @@ office until the next Annual Meeting or until a successor has been elected.
 Ceanncheathri: Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick Cosi: tasese
 061- 556 000
+
 
 ---

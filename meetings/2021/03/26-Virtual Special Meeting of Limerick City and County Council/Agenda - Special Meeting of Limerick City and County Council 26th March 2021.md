@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-08/Agenda%20Special%20Meeting%2026.03.2021_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19 March, 2021.
 
@@ -17,6 +20,7 @@ Is mise le meas,
 James Clune,
 Meetings Administrator.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 We request a Special Meeting of Limerick City and County Council to discuss
@@ -35,5 +39,6 @@ Councillor P.J. Carey.
 Councillor F. Daly.
 
 Councillor J. O'Donoghue.
+
 
 ---

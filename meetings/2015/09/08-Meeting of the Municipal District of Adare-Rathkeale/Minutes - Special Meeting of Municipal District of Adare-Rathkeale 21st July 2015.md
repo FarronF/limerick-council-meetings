@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2021st%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
 DISTRICT OF ADARE-RATHKEALE HELD IN THE TRAINING ROOM,
@@ -48,6 +51,7 @@ Gasification Plant at Gortadroma landfill site and propose that Limerick City & 
 Council would disengage with the Company promoting the Gasification Plant, repay the
 €50,000 to that Company and declare the contract already signed as null and void.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 In view of the decision reached under Item 1, Councillor Sheahan withdrew his Notice of
@@ -59,5 +63,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

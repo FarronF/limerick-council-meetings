@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01%28b%29AGM-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-22nd-June-2023.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN

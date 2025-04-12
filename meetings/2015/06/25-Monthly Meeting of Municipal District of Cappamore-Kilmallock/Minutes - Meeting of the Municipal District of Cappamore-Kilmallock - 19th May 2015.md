@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20May%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -41,6 +44,7 @@ Members noted the proposal to dispose of land as set out in the circulated repor
 the Head of Innovate Limerick clarified that the sale of the units was to Mr. Harry
 Lawlor of HL Commodity Foods who has leased the building since it was built in
 1999/2000.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -92,6 +96,7 @@ the Meeting and the Question was therefore considered as having been dealt with:
 1 will ask at the next Meeting if Limerick City & County Council have a current
 policy for the purchase of one off rural houses for letting to Council tenants.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The City and County Council sought approval from the DECLG for the
@@ -140,6 +145,7 @@ insurance details to the Council .
 The Members wished the communities of Kilteely and Bruff well in the 2015 IPB
 Pride of Place Competition.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Cathaoirleach advised the Meeting that the 11th June had been confirmed as
@@ -159,5 +165,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/Agenda%20-%20Special%20Meeting%2015.11.19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 wl Comhairle Cathrach
 & Contae Luimnigh
@@ -55,6 +58,7 @@ w @LimerickCouncil
 
 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 -------- Original message --------
@@ -74,6 +78,7 @@ Dublin.
 Best wishes,
 Conor
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 » » FY FY YY
@@ -89,6 +94,7 @@ cN.
 
 Dern Geran,
 CMe, Sond iat
+
 
 
 ---

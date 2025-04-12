@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20-%20Special%20Meeting%2021.10.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -45,6 +48,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy of Requisition attached)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 From: Collins, Bridie
@@ -71,5 +75,6 @@ Kind regards
 Bridie Collins
 
 Sent from Outlook for iOS
+
 
 ---

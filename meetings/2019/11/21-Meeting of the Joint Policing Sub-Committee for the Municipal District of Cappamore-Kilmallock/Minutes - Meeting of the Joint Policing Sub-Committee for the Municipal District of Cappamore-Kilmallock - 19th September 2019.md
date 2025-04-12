@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/02%20JPC%20Minutes%2019-9-19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
@@ -44,6 +47,7 @@ Superintendent Ryan gave an update on current policing issues within the Distric
 there had been a reduction in crime categories across many areas, there had been an increase
 in crimes against the person from 2018 to 2019 and he confirmed that An Garda Siochana
 were looking at measures to address same.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -92,5 +96,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

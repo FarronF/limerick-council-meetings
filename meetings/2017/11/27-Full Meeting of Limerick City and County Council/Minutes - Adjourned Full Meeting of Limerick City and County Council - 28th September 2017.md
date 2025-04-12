@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28c%29%20Minutes%20Adjourned%20September%20Meeting%20280917.pdf)
+
+---
 MINUTES
 
 OF

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Minutes%20of%20JPC%20Meeting%2013th%20Jul%2018%20%287%29.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING
 
 COMMITTEE HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, ON

@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_municipal_district_of_newcastle_west_11012017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE
@@ -52,6 +55,7 @@ Development Fund Allocation 2016.
 
 Housing Estates Taken-in-Charge.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Housing Maintenance.
@@ -103,6 +107,7 @@ Connolly Avenue towards O'Connor Memorials or to the side and rear of 16
 Michael Harnett Close off Lower Maiden Street. Possible funding sources for
 these works to be progressed during 2017 are either under the Development
 Fund or Councillors’ GMA allocation.
+
 
 
 ---
@@ -159,6 +164,7 @@ recommended works.
 sewage upgrade to Athea village as soon as possible.
 
 The Meetings Administrator, who had received a reply by email from Irish Water, read the
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -217,6 +223,7 @@ Conservation Officer.
 
 It is expected that the process for deleting these thatched dwellings from the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -257,5 +264,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

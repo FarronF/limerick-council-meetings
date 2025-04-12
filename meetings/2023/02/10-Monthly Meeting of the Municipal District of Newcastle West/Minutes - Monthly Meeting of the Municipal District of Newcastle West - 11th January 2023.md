@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%202023-01-11%20Minutes%20-%20%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2011th%20January%202023.pdf)
+
+---
 MINUTES
 
 OF

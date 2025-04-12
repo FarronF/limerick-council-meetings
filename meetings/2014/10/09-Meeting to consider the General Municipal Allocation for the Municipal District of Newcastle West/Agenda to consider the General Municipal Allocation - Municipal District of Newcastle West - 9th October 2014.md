@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_agenda_to_consider_the_general_municipal_allocation_9th_october_2014.pdf)
+
+---
 **Corporate Services.**
 
 **Seirbhísí Corparáideacha.**

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%20-%20Draft%20Budgetary%20Plan%20Meeting%202020%20-%2018th%20October%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach
 & Contae Luimnigh
@@ -49,5 +52,6 @@ AGENDA
 © wewwalimerick.e
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
+
 
 ---

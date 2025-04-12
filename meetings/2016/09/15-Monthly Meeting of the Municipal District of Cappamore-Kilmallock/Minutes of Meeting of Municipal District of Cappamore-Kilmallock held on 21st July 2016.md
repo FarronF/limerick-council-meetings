@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_210716.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK,
@@ -50,6 +53,7 @@ issues raised would be examined further with a view to the finalisation of a dra
 
 consideration by the Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4, Adoption of Minutes
@@ -97,6 +101,7 @@ e The 4 themes of the LSP were :
 
 Members thanked Mr. Macken for his presentation and commended his team for their work
 and commitment to the community.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -147,6 +152,7 @@ contribution could not be made on this occasion as all monies had been allocated
 
 The Cathaoirleach wished the Members and Staff well for the holiday period.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 This concluded the Meeting.
@@ -155,5 +161,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

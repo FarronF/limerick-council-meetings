@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28e%29-Minutes-Special-Meeting-30-06-2022.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE, ON THURSDAY 30TH JUNE, 2022, AT 10.00 AM,

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2014th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
 DISTRICT OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE
@@ -48,6 +51,7 @@ TOTAL €25,000.00
 Agreement was reached to the allocation of €40,000 under the heading Parks, Pitches,
 Playgrounds.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 On the proposal of Councillor O'Brien and seconded by Councillor Neville agreement was
@@ -59,5 +63,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

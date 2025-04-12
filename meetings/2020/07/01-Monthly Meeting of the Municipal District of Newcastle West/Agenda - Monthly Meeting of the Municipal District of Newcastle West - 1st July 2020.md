@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-07-01-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ _——il Comhairle Cathrach
 & Contae Luimnigh
@@ -83,6 +86,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 @LimerickCouncit
 (061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -137,6 +141,7 @@ Noti: i by Councillor J. Scanian
 open park area at O’Connor Park, Ardagh, to the standard it had been maintained at prior
 to the undertaking of works by Irish Water in the interests of safety and public amenity.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13. Notice of Motion submitted by Councillor M. Collins
@@ -144,5 +149,6 @@ to the undertaking of works by Irish Water in the interests of safety and public
 | will move at the next Meeting that speed ramps be installed at Gortboy Lane, Gortboy,
 to slow down traffic accessing Cluain Arra, Daar River Walk, Daar River View, Daar Lane
 Close and the houses on that lane in the interest of safety.
+
 
 ---

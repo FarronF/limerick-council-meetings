@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-municipal-district-of-newcastle-west-15th-january-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -39,6 +42,7 @@ A lengthy discussion took place and following discussion, it was agreed that the
 Administrator would arrange for a representative from ESB Networks to attend a Meeting of
 the District. It was also agreed that representatives of Irish Water would be invited to attend
 a Special Meeting of the District as a follow up on the recent weather events.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -87,6 +91,7 @@ lighting equipment for the school.
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
 an additional €700 to Killeedy G.A.A., for picnic tables and wheelchair accessibility beside the
 playground.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -144,6 +149,7 @@ incorporate additional design requirements including consideration of the active
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 travel facility cross section, the impacts of the 2023 speed limit review and the
@@ -192,6 +198,7 @@ application and will resubmit to TIl for consideration.
 Limerick City and County Council will continue to follow up on this scheme and provide
 an update once available.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7. Question submitted by Councillor L. Galvin
@@ -233,6 +240,7 @@ REPLY: A site meeting will be arranged to confirm the agreed location.
 Municipal District owned by Limerick City and County Council, in tabular form by location
 and the maximum length of time that they have been vacant.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 REPLY;
@@ -264,6 +272,7 @@ The preferred option for the Athea Flood Relief Scheme (FRS) has been identified
 
 environmental assessments are currently being reviewed by Limerick City and County Council
 and finalised. The cost benefit of the scheme is proving challenging to achieve a value of 1 or
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -316,6 +325,7 @@ In proposing the Motion, Councillor Galvin referred to the substantial damage ca
 
 7
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 extreme flooding event which took place recently in Abbeyfeale and to the damage caused
@@ -364,6 +374,7 @@ to seek clarification on putting the lights on a timer.
 
 The following items were also raised.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 An update was sought on a clean-up and surveying of trees at Oakpark estate, Newcastle
@@ -406,7 +417,9 @@ Cathaoirleach
 Dated:
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

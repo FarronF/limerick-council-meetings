@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-b-minutes-special-meeting-05.02.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON FRIDAY, 5TH FEBRUARY, 2021, AT

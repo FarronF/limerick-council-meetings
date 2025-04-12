@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-2022-01-12-minutes-january.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD ON

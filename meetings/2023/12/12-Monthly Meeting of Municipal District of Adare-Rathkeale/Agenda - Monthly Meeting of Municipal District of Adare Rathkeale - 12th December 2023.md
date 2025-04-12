@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-monthly-meeting-of-municipal-district-of-adare-rathkeale-12th-december-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
@@ -54,6 +57,7 @@ November, 2023.
 Ceanncheathri Chorpardideach, Cé na gCeannaitheLuimneach 1 www. limerickic
 Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -97,6 +101,7 @@ General Municipal Allocation (GMA)
 
 To review position in relation to allocations under the General Municipal Allocation 2023.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -135,5 +140,6 @@ existing Town Park and plant them with native Irish trees which will be called a
 Community Forest.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

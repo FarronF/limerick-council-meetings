@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Agenda%20Special%20Meeting%2009.02.2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Corian Caan Combaivle Cathrach agus Contee Lutmnigh
 "4 rt nh ac u ug
@@ -42,5 +45,6 @@ Meetings Administrator.
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - $7150
+
 
 ---

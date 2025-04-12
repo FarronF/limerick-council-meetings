@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-2021-04-07-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 wl Comhairle Cathrach
 & Contae Luimnigh
@@ -80,6 +83,7 @@ www timerick.te
 Y @limerickCouncil
 (061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -134,6 +138,7 @@ Notices of Motion submitted by Councillor L. Galvin
 away at the entrance to the Grove Road from the Hill Road on the right hand side next
 to St. Ita’s Terrace in the interest of the Abbeyfeale Tidy Towns and crime safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -169,5 +174,6 @@ Notice of Motion submitted by Councillor M. Collins
 
 installing traffic calming measures/signage at the approach to
 Dromcollogher/Broadford GAA grounds on the Regional Road at Dromcollogher.
+
 
 ---

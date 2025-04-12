@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-20th-November-2023.pdf)
+
+---
 (Image omitted)
 (Image omitted)
 (Image omitted)

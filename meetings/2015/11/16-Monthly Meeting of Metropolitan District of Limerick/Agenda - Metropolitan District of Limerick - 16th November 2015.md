@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2016th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_——_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -58,6 +61,7 @@ and Davis Street Urban Realm and Street Improvement Works.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ wwwlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -112,6 +116,7 @@ Notice of Motion submitted by Councillor John Gilligan
 Government to put a 10% tax on chewing gum to be paid to the Council to clean up
 the mess chewing gum makes on our streets.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -160,5 +165,6 @@ Notice of Motion submitted by Councillor Marian Hurley
 | will move at the next meeting that the Council look at options for safety and
 junction improvements at Walker's Road/Lane, Castletroy, which leads on to the
 main Dublin Road, R445.
+
 
 ---

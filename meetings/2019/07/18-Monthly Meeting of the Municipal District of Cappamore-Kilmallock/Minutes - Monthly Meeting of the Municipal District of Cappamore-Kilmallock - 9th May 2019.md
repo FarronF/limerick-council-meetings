@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/02%20Minutes%20MD%20Monthly%20Meeting%209th%20May%20%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE COMMUNITY
@@ -39,6 +42,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Service Operations Directorate
@@ -78,6 +82,7 @@ Design & Delivery Services
 The Executive Archaeologist, Design & Delivery Services, updated the Elected Members on
 the completion of the East Walkway, which comprises 728 metres from the “Circus Field” at
 North Bridge along the bank of the Loobagh River beside Colaiste lésaef.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -122,6 +127,7 @@ Other Matters Arising:
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the following
 items were raised:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 e Pro Meeting with Transport Inf rel
@@ -160,5 +166,6 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

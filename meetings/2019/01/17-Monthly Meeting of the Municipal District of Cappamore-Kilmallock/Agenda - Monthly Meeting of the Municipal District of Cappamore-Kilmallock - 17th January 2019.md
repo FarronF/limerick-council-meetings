@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20Agenda%20MD%20Meeting%2017th%20Jan%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ———— Comhairle Cathrach
 = & Contae Luimnigh
@@ -38,6 +41,7 @@ AGENDA
 the 13th December, 2018.
 (Copy enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Crime Prevention
@@ -52,5 +56,6 @@ QUESTION
 (a) What estates are not yet taken in charge in this Municipal District; and
 
 (b) What is the current position regarding the taking in charge of these estates?
+
 
 ---

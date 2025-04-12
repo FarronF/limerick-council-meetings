@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-online-meeting-of-metropolitan-district-of-limerick-19th-a.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 al Comhairle Cathrach
 & Contae Luimnigh
@@ -60,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land
@@ -110,6 +114,7 @@ County Council allocate a permanent sweeper to the Limerick City East area.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7. Question submitted by Councillor E. Secas
@@ -152,6 +157,7 @@ Council advise what plans they have in regard to the land bank between the wet g
 Park and the Motorway. Can the existing fence be extended the full length of the border and a gate
 fitted to be opened during the day so people can go walking. Also it would be a great idea to plant
 trees along the border.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -199,6 +205,7 @@ proposed locations for dog parks.
 enforcement notices have the Council issued since March 2020 up until March 2021 on the
 Northside of the city.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 20. llor J. Costell
@@ -231,6 +238,7 @@ what, if any, existing powers currently apply locally.
 | will move at the next Meeting of the Metropolitan District of Limerick that the Metropolitan District
 of Limerick City and County Council engage with OPW and other relevant agencies to remove the
 Annacotty Weir on the River Mulkear so that lampreys can travel the river freely.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -282,6 +290,7 @@ Council give a reduction \ refund in their development levies of 10% to the deve
 development commences within the first two and half years.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 30. Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Travel and
@@ -318,5 +327,6 @@ Council identify suitable locations for additional! public toilets within the Me
 
 35. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

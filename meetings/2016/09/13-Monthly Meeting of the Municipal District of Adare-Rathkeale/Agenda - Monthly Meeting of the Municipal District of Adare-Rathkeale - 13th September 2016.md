@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_monthly_meeting_of_the_municipal_district_of_adare-rathkeale_-_13th_september_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 al Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -53,6 +56,7 @@ e Cois Sruthain, Croom
 Ceanncheathrui Chorpardideach, Cé na gCeannaithe, Luimneach @ vevew.himerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) To receive update on the Taking-In-Charge of Ballyvareen Estate.
@@ -95,6 +99,7 @@ Question submitted by Councillor A. Teskey
 | will ask at the next Meeting to know what is the delay and what time scale is there in relation to
 the old Anderson Factory being made available for use for the Rathkeale Butterfly Club.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -129,5 +134,6 @@ Notice of Motion submitted by Councillor A. Teskey
 the 4" of the month.
 
 Correspondence
+
 
 ---

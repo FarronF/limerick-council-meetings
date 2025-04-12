@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Adare-Rathkeale-28th-November-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
 : & Contae Luimnigh Comhairie Cathrach agus —_ ral
@@ -53,5 +56,6 @@ Corporate Headquarters, Merchants Quay, Limerick. ve
 
 LimerickCouncil
 ( 061 - 556 000
+
 
 ---

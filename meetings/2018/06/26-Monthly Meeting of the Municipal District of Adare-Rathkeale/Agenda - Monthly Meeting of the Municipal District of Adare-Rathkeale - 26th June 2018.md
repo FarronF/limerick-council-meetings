@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Monthly%20Meeting%2026th%20June%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —————
 
@@ -74,6 +77,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerickic
 W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i i r — Plan n m i
@@ -111,6 +115,7 @@ To note update on the path from Kildimo Village to the Beer Garden Public
 House.
 
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -160,5 +165,6 @@ investment to this site.
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

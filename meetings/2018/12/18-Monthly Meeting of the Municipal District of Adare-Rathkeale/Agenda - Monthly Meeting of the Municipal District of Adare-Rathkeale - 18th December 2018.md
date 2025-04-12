@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%20Agenda%2018th%20December%2C%202018%20V2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Comhairle Cathrach
 & Contae Luimnigh
@@ -77,6 +80,7 @@ www.limerickie
 W @LimerickCouncil
 { 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Economic Development Directorate
@@ -115,6 +119,7 @@ To note update on proposals to address the flooding issues in Askeaton.
 (Copy Enclosed)
 
 nN
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -166,5 +171,6 @@ entrances and exits to the town of Rathkeale.
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

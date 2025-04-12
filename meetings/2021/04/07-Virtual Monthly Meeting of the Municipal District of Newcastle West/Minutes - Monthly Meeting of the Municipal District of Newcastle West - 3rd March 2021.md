@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-2021-03-03-minutes-march.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -45,6 +48,7 @@ And Resolved:
 
 2. Disposal of Land
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Circulated, report of Head of Property and Community Facilities, dated 11” February, 2021,
@@ -86,6 +90,7 @@ continue to liaise with the Til with regard to these projects.
 
 The Cathaoirleach welcomed the Executive Engineer, Mid West National Road Design Office
 to the Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -136,6 +141,7 @@ and referred to works at Monaleana, Castlemahon and Meenoline, Templegiantine.
 He made reference to the significant allocation received under Active Travel Measures 2021.
 He stated that works under this scheme included footpath widening and other various works
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 including public car park resurfacing at the Demesne, Newcastle West, a pedestrian crossing
@@ -183,6 +189,7 @@ The properties at 1-10 Cois Na Féile, Abbeyfeale have been compulsorily acquire
 Derelict Sites Act, 1990. The properties will vest into the name of Limerick City and County
 Council on 8" March, 2021. Properties 11 and 12 Cois na Féile, Abbeyfeale are at the
 preliminary stages of being purchased by Limerick City and County Council.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -254,6 +261,7 @@ March, 2021 under the Derelict Sites legislation. A discussion followed and it w
 
 Assessment/Funding to be N/A - 20/11/2020 |
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 by Councillor Sheahan and seconded by Councillor Galvin that a pilot scheme for Affordable
@@ -305,6 +313,7 @@ be undertaken by the area office.
 Again, we cannot provide the specific information requested as this scheme has not received
 funding to proceed with the detailed design process.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10. Question submitted by Councillor J. Scanlan
@@ -352,6 +361,7 @@ of October 2020.
 
 The recorded speeds do not justify installation of Traffic Calming in accordance
 with Limerick City & County Council's Traffic Calming Policy.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -401,6 +411,7 @@ The Motion was seconded by Councillor Galvin.
 REPLY: The Active Travel Funding recently announced specifically targets re-allocation
 of road space from motorists.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The allocations are directed at footpath widening, pedestrian crossings and
@@ -448,6 +459,7 @@ If any issues are noted which would prevent this handover process the
 contractor is required to rectify same prior to Limerick City and County Council
 
 9
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -497,5 +509,6 @@ Cathaoirleach
 Dated:
 
 10
+
 
 ---

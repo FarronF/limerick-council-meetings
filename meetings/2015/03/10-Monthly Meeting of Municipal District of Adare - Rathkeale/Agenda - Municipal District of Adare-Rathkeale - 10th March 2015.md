@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01a_agenda_-_10th_march_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_—_—_ Seirbhisi Corparéideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
@@ -46,6 +49,7 @@ proposed Adare Local Area Plan and decide whether to make or amend the Local
 Ceanncheathria Chorpardideach, Cé na gCeannaithe, Luimneach ; © wwwilimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -92,6 +96,7 @@ planning the connecting link between the Great Southern Trail and the cycleway f
 Patrickswell to Limerick.
 
 (Email attached)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -156,6 +161,7 @@ Northern side of the river
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -201,5 +207,6 @@ R518 Rathkeale to Askeaton road will include re-alignment works to the adjacent 
 level crossing immediately North of this cross.
 
 Correspondence
+
 
 ---

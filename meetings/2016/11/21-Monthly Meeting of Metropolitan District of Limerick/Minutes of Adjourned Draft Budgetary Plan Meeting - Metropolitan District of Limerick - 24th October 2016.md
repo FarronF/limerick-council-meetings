@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_adjourned_draft_budgetary_plan_meeting_24th_october_2016.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ADJOURNED DRAFT BUDGETARY PLAN MEETING FOR THE**
 
 **METROPOLITAN DISTRICT OF LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE,**

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-08/00-agenda-3rd-september-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -79,6 +82,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 \ 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -120,6 +124,7 @@ and reassurance of safe drinking water in 2024.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -158,5 +163,6 @@ Local Authority.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

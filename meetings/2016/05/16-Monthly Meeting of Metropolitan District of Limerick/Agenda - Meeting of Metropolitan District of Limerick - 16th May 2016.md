@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20May%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 — Comhairle Cathrach agus Contae Luimnigh,
@@ -48,6 +51,7 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © worw limerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Support Services Directorate
@@ -89,6 +93,7 @@ number of queries from residents and local businesses who are querying the fact 
 Council maps are practically stating that the entire South side of the City is called
 
 Roxborough.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -146,6 +151,7 @@ Punches so as to facilitate a park & ride service and remove another derelict si
 
 city landscape.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -198,6 +204,7 @@ St. Ann's Court (off Bishops Street), King's Island, currently owned by Saint Vi
 (SVP) and that the amount of €1,984,600 allocated to Shelbourne Square, North Circular
 Road be reallocated to facilitate this purchase.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 $s
@@ -212,5 +219,6 @@ permission to gradually replace imported fossil fuels at its Castlemungret facto
 21. Correspondence.
 
 (Copy of Correspondence Enclosed):
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_november_meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
 _—_ Comhairle Cathrach agus Contae Luimnigh,
@@ -58,6 +61,7 @@ Dwelling House situate at 157 Hyde Road, Limerick City.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & wwew.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -101,6 +105,7 @@ the necessary funding to provide suitable traffic calming measures (ramps)
 and appropriate signage (caution children playing signs) within the Inis Mor /
 Lua housing estate so as to reduce the speed of cars driving in an estate
 where there are many families with young children living.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -147,7 +152,9 @@ immediately introduce parking bye laws in Annacotty Village.
 Correspondence
 (Copy of Correspondence Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

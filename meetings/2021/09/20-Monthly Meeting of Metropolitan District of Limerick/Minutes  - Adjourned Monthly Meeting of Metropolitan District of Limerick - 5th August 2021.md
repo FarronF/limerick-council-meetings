@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01b-draft-minutes-adjourned-meeting-5th-august-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ON THURSDAY, 5TH** **AUGUST, 2021 at 10.00 A.M.**

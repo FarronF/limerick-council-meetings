@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/02-Minutes-Meeting-of-Economic%20Development-Enterprise-and-Planning-SPC-11th-April-2022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD ON WEDNESDAY, 11TH** **APRIL, 2022 at**

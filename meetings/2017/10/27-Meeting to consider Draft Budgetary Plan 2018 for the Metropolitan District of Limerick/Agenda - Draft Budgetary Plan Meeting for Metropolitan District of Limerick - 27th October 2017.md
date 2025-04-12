@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%20Meeting%20for%20Metropolitan%20District%20of%20Limerick%20-%2027th%20October%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 nNr™N
 
@@ -57,5 +60,6 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 (061 - 557150
 
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

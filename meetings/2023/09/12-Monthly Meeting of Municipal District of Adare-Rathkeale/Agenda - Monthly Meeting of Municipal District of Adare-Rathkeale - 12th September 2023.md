@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-12th-September-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach
 & Contae Luimnigh
@@ -75,6 +78,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) Proposed Disposal of Adare Heritage Centre, Adare, Co. Limerick.
@@ -111,6 +115,7 @@ Question received from Councillor K. Sheahan
 | will ask at the next Meeting for a copy of the EPA notice which was erected adjacent to
 the defunct sewerage treatment plant in Askeaton prior to Irish Water being established.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -143,5 +148,6 @@ Eireann Limerick School Bus Department attend the next Adare-Rathkeale District 
 to discuss the ongoing problems with school bus operations.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

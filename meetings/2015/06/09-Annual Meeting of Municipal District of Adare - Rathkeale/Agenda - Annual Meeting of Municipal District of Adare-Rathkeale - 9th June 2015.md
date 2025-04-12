@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20June%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——
 
@@ -62,5 +65,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerick.te
 @ wwwalimerick.te
 w @LimerickCouncil
+
 
 ---

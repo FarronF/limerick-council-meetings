@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%28a%29%20Minutes%20Ordinary%20Meeting%2028.01.2019.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN
 
 THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 28TH JANUARY, 2019, AT

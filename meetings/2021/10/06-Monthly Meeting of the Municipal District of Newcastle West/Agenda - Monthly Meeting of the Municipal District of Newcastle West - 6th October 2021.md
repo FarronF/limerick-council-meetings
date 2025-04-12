@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-2021-10-06-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ditiche Bardais an Chaisledin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
@@ -52,6 +55,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -99,6 +103,7 @@ Question submitted by Coundillor F. Foley
 | will ask at the next Meeting for an update on the Abbeyfeale Traffic Management
 Plan and also when can we expect work to being on the new car park.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13.
@@ -129,5 +134,6 @@ year working plan to upgrade the above.
 
 | will move at the next Meeting that all representations made by Councillors to the
 Sugar CRM system will have the responses sent back by email also.
+
 
 ---

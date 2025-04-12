@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20%28b%29%20Minutes%20Council%20Meeting%2028.11.2022.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE BERNAL INSTITUTE, UNIVERSITY OF LIMERICK, ON

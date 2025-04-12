@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Draft%20Minutes%20of%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee%20-%208th%20Oct%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_—_ Comhairle Cathrach
 
@@ -46,6 +49,7 @@ committee meeting held on the 9" April 2018 were unanimously adopted.
 
 Item 2: Presentation on Mobility Management Plans by Limerick Smarter Travel
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 At the suggestion of the Chair, and with the agreement of the Members, this item was
@@ -92,6 +96,7 @@ Meeting)
 
 “| will move at the next Meeting that a programme be put in place to number all the local
 roads within this Municipal District”.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -142,6 +147,7 @@ in the Limerick area, and there is currently funding available for greenway type
 and suggested that the Council should link with Irish Rail to explore the possibilities for
 development of the lines.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 In seconding the Motion, Clir Lynch suggested that Irish Rail should be invited to make a
@@ -191,6 +197,7 @@ Item 8: Notice of Motion submitted by Cmhir. S. 6 Ceallaigh
 designated parking spaces for motorbikes and mopeds in Limerick City centre and that
 these will be monitored to view the viability of their expansion at a later time.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 In proposing the Motion, Cmhir O Ceallaigh said that there was a need to trial a number of
@@ -237,6 +244,7 @@ the health and safety of residents — both young and old — speed indicators, 
 other traffic calming measures are urgently needed as is clear from the fatalities, near
 misses and traffic issues in the towns and villages of County Limerick.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 In proposing the Motion, Cllr O’Donoghue referred to the recent tragic fatality in Ballingarry
@@ -278,5 +286,6 @@ would continue to do so. He offered to meet with Ms Browne to discuss specific i
 to link with the Area Engineer regarding same.
 
 The Meeting then concluded.
+
 
 ---

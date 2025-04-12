@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/6%20minutes_of_special_meeting_of_limerick_county_council_-_friday_16th_may_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, COUNTY
@@ -36,6 +39,7 @@ establish the Local Community Development Committee, reversed.”
 
 Signed: Councillors Collins (J), Collins (M), Donegan, Foley,
 Gleeson, Ryan, Sheahan (K) and Wade.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -86,6 +90,7 @@ development officers work on the ground with local community and voluntary group
 investigate their needs and address disadvantage and social exclusion in their
 community. They support the development of inclusive local representative structures
 and establish new community based projects and initiatives. It is important to point out
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -142,6 +147,7 @@ further erode our rural communities and it is time to stand up and fight back.
 
 | move the Motion.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councillor Collins (M) confirmed that he was proposing both part (a) and part (b) of
@@ -185,6 +191,7 @@ represented and met. Local Councils, it was noted, would be given a greater role
 local enterprise and economic development and in local and community
 development activities. He added that the reforms would provide for the alignment of
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 the local community development sector with local government through the
@@ -227,6 +234,7 @@ This was seconded by Councillor Foley.
 The County Secretary indicated that a Vote would be taken on the Motion as
 proposed by Councillor Collins (M) and seconded by Councillor Foley. The result of
 the voting was as follows:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -274,6 +282,7 @@ There were no abstentions.
 
 The County Secretary declared the Motion carried.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), it
@@ -289,7 +298,9 @@ An Runai Contae
 
 Data:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_newcastle_west_area_committee_meeting_-_07_may_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF NEWCASTLE AREA COMMITTEE MEETING HELD ON 7°” MAY,
 2014, IN ARAS WILLIAM SMITH O'BRIEN, NEWCASTLE WEST
@@ -40,6 +43,7 @@ M. O’Brien distributed a map and outlined the circumstances regarding the
 disposal of this small plot of land at Lower Maiden St.
 
 The disposal was proposed by Cllr. Galvin and seconded by Cllr. Scanlan.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -89,6 +93,7 @@ the issue within the next 2 weeks.
 Cratloe, towards the Cooniceens be drained and repaired as it is not
 passable to traffic”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 P. Vallely stated that a lot of work was required for this road and it
@@ -135,6 +140,7 @@ P. Crowe stated that following the local elections, the first meeting of the new
 Council is to take place on the 6" June and all municipal district meetings are
 to take place within 10 days of this meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Cllr. Riedy wished all existing Councillors well in the upcoming elections and
@@ -150,5 +156,6 @@ CHAIRPERSON
 SECRETARY
 
 DATE
+
 
 ---

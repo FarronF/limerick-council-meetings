@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%20260617.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 oe Seirbhis{ Corpardideacha,
 Comhairle Cathrach ——— Luimnigh,
@@ -50,5 +53,6 @@ of the Council, as members of the Limerick Market Trustees.
 oe worulirnerick.ie
 ee reas ee eee w @LimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
+
 
 ---

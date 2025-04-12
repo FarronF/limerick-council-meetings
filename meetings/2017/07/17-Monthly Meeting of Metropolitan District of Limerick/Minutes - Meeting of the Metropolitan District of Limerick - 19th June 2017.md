@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202017%20UPDATED.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE** **COUNCIL CHAMBER, MERCHANT’S QUAY,** **LIMERICK, ON MONDAY, 19TH** **JUNE, 2017 AT 9.45**

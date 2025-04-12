@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_proceedings_at_inaugural_annual_meeting_of_municipal_district_of_cappamore-kilmallock_-_thursday_12_june.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF
 
 THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN

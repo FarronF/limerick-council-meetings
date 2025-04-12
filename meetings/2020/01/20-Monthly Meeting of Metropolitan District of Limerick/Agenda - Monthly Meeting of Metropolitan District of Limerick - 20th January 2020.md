@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00-agenda-monthly-meeting-20th-january-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ae Comhairle Cathrach Seirbhisi Corparaideacha
 Comnhairie Cathrach agus Contae Luimnigh,
@@ -47,6 +50,7 @@ December, 2019.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land
@@ -89,6 +93,7 @@ lodged to date.
 
 that was supposed to happen in late 2019 and whether consideration has been given to either
 acquire more land at Kilmurry or create another cemetery for Castletroy.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -134,6 +139,7 @@ completion date.
 living in student villages under each of the following: HAP, RAS, long term lease and temporary
 contracts,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -177,6 +183,7 @@ Action, Biodiversity and Environment Strategic Policy Committee)
 weed control service contract to eliminate unnecessary herbicide application, reducing the
 frequency of spraying and reduce the volume of herbicides used.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 | propose that Limerick City and County Council write to the Minister for Health demanding that
@@ -218,6 +225,7 @@ medium to high rise development and give confidence to citizens and developers.
 intersections of O'Connell Street with Cecil Street, Glentworth Street, Hartstonge Street and
 Barrington Street to the standard set out in the Design Manual for Urban Roads and Streets.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 | will move at the next Meeting that our Metropolitan Council follow through on our support for
@@ -226,5 +234,6 @@ and it’s Academy continue its work for soccer football in Limerick.
 
 28. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20180118.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ _——_i Comhairle Cathrach
 & Contae Luimnigh
@@ -75,6 +78,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -95,5 +99,6 @@ Railway Station which would be serviced by passing trains; | will also move that
 District write to Irish Rail to invite them to attend a future Meeting of the District to
 
 discuss this proposal.
+
 
 ---

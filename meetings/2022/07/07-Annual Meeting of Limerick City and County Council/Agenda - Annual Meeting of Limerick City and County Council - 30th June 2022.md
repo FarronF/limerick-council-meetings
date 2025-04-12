@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda%20-%20Annual%20Meeting%2030.06.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ; Serbhis{ Corpardideacha.
 
@@ -49,5 +52,6 @@ office for the ensuing year or until a successor is elected.
 
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - $57150
+
 
 ---

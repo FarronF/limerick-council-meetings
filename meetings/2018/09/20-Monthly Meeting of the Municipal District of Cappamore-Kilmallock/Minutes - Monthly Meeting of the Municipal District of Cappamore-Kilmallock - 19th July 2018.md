@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/04%20Minutes%20of%20%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20held%20on%20Thursday%2019th%20July%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -36,6 +39,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed,
 subject to the amendment outlined above.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -80,6 +84,7 @@ The Members welcomed the Draft City and County of Limerick (Segregation, Storage
 Presentation of Household and Commercial Waste) Bye-Laws, 2018, which were proposed
 by Councillor Gleeson and seconded by Councillor Sheehy.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. General Municipal Allocation
@@ -123,6 +128,7 @@ graveyard signage so that signage is short but effective. It was also agreed tha
 
 be enforced at all times to ensure full compliance with the rules.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6. Question submitted by Councillor B. Teefy
@@ -165,6 +171,7 @@ The Elected Members welcomed the recent completion of the footbridge, which was 
 welcome addition to Kilmallock, and they complimented Council staff and the contractors
 involved in this project.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 « Emergency Services
@@ -200,7 +207,9 @@ Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

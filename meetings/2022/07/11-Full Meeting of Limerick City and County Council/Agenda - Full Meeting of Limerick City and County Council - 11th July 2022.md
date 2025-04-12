@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00-Agenda-Council-Meeting-11-07-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a_i Comhairle Cathrach Combate Cathwa: peealap card ap graarang
 . . mw le Cattwac’ agus Contae wuirninagh,
@@ -61,6 +64,7 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LirnerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a) Forty Acres, Bruree, Co. Limerick.
@@ -121,6 +125,7 @@ further 16 Members of the Council as members of Limerick Market Trustees.
 
 (Report and List of Representatives Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (e)
@@ -171,6 +176,7 @@ That, monies should be allocated at Budget time to provide for Ground
 Penetrating Radar Surveys to be carried out in all older rural burial
 grounds to establish availability of grave spaces.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -209,6 +215,7 @@ To consider participation by Members at the following Conference:
 (a) EIFAAC Symposium 2022 held in Killarney, Co. Kerry, on 20""/21* June, 2022.
 
 (Details already circulated electronically)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -257,6 +264,7 @@ licence to Limerick City and County Council, they should be asked to pay a bond 
 will cover the cost of full reinstatement of the road within a short period of time to be
 determined.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13.
@@ -284,5 +292,6 @@ for adequate repairs and maintenance on Ancient and Historic structures in Buria
 Grounds, in accordance with the adopted Burial Ground Strategy.
 
 Correspondence
+
 
 ---

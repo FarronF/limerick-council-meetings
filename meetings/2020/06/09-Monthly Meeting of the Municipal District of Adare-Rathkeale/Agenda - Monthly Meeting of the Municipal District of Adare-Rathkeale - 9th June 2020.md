@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 y thr Seamtar Bardasach Ath Dara-Rath Caola
 
@@ -53,11 +56,13 @@ Corporate Headquarters, Merchants Quay, Limerick. 1 vy
 @LimerickCouncil
 © 061-556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2020.
 
 (List Enclosed)
+
 
 ---

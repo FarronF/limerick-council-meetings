@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00%20Agenda%2014th%20January%2C%202020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 aa Comhairie Cathrach Ceantar Bardasach Ath Dara-Rath Coola,
 aw & Contae Luimnigh Comhairle Cathrach agus Contae Luirmigh.
@@ -54,6 +57,7 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 p www.limerick.te
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5.
@@ -93,5 +97,6 @@ Correspondence
 
 (Copy of Correspondence Enclosed)
 A.0.B
+
 
 ---

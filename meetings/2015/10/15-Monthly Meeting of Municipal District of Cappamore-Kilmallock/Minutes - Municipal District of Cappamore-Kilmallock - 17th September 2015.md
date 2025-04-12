@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -44,6 +47,7 @@ Emergency Services if they were interested in being nominated to the Management
 Committee. The Administrative Officer, Economic Development & Planning agreed
 to circulate the Members details on the role of the Management Committee.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 nN
@@ -87,6 +91,7 @@ Kilmallock invest €10,000 into community based youth initiatives to be
 organised by Limerick Youth Service. This fund was allocated for a Special
 Innovation Project as part of the 2015 General Municipal Allocation
 Discretionary Budget.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -135,6 +140,7 @@ by the Members to host a Municipal Reception for Paul Hedderman, John Ryan and
 Paudie Quish, from Hospital Handball Club following their recent success in the
 World Championship coinciding with the November Monthly Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Members thanked Mr. Lehane for all his hard work, courtesy and co-operation
@@ -148,5 +154,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

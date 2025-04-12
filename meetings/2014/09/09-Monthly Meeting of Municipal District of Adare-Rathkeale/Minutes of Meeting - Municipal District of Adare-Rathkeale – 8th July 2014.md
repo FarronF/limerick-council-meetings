@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20municipal_district_adare-rathkeale_-_minutes_of_meeting_8th_july_2014.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF ADARE-RATHKEALE IN DUNRAVEN ARMS HOTEL,

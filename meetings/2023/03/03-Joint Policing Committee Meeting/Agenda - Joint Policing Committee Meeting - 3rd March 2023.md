@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Joint%20Policing%20Committee%20Meeting%20-%203rd%20March%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach
 ; & Contae Luimnigh
@@ -68,6 +71,7 @@ AGENDA
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10. Question submitted by Maurice Quinlivan, T.D. :
@@ -116,5 +120,6 @@ alleviate anti social behaviour in the area”.
 and the Minister for Agriculture for a review and possible change in the laws around an uninvited
 person or persons entering private lands for any reason, including recreational purposes, without
 the prior knowledge and consent of the landowner”.
+
 
 ---

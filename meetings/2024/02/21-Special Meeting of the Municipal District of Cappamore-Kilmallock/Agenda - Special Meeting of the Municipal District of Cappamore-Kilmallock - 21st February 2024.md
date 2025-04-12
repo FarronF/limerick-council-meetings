@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_— Comhairle Cathrach
 & Contae Luimnigh
@@ -51,5 +54,6 @@ funding allocations for 2024.
 
 Comhairle Cathrach agus Contae Lutmnigh, Oifig an Cheantatr, Aras Mhainchin Seoighe
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
+
 
 ---

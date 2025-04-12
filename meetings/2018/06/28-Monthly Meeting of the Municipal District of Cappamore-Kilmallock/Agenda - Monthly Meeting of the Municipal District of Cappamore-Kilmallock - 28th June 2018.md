@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2028th%20June%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 aArN
 
@@ -71,6 +74,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 wwew.timericicie
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -110,5 +114,6 @@ appointed to Bruff Town by Limerick City and County Council.
 
 | will ask at the next Meeting for an update on repairs to the wall at Waterfall
 Road, Bruff.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-14th-january-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 Comhairie Cathvach egus Contae Luimmnigh,
@@ -55,6 +58,7 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -93,5 +97,6 @@ and disabled people. Most notably the unavailability of a grant to replace a fos
 burner if the current burner is unrepairable.
 
 A.0.B
+
 
 ---

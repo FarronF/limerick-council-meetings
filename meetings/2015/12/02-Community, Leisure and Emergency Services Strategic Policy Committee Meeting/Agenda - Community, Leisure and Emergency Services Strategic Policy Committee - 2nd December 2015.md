@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Community%2C%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee%20-%202nd%20December.pdf)
+
+---
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Community Leisure & Emergency Services**

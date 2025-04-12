@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-november-council-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 uel Comhairie Cathrach Convatie Cote raeghy hilar rami
 . . Co 2 sthywach agu ae Uuilry .
@@ -56,6 +59,7 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luirmnesch w @LtmerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (d) 10, Ash Hill, Kilmallock, Co. Limerick.
@@ -111,6 +115,7 @@ from 16" to 18" November, 2021. (retrospective approval)
 Manchester from 1* to 3% December, 2021.
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (qd)
@@ -163,6 +168,7 @@ Environment Strategic Policy Committee held on 5" October, 2021.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -207,6 +213,7 @@ Limerick Theatre Bursaries 2021
 To consider approving recommended allocations from the Assessment Panel for
 Limerick Theatre Bursaries 2021.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -254,6 +261,7 @@ We will move at the next Meeting that the Government and the Local Authority use
 woo! produce from sheep for house, business and commercial insulation as the price
 is on the floor at the moment. This accordingly would support farmers and the local
 economy.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -311,6 +319,7 @@ systems and water supply to all Local Authorities; and furthermore, | will call 
 Government to put in place a properly financed 10-year working plan to upgrade the
 above.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17.
@@ -358,6 +367,7 @@ co-ordinate a plan, in conjunction with Coillte, to identify suitable places for
 planting of fifty mature native broadleaf Irish trees per annum in site specific locations,
 in an effort to combat climate change.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 22. Notice of Motion submitted by Councillor S. Benson
@@ -367,5 +377,6 @@ across the city and county to ensure that fire hydrants are in place in all hous
 estates and in working order.
 
 23. Correspondence
+
 
 ---

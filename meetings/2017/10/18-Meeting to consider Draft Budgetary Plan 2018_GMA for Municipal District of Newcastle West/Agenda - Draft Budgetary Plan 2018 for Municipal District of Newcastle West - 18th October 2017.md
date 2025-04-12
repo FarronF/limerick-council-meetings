@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%202018%20for%20Municipal%20District%20of%20Newcastle%20West%20-%2018th%20October%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i Seirbhisi Corparaideacha,
 _——_—_— ip Helaaly elk a Comhairle Cathrach agus Contae Luimnigh,
@@ -47,5 +50,6 @@ AGENDA
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

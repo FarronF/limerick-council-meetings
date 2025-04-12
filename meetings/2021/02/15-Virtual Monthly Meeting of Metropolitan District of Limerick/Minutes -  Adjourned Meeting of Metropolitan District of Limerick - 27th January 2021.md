@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01b-draft-minutes-adjourned-online-meeting-27th-january-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ADJOURNED ONLINE MEETING OF THE METROPOLITAN DISTRICT**
 
 **OF LIMERICK HELD ON WEDNESDAY, 27THJANUARY, 2021 at 10.00 A.M.**

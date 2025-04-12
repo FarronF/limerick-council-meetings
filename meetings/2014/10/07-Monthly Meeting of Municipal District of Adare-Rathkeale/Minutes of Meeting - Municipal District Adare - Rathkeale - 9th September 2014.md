@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_9th_september_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE IN ARAS SEAN FINN, NEW LINE ROAD,
@@ -44,6 +47,7 @@ permitted by each Member. Members sought clarification on Standing Order No. 47 
 Proposed by Councillor Sheahan;
 Seconded by Councillor O'Donoghue;
 And Resolved:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -96,6 +100,7 @@ REPLY An inspection of both these estates was carried out recently and there wer
 some outstanding issues that need rectification before the estates can be
 taken in charge. A snag list of these outstanding works was issued to the
 developer on 14” August, 2014.
+
 
 
 ---
@@ -154,6 +159,7 @@ Water Services (No. 2) Act 2013).
 Limerick City & County Council is currently preparing an Assets Needs Brief
 for submission to Irish Water in relation to the issue at Askeaton.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 It will, on receipt of the submission from the Council, be a matter for Irish
@@ -199,6 +205,7 @@ financially in these types of situations.
 
 It is intended to meet on site in the near future to discuss the matter further.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Demonstration on Alfresco System
@@ -226,5 +233,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

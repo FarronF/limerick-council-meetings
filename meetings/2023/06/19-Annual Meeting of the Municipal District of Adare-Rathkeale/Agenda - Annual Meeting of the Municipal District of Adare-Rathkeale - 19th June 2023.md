@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Annual-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-19th-June-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola
 & Contae Luimnigh Comnairle Cathvach agus Contae Luimnigh,
@@ -53,5 +56,6 @@ office until the next Annual Meeting or until a successor has been elected.
 @ customerservicesa@limerick.ie
 Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach © vewvalimerickie
 Corporate Headquarters, Merchants Quay, Limerick. a a ey
+
 
 ---

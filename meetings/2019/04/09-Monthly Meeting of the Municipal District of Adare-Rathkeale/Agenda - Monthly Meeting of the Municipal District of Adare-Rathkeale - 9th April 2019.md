@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%209th%20April%2C%202019%20v3.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—" Comhairle Cathrach
 = & Contae Luimnigh
@@ -80,6 +83,7 @@ wwwlimerickie
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Planning and Environmental Services
@@ -114,6 +118,7 @@ Development Acts 2000 (As Amended) and Part 8 Article 81 of the Planning and
 Development Regulations 2001 (As Amended), for Kilcornan
 
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -157,6 +162,7 @@ Sli na Slainte, Askeaton
 To note update on the Sli na Slainte in Askeaton.
 
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -212,6 +218,7 @@ Siochana, establish an interim Judicial Council which will address excessive awa
 in our courts and insist on greater transparency in relation to claims and premiums from
 irish insurers.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21.
@@ -222,5 +229,6 @@ irish insurers.
 costs to upgrade the Ballywilliam Road into Rathkeale.
 
 AOB
+
 
 ---

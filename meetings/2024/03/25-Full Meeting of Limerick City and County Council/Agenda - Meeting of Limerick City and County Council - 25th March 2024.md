@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/agenda-meeting-of-limerick-city-and-county-council-22.01.2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 en Comhairle Cathrach
 & Contae Luimnigh
@@ -60,6 +63,7 @@ w @LimerickCouncil
 
 < 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Disposal of Land
@@ -112,6 +116,7 @@ Support Services
 To consider Chief Executive's Report for the months of January and February.
 
 (Reports Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -166,6 +171,7 @@ noting.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (ii)
@@ -213,6 +219,7 @@ Strategic Policy Committee held on 22™ February, 2024.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5.
@@ -258,6 +265,7 @@ To note the Annual Report 2023 of the Limerick Local Community Development
 Committee.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8.
@@ -300,6 +308,7 @@ service on the Greenway; (f) what interest did this Authority receive on the mon
 advanced; (g) what, if any, funds remain due to the Council; and (h) the anticipated
 date of full repayment should monies remain due to the Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -341,5 +350,6 @@ following issues: (a) likely health effects on adjacent residents; (b) noise lev
 shadow flicker; (d) damage to residential amenity.
 
 Correspondence
+
 
 ---

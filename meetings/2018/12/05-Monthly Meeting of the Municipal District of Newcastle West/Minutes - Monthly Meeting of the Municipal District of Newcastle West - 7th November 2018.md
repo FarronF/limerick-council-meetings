@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%28a%29%202018-11-07%20Minutes%20November.pdf)
+
+---
 MINUTES
 
 OF

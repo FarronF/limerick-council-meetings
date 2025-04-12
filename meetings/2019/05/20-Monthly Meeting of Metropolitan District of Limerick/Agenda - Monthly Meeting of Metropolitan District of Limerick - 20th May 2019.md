@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/Agenda%2020th%20May%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ~ : . 37) Sexbhisi Corparéideacha.
 __——_ Comhairle Cathrach Comhairle Catwach agus Contae Luimnigh,
@@ -51,6 +54,7 @@ To note proposal for the disposal of land as follows:
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -91,6 +95,7 @@ provide input to the consultation process on behalf of constituents.
 | will ask at the next meeting what is the status of the Chase Flats on Mary Street, St. Anne’s
 Court and the Units on Convent Street.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -104,5 +109,6 @@ funding and expertise to deal with this horrendous situation.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Supplementary%20Items%20for%20Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __——_ Seirohisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -49,6 +52,7 @@ accidents.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ wwwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8c ___| will ask at the next Meeting for the following Information:
@@ -89,5 +93,6 @@ Vi: kane
 Tina Knox,
 
 Meetings Administrator.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2014th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
@@ -42,6 +45,7 @@ And Resolved:
 
 (b) Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-
 Rathkeale held on 9" June, 2015.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -94,6 +98,7 @@ ability. The delegation then withdrew from the Meeting.
 
 It was agreed that Item 8 would be taken next.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8. Environment and Water
@@ -136,6 +141,7 @@ Engineer, Travel and Transportation, indicated that Limerick City and County Cou
 seeking funding from the Office of Public Works (OPW) and that the tender process would
 commence during the week. Members requested that when the contract was awarded a
 press release would issue at the same time to inform the public.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -193,6 +199,7 @@ Members were advised that the document before them was not the final Plan, but a
 Socio-Economic Statement, including High Level Goals, derived from a Socio-Economic
 Analysis of Limerick City and County prepared by Dr. Eileen Humphreys (UL) and
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 s
@@ -241,6 +248,7 @@ vicinity of the Kilcornan primary school and entrance to the Ger McDonnell all-
 weather playing facility/Kilcornan Community Centre together with enhanced traffic
 calming/safety measures at this location.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -286,6 +294,7 @@ municipal district members for allocation in the draft budgetary plan. The amoun
 authority can provide by way of a GMA is dependent on the total level of income available
 to it, and the non-discretionary costs that must be met as a first call on that income,
 including at municipal district level.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -335,6 +344,7 @@ Accordingly, setback of property boundaries is not an option. However the safety
 junction may be improved by introducing a mandatory STOP on 3 of the approaches,
 allowing right of way only for traffic travelling from the South towards the N69 (Killeen
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8
@@ -382,6 +392,7 @@ for the outstanding works. It is therefore intended to make an application under
 Development Fund Allocation for Unfinished Estates in 2016 in order to secure the
 balance of funding.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 9
@@ -427,6 +438,7 @@ for General Operatives / Drivers.
 | will move at the next Meeting that the budget allocated to the Roads Department be
 increased by at least 50% to allow the urgent upgrading of the road network around
 the District which is dangerously unfit for purpose.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -474,5 +486,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

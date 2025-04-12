@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore-kilmallock_-_22nd_october_2014_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_—_ Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -48,8 +51,10 @@ agreed.
 Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach © vevevatimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -97,8 +102,10 @@ Notice of Motion submitted by Councillor M. Donegan
 and brief the Members on the pollution of the River Lubagh in August and outline the
 Council's plans to support Inland Fisheries Ireland and the local Angling Club.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -143,6 +150,7 @@ s rs
 
 Circulated, copy of draft Standing Orders for the Municipal District of Cappamore-
 Kilmallock for consideration and adoption.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -192,6 +200,7 @@ February, 2014, to Tuesday, 18" March, 2014. It was proposed to proceed as
 indicated in the Chief Executive’s Report.
 
 The Members noted the report and welcomed the proposed development.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -243,6 +252,7 @@ Depending on costs from the quotations, there may not be funds
 available to carry out the works this year. If not, the repairs will be
 carried out in 2015, subject to available funding.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7. Question submitted by Councillor N. Gleeson
@@ -292,6 +302,7 @@ Councillor Donegan, in proposing the Motion, said he was disappointed that the
 Council had not reappointed a staff member to the Board of Ballyhoura Development
 and asked if the situation could be reviewed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councillor O' Donnell seconded the Motion.
@@ -325,8 +336,10 @@ Dated:
 
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -376,6 +389,7 @@ He informed the Members that a total of €1.5m had been allocated by the Chief
 Executive to the GMA with €310,000 of this assigned to the Cappamore-Kilmallock
 District as follows:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 To finance Gross Revenue Expenditure Municipal District
@@ -414,6 +428,7 @@ rather a new focus on how the existing budget was allocated.
 ¢ In response to a question regarding special projects, he confirmed that it was
 proposed that a figure would be provided in each District for special projects.
 He outlined that those projects must specify a minimum spend of €50,000
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -454,7 +469,9 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

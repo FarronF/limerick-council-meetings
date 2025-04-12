@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%20Meeting%2019th%20March%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Abele Cathrach
 —_= ontae Luimnigh
@@ -81,6 +84,7 @@ w @LimerickCouncil
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -130,6 +134,7 @@ Question submitted by Comhairleoir S. 6 Ceallaigh
 
 | will ask at the next meeting at what stage is the current plan for the second phase of the
 LNDR and when it is expected that works on the second phase will begin.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -182,6 +187,7 @@ Question submitted by Comhairleoir S. 6 Ceallaigh
 
 | will ask at the next meeting that this District invite Troy Studios to the next meeting of the
 District for a briefing on the current situation at the studio and its future plans.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -244,6 +250,7 @@ Notice of Motion submitted by Comhairleoir S. 6 Ceallaigh
 | will move at the next meeting that Comhairle Cathrach agus Contae Luimnigh calls on the
 Minister for Housing to designate the Limerick Metropolitan District as a Rent Pressure Zone.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 21.
@@ -259,5 +266,6 @@ adequate signage for cyclists on the busy river route from UL to the city.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_18th_march_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -31,6 +34,7 @@ Ceanncheathrui Chorpardideach, Cine grommets Luimneach . F wnreienerichia
 
 Corporate Headquarters, Merchants Quay, Limeric v @LimerickCouncit
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Clir Kevin Sheehan,
@@ -48,6 +52,7 @@ special meeting of Limerick City & County council to discuss the issue of the
 new bin waiver scheme before it is brought into effect.
 
 Signed:
+
 
 
 ---

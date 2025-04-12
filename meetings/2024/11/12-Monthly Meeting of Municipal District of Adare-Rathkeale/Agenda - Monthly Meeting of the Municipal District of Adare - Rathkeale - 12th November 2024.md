@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda-monthly-meeting-of-the-municipal-district-of-adare-rathkeale-12th-november-2024_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -81,6 +84,7 @@ www limerick.ie
 @LimerickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -131,5 +135,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 A.0.B
+
 
 ---

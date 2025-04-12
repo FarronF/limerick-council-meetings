@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_draft_minutes_of_meeting_of_municipal_district_of_newcastle_west_1st_april2c_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
@@ -47,6 +50,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and
 signed”.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -100,6 +104,7 @@ the boundary wall adjacent to the GAA. pitch and gave costings of works needed t
 address the issues. The car park in the centre was also in need of urgent repairs.
 
 Members thanked the Deputation for their presentation.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -157,6 +162,7 @@ be submitted by the Members.
 Following further discussion on the matter, it was agreed that a breakdown of €11,000
 from the Contribution Scheme would be forwarded to the Members by Head of Finance.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 It was agreed that the Limerick Marketing Company would be invited to make a
@@ -208,6 +214,7 @@ to cover the costs.
 
 REPLY: The funding available for the Local Improvement Scheme in 2015 will
 allow for the carrying out of 8 schemes in their entirety and 1 part scheme,
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -264,6 +271,7 @@ the Road Traffic Bill, difficulties had arisen in relation to the legal definiti
 housing estate was. The Council was awaiting revised speed limit guidelines from the
 Department and the matter would be considered further once they were received.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 On the proposal of Councillor Scanian and seconded by Councillor Galvin, it was
@@ -280,5 +288,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

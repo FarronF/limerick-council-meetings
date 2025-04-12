@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/SPR-MS-0118012518090.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _———_— Comhairle Cathrach
 & Contae Luimnigh
@@ -51,5 +54,6 @@ Meetings Administrator.
 
 Ceanncheathri: Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

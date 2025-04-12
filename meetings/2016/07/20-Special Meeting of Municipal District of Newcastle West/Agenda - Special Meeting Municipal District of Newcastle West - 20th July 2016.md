@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 _—_—_—_— Comhairle Cathrach agus Contae Luimnigh,
@@ -36,5 +39,6 @@ To receive deputation from Killeline Leisure Centre.
 & customerservices@limerick.ie
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach & wevew limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+
 
 ---

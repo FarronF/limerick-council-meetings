@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%202022-12-02%20Agenda%20December_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7 ——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -65,6 +68,7 @@ Regulations, 2001 (as amended) in relation to the following:
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -115,6 +119,7 @@ Questions submitted by Councillor T. Ruddle
 
 | will ask at the next Meeting that the slabs in The Square, Newcastle West be re-laid
 where they are uneven.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -179,6 +184,7 @@ Notices of Motion submitted by J. Scanlan
 | will move at the next Meeting that a footpath extension is provided on the Eastern
 side of Castletown Village.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 20.
@@ -197,5 +203,6 @@ on the N21 for Knockaderry with a view to improving safety here. This is a dange
 junction that has claimed lives and continues to have serious accidents there on a
 
 regular basis.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Draft%20Minutes%20Travel%20and%20Transportation%20Meeting%20-%203rd%20Dec%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _e Comhairle Cathrach
 & Contae Luimnigh
@@ -41,6 +44,7 @@ Corporation of six hundred (600) new jobs for the National Technology Park in Ca
 Limerick City and County Council would, with Clare County Council, urgently Progress the
 
 1
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -88,6 +92,7 @@ Limerick-Shannon Metropolitan Area Transport Strategy (L-SMATS) was scheduled fo
 10th December. He acknowledged that the NDR was a major element for the facilitation of
 the outcomes of the L-SMATS.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Cllr. J Pond acknowledged the reply and stated that the Members of the SPC should receive a
@@ -134,7 +139,9 @@ Cllr. Pond and the Members thanked Ms. Goggin for her response.
 
 The Meeting then concluded.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

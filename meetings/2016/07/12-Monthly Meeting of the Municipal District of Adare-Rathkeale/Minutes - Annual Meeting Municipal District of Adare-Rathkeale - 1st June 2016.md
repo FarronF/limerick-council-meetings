@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
@@ -48,6 +51,7 @@ course of the previous twelve months.
 The Cathaoirleach then invited nominations for the office of Leas-Chathaoirleach for the coming
 year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Proposed by Councillor Sheahan;
@@ -66,5 +70,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

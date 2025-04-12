@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-10th-november-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach : Cearter Gardasech Ath Dara-Rath Caola
 s s Somhairie Cathrach agus Contae Luimrigh,
@@ -48,6 +51,7 @@ To receive a presentation on the Local Improvement Grant Scheme.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach ) www.limerickie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -87,6 +91,7 @@ Ballingarry.
 | will move at the next Meeting that this District would convene a Special Meeting to
 discuss the future of the Industrial Park Lands in Askeaton.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -114,5 +119,6 @@ Park, Rathkeale.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

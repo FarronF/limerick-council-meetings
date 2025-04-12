@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-2021-10-20-agenda-draft-budgetary-plan-.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach
 = & Contae Luimnigh
@@ -58,5 +61,6 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 W @limerickCouncil
 (061 - 556 000
+
 
 ---

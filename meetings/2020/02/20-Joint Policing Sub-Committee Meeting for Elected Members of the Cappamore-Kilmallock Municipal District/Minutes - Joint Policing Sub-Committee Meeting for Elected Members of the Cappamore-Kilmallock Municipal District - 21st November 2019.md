@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02-jpc-minutes.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
@@ -41,6 +44,7 @@ Increase from 2018 to 2019 and he confirmed that An Garda Siochana were looking 
 measures to address same. He also confirmed that while drink driving detections had
 reduced, that drug driving detections had increased when compared between 2018 and 2019.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Detective Sergeant Ted Riordan spoke about cyber fraud and outlined some of the ways in
@@ -81,5 +85,6 @@ Signed: —O———$——$——
 Cathaoirleach
 
 Date:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2028th%20June%252c%202018%20%281%29.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
 & Contae Luimnigh Olfig an Cheantair, Aras Mhainchin Seoighe.
@@ -40,5 +43,6 @@ to hold office until the next Annual Meeting or until a successor has been elect
 @ customerservices@limerickie
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe @ worwimerickie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-7th-february-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Comhairle Cathrach Duiche Bardais an Chaidedin Nus Tat
 & Contae Luimnigh Comhairle Catlvach agus Contae Luimni
@@ -59,6 +62,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -109,6 +113,7 @@ Questions submitted by Councillor F, Foley
 
 | will ask at the next Meeting can funding be secured for safety improvement works
 at Lyons Cross, Kilmorna Road, Abbeyfeale.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -170,5 +175,6 @@ Moanroe and Broadford be renewed and upgraded.
 
 Newcastle West be brought in line with the rate which applies to residents of
 Limerick City.
+
 
 ---

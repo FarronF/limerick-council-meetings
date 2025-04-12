@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_minutes_13th_september2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
@@ -48,6 +51,7 @@ Circulated, Report of A/Senior Planner, Planning and Environmental Services, dat
 
 Members requested that this item be deferred indicating that issues were outstanding in relation
 to safety in the estate.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -100,6 +104,7 @@ deal with rural crime.
 Members pointed out the importance of the Gardai maintaining a visible presence throughout the
 District and building a good relationship with the general public. Members welcomed the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -148,6 +153,7 @@ only from that road.
 This question has also been referred to the Road Safety Authority (RSA) and the
 Department of Transport, Tourism and Sport for further clarity.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8. Question submitted by Councillor A. Teskey
@@ -195,6 +201,7 @@ In proposing the Motion Councillor O’Brien pointed out that the District Membe
 put in a position whereby GMA funding, intended to be discretionary, had to be allocated to works
 such as the maintenance of Adare Town Park to ensure its ongoing maintenance. He stressed that
 works such as this should be funded from general Council funds and the Members should be free
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -250,6 +257,7 @@ Councillor Keary informed the Meeting that, due to a proposed shift in the align
 proposed new Limerick to Foynes Road, land in his ownership would now be included as part of
 the road. He expressed his dissatisfaction with Transportation Infrastructure Ireland and the Mid
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -276,5 +284,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

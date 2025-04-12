@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%202018-05-09%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Duiche Bardais an Chaisledin Nua Thiar,
 a Comhairle Cathrach agus Contae Luimnigh.
@@ -49,5 +52,6 @@ Traffic Management Plan.
 @ Customerservices@limerickie
 er eee en eee eee @ weew limerick. te
 Corporate Headquarters, Merchants Quay, Limerick wy @LimerickCouncil
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-16th-October-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ~ Setbhisi Corparaideacha,
 —_—_—_ ee ee of Comhairle Cathwach agus Contae Luimnigh,
@@ -47,6 +50,7 @@ Metropolitan District of Limerick.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luirnneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick <\ 062 - 557150
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -103,6 +107,7 @@ To consider the taking-in-charge of Steamboat Quay, Limerick in accordance with 
 the Planning & Development Act 2000 (as amended) and Section 11 of the Roads Act 1993.
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ESTIONS
@@ -158,6 +163,7 @@ failed. These lanes are gated lanes but the residents who requested these lanes 
 now deceased or elderly and cannot clean up these laneways, The laneways are now overgrown
 and rat infested etc. Can the Council take these lanes in charge again please. There is a similar
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 lane in Granville Park that also needs to be taken in charge. We need to support our elderly
@@ -211,6 +217,7 @@ centre of Castleconnell Village when the Post Office was relocated.
 for the delivery of the much-needed proposed Library for the greater Castletroy area.
 4
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19. Question submitted by Councillor E, O'Donovan
@@ -253,6 +260,7 @@ year.
 erecting the flood barriers around the quays in and if the Council could explain the mechanism
 for having these put in place and removed, and if they would provide an explanation around the
 service level agreement.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -303,6 +311,7 @@ to cover schools that have not yet received funding.
 
 6
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 34. Notice of Motion submitted by Councillor C. Slattery (to be referred to the Local Electoral
@@ -338,5 +347,6 @@ currently only allow for traditional build units.
 
 39. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

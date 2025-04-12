@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00_agenda_18th_april2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 aLN td ‘
 =
@@ -69,6 +72,7 @@ of wen limerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -125,6 +129,7 @@ Question submitted by Cmhlr. S. 6 Ceallaigh
 
 | will ask at the next Meeting when is it envisaged that the road upgrade on the
 Bloodmill Road will be completed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -186,6 +191,7 @@ I will move at the next Meeting that this Council commit to allocate funding tow
 the restoration of the Black Bridge, a facility which has been used for recreational
 purposes by people across the whole Metropolitan District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -216,5 +222,6 @@ introduced in the city.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

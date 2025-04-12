@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/01-a-minutes-budget-meeting-27.11.20.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD AT**
 
 **LIMERICK RACECOURSE, GREENMOUNT PARK, PATRICKSWELL, CO. LIMERICK, ON FRIDAY,**

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-2021-06-30-agenda-adj-agm.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach Diliche Berdale — otea' =
 — gh Aras Wiliam Smith O'Brien,
@@ -45,5 +48,6 @@ office until the next Annual Meeting or until a successor has been elected.
 c heathri C = le
 are amaaaaag [a
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
+
 
 ---

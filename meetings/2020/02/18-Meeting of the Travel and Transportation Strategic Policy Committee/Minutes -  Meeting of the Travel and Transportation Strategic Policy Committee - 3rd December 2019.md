@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/draft-minutes-travel-transportation-spc-meeting-3.12.19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—__ Comhairle Cathrach
 & Contae Luimnigh
@@ -32,6 +35,7 @@ by Clir. Butler, and adopted.
 
 Item 2: Director’s Report
 Mr. Kennedy updated the Committee on items arising from the last meeting:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -85,6 +89,7 @@ through the court system.
 LCCC is engaging with An Garda Siochana in relation to illegal parking at out of hours times
 where Traffic Wardens are not on duty. LCCC in conjunction with the NTA is undertaking a
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 transport strategy for the Metropolitan Area that will prioritise and enable a modal shift to
@@ -131,6 +136,7 @@ Coordinator will be appointed shortly.
 
 Clir. O'Donovan requested that the Director's response to the query on the Smarter Travel
 Route to UL be circulated to the members.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -205,6 +211,7 @@ representatives. Following completion
 _of discussions 2 meeting with TIl to be
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 arranged to agree progress in early
@@ -262,6 +269,7 @@ understanding that there was no additional cost to the Council arising from the 
 
 5
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Street cycle lane works. He also said that the design of the MIC to City Centre Cycle Lane
@@ -309,6 +317,7 @@ sites and the Climate Action Plan regarding promotion of active modes. He expres
 opposition to the scheme stating that the LNDR should be reconsidered, notwithstanding the
 concerns expressed by the companies in the National Technology Park, The best plan for
 Limerick, in his opinion, was a sustainable transport plan.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -364,6 +373,7 @@ Cllr. Secas asked about education actions contained in the Plan.
 
 7
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 In response Mr. Slavin confirmed that he had spoken with the HSE about representation and
@@ -410,6 +420,7 @@ Limerick Shannon Area Transport Strategy (LSMATS)”.
 In proposing, the notice of motion on Cllr. Leddin (8) stated that the active modal share in
 Limerick recorded in the Census 2016 was very low, and argued that the LSMATS was an
 opportunity to set ambitious targets to achieve a greater modal mix.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -459,6 +470,7 @@ West”.
 In proposing the notice of motion, Cllr. O’Sullivan noted that there was a multiplicity of
 signage in the City of which some was out of date and others were confusing. She called for
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a review of signage and the installation of updated “welcome” signage at the entrance points
@@ -490,5 +502,6 @@ Clir. B. Leddin acknowledged the reply and indicated that he was happy with the 
 This concluded the business of the Meeting.
 
 10
+
 
 ---

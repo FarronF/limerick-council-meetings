@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%202017-09-06%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 : Seirbhisi Corparéideacha,
 ee a teleoalat paella Comhairle Cathrach agus Contae Luimnigh.
@@ -66,6 +69,7 @@ Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -117,6 +121,7 @@ Questions submitted by Councillor L. Galvin
 
 | will ask at the next Meeting if adequate signage can be put in place at the creche, located at
 Ballykennedy South, Ballingarry in the interest of safety.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -176,5 +181,6 @@ Notice of Motion submitted by Councillor J. Scanlan
 the elder community within the immediate town centre area.
 
 Correspondence
+
 
 ---

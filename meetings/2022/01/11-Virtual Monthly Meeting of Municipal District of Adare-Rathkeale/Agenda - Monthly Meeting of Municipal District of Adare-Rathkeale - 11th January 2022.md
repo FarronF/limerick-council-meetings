@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-11th-january-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 el S-Contae Lumen Comhairle Cathrach agus Contae Luimnigh,
@@ -48,6 +51,7 @@ aed ease
 Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach } wrw.timericiie
 Corporate Headquarters, Merchants Quay, Limerick. *Cost-seees0
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -87,5 +91,6 @@ officially classified as a heritage town.
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

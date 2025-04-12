@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/02-ck-md-meeting-minutes-16th-jan-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -41,6 +44,7 @@ Kilmallock Municipal District for their efforts during recent adverse weather co
 
 All Members concurred with the sentiments of the Cathaoirleach Councilor Martin Ryan.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councilor Conway (G) referred to local community contractors who had provided assistance
@@ -83,6 +87,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 There was no interest declared.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4. Property Disposal
@@ -120,6 +125,7 @@ circulation of same.
 
 Cathaoirleach Councillor Ryan (M) thanked the Deputation and commended them on all the
 great works carried out by them on the Kiiteely and Dromkeen burial grounds.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -159,6 +165,7 @@ examine this proposal when the speed survey was complete.
 DOS Brian Kennedy, Transportation & Mobility advised contact be made by local residents
 with the local Garda Roads Policing Unity to carry out speed checks at this location.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “| will move at the next meeting of the Cappamore-Kilmallock Municipal District that a
@@ -193,6 +200,7 @@ Mansion in Kilmatlock. If the application were successful, the funding would all
 to be developed through detailed design/planning/procurement stages and have it shovel
 ready for a Category 1 RRDF application in the future. The deadline for the Category 2 RRDF
 application is the 14" March 2025.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -239,5 +247,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

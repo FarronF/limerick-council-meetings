@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_limerick_city_and_county_council_budget_2017_meeting_-_11th_november_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ —-_£ Seirbhis{ Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -49,6 +52,7 @@ customerservices@limerickie
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimrieach www.limerickte
 Corporate Headquarters, Merchants Quay, Limerick FE lresterreieae
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 . To determine the proportion of commercial rates refund that applies on vacant
@@ -85,5 +89,6 @@ Reform Act, 2014 subject to finances available.
 
 (Copy of proposed Business and Retail Incentive Scheme for Vacant Property
 2017 Enclosed)
+
 
 ---

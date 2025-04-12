@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar,
 _——_— & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
@@ -52,5 +55,6 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © vevowimerickie
 Corporate Headquarters, Merchant's Quay, Limerick WY alimerickCouncil
 
 \ 061 - 556 000
+
 
 ---

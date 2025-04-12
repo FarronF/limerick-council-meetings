@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Agenda%20September%2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Catnhrach Comhairle Cathrach agus Contae Luimnigh
 
@@ -50,8 +53,10 @@ Quarterly update on Housing
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe sree erorartimericiie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office a
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -104,6 +109,7 @@ Limerick City and County Council to employ a landscaping contractor to assist lo
 community cemetery associations with necessary grass cutting and general maintenance at
 our local cemeteries.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -150,5 +156,6 @@ Question submitted by Councillor Carey
 
 i will ask at the next meeting of the Cappamore Kilmallock Municipal District if Limerick City and
 County Council need planning permission to demolish residential buildings.
+
 
 ---

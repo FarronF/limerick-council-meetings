@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01a-2021-10-06-minutes-october.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -39,6 +42,7 @@ Circulated, report of Senior Staff Officer, Housing Support Services, dated 13" 
 Newcastle West, Co. Limerick.
 
 Members noted the proposal.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -88,6 +92,7 @@ Selection Report. The next phase, Phase 3, involves developing the selected rout
 400mm wide corridor but the roadway once constructed would be between 60m and 100m
 so although land maybe included in the initial 400m corridor, it may not be impacted directly
 by the roadway. However, he stated that there is nothing definite about moving to Phase 3
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -140,6 +145,7 @@ a manner that is incompatible with those purposes
 ¢ Adequate, relevant and limited to what is necessary in relation to the purposes for
 which they are processed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 He made reference to the GDPR Article 6 Lawful Basis which states that processing is
@@ -188,6 +194,7 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
 €500 to The Paddocks Residents Association.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Director referred to the District allocations under the Development Fund for 2021, which
@@ -235,6 +242,7 @@ Government and Heritage by mid November 2021.
 (c) A meeting have taken place with Transport Infrastructure Ireland over funding for the
 scheme. The TIl have requested a detailed breakdown of funding which is currently
 being prepared and further meetings will be arranged to try and secure funding for
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -307,6 +315,7 @@ Clash Road, Abbeyfeale, Co. Limerick.
 3 Hillview Drive, Abbeyfeale, Co. Limerick.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 DS-130-20 The Convent Building, Abbeyfeale, Co. Limerick. _| Notice of Intention to add to
@@ -363,6 +372,7 @@ compulsorily.
 | will ask at the next Meeting for the Road Design Section to attend this next meeting to give
 us an update on the by passes for Abbeyfeale and Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 This item was dealt with as part of No. 3 on the Agenda.
@@ -415,6 +425,7 @@ ranges from October 8” up to late January.
 5 have yet to commence. These are scheduled to follow the rolling completion of the
 above 6. It is expected that they will start in the earlier part of 2022 and can take
 approximately 3 to 4 months to complete once started.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -473,6 +484,7 @@ the case is being progressed and a Notice has been served on the registered
 
 9
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 owner of the Council’s intention to enter the particulars of the land in the
@@ -521,6 +533,7 @@ These storage containers are provided as part of a licence agreement for Lazy Bi
 from these car parks and are therefore not available to other bike hire providers.
 
 10
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -574,6 +587,7 @@ The SugarCRM database assists the Council in the management of all service reque
 for the Council. it allows cases to be tracked and managed, with a view to achieving the
 
 11
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -635,6 +649,7 @@ request. In very rare instances, the subject line may have had some minor edits 
 
 12
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 — these edits are usually undertaken to remove any personal or sensitive data that may have
@@ -688,6 +703,7 @@ remove the bend and improve sight lines at this location.
 
 13
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Meetings Administrator stated that a number of months ago, it was agreed with the
@@ -717,5 +733,6 @@ Cathaoirleach
 Dated:
 
 14
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/03%20Agenda%20Nov%202019%20MD%20Mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——_— Comhairle Cathrach
 a & Contae Luimnigh
@@ -60,6 +63,7 @@ Cappamore-Kilmallock held on the 17" October, 2019.
 Comhairle Cathrach agus Contac Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Capital Investment Directorate
@@ -100,6 +104,7 @@ NOTICE OF MOTION
 Municipal District refer Limerick City and County Council’s Housing Allocation Scheme
 2017 to the Home and Social Development Strategic Policy Committee, for discussion in
 relation to the criteria for allocating social housing.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -142,6 +147,7 @@ comparison with street lighting in other towns and villages.
 update on the results of the legal title clarification sought from larnrod Eireann/CIE in
 relation to part of land in Bruree, which was the subject of recent roadworks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13. Question submitted by Councillor Martin Ryan
@@ -156,5 +162,6 @@ measures are being taken to address same.
 approximate remaining capacity is available in each graveyard/cemetery in the
 Cappamore-Kilmallock Municipal District and also confirm what are the current fees
 applicable for grave spaces.
+
 
 ---

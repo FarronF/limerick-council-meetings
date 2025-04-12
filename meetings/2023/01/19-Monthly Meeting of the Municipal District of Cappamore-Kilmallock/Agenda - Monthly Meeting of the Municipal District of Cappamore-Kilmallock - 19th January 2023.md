@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20January%202023_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Comhairle Cathrach aqus Contae Luimnigh,
 & Contae Luimnigh Olfig an Cheantair, Aras Mhaichin Seoighe,
@@ -48,6 +51,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office wW @Limerick
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Property Services
@@ -91,6 +95,7 @@ water in conjunction with Limerick City and County Council make sufficient Capit
 available to properly repair the leakage in the water schemes in the Cappamore -
 Kilmallock District.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 QUESTIONS
@@ -118,5 +123,6 @@ District in 2023.”
 update on the Part 8 application to be lodged for Deebert Park, Kilmallock, following the
 Outdoor Recreation Infrastructure Scheme (ORIS) grant announced by the department
 recently. “
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-b-Minutes-Special-Meeting-of-the-Municipal-District-of-Newcastle-West-19th-May-2023.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN

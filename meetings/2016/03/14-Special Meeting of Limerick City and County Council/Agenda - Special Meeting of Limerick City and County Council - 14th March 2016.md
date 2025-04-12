@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2014th%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_——_—_ Seirbnis{ Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -55,6 +58,7 @@ of Councillor Tom Neville to Dail Eireann.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach ©) wew.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b)
@@ -68,5 +72,6 @@ accordance with Section 142(5) of the Local Government Act, 2001, as
 amended.
 
 (Report Enclosed)
+
 
 ---

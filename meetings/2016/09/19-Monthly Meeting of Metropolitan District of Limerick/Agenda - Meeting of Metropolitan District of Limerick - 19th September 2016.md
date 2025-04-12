@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_19th_september_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -53,6 +56,7 @@ Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach - & www limerick.ie
 
 Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -102,6 +106,7 @@ Question submitted by Councillor Joe Leddin
 development of the so called Opera Centre and when we can expect a final clarification on
 the nature of the proposed redevelopment of this site and a time frame for when
 construction and completion is expected.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -155,6 +160,7 @@ Limerick as a City of Culture, find a resolution for the Fire Place Site at Nich
 coming up to 25 years as an eyesore in the heart of our City; undertake immediate works
 to preserve the ancient Walls of Limerick, overgrown and crumbling, on the Island Road
 and remove the dump at river side of King John’s Castle.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -214,6 +220,7 @@ in the Metropolitan area, a meeting is organised between council officials, coun
 the different third level institutes and their students unions to discuss what can be done to
 provide more affordable, quality student accommodation in the district.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19.
@@ -230,5 +237,6 @@ Notice of Motion submitted by Councillors John Gilligan and Frankie Daly
 Correspondence.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

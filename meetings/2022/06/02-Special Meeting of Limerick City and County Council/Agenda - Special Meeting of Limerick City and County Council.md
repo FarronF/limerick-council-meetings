@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Special-Meeting-03-06-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 gil thar Cathrach
 ontae Luimnigh
@@ -44,5 +47,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 jm customerservices@limerickic
 
 (061 - 557150
+
 
 ---

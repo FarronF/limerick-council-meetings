@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20April%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
@@ -51,6 +54,7 @@ Members thanked the Roads Engineer for work that had gone into compiling the Sch
 Works. They welcomed the proposals in the Scheme but pointed out that Mountcollins was in
 urgent need of resurfacing. It was stated that Mountcollins was on the list for 2016-2018 which
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 would commence the following year.
@@ -92,6 +96,7 @@ preliminary design/consideration is underway involving the relevant council depa
 and Transport Infrastructure Ireland. Public/Business Consultation will commence in due
 
 course.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -147,6 +152,7 @@ Department.
 approach towards Castlemahon school in the interest of safety.
 
 REPLY: A meeting is to be arranged on site with regard to this matter.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -210,6 +216,7 @@ Signed:
 Dated:
 
 Cathaoirleach
+
 
 
 ---

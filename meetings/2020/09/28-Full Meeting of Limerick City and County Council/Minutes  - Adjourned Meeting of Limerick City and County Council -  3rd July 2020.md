@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-d-minutes-adjourned-meeting-03.07.2020.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY
 
 AND COUNTY COUNCIL HELD AT LIMERICK RACECOURSE, GREENMOUNT

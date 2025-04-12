@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Minutes%20of%20SPC%2012th%20February%202018.pdf)
+
+---
 **MINUTES**
 
 **OF**

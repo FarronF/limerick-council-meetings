@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20%20T%26T%20SPC%20Meeting%2027.06.22.pdf)
+
+---
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**

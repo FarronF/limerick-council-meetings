@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-limerick-joint-policing-committee-12th-december-2019.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
 **COUNCIL CHAMBER, CORPORATE HEADQUARTERS, MERCHANT’S QUAY ON THURSDAY, 12TH**

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01b-2022-03-23-minutes-special-meeting.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE

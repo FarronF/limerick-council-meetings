@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ———— Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh
@@ -48,6 +51,7 @@ customerservices@limerick.ic
 Chorpartideach, Cé na gCeannaithe, Luimneach . @ Weew Yimerick ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICES OF MOTION
@@ -69,5 +73,6 @@ Noti bmitted by Councillor Gleeson
 
 | will move at the next meeting that safety measures be put in place at Abington
 Enterprise Centre, Murroe in the interest of safety.
+
 
 ---

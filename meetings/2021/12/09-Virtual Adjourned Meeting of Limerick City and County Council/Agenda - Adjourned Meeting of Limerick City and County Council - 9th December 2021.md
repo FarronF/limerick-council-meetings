@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-adjourned-meeting-09.12.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 pe Comhairle Cathrach Seirbhisi Comardideacha,
 PY Py Comhairle Cathvach agus Contac Ludmnigh,
@@ -53,6 +56,7 @@ fundraise has been hampered severely by the COVID-19 pandemic.
 Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19.
@@ -93,5 +97,6 @@ city and county to ensure that fire hydrants are in place in all housing estates
 order.
 
 Correspondence
+
 
 ---

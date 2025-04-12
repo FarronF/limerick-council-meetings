@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-special-meeting-limerick-city-and-county-council-3rd-january-2025.pdf)
+
+---
 MINUTES OF PROCEEDINGS OF ONLINE SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ON FRIDAY, 03RD JANUARY, 2025, AT 4.00 P.M. IN ORDER

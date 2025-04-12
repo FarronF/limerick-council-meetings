@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-b-Draft-Minutes-Annual-Meeting-of-the-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE, ON MONDAY, 19TH** **JUNE, 2023 AT**

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/agenda-annual-meeting-of-metropolitan-district-of-limerick-21.06.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __——_ Comhairle Cathrach Comhairle Catbunch aca Conle unbtetih
 immigh,
@@ -51,5 +54,6 @@ m customerservices@limerick.le
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

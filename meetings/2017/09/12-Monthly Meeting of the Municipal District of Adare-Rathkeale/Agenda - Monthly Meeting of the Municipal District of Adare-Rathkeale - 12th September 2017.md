@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20September%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ———_ pana Cathrach
 —_ ontae Luimnigh
@@ -77,6 +80,7 @@ W @LimerickCouncil
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -124,6 +128,7 @@ To note update on proposals to address the flooding issues in Foynes, Askeaton a
 
 Ballysteen.
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -177,6 +182,7 @@ Notice of Motion submitted by Councillor S. Keary
 on the pedestrian crossing at Main Street, Adare in the interest of better vehicular
 movement.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15. Notice of Motion submitted by Councillor E. O’Brien
@@ -186,5 +192,6 @@ Saving Equipment Bill 2017.
 
 16. rr n
 (Copy of Correspondence Enclosed).
+
 
 ---

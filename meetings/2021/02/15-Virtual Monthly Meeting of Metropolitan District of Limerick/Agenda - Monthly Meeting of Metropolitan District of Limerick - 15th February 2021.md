@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-february-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach
 = & Contae Luimnigh
@@ -60,6 +63,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land / Proposed Sub-Lease
@@ -91,6 +95,7 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development Reg
 Dock Road, Limerick,
 
 (Report Enclosed).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -133,6 +138,7 @@ Have bodycams been introduced yet and if not, the reasons for this delay.
 Council consider taking Carrigogunnel! Castle, Ballybrown Co. Limerick in charge or if they have
 explored ownership of this Castle, which attracts many visitors.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11. Question submitted by Councillor C. Sheehan
@@ -168,6 +174,7 @@ horses and recover the costs from the landowner.
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and County
 Council engage with Bus Eireann and the NTA to identify a turning point for the bus 303 on the Old
 Cork Road to include Georgian Village up as far as Rosmor.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -205,6 +212,7 @@ parking practices, with a focus on the dangers of parking on footpaths, cycle la
 Council launches a public awareness campaign to deal with the issue of increased illegal dumping
 and littering during the Covid 19 lockdown.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 23. Notice of Motion submitted by Councillor C. Sheehan
@@ -217,5 +225,6 @@ Agency Bill.
 
 24. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

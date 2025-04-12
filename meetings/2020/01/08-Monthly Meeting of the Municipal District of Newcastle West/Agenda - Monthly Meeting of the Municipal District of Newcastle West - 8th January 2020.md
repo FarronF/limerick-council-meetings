@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00%202020-01-08%20Agenda%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Drache Bardais an Chaisledin Nua Thiar,
 & Contae Luimnigh Cormbhuairie Cattwach agus Contae Luimnigh,
@@ -50,6 +53,7 @@ Corporate Headquarters, Merchant's Quay, Limerick y
 @LimerickCouncil
 (061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ADJOURNED QUESTIONS
@@ -92,5 +96,6 @@ Athea village.
 | will move at the next Meeting that Limerick City and County Council begin a design
 statement for the village of Athea including public realm and traffic calming at the
 entrances and exits in the village.
+
 
 ---

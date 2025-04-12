@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-meeting-of-limerick-city-and-county-council-24.05.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——
 —_—=>=>"
@@ -78,6 +81,7 @@ m customerservices@limerickie
 w @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -126,6 +130,7 @@ Support Services
 To consider Chief Executive’s Reports for the months of March and April 2021.
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b)
@@ -172,6 +177,7 @@ Recommendation 1:
 “That Limerick City and County Council establishes and provides a tree
 planting grant for community and voluntary groups similar to the
 Maintenance of Open Spaces Grant”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -225,6 +231,7 @@ Chairperson’s Report - Meeting of Economic Development, Enterprise and
 Planning Strategic Policy Committee held on 26" April, 2021.
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -265,6 +272,7 @@ Question submitted by Councillor L. Galvin
 | will ask at the next Meeting for (a) a full report from Irish Water on the capacity of all the
 sewerage treatment plants in Co. Limerick; and (b) for a detailed programme of work for all
 sewerage treatment plants in Co. Limerick.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -317,6 +325,7 @@ under 16, who are gathering/loitering in public areas and engaging in anti-socia
 to be responsible for their children. We would recommend that sanctions be imposed on
 parents whose children are engaging in such behaviour by means of fines and that these
 fines would be recovered by way of attachment to earnings, if applicable.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -372,5 +381,6 @@ cities and counties throughout Ireland could look to develop their own links and
 work towards a more formal sister city / twin city relationship at some point in the future.
 
 Correspondence
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_14th_march2c_2017_-_amended.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i
 
@@ -71,6 +74,7 @@ To receive Deputation from Ballyhahill Development Association.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach !
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Schedule of Works for the Municipal District
@@ -122,6 +126,7 @@ To note update on the Taking-In-Charge of Ballyvareen Estate.
 To note update on the Taking-In-Charge of An Curran Estate, Pallaskenry.
 (Copy Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -172,6 +177,7 @@ nsu . lahon
 | will move at the next Meeting that we receive a deputation from members of Rathkeale Boxing
 Club at our April Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Notice of Motion submitted by Councillor R. O'Donoghue
@@ -183,5 +189,6 @@ numerous vacant, crumbling properties.
 
 15. Correspondence :
 (Copy of Correspondence Enclosed).
+
 
 ---

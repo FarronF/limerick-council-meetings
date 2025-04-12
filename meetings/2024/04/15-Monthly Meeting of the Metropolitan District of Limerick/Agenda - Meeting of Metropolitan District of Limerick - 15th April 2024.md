@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-april-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach Comhairle Cat Bit eet
 
@@ -55,6 +58,7 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (\ 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Disposal of Land
@@ -100,6 +104,7 @@ as the new LED lights are not adequately providing sufficient lighting.
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 provision of a dog park in Castletroy Park.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -154,6 +159,7 @@ communicate with the Council in the delivery of an efficient public service.
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19. Notice of Motion submitted by Councillor S. Kiely
@@ -191,5 +197,6 @@ the school.
 
 24. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-special-meeting-16.04.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a E Comhairle Cathrach
 = & Contae Luimnigh
@@ -69,6 +72,7 @@ Development Plan.
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 We request a Special Meeting of Limerick City and County Council to discuss the
@@ -85,6 +89,7 @@ Cllr. Eddie Ryan.
 Clir. Fergus Kilcoyne. —~
 8 Y Aa & Coun i
 & ec
+
 
 
 ---
@@ -113,6 +118,7 @@ Clir. Gerald Mitchell.
 
 q 0?
 Clir. Stephen Keary. porate service a
+
 
 
 ---

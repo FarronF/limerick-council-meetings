@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/03%20Agenda%20Oct%202019%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 — Comhairle Cathrach
 & Contae Luimnigh
@@ -74,6 +77,7 @@ W @UimerickCouncil
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c) To note proposal for the disposal of property at 36 Cecil Street
@@ -116,6 +120,7 @@ To note Housing Progress Report from the Director of Services, Housing Developme
 Directorate dated 26" September, 2019.
 
 (Report enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -161,6 +166,7 @@ Limerick City and County Council discuss the Council's policy in rehousing peopl
 Limerick City estates in rural areas of the county and the effect this is having on people
 originally from those areas seeking Council accommodation.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14, Question submitted by Councillor Martin Ryan
@@ -179,5 +185,6 @@ fencing. This Bridge is on the county bounds between Limerick and Tipperary.
 
 measures be installed on the R513 on the approach roads and through Hospital Street
 to slow down traffic and pedestrian crossings to facilitate crossing the Main Street.
+
 
 ---

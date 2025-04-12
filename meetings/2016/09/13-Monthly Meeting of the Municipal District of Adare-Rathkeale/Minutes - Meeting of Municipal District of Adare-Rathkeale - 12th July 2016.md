@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_meeting_of_municipal_district_of_adare-rathkeale_-_12th_july2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
@@ -47,6 +50,7 @@ N21 Adare Western Approach Improvement Scheme were not recorded in the minutes. 
 particular, his concern that the non-inclusion of a sewerage pipe in conjunction with the proposed
 road works could result in the road having to be re-excavated in the future at huge cost and
 disruption. No amendment to the minutes were proposed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -98,6 +102,7 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor O’Brien;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “That the Members of the Municipal District of Adare-Rathkeale having considered the draft
@@ -145,6 +150,7 @@ higher costs, suppressed economic activity and inhibits development. The
 challenge posed to Local and National Government is to allocate the resources
 essential to maintain transport networks and add new capacity as it is needed. This
 requires large scale investment and must compete with other policy priorities.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -197,6 +203,7 @@ case the local authority may recover the cost of the works from the landowner or
 occupier. It is an offence not to comply with the terms of a notice served by a local
 
 authority.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -256,6 +263,7 @@ e The process of Area Risk Categorisation has been ongoing for a number of years
 been communicated to the Fire Fighters. Discussions with the Fire Fighters Unions in
 relation to same had been taking place at national level.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -312,6 +320,7 @@ investigated along with the upgrade of the wastewater plant which was due to com
 Members noted that the issue with the foul sewer had not yet been resolved and requested to be
 kept updated on progress in relation to same.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7
@@ -364,6 +373,7 @@ decided that a further €10,000 will be reallocated from the Roads General
 Maintenance budget.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8
@@ -412,6 +422,7 @@ The Motion was seconded by Councillor Sheahan who pointed out that it was common
 spend €80,000 now compared to €1,000,000 in the future and called on the Members to continue
 to work as a team with the executive to achieve this goal. He also stressed that he was not anti
 Adare or anti investment in Adare.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -464,6 +475,7 @@ put down. The Director, Regional Services indicated that these concerns would be
 
 appropriate staff.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10
@@ -480,5 +492,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

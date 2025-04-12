@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-budget-meeting-limerick-city-and-county-council-29.11.2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 A Comhairle Cathrach
 == & Contae Luimnigh
@@ -71,6 +74,7 @@ Act 2024,
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimmeach Y @limorickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (063 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. To consider the Capital Programme 2025 to 2029 in accordance with Section 135
@@ -104,5 +108,6 @@ Section 43 of the Local Government Reform Act, 2014 and Local Government
 (Mayor of Limerick) and Miscellaneous Provisions Act 2024.
 
 (Copy of proposed Small and Medium Business Support Scheme 2025 enclosed)
+
 
 ---

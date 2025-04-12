@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-special-meeting-25.02.2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ell Cor thairle Cathrach Comhawie Catiwa pect a are
 P : 2 nwach agus Comae Luimnigh,
@@ -57,6 +60,7 @@ customerservices@limerickte
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c)
@@ -84,5 +88,6 @@ Councillor Richard O’Donoghue
 (i) Limerick 2030 Strategic Development DAC.
 (ii) Joint Policing Committee.
 (Report Enclosed)
+
 
 ---

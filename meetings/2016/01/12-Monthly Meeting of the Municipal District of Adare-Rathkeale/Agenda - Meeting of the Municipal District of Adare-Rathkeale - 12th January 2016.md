@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirdhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -47,6 +50,7 @@ To consider receiving Deputation from Rathkeale Community Council at the next Me
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach  wwewlimerickie
 Corporate Headquarters, Merchants Quay, Limerick W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 General Municipal Allocation
@@ -74,5 +78,6 @@ schools in the town also.
 public in Rathkeale during the Christmas period.
 
 Correspondence
+
 
 ---

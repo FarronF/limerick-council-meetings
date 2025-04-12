@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-2021-07-14-minutes-july.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -43,6 +46,7 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
 (b) Circulated, copy of draft Minutes of Adjourned Annual General Meeting of Municipal
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -91,6 +95,7 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 
 On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agreed to allocate
 €3,000 for upgrade works to the footbridge in Athea to Athea Tidy Towns .
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -141,6 +146,7 @@ Directorate.
 
 10. Question submitted by Councillor L. Galvin
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 | will ask at the next Meeting for (a) a detailed update on the takeover of the Rays in
@@ -188,6 +194,7 @@ projected to commence on site in Q3 2022.
 
 Councillor Galvin referred to the length of time taken to get houses into occupancy and asked
 that family type houses be considered in smaller villages in the District.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -245,6 +252,7 @@ Department of Housing, Local Government and Heritage, it takes 75 weeks to get f
 involved. The Members also referred to a number of matters including an audit of the housing
 waiting list, sewerage capacity in towns and villages for new housing developments.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Disposal of Land
@@ -292,6 +300,7 @@ REPLY: To date €25,025.36 has been spent on Gleann Daire Estate, Ardagh. In
 addition, there is an outstanding commitment of €19,739.92. (b) When the
 
 6
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -342,6 +351,7 @@ reducing\eliminating ongoing maintenance issues.
 
 7
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Outturn costs for the air-to-air heating system accounted for 15% of the average cost of the
@@ -388,6 +398,7 @@ LCCC developed a design, which aims to improve the sightlines at the Cryle View 
 Safety Section reviewed this design and were in discussions with LCCC with respect to
 proposed amendments. The necessary amendments were incorporated and on the 02/07/21
 Tit provided approval to LCCC to proceed to the next stage of the approval process.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -441,6 +452,7 @@ This item was dealt with as part of Item No. 3 on the Agenda.
 15. Notice of Motion submitted by Councillor L. Galvin
 9
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 | will move at the next Meeting that this Council replaces the chain link fence and wire in
@@ -491,6 +503,7 @@ of being relet. The maintenance of the unit while vacant is limited to necessary
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 immediate issues that require to be addressed and within the level of
@@ -538,7 +551,9 @@ Dated:
 
 11
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

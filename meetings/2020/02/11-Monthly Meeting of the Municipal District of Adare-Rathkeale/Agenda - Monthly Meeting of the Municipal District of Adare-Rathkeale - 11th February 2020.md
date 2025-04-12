@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-11th-february-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caota,
 & Contae Luimnigh Comhairte Cathrach agus —— oe
@@ -56,6 +59,7 @@ Corporate Headquarters, Merchants Quay, Limerick. v
 @LimerickCouncil
 ( 061-556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -101,6 +105,7 @@ To update Members on issues of interest in the District.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -134,5 +139,6 @@ of how the calculated cost of €70,000 was spent on the recent so called Limeri
 How was this funded and where exactly did the monies come from to support same.
 
 (Copy of Correspondence Enclosed)
+
 
 ---

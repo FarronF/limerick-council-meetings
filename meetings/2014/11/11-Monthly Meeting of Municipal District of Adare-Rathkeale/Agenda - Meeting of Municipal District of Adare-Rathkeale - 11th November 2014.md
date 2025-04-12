@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_adare-rathkeale_-_11th_november_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _———_— Seirbhis! Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -48,6 +51,7 @@ Gortadroma Landfill Site.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © weew limerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -96,6 +100,7 @@ overgrown shrubbery along the pathway, what are Limerick City and County Council
 plans to improve the condition of this pathway which currently consists of loose
 chippings, is uneven to walk on and lodges water in excessive rain.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -120,5 +125,6 @@ Notice of Motion submitted by Councillor R. O'Donoghue
 | will move at the next Meeting, in the interest of health and safety, that traffic calming
 measures be introduced in strategic locations, in consultation with the Gardai, at
 Rathkeale.
+
 
 ---

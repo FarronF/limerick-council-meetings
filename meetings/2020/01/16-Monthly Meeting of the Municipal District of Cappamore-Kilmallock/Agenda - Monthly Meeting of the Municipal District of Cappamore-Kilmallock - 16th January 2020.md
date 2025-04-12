@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%20Agenda%20Jan%202020%20MD%20Mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -63,6 +66,7 @@ Ww @LimerickCouncil
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Deputation from Bruff Grange Meanus Community Council
@@ -99,6 +103,7 @@ this Municipal District request that ESB Networks, who are responsible for the p
 of charging points, be requested to install electric vehicle charging points in towns and
 villages throughout the Municipal District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 QUESTIONS
@@ -117,5 +122,6 @@ Cappamore Kilmallock Municipal District?
 Limerick City & County Council investigate ways to prevent the illegal grazing of horses
 in the People’s Park in Kilmallock, specifically by closing off some entry points to the
 Park.
+
 
 ---

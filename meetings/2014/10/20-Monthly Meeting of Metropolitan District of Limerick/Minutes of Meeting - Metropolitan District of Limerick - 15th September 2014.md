@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/metropolitan_district_of_limerick_-_minutes_of_meeting_-_15th_september_2014.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF
 
 METROPOLITAN DISTRICT OF LIMERICK HELD IN THE
@@ -78,7 +81,8 @@ Proposed by Councillor Gilligan;
 
 Seconded by Councillor Hourigan;
 
-And Resolved:---
+And Resolved:
+---
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed,
 
 subject to the two amendments outlined above”.
@@ -145,7 +149,8 @@ Orders.
 
 The Meetings Administrator pointed out that three clear days is laid down in
 
-legislation and could not be changed.---
+legislation and could not be changed.
+---
 On the proposal of Councillor Prendiville, seconded by Councillor Byrne, it was
 
 agreed that each Member could submit 2 Notices of Motion and 3 Question for each
@@ -214,7 +219,8 @@ extinguishment of the public right-of-way.
 
 As all Members were not in agreement, a Vote was taken which resulted as follows:
 
-For---
+For
+---
 Councillors Butler, Byrne, Clifford, Collins, Crowley, Daly, Hourigan, Hurley, Leddin,
 
 Loftus, Lynch, O’Dea, O’Hanlon, Prendiville, Secas and Sheahan (16)
@@ -291,7 +297,8 @@ On the proposal of Councillor Leddin, seconded by Councillor Byrne, it was
 
 unanimously agreed to defer making a decision on this matter to allow Councillors in
 
-the area to meet with the Planners to discuss the concerns raised and, if necessary,---
+the area to meet with the Planners to discuss the concerns raised and, if necessary,
+---
 to have a second round of consultations with the residents,the various interested
 
 groups and the wider community. A Special Meeting of the Metropolitan District
@@ -374,7 +381,8 @@ Caislean na hAbhann, Castletroy – There were two developers
 
 involved in the construction of this estate, M.A. Ryan & Sons and
 
-Castlelands Construction. Both have requested that their portion of the---
+Castlelands Construction. Both have requested that their portion of the
+---
 estate be taken in charge. A snag list has been issued to M.A. Ryan &
 
 Sons who are currently working on the snag list. The snag list for the
@@ -447,7 +455,7 @@ unfinished and legacy estates were also being taken in charge.
 
 ***covered by Irish Water. Again, if Irish Water refuse, the Council should***
 
-***ensure this itself****;*
+***ensure this itself;*
 
 The Motion was proposed by Councillor Prendiville and seconded by Councillor
 
@@ -465,7 +473,8 @@ Hourigan to read as follows:
 
 The Metropolitan District of Limerick move that Irish Water immediately provide safe
 
-drinking water for all its customers in Limerick, residential, commercial and---
+drinking water for all its customers in Limerick, residential, commercial and
+---
 agricultural, and that Limerick City and County Council produce a detailed report on
 
 water quality and the location of lead piping.
@@ -546,7 +555,8 @@ agreed.
 
 ***meeting of the North Ward Area Committee of Limerick City Council it was***
 
-***agreed that the commitment given by a previous Director in 2005 to the***---
+***agreed that the commitment given by a previous Director in 2005 to the***
+---
 ***residents of 26 – 38, New Road, Thomondgate, be fulfilled and these***
 
 ***gates/fences be provided.***
@@ -635,7 +645,8 @@ extensive repairs and increase the height of the flood embankment. To
 
 date no response to this application for funding has been received from
 
-Government.---
+Government.
+---
 Limerick City and County Council has carried out repairs to damaged
 
 sections of the embankment using sandbags to stabilise this
@@ -718,7 +729,8 @@ The Motion was proposed by Councillor Leddin and seconded by Councillor Daly.
 
 ***Turning loading bays, where possible, into parking spaces after 12 noon***
 
-***each day;***---
+***each day;***
+---
 •
 
 ***Where possible that vacant buildings due to be demolished be cleared***
@@ -817,7 +829,8 @@ change some loading bays into parking bays after 12 p.m. each day.
 
 These changes will need the support and agreement of the business
 
-community, many of whom continue to get deliveries well into the---
+community, many of whom continue to get deliveries well into the
+---
 afternoon, so each loading bay will have to be looked at on a business
 
 by business basis. Limerick City and County Council has commenced
@@ -898,7 +911,8 @@ The nearest lifebuoys are located on the southside of the river, along
 
 the quay wall, near the skateboard park up to the Clarion Hotel (4
 
-lifebuoys) and at the Seaman’s Memorial Park (1 lifebuoy in the park).---
+lifebuoys) and at the Seaman’s Memorial Park (1 lifebuoy in the park).
+---
 There have been numerous emergency calls to the river for rescues at
 
 Shannon Bridge and rescue equipment would be of benefit at suitable
@@ -985,7 +999,8 @@ The Meetings Administrator agreed to circulate a copy of the Reply to Members.
 
 ***Campaign for international sanctions and an arms trade embargo on***
 
-***Israel;***---
+***Israel;***
+---
 •
 
 ***Demand the immediate end to the blockade and siege of Gaza and***
@@ -1032,7 +1047,9 @@ This concluded the Meeting.
 
 **MAYOR**
 
-**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

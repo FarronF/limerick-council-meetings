@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 we Comhairle Cathrach combane Seirbhisi Corpardideachs,
 
@@ -65,6 +68,7 @@ regarding Garda resources in Limerick city’.
 www. timerick,
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Rebrctrre si
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -140,5 +144,6 @@ Question submitted by Maurice Quiniivan. T.D
 ‘| will ask at the next Meeting for an update on the number of seizures and arrests that have
 arisen to date from the ongoing Garda operation ‘Operation Copdg’ related to St. Mary's
 Park’.
+
 
 ---

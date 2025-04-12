@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_adare-rathkeale_-_agenda_10_june_2014_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 . ——
 Limerick
@@ -43,5 +46,6 @@ Environment, Community and Local Government Enclosed)
 
 Hay Cé na gCeannaithe, Luimneach t: 061 407100 ¢. info@limerickcity.ie
 ». ie Merchant's Quay, Limerick f. 061 415266 ve: veww. timerickcity.le
+
 
 ---

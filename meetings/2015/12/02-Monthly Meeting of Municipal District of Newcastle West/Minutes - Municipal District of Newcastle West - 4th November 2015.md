@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
@@ -48,6 +51,7 @@ provision of toilet facilities in the Resource Centre. Cost of repair to Arboret
 The Cathaoirleach thanked members of the Deputation for their presentation and asked that
 they correspond with the Newcastle West office outlining the content of the presentation. The
 members of the Deputation then withdrew from the Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -107,6 +111,7 @@ priority enhancement measures as follows:
 > Installation of appropriate soft landscaping features.
 > General cleaning/repair to footpaths.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -158,6 +163,7 @@ REPLY: Signage ordered and to be erected as soon as possible.
 8. Question submitted by Councillor L. Galvin
 
 1 will ask at the next Meeting if the low wall at Harnetts Funeral Home Abbeyfeale can be
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -212,6 +218,7 @@ of 11" of September, 2015 showing the extent of the flooding. He suggested that 
 Roads Authority be asked to look at the road. Councillor Scanlan in seconding the Motion
 stated that he agreed that flood waters needed to be monitored.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -250,5 +257,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%2014th%20May%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
@@ -40,6 +43,7 @@ Seconded by Councillor Teskey;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -85,6 +89,7 @@ provided to the family should they so wish and also advised the overall plan for
 village will be going for public consultation and any recommendations from the public
 will be taken into consideration.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Design and Delivery Services
@@ -125,6 +130,7 @@ Circulated, report of the Senior Executive Engineer, Service Operations West Div
 
 dated 1* May, 2019 giving an update in relation to the Sli na Slainte, Askeaton. All
 Members welcomed the progress.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -177,6 +183,7 @@ to allocate the following:
 * €3,000 to Driver Feedback Signs for Foynes.
 © €1,000 to Cappagh U14 Feilé na nOg.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 @ €2,500 to the Foynes Museum.
@@ -224,6 +231,7 @@ employment for general operatives 2019.
 REPLY: The competition to establish a panel for General Operatives has now
 closed for applications, and a shortlisting process is underway.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICE OF MOTION
@@ -259,5 +267,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

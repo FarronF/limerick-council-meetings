@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_19th_december_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —
 c—
@@ -77,6 +80,7 @@ Football Club.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -122,6 +126,7 @@ Question submitted by Councillor Cian Prendiville
 | will ask at the next Meeting if the vacant sites at the old Dunnes on Liddy Street, the
 Robert Street site beside the Milk Market and the abandoned Horizon Mall development
 site have been investigated recently to see if they qualify as derelict sites?
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -183,6 +188,7 @@ Notice of Motion submitted by Councillor Elena Secas
 Limerick Smarter Travel, to extend the City to UL Riverbank Cycle/Walkway to cover the
 Castletroy and Annacotty Area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 16.
@@ -230,5 +236,6 @@ Areas in Limerick.
 Corr: nden
 
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-08/00%202022-08-03%20Agenda%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West_1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ___— Comhairle Cathrach
 & Contae Luimnigh
@@ -56,5 +59,6 @@ Corporate Headquarters, Merchant's Quay, Limerick
 & customerservices@limerickie
 
 ( 061 - 556 000
+
 
 ---

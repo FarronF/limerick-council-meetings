@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20for%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2029th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Seirohisi Corparaéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -53,6 +56,7 @@ of the Planning and Development Act 2000 (as amended).
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach oo) www limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Environment and Water Services
@@ -62,5 +66,6 @@ Services dated 24" July, 2015 regarding Eastern and Midlands Region -
 Proposed Water Supply Project Options Working Paper.
 
 (Report Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01b-draft-minutes-annual-meeting-28th-june-2024.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER,** **MERCHANT’S QUAY** **AND ONLINE, ON FRIDAY, 28TH** **JUNE, 2024**

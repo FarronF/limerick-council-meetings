@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20for%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20August%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -49,5 +52,6 @@ Proposed Water Supply Project Options Working Paper.
 @ customerservices@limerickie
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwiimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

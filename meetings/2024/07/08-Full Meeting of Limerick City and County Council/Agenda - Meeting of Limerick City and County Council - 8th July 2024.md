@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-meeting-of-limerick-city-and-county-council-08.07.2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach Seirbnisi Corparéideacha,
 . Comhairle Cathrach agus Contae Luimnigh,
@@ -60,6 +63,7 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Support Services
@@ -112,6 +116,7 @@ members of the Limerick Market Trustees (annual appointment).
 Member representing Limerick City East to the Board of PAUL
 Partnership - Members representing Limerick City West and Limerick
 City North having been appointed at the Annual Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -179,6 +184,7 @@ Climate Action, Biodiversity and Environment Strategic Policy
 Committee.
 Note: No meeting held since last Chairperson’s report.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -224,6 +230,7 @@ I will ask at the next Meeting of Limerick City and County Council how many Coun
 
 houses are vacant at the moment and further, have been empty for each of the last 5
 years.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -280,6 +287,7 @@ Notice of Motion submitted by Councillor C, Slattery
 | will move at the next Meeting that we, as a Council, write to the Minister for Justice
 and ask that the law be changed for victims of violent assault.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 18.
@@ -331,6 +339,7 @@ Notice of Motion submitted by Councillor S, Hartigan
 Darragh O’Brien to express dissatisfaction with his approval of plans to abstract water
 from the River Shannon to supply Dublin and other counties.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 by Councillor E. Secas
@@ -351,5 +360,6 @@ in our county and the solutions needed to sort these out and have a report weekl
 the people impacted about progress and a plan to sort this out.
 
 Correspondence
+
 
 ---

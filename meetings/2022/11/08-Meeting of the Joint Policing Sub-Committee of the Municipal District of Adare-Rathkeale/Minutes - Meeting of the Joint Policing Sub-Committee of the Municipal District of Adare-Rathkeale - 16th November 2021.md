@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Minutes%20JPC%2016th%20November%202021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE JPC SUBCOMMITTEE HELD IN THE RATHKEALE HOUSE, RATHKEALE, CO.**

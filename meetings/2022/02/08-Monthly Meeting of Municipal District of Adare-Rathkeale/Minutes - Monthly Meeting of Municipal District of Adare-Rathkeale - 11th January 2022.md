@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-minutes-of-monthly-meeting-11th-january-2022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD ON TUESDAY, 11TH** **JANUARY, 2022 AT 10.00 A.M.**

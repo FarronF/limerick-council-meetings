@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%20Thursday%2015th%20October%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corparaideacha agus Batnistiocht Athruithe.
 ee Comhairle Cathrach agus Contae Luimnigh
@@ -55,6 +58,7 @@ Update on towns and villages in Municipal District of Cappamore-Kilmallock.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wow limerick.te
 Corporate Headquarters, Merchants Quay, Limerick we
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -104,6 +108,7 @@ Notice of Motion submitted by Councillor Teefy
 Hogans Cross, Herbertstown on the R513 at the junction with L1139 to Herbertstown and
 L1140 to Bruff.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Notice of Motion submitted by Councillor Sheehy
@@ -113,7 +118,9 @@ the misleading signage at Drakes Cross, Glenroe.
 
 12. Correspondence
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

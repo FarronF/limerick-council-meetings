@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%20Agenda%2011th%20June%202019%20Special%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7 Comhairle Cathrach
 & Contae Luimnigh
@@ -53,5 +56,6 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe,Lutmneach
 Corporate Headquarters, Merchants Quay, Limerick.
 
 & customerservices@limerick.te
+
 
 ---

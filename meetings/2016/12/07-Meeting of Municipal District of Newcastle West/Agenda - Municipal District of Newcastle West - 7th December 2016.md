@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_newcastle_west_-_7th_december_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Seirbhis! Corpardideacha,
 Comhairte Cathrach agus Contae Luimnigh.
@@ -51,6 +54,7 @@ To receive deputation from Abbeyfeale Community Council.
 @ werwtimerickic
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -108,6 +112,7 @@ the Industrial Landbank at Tarbert/Ballylongford, the Power Station in Tarbert, 
 manufacturing businesses in Glin and the future possibility that the people of Glin Town
 would have access to domestic gas supply.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13.
@@ -128,5 +133,6 @@ libraries play in providing a safe environment where the values of equality and 
 thrive and we oppose any plans to introduce staff less libraries in Newcastle West;
 
 Abbeyfeale, Dromcollogher and Glin.
+
 
 ---

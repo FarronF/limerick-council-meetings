@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/00-agenda-annual-meeting-of-limerick-city-and-county-council-21st-june-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach
 & Contae Luimnigh
@@ -77,6 +80,7 @@ Municipal District of Cappamore-Kilmallock — Thursday, 27" June, 2024, at 3pm.
 Ww @LimerickCouncil
 ( 061 - 857180
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5.
@@ -132,6 +136,7 @@ of West Limerick Resources CLG. (correspondence enclosed)
 
 To consider the nomination of 2 Members of Limerick City and County Council to the Board
 of Ballyhoura Development CLG.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -192,6 +197,7 @@ Board.
 
 To consider the nomination of 3 Members to the Audit and Risk Committee.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 28.
@@ -225,5 +231,6 @@ Steering Group.
 
 To agree a date for the July Meeting of Limerick City and County Council (suggested date of
 8" July, 2024.)
+
 
 ---

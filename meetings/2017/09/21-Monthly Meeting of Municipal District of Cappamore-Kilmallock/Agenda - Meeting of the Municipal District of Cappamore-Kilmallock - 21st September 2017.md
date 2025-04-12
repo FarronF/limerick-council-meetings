@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%20Meeting%20210917.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach
 & Contae Luimnigh
@@ -77,6 +80,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @LimerickCouncil
 (061 - 87150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -113,6 +117,7 @@ Support Services Directorate
 
 To note proposal for the establishment of Geographical Sub-Committee of the Joint
 Policing Committee and to agree arrangements for Sub-Committee Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -157,5 +162,6 @@ regulations and, consequently, Hospital remains static and cannot expand into th
 future.
 
 Correspondence.
+
 
 ---

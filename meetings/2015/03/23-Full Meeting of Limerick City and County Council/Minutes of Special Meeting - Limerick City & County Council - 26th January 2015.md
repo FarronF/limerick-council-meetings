@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Special%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2026th%20January%202015.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE

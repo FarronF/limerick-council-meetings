@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -49,6 +52,7 @@ To receive deputation from Broadford Development Association.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © www imerick.te
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -96,6 +100,7 @@ immediately conduct a Safety Study on the stretch of the R 522 between Pallas Fo
 and Ambrose's entrance with particular emphasis being placed on the significant safety
 risks at Daar Bridge.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -123,5 +128,6 @@ Authority regarding immediate flood relief programme, if required.
 bridge at Knocknagorna Athea.
 
 Correspondence
+
 
 ---

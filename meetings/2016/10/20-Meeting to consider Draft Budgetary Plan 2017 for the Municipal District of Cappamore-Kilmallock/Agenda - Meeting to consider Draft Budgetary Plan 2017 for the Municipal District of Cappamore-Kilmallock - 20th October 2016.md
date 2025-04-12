@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_draft_budgetary_plan_meeting_20th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __——_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -39,5 +42,6 @@ Kilmallock.
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach  wwwlimerickte
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

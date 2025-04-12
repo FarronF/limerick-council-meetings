@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/agenda-special-meeting-of-limerick-city-and-county-council-26th-august-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Seirdhisi Corpardideacha,
 ee ; am : Comhairle Cathrach agus Contee Luimnigh,
@@ -49,5 +52,6 @@ Miscellaneous Provisions Act, 2024.
 
 aan eee Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - $$7150
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——
 
@@ -90,5 +93,6 @@ Corporate Headquarters,
 Quay, Limerick
 
 ( 061 - 557150
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -54,6 +57,7 @@ To hear update on the Proposed Scheme in advance of Part VIII advertisement.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ vewew imerickie
 Corporate Headquarters, Merchants Quay, Limerick  @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -105,5 +109,6 @@ Kildimo on the N69 with suitable LED lights, in the interests of safety.
 Correspondence
 
 N
+
 
 ---

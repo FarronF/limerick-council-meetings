@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_minutes_of_meeting_3rd_september_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
@@ -47,6 +50,7 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor Galvin;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “That, the approval of the District be and is hereby given to the making of Standing Orders
@@ -93,6 +97,7 @@ off the fast lane, at the top of Barnagh gap.
 
 In reply, the Senior Executive Engineer indicated the matter was outside the scope of the
 present scheme but that the Council’s Roads Section would investigate the matter.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -145,6 +150,7 @@ can be repaired.
 REPLY A Meeting would be arranged on site in the coming week with Councillor
 
 Galvin.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -200,6 +206,7 @@ designed. Consideration will be given to customer confidentiality in the new
 
 design
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13.
@@ -251,6 +258,7 @@ for 2015/2016. This would also involve land takes.
 
 Mr. P. Vallely, Executive Engineer added that he would discuss the matter with the
 land owner.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -310,6 +318,7 @@ and the issue be brought to the full Council.
 Members requested that Superintendent be invited to attend a meeting of Municipal
 District of Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Local Government Reform Act 2014
@@ -327,5 +336,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

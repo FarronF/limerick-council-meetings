@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%2019th%20November%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -76,6 +79,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -120,6 +124,7 @@ development levy debtors as at 31/12/2016.
 
 Could you please now provide a breakdown of the development levies included in this
 amount for Limerick City and outline how much of this figure will be recovered.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -175,6 +180,7 @@ I will move at the next meeting that Limerick City and County Council call on th
 to give back control and operation of all water services to City and County Councils
 throughout the State.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -192,5 +198,6 @@ throughout the City for recycling plastic bottles.
 
 17. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

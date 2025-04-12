@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-agenda-for-the-december-meeting-of-the-joint-policing-committee-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 irl y; Comhairle Cathwach agus Contae Luirnnigh,
 _ ne, peepee Oifig an Cheantay, Aras Mhainchin Seoighe,
@@ -51,5 +54,6 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office vy
 
 (063 980 19
+
 
 ---

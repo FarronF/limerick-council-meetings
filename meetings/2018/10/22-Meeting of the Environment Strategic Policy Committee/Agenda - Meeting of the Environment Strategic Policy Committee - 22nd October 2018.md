@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/22nd%20October%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee%202_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -20,6 +23,7 @@ CHAIRPERSON OF THE ENVIRONMENT STRATEGIC POLICY COMMITTEE
 RECTOR O
 
 PHYSICAL DEVE ENT DIRECTORATE
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -57,5 +61,6 @@ to curtail the water supply in parts of the country next week, that this Council
 Water requesting that it address the various longstanding leaks in the City and County,
 
 particularly the leaks in Islanduane, Mungret.”
+
 
 ---

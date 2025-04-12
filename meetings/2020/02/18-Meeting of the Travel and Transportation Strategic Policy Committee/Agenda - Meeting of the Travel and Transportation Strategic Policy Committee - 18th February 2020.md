@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-travel-transportation-spc-meeting-18.02.20.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -21,6 +24,7 @@ Brian Kennedy
 
 DIRECTOR OF SERVICE,
 PHYSICAL DEVELOPMENT DIRECTORATE
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -63,5 +67,6 @@ charging points, be requested to install electric vehicle charging points in tow
 throughout the Municipal District”.
 
 11. Correspondence:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20%28i%29%20Agenda%20Adjourned%20September%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_—_—_ Comhairle Cathrach
 = & Contae Luimnigh
@@ -63,5 +66,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 @LimerickCouncil
 (061 - 557150
+
 
 ---

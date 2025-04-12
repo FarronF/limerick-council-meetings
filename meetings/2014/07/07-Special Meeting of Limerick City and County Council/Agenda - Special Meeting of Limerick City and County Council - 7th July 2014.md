@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/special_meeting_of_limerick_city_and_county_council_-_agenda_07_july_2014.pdf)
+
+---
 **Date: 2nd** **July, 2014.**
 
 **Corporate Services.**

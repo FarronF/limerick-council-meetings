@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Special-Meeting-of-Municipal-District-of-Newcastle-West-19th-May-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 Comhairle Cathvach agus Contae Luimnigh,
@@ -53,5 +56,6 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 @LimerickCouncil
 ( 061 - 856 000
+
 
 ---

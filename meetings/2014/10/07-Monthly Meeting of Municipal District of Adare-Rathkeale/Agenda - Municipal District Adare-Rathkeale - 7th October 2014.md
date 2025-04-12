@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_7th_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -51,6 +54,7 @@ Update on Housing Repairs Programme.
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach © wwwaAimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Travel and Transportation
@@ -75,5 +79,6 @@ Notice of Motion submitted by Councillor T. Neville
 
 | will move at the next Meeting that the Council erect electronic speed indicators in
 Kilfinny village.
+
 
 ---

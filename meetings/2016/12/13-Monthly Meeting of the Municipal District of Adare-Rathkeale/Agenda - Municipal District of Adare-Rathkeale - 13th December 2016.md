@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_13th_december2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -60,6 +63,7 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 General Municipal Allocation 2016
@@ -106,6 +110,7 @@ Question submitted by Councillor E. O'Brien
 safety measures at Kilcornan National School.
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -127,5 +132,6 @@ Notice of Motion submitted by Councillor E. O'Brien
 Way along the Shannon Estuary to Limerick City.
 
 Correspondence
+
 
 ---

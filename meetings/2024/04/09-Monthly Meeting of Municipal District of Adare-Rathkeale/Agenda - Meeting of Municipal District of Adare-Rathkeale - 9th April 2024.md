@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-9th-april-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ie Comhairle Cathrach
 & Contae Luimnigh
@@ -66,6 +69,7 @@ To note proposal for the disposals as follows:
 Ceanncheathri Chorparaideach, Cé na gCeannaitheLuimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) Disposal of 0.00099 acres (0.0004 ha) of land at Camoge Park, Skagh, Croom, Co.
@@ -107,6 +111,7 @@ as a matter of urgency due to their immense poor condition.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10. Notice of Motion submitted by Councillor J. O’Donoghue
@@ -119,5 +124,6 @@ Rathkeale Municipal District.
 (Copy of Correspondence Enclosed).
 
 12. A.O.B
+
 
 ---

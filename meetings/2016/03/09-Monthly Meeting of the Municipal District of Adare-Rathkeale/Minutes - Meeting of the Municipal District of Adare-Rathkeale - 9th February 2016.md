@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20February%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
@@ -48,6 +51,7 @@ Councillor Sheahan noted that insurance companies were refusing to insure proper
 damaged by flooding or charging exorbitant rates for same. He also noted that some insurance
 companies were refusing to insure properties that had not flooded previously but were deemed at
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -96,6 +100,7 @@ for the return of glass bottles would help to keep streets clean.
 
 With the Cathaoirleach’s permission, it was agreed that Item 6 would be taken at this stage of the
 Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -150,6 +155,7 @@ Council's assistance with the project.
 Members thanked the Deputation for their presentation and indicated that they were fully
 supportive of the development.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Next District Meeting
@@ -202,6 +208,7 @@ suggested that pedestrian crossings should be included in such a report.
 Councillor Neville noted that considerable investment had been made by the Council in Limerick
 City and stressed the need for funding to be made available to upgrade Rathkeale which was the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -253,6 +260,7 @@ required works and the amount of the bond recovered and what plans were in place
 
 outstanding issues.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 9. Flooding Issues
@@ -303,5 +311,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

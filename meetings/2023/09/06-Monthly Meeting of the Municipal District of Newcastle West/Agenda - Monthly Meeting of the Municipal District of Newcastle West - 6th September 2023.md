@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Duiiche Bardais an Chaisledin Nua Thiay,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
@@ -57,6 +60,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -111,6 +115,7 @@ Councillor T.
 especially around South Quay and The Square targeting loose cobbles and moss
 growing. A number of constituents have been in contact about this.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13.
@@ -150,5 +155,6 @@ Notice of Motion submitted by Councillor Collins
 ! will move at the next Meeting that Limerick City and County Council will take in
 charge and put the laneway from Gortboy to the Desmond Complex beside the
 Courtenay School into a safe and usable condition for the people using it.
+
 
 ---

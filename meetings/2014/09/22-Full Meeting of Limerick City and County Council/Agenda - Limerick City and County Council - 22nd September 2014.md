@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20limerick_city_and_county_council_meeting_agenda_-_monday_22nd_september_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -68,6 +71,7 @@ To consider proposal for the disposal of land at:
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © vevevelimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Finance
@@ -103,6 +107,7 @@ Chief Executive already circulated)
 (iii) To approve transfer, from Revenue to Capital Reserve, amounts for “Pension
 Gratuities" to fund future gratuity costs.
 (Report already circulated)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -146,6 +151,7 @@ To consider the adoption of the Limerick City and County Council 2013 Annual
 
 Report.
 (Annual Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -202,6 +208,7 @@ To appoint a Chairperson to the Local Traveller Accommodation Consultative
 Committee.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Economic Development and Planning
@@ -242,6 +249,7 @@ Civil Defence Headquarters.
 To consider approving recommended Grants under the Arts Act, 2003.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -310,6 +318,7 @@ with the unfair penalties sought under NPPR; how can this tax be collected in so
 different modes across the country with discounts being offered by some Council areas
 but not in Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -356,6 +365,7 @@ Notice of Motion submitted by Councillors M. Quinlivan, S. Browne,
 
 We will move at the next Meeting that Limerick City and County Council use its powers
 under current legislation to reduce the Local Property Tax by 15%.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -409,6 +419,7 @@ amalgamate the Bin Waiver Scheme that operates in the City with the Bin Voucher
 Scheme that operates in the County so as to treat all citizens of the amalgamated
 Authority equally.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 23.
@@ -458,6 +469,7 @@ Notice of Motion submitted by Councillor C. Prendiville
 opposition to the planned introduction of water charges, and supports the people of
 Limerick who actively resist and oppose this unjust tax.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Notice of Motion submitted by Councillor J. Loftus
@@ -467,5 +479,6 @@ participating in any further Gateway/JobBridge Schemes.
 
 30. Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

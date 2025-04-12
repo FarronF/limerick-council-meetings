@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-special-meeting-of-the-municipal-district-of-adare-rathkeale-8th-april-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach
 & Contae Luimnigh
@@ -57,5 +60,6 @@ Municipal District.
 Ceanncheathra Chorpardéideach, Cé na gCeannaithe,Luimneach
 
 Corporate Headquarters, Merchants Quay, Limerick.
+
 
 ---

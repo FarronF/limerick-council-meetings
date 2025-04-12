@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_-_limerick_city_and_county_council_-_6th_june_2014.pdf)
+
+---
 **Corporate Services.**
 
 **Seirbhísí Corparáideacha.**

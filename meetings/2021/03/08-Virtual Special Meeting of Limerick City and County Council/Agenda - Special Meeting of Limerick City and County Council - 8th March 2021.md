@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-special-council-meeting-08.03.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Comhairle Cathrach
 & Contae Luimnigh
@@ -57,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 %
@@ -72,5 +76,6 @@ Cllr. Elena Secas
 Cllr. Conor Sheehan
 Clir. Fergus Kilcoyne
 Cllr. Eddie Ryan
+
 
 ---

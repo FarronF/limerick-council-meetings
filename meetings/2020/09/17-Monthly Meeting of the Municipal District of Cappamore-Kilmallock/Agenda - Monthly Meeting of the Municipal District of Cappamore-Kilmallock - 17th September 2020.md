@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-agenda-sept-2020-mthly-mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
@@ -47,6 +50,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W alimerickC
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. National & Regional Services Directorate
@@ -86,6 +90,7 @@ prune same as soon as possible.
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
 the Office of Public Works complete a feasibility flood risk solution for the area,
 including tributaries of the Loobagh and Maigue Rivers.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -129,6 +134,7 @@ Irish Water provide a list of available capacity at Sewerage Treatment Plants in
 Cappamore-Kilmallock Municipal District to assist in the deliberations on the
 Development Plans that will have to be dealt with in the near future.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13. Question submitted by Councillor Martin Ryan
@@ -136,5 +142,6 @@ Development Plans that will have to be dealt with in the near future.
 ! will ask at the next meeting of the Municipal District of Cappamore-Kilmallock for an
 update on Bruree regarding planning enforcement on the railings and any feedback
 from Irish Rail on Bridge and land ownership.
+
 
 ---

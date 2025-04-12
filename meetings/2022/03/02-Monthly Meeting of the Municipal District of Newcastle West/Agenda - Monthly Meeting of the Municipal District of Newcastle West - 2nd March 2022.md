@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-2022-03-02-agenda-march.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ Comhairle Cathrach Duiiche Bardais an Chaisledin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contae Lulmnigh.
@@ -55,6 +58,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 ( 061 - $86 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (d) To note proposal for the disposal of 1— 10 Cois Na Féile, Abbeyfeale, Co.
@@ -100,6 +104,7 @@ To receive Update on Distributor Roads for Newcastle West and Abbeyfeale.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -141,5 +146,6 @@ out to Dalton’s Cross on the N21 at Abbeyfeale.
 
 | will move at the next Meeting that either the Housing Agency or our Local Authority
 accommodate the provision of land for Private Sector Affordable Homes.
+
 
 ---

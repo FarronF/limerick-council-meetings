@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Agenda%20JPC%20District%20Subcommittee%20Meeting%20%281%29.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_— Comhairle Cathrach - — a
 & Contae Luimnigh omni chat 2a ety
@@ -45,5 +48,6 @@ Policing Issues
 
 Ceanncheathri Chorpardéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
+
 
 ---

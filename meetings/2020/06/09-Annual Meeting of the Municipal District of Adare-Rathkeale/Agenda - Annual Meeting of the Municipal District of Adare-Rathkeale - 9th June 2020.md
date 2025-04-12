@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020-annual.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Comhairie Cathrach
 & Contae Luimnigh
@@ -55,5 +58,6 @@ office until the next Annual Meeting or until a successor has been elected.
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach
 Corporate Headquarters, Merchants Quay, Limerick.
+
 
 ---

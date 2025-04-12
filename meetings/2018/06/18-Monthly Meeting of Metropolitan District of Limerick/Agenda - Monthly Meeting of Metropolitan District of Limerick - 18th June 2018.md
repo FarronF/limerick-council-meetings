@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2018th%20June%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha,
 
@@ -58,6 +61,7 @@ Raheen Men’s Shed Limited.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -116,6 +120,7 @@ Sexton Street North (2 units) and Quarry Road (3 units), Limerick.
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -167,6 +172,7 @@ Question submitted by Councillor J. Leddin
 | will ask at the next meeting that Limerick Metropolitan Council provide an update on those
 sites currently listed in the vacant sites register and to supply a copy of the current register
 to Members for consideration.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -231,5 +237,6 @@ attention.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

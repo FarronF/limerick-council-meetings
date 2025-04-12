@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_newcastle_west_-_9th_november_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
@@ -47,6 +50,7 @@ Great Southern Trail
 
 The Senior Executive Officer, Economic Development, gave an update to Members on the Great
 Southern Trail under the following headings:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -108,6 +112,7 @@ Proposed by Councillor Scanlan;
 Seconded by Councillor Galvin;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “That, in accordance with Sections 54 and 55 of the Planning and Development Act 2000 (as
@@ -159,6 +164,7 @@ contact was made with the current local provider was stressed.
 
 Councillor Collins stated that as he had not been present at the previous Meeting he wished to
 place on record that he was in agreement with the terms of reference as set out.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -215,6 +221,7 @@ will be considered later this year dependent on the availability of funding.
 9. Question submitted by Councillor J. Scanian
 
 1 will ask at the next Meeting for an update on the following derelict sites, namely (a) 15
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -273,6 +280,7 @@ Fund or GMA Roads funding.
 Footpath renewal works along Bishop Street, Newcastle West are to commence
 within the next two weeks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12. Question submitted by Councillor M. Collins
@@ -328,6 +336,7 @@ calming measures installed at Templeglantine in light of the recent serious acci
 
 In proposing the Motion Councillor Galvin stated that the traffic calming works were welcome
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7
@@ -382,6 +391,7 @@ improvements are required including land purchase.
 1 will move at the next Meeting that a full structural evaluation and immediate remedial
 works be carried out by Irish Water on the water reservoir in Glin, which is leaking profusely.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councillor Sheahan in proposing the Motion stated that works were required immediately on
@@ -430,5 +440,6 @@ Signed:
 
 Cathaoirleach
 Dated:
+
 
 ---

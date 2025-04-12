@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/Supplementary%20Item%20-%20September%20Council%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ Comhairle Cathrach
 
@@ -62,5 +65,6 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmmeach y
 
 @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061- 557150
+
 
 ---

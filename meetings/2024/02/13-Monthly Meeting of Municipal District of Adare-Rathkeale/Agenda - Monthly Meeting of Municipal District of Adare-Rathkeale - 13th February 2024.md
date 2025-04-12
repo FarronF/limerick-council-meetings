@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-monthly-meeting-of-municipal-district-of-adare-rathkeale-13th-february-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 el Comhairle Cathrach
 & Contae Luimnigh
@@ -65,6 +68,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Disposal of Land
@@ -111,6 +115,7 @@ District Engineers Report
 
 To update Members on issues of interest in the District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -136,5 +141,6 @@ ask if there are any current regulations of Wind Turbine noise and Wind Turbine 
 flickers, if not, are there any plans to introduce regulations.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

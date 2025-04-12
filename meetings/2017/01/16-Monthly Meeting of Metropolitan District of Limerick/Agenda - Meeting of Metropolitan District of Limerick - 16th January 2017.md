@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_2017-01-16.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——
 
@@ -83,6 +86,7 @@ w @LimerickCouncil
 
 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -128,6 +132,7 @@ Notice of Motion submitted by Cmhir. Séighin O Ceallaigh
 1 will call at the next Meeting for a traffic study to be conducted on the entire Childers
 Road, particularly focusing on peak hour and weekend traffic.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -163,5 +168,6 @@ Notice of Motion submitted by Councillor Paul Keller
 | will move at the next Meeting that, following the IBAL survey, again highlighting problems
 with flytipping and littering in the Galvone area, a review and report is carried out on the
 measures that will be undertaken to resolve this issue.
+
 
 ---

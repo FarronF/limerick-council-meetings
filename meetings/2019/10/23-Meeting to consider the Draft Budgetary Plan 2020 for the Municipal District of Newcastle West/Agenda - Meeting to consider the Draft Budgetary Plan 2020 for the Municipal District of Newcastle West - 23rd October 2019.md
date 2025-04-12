@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%202019-10-23%20Agenda%20Draft%20Budget%20Plan%202020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —_—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -49,5 +52,6 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach = © vewwlirmerickie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
+
 
 ---

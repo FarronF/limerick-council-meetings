@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_rathkeale_area_committee_meeting_-_01_may_2014.pdf)
+
+---
 Minutes of Rathkeale Area Committee Meeting
 
 held in Áras Sean Finn,

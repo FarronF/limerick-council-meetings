@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-2020-11-04-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i Duiche Bardais an Chaisieain Nua Thiar,
 _ — pact eect Comhairle Cathrach agus Contee Lulmnigh,
@@ -60,6 +63,7 @@ West, Co. Limerick, to Angela Power.
 Cean Choi ideach, Cé na gCeannaithe, Luimneach weewlimerick.ie
 Cupeaie aise Merchant's Quay, Limerick VW @limorickCounctl
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c) To note proposal for the disposal of property at Templeathea West, Athea,
@@ -106,6 +110,7 @@ Notices of Motion submitted by Councillor J. Scanian
 | will move at the next Meeting that a delivery bay be provided along Lower Bridge
 Street, Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -125,5 +130,6 @@ Mountcollins, Co. Limerick.
 systems recently installed in our housing stock.
 
 Correspondence
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20March%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “al Comhairle Cathrach Comnsitie cemeeheune Sone eareian
 & Contae Luimnigh Ceanncheathra Chorparaideach,
@@ -49,6 +52,7 @@ Planning and Development Act, 2000 (as amended), at:
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - $57150
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -108,6 +112,7 @@ To consider the Audit and Risk Committee’s Work Programme 2023.
 
 (Report and copy of Work Programme Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (4)
@@ -163,6 +168,7 @@ To consider Draft Annual Report 2022.
 
 (Report and Draft Annual Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (i)
@@ -216,6 +222,7 @@ circulated to all Council Members in advance of the March Meeting and
 that they be invited to make submissions on same. A Report on
 submissions would be made available at the March Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Recommendation No. 3
@@ -254,6 +261,7 @@ Housing Finance Agency.
 
 To note the Development Fund Allocations for 2023.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -299,6 +307,7 @@ situations where commercial property owners convert their vacant commercial
 properties to residential units, either a grant be made available or tax relief be applied
 to defray a portion of the costs involved in the conversion of the property by the
 Department of Housing.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -350,6 +359,7 @@ Minister for Housing, Local Government and Heritage to review the Derelict Sites
 1990, in accordance and with respect to property rights as determined in Article 40.3.2
 and Article 43 of Bunreacht na hEireann.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -363,5 +373,6 @@ Minister for Health asking that immediate access be granted to Kaftrio for the 3
 children in Ireland with Cystic Fibrosis excluded from accessing this drug.
 
 Correspondence
+
 
 ---

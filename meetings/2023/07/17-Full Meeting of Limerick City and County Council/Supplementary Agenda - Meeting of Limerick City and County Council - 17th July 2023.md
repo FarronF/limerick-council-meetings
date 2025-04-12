@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-i-Supplementary-Item-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —__ Comhairle Cathrach
 & Contae Luimnigh
@@ -59,5 +62,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 © weorwlimerick.ie
 
 (061 - 557180
+
 
 ---

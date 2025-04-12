@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_30th_march2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -47,5 +50,6 @@ To Finalise Distribution of General Municipal Allocation (GMA) Monies.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
+
 
 ---

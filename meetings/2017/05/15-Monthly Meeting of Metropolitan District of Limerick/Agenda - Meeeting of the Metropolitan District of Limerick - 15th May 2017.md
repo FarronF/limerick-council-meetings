@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%2015th%20May%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _———_—_— Seirbhisi Corparéideacha,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -58,6 +61,7 @@ Upper Careys Road in the City of Limerick.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach vy
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -105,6 +109,7 @@ Question submitted by Councillor M. McCreesh
 underway for the Dock Road and the plans to include the Raheen, Dooradoyle and Mungret
 areas as part of a greater traffic study for Limerick that was due to commence in 2017.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -143,5 +148,6 @@ housing stock, given we have such a lack of units throughout the city.
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

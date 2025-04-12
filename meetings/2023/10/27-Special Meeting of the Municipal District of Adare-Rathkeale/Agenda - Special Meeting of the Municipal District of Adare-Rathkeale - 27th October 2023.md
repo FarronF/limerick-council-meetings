@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-27th-October-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_— Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 . : Comhairie Cathvach agus Contae Lutmnigh,
@@ -50,5 +53,6 @@ To discuss water quality issues in Foynes.
 Ceanncheathni Chorparaideach, Cé na gCeannaithe,Luimneach 1 @ weewslimerickie
 Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
 \ 061 - 586 000
+
 
 ---

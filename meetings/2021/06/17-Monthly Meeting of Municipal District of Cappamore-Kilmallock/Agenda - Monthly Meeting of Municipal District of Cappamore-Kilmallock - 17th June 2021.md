@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-17th-june-2021-monthly-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh O¥fg art Cheantaiy, Aras Mhaiichin Seoighe,
@@ -67,6 +70,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office ¥
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Notice of Motion submitted by Councillor PJ Carey
@@ -108,5 +112,6 @@ Ardykeohane to the main street in the town.
 
 | will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update on
 the planned replacement of the existing old and damaged street signage in Kilmallock town.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
@@ -46,6 +49,7 @@ selection process for the orange route, be made available to the public as soon 
 that the closing date for submissions be extended to a date after the publication of the executive
 summary. This was seconded by Councillor Neville.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -93,6 +97,7 @@ QUESTIONS
 | will ask at the next Meeting for a progress update on the proposal requesting something to be
 done on Askeaton and the lack of employment opportunities for people without adequate
 training.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -145,6 +150,7 @@ roads, they were in a position to install pedestrian crossings on roads in their
 that there were a number of national schools in the district in need of pedestrian crossings and
 work on same should be commenced.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 In seconding the Motion, Councillor O’Brien indicated that pedestrian crossings were beneficial for
@@ -189,6 +195,7 @@ lack of powers available to the Fire Authority to deal with the associated fire 
 Sheahan, seconded by Councillor O'Donoghue proposed that legislation be enacted that would
 allow Fire Authorities to deal with any hazards associated with these gas bottles and that the
 Minister be written to in this regard.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -236,6 +243,7 @@ were walking land with their dogs and causing a nuisance. They indicated that al
 chipped and licensed. The Director, Regional Services, indicated that it was a civil matter if dogs
 were being walked on private land.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councillor Neville indicated that in the mornings the stop/go system for traffic going into Limerick
@@ -251,5 +259,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

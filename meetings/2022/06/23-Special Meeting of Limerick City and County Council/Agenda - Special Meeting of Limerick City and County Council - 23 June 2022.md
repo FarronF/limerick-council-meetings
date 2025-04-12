@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Special-Meeting-of-Council-23-June-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —_— Comhairle Cathrach P a Caton a
 a = & Contae L igh Ceanncheathra Chorparaideach,
@@ -38,6 +41,7 @@ es customerservices@limerickio
 eee W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Carroll, Siobhan
@@ -58,6 +62,7 @@ Kind regards,
 Cllr Sharon Benson
 087
 2102084
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -80,6 +85,7 @@ r™ 0 rrr
 Cllr Sasa Novak 4 » Urn 6
 
 (VAN VO
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -107,6 +113,7 @@ Thanck yen,
 Reejordh$S
 
 Signed * PX. Gore
+
 
 
 ---

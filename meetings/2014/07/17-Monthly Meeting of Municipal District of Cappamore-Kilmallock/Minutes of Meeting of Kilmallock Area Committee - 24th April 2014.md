@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_meeting_of_kilmallock_area_committee_-_24_april_2014.pdf)
+
+---
 **DRAFT**
 
 **Minutes of Meeting of Kilmallock Area Committee held Aras Mainchin Seoighe,**
@@ -50,7 +53,7 @@ also the availability of Gardai at Galbally and Knocklong community centres was
 
 acknowledged by the members.
 
-**Confirm Minutes of meeting of Committee held on 20****th** **March 2014.**
+**Confirm Minutes of meeting of Committee held on 20th** **March 2014.**
 
 The chairman asked that the sympathies of the committee be extended to Breed
 
@@ -64,7 +67,8 @@ minutes as a mark of respect. His proposal was seconded by Cllr. Houlihan, and t
 
 meeting was adjourned.
 
-Meeting reconvened after 15 minutes.---
+Meeting reconvened after 15 minutes.
+---
 Circulated copy of draft minutes of meeting of Committee held on the 20th
 
 March.2014.
@@ -145,7 +149,8 @@ Mr. O’Connor stated that there are no plans presently to do this, as it is not
 
 condition of Planning. It can be included if funding is made available.
 
-The members thanked Mr. O’Connor for his briefing.---
+The members thanked Mr. O’Connor for his briefing.
+---
 **Discuss road repairs and signage for upcoming bike championship event in**
 
 **Kilfinane- Ballyhoura (Cllr. Houlihan)**
@@ -176,7 +181,7 @@ Following a brief discussion the members thanked Mr. Nash for his assistance in
 
 facilitating these important gatherings.
 
-**Update on Kilmallock Area Road Works Scheme 201****4.(Cllr. O’Donnell)**
+**Update on Kilmallock Area Road Works Scheme 2014.(Cllr. O’Donnell)**
 
 S. Nash informed the meeting that the reconstruction of County Roads in the area has
 
@@ -222,7 +227,8 @@ They thanked the chairman and congratulated him on his excellent tenure.
 
 Chairman David Moloney thanked the members for their kind works, and addressed
 
-the committee.---
+the committee.
+---
 **Chairman’s address to the Committee :**
 
 Since being co-opted as a Councillor onto Limerick County Council in place of
@@ -301,7 +307,8 @@ the projects that it is to be put toward will make significant contributions to 
 
 - At the beginning of this year we have seen a milestone both nationally and a local
 
-level with the transfer of assets to Irish water. Progress is underway in this respect as---
+level with the transfer of assets to Irish water. Progress is underway in this respect as
+---
 homes all over the area and county have or are getting water meters fitted.
 
 - Also in water, let us not forget the outstanding Chambers Ireland Award that the
@@ -380,7 +387,9 @@ END
 
 The meeting then concluded.
 
-Signed\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Chairman---
+Signed\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Chairman
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

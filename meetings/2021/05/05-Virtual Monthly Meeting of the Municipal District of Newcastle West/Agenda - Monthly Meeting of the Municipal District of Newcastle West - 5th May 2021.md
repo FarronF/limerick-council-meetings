@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-2021-05-05-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7 ——_ Comhairle Cathrach Combe geac coats unwigh
 
@@ -56,6 +59,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -105,6 +109,7 @@ Development at The Forge Broadford (b) what consideration if any was given to th
 compulsory acquisition of the adjacent unfinished development (c) when do we
 expect commencement of the local community housing units at Nunan’s corner in
 the village.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -159,5 +164,6 @@ Station Road (b) that a native tree planting programme be put in place to
 compliment the amenity where this is possible.
 
 Correspondence.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-2021-09-15-minutes-september.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -41,6 +44,7 @@ and Place Making (Ms. N. O'Connell) to the Meeting.
 
 With the agreement of the Cathaoirleach, Ms. O’Connell addressed the Meeting and gave an
 outline to the Members of her experience to date in various Local Authorities.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -95,6 +99,7 @@ Administrator agreed to forward this item to Corporate Services.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5. uestion submi by Councill
@@ -139,6 +144,7 @@ In proposing the Motion, Councillor Sheahan referred to the waste water treatmen
 village of Glin and also interruptions to the water supply in Glin, where Corbry Estate and
 Riverview Manor Estate are particularly affected. He welcomed the response from Irish Water
 with regard to the new borehole and waste water treatment plant.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -190,6 +196,7 @@ and once agreement is reached, works will commence shortly thereafter.
 
 4
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Te Question submitted by Councillor F. Foley
@@ -238,6 +245,7 @@ of the Courtenay Boys School.
 
 REPLY: This private laneway will be checked to ascertain the cost of works necessary
 to bring this laneway to an acceptable standard.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -289,6 +297,7 @@ guidelines that are in place, staff are still working from home on occasion. It 
 if someone is working from home, that they should be able to do the same work from home
 
 6
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -342,6 +351,7 @@ This item was dealt with as part of Item 2 on the Agenda.
 
 7
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 16. Notice of Motion submitted Councillor J. Scanlan
@@ -390,6 +400,7 @@ proposed by Councillor Galvin and seconded by Councillor Scanlan that a person b
 from the Housing Directorate to deal with housing matters in the Newcastle West District. In
 replying, the Director agreed to raise these items with the Director, Housing.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Clarification was also sought on the proposed development at Woodfield Manor, Newcastle
@@ -434,7 +445,9 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

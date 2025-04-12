@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%2018th%20July%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -41,6 +44,7 @@ Seconded by Councillor E.Ryan.
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -86,6 +90,7 @@ proposed Kilmallock Local Area Plan 2019-2025. The A/Senior Executive Planner th
 presentation to the elected Members on the Chief Executives Report dated 25™ June, 2019
 and gave an overview of the proposed Kilmallock Local Area Plan 2019-2025, She also went
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 through each submission received in relation to it and the proposed response to each
@@ -129,6 +134,7 @@ whether Hospital is selected in the next investment plan until CRU have approved
 investment plan during 2019.
 
 Upgrade to Inlet Works
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -174,6 +180,7 @@ Reply: The Elected Members approved General Municipal Allocation (GMA) funding i
 on a section of the R512 between the Pike and the new JFK Statue, for the placement of a
 raised pedestrian crossing, which will be going ahead later this year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 While a recent funding application through the Low Cost Safety Scheme for additional works
@@ -216,6 +223,7 @@ basis throughout the City and County.
 
 Up to now, the timeframe for return of properties includes a Voids funding application to
 the Department in advance, with works commencing upon receipt of approval.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -261,6 +269,7 @@ to be provided for the installation of CCTV.
 
 Due to budget limitations, the projected demand for CCTV installation in the 14 towns has
 been met by installation in two waves.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -322,6 +331,7 @@ Community CCTV Scheme. We hope that with the knowledge provided by the CCTV
 framework develop during the Smart CCTV project many other communities will succeed in
 their applications under the DoJ Community CCTV Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 In November 2018, we secured €334,573 in funding from the Community CCTV Scheme of
@@ -366,6 +376,7 @@ Limerick City and County Council have written to TIl with a list of agenda items
 proposed attendees as received from the Municipal Districts. It is expected that the
 meeting will occur shortly after the summer period.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12. Question submitted by Councillor Martin Ryan
@@ -409,6 +420,7 @@ The Cathaoirleach referred to the proposed meeting with Transport Infrastructure
 agenda items from the District, to the Elected Members, in case they wanted to add any other
 suggested items for this proposed meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10
@@ -438,5 +450,6 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

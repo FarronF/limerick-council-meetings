@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%202017-06-28%20Agenda%20Annual%20Meeting%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ a Seirbhisi Corparéideacha,
 Comhairie Cathrach agus Contae Luimnigh.
@@ -43,5 +46,6 @@ next Annual Meeting or until a successor has been elected.
 
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Lutmneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
+
 
 ---

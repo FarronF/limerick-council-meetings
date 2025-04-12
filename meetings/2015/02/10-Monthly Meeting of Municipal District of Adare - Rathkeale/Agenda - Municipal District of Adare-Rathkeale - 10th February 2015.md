@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare-rathkeale_-_10th_february_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -48,6 +51,7 @@ To note proposal for the disposal of land at:
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © vevewlimerick.te
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -115,6 +119,7 @@ Finance, Motor Tax and ICT
 
 General Municipal Allocation
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -172,6 +177,7 @@ Question submitted by Councillor K. Sheahan
 discontinued the practice of issuing a licence to the Refuse Collectors for the purpose of
 collecting refuse in a recognised plastic bag from apartments.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -190,5 +196,6 @@ calming/safety measures at this location.
 | will move at the next Meeting that Limerick City and County Council employ or contract
 the services of a parking attendant for Adare Village to prevent double parking on Station
 Road, the Blackabbey Road and at the roundabout adjacent to Lena's Public House.
+
 
 ---

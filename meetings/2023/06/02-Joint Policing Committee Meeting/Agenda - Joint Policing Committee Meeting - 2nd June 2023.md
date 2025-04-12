@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Joint-Policing-Committee-Meeting-2nd-June-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 . Seisbhisi Corpardideacha,
 a Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
@@ -60,6 +63,7 @@ customerservices@limerick.ic
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -94,5 +98,6 @@ Notice of Motion submitted by Councillor John O'Donoghue :
 
 operating in, displayed on the vehicle or at an appropriate distance of not more than 100 m
 from the vehicle in either direction”.
+
 
 ---

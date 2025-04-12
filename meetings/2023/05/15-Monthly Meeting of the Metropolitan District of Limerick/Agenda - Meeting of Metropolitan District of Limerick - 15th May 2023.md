@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-i-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-15th-May-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 ——— & Contae Luimnigh
@@ -63,6 +66,7 @@ w @LimerickCouncil
 
 \ 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Declaration of Interest.
@@ -101,6 +105,7 @@ QUESTIONS
 | will ask at the next meeting of the Metropolitan District of Limerick, what department is
 responsible for maintenance of the smarter travel path connecting Lock Quay and Corbally with
 the boat club at UL and what financial resources are available for this maintenance.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -146,6 +151,7 @@ up is there to ensure the funds are spent as intended by the application.
 t will ask at the next Meeting of the Metropolitan District of Limerick how many Council properties
 in the Metropolitan District are vacant and what is the breakdown by electoral area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15. Question submitted by Councillor S. Kiely
@@ -186,6 +192,7 @@ of the cost to the local authority of post bonfire night clean ups for 2019, 202
 Council advise how many properties they received back since 2019 for stock from the downsizing
 scheme and how many of those properties have been refurbished and allocated to people on the
 housing list.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -233,6 +240,7 @@ Patrickswell Village Renewal Scheme is completed later this year.
 Minister Eamon Ryan and the National Transport Authority outlining the need to allocate funding
 for maintenance of active travel routes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 28. Notice of Motion submitted by Councillor E. O’Donovan
@@ -271,5 +279,6 @@ bonfires.
 34. Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

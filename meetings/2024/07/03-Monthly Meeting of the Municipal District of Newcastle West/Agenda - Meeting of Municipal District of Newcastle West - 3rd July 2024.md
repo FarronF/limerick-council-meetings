@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-2024-07-03-agenda-july.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 i Comhairle Cathrach Duliche Bardais an Chaisledin Nua Thiar
 : Camihnairie Cathrach agus Contae Luimnigh.
@@ -51,6 +54,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -100,6 +104,7 @@ public lighting.
 
 | will ask at the next Meeting that a stop sign and road markings be installed in The
 Orchard housing estate, Abbeyfeale.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -158,5 +163,6 @@ commences immediately for the provision of extra car parking spaces in Marian
 
 Place, Glin and Corbry Estate, Glin. This application should also include traffic
 calming measures.
+
 
 ---

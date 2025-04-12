@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20Minutes%20May%202018%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -41,6 +44,7 @@ Kilfinane, Co. Limerick. It was intended to bring the proposed disposal to the F
 approval.
 
 The Members noted the report, as circulated.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -89,6 +93,7 @@ Airtricity currently has the lights installed on the timber poles and the Counci
 is awaiting the ESB to make the final connections. Airtricity has said it is
 confident the 5 lights will be operating before the end of April 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 There is no funding available at present for the upgrade of estates to LED
@@ -134,6 +139,7 @@ are required for the town.
 
 The Motion was proposed by Councillor O’Donnell and seconded by Councillor
 Mitchell.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -184,6 +190,7 @@ The Members requested an update on the Information Evening on the Smart CCTV Pil
 Scheme, which was to be arranged to inform the public about the Scheme. The Meetings
 Administrator stated he would follow up on this with the Head of Digital Strategy.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 . id Ca m
@@ -199,7 +206,9 @@ Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

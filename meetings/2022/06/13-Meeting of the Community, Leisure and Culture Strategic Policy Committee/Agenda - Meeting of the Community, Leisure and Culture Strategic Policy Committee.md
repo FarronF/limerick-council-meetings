@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-SPC-Community-Leisure-and-Culture-June-meeting.pdf)
+
+---
 **LIMERICK CITY AND COUNTY COUNCIL**
 
 **Community, Leisure and Culture**

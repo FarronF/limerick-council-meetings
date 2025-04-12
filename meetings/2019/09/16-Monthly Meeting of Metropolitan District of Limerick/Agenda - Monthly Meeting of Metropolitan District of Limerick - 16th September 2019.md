@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%2016th%20September%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Sesbhis\ Compartédeacha,
 & Contae Luimnigh Com)naitle Cathwach agus Contae Luimnigh,
@@ -52,6 +55,7 @@ Place, Rathbane, Limerick.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimnesch w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -96,6 +100,7 @@ To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Pla
 Development Act 2000-2015, and Part 8 of the Planning and Development Regulations, 2001-2005,
 in relation to the O’Connell Street Revitalisation Project.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -136,6 +141,7 @@ filled.
 | will ask the Council to provide an update on all currently approved, social housing, approved
 housing body and turkey projects in the Metropolitan area, to include expected start and
 completion dates, amount of units per project and breakdown of size of units.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -179,6 +185,7 @@ arch from Cruises Street to provide a more attractive and accessible streetscape
 Limerick Transport Strategy, for the provision of such service between UL and LIT and to include
 stakeholders from Bus Eireann, TIF, Department of Transport, UL / LIT as well as the public to
 progress this project.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -226,5 +233,6 @@ the city to be the focus, respecting the city's unique architectural setting.
 25. Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

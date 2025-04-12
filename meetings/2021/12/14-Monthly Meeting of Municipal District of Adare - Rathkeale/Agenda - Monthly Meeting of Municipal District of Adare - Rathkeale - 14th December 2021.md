@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-14th-december-2021-2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacta,
 & Contae Luimnigh Comharte Cathrach agus Contae Luimnigh.
@@ -48,6 +51,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @limerickCouncil
 
 \ 062 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -91,6 +95,7 @@ Cisestion eibeittied bv Gounsiior &. Saal
 ! will ask at the next Meeting for an update on the plans to improve Askeaton Carnegie
 Library.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -122,5 +127,6 @@ allocation of social and affordable housing be prepared.
 dumping at Forgefield Pallaskenry.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Agenda%20MD%20Meeting%2019th%20July%202018.pdf)
+
+---
 **Limerick City & County Council,**
 
 **Áras Mainchín Seoighe District Office,**

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28a%29%202017-06-07%20Minutes%20June%20%20Meeting%20Newcastle%20West.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN DESMOND HALL, THE
@@ -45,6 +48,7 @@ Seconded by Councillor Foley;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -101,6 +105,7 @@ Limerick.
 The main key actions were noted as follows:
 
 ¢ Balanced Incremental Development — multiple small/medium scale projects developed
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -163,6 +168,7 @@ Council was liaising with the HSE in relation to suitability of these sites. It 
 
 reports would be available for the July Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 QUESTIONS
@@ -207,6 +213,7 @@ to the TD’s in this regard.
 Dooley’s Super Value at Bishop Street, Newcastle West will be reinstated.
 
 REPLY: Works in relation to the above item will be carried out next week.
+
 
 
 ---
@@ -261,6 +268,7 @@ public sewage treatment plant in Tournafulla as a result of damage caused by Sto
 
 In proposing the Motion, Councillor Galvin stated that this fence urgently needed to be
 repaired. He asked that an update be given again on the matter.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -317,6 +325,7 @@ REPLY: The Great Southern Greenway Consultative Group has been set up to optimiz
 the potential of the Great Southern Greenway in relation to tourism
 development in towns and villages both on and adjacent to the route.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7
@@ -366,6 +375,7 @@ Sheahan it was agreed to allocate €5,000 from the GMA Tourism and Recreation F
 
 out a feasibility study on use of this property.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 8
@@ -388,5 +398,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

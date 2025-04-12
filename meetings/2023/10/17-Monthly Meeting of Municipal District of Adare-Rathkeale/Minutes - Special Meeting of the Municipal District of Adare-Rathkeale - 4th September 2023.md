@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-a-Minutes-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-4th-September-2023.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE MANOR FIELDS, ADARE, CO. LIMERICK ON MONDAY,**

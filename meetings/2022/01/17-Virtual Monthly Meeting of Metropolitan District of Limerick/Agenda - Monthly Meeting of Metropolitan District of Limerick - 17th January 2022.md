@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-meeting-of-metropolitan-district-of-limerick-17th-january-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Serbhisi Corparaideacha,
 _—_ 5 Contae Lu pervs Comhairle Cathrach agus Contne Lutmnigh,
@@ -44,6 +47,7 @@ December, 2021.
 Ceanncheathra Chorpardideach, Cé na gCeannatthe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick  061- 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Di | id
@@ -84,6 +88,7 @@ safety hazard to the residents of Boherkyle and the motorists that use this area
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the status
 of Loughmore Canal, Raheen, for details of the water sampling that has taken place there and an
 update on its current status.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -132,6 +137,7 @@ been applied to tenders in the past year and what percentage did this make up of
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 F MOT
@@ -144,5 +150,6 @@ between collection days.
 
 15. Corres pondence
 (Copy of Correspondence Enclosed).
+
 
 ---

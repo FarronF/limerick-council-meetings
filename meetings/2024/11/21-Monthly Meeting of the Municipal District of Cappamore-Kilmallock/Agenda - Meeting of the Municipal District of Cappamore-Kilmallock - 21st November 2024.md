@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 
@@ -73,6 +76,7 @@ VY @limerickCouncil
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -125,5 +129,6 @@ survey and speed count be completed on the Glenfield Road, Kilmallock with a vie
 installing 2 speed ramps between Scoil Mocheallog and Bellview Est.
 
 2
+
 
 ---

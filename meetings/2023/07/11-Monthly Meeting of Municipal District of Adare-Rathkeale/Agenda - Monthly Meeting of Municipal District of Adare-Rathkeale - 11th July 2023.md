@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-July-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantaer Bardasach Ath Dara-Rath Cacia,
 — Contes Uilewih Comhairle Cathrach agus comes Lay
@@ -52,6 +55,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -89,5 +93,6 @@ G | Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2023.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

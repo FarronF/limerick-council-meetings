@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-minutes-3rd-march-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
@@ -38,6 +41,7 @@ not included in the scheme plans. The Senior Executive Engineer advised Members 
 was his opinion the Til would resist the installation of a right turn lane, however, he
 agreed to discuss the matter with TIl and revert to Members in the format of a Special
 Meeting which would need to be convened to meet the timelines of the scheme.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -80,6 +84,7 @@ And Resolved:
 
 “That the Croom Local Area Plan 2020 — 2026, as circulated, be adopted in accordance
 with Section 20 (3)(n) of the Planning and Development Act 2020 (Amended)”.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -131,6 +136,7 @@ allocate the following:
 Village.
 €130 for two road mirrors on L69005 at Corgrigg, Foynes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 e €2,500 for Ballysteen Carnegie Library.
@@ -175,6 +181,7 @@ Councillor Sheahan expressed concern that Members were never advised of proposal
 for Council housing and feels Pallaskenry does not need more Council houses.
 Councillor Sheahan requested the Director of Services, Gordon Daly, attend a Special
 Meeting to discuss.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -225,6 +232,7 @@ Councillor Collins asked if a training session with Transport Infrastructure Ire
 could be arranged for Members. The Senior Executive Engineer agreed to liaise with the
 Til’s Road Safety Engineer and revert.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Councillor Keary advised lighting is required on the Sli na Slainte in Askeaton. The Senior
@@ -241,5 +249,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/06%20Minutes%20MD%20Meeting%2017-10-19%20v2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -41,6 +44,7 @@ Cappamore-Kilmallock held on the 19" September, 2019.
 Cllr G. Mitchell stated that he was not in agreement with the accuracy of the Draft Minutes
 circulated and requested that the adoption of same be deferred to the November Monthly
 Meeting as Cllrs E. Ryan and M. Ryan were not in attendance.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -89,6 +93,7 @@ The Cathaoirleach welcomed Ms. Anne Goggin, Senior Executive Engineer, Physical
 Development Directorate and Dr Frances Gianquinto and Mr Nick Head, Ecological Research
 and Practice to the Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Senior Executive Engineer, Physical Development Directorate outlined the background
@@ -135,6 +140,7 @@ the Planning and Development Act 2000 (Amended), but to include the following
 amendments to accommodate a playing pitch in the interests of active lifestyle and student
 well-being:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 1. Amend Objective H3 Special Control Area as follows:
@@ -169,6 +175,7 @@ affecting the taking in charge process.
 They welcomed changes made in recent years in relation to the revised bond rate being
 sought for each property as part of any planning permission being granted. The Elected
 Members also agreed that it was important that estates were taken in charge as soon as
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -211,6 +218,7 @@ the Roads Act 1993.
 | will move at the next meeting of the Cappamore Kilmallock Municipal District that
 Limerick City and County Council engineers engage with the OPW regarding flooding that
 occurs at Lower Annagh, and to extend the OPW remit on the Annagh river from where
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -257,6 +265,7 @@ overflowing dykes onto the road at Annagh, Lisnagry.
 
 Reply:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Limerick City & County Council are currently engaging with local stakeholders in relation to
@@ -302,6 +311,7 @@ constraints of the Allocation Scheme and statutory requirements, the Council str
 ensure that a balanced and reasonable approach is taken in making decisions on individual
 tenancies.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14. Question submitted by Councillor Martin Ryan
@@ -346,6 +356,7 @@ The proposal would involve the placing of a raised pedestrian crossing at the ex
 pedestrian crossing at the National School, the placing of a raised table at the Knockainey
 Junction, and a speed cushion on the Hospital side of McNulty’s Garage.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 A Section 38 process was undertaken during September 2019 and a recommendation in
@@ -384,7 +395,9 @@ This concluded the Meeting.
 Signed: Date:
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Supplementary%20Item%20Municipal%20District%20of%20Newcastle%20West%20Agenda%20v2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——
 
@@ -64,5 +67,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ¢@ weewlimerickte
 w @LimerickCouncil
+
 
 ---

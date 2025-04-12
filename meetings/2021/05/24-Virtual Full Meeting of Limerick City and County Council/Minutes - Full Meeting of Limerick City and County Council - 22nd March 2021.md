@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-a-draft-minutes-ordinary-meeting-22.03.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ON MONDAY, 22ND MARCH, 2021, AT 3PM

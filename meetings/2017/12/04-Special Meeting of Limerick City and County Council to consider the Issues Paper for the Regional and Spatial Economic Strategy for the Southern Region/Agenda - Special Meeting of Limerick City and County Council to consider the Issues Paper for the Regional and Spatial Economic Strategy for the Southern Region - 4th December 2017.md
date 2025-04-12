@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Special%20Meeting%20041217.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 . Seirbhisi Corpardideacha,
 
@@ -46,5 +49,6 @@ wen limericicie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corportet Headquarters, Merchants Quay, Limerick ( 061 - 587150
+
 
 ---

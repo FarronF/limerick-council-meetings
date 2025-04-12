@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_newcastle_west_-_9th_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD AT THE FIRE STATION,
@@ -34,6 +37,7 @@ Members.
 He informed the Members that a total of €1.5m had been allocated by the Chief
 Executive to the GMA with €275,000 of this assigned to the Municipal District of
 Newcastle West, as follows:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -97,6 +101,7 @@ each of the Municipal Districts was €100,000 with €150,000 being provided fo
 
 the Metropolitan District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 * He clarified that it was not envisaged that each Member would get a specific
@@ -126,5 +131,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20-%20Special%20Meeting%20180918.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 INN
 
@@ -56,5 +59,6 @@ with Section 16 of the Presidential Election Act, 1993.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

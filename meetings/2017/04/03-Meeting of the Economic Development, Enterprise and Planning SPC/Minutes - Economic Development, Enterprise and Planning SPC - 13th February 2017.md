@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_economic_development_enterprise_and_planning_spc_-_13th_february_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE ECONOMIC
 DEVELOPMENT, ENTERPRISE AND PLANNING STRATEGIC POLICY
@@ -53,6 +56,7 @@ To consider Motion referred from the Municipal District of Newcastle West on
 the 7" of December 2016.
 
 Notice of motion submitted by Cllr. J. Sheahan.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -110,6 +114,7 @@ Given the consequences of altering the recently adopted Development Contribution
 Scheme it was agreed that this motion would not be pursued at this stage but could
 be re-introduced at a future time if required.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Item 6
@@ -162,6 +167,7 @@ Approvals for 2016 by sector/Geographic location of approvals
 Key outputs 2016
 o 39 grants approved - value €851,094
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 © 316 clients in LEO Portfolio (1,895 employees)
@@ -192,5 +198,6 @@ Signed: Signed:
 Chairperson Secretary
 
 Date: Date:
+
 
 ---

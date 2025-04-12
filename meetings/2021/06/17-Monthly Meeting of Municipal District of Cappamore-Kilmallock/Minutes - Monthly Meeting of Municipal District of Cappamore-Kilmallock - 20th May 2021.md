@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/01-minutes-of-monthly-meeting-20th-may-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF ONLINE MONTHLY MEETING OF
 THE MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD ON
@@ -37,6 +40,7 @@ development is achieved in the forthcoming Development Plan.
 
 Members also agreed a strategy for the development of business in the Municipal District of
 Cappamore-Kilmallock needed to be a priority into the future.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -83,6 +87,7 @@ the June meeting of the Municipal District.
 
 This proposal was seconded by Councillor Mitchell and agreed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICES OF MOTIONS
@@ -122,6 +127,7 @@ QUESTIONS
 “| will ask at the next meeting of the Cappamore-Kilmallock Municipal District of Limerick
 City and County Council that they consider installing dog waste bins at the entrance/exit
 areas of the loop walks in Kilmallock town.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -172,6 +178,7 @@ submitted to the members at the July Meeting.
 
 4
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4. Question submitted by Councillor Mitchell
@@ -207,6 +214,7 @@ REPLY:
 The Roads Engineer for the area will conduct the necessary traffic and speed surveys on the
 L5093 in Caherconlish when resources are available. A report on the need for traffic calming
 measures in this area will be prepared in due course.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -254,6 +262,7 @@ oOo
 [Anglesboro
 ja
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Any Other Business
@@ -278,5 +287,6 @@ the time -
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

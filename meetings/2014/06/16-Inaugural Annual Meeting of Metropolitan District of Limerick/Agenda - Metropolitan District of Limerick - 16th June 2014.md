@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/metropolitan_district_of_limerick_-_agenda_16_june_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——_
 Limerick
@@ -45,5 +48,6 @@ Environment, Community and Local Government enclosed).
 
 Ff *: Cé na gCeannaithe, Luimneach t: 061 407100 ¢: info@limerickcity.te
 : Merchant's Quay, Limerick f: 061 415266 we www. ltimerickcity.ie
+
 
 ---

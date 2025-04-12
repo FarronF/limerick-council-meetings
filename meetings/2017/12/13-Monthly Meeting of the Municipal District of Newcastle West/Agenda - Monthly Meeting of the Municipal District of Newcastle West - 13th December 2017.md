@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/00%202017-12-13%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Duiche Bardais an Chaisledin Nua Thiar,
 __—_ Comhairle Cathrach agus Contae Luimnigh,
@@ -51,6 +54,7 @@ To receive Deputation from Abbeyfeale Community Council.
 Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach oe wew Mmerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 General Municipal Allocation (GMA)
@@ -88,6 +92,7 @@ To receive update on the provision of new graveyard in Abbeyfeale.
 (b) Taking in charge of Estates
 
 To receive update on taking in charge of estates in the Municipal District.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -143,5 +148,6 @@ District of Newcastle West to discuss fly tipping in the area.
 | will move at the next Meeting that a full detailed report on the provision of a
 graveyard in Tournafulla as 2 separate lands are now available for purchase and
 space is limited in the existing ground.
+
 
 ---

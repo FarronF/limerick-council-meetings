@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2016th%20October%2C%202018_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _— Comhairle Cathrach
 = & Contae Luimnigh
@@ -75,6 +78,7 @@ v www.limerickie
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -126,6 +130,7 @@ To discuss water quality issues in Rathkeale.
 (Copy Enclosed)
 
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -188,6 +193,7 @@ along the trail route in the towns and villages.
 
 (i) Gate locations and design.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 15.
@@ -203,5 +209,6 @@ the Woodlands House Hotel.
 Correspondence
 
 (Copy Enclosed)
+
 
 ---

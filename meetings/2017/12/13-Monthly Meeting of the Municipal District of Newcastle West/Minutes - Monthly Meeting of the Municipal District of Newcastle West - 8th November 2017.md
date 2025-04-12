@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%202017-11-08%20Minutes%20November%20Monthly%20Meeting%20Newcastle%20West.pdf)
+
+---
 1
 
 MINUTES

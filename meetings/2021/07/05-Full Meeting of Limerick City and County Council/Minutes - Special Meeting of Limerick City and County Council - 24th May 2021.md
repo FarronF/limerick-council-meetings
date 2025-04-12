@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-b-minutes-special-meeting-24.05.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON MONDAY, 24TH MAY, 2021, AT 5PM.

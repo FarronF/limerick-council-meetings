@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-annual-meeting-15th-june-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_ Comhairle Cathrach
 & Contae Luimnigh
@@ -57,5 +60,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 061 - 557150
+
 
 ---

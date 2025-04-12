@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/minutes-meeting-of-the-home-and-social-strategic-policy-committee-11th-april-2024.pdf)
+
+---
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**

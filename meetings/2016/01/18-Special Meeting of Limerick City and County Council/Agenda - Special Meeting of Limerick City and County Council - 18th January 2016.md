@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2018th%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 all Seirbhist Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh
@@ -41,5 +44,6 @@ the Office of Public Works.
 @ customerservices@ limerick ie
 Ceannchesthru Chorpardideach, Cé na gCeannaithe, Luimneach © www.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

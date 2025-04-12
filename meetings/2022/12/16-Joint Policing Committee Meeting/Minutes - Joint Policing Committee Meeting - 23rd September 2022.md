@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Minutes%20of%20JPC%20Meeting%2023rd%20September%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF MEETING OF THE LIMERICK JOINT POLICING COMMITTEE**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON 23RD** **SEPTEMBER, 2022**

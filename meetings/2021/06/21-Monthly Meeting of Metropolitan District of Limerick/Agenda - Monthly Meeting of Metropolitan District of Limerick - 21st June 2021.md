@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-meeting-of-metropolitan-district-of-limerick-21.06.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach
 & Contae Luimnigh
@@ -68,6 +71,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @LimerickCouncil
 ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Park, Southill, Limerick.
@@ -112,6 +116,7 @@ number: VS-006-17 on the vacant site register;
 
 a. Why after being placed on the vacant site on 19/06/18 was this site removed from the register
 2
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -158,6 +163,7 @@ Members as soon as possible and that the Part 8 be progressed as a matter of urg
 Government funding, or a commitment of Government funding, and if there are commitments
 existing for funding from the University of Limerick, Clare County Council or Waterways Ireland to
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 contribute to the development of the Black Bridge in Plassey and if any discussions have been had
@@ -203,6 +209,7 @@ both in existing residential developments near roads with a view to establishing
 for mitigation measures, and when considering planning for new residential
 developments.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17. Notice of Motion submitted by Councillor S. Kiely (to be referred to the Climate Action,
@@ -225,5 +232,6 @@ movement between the two counties.
 
 20. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

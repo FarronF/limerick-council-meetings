@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-special-meeting-of-metropolitan-district-of-limerick-17.09.2021-deferred-from-15.09.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairie Cathrach
 ; & Contae Luimnigh
@@ -53,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 © weerwlimerick.ie
 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 On 7 Sep 2021 1:25 PM, "Kiely, Sarah" <sarah.kiely@limerick.ie> wrote:
@@ -75,5 +79,6 @@ Cllr Dan McSweeney
 Cllr Michael Sheahan
 Cllr Olivia O’Sullivan
 Cllr Mike Murphy
+
 
 ---

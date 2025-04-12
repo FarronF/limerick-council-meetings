@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_19th_may_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _————
 
@@ -73,6 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 & wow Aimerick.te
  @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -100,5 +104,6 @@ Notice of Motion submitted by Councillor Sheehy
 | will move at the next Council Meeting that the issue of speeding with reference to safety
 for walkers and cyclists on the Grange Road, Knocklong be addressed with adequate
 signage, lining and Garda or speed van monitoring or other methods.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20May%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
@@ -48,6 +51,7 @@ copy of a letter she had received from the Chief Superintendent in reply which r
 
 number of measures to be implemented.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 She noted that St. Joseph’s Boys National School operated a Junior School Warden Scheme and
@@ -92,6 +96,7 @@ Annual Meeting and June Monthly Meeting of Municipal District
 
 Members agreed that the Annual Meeting would take place on the 1% June, 2016 at 9 a.m. with
 the Monthly Meeting to be held at the conclusion of the Annual Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -144,6 +149,7 @@ to be unduly restrictive in this regard, they would support the use of local ree
 Members noted that invoices in relation to the Fire Brigade charges associated with attending at
 this fire had been issued and a request was made that these charges be struck off in any instances
 where the property owner had been unable to obtain affordable fire insurance.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -199,6 +205,7 @@ In relation to Askeaton, the Operations Manager indicated that the design for fl
 measures had been completed and a report submitted to Office of Public Works (OPW) in relation
 to same. He noted that no funding had been allocated for these works.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5
@@ -248,6 +255,7 @@ advance, of this publication date.
 It is intended to make the Route Selection Report available on the project website:
 www.foyneslimerick.ie
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12. Question submitted by Councillor S. Keary
@@ -282,5 +290,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

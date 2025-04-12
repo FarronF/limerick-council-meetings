@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_cappamore-kilmallock_-_23rd_april_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -42,6 +45,7 @@ March, 2015, in relation to the taking-in-charge of the following estates:
 Proposed by Councillor Donegan;
 Seconded by Councillor Gleeson;
 And Resolved:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -93,6 +97,7 @@ park).
 e Every Friday afternoon 2pm - 4pm in Hospital, (adjacent to
 O'Sullivan’s Centra Shop).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 As soon as further information is available Limerick City and County Council will
@@ -141,6 +146,7 @@ out on Good Friday as part of the Team Limerick Clean up campaign.
 With the Cathaoirleach’s permission, sympathy was extended to the following on
 their recent bereavements:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Sean & Dominic Treacy, on the death of their father, Jeremiah Treacy,
@@ -160,5 +166,6 @@ Signed:
 Dated:
 
 Cathaoirleach
+
 
 ---

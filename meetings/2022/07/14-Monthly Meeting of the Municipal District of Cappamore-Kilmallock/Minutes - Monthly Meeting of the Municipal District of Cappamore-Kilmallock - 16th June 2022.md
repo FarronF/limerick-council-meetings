@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/02%20Minutes%20of%2016th%20June%20Municipal%20District%20of%20Cappamore-Kilmallock%20Meeting.pdf)
+
+---
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN

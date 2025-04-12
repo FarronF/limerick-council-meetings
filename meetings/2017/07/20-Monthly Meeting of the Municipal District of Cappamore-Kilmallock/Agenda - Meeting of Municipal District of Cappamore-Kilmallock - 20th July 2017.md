@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%20Meeting%20200717.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha,
 
@@ -59,6 +62,7 @@ Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach ————
 
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -101,6 +105,7 @@ Question submitted by Councillor B. Teefy
 | will ask at the next meeting when will Sruth an Oir Estate, Elton, be taken in charge by
 Limerick City and County Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -119,5 +124,6 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 
 | will move at the next Meeting that works outside Anglesboro School be undertaken
 immediately in the interest of safety of the children and wider community.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00-Agenda-Special-Meeting-Metropolitan-District-28th-November-2019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Setbhisi Corparaideacha,
 r ~ te Cathract Cc ae '
@@ -39,12 +42,14 @@ To discuss Planning Permission granted to Irish Cement at their Plant in Mungret
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 We the undersigned wish to request a Special Meeting of Limerick City and County Council to discuss
 Planning Permission granted to Irish Cement at their plant in Mungret.
 
 Keeper O po
+
 
 
 ---

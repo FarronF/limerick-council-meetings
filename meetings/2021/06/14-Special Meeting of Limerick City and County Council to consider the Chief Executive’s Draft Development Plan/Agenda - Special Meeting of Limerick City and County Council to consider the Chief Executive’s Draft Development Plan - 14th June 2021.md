@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-special-meeting-14.06.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __e Comhairle Cathrach
 & Contae Luimnigh
@@ -68,5 +71,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 t~] customerservices@limerickie
 
 (061 - 557150
+
 
 ---

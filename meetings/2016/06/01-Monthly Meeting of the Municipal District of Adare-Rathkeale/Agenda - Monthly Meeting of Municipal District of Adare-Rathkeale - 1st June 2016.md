@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -48,6 +51,7 @@ The Courthouse, Adare, Co. Limerick.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ www limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -79,6 +83,7 @@ To consider update on Clonshire Cemetery.
 Sewerage Treatment Plant in Askeaton
 To note update on the provision of a new sewerage treatment plan in Askeaton.
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -132,5 +137,6 @@ Council to hold a District Meeting in Kilcornan Community Centre, the November D
 Meeting be held at that location.
 
 Correspondence
+
 
 ---

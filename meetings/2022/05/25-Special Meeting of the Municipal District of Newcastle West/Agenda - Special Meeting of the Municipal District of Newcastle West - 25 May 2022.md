@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%202022-05-25%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 nr Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach egus Contae Luimnigh,
@@ -46,5 +49,6 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 @LimerickCouncil
 (061 - 556 000
+
 
 ---

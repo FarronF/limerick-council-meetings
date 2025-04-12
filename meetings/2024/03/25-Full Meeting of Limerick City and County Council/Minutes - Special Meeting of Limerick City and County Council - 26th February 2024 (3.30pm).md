@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-special-meeting-of-limerick-citya-nd-county-council-26.02.2024-3.30-pm.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD**
 
 **IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON MONDAY, 26TH FEBRUARY, 2024 AT**

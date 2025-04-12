@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_
 
@@ -77,8 +80,10 @@ Limerick
 
 (Report and Map circulated)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -126,6 +131,7 @@ Question submitted by Councillor O’Donnell
 | will ask at the next Meeting if the road markings at the junction of the L-1140 and L-
 5061 at Patrickswell can be renewed and enhanced in the interest of road safety?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -153,5 +159,6 @@ N. ‘ed ncillor
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District that in
 setting the GMA for 2016, the District set aside a sum of €35,000 for a discretionary
 spend by the Director or as a contingency for possible emergencies.
+
 
 ---

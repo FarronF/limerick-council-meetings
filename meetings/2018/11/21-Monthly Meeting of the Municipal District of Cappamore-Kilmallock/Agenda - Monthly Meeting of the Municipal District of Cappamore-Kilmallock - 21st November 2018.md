@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20Agenda%20Nov%202018%20Capp%20Kil%20MD%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach
 = & Contae Luimnigh
@@ -38,6 +41,7 @@ held on the 26" September, 2018.
 Cappamore-Kilmallock held on the 18th October, 2018.
 (Copy enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c) To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
@@ -60,5 +64,6 @@ To consider and approve the Draft Special Speed Limit Bye-laws 2018 for National
 Non-National Roads.
 
 (Report and Copy of Draft Bye-Laws enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/04_draft_minutes_of_special_meeting_19th_may.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
@@ -40,6 +43,7 @@ Community and Local Government for this project. Under the Capital Loan and
 Subsidy Scheme, finance was provided by the Housing Finance Agency. At a
 Meeting held on the 31st March, 2008, the Council gave its approval to the raising of
 a loan of 2.37m from the Housing Finance Agency.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -93,6 +97,7 @@ It was agreed that Engineering staff would attend Meetings of the Municipal Dist
 items were included on the Agenda relating to their work area. The Operations
 Manager confirmed that staff would be available on the day, if required.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed
@@ -103,5 +108,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-meeting-of-the-metropolitan-district-of-limerick-21st-october-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -66,6 +69,7 @@ W @LimerickCouncil
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Minutes
@@ -109,6 +113,7 @@ Shared E-Scooter Hire Services Draft Bye-Laws 2024 to go on public display in ac
 the requirements of Section 200(1) of the Local Government Act 2001 (as amended).
 
 Report Enclosed).
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -159,6 +164,7 @@ many local authority houses are boarded-up.
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, as of October 2024, how
 many people are on the Limerick City and County Council social housing list.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -212,6 +218,7 @@ Roundabout in Lisnagry.
 | will ask at the next Meeting of the Metropolitan District of Limerick what proposals the Council
 are considering for the development of the site that was purchased at Annacotty Roundabout.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 20. Question submitted by Councillor U. Gavan
@@ -259,6 +266,7 @@ dockless bike scheme beyond Castletroy into other suburbs such as Corbally.
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for the number of
 unauthorised developments that have had to be removed/demolished between 2019 and 2024.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -315,6 +323,7 @@ Department to establish if, with the focus on DAC-led cultural institutions and 
 
 6
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 in the tourism survey and other marketing materials, will there be similar avenues of support for
@@ -359,6 +368,7 @@ County Council would present to city centre retailers at no cost parking ticket 
 
 7
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2025 provided the retailers have paid their 2024 rates in full. | would suggest large retailers who
@@ -399,6 +409,7 @@ comprehensive maintenance plan for the Guinness Canal.
 establish an online directory of Limerick based professional artists from across all artistic
 disciplines akin to Clare Arts Office's online directory at clarearts.ie.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 49. Notice of Motion submitted by Councillor S. Hickey-O’Mara
@@ -425,5 +436,6 @@ due to reviews by the Mayor including but not limited to housing and property di
 
 53. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

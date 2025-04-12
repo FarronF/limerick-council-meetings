@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Environment%20Strategic%20Policy%20Committee%20-%2022nd%20June%202015.pdf)
+
+---
 ENVIRONMENT SECTION.
 
 12th June, 2015.

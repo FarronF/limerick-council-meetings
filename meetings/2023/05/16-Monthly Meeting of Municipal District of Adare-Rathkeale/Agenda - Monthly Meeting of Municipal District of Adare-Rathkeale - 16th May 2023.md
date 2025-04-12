@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-16th-May-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairle Cathwach agus Contae Luimnigh,
@@ -58,6 +61,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCounctt
 
 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Roads, Traffic & Cleansing
@@ -98,6 +102,7 @@ Question submitted by Councillor K. Sheahan
 | will ask at the next Meeting when it can be ascertained works will be complete at the
 sewerage pumping station in Askeaton and what condition the area will be left in when
 these works are complete.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -156,8 +161,10 @@ I will move at the next Meeting that this District invite a member of Transport 
 ireland to our District to view and inspect the absolute appalling state of our national
 roads.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%20-%20Meeting%20of%20Council%20-%2025th%20March%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 p Seirbhisi Corpardideacha,
 ee Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
@@ -57,6 +60,7 @@ To agree revised date for the May Meeting of the Council to Monday, 29" April, 2
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3. Disposal of Land
@@ -104,6 +108,7 @@ To consider Draft Annual Report 2018.
 To consider the granting of a loan facility to Limerick Twenty Thirty Strategic Development DAC
 of €1,775,000, in accordance with Section 66 of the Local Government Act, 2001, as amended, to
 facilitate CAT A fit out as per report enclosed.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -153,6 +158,7 @@ Committee held on 18 February, 2019.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -192,6 +198,7 @@ Food Strategy for Limerick 2016 — 2018
 
 To hear presentation from Eamon Ryan, Head of Enterprise, Local Enterprise Office on progress
 on the implementation of the Food Strategy and the plans for 2019.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -237,6 +244,7 @@ that cases which are not completed are not being closed without completion.
 9. | will ask at the next meeting why no meeting of the sub committee on animal welfare and
 control or the sub committee on centenary events have taken place as of yet, and when it
 is intended for these sub-committees to meet.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -291,6 +299,7 @@ philanthropic or commercial partner to commission a lasting memorial to Limerick
 Donogh O'Malley, T.D. as Minister for Education, to be situated at an appropriate location
 in his home city where his legacy lives on to this day.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7
@@ -313,5 +322,6 @@ Trust, funding required in the region of €3,000 per year.
 16. Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

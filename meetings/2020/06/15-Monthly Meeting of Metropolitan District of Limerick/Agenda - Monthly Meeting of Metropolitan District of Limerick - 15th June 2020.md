@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-ordinary-meeting-15th-june-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ——_ Comhairle Cathrach
 & Contae Luimnigh
@@ -63,6 +66,7 @@ m Customerservices@limerick.ie
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land
@@ -98,6 +102,7 @@ QUESTIONS
 | will ask at the next meeting how much waste has the Council removed in the Metropolitan
 area during the Covid 19 period; how many complaints of illegal dumping have been received
 and how many have been resolved.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -139,6 +144,7 @@ and development of the city.
 | will ask at the next meeting for usage figures for the public toilets on Upper Mallow Street
 and Bedford Row between January 2019 and January 2020.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 12. Question submitted by Councillor C. Slattery
@@ -170,6 +176,7 @@ Castleconnell and Clare Glens.
 | will move at the next meeting of the Metropolitan District that the Council make evidence
 of a household waste collection service a condition of all tenancies and in cases of non-
 compliance the cost of waste collection is added to the customers rent bill.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -217,6 +224,7 @@ who have given over 20 years of their working lives to the Company.
 
 5
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 23. Notice of Motion submitted by Councillor O. O’Sullivan
@@ -243,5 +251,6 @@ restore 24 hour operations at the airport.
 
 26. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

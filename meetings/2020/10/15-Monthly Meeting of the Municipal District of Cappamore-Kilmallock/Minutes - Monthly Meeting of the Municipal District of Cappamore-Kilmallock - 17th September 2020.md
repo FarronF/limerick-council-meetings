@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02-minutes-sept-2020-md-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE DEEBERT
@@ -38,6 +41,7 @@ Seconded by Councillor Donegan.
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -88,6 +92,7 @@ Maintenance Grant Scheme. They confirmed that 61 applications were received for 
 Scheme, representing 8.47% approx. of the 720 tenancies in the Cappamore Kilmallock
 Municipal District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Following an assessment of all applications received and inspection visits, a total of 53 valid
@@ -128,6 +133,7 @@ Where there are concerns in relation to trees or hedging posing a potential haza
 to persons using a public road, the respective landowner can be contacted in relation to
 these concerns under Section 70 of the 1993 Roads Act requesting that:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ‘The owner or occupier of any structure and the owner or occupier of any land on which a
@@ -166,6 +172,7 @@ referred to in the Notice of Motion.
 
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
 Transport Infrastructure Ireland and Limerick City and County Council review the safety of
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -212,6 +219,7 @@ Proposed by Cllr. Mitchell, seconded by Clir. Donegan and agreed.
 
 Reply:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 An undertaking was given in 2018/19 to undertake the mapping of all road signage in the
@@ -254,6 +262,7 @@ the impact going forward.
 
 | will ask at the next Meeting of the Municipal District of Cappamore-Kilmallock that Irish
 Water provide a list of available capacity at Sewerage Treatment Plants in the Cappamore-
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -298,7 +307,9 @@ This concluded the Meeting.
 Signed: Date:
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

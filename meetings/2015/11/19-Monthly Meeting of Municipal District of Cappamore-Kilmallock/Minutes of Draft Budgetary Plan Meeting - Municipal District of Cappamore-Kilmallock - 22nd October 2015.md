@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2022nd%20October.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING OF THE
 
 MUNICIPAL

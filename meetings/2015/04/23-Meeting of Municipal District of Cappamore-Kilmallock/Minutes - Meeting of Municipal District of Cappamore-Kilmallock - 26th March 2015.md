@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_minutes_26th_march2c_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -39,6 +42,7 @@ Mr. Seamus O'Connor, Chief Officer, LCDC and Mr. Dara McGuigan, Administrative
 Officer gave a presentation to the Members on the Limerick Local Community
 Development Committee (LCDC). Mr. O'Connor began the presentation by briefing
 the Members on the following:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -99,6 +103,7 @@ Section 11 of the Roads Act, 1993”.
 It was proposed by Councillor O'Donnell and seconded by Councillor Teefy to take
 Item No. 4 in committee.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4. General Municipal Allocation
@@ -141,6 +146,7 @@ economic benefits and provide a legacy going forward.
 After a lengthy discussion, the following allocations were unanimously agreed by the
 Members:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 GMA and Development Fund Allocations for Cappamore-Kilmallock 2015
@@ -180,6 +186,7 @@ Junior B All Ireland Final.
 e It was proposed by Councillor Teefy and seconded by Councillor Ryan to hold
 the May Monthly Meeting on Wednesday 13th May, 2015 at 4 pm.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ¢ With the Cathaoirleach’s permission, sympathy was extended to the following on
@@ -201,7 +208,9 @@ Cathaoirleach
 Dated:
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

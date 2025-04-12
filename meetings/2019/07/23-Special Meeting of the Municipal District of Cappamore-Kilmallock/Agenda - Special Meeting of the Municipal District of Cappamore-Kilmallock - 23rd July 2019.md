@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20Agenda%20Special%20Meeting%20Kilmallock%20Local%20Area%20Plan.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 el Fs abd Scand h Olfig an Cheantair, Aras Mhatnchin Seoighe,
@@ -48,5 +51,6 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office @LimerickCouncil
 
 (063 980 19
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%2021st%20March%252c%202018%20v3.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 pa
 
@@ -64,6 +67,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
  @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -103,6 +107,7 @@ Pedestrian controlled crossing for Adare
 
 To note update on pedestrian controlled crossing for Adare.
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -155,5 +160,6 @@ regeneration of Askeaton.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Annual%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
@@ -44,6 +47,7 @@ contacted and asked to provide the following:
 e Audited Accounts for 2015.
 e List of Board Members and their respective titles for the previous 10 years.
 ¢ Confirmation of what the funding was required for in 2016.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -99,6 +103,7 @@ For:
 
 Councillors Browne, Foley, Galvin, Sheahan and Scanlan. (5)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Abstentions:
@@ -127,5 +132,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

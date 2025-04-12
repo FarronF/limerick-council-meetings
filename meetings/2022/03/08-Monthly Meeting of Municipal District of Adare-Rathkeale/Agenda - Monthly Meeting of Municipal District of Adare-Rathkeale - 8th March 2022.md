@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-8th-march-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Rardasach Ath Dara-Rath Caota,
 
@@ -55,6 +58,7 @@ To note proposal for disposal of land as follows:
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach | e www.timerickie
 Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (d) Disposal of Freehold Interest of premises consisting of a dwelling house situate
@@ -98,6 +102,7 @@ within our District currently vacant and for an update on the status of the repa
 that’s required to bring these properties back in to a habitable state in order to reduce
 our housing waiting list within our District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -135,5 +140,6 @@ hydrant or where quantity or pressure is an issue that a reserve tank of water w
 put in place to be used in cases where by the emergency services require access.
 
 A.0.B
+
 
 ---

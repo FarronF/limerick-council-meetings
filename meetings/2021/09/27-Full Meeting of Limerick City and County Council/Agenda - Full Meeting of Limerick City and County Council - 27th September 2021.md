@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-september-council-meeting-27.09.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach
 & Contae Luimnigh
@@ -68,6 +71,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c)
@@ -130,6 +134,7 @@ To consider Chief Executive’s Report for the months of June, July and August
 2021.
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (a)
@@ -191,6 +196,7 @@ Policy Committee held on 9" July, 2021.
 Home and Social Development Strategic Policy Committee: Next
 Meeting scheduled for 20" October, 2021.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -240,6 +246,7 @@ from 24* to 26" September, 2021.
 (b) “The Fair Deal Scheme — What's the Deal with Nursing Home Care?” to
 be held in Carlingford, Co. Louth, from 1* to 3" October, 2021.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -283,6 +290,7 @@ appointment of a Biodiversity Officer.
 We will move at the next Meeting that Limerick City and County Council communicate
 with central government to change the current protocol on the grass-cutting process,
 in the interests of safety.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -335,5 +343,6 @@ recommendations of the Implementation Advisory Group report in relation to the
 legislation for the Directly Elected Mayor of Limerick.
 
 Correspondence
+
 
 ---

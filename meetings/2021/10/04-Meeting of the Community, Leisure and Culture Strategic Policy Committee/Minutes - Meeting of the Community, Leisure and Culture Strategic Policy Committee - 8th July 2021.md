@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/minutes-meeting-of-the-community-leisure-and-culture-strategic-policy-committee.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Community, Leisure & Culture Strategic Policy Committee Meeting 08/07/2021
 _ Microsoft Teams -
@@ -44,6 +47,7 @@ committee meeting held on the 19” April, 2021 were adopted.
 Item 2: Matters Arising
 
 There were no matters arising from the minutes of the previous meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -96,6 +100,7 @@ be used for future plans for community centres.
 P Moles enquired if the presentation could be given to the PPN linkage groups? E
 Humphreys stated that she would be delighted to present to the PPN at a later stage. He
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 also asked a question on behalf of M Conlon who was unable to attend the meeting with
@@ -146,6 +151,7 @@ representations that can help them, initially a few essential organisations will
 board, and then the programme will be opened up to other organisations and developing sub
 committees.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 J Butler stated that a lot of groups are moving out of the city to county Limerick and County
@@ -188,5 +194,6 @@ Minutes Proposed By_ OAc Miclaol Oconee,
 Minutes Seconded By: Ade Saco 1 s614
 
 Minutes Signed By Chair: Mara Qala et ela
+
 
 ---

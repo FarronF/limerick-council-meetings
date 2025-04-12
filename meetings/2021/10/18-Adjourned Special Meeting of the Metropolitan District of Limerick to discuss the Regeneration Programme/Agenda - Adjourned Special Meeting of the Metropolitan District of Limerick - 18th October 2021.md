@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-adjourned-special-meeting-of-the-metropolitan-district-18th-october-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 os — Limerick C
 = merick City
@@ -54,5 +57,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 ( 061 - 557150
+
 
 ---

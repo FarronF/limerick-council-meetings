@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%202019-03-06%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Sm Comhairle Cathrach Ce oe a an a) Nua Thar,
 imn ‘athrach agus Contae Luimnigh,
@@ -59,6 +62,7 @@ Co. Limerick to Dromcollogher Community Council.
 Ceanncheathré Chorpardideach, Cé na gCeannaithe, Luimneach = > =A
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -105,6 +109,7 @@ Abbeyfeale.
 | will ask at the next Meeting for a detailed report on the programme of works along
 with the start dates for the works at:
 (a) Ward’s Cross on N21 (b) Devon Road Cross on N21
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -177,6 +182,7 @@ Notic tion submi: ncillor lv
 | will move at the next Meeting that immediate steps be taken to solve the traffic
 problem in Collins Park, Abbeyfeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 18.
@@ -187,5 +193,6 @@ N Motion submi illor J. Sheahan
 
 in place a footpath to Kilfergus estate in Glin in order to provide safe access on foot to
 the estate.
+
 
 ---

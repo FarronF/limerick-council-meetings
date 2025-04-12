@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00-2019-10-09-Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _— Comhairle Cathrach
 & Contae Luimnigh
@@ -76,6 +79,7 @@ Presentation to Abbeyfeale Community Council, Pride of Place 2019 nominee.
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4. Housing Development Directorate
@@ -128,6 +132,7 @@ Questions submitted by Councillor T. Ruddle
 the following estates in Newcastle West, the remainder of the Daar River Walk estate
 and all of the Daar River View estate.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 14.
@@ -153,5 +158,6 @@ management of the Newcastle West Tennis Courts.
 
 I will move at the next Meeting that a bin service be provided at St. Mary's Graveyard,
 Abbeyfeale.
+
 
 ---

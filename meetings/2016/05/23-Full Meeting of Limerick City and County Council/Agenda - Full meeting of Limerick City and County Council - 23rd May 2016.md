@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20May%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corparaideacha agus Bainistiocht Athruithe
 Comhairle Cathrach agus Contae Lutnngh
@@ -50,6 +53,7 @@ To consider proposal for the disposal of land at —
 (b) Land between Castletroy Park and No. 7 Beechgrove, Newtown Park,
 Castletroy, Co. Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -100,6 +104,7 @@ Board of Innovate Limerick.
 
 Limerick and Clare Education and Training Board.
 Stakeholder Group of Limerick 2020.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -160,6 +165,7 @@ Government Act 2001 (as amended by the Local Government Reform Act,
 (Annual Financial Statement and Report from Deputy
 
 Chief Executive already circulated)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -223,6 +229,7 @@ To consider the adoption of the Limerick Cultural Strategy: A Framework
 2016-2030.
 (Report and Draft Strategy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) Limerick 2020 Bid for European Capital of Culture
@@ -264,6 +271,7 @@ to 13" March, 2016.
 
 (b) Conference on the Seanad and the Councillor held in Wexford on
 15/16" April, 2016.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -310,6 +318,7 @@ To note reports by Members who have participated at Conference/ Seminar/
 
 Meeting/Event.
 (Copy Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -358,6 +367,7 @@ Questions submitted by Councillor C. Prendiville
 
 I will ask at the next Meeting how many social houses are expected to be completed
 construction by Limerick City and County Council in 2016.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -413,6 +423,7 @@ Committee)
 developments specifically exclude the provision of timber panel boundary fencing in
 the interests of both safety and of visual amenity.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 20.
@@ -466,6 +477,7 @@ and support service waiting times for people with mental health difficulties in
 Limerick City and County and what he plans to do about the urban / rural divide in
 relation to access to mental health services.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10
@@ -506,5 +518,6 @@ November, December, January, February, March, April, May, June and July.
 
 30. Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 : Seirbhis{ Corparaideacha,
 _ ——_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
@@ -36,5 +39,6 @@ customerservices@limerick.ie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

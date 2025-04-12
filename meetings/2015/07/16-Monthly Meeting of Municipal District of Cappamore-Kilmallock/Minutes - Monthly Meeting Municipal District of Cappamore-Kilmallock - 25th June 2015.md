@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -37,6 +40,7 @@ Stated that crime was down generally even though manpower had decreased in
 recent years and that the trend was nationwide.
 
 Inspector Conlon agreed to attend the Municipal District Meetings quarterly.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -88,6 +92,7 @@ Proposed by Councillor Mitchell;
 Seconded by Councillor Donegan;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 “That, in accordance with Section 55 of the Planning and Development Act 2000 (as
@@ -133,6 +138,7 @@ Municipal District would be allocated as follows:
 Nicker — Wall €3,000
 Kilfinane — Forest View footpaths €7,000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6. G Municipal Alloc 2016
@@ -177,6 +183,7 @@ this report and confirmed the fish kill. The Council staff informed Inland
 Fisheries Ireland, who also attended on site. The Council and Inland
 Fisheries Ireland staff attempted to trace the source upstream, but
 were unable to identify the source on the evening in question due to
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -224,6 +231,7 @@ General Maintenance Budget and should be completed later this year.
 
 The following items were raised at the completion of the Agenda:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Members requested that the hedges around signposts be cut in order to make
@@ -238,5 +246,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03_draft_minutes_of_special_meeting_22nd_april2c_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
@@ -50,6 +53,7 @@ The Deputation then withdrew from the Meeting.
 Deputation from Abbeyfeale Community Development Association
 
 The Cathaoirleach welcomed the Deputation from Abbeyfeale Community
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -111,5 +115,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

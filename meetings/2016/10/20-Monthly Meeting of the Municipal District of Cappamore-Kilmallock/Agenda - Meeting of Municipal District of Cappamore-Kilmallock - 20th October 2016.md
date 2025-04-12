@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_20th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
@@ -43,6 +46,7 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach é wewlimerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 nw
@@ -71,5 +75,6 @@ Notice of Motion mitted b uncillor B. T
 | will move at the next Meeting that work be carried out on the footpath on the R512,
 the Limerick side of Bruff. This footpath is part of the Sli na Slainte route in Bruff and
 regularly used.
+
 
 ---

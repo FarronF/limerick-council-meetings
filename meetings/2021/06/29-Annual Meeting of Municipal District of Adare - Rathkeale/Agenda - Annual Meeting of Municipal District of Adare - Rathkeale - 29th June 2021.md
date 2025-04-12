@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-29th-june-2021_1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 & Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh,
@@ -52,5 +55,6 @@ Corporate Headquarters, Merchants Quay, Limerick. w
 
 @LimerickCouncil
 \ 061 - 556 000
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20on%2024th%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK
 HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON FRIDAY, 24™ JUNE, 2016,
@@ -45,6 +48,7 @@ public homecoming as well as the County's Under 21 team.
 International Band Championship and the Council's continued investment in and support for
 a wide variety of festivals and events - key drivers of economic growth and a vital source of
 income to Limerick during 2015.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -109,6 +113,7 @@ Seconded by Councillor Collins.
 
 “That Councillor Michael Hourigan be appointed Mayor of the Metropolitan District of Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -170,6 +175,7 @@ For Councillor Keller
 
 Councillors Keller, Loftus and Prendiville (3)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 For Councillor Secas
@@ -217,6 +223,7 @@ Seconded by Councillor Prendiville.
 
 “That Councillor Cian Prendiville be appointed Deputy Mayor of the Metropolitan District of
 Limerick to hold office until the next Annual Meeting or until a successor is appointed”.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -270,6 +277,7 @@ Members were missing from the Meeting, namely former Councillor Joe Crowley who 
 passed away tragically in the course of the year and former Councillor Shane Clifford who had
 resigned. They congratulated former Councillor Byrne on her appointment to the Seanad.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -287,5 +295,6 @@ Signed:
 MAYOR
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
@@ -48,6 +51,7 @@ It was agreed to hold the January Meeting of the Municipal District on Wednesday
 
 The Cathaoirleach welcomed representatives from Calvary Cemetery Committee and outlined
 the format for the presentation. He advised that a letter would issue to them, in due course,
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -112,6 +116,7 @@ was not stimulating business in Newcastle West as rates there were low and the s
 not very beneficial. It may need to be looked at in the future. Members also stated that
 something needed to be done to bring back people to live in towns and villages. It was
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3
@@ -168,6 +173,7 @@ REPLY: Signage for the Town Park has been ordered and will be erected once recei
 Signage for the Park will be erected at the Square and at the entrance to the
 Town Park.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4
@@ -221,6 +227,7 @@ District list for 2016 as this will assist with traffic calming within the estat
 
 Councillor Collins asked what criteria were used with regard to the provision of ramps in estates.
 The Operations Manager stated that each estate is looked at on its merits.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -279,6 +286,7 @@ Councillor Collins and agreed.
 
 REPLY: The Council will refer Councillor Scanlan’s Notice of Motion to Irish Water for
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -335,5 +343,6 @@ Signed:
 
 Cathaoirleach
 Dated:
+
 
 ---

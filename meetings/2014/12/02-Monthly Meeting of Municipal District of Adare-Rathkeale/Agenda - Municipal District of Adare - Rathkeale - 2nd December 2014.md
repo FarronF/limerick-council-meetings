@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare_-_rathkeale_-_2nd_december_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 il Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -46,6 +49,7 @@ To hear update on Proposed Lease of Gortadroma Landfill
 ]
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © Wwerwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -101,6 +105,7 @@ sales process and state who were the stakeholders involved in influencing the pr
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICE OF MOTION
@@ -109,5 +114,6 @@ Notice of of
 
 8. | will move at the next Meeting that Limerick City and County Council take in charge
 Ballyvareen Estate, Kildimo and An Curran Estate, Pallaskenry.
+
 
 ---

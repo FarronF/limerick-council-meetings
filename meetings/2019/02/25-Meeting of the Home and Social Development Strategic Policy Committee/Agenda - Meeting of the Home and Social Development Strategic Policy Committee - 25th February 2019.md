@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Agenda%20of%20Home%20and%20Social%20Development%20SPC%2025th%20February%202019.pdf)
+
+---
 **19/02/2019**
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**

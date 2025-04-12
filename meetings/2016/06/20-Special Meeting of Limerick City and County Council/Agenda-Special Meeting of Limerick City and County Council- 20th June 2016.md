@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda-Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council-%2020th%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
@@ -48,6 +51,7 @@ of Councillor Maria Byrne to Seanad Eireann.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach & vewevalimerick.te
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) Filling of Vacancies on Strategic Policy Committees and
@@ -79,5 +83,6 @@ Board of Innovate Limerick.
 
 Limerick and Clare Education and Training Board.
 Stakeholder Group of Limerick 2020.
+
 
 ---

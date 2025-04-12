@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%202022-10-26%20Minutes%20Draft%20Budgetary%20Plan%20Meeting.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
 MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE

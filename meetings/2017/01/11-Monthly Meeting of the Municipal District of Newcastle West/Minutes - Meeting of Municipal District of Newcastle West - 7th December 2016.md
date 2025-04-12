@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_meeting_of_municipal_district_of_newcastle_west_71216.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
@@ -42,6 +45,7 @@ the list could be viewed/inspected and would also include details on how to make
 in relation to the list. It was agreed that the list would be circulated to the Members for their
 
 information.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -95,6 +99,7 @@ to Newcastle West, Abbeyfeale, Glin or Dromcollogher Libraries. The work and cos
 adapting the branches to the required Open Library standard would be prohibitive.
 
 A discussion took place on the scheme and the following points were made by the Members:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -151,6 +156,7 @@ Section (70) Notice requiring them to carry out the works.
 
 (b) The Council is currently seeking prices for these works.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6. esti mi incillor F. F
@@ -204,6 +210,7 @@ possible.
 ! will ask at the next Meeting when the road will be repaired at the traffic lights at the church
 in Abbeyfeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 REPLY: Road repairs will be carried out at the traffic lights at the church in Abbeyfeale
@@ -254,6 +261,7 @@ would have access to domestic gas supply.
 
 In proposing the Motion, Councillor Sheahan stated that Kerry Co-Op had applied to connect to
 the Gas Pipeline coming from Foynes. He stated that it was imperative that the Economic
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -310,6 +318,7 @@ include the words “if any” and to read as follows:
 | will move at the next Meeting that the Council recognises the crucial role that staff in public
 libraries play in providing a safe environment where the values of equality and community thrive
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7
@@ -356,5 +365,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

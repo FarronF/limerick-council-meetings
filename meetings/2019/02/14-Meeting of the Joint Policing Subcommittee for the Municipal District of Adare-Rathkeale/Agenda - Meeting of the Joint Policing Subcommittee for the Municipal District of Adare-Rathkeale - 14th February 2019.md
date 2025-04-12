@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%2014th%20February%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
 & Contae Luimnigh Cominairle Cathrach agus Contae Luimnigh,
@@ -49,5 +52,6 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach ! © veorwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 ( 061 - 856 000
+
 
 ---

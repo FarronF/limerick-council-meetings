@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/01-minutes-monthly-meeting-17th-february-2020.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
 **COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 17TH** **FEBRUARY, 2020**

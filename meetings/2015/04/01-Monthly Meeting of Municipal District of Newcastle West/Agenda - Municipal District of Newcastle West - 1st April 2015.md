@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_muncipal_district_of_newcastle_west_-_1_april_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _——_—_— Seirbhisi Corpardideacha agus Bainisttocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -61,6 +64,7 @@ Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © worwlimerickie
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -110,10 +114,12 @@ Notices of Motion submitted by Councillor J. Scanlan
 | will move at the next Meeting that a weekly bin service be provided at Calvary Cemetery
 on an ongoing basis.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11. | will move at the next Meeting that, given the recently announced ability to adjust speed
 limits at Local Authority level, an audit be undertaken of our residential estates so as to
 introduce appropriate limits therein in the interests of general safety.
+
 
 ---

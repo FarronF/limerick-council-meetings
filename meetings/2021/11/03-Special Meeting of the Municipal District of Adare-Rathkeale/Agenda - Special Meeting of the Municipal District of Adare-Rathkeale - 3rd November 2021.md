@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-3rd-november-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
@@ -49,5 +52,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach * © vevew limerick.i
 
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 i ( 061 - 886 000
+
 
 ---

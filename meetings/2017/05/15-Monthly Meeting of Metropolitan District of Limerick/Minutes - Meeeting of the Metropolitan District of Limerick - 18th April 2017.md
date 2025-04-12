@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20Minutes%2018th%20April%202017.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
 **IN THE** **COUNCIL CHAMBER, MERCHANT’S QUAY,** **LIMERICK, ON TUESDAY, 18TH** **APRIL, 2017**

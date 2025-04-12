@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-5th-march-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 al Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar,
 imni Comhairle Cathrach agus Contae Luimnigh,
@@ -50,6 +53,7 @@ the Limerick Draft Noise Action Plans 2024-2028.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach é www.limerick te
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -97,6 +101,7 @@ we have in respect of the initial 21 homes on offer within DC Manor, (b) When ca
 we expect the first of these properties occupied, (c) How many responses have we
 received in respect of the second phase offer, (d) How many right sizers will be
 provided for the 10 step down Bungalow Units and when will these be occupied.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -161,5 +166,6 @@ pressure on the Government to ensure the Shannon Estuary is prioritized and that
 
 the findings of the Shannon Estuary Economic Task force report be implemented
 forthwith.
+
 
 ---

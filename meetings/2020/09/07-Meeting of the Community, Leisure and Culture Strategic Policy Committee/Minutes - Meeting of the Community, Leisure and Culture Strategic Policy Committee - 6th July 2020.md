@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-6th-of-july-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ Community, Leisure & Culture Strategic Policy Committee Meeting 06/07/2020 __
 
@@ -48,6 +51,7 @@ Item 1: Adoption of Minutes
 On the proposal of Clir J O’ Dea, seconded by Cllr D McSweeney the minutes of the previous
 committee meeting held on the 3" February, 2020 were unanimously adopted.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Item 2: Matter Arising
@@ -95,6 +99,7 @@ integrated ambitions, which focus on:
 
 * Access — Strengthening Public Engagement
 * Investment for the Future
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -144,6 +149,7 @@ through the food strategy.
 G Daly also highlighted that Limerick City & County Councils Marketing Department were
 working closely with Failte Ireland on a campaign to advertise Limerick as a perfect staycation,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Cllr K O' Hanlon and the members thanked all those who made the presentations under each
@@ -162,6 +168,7 @@ Minutes Proposed By:
 Minutes Seconded By:
 
 Minutes Signed By Chair:”
+
 
 
 ---

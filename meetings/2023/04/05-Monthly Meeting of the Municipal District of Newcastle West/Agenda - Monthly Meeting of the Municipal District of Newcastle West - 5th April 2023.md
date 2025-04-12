@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/00%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%205th%20April%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_— Comhairle Cathrach
 & Contae Luimnigh
@@ -71,6 +74,7 @@ wer limerick.te
 W @LimerickCouncil
 « 61 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -129,6 +133,7 @@ Dromcollogher Town.
 | will ask at the next Meeting when road reinstatement works are likely to be carried
 out at Glenduff.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 13.
@@ -161,5 +166,6 @@ Notice of Motion submitted by Councillor M. Collins
 
 the maintenance of the public lane way linking The Glebe, Monagea to the Gardenfield
 Road. The laneway needs drainage and surfacing works.
+
 
 ---

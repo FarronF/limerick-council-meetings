@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Adjourned%20Draft%20Budgetary%20Plan%202016%20-%20General%20Municipal%20Allocation%20-%204th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT THE ADJOURNED DRAFT BUDGETARY
 PLAN 2016 MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -50,6 +53,7 @@ Members stressed that they had agreed to the headings under which expenditure wo
 be allocated subject to having discretion in relation to the detail of spending under each
 such heading.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Proposed by Councillor O'Brien;
@@ -71,5 +75,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

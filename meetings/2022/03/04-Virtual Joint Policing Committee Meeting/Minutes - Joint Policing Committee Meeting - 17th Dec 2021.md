@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20JPC%20Meeting%20held%20on%2017th%20Dec%202021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF VIRTUAL MEETING OF THE JOINT POLICING COMMITTEE HELD ON**
 
 **17TH** **DECEMBER, 2021 AT 10.00 A.M.**

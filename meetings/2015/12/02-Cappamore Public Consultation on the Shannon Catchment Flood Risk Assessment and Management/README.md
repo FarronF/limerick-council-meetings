@@ -1,7 +1,0 @@
-# Meeting Details
-
-**Meeting Name:** Cappamore Public Consultation on the Shannon Catchment Flood Risk Assessment and Management
-
-**Date and Time:** 2015-12-02 14:30:00
-
-**<a href="https://www.limerick.ie/council/whats-on/cappamore-public-consultation-shannon-catchment-flood-risk-assessment-and" target="_blank">Link to meeting</a>**

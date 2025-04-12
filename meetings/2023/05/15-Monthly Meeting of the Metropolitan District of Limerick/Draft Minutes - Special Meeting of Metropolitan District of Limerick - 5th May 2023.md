@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-b-Draft-Minutes-Special-Meeting-of-Metropolitan-District-of-Limerick-5th-May-2023.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ONLINE VIA MICROSOFT TEAMS ON FRIDAY, 5TH** **MAY, 2023 AT 12.30PM**

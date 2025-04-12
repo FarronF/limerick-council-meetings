@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_15_december_2014.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN
 
 DISTRICT OF LIMERICK HELD IN THE COUNCIL CHAMBER,

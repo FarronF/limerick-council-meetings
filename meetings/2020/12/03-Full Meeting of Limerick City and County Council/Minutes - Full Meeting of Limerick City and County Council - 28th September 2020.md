@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-minutes-ordinary-meeting-28.09.2020.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD AT LIMERICK RACECOURSE, GREENMOUNT PARK,

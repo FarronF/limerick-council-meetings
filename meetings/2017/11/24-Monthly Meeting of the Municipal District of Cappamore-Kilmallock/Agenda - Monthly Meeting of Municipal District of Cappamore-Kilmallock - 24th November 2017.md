@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Meeting%20241117.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 _——_—_— & Contae Luimnigh
@@ -83,6 +86,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -132,6 +136,7 @@ amended to include upgrade of Sewerage Treatment Plants which are not fit for
 purpose.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -158,5 +163,6 @@ Notice of Motion submitted by Councillor W. O’Donnell
 Premises in Herebertstown under the provisions of the Derelict Sites Act.
 
 Correspondence.
+
 
 ---

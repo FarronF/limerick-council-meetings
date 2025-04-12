@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%20Council%20Meeting%2023.09.19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comhairle Cathrach Comhairt Gumnchena Come tuberdgh
 Fain & Contae Luimnigh Ceanncheathru: Chorparaideach,
@@ -61,6 +64,7 @@ Development Act, 2000 (as amended), at:
 @ wevews Kimerick.ie
 Ceanncheathré Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick . (061 - 587150
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -127,6 +131,7 @@ To consider Chief Executive's Reports for the months of June, July and August 20
 
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (4)
@@ -174,6 +179,7 @@ West to the Board of Paul Partnership.
 
 To consider the nomination of 4 external members to the Audit Committee.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (g) Foreign Travel
@@ -215,6 +221,7 @@ To consider the adoption of the Traveller Accommodation Programme 2019-2024, in
 accordance with the Housing (Traveller Accommodation) Act, 1998.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -268,6 +275,7 @@ Questions submitted by Councillor J, Scanlan
 
 measures due for implementation in the final Quarter of the current financial year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -319,6 +327,7 @@ and Transportation Strategic Policy Committee)
 | will move at the next Meeting that Limerick City and County Council will allocate 10% of its
 Transport budget to Cycling.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 16.
@@ -340,5 +349,6 @@ Biodiversity emergency.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

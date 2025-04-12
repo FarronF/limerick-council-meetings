@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-11th-february-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—__ Comhairle Cathrach
 & Contae Luimnigh
@@ -57,6 +60,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copy Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -92,6 +96,7 @@ To review position in relation to allocations under the General Municipal Alloca
 To consider receiving a Deputation from Foynes Flying Boat Museum at a future Meeting
 of the District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -123,5 +128,6 @@ Notice of Motion submitted by Councillor J. O'Donoghue
 Swimming Pool along with any other updates.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Ordinary%20Meeting%20271117.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Seirbhis{ Corparaideacha,
 _————— & Contae Luimnigh aah oo tats
@@ -70,6 +73,7 @@ To consider proposal for the disposal of land at:
 Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c)
@@ -127,6 +131,7 @@ To consider filling vacancy on the Limerick Sports Partnership consequent on
 the resignation of Councillor Sean Lynch from the Partnership.
 
 (Correspondence from Limerick Sports Partnership Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -186,6 +191,7 @@ existing private under-occupied housing units. It is anticipated that this
 scheme would act as a catalyst for the creation of additional housing units
 and optimise the utilisation of existing housing stock.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Recommendation No. 2
@@ -227,6 +233,7 @@ That, Limerick City and County Council ensures “accessibility for all” is
 embedded in all Council policy documents going forward.
 
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -272,6 +279,7 @@ To receive an update on the publication of the Issues Paper for the Regional
 and Spatial Economic Strategy for the Southern Region.
 
 (Documentation Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -325,6 +333,7 @@ accordance with Section 66 of the Local Government Act, 2001, as amended.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -377,6 +386,7 @@ Carlingford, Co. Louth, from 1* to 3 December, 2017.
 (k) Insolvency Services in Ireland, to be held in Dungarvan, Co. Waterford,
 from 8" to 10" December, 2017.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -420,6 +430,7 @@ housing list as requiring public housing.
 | will ask at the next Meeting how many dogs have been seized by Limerick City and
 County Council in 2017, how many were registered, how many were reclaimed, how
 many were re-homed, and how many were put down.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -468,6 +479,7 @@ Agriculture to grant-aid the retrospective fitting of ballcock controlled, elect
 alarmed valves, located in reception tanks, to control the discharge of slurry from
 overground slurry stores to these reception tanks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 17.
@@ -500,5 +512,6 @@ action is taken against landlords letting substandard accommodation.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

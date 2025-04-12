@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20May%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 agus
 
@@ -41,6 +44,7 @@ To consider proposal for the disposal of land at:
 (a) Plassey Park Road, Castletroy, Co. Limerick.
 (b) 38, Hennessy Avenue, Kileely, Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c) 20, Linden Court, Kennedy Park, Limerick.
@@ -77,6 +81,7 @@ Audit Committee.
 
 Council Audit Committee.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -118,6 +123,7 @@ modification, or refuse to make it, in accordance with Sections 13 (5) and
 (6) of the Planning and Development Act 2000 (as amended).
 
 (Report and Chief Executive’s Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -163,6 +169,7 @@ Consultative Committee.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -206,6 +213,7 @@ May, 2015.
 
 (c) IRL Event “Eirgrid Public Consultation,” held in Cork City on 8”
 May, 2015.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -254,6 +262,7 @@ be made for both private and local authority housing in 2015.
 | will ask at the next Meeting for an update on the Council housing
 maintenance audit as was discussed at a recent meeting of the Home and
 Social Development Strategic Policy Committee.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -306,6 +315,7 @@ Policy Committee, particularly with respect to our poor comparable statistics
 to the Counties of Kerry and Cork, with the aim of improving the management
 and welfare of dogs and for the safety of the public.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19.
@@ -350,6 +360,7 @@ well as how each Councillor voted on each Motion; information will also
 include each Councillor's political party, if any, as well as the area which the
 Councillors represent.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 23.
@@ -378,7 +389,9 @@ agreement of all parties concerned
 
 Correspondence.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

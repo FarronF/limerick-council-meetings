@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%20Agenda%20Monthly%20Meeting%20Adare-Rathkeale%2012th%20July%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comnairle Cathwach agus Contae Luimnigh,
@@ -53,6 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4,
@@ -93,5 +97,6 @@ representatives.
 Correspondence
 (Copy of Correspondence Enclosed).
 A.0.B
+
 
 ---

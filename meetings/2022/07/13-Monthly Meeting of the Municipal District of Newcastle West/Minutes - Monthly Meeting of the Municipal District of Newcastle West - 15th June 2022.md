@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28a%29%202022-06-15%20Minutes%20June%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
+
+---
 MINUTES
 
 OF

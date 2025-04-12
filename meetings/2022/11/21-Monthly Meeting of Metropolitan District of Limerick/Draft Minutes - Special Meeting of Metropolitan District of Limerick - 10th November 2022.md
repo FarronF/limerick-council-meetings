@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%20Draft%20Minutes%20Special%20Meeting%2010th%20November%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON THURSDAY, 10TH** **NOVEMBER, 2022 AT 12 NOON IN THE COUNCIL CHAMBER,**

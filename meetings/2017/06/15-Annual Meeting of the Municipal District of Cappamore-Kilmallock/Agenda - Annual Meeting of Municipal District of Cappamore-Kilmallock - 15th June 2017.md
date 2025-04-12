@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%2015th%20June%252c%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Seirdinist Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -49,5 +52,6 @@ hold office until the next Annual Meeting or until a successor has been elected.
 @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick |
+
 
 ---

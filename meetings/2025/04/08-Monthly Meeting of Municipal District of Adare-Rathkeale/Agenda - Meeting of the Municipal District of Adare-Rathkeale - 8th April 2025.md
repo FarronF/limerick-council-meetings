@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-8th-april-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach 7 bay herboseaph Ath Dara-Rath Caola,
 .. Ps Somhairie Cathrach agus Contae Lutmnigh,
@@ -47,6 +50,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -78,6 +82,7 @@ To update Members on issues of interest in the District.
 General Municipal Allocation (GMA)
 
 To review position in relation to allocations under the General Municipal Allocation 2025.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -118,5 +123,6 @@ I will move at the next Meeting that the May District Meeting takes place in St.
 National School, Croom.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

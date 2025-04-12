@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/02-minutes-budget-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS OF DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD
@@ -36,6 +39,7 @@ He informed the Members that a total of €1,403,000 had been allocated by the C
 Executive to the General Municipal Allocation with €295,000 of this assigned to the Municipal
 District of Cappamore-Kilmallock, which was the second highest allocation to a District after
 the Metropolitan District allocation.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -76,5 +80,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

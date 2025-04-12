@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02-minutes-monthly-meeting-cappamore-kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN COLAISTE IOSAEF
@@ -30,6 +33,7 @@ impressive buildings and facilities.
 
 With the agreement of the Elected Members, the Cathaoirleach proposed a vote of sympathy
 for all those who had perished in recent months because of the Covid 19 crisis and he praised
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -82,6 +86,7 @@ The Elected Members welcomed the significant amount of works and expenditure pro
 in the Schedule and thanked the Council staff for their assistance in the preparation of
 same. The Director, Support Services-Finance, Corporate, HR & ICT confirmed that a
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 presentation would be made to the Elected Members later in the year in relation to the
@@ -129,6 +134,7 @@ NOTICE OF MOTION
 5. Notice of Motion submitted by Councillor M. Ryan
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
@@ -172,6 +178,7 @@ Limerick City and County Council write to the HSE and Manager of Shannondoc and 
 update and full clarity on this essential and necessary service which serves a huge area and
 what are its future plans.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Proposed by Cilr Mitchell, seconded by Cllr Teefy and agreed that the Meetings
@@ -212,6 +219,7 @@ update on the request for continuous white lining along the N24 at Pallasgreen, 
 the junction with the L5050 and the lining of the same junction.
 
 Reply:
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -256,6 +264,7 @@ and flooding Irish Water customers and public lands.
 Further investigation revealed that the cause of this overflow discharge to river was as a
 direct result of a partial network blockage further downstream.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Water Services Operatives later that evening removed a significant amount of debris and
@@ -274,7 +283,9 @@ This concluded the Meeting.
 Signed: Date:
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

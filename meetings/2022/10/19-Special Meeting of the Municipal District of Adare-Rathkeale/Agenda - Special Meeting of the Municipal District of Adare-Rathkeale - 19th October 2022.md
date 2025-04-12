@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-19th-October-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach Ceantar Rardasach Ath Dara-Rath Caola,
 _—_ %s Contae Luimnigh Comhairle Cathvach agus Contae Luimnigh,
@@ -46,5 +49,6 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © wonwdimerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 \ 061 - 556 000
+
 
 ---

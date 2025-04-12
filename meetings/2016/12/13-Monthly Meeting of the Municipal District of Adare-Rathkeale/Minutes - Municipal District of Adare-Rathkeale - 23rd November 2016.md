@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_c_minutes_23rd_november2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
 ADARE-RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
@@ -55,6 +58,7 @@ would be welcomed by the Gardai.
 ¢ In relation to the use of dogs to detect drugs, reasonable ground for a search would have
 to be established before a warrant was issued in such cases.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -91,5 +95,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

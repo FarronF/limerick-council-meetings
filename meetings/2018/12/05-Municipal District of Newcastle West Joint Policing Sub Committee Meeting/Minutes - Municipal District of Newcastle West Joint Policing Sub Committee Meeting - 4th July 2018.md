@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%202018-07-04%20Minutes%20JPC%20Subcommittee.pdf)
+
+---
 MINUTES
 
 OF

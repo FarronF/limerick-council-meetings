@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%2015.10.19%20-%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.docx.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 —_ Comhairle Cathrach
 & Contae Luimnigh
@@ -21,6 +24,7 @@ es a "
 D ‘OR OF SER a
 PHYSICAL DEVELOPMENT DIRECTORATE
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 1.
@@ -33,5 +37,6 @@ recht, Netherlands looking a ling | -
 
 “| will move at the next Meeting that Limerick City and County Council will allocate
 10% of its Transport budget to cycling”.
+
 
 ---

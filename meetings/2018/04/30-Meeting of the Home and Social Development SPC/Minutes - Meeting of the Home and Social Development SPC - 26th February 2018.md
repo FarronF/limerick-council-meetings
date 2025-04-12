@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Minutes%20of%20February%20SPC%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ADS
 —=—>
@@ -88,6 +91,7 @@ Corporate Headquarters, Merchants Quay, Limerick
  @LimerickCouncil
 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Item 3: National Development Plan 2018-2027
@@ -136,6 +140,7 @@ and Renew was discussed.
 
 Cllr. J. Costelloe enquired about the progress with Cosgrave Park, St. Anne’s Court and the
 CHAS Flats. Mr. Seamus Hanrahan advised that the Cosgrave Park construction budget is
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -187,6 +192,7 @@ housing need;
 Affordable Housing and mechanisms to deliver; and
 Announcement for 2” scheme of LIHAF to pump-prime sites for housing
 development
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -243,6 +249,7 @@ Inspections 2016 and 2017; and
 
 Main reasons for Non-Compliance.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 He stated the majority of inspections in 2016 were on HAP properties and explained what
@@ -286,5 +293,6 @@ for approval at the next full sitting of Limerick City and County Council.
 The meeting concluded.
 
 Date of next meeting: Monday 30" April 2018 at 11.30am, County Hall, Dooradoyle.
+
 
 ---

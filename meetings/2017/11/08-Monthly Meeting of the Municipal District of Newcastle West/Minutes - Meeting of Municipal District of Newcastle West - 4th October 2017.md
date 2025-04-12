@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%202017-10-04%20Minutes%20Monthly%20Meeeting%20Newcastle%20West.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN KANTOHER BUSINESS
@@ -45,6 +48,7 @@ Churchtown, Newcastle West. A further update to be provided at November Meeting.
 At the request of the Director of Services, the Cathaoirleach and Members agreed to take an
 additional item, which was not listed on agenda in relation to review of Newcastle West Pool
 Feasibility Impact Study later in the Meeting.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -104,6 +108,7 @@ On the proposal of Councillor Browne, seconded by Councillor Collins, it was agr
 On the proposal of Councillor Scanian, seconded by Councillor Galvin, it was agreed to allocate
 the following:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ¢ €3,500 to lights on the R515.
@@ -153,6 +158,7 @@ Road, Abbeyfeale.
 Circulated, correspondence dated 25'” September, 2017, from Newcastle West Development
 Association seeking the nomination of the ‘Cathaoirleach of the Day’ of the Municipal District of
 Newcastle West to sit on the Board.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -210,6 +216,7 @@ Abbeyfeale; (b) riverbank at the back of New Street, Abbeyfeale.
 REPLY: (a) The Question has been referred to Irish Water for an update. The Members
 will be advised as soon as a decision has been made by Irish Water.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Irish Water generally does not attend District Meetings but will be happy to meet
@@ -266,6 +273,7 @@ Meetings have been held with the Til in relation to National Route Proposals and
 
 draft Bye-Laws are currently being prepared.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The revised proposals and the draft Bye-Laws will be brought before the November
@@ -315,5 +323,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

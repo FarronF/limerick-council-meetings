@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-9th-february-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ee Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caota,
 & Contae Luimnigh Comhavte Cathrach agus ¢ vee sala
@@ -61,6 +64,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 \ 062 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7.
@@ -98,6 +102,7 @@ General Municipal Allocation (GMA)
 
 To review position in relation to allocations under the General Municipal Allocation
 2020/2021.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -139,5 +144,6 @@ so as our school buses pedestrians, cyclists and all other forms of transport ca
 roads safely.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

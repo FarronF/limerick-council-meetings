@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/Agenda%20-%20Special%20Meeting%20of%20Council%20250917.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 __—_—_—" & Contae Luimnigh
@@ -56,6 +59,7 @@ oe wevewslimerick.te
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ADR MO ™
@@ -99,6 +103,7 @@ wt Koa Sin 0
 co A Ver Bisse
 
 (lt. Cok. Asi 282,
+
 
 
 ---

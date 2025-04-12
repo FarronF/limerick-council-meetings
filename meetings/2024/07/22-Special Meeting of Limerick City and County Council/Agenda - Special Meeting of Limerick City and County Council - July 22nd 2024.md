@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-special-meeting-22.07.2024-at-2.30-pm_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _ Comhairle Cathrach
 & Contae Luimnigh
@@ -62,5 +65,6 @@ associated works for Croom United Football Club. Plg. Ref. 24/60/312 refers.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

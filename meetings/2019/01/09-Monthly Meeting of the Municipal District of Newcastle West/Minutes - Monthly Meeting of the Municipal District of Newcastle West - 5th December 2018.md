@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20%28a%29%202018-12-05%20Minutes%20December.pdf)
+
+---
 MINUTES
 
 OF

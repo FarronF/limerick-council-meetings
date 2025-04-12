@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
@@ -46,6 +49,7 @@ that he was looking forward to working with all the Members, Management and staf
 coming year. He said it was a great honour for him and his family as his great grandfather
 foxy Tom O'Donnell from Bulgaden was Chairman of the Kilmallock Board of Guardians,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2
@@ -81,5 +85,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

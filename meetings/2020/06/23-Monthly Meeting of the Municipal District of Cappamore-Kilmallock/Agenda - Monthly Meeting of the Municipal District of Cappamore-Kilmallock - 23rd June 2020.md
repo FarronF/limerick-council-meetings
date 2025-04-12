@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-agenda-monthly-meeting-23-6-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 __-_e Comhairie Cathrach Comhairle Cathrach agus Contae Luimnigh
 
@@ -49,6 +52,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Support Services Directorate
@@ -87,6 +91,7 @@ Limerick City & County Council allocate funding to purchase Mobile CCTV units th
 be installed and monitored in the Cappamore Kilmallock Municipal District to combat
 illegal dumping.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 7
@@ -124,5 +129,6 @@ update on remedial works on the surface water pipe in the river Loobagh, being u
 a storm overflow from the public sewer at the rear of Deebert Close,
 
 Kilmallock.
+
 
 ---

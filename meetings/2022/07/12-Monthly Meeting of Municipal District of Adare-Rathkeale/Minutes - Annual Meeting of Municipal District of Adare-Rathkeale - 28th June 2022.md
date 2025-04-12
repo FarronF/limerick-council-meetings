@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20%28b%29%20Minutes%20of%20Annual%20Meeting%20Adare-Rathkeale%2028th%20June%202022.pdf)
+
+---
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**

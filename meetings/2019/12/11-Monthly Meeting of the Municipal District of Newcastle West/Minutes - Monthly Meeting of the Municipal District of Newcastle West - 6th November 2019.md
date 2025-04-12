@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%202019-11-06%20Minutes%20November.pdf)
+
+---
 MINUTES
 
 OF

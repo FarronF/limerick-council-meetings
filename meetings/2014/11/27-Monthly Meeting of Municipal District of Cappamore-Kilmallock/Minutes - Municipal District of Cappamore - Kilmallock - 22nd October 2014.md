@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_cappamore_-_kilmallock_-_22nd_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN LOUGH GUR
@@ -46,6 +49,7 @@ Circulated, copy of draft Minutes of the following Meetings:
 (a) | Meeting of the Municipal District of Cappamore-Kilmallock held on 18”
 September, 2014.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (b) | Budgetary Plan Meeting of the Municipal District held on 10" October, 2014.
@@ -93,6 +97,7 @@ ongoing basis to maintain access to Castle Court. Local businesses
 have been told by Limerick City and County Council to advise their
 customers to use the nearby car park in order to keep the road clear for
 road users.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -145,6 +150,7 @@ contains a parking spot for a speed van to enforce the approved speed
 limit. Limerick City and County Council considers that no more traffic
 calming measures are warranted at this stage.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 9. Notice of Motion submitted by Councillor E. Ryan
@@ -190,6 +196,7 @@ Development Fund. The lead partner is the Lough Gur Group Water
 Scheme with Limerick City and County Council providing the balance
 of funding.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 The Senior Executive Engineer, Environment, updated the Members in relation to a
@@ -229,7 +236,9 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

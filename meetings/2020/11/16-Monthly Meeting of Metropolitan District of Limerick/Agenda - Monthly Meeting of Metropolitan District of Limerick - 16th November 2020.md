@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-monthly-meeting-16th-november-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Pe
 
@@ -61,6 +64,7 @@ mcustomerservices@limerick.ie
 Ceanncheathnii Chorpardideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 2. Disposal of Land
@@ -98,6 +102,7 @@ extension of the footpath.
 
 Can you advise when the field in Castletroy Park that is used by Aisling Annacotty will be drained as
 it is waterlogged every time it rains.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -143,6 +148,7 @@ forward for future plans.
 
 | will ask at the next meeting for a progress update on the Affordable Housing Scheme and what is
 the projected timeline until it is open to applications.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -191,6 +197,7 @@ a list for emergency accommodation and rough sleepers , if so can the following 
 Also, what plans are in place to increase bed capacity over the winter months, what emergency
 plans are in place for extreme weather conditions and what defines extreme weather conditions.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 19. Question submitted by Councillor S. Benson
@@ -235,6 +242,7 @@ miles of continuous welded track laid over the past few years which should have 
 increase in speed. This hasn't happened. Increased speed is crucial to the development and
 marketing of the line.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 26. Notice of Motion submitted by Councillor O. O’Sullivan
@@ -261,5 +269,6 @@ sultable transfer, within their stock, in the cases of overcrowding, downsizing 
 
 30. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

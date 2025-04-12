@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20March%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 le Duiche Bardais an Chaisleain Nua Thie,
 aie a Contec Cath ach Comhairle Cathrach agus Contae Luimnigh,
@@ -68,6 +71,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 \ 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -110,6 +114,7 @@ Question submitted by Councillor T. Ruddle
 twill ask at the next Meeting when will the dog park in Newcastle West commence.
 It was approved at this Council budget meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11.
@@ -142,5 +147,6 @@ t will move at the next Municipal Meeting that the Council relocate the disabili
 from outside Mann's former supermarket to outside St. Mary's Boys’ School,
 Abbeyfeale just above the school car park in order to facilitate a pupil with special
 needs who is confined to a wheelchair.
+
 
 ---

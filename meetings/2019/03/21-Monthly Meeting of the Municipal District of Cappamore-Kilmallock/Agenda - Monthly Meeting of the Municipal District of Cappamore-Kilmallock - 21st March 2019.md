@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20Agenda%20MD%20Meeting%2021st%20March%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_— Comhairle Cathrach
 = —_ ° Contas —
@@ -35,6 +38,7 @@ AGENDA
 
 the 28th February, 2019.
 (Copy enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -80,6 +84,7 @@ QUESTIONS
 | will ask at the next meeting of the Municipal District as to what is the current update
 in relation to Hospital Sewerage Treatment Plant, Hospital, Co.Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6. Question submitted by Councillor Ger Mitchell
@@ -95,7 +100,9 @@ Limerick City and County Council review the traffic calming measures in the prox
 of Scoil P6!l Secondary School, the National School, and the GAA Grounds in Kilfinane
 with a view to possibly installing speed ramps.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-special-meeting-30.06.2020_1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ———_ Comnairie Cathrach
 & Contae Luimnigh
@@ -56,5 +59,6 @@ oe worvedimerick.te
 @LimerickCouncil
 
 061 - 557180
+
 
 ---

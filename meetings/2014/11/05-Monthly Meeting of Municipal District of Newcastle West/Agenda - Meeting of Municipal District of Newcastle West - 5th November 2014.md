@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_newcastle_west_-_5th_november_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 _—_—_—_— Seirohisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -46,6 +49,7 @@ Newcastle West Garda Station, will be in attendance).
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wewwlimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Ne
@@ -85,6 +89,7 @@ Colbert’s Street to alleviate the traffic problems in the town.
 estates in our charge to reduce the speed limit as asked by Minister Paschal Donohoe
 following a campaign by the family of the late Jake Brennan.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -110,5 +115,6 @@ Notice of Motion submitted by Councillor S. Browne
 
 | will move at the next Meeting that the Council provide more street bins for the town of
 Abbeyfeale.
+
 
 ---

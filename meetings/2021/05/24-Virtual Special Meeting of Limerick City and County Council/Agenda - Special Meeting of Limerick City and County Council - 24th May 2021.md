@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-special-meeting-24.05.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 a Comal Cattrach sonata conn at pn
 & Contae Luimnigh . “es :
@@ -57,5 +60,6 @@ m customerservices@limerick.le
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
+
 
 ---

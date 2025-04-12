@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%209th%20November%2C%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 j Seirbhisi Corparaideascha,
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
@@ -56,6 +59,7 @@ Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach va Lodi - 887150
 
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 10.
@@ -99,6 +103,7 @@ and the surrounding townlands.
 
 we
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 11. Question submitted by Councillor E. O’Brien
@@ -116,5 +121,6 @@ water flowing into the Shannon estuary.
 
 13. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

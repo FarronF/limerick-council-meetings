@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20%28ii%29%20Agenda%20September%20Council%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 _—_—_ & Contae Luimnigh
@@ -78,6 +81,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 vy @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -129,6 +133,7 @@ To consider approving the appointment of (i) Councillor Crowley to the
 Economic Development, Enterprise and Planning Strategic Policy Committee
 to replace Councillor Collins (M), and (ii) Councillor Collins (M) to the
 Environment Strategic Policy Committee to replace Councillor Crowley.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -188,6 +193,7 @@ York, under Section 142(5) of the Local Government Act, 2001, as amended.
 
 (Report to follow)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (1)
@@ -237,6 +243,7 @@ Meath, on 22™ September, 2017.
 (d) ‘Local Authority Budgets 2018’ to be held in Letterkenny, Co. Donegal, from
 13" to 15" October, 2017.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (e) ‘A Practical Guide to Budget 2018’ to be held in Carlingford, Co. Louth, from
@@ -276,6 +283,7 @@ Question submitted by Councillor L. Galvin
 8. | will ask at the next Meeting (2) how many State Agencies are responsible for the
 River Galey in Athea; (b) when will the proposed drainage works begin; and (c) what
 works exactly are to be carried out.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -317,6 +325,7 @@ issued by the Council in the past 2 years; (b) How many of these orders have rea
 a successful conclusion; (c) What budget has been allocated by this Council to
 secure vacant dwellings using the CPO method; and (d) When did this Council first
 use this method with regard to vacant houses.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -366,5 +375,6 @@ Life Saving Equipment Bill 2017.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

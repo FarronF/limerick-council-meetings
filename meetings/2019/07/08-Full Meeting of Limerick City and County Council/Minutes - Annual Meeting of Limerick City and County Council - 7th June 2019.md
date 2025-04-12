@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2007.06.2019.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ANNUALMEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD**
 
 **IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON FRIDAY, 7TH** **JUNE, 2019, AT 3.00 P.M.**

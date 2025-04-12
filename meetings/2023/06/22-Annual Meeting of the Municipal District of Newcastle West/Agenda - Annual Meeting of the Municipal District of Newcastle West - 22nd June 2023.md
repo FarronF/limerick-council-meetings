@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Annual-Meeting-of-the-Municipal-District-of-Newcastle-West-22nd-June-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ae ——- Cathrach
 ontae Luirmnigh
@@ -57,5 +60,6 @@ office until the next Annual Meeting or until a successor has been elected.
 
 Ceanncheathra Chorpardéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
+
 
 ---

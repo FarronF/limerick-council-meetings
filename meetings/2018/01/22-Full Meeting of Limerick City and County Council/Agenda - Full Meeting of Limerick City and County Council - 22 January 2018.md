@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20January%20Council%20Meeting%20220118.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 ; Seirbhisi Corpardidescha,
 
@@ -69,6 +72,7 @@ and 4" January, 2018, already circulated)
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach vy @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 3.
@@ -103,6 +107,7 @@ To consider the approval of Culture and Arts Sector Open Call
 Nominations to the Cultural Strategic Policy Committee.
 
 (Report to follow}
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -152,6 +157,7 @@ and County of Limerick to Lisbon, Portugal, under Section 142(5) of the Local
 
 Government Act, 2001, as amended.
 (Report Enclosed)
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -208,6 +214,7 @@ private, profit-making events.”
 (Chairperson’s Report Enclosed, together with Background Report in
 relation to Recommendation No. 1)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 4.
@@ -254,6 +261,7 @@ Organisations, held in Limerick on 1* December, 2017.
 (b) The Finance Act, held in Carlingford, Co. Louth, from 5" to 7" January,
 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (c) Entitlement to Health Services, to be held in Clonakilty, Co. Cork, from 19"
@@ -292,6 +300,7 @@ decide to evict them.
 
 | will ask at the next Meeting for an update on proposals to establish a Garda Kiosk in
 Limerick City Centre.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -344,5 +353,6 @@ centenary events.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

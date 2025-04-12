@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_2nd_december_2014_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
@@ -44,6 +47,7 @@ sufficient land zoned within the town to accommodate the new school. A report wa
 circulated at the last Municipal District Meeting outlining that there was sufficient land
 zoned in the current Local Area Plan for Croom and a resolution was passed to extend the
 existing Local Area Plan.
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -97,6 +101,7 @@ Amendment proposed by Councillor O'Brien.
 
 The result of the voting was as follows:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 For the Amendment:
@@ -144,6 +149,7 @@ appropriate way of maintaining these buildings is allowing their use for
 commercial or dual purposes. At present these dwellings not in commercial
 use are derelict and do not fulfil modern residential demands, facilities or
 size. The continuation of current residential zoning will compound and
+
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
@@ -202,6 +208,7 @@ phase 2 residential and phase 2 serviced sites at Deepark. Any future
 development on these lands shall incorporate as many of the trees as
 possible into the scheme. A comprehensive tree survey carried out by a
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 (iii).
@@ -259,6 +266,7 @@ development in accordance with the County Development Plan and the
 zoning of Adare Soccer Club portion of ground at Deerpark from Residential
 Development Area Phase 1 to Open Space compliments these guidelines.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 6
@@ -312,6 +320,7 @@ it was agreed to hold the next monthly Meeting on 13” January, 2015 at 9.00 a.
 Foynes Flying Boat & Maritime Museum, Foynes and to receive a Deputation from Foynes
 Flying Boat & Maritime Museum.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 5. Deputation from the Parents’ Council of Shanagolden National
@@ -359,6 +368,7 @@ The sale was negotiated directly with the Receiver for the Bank, Price
 Waterhouse Coopers, by staff members of Innovate Limerick.
 The local elected representatives have been briefed on this initiative.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 NOTICE OF MOTION
@@ -392,6 +402,7 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 C. ~ aN
@@ -399,7 +410,9 @@ C. ~ aN
 wv > s
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 
 ---

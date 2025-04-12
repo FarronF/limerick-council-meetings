@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-26th-May-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 Comhairle Cathrach
 ——-l & Contae Luimnigh.
@@ -49,5 +52,6 @@ Meetings Administrator.
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Lulmneach
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---
