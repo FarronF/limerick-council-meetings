@@ -35,13 +35,19 @@ If you want to search a specific phrase you should wrap it in quotation marks.
 ### Useful additional parameters
 Additional parameters can be included in a search
 #### Search a year/month:
-To search only files from meetings in 2025
+To search only files from meetings in 2024
 
-`path:meetings/2025`
+`path:meetings/2024`
 
-To search only files from meetings in September 2024
+This is very effective for agendas however remember that minutes are stored in the meeting they are adopted, not the meeting they were recorded in. As such minutes for meetings at the end of the year are likely to be stored in the following year.
 
-`path:meetings/2024/09`
+It may be more effective to search for year anywhere in the path.
+
+`path:**/*2024*`
+
+To search only files from meetings in September 2023
+
+`path:meetings/2023/09`
 
 #### Searching a specific districts meetings
 Use one of the following to limit searches to a specific district.
@@ -72,3 +78,9 @@ More PDFs. (replies to questions next)
 
 Better OCR for scanned pages to improve accuracy
 
+Normalise file names for consistancy in searching.
+
+Possibly store minutes in the folder for the meeting they were recorded from rather than when they were adopted. This might make searching by year easier but could introduce new challenges.
+
+## Feedback
+If you have feedback for this project feel free to message me directly or open a GitHub discussion on the repo.
