@@ -6,10 +6,15 @@ The purpose of this repo is to allow easy searching of the contents of these PDF
 
 Note: Scanned pages(usually the whole pdf) are read using basic OCR and as such the contents are likely to be incorrect. These pages have a disclaimer at the top in the markdown.
 
-Potential additions
+Files are located in the meeting as they are uploaded to limerick.ie as such minutes will be associated with the meeting where they were adopted rather than the meeting they were recorded.
+
+Potential additions:
+
 README.md files at each level to allow for better visibility of meetings in child folders.
+
 More PDFs. (replies to questions next)
+
 Better OCR for scanned pages to improve accuracy
 
 ### Why?
-I believe transparency of government, even local government is of vital importance. Currently Limerick City and County Council do not stream or have any video/audio recording of their meetings. While the minutes do not capture absolutely everything in a meeting they are valuable but are cumbersome to access and not easily searchable, this is to help address that.
+I believe transparency of local government is of vital importance. Currently Limerick City and County Council do not stream or have any video/audio recording of their meetings. While the minutes do not capture absolutely everything in a meeting they are valuable, but are cumbersome to access and not easily searchable, this is to help address that.
