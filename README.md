@@ -76,7 +76,7 @@ README.md files at each level to allow for better visibility of meetings in chil
 
 More PDFs. (replies to questions next)
 
-Better OCR for scanned pages to improve accuracy
+Better OCR for scanned pages to improve accuracy. (this may be hard due to my limited hardware)
 
 Normalise file names for consistancy in searching.
 
@@ -84,3 +84,10 @@ Possibly store minutes in the folder for the meeting they were recorded from rat
 
 ## Feedback
 If you have feedback for this project feel free to message me directly or open a GitHub discussion on the repo.
+
+## Support
+If this project is useful, feel free to let me know. Star the repo. 
+
+Or if you really want, you can support the project through Ko-Fi by clicking the button below. This will go towards renting a virtual machine for better OCR of those badly scanned PDFs.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/farronf)
