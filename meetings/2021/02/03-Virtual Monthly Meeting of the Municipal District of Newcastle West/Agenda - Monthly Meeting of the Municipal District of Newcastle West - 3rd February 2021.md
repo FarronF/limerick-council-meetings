@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-2021-02-03-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “el Comhairle Cathrach
 & Contae Luimnigh
 aArN eo
@@ -82,8 +86,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 W @LimerickCouncil
 (061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -133,8 +139,10 @@ juesti ncillor F. F
 | will ask at the next Meeting for work to begin on the remaining footpaths that need
 to be replaced on the Killarney Road, Abbeyfeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -172,5 +180,6 @@ hand side of the road along the R520 from Kerry Co-Op to the speed limit sign.
 
 | will move at the next Meeting that pedestrian crossings be provided at the North
 and Liscarroll roads along the R522 at Dromcollogher in the Interest of safety.
+
 
 ---

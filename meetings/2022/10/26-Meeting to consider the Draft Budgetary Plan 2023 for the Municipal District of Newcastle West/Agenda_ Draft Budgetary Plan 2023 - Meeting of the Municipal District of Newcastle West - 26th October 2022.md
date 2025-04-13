@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%202022-10-26%20Agenda%20Budget%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiiche Bardais an Chaisieain Nua Thiar,
 _——_ & Contae Luimnigh Comhairle Cathach agus Contae Luimnigh
 
@@ -51,5 +55,6 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach preter
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 { 061 - 556 000
+
 
 ---

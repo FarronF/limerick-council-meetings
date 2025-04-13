@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20metropolitan_district_of_limerick_-_minutes_of_meeting_-_21st_july_2014.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
 METROPOLITAN DISTRICT OF LIMERICK HELD IN THE

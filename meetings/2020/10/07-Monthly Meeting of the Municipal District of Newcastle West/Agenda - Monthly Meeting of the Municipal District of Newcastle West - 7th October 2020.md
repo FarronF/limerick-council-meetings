@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-2020-10-07-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_— Comhairle Cathrach Den ence eacroddin Mion Thr.
 & Contae Luimnigh Comhaiste Cat a — =
 APN a -_ Gortbui,
@@ -63,8 +67,10 @@ Corporate Headquarters, Merchant's Quay, Limerick v
 
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6.
 
 10.
@@ -115,8 +121,10 @@ Mountmahon towards the spring to be cleaned out properly.
 Newcastle West (b) how many are on HAP (c) how many vacant houses have we in
 Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 14.
@@ -164,5 +172,6 @@ public car parking.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

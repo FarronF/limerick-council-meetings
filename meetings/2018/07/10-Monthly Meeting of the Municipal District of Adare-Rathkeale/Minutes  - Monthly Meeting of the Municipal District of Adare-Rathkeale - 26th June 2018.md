@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20%28b%29%20Minutes%20Monthly%20Meeting%2026th%20June%2C%202018.pdf)
+
+---
 1
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**

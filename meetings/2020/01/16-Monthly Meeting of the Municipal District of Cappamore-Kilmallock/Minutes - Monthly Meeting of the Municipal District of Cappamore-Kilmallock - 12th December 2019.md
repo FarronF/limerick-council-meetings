@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/02%20Minutes%20Dec%202019%20MD%20Mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -43,8 +47,10 @@ been prepared in accordance with Section 179(3) (a) of the Planning and Developm
 amended).
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The A/Director, Capital Investment Directorate outlined the content of the Chief Executives
 Report and the submissions received and the responses to same. The Elected Members
 thanked the A/Director, Capital Investment Directorate for his presentation and welcomed
@@ -88,8 +94,10 @@ Council owned housing stock, funding for which was approved by the full Council,
 that this programme would commence in the first quarter of 2020 with a sample survey of
 housing stock across both Limerick City and County housing areas.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Housing Pro R
 
 Circulated, Housing Progress Report from the Director of Services, Housing Development
@@ -130,8 +138,10 @@ Kilmallock Municipal District?
 (b) How many tenants are on the Housing Assisted Payment (HAP) Scheme in the
 Cappamore-Kilmallock Municipal District?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Reply:
 
 (a) The Housing Waiting List figures for the Cappamore-Kilmallock Municipal District are
@@ -166,8 +176,10 @@ expand and enhance the charging network across Ireland which is part funded by t
 Government's Climate Action Fund, to help meet the expected growth of electric vehicles in
 the coming years.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Any Other Business
 ¢ Lough Gur Co-Operative Development Society Limited
 
@@ -208,8 +220,10 @@ Meeting. On the proposal of Cllr Donegan, seconded by Clir Teefy, and agreed it 
 decided to invite the two deputations to attend the respective January 2020 and
 February 2020 Municipal District Meetings.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Vote of Sympathy
 
 The Elected Members extended a Vote of Sympathy to the family and friends of Colin
@@ -247,5 +261,6 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

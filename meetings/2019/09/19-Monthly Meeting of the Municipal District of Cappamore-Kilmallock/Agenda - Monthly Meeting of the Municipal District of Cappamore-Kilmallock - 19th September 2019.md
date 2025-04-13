@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Agenda%20Sept%202019%20MD%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 2 o antatr, Aras Mhaine Seoighe,
@@ -53,8 +57,10 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 
 Limerick City and County Council, Aras Mainchin Seoighe Area Office Report enaalrieas suieesss
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Community Development Directorate
 (a) Update from the Community Development Directorate.
 
@@ -87,8 +93,10 @@ To discuss the Municipal District Reception scheduled for November 2019.
 To note Housing Progress Report from the Director of Services, Housing Development
 Directorate dated 4" September, 2019.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Notice of Motion submitted by Councillor John Egan
 
 | will move at the next meeting of the Cappamore Kilmallock Municipal District that Limerick
@@ -126,8 +134,10 @@ I will ask at the next Municipal District meeting what is the current progress u
 the traffic calming measures being installed in Hospital, which was highlighted at
 previous Municipal District meetings in the interest of safety for all road users.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor John Egan
 
 twill ask at the next Meeting of the Municipal District for a progress update on the
@@ -153,5 +163,6 @@ tenants
 
 | will ask at the next Meeting of the Municipal District for an update on when will the
 Speed Ramp/Cushion be installed on the RS13 in Caherconlish.
+
 
 ---

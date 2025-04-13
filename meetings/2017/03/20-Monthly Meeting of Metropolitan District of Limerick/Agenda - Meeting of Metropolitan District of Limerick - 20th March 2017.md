@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_20th_march2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,8 +58,10 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -106,8 +112,10 @@ To consider approving Grant Scheme for Festival Funding 2017.
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -165,8 +173,10 @@ Notice of Motion submitted by Cmhlr. S. 6 Ceallaigh
 ensure that there will be no cuts to public transport in the Metropolitan District of
 Limerick, including connectivity with areas outside of the district.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 is.
 
 16.
@@ -204,5 +214,6 @@ Notice of Motion submitted by Councillor M. McCreesh
 | will move at the next Meeting that this District opposes, due to overwhelming public
 opposition, the incinerating of tires, plastics, solvents and any hazardous waste, both
 municipal and industrial, at any facility in the District.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_15_december_2014_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_——_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -56,8 +60,10 @@ To note proposal for the disposal of land at:
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwalimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -107,8 +113,10 @@ the slipway at Howley's Quay, to make them more visible at night and provide mor
 
 safety for any person in their vicinity.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -147,5 +155,6 @@ the overflow of homelessness between the months of October and March.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2021st%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—" Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -41,8 +45,10 @@ Ceanncheathmni Chorpartitieach, Ofna gCeannaithe, Luimneach © weew.limerick.le
 
 Corporate Heaciquarters, Merchardts Quay, Limerick yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Dis:
@@ -91,8 +97,10 @@ i ncillor Paul Keller
 | will ask at the next meeting what events or festivals are planned for the Summer months
 to attract people into the city centre?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 3
@@ -119,5 +127,6 @@ demolition of void domestic Council dwellings, other than those which are a safe
 
 | propose that the funding for demolition of domestic dwellings, be reallocated instead, to
 building urgently required Social Housing.
+
 
 ---

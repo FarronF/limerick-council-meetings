@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-2021-03-03-minutes-jpc-subcommittee.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST JOINT

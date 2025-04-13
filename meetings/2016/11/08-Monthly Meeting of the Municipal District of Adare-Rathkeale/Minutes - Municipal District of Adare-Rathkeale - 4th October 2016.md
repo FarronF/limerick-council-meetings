@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_4th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ADARE HERITAGE CENTRE, ADARE, CO. LIMERICK ON TUESDAY, 4™
 OCTOBER, 2016, AT 9.00 A.M.
@@ -47,8 +51,10 @@ September, 2016. Arelated map was circulated at the Meeting.
 Members noted and approved the disposal of land at Corgrig, Foynes to The Foynes Flying Boat
 and Maritime Museum.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 4. Service Operations — Planning & Environmental Services
@@ -99,8 +105,10 @@ Askeaton Waste Water Treatment Plant to Irish Water.
 Councillor Sheahan invited the District Members to visit the existing outfall in Askeaton and on the
 proposal of Councillor Sheahan, seconded by Councillor Teskey it was agreed that the District
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 should write to the three TD's in the Constituency seeking their assistance in securing an upgrade
@@ -147,8 +155,10 @@ above.
 We sincerely wish to place bottle banks in Ballingarry and are seeking a location
 that is agreeable to the community.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 9. Question submitted by Councillor K. Sheahan
@@ -204,8 +214,10 @@ Further Information request was issued by the Planning Authority on 18 March
 No response to the Further Information request has been received by the Planning
 Authority to date.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Council is currently concluding the scheme development and preliminary
 design for the Croom Distributor road. The Council expects to commence the
 consultative element of this work shortly leading to the formal publication of the
@@ -250,8 +262,10 @@ Councillor Keary highlighted the need to enlarge and enclose the car park at thi
 rail and control the proposed crossing and proposed that the Motion be amended accordingly. It
 was agreed that the Motion should remain in its original form.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 REPLY: A request for funding for a pedestrian crossing at Loghill Church has been
@@ -299,8 +313,10 @@ Design Team outline their proposals for this stretch of road for the next Distri
 | will move at the next Meeting that the Council's Roads Engineers put a plan in place to repair
 the footpaths in St. Mary's Park, Rathkeale in the interest of public health and safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 Members acknowledge the work already carried out to the footpaths in St. Mary’s Park, Rathkeale
 but expressed disappointment that a local TD had received a written commitment from Customer
@@ -332,5 +348,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

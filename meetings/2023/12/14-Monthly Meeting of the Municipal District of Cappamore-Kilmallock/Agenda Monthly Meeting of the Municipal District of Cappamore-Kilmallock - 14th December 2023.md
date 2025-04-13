@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—_ Comhairle Cathrach pac asbarn bana he inareih
 Offig an Cheantair, Aras Mhainchin Seoighe,
 & Contae Luimnigh Gill Mochesisg,
@@ -52,8 +56,10 @@ Relating to the Minutes of the Municipal District Meeting of 23" November, 2023.
 Comhairle Cathrach agus Contae Luimnigh, Otfig an Cheantair, Ards Mninchin Seoighe © wwvilemerickie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office ve € rr
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Decl ° In
 
 4. Property Services
@@ -88,8 +94,10 @@ City and County Council to ask Irish Water to include the residential houses in 
 the Waste Water Treatment Network as was planned in the design of the new treatment plant and
 network upgrade by Limerick City and County Council a number of years ago.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Carey
 | will ask at the next meeting of the Cappamore/Kilmallock MD meeting what the possibility is of
 
@@ -106,5 +114,6 @@ car-park spaces opposite Effin Primary School.
 
 | will ask at the next meeting of the Cappamore Kilmallock Municipal District for an update on
 progress of Housing voids in our municipal area.
+
 
 ---

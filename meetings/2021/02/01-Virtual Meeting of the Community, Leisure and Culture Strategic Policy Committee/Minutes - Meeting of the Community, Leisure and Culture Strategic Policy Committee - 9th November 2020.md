@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-9th-of-november-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community, Leisure & Culture Strategic Policy Committee Meeting 09/11/2020
 
 A meeting of the Community, Leisure & Culture Strategic Policy Committee was held
@@ -45,8 +49,10 @@ item 1: Adoption of Minutes
 On the proposal of Clir 0’ Sullivan, seconded by Clir M Collins the minutes of the previous
 committee meeting held on the 7" September, 2020 were adopted.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 2: Matters Arising
 
 There were no matters arising from the minutes of the previous meeting.
@@ -95,8 +101,10 @@ ambitions, which focus on:
 
 * Access — Strengthening Public Engagement
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 * Investment for the Future
 
 It was proposed by Cllr M Donegan, seconded by Clir O’ Sullivan and agreed that the Draft
@@ -140,8 +148,10 @@ members the following wording was agreed
 “| will move at the next meeting that this Council put in place a working group to establish
 Limerick as an Autism-friendly City & County”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 9: Notice of Motion submitted by Cllr Azad Talukder
 
 “| will move at the next meeting that Limerick City and County Council examine the
@@ -172,5 +182,6 @@ Minutes Proposed By: Chhe Conor Shee Len
 nnsessecontsste Cllr Wou's_<lenen,.
 
 Minutes Signed By Chair: Veasgn OA cules. pate: lato;
+
 
 ---

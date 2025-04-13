@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrbnist Corparaiceacha agus Bainistioctt Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -52,8 +56,10 @@ To consider proposal for the disposal of land at:
 (b) 20, Maigue Way, Carew Park, Limerick.
 (c) Dooradoyle, Co. Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d)
 (e)
 
@@ -112,8 +118,10 @@ of Limerick 2020.
 Group of Limerick 2020.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 (f) Proposed Visit to Birmingham
@@ -162,8 +170,10 @@ Chief Executive already circulated)
 transfers to reserves.
 (Report already circulated)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Tourism Sector Su rt Scheme 2015
 To consider the adoption of Tourism Sector Support Scheme 2015.
 
@@ -211,8 +221,10 @@ Donegal, from 19" to 24” July, 2015.
 (k) | Seminar “Planning and Building Regulations,” to be held in Galway
 on 27"/28" July, 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (I) Seminar “Changes to Community Development,” to be held in
 Galway on 31* July /1* August, 2015.
 
@@ -257,8 +269,10 @@ Question submitted by Councillor T. Neville
 | will ask at the next Meeting for the number of Council houses currently
 vacant with specific numbers given on each electoral area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -310,8 +324,10 @@ referred to Economic Development, Enterprise and Planning SPC)
 develops, promotes or assists in the development of local Limerick food and
 beverages brands.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -370,8 +386,10 @@ Failte Ireland to include Lough Gur as one of the flagship heritage sites and
 also include the Ballyhoura area in the "Ireland's Ancient East" tourism
 promotion commencing in 2016.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22.
 
 23.
@@ -386,5 +404,6 @@ roadside hedgerows in the interest of public health and safety.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20September%20Meeting%20240918.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Serbhisi Corparéideacha,
 
 _—_—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
@@ -54,8 +58,10 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach  @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (b) Castleview, Newcastle West, Co. Limerick.
@@ -102,8 +108,10 @@ accordance with Section 74 of the Local Government Act, 2001, as amended:
 healthcare nationally and her bravery and leadership in highlighting
 issues with the cervical screening programme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (f)
@@ -159,8 +167,10 @@ Chairperson’s Report — Cultural Strategic Policy Committee Meeting held on
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Recommendation No. 1
 
 “That, the composition of the Assessment Panel for the Open Call on individual
@@ -211,8 +221,10 @@ Cork, on 26", 27" and 28" October, 2018.
 
 (h) “Let’s Talk Tourism” to be held in Killarney, Co. Kerry, on 9° November, 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (i) “Social Media and Effective Time Management” to be held in Carlingford, Co.
@@ -254,8 +266,10 @@ McMahon, E. O’Brien, R. O’Donoghue, K. Sheahan
 We will move at the next Meeting that the Budget 2019 provide €5,000 per Municipal
 District per annum for Civic Receptions.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Notice of Motion submitted by Councillor R. O’Donoghue (to be
@@ -279,5 +293,6 @@ the lack of tourism support and inclusion that Limerick has received in recent y
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

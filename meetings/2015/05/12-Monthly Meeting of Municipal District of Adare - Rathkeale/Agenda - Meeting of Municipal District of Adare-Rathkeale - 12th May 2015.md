@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_adare-rathkeale_-_tuesday_12th_may_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -52,8 +56,10 @@ e Ballymacave, Croagh
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach ! 6 wnw.limerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 7.
@@ -92,5 +98,6 @@ Notice of Motion submitted by Councillor C. McMahon
 soon as possible to have a public meeting regarding the proposed development of a
 gasification plant at Gortadroma. This would be the first in a series of meetings and
 public consultation.
+
 
 ---

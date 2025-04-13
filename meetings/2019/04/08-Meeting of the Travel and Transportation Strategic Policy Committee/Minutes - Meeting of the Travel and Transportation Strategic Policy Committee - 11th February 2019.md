@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/11.02.19%20Draft%20Minutes%20of%20Travel%20and%20Transportation%20SPC%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 
 & Contae Luimnigh
@@ -47,8 +51,10 @@ Til grants for 2019 have increased by approximately €1 million on 2018 grants,
 to the high proportion of motorway and national roads schemes in the mid-west region.
 Funding in the amount of €2.15 million has been provided to advance the M20 Limerick to
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cork scheme, and funding in the amount of €1.4 million has been provided to advance the
 N69 Foynes to Limerick Scheme in 2019. €450,000 has been provided for both the N21
 Abbeyfeale Relief Road and the N21 Newcastle West Relief Road projects, and €100,000 for
@@ -99,8 +105,10 @@ Clir Lynch: (1) No funding provided for traffic management at Clarina.
 Mr Murray advised that the speed limit of this stretch will be reduced if the Council
 approves the Review of the Speed Limits, which will come before it shortly. He added that
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 this may allow the Council to bring forward proposals for further calming and
 improvements.
 
@@ -152,8 +160,10 @@ conjunction with Economic Development Directorate, was preparing a draft Climate
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Adaptation Strategy in accordance with the requirements of the Climate Action and Low
 Carbon Act 2015 and the National Adaptation Framework.
 
@@ -185,5 +195,6 @@ link from the trail to the Barnagh Tunnel and the viewing point on Barnagh Hill.
 welcomed the funding and hoped that the issues raised could be resolved.
 
 The Meeting then concluded.
+
 
 ---

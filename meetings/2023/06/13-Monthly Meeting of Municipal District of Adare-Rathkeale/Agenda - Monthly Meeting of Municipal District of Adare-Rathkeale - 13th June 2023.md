@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-13th%20June-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—_— Comhairle Cathrach
 & Contae Luimnigh
 Ani” ™
@@ -71,8 +75,10 @@ Corporate Headquarters, Merchants Quay, Limerick.
 @LimerickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Declaration of Interest
 
 Operations & Maintenance
@@ -105,5 +111,6 @@ To review position in relation to allocations under the General Municipal Alloca
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

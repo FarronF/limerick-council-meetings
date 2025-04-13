@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/00-2020-03-04-agenda-.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Comhairle Cathrach
 & Contae Luimnigh
 ars i“ ~N : —_——_—_———
@@ -80,8 +84,10 @@ VY @limerickCouncil
 
 ( 061 - $6 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -127,8 +133,10 @@ very bad condition with sinking in parts and is a danger at present.
 out at Upper Maiden Street, Newcastle West as the road surface is poor and the speed
 ramps are disintegrating.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.
@@ -162,5 +170,6 @@ road from Dalton’s cross towards Abbeyfeale town in the interest of safety.
 
 | will move at the next Meeting that the dykes be closed at both sides of the road at
 the Tubarine Bridge (bridge between Abbeyfeale and Templegiantine).
+
 
 ---

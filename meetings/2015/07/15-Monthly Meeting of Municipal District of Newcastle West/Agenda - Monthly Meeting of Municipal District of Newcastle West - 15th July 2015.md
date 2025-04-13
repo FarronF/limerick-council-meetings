@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2015th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -48,8 +52,10 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach SA eteanidale
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Corporate Services and Change Management
@@ -91,8 +97,10 @@ Questions submitted by Councillor L. Galvin
 | will ask at the next Meeting if the small section of footpath at the entrance to the church
 in Athea Village can be repaired.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -154,8 +162,10 @@ Church Road, Templeglantine.
 | will move at the next Meeting of the Municipal District of Newcastle West that funding be
 provided to repair and preserve the Cistercian Church, Fairy Street, Athea.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.
@@ -181,5 +191,6 @@ Commerce and Newcastle West Community Council, to fund a feasibility study which
 research and coordinate all clubs, organisations, residents groups and interested parties
 with a view to establishing a Development Association for Newcastle West, that will act
 as a united voice for all. A steering group has been established to coordinate this study.
+
 
 ---

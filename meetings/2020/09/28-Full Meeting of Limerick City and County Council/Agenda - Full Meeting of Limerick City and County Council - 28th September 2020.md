@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-september-council-meeting-28.09.2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhisi Corparaideacha,
 ae 5 Cortae lanai Comhairle Cathrach agus Contae Lulmnigh,
 NON 4 Céna gCeannaithe,
@@ -62,8 +66,10 @@ Cé na gCeannaithe, Luimneach vy
 Chorpardideach, @LimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick 061 - 587150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (a) 31, McDermott Avenue, Janesboro, Limerick.
@@ -122,8 +128,10 @@ month period to 31* December, 2021, subject to the sanction of the Minister
 for Housing, Local Government and Heritage and in accordance with Section
 106 (2) of the Local Government Act, 2001, as amended.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (9)
@@ -175,8 +183,10 @@ following Committees:
 
 .
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Strategic Policy Committee Reports
 
 To consider reports as follows:
@@ -228,8 +238,10 @@ Strategic Policy Committee held on 22" June, 2020.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Physical Development
@@ -270,8 +282,10 @@ To consider participation by Members at the following online Conference:
 “Webinar - A Local Authority Support Model for Sustainable Energy Communities” to be
 held in Kildare on 8 October, 2020.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -320,8 +334,10 @@ Question submitted by Councillor C. Sheehan
 | will ask at the next Meeting for an updated list of the number of vacant commercial
 premises in the Metropolitan District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14,
 
 15.
@@ -372,8 +388,10 @@ set up an SME Task Force to support and plan for the future of all SMEs througho
 Limerick City and County and that this Task Force should also feed into the Economic
 Forum.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 21.
@@ -401,5 +419,6 @@ Thomas Keane at his place of birth at Wolfe Tone Street, Limerick.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

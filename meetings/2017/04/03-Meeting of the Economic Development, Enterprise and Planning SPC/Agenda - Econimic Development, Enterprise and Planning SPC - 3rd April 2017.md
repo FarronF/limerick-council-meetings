@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_econimic_development_enterprise_and_planning_spc_-_3rd_april_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28" March 2017
 
 To/Each Member of the Economic Development, Enterprise and Planning
@@ -29,5 +33,6 @@ Yours sincerely
 Pat Fitzgerald
 Senior Executive Officer
 Economic Development
+
 
 ---

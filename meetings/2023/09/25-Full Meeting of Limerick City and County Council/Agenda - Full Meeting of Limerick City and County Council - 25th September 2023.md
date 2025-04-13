@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Full-Meeting-of-Limerick-City-and-County-Council-25th-September-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 eel Comhairle Cathrach
 — & Contae Luimnigh
 oo — Limerick Ci
@@ -68,8 +72,10 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 {c)
 (d)
 (e)
@@ -122,8 +128,10 @@ and Planning Strategic Policy Committee held on 10" July, 2023.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i) Chairperson’s Report — Meeting of Climate Action, Biodiversity and
 Environment Strategic Policy Committee held on 12 September, 2023.
 
@@ -168,8 +176,10 @@ Limerick City and County Council Festivals and Events Grant Scheme 2023/2024.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Rural. Community and Culture Development
@@ -223,8 +233,10 @@ Question submitted by Councillor D. McSweeney
 I will ask at the next Meeting what budget has been specifically allocated to implement
 Limerick City and County Council Traffic Calming Policy for Urban Areas in 2023.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -280,8 +292,10 @@ We will move at the next Meeting that Limerick City and County Council call on t
 Revenue Commissioners to grant a tax rebate to people who contribute to have public
 roads repaired under the Community Involvement Grant Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -331,8 +345,10 @@ Minister for Transport, Eamon Ryan, TD, Transport for Ireland (TFI) and larnréd
 Eireann to ask that the decision to no longer accept individual third level ID be
 reversed or at least done on a phased basis.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23.
 
 Notice of Motion submitted by Councillor E. O’Donovan (to be referred to
@@ -349,5 +365,6 @@ Travel and Transportation Strategic Policy Committee)
 City and County Council Traffic Calming Policy for Urban Areas.
 
 Correspondence
+
 
 ---

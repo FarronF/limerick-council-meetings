@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%202022-10-12%20Agenda%20October.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Ditiche Bardais an Chaisledin Nua Thiar,
 _—_—_— stolen ferenbecd Comhairie Cathrach agus Contae Luimnigh,
 & Contae Luimni:
@@ -61,8 +65,10 @@ imerick
 Ceanncheathni Chorpardideach, Céna gCeannaitho, Luimneach vy tater steer
 Corporate Headquarters, Merchant's Quay, Limerick (061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -108,8 +114,10 @@ Notices of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting of the Municipal District of Newcastle West that a
 Road Safety Audit be carried out at Dore’s Cross, Templeglantine.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 14.
@@ -138,5 +146,6 @@ Newcastle West.
 
 | will move at the next Meeting that Limerick City and County Council look at making
 the junction at Gortboy and Station Road safer for vehicular and pedestrian access.
+
 
 ---

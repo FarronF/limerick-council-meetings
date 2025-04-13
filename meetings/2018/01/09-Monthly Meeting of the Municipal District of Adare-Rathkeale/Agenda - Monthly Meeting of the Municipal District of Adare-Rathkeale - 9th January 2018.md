@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%209th%20January%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Duiiche Bardais Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -66,8 +70,10 @@ To note update on the Taking-In-Charge of An Curran Estate, Pallaskenry.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wwwAimerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -9O an
 Traffic ing at Kilcornan
 
@@ -97,5 +103,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 ~
+
 
 ---

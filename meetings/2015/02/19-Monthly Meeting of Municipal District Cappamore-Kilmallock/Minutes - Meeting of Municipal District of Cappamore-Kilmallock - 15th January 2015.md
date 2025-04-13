@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03-minutes_of_monthly_meeting_15.01.2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN PASTORAL
 CENTRE, NICKER, CO. LIMERICK, ON THURSDAY, 15™ JANUARY,
@@ -48,8 +52,10 @@ would be a short adjournment as a mark of respect.
 
 On resumption, the Meeting proceeded with the Agenda.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 tN
 
 1. Adoption of Minutes:
@@ -96,8 +102,10 @@ Ss. Notice of Motion submitted by Councillor W. O’ Donnell
 with all Tidy Towns Committees to ascertain what assistance can be given in
 advance of this year’s Tidy Towns Competition.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Motion was proposed by Councillor O'Donnell and seconded by Councillor
 Mitchell
 
@@ -138,5 +146,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

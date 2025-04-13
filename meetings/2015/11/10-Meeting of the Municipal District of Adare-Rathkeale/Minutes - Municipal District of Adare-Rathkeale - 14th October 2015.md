@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20October%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD IN CROOM CIVIC CENTRE, CROOM, CO.
 LIMERICK ON WEDNESDAY, 14™ OCTOBER, 2015, AT 9.00 A.M.
@@ -49,8 +53,10 @@ Level Goals, Draft Report on Submissions and Observations received, dated August
 2015.
 e Local Economic and Community Plan (LECP) for Limerick City and County,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Background Information and Socio-Economic Statement, dated September 2015.
@@ -99,8 +105,10 @@ the landfill was in their District, and requested that they be briefed by suitab
 
 independent consultants on gasification.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Ss. Question submitted by Councillor T. Neville
@@ -149,8 +157,10 @@ REPLY: MHL Consulting Engineers have recently been appointed to assess and
 recommend flood alleviation measures for Askeaton. Design works will be
 on-going over the coming months.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 In relation to Foynes, tenders are currently being assessed. It is expected
@@ -204,8 +214,10 @@ Council Safety Committee in February. Since that meeting the Senior
 Executive Engineer met again with members of the committee and the
 school principal.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Line markings, as agreed, were completed at this time. The committee
 proposed to prepare a plan for access to the school in the interests of health
 and safety. The Senior Executive Engineer agreed that Limerick City and
@@ -253,8 +265,10 @@ not want the public to be of the opinion that Adare was not open for business. C
 Sheahan suggested that businesses be encouraged to use space at the rear of their
 premises.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 REPLY: The Adare Local Area Plan has an objective to facilitate the provision of
@@ -306,8 +320,10 @@ Members expressed their dissatisfaction with the reply and the Director, Regiona
 suggested that all residents in houses 1-12 Friary Court, Askeaton be asked for their
 opinion on the matter.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Corres n
 
 Correspondence was noted.
@@ -356,8 +372,10 @@ Council owned sites had already commenced.
 Members agreed to request the Gardai to attend at the next District Meeting to discuss
 rural crime.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 Councillor O'Donoghue highlighted an instance of subsidence adjacent to the roadway at
@@ -371,5 +389,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

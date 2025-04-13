@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-travel-and-transportation-strategic-policy-committee-17th-october-2023.pdf)
+
+---
 1
 
 **Draft** **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**

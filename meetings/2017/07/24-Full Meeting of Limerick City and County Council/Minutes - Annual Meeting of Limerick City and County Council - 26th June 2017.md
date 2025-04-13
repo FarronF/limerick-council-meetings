@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28c%29%20Minutes%20Annual%20Meeting%20260617.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,

@@ -1,7 +1,0 @@
-# Meeting Details
-
-**Meeting Name:** Private: Briefing for the Elected Members of Limerick City and County Council
-
-**Date and Time:** 2024-10-29 10:00:00
-
-**<a href="https://www.limerick.ie/council/whats-on/private-briefing-for-the-elected-members-of-limerick-city-and-county-council-10" target="_blank">Link to meeting</a>**

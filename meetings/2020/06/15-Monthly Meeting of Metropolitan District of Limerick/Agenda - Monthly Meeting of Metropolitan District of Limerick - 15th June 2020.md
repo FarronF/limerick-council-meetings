@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-ordinary-meeting-15th-june-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——_ Comhairle Cathrach
 & Contae Luimnigh
 ars —_—_—_—_—_—_—_——
@@ -63,8 +67,10 @@ m Customerservices@limerick.ie
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 (a) Disposal of Freehold Interest of premises consisting of a dwelling house situate
@@ -99,8 +105,10 @@ QUESTIONS
 area during the Covid 19 period; how many complaints of illegal dumping have been received
 and how many have been resolved.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor E. Secas
 
 Overlaying of Upper Carey's Road was included in the three year programme 2016-2019 and
@@ -139,8 +147,10 @@ and development of the city.
 | will ask at the next meeting for usage figures for the public toilets on Upper Mallow Street
 and Bedford Row between January 2019 and January 2020.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor C. Slattery
 
 1 will ask at the next meeting, regarding verges and roundabouts left to grow for bee
@@ -171,8 +181,10 @@ Castleconnell and Clare Glens.
 of a household waste collection service a condition of all tenancies and in cases of non-
 compliance the cost of waste collection is added to the customers rent bill.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Notice of Motion submitted by Councillor S$. Novak Ui Chonchuir (to be referred to
 
 | will move at the next meeting that the Council introduces a litter bin tagging system (QR
@@ -217,8 +229,10 @@ who have given over 20 years of their working lives to the Company.
 
 5
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23. Notice of Motion submitted by Councillor O. O’Sullivan
 
 | will move at the next meeting that the Council seek an explanation from Shannon Heritage
@@ -243,5 +257,6 @@ restore 24 hour operations at the airport.
 
 26. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

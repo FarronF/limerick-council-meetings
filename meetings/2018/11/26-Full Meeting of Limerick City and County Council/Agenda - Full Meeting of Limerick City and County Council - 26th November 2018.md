@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%20Ordinary%20Meeting%20261118.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Seirbhisi Corpardideacha,
 
 — a Comhairle Cathrach agus Contae Luimnigh,
@@ -74,8 +78,10 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCounctl
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) 25, Lilac Court, Southill, Limerick.
 
 (f) 26, Garryglass Avenue, Ballinacurra Weston, Limerick.
@@ -134,8 +140,10 @@ To approve revised bank overdraft accommodation in the sum of €49m for the
 Minister for Housing, Planning and Local Government and in accordance with
 Section 106 (2) of the Local Government act, 2001, as amended.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (f)
@@ -186,8 +194,10 @@ Mayor of the City and County of Limerick, as set out below, under Section 142
 (iii) | Hangzhou, China.
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 Gi)
@@ -226,8 +236,10 @@ Planning Strategic Policy Committee Meeting held on 8" October,
 2018.
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iv)
 
 (v)
@@ -270,8 +282,10 @@ Recommendation
 “That, the recommendations from the Assessment Panel for Individual
 Arts Bursaries 2018 be recommended to Council for approval.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Social Development Directorate
@@ -316,8 +330,10 @@ Co. Cork, from 7 to 9" December, 2018.
 (f) EU Cohesion Policy 2014-2020, to be held in Carlingford, Co. Louth, from 14"
 to 16" December, 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 (g) Local Government (Restoration of Town Councils) Bill, 2018, to be held in
@@ -361,8 +377,10 @@ I will ask at the next Meeting for a full detailed report on the progress of the
 junctions on the N21 - Wards Cross, Devon Road Cross and others, arising from the
 Special Meeting of the Council held on 6" November, 2017.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -406,8 +424,10 @@ disclosure on the 1,800 smear tests yet to be audited; and (iv) a breakdown of t
 packages being negotiated with laboratories engaged in carrying out smear slide
 analysis, including mandatory site audits.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -446,5 +466,6 @@ single-use plastics within Council Departments.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 4TH NOVEMBER, 2015, AT 10:00 A.M.
@@ -49,8 +53,10 @@ The Cathaoirleach thanked members of the Deputation for their presentation and a
 they correspond with the Newcastle West office outlining the content of the presentation. The
 members of the Deputation then withdrew from the Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of the following Meetings:
@@ -107,8 +113,10 @@ priority enhancement measures as follows:
 > Installation of appropriate soft landscaping features.
 > General cleaning/repair to footpaths.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 > Restoration of the heritage style lamp posts.
@@ -159,8 +167,10 @@ REPLY: Signage ordered and to be erected as soon as possible.
 
 1 will ask at the next Meeting if the low wall at Harnetts Funeral Home Abbeyfeale can be
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 repaired (the small car park) and if the bricks can be removed or reused.
 
@@ -212,8 +222,10 @@ of 11" of September, 2015 showing the extent of the flooding. He suggested that 
 Roads Authority be asked to look at the road. Councillor Scanlan in seconding the Motion
 stated that he agreed that flood waters needed to be monitored.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 REPLY: The OPW CFRAM Flood study does not cover the area mentioned. The CFRAM
@@ -250,5 +262,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

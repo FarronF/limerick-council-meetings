@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-2021-09-15-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—_ Comhairle Cathrach Diiiche Bardais an Chaisiedin Nua Thier,
 
 Luimn Comhairle Cathrach agus Contae Luimnigh,
@@ -56,8 +60,10 @@ Corporate Headquarters, Merchant's Quay, Limerick vo
 LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -103,8 +109,10 @@ western side of the Courtenay Boys School.
 | will ask at the next Meeting what percentage of cyclists who visited/utilised our
 Green Way in July and August brought their own bikes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -144,5 +152,6 @@ accommodate those who visit locally with Camper Vans.
 
 | will move at the next Meeting that our Authority provide ground for a Dog Park in
 the Newcastle West area.
+
 
 ---

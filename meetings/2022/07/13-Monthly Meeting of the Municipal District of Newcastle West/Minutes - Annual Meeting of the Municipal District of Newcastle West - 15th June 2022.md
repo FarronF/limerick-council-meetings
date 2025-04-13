@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28b%29%202022-06-15%20Minutes%20AGM%20Municipal%20District%20of%20Newcastle%20West.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN

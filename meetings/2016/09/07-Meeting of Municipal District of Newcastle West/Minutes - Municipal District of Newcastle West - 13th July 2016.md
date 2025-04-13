@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_newcastle_west_-13th_july_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 
@@ -54,8 +58,10 @@ Members in relation to the following:
 e Funding.
 e Vandalism in Botcha Court in Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Cycling on Great Southern Trail.
 
 1. Adoption of Minutes
@@ -104,8 +110,10 @@ particular, reference was made to the position of Treasurer.
 The Cathaoirleach stated that going forward any Member with a vested interest in any subject
 matter being considered would inform the Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General nicipal i
 
 With the permission of the Cathaoirleach Councillor Browne proposed that Athea Tidy Towns
@@ -156,8 +164,10 @@ Great Southern Trail (GST) progress to date.
 
 Key priorities to advance future of GST.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 e Putting in place appropriate governance structures.
@@ -210,8 +220,10 @@ Pre-determined Attendances (PDAs) described the number and type of resources tha
 sent to a particular incident type. Pre-determined attendances were outside the scope of the
 Section 26 plan therefore were not detailed in the document.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 The ‘Order of Turn Out’ described the order in which resources would be located to an incident,
@@ -261,8 +273,10 @@ programme of equipment”. In order to bring a version of the Section 26 plan to
 for approval, the Council would examine if the draft plan could be amended by omitting the risk
 categorisation criteria.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6.  Deputation
 
 The Cathaoirleach stated that a request had been received from Killeline Leisure Centre to make
@@ -316,8 +330,10 @@ within the next week.
 | will ask at the next Meeting for an update from Transport Infrastructure Ireland (Til) on the
 following:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) Traffic Management Plan for Abbeyfeale.
 (b) Traffic calming, road markings and footpaths from Dalton’s Cross on the N21 to the
 two filling stations at Killarney Road, Abbeyfeale.
@@ -372,8 +388,10 @@ site assessment on his lands. Unfortunately the land owner in question recently 
 Council explaining that he does not wish to allow the Council conduct a site assessment on his
 lands nor is he interested in disposing of the land.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 The Operations Manager stated that he had been contacted by Mr. Brian Henry, Senior
@@ -427,8 +445,10 @@ but as this had not yet been taken in charge by the Council private contractors 
 Members asked if FAS workers could be insured to cut the grass and the Operations Manager
 West and South Division agreed to check this matter.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 The Motion was seconded by Councillor Scanlan.
@@ -485,8 +505,10 @@ September Meeting of the District.
 ! will move at the next Meeting that additional traffic calming measures be introduced at the
 pedestrian crossing on Main Street, Abbeyfeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 In proposing the Motion Councillor Browne stated that the pedestrian crossing at Joy’s corner
@@ -535,8 +557,10 @@ This Scheme was subject to the Road Safety Audit process during the
 implementation of the project and no issues around the provision of safety
 barriers along the Southern Trail were identified.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11
 
 It was agreed that the September Meeting of the District would be held on Wednesday, 7”
@@ -547,5 +571,6 @@ This concluded the Meeting.
 Signed:
 Cathaoirleach
 Dated:
+
 
 ---

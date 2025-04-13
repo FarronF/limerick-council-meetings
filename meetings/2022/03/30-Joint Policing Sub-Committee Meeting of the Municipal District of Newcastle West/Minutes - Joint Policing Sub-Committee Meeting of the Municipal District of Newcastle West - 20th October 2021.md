@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-2021-10-20-minutes-jpc-subcommittee.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST JOINT
 POLICING SUB COMMITTEE HELD IN ARAS WILLIAM SMITH
@@ -37,8 +41,10 @@ Proposed by: Councillor Scanian
 Seconded by: Councillor Foley
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
 2. Policing Issues in the District
@@ -81,8 +87,10 @@ necessity of the public in being cautious with regard to this matter.
 She also stressed the importance of the assistance of members of the public in the reporting of
 crime.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Superintendent Magner gave an overview of the joint initiatives which have taken place in the
 District which included the Limerick Greenway, Community Bus, Dog Chip Scanners, Property
 Marketing Initiative and the Schools Programme and acknowledged the success of these projects.
@@ -129,8 +137,10 @@ the 999 telephone number is effective in emergencies. She referred to CCTV which
 responsibility of Limerick City and County Council which offers great assistance to the Gardai and
 that the contact person with regard to any queries on CCTV is Garda Alan Doody.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 She outlined to the Members the opening hours of the Garda Station in Abbeyfeale. She stated
 that a response with regard to the cost of the Garda Station in Abbeyfeale is awaited and a reply
 will be given in due course. She referred to the assignment of Garda Tommy Cummane to
@@ -166,5 +176,6 @@ This concluded the Meeting.
 Signed:
 
 Cathaoirleach
+
 
 ---

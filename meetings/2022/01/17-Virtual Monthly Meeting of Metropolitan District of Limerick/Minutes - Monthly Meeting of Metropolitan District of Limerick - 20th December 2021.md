@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-draft-minutes-monthly-meeting-20th-december-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ON MONDAY, 20TH** **DECEMBER, 2021 at 09:45 A.M. IN THE COUNCIL CHAMBER,**

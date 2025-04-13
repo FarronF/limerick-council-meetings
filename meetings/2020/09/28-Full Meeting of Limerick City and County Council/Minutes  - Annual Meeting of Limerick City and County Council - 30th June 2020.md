@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-c-minutes-annual-meeting-30.06.2020.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK

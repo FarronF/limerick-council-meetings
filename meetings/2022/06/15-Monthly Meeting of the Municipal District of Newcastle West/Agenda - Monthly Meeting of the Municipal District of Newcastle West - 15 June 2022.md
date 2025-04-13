@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-15-06-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_— Comhairle Cathrach
 & Contae Luimnigh
 oo Limerick C
@@ -78,8 +82,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 @LimerickCouncil
 \ 061- 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -130,8 +136,10 @@ maintenance works.
 | will ask at the next Meeting that a flashing speed monitoring light be provided
 inside the speed limit zone approaching Broadford Community Créche.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 13.
@@ -173,5 +181,6 @@ Oromcollogher in the interest of Health, Safety and the Economy.
 
 | will move at the next Meeting that the footpath be extended from Kerry Group
 premises along Clooneyschehane towards the speed limit approach along the R520.
+
 
 ---

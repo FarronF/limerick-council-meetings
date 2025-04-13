@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-Minutes-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Adare-Rathkeale-8th-November-2022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE JPC SUBCOMMITTEE HELD IN CROOM CIVIC CENTRE, MAIN STREET,**

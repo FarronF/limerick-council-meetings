@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i } Seirbhisi Corparaideacha
 _—_ Comhairle Cathrach Camarle Cathrach agus Contac Luimnigh,
 & Contae Luimnigh Ceanncheathns Chorpardideach,
@@ -40,8 +44,10 @@ To adopt Minutes of Monthly Meeting of the Metropolitan District of Limerick hel
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach vy
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - §57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest.
 
 3. Disposal of Land
@@ -79,8 +85,10 @@ learner drivers in the Metropolitan area.
 flooding response plan, with a specific request on the details of how the risk of flooding is
 monitored and when the flood defences are deployed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting of the Metropolitan District of Limerick when the housing
@@ -123,8 +131,10 @@ approve.
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 installation of the railing at Steamboat Quay.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor E. O'Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for information on bike
@@ -163,8 +173,10 @@ Scheme.
 County Council expect all work on O'Connell Street to be completed and when we can expect the
 3 person cleansing team to be appointed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22. Question submitted by Councillor S. Kiely
 
 | will ask at the next Meeting of the Metropolitan District of Limerick how many vacancies exist
@@ -207,8 +219,10 @@ infrastructure for Community Space, as in Community Centres and spaces, are incl
 scale projects in Limerick City and County. Economic growth has been introduced in Limerick but
 we are lacking physical infrastructure for our communities and community groups.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28. Notice of Motion submitted by Councillor C. Slattery
 
 | will move at the next Meeting of the Metropolitan District of Limerick, that now that the area
@@ -246,8 +260,10 @@ waiting time be reduced. Presently the waiting time is 14 weeks.
 | will move at the next Meeting of the Metropolitan District of Limerick that a tourist information
 centre be retained on O'Connell Street in the city centre.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 34. Notice of Motion submitted by Councillor E. O’Donovan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that an awareness
@@ -271,5 +287,6 @@ litter and food waste.
 37. CorresPondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

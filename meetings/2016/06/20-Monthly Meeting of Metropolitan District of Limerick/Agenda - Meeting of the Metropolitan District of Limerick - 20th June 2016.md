@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2020th%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,8 +59,10 @@ Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach  wwew.limerickie
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 (f) Sub-lease of Arthur’s Quay Car Park for a further period of 3 years from 1” May, 2017.
@@ -108,8 +114,10 @@ Development Act 2000-2015, and Part 8 of the Planning and Development Regulation
 2001-2015, in relation to Verdant Place Flood Defence Wall
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -162,8 +170,10 @@ Rathbane Golf Club, that this District requests Management to implement an immed
 programme of short-term works in order to allow the Club host visiting clubs and
 competitions this Summer.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -222,8 +232,10 @@ the community, to develop the LPYMA Ground into an amenity that will benefit the
 community and address ongoing issues such as anti-social behaviour. This under-utilised
 resource to be maintained and secured while a long term plan is brought forward.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 22.
@@ -257,5 +269,6 @@ considered further, following several concerns raised by the community.
 Correspondence.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

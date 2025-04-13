@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_11th_december_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN COMMUNITY
 CENTRE, CAPPAMORE, CO. LIMERICK, ON THURSDAY, 11"
@@ -42,8 +46,10 @@ Reference was made to the inadequate level of street lighting in Hospital. It wa
 noted that there might be sufficient resources in 2015 to upgrade the existing lights.
 In the interim where bulbs were being replaced it was with a higher wattage.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Travel and Transportation:
 
 Operations Manager, West & South Division informed the Members that the repairs
@@ -92,8 +98,10 @@ e Murroe/Boher Ladies Football Team on winning the All Ireland Junior Football
 Championship, and
 ¢ Bruff Hurling Team on winning the Intermediate Hurling Final.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Gleeson, seconded by Councillor Teefy it was agreed
 to hold the next Monthly Meeting on 15" January, 2015 in Nicker at 3.30pm and to
 receive a Deputation from Pallasgreen Community Council.
@@ -109,7 +117,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

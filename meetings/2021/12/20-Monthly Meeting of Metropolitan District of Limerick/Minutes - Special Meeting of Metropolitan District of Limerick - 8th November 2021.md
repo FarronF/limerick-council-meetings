@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01a-draft-minutes-special-meeting-8th-november-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON MONDAY, 8TH** **NOVEMBER, 2021 at 12 NOON IN THE COUNCIL CHAMBER, DOORADOYLE**

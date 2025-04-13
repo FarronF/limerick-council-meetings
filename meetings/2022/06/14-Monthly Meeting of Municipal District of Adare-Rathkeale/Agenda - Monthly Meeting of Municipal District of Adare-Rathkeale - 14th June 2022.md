@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-14th-June-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comnairie Cathrach agus — sly
 aAaf“e™ a DN A Séa an
@@ -50,8 +54,10 @@ To receive an update on the Croom Distributor Road.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach 1 @ wewlimerici.ie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Housing Strategy & Non-LA Housing Construction
 Social Housing Deliver
 
@@ -83,5 +89,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 A.0.B
+
 
 ---

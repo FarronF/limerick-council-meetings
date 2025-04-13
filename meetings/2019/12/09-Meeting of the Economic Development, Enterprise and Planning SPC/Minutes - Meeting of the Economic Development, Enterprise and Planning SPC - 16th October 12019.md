@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Minutes%20of%20SPC%20%2016th%20Oct%202019.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT INAUGURAL MEETING OF THE ECONOMIC**
 
 **DEVELOPMENT,**

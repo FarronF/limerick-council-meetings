@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%202023-05-03%20Agenda%20May.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 & Contae Luimnigh
 ae ae
@@ -76,8 +80,10 @@ e wow limerick le
 
 ( 062 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -126,8 +132,10 @@ I will ask at the next Meeting that Limerick City and County Council will pipe t
 stream and replace the dangerous and broken down railing at Glenmore, Strand in
 the interest of safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.
@@ -174,5 +182,6 @@ stops:
 (i) A second stop for Templegiantine village
 (ii) Devon Road Cross
 (iii) —_— Killarney Road, Abbeyfeale
+
 
 ---

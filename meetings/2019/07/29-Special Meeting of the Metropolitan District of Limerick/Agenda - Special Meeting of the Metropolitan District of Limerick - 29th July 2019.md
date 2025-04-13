@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%20Special%20Meeting%20of%20Metropolitan%20District%2029th%20July%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -_--—l Comhairle Cathrach Comhairle Cath Pretaby Sl paar
 : 7 Arte Catia equ Mae Lul yh
 & Contae Luimnigh Ceanncheathn Chorpardideach,
@@ -34,5 +38,6 @@ at Punch’s Cross, Limerick.
 
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

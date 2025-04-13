@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-b-minutes-of-adjourned-monthly-meeting-of-municipal-district-of-adare-rathkeale-23rd-november-2023.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ADJOURNED MONTHLY MEETING OF THE MUNICIPAL**
 
 **DISTRICT OF ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD,**

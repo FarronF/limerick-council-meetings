@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/02%20JPC%20Minutes%2019-9-19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD AT ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -45,8 +49,10 @@ there had been a reduction in crime categories across many areas, there had been
 in crimes against the person from 2018 to 2019 and he confirmed that An Garda Siochana
 were looking at measures to address same.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Superintendent Ryan confirmed that Garda Jim Ryan from the Bruff Garda Station had retired
 recently, and the Superintendent advised that he had sought more resources to support the
 operations of An Garda Siochana in the District. The Elected Members welcomed this and
@@ -92,5 +98,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%202019-03-06%20Agenda%20JPC%20Subcommittee%20Meeting%20March%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 & Contae Luimnigh
 Anr™N <n Sn
 —> Limerick City
@@ -41,5 +45,6 @@ District of Newcastle West held on 5" December, 2018.
 7 2 Issues
 
 To discuss policing issues in the District.
+
 
 ---

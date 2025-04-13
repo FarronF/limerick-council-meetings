@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-ordinary-meeting-limerick-city-and-county-council-25.11.2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Serbhisi Corpardideacha,
 
 a path oul fennel Comnairle Cathwach agus Contae Luimnigh,
@@ -58,8 +62,10 @@ c= Customerservices@limerick.te
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) Knocklong West, Kilmallock, Co. Limerick (LK5817L).
 (e) 5, Ash Hill, Kilmallock, Co. Limerick (LK5601L).
 
@@ -107,8 +113,10 @@ Committee.
 To note update on Corporate Plan 2024-2029.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (4)
 
 (e)
@@ -165,8 +173,10 @@ and Arts Scheme 2024.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -212,8 +222,10 @@ Question submitted by Councillor C. Siattery
 I will ask at the next Meeting can the Council give a timeframe on how long it takes
 after reporting a bulb gone on a street light to have the bulb replaced.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -262,8 +274,10 @@ I will move at the next Meeting that this Council write to the Minister for Heal
 Taoiseach to ask them to intervene to ensure that the specialist nursing vacancies are
 filled in the University Hospital Limerick Oncology Department as soon as possible.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 21.
@@ -305,5 +319,6 @@ men’s sheds, schools, and other organisations to promote connection and a sens
 belonging in our city and county.
 
 Correspondence
+
 
 ---

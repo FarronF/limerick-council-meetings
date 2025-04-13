@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/02%20Minutes%20Nov%20Meeting%20Municipal%20District%20Capp-Kil.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -39,8 +43,10 @@ would be different to that of a fifth leg access being provided onto a regular r
 requested clarification on what meetings took place between TII staff and the business
 owner at O’Rourke’s Cross.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii) Circulated, copy of draft Minutes of Draft Budgetary Plan Meeting of the Municipal
 District of Cappamore-Kilmallock held on the 18"" October, 2018.
 
@@ -84,8 +90,10 @@ District.
 The Meetings Administrator informed the Elected Members that this presentation was not
 going ahead as the person scheduled to give the presentation was ill, and had sent their
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 apologies for their inability to attend. He confirmed that this item would be included on the
 Agenda of a future Meeting.
 
@@ -136,8 +144,10 @@ the proposal. That entitlement has passed.” He also referred to legal advice r
 Senior Counsel on Part 8’s in general, which stated that a Part 8, which has completed the
 statutory process, could not be amended.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Having regard to the Standing Orders and the legal advice obtained, the Meetings
 Administrator explained that he was therefore not in a position to include the Notice of
 Motion on the Agenda for the Municipal District Meeting.
@@ -194,8 +204,10 @@ metres
 ‘Kilmallock —_| Footpaths Glenfield. €5
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Footpath repairs on Moore Street
 and between Technical School and
 
@@ -256,7 +268,10 @@ Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

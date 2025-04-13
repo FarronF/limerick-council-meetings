@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20%28a%29%20Minutes%20Annual%20Meeting%2026th%20June%2C%202018.pdf)
+
+---
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**

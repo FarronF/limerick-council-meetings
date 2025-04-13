@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-2022-03-23-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __— oontumis Catlirach.
 ontae Luimunigh
 aAr™N oo o‘\ -Co—
@@ -58,5 +62,6 @@ Corporate Headquarters, Merchant's Quay, Limerick
 @LimerickCouncil
 
 ( 061 - 556 000
+
 
 ---

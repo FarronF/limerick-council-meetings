@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%202017-05-03%20Minutes%20May%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 3" MAY,
@@ -47,8 +51,10 @@ Abbeyfeale and he would revert back once a decision had been made.
 e The issue with the Junction at Willie Donoghue’s would be considered in the next few
 weeks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 The Director in reply to a query raised in relation to derelict property at 15 Assumpta Park
@@ -101,8 +107,10 @@ the Members that €64,500 had been allocated to Limerick. This amount had been 
 proportional basis between the Municipal Districts. She stated that €10,000 had been allocated
 to the Municipal District of Newcastle West and that the maximum amount of grant under the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Scheme was €1,000 She also stated that the closing date for applications was the 26" May, 2017
@@ -154,8 +162,10 @@ holes would be commencing on the 15" May, 2017 on the 3 available sites. Agreeme
 been drafted with the 3 landowners. Members requested information on the locations and
 were advised that the locations were as follows:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Clash Road.
 e Killarney Road adjacent to the Coursing Club.
 e Knockbrack.
@@ -205,8 +215,10 @@ Storm and need to be replaced.
 The Motion was seconded by Councillor Galvin.
 REPLY: A dog waste bin will be installed in order to deal with issue on the street.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Other Matters Raised
 
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the following
@@ -229,5 +241,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

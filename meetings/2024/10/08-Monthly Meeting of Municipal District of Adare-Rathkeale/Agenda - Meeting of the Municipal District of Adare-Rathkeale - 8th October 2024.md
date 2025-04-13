@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/00-agenda-8th-october-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -_..—_ Comhairle Cathrach
 
 & Contae Luimnigh
@@ -72,8 +76,10 @@ Corporate Headquarters, Merchants Quay, Limerick.
 @LimerickCouncil
 ( 061-556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4,
 
 10.
@@ -104,5 +110,6 @@ General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2024
 
 (Copy of Correspondence Enclosed).
+
 
 ---

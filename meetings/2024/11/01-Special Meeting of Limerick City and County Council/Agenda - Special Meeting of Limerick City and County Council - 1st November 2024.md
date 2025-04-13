@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-special-meeting-of-limerick-city-and-county-council-1st-november-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A Sezbhisi Corparaideacha,
 a Comhairle Cathrach Combate Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathra Chorpardidesch,
@@ -69,8 +73,10 @@ m customerservices@limerick.ie
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCounctl
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Foreign Travel
 
 To consider approval of foreign travel, in accordance with Section 142(5) of the Local
@@ -87,5 +93,6 @@ International Passport to the World Festival in Austin, Texas, US.
 4. Budget Meeting
 
 To confirm date of Budget Meeting.
+
 
 ---

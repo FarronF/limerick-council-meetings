@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-08/00-agenda-adjourned-meeting-of-the-metropolitan-district-of-limerick-05.08.2021-.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 eile Limerick Ci
 — merick City
 & County Council
@@ -53,5 +57,6 @@ Limerick.
 © vewwalimerick.ie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

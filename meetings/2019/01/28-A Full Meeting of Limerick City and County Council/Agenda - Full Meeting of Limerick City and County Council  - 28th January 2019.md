@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%20January%20Council%20Meeting%20280119.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 , Seirbhisi Corpartideacha,
 ————— Comhairle Cathrach shia Ciliach aan Corian Gikerdch,
 
@@ -52,8 +56,10 @@ of wow limerick.te
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) 3, Galvone View, Limerick.
 
 (f) 4, Galvone View, Limerick.
@@ -116,8 +122,10 @@ Recommendation No. 1
 will partner and collaborate with the Sporting Limerick website and
 include content from the Sporting Limerick website on the Limerick.ie
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 platform in order to achieve the objective 3.0 (unlocking the potential)
 of the above mentioned Action Plan.”
 
@@ -162,8 +170,10 @@ Social Devel ent
 
 (b) To receive a presentation on - ‘Decade of Centenaries 1912-1923’
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Physical Development
 
 Draft City and County of Limerick (Segregation, Storage and Presentation of
@@ -215,8 +225,10 @@ To note reports by Members who have participated at Conference/ Seminar/
 Meeting/Event.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -262,8 +274,10 @@ licencing an alternative ‘Dockless Bike Hire Scheme’ for Limerick City & Env
 would provide greater flexibility and coverage to areas of Limerick City & Environs
 not currently covered with Coca Cola Bike stations.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14,
@@ -296,5 +310,6 @@ service that values and pays them as essential skilled workers.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

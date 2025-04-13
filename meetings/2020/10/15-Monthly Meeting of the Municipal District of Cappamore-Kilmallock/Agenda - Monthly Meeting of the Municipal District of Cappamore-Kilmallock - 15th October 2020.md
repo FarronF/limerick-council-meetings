@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-agenda-october-md-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Comhairle Cathrach agus Contae Lusmniigh,
 & Contae Luimnigh Ov‘g an Cheantair, Aras Maar fre: ten
 An f™ e -alig,
@@ -45,8 +49,10 @@ Comhairle Cathrach agus Contae Luimnigh, Otfig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office v rg ~
 053 980
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Physical Development Directorate
 
 To consider Report on the Public Consultation for the Draft Municipal District of
@@ -82,8 +88,10 @@ Limerick City & County Council bring forward a new comprehensive Part 8 planning
 application for a National Fire Training Centre in Kilmallock Business Park, complete with
 phase 1 & 2.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor John Egan
 
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
@@ -112,5 +120,6 @@ the June 2020 Meeting where | asked that Limerick City and County Council and th
 Department of Transport, Tourism and Sport review the heavy traffic loading on the R513
 Regional road from Caherconlish to Mitchelstown and assess what improvements can be
 put in place for this road and if it needs to be upgraded to National route status.
+
 
 ---

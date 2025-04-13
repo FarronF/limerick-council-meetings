@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_——_— Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -42,5 +46,6 @@ hold office until the next Annual Meeting or until a successor has been elected.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wevew. timerick.te
 Corporate Headquarters, Merchants Quay, Limerick W @LimerickCouncil
+
 
 ---

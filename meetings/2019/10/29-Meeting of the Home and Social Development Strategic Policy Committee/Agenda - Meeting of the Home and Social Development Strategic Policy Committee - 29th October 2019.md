@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20for%20SPC%20Meeting%2029.10.2019.pdf)
+
+---
 **15/10/2019**
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**

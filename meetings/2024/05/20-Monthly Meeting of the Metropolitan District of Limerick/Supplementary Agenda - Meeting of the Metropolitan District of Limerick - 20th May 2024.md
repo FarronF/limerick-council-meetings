@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-supplementary-agenda-meeting-of-the-metropolitan-district-of-limerick-20th-may-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7 aagel Comhairle Cathrach
 & Contae Luimnigh
 AroN 2
@@ -53,5 +57,6 @@ Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Reports Attached)
+
 
 ---

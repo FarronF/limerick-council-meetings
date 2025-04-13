@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/11th%20December%202017%20Notice%20and%20Agenda%20Env%20SPC.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_——_ Comhairle Cathrach
 & Contae Luimnigh
 aa — Limerick City
@@ -23,8 +27,10 @@ Khe fara
 DIRECTOR OF SERVICE,
 PHYSICAL DEVELOPMENT DIRECTORATE
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Agenda
 . Minutes
 
@@ -50,5 +56,6 @@ prosecution, and the need to make it accountable to the Ombudsman”.
 . Presentation on Renewable Ene: id Initiatives — Mr. Vine rmack
 
 . Presentation M. nt Bi s— Ms. Ki
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%2013th%20September%2C%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 = & Contae Luimnigh
 * — Limerick C
@@ -72,8 +76,10 @@ customerservices@limerick.ie
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mid West National Road Design Office
 Proposed N21 Coolanoran Traffic Calming Scheme
 
@@ -111,8 +117,10 @@ General Municipal Allocation (GMA)
 
 To review position in relation to allocations under the General Municipal Allocation 2022.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -141,5 +149,6 @@ remind motorists, cyclists and pedestrians of our duty of care to each other on 
 and also to educate anybody who has recently moved to this country.
 
 A.0.B
+
 
 ---

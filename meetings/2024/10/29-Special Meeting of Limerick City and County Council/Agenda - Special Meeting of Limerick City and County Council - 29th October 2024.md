@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/00-agenda-and-requisition-special-meeting-29.10.2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -  ——_ Comhairle Cathrach
 & Contae Luimnigh
 AN ~S —_ _ *
@@ -54,8 +58,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy of Requisition attached)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Sent: Thursday, October 24, 2024 10:18 PM
 Subject: Special Meeting
 
@@ -70,5 +76,6 @@ Olivia O'Sullivan
 
 Regards,
 Cllr Daniel Butler
+
 
 ---

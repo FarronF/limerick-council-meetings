@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20October%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach
 & Contae Luimnigh
 — Limerick City
@@ -75,8 +79,10 @@ w @LimerickCouncil
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -133,9 +139,12 @@ Notices of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that proper and adequate signage be put in place along the
 Great Southern Greenway to advise dog owners to keep their dogs on a lead at all times.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. | will move at the next Meeting that a safety survey be carried out at the junction known
 locally as Lees Cross on the Bruff line (R521).
+
 
 ---

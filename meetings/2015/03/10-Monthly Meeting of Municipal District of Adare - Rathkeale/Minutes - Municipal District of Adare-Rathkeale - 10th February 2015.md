@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_10th_february_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 10™ FEBRUARY, 2015, AT
@@ -52,8 +56,10 @@ Proposed by Councillor Keary;
 Seconded by Councillor Sheahan;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 2. Disposal of Land
@@ -98,8 +104,10 @@ lease does not expire until the end of November 2015. The Members requested that
 local delegation, together with the Director of Environment and Water, meet the Members
 to discuss this issue further.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4 Eco ic D lo
 
 (a) Proposed Askeaton Local Area Plan 2015-2021
@@ -148,8 +156,10 @@ to same in the absence of the CFRAM flood maps for Adare.
 Members requested that the Office of Public Works (OPW) be written to setting out the
 urgency at which the CFRAM Maps were required prior to the next District Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) Request to Amend the Croom Local Area Plan 2009
 
 Circulated, copy of letter dated 30" January, 2015 and accompanying map from the
@@ -199,8 +209,10 @@ The Head of Finance indicated that, with the agreement of Members, funding of �
 could be provided for the Foynes Air Show 2015 on receipt of a Business Plan and Value
 for Money Assurances.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 Members indicated their support for the proposal and highlighted the need to support
@@ -245,8 +257,10 @@ Quiltys Cross Kildimo.
 REPLY: The L1423 from the Seven Sisters Pub to Quiltys Cross, Kildimo is to be
 resurfaced under the Restoration Improvement Grant for 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Richard O'Donoghue
 
 ! will ask at the next Meeting the Council's future plans regarding Cois Sruthain
@@ -290,8 +304,10 @@ Application form does not facilitate applicants choosing a one off rural house.
 Applicants are requested to choose an area of choice and they will then be
 considered for any suitable vacancy that arises in their area of choice
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 12. Question submitted by Councillor Stephen Keary
@@ -345,8 +361,10 @@ allowed by the City Council in response to specific individual circumstances.
 These exceptions are under review with a view to eliminating them for the
 reasons as set out above.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members indicated that residents of apartments often do not have access to a yard to
 store refuse bins. On the proposal of Councillor Sheahan, seconded by Councillor O'Brien
 it was agreed that the Environment Section should be requested to apply the same rules in
@@ -391,8 +409,10 @@ enforcement was ultimately a Garda issue.
 It was agreed that the Superintendent be invited to the next Meeting to discuss issues of
 parking in Adare and traffic safety issues on the N20 and N21.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 REPLY: There is currently no funding available to contract out or employ parking
@@ -427,7 +447,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

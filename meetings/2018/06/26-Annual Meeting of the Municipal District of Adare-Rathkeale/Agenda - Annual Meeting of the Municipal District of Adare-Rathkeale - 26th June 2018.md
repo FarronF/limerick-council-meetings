@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Annual%20Meeting%2026th%20June%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Po
 
 =
@@ -61,5 +65,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ Customerservices@limerickie
  wwrwlimerickte
 Ww @limerickCouncil
+
 
 ---

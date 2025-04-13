@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-Joint-Policing-Committee-22nd-September-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 — & Contae Luimnigh
 * aie — Limerick Ci
@@ -64,8 +68,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 10.
@@ -114,8 +120,10 @@ i b ncillor T it
 “Community Gardai” presently operating in Limerick City and if it is anticipated if these numbers
 are due to change.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Policing Committee held on 2” June, 2023) _
 
 | will move at the next meeting for the creation of an action plan, similar to Operation Copég, to
@@ -136,5 +144,6 @@ emergency services and be directed by An Garda Siochana under consultation with 
 and County Council. This plan should allow the diversion of vehicles onto suitable roads and
 avoid undue traffic pressure on unsuitable, narrow local roads which are unable to
 accommodate high traffic volumes.
+
 
 ---

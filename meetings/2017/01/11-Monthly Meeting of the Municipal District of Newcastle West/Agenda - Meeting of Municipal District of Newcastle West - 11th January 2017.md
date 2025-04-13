@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_january_meeting_of_municipal_district_of_newcastle_west.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——S
 7
 
@@ -85,8 +89,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ( 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8.
 
 10.
@@ -143,5 +149,6 @@ each case:
 
 (a) Property at Balliniska, Feohanagh know as Creegan’s Farmhouse.
 (b) Property at Balinruanne, Kilmeedy know as Quilty’s.
+
 
 ---

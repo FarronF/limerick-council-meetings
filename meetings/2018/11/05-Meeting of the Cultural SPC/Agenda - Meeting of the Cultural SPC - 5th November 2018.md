@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%20-%20Meeting%20of%20the%20Cultural%20SPC%20-%205th%20November%202018.pdf)
+
+---
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Cultural Services Directorate**

@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_special_meeting_of_the_municipal_district_of_adare-rathkeale_-_14th_november_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 - _—l Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -46,5 +50,6 @@ Development Act 2000 (as amended).
 @ customerservices@limerick.te
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Usmneach! & wwwlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
+
 
 ---

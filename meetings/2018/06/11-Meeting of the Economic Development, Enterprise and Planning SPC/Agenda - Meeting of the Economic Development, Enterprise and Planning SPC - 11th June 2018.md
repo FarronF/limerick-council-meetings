@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Agenda%20of%20SPC%2011th%20of%20June%202018.pdf)
+
+---
 31st May 2018
 
 **To/Each Member of the Economic Development, Enterprise and Planning**

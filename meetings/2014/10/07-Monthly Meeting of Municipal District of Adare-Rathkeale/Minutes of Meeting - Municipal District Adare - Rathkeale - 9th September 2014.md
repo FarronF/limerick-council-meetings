@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_9th_september_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE IN ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY 9™ SEPTEMBER, 2014, AT 9.00
@@ -45,8 +49,10 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor O'Donoghue;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 “That, the approval of the District be and is hereby given to the making of Standing Orders
@@ -98,8 +104,10 @@ taken in charge. A snag list of these outstanding works was issued to the
 developer on 14” August, 2014.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 6. Has the Council addressed the concerns over the frequency of the
@@ -154,8 +162,10 @@ Water Services (No. 2) Act 2013).
 Limerick City & County Council is currently preparing an Assets Needs Brief
 for submission to Irish Water in relation to the issue at Askeaton.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It will, on receipt of the submission from the Council, be a matter for Irish
 Water to consider, prioritise and provide the funding necessary to undertake
 the necessary works in accordance with their investment programme and
@@ -199,8 +209,10 @@ financially in these types of situations.
 
 It is intended to meet on site in the near future to discuss the matter further.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Demonstration on Alfresco System
 
 James Sweeney and Yvonne Daly from ICT Department gave a demonstration on the
@@ -226,5 +238,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%20b%20Minutes%20Special%20Meeting%2023rd%20May%252c%202017.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING ‘IN COMMITTEE’ OF THE**
 
 **MUNICIPAL DISTRICT OF ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE**

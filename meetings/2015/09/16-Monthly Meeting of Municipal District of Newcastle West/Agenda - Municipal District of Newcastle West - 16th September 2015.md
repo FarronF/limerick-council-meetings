@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -53,8 +57,10 @@ To consider the taking-in-charge of Liosan, Newcastle West, in accordance with S
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach o& wwwlimerick.te
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -107,8 +113,10 @@ the Fire Station in Abbeyfeale be repaired immediately.
 at Cois na Féile Estate are stopped until all outstanding issues regarding the estate are
 resolved, including concerns of the local residents and the wider community for example
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -125,5 +133,6 @@ Lissurland in the interest of public safety.
 | will move at the next Meeting of the Municipal District of Newcastle West that funding
 for Christmas lighting be provided on a pro rata basis based on the overall population of
 City and County.
+
 
 ---

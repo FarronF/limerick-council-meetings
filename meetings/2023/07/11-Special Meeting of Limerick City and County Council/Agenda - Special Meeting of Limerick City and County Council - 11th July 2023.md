@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-11th-July-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Sewbnisi Corparstidesctw
 
 Comhairle Cathrach _ ___Sewbhist Corparsidescha,
@@ -40,5 +44,6 @@ Meetings Administrator. ~~
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Lulmneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 857150
+
 
 ---

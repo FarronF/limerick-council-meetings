@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-d-minutes-special-meeting-10.06.2020.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING (QUORUM ONLY) OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,

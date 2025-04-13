@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-2021-11-03-agenda-november.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach Diiche Bardais an Chaisledin Nua Thiar,
 & Contae Luimni Comhairie Cathrach agus Contae Luimnigh,
 CS ™ igh Aras Wittiam Smith O'Brien,
@@ -60,8 +64,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Transportation and Mobility Directorate
@@ -107,8 +113,10 @@ Questions submitted by Councillor J. Sheahan
 | will ask at the next Meeting what works the Office of Public Works have scheduled
 for the Newcastle West Municipal District for the year 2022.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -148,5 +156,6 @@ stops at Barnagh to compliment the Greenway locally.
 Corres ence
 
 {Copies of Correspondence Enclosed)
+
 
 ---

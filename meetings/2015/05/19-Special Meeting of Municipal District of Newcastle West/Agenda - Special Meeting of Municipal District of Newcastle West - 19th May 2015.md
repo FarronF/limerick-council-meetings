@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_19th_may_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—___ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -37,5 +41,6 @@ To discuss issues in relation to Housing for the Municipal District of Newcastle
 @ customerservices@limerickie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © wow limerickie
 Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
+
 
 ---

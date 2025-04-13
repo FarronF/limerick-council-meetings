@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-2024-09-11-agenda-september.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh pa ser tl
@@ -57,8 +61,10 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © vers limerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick et aT
 061 - 556
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 8.
@@ -110,8 +116,10 @@ Questions submitted by Councillor J. Scanian
 I will ask at the next Meeting that the sight lines at Portland Estate, Newcastle West,
 be significantly improved.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -169,8 +177,10 @@ what is the current capacity for new houses left in the existing Wastewater
 Treatment Plant in Newcastle West (b) when is the upgrade of the Wastewater
 Treatment Plant facilities in Newcastle West taking place.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Notice of Motion submitted by Councillor F. Foley
@@ -178,5 +188,6 @@ Notice of Motion submitted by Councillor F. Foley
 | will move at the next Meeting that this Municipal District introduce a
 comprehensive works programme for traffic safety measures to be put in place for
 our towns and villages and that it would be properly funded.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Comhairle Cathrach Scenbabie Caine ee
 hairle ach agus tae Luimnigh,
 < & Contae Luimnigh rose sored shader ny
@@ -49,5 +53,6 @@ AGENDA
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 587150
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Minutes-Meeting-of-the-Economic-Development-Enterprise-and-Planning-Strategic-Policy-Committee-10th-July-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Pleanail, Comhshaol agus Cruthu Aite
 _—_—_—_ i Covlina Laltsodon Comhairle Cathrach agus Contae Luimnigh
 
@@ -62,8 +66,10 @@ this Is in hand and LCCC currently getting legal advice. There will be additiona
 August/September. Mr Thompson responded that he looks forward to getting the review by next
 meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Economic Development, Enterprise and Planning SPC Meeting now sits with the Planning,
 Environment & Place-Making Directorate.
 
@@ -124,8 +130,10 @@ Notice to LA. It may be September before those figures emerge.
 © Does waiver cover Group Water Scheme? Response, these schemes are not specified in the
 Circular. Response — this is not covered in Circular.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cllr Keary proposed the following on the Group Water Scheme:
 
 | will move at the next meeting that, Limerick City and County Council, call on Mr. Darragh
@@ -182,8 +190,10 @@ land use and better planning going forward.
 
 There will be a taking in charge briefing at the next meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ftem 4;
 Presentation on Climate Action by Kieran Reeves, Climate Action Coordinator, Environment &
 Climate Change
@@ -244,8 +254,10 @@ apply go to Gree prise Offic: e
 Full details of scheme will be circulated to members.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 6
 Any Other Business
 
@@ -258,5 +270,6 @@ issue going forward.
 No other business was raised.
 
 Clir. B. Collins, Chairperson
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/minutes-meeting-of-the-municipal-district-of-newcastle-west-6th-november-2024.pdf)
+
+---
 MINUTES
 
 OF

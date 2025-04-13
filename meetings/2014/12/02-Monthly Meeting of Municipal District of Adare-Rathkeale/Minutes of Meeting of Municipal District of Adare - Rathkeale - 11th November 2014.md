@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_municipal_district_of_adare_-_rathkeale_-_11th_november_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK, ON TUESDAY, 11™ NOVEMBER, 2014, AT
@@ -44,8 +48,10 @@ O'Kelly. The delegation outlined their proposal on their proposed bid for Lease 
 Gortadroma Landfill Site. A discussion ensued on the matter and Members raised various
 questions and concerns.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Suspension of Standing Orders: On the conclusion of the presentation, the Head of
@@ -101,8 +107,10 @@ appropriate way of maintaining these buildings is allowing their use for
 commercial or dual purposes. At present these dwellings not in commercial
 use are derelict and do not fulfil modern residential demands, facilities or
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii).
 
 3
@@ -158,8 +166,10 @@ There are a significant proportion of existing trees on the land zoned as
 phase 2 residential and phase 2 serviced sites at Deepark. Any future
 development on these lands shall incorporate as many of the trees as
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii).
 
 tiv)
@@ -215,8 +225,10 @@ development in accordance with the County Development Plan and the
 zoning of Adare Soccer Club portion of ground at Deerpark from Residential
 Development Area Phase 1 to Open Space compliments these guidelines.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e The Adare Area Plan has zoned 34.54 hectares as Residential Development
 Area Phase 1 and 13.66 hectares Residential Development Area Phase 2.
 Accordingly the Adare Area Plan currently has land zoned that is expected to
@@ -264,8 +276,10 @@ normally the responsibility of the management company for the particular
 apartment block. However, it is difficult to comment on an individual
 apartment block without precise details of same.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Permits for the collection and disposal of waste are issued by the National
@@ -316,8 +330,10 @@ REPLY: Provision has been made in the 2014 Development Fund to install speed
 cushions at Church Road, Croom. These works will be completed before the
 end of this year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 The Travel & Transportation Department will assess the need for Traffic
@@ -369,8 +385,10 @@ this matter.
 | recommend therefore that a decision on this Notice of Motion be deferred
 pending a Council agreed strategy.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 9. Notice of Motion submitted by Councillor R. O’Donoghue
@@ -414,8 +432,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ,
 
 >
@@ -424,7 +444,10 @@ Zoning changed from Agriculture to
 Residential Development Area phose 2
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

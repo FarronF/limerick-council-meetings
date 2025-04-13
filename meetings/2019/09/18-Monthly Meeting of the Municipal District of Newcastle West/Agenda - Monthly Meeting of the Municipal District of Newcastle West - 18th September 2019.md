@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%202019-09-18%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ Comhairle Cathrach rere — sens parler
 7 Comhairle Cattwach warring)
 ~ & Contae Luimnigh Avas William Smith O'Brien,
@@ -51,8 +55,10 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 Housing Development Directorate
@@ -94,8 +100,10 @@ environmental damage from residual asbestos (a) the former night club near Aldi 
 Church Street, Newcastle West and (b) the now derelict poultry and dairy plant at
 Castlemahon Village.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -136,5 +144,6 @@ Newcastle West.
 
 I will move at the next Meeting that the water supply be upgraded at Old Mill/Ballyine,
 Newcastle West.
+
 
 ---

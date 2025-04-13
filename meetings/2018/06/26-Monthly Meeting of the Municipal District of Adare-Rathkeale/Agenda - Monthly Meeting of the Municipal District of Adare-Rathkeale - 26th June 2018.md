@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Monthly%20Meeting%2026th%20June%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —————
 
 on
@@ -74,8 +78,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerickic
 W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i i r — Plan n m i
 
 Litter Control in Limerick City and County
@@ -112,8 +118,10 @@ House.
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -160,5 +168,6 @@ investment to this site.
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

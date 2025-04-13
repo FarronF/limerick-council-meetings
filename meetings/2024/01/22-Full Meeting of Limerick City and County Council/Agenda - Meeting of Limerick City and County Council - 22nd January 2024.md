@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-limerick-city-and-county-council-22nd-january-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5 , Sewbhisi Corparai che
 
 Comhairle Cathrach crebnthe Cathe aC aoaemathy
@@ -65,8 +69,10 @@ om customerservices@limerick.le
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To consider proposal for the disposal of land, in accordance with the provisions of
@@ -121,8 +127,10 @@ Co. Limerick, in the form of a 35-year lease.
 (Statutory Notices dated 5, 13, 14" and 18" December,
 2023, and 10", and 11" January 2024 already circulated)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Support Services
@@ -172,8 +180,10 @@ Austin, Texas. (retrospective approval)
 (ii) Invitation to the Mayor, and a delegation, for attendance and
 participation in the Annual St. Patrick’s Day Parade, New York City, USA.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (iii)
@@ -234,8 +244,10 @@ Environment Strategic Policy Committee held on 13" December, 2023.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Transportation and Mobility
@@ -278,8 +290,10 @@ Question submitted by Councillor E. O’Donovan
 Limerick city and county are located and recent data for same and to ask for an update
 on an air quality strategy for Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -324,8 +338,10 @@ Local Government and Heritage to ask the Minister to establish a specific fund b
 which local authorities can apply for discretionary funding for additional street lighting
 for laneways and other areas, as needed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -351,5 +367,6 @@ disability bays in privately owned property {i.e. car parks} an offence and that
 wardens will have the power to fine those responsible for same.
 
 Correspondence
+
 
 ---

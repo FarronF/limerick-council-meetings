@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00-Agenda-19th-October-2022-Adare-Rathkeale.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—_ Comhairle Cathrach
 & Contae Luimnigh
 NIN ‘ =
@@ -76,8 +80,10 @@ wvew timerick.te
 W @LemerickCounci
 \ 061-556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 10.
@@ -114,5 +120,6 @@ open and frank debate on the recent media reports regarding the travelling commu
 Rathkeale.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

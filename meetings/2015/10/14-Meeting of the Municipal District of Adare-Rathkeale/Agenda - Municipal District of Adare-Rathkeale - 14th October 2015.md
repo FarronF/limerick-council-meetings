@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20October%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 -
 
 __—_—_ Seirdhisi Corpardideacha agus Bainistiocht Athruithe,
@@ -57,8 +61,10 @@ Level Goals.
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach l © weew.limerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 5.
@@ -104,8 +110,10 @@ Shanagolden National School, in the interest of public safety.
 Adare-Rathkeale District Office to enable that office to deal efficiently with Councillor
 representations.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -129,5 +137,6 @@ Notice of Motion submitted by Councillor T. Neville
 Askeaton be replaced by a permanent surface.
 
 Correspondence
+
 
 ---

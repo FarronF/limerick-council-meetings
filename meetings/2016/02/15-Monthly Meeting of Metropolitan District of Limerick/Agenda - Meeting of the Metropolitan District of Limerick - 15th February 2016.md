@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -61,8 +65,10 @@ Park in the City of Limerick.
 thr Chorpardideach, Cé na gCeannaithe, Luimneach  wwwAlimerickie
 Sees edoerans arioras Glen Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic lopm nd Plannin;
 
 Proposed Amendment No. 2 to the Southern Environs Local Area Plan 2011-2017 in
@@ -91,5 +97,6 @@ network to encourage greater use.
 
 Correspondence.
 (Copy of Correspondence Enclosed).
+
 
 ---

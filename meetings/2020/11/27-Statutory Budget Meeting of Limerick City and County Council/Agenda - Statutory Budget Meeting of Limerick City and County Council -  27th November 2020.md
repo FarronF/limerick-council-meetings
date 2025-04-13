@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-budget-meeting-27.11.2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 pe Comhairle Cathrach
 & Contae Luimnigh
 ~~ Limerick C
@@ -77,8 +81,10 @@ om Customerservicesalimerickie
 ¥
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . To determine the proportion of commercial rates refund that applies on vacant
 properties in 2021 within the administrative area of Limerick City and County
 Council, in accordance with the provisions of Section 31 of the Local Government
@@ -112,5 +118,6 @@ Reform Act, 2014, subject to finances available.
 
 (Copy of proposed Business and Retail Incentive Scheme for Vacant Property
 2021 Enclosed)
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%2018th%20February%202019%20%284%29.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 il Comhairle Cathrach —e Papa Slag rent
 . mnhairie Cathra: s ie Luimng!
 & Contae Luimnigh Cas Seennt Chores 4
@@ -60,8 +64,10 @@ exchange for 180, St. Munchin’s Street, St. Mary’s Park, Limerick, snerservi
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 2
@@ -113,8 +119,10 @@ Question submitted by Comhairleoir S. 6 Ceallaigh
 | will ask at the next Meeting for an update from Comhairle Cathrach agus Contae Luimnigh
 on the current situation and future plans for Rathbane Golf Club.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -149,5 +157,6 @@ Loftus, Gilligan and O’Hanlon
 
 We will move at the next Limerick Metropolitan Meeting, to agree to allocate €30,000 to St.
 Patrick’s Day Parade out of the General Municipal Allocation.
+
 
 ---

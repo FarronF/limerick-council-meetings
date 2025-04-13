@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_adare-rathkeale_-_7th_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD IN BALLYNEETY GOLF’ CLUB,
 BALLYNEETY, CO. LIMERICK, ON TUESDAY, 7™ OCTOBER, 2014, AT 9.30
@@ -48,8 +52,10 @@ annum for five years to help facilitate the entire development plan.
 Members commended the Delegation for its presentation adding that it was a worthwhile
 project.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Environment and Water
 
 Gortad ndfil
@@ -98,8 +104,10 @@ as the local authority house became vacant and every effect should be made to sp
 the pre-letting work on houses. Members queried when the next Council Purchase
 Scheme would take place.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Travel and Transportation
 
 The Senior Executive Engineer, Roads, gave an update on county roads programme for
@@ -150,8 +158,10 @@ remove the danger or potential danger. The local authority can carry out the
 works specified in the notice itself in any case where the person on whom
 the notice was served fails to comply with it.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 Where there is an immediate and serious risk to road users, the local
@@ -193,5 +203,6 @@ including a speed survey, to assess the need for speed reduction measures
 in Kilfinny.
 
 Cathaoirleach
+
 
 ---

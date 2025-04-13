@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-special-meeting-18.02.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Selrbhis( Corparéideacha,
 _—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Lufmnigh,
 
@@ -52,5 +56,6 @@ jm customerservices@limerick te
 © vewrerimerick.ie
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmeach w @LimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
+
 
 ---

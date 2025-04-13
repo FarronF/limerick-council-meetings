@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-of-spc-mtg-8th-june-2020.pdf)
+
+---
 **3rd** **June, 2020**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**

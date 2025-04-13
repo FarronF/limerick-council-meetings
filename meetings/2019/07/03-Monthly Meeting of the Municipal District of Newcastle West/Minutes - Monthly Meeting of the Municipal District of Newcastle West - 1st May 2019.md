@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28a%29%202019-05-01%20Minutes%20May.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -46,8 +50,10 @@ Secretary of the Residents Association for their inability to attend. She welcom
 opportunity to outline to the Members issues at the estate. She stated that Cryleview
 Residents Association was formed in 2014 and the following items need to be addressed:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e the lack of visibility when exiting the estate onto the N21. She noted that five accidents
 had occurred at this location.
 
@@ -101,8 +107,10 @@ Realm, Newcastle West Development Association - Vision 2023
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Housing Grants - €3.2m allocated to the District.
 
 Newcastle West.ie Website — Launched in December 2018
@@ -158,8 +166,10 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 
 SS ee eee
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
 €2,000 to Templeglantine Tidy Towns.
 
@@ -205,8 +215,10 @@ REPLY: Repair works will be carried out on this wall within the next few weeks.
 | will ask at the next Meeting that the long awaited Public Realm Study for Dromcollogher
 be given immediate priority.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 A working draft of the Public Realm Plan will be presented to Dromcollogher
@@ -257,8 +269,10 @@ contacted and met several times regarding the My Limerick platform and
 advised to contact Customer Services senior staff should they require any
 particular follow up on named cases. Also, it should be noted that each case
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 automatic case number assigned, which is unique to each case for
 identification purposes.
 
@@ -302,8 +316,10 @@ of the plan.
 Also the location of ramps would have to be agreed with the residents in this
 area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. n m b ncillo
 
 | will ask at the next Meeting for speed repeater signs at three approach roads entering the
@@ -346,8 +362,10 @@ Staff are available to meet with customers on the arrangement of an
 appointment or via telephone. If customers wish, staff are also available to
 contact via email.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Notice of Motion submitted Councillor L. Galvin
 
 1 will move at the next Meeting that (a) a survey be carried out on the roads in Mountcollins,
@@ -393,8 +411,10 @@ REPLY: This request can be considered under the GMA Local Roads allocation for 2
 However, should any other source of funding become available for footpath
 upgrades in 2019 this area can be considered.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18. Notice of Motion submitted by Councillor M. Collins
 
 | will move at the next Meeting for three new street lights, one at the back of school in
@@ -442,8 +462,10 @@ of Limerick City and County Council to begin the process to apply for funding fo
 provision of a 25 metre public swimming facility/pool to be located in Newcastle West Town
 to serve the people of the Municipal District and its hinterland.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: The funding mechanism from central government (Department of Transport
 Tourism and Sport) for the construction of new swimming pools is the Large
 Scale Sport infrastructure Fund (LSSIF). This is a new fund that was introduced
@@ -493,8 +515,10 @@ up on this with Central Services.
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Prior to the conclusion of the Meeting, the Cathaoirleach and Councillors thanked the
 Director, Senior Executive Engineer, Meetings Administrator and all staff of the District for
 their help and assistance over this term of the Council. The Members who held the position
@@ -509,7 +533,10 @@ Dated:
 
 11
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

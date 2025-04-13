@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/00%20Agenda%2013th%20December%2C%202022_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 
@@ -68,8 +72,10 @@ Corporate Headquarters, Merchants Quay, Limerick.
 LimerickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Proposed Greenway Link Rathkeale to Adare/Limerick
@@ -94,5 +100,6 @@ General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2022.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-07%20Agenda%20March%20v2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Diutiche Bardais an Chaisledin Nua Thiar,
 a Comhairle Cathrach agus Contae Luimnigh,
 
@@ -51,8 +55,10 @@ customerservices@limerickte
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach = @ Wrewlimerickte
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 unicipa ition Operations an: Services
@@ -94,8 +100,10 @@ R receive tion from T: full ollins Parish Committ
 To consider receiving deputation from Tournafulla/Mountcollins Parish Finance
 Committee at a future Meeting of the District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -160,11 +168,14 @@ i ubmitted b . Sheahan
 | will move at the next Meeting that this Municipal District call on our CEO and
 Management team to progress the provision of an eight lave 25m public pool with
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ancillary public facilities for the County Town of Newcastle West and its hinterland.
 21. | will move at the next Meeting that this Council install CCTV cameras to curtail the
 fly tipping and excessive dumping that is occurring at Glin Pier so as to prevent it
 becoming a black spot on the Shannon Estuary.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00%20Agenda%2028th%20June%2C%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rathy Cacia,
 & Contae Luimnigh Com)nairle Cathrach agus Contae Luimnish,
 
@@ -50,5 +54,6 @@ Corporate Headquarters, Merchants Quay, Limerick. v
 
 @LimerickCouncil
 ( 061 - $56 000
+
 
 ---

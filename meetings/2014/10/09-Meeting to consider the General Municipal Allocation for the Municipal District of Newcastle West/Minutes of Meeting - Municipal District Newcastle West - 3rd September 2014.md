@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_minutes_of_meeting_3rd_september_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
 GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 3°
@@ -47,8 +51,10 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor Galvin;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the approval of the District be and is hereby given to the making of Standing Orders
 in accordance with Part 6 and Schedule 10 of the Local Government Act, 2001 as
 amended by the Local Government Reform Act, 2014 and in accordance with the Local
@@ -94,8 +100,10 @@ off the fast lane, at the top of Barnagh gap.
 In reply, the Senior Executive Engineer indicated the matter was outside the scope of the
 present scheme but that the Council’s Roads Section would investigate the matter.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions submitted by Councillor J. Scanlan
 
 4. ! will ask if immediate action can be taken to address the issue of footpath
@@ -146,8 +154,10 @@ REPLY A Meeting would be arranged on site in the coming week with Councillor
 
 Galvin.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Question submitted by Councillor M. Collins
 
 10. 1 will ask if a plan for the Monagea Road from Knockane towards the 80 kph
@@ -200,8 +210,10 @@ designed. Consideration will be given to customer confidentiality in the new
 
 design
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 Notice of Motion submitted by Councillor L. Galvin
@@ -252,8 +264,10 @@ for 2015/2016. This would also involve land takes.
 Mr. P. Vallely, Executive Engineer added that he would discuss the matter with the
 land owner.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor J. Sheahan
 
 15. 1 move that the drinking water supply in Glin be brought to a standard that it
@@ -310,8 +324,10 @@ and the issue be brought to the full Council.
 Members requested that Superintendent be invited to attend a meeting of Municipal
 District of Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Local Government Reform Act 2014
 
 At this point the Cathaoirleach indicated that the remainder of the Meeting would be held
@@ -327,5 +343,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

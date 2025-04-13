@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore_-_kilmallock_-_27th_november_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -51,11 +55,15 @@ the Local Enterprise Office.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wrewtimerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4,
 
 7.
@@ -102,8 +110,10 @@ Question submitted by Clir M. Donegan
 | will ask at the next Meeting for an update on the design/construction phase of the
 pedestrian bridge at North Bridge, Kilmallock.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13
@@ -127,5 +137,6 @@ Notice of Motion submitted by Councillor M. Donegan
 
 | will move at the next meeting that Limerick City & County Council consider the provision
 of a Pedestrian Crossing at Bruree National School.
+
 
 ---

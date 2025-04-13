@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-adjourned-meeting-27th-january-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Comhairle Cathrach
 & Contae Luimnigh
 oe rE
@@ -59,5 +63,6 @@ im customerservices@limerickic
 © veer limorickie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 063 - 557150
+
 
 ---

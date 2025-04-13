@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON TUESDAY, 12™ JANUARY, 2016, AT 9.00 A.M.
@@ -46,8 +50,10 @@ selection process for the orange route, be made available to the public as soon 
 that the closing date for submissions be extended to a date after the publication of the executive
 summary. This was seconded by Councillor Neville.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Members indicated that Foynes had not been serviced by proper road/rail and that a high quality
@@ -94,8 +100,10 @@ QUESTIONS
 done on Askeaton and the lack of employment opportunities for people without adequate
 training.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 Very serious and violent incidents took place in Askeaton, primarily in Church View Estate,
@@ -145,8 +153,10 @@ roads, they were in a position to install pedestrian crossings on roads in their
 that there were a number of national schools in the district in need of pedestrian crossings and
 work on same should be commenced.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In seconding the Motion, Councillor O’Brien indicated that pedestrian crossings were beneficial for
 both the elderly and children and queried their cost and what rationale was used for their
 
@@ -190,8 +200,10 @@ Sheahan, seconded by Councillor O'Donoghue proposed that legislation be enacted 
 allow Fire Authorities to deal with any hazards associated with these gas bottles and that the
 Minister be written to in this regard.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ze Correspondence
 
 Councillor O’Brien expressed his dissatisfaction with the reply from Irish Water regarding the
@@ -236,8 +248,10 @@ were walking land with their dogs and causing a nuisance. They indicated that al
 chipped and licensed. The Director, Regional Services, indicated that it was a civil matter if dogs
 were being walked on private land.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Neville indicated that in the mornings the stop/go system for traffic going into Limerick
 City from Ballyneety was not configurated correctly. The Operations Manager, South and West
 Division, indicated that he would look into the matter.
@@ -251,5 +265,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

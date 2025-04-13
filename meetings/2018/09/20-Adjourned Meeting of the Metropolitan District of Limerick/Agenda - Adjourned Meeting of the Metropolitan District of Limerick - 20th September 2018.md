@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20Adjourned%20Meeting%20of%20Metropolitan%20District%2020th%20September%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae tetra Cathrach
 = Contae Luimnigh
 “™N . . *
@@ -61,5 +65,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 @LimerickCouncil
 (061 - $7150
+
 
 ---

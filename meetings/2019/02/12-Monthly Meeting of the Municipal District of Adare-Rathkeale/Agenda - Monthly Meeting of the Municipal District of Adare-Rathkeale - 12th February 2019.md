@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%2012th%20February%2C%202019_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimngh,
 
@@ -56,8 +60,10 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach | www.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. w @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 utation from ir’ r
 
 To receive Deputation from the Cardiac First Responder Group. (Item to be taken at 9.00
@@ -96,8 +102,10 @@ To receive an update on the path from Kildimo Village to the Beer Garden Public 
 
 tw
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -151,8 +159,10 @@ To review position in relation to allocations under the General Municipal Alloca
 
 2018/2019.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -177,5 +187,6 @@ Rathkeale.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_meeting_held_15th_april_2016.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF JOINT POLICING COMMITTEE HELD IN**
 
 **THE EXHIBITION AREA, MERCHANT’S QUAY, LIMERICK, ON FRIDAY, 15TH** **APRIL,**

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
 & Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh,
@@ -57,8 +61,10 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 \ 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Declaration of Interest
 
 Disposal of Land
@@ -96,8 +102,10 @@ Notice of Motion received from Councillor E. O’Brien
 Ballydoole road tarred and reconstructed in 2021 under a Limerick City and County
 Council Local Improvement Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -112,5 +120,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 A.0.B
+
 
 ---

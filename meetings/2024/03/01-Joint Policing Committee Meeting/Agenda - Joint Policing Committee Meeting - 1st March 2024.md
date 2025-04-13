@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-joint-policing-committee-meeting-1st-march-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ei Comhairle Cathrach . Sexbhisi Corpartideacha,
 “ : Comnatie Cathwach agus Contae Lutwjh,
 - ,—_ & Contae Luimnigh Ceanncheathna Chorpardideach.
@@ -51,8 +55,10 @@ undue hardship to people and their families.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Lulmneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Question submitted by Deputy Maurice Quinlivan, T.D.
@@ -68,5 +74,6 @@ stray horses in urban areas, what is the number of seizures for non-compliance w
 guidelines and the number of horses destroyed in Limerick in 2023 and to date in 2024
 
 1:
+
 
 ---

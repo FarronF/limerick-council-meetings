@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%2011th%20May%2C%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ie Comhairle Cathrach
 & Contae Luimnigh
 a ‘
@@ -80,8 +84,10 @@ customerservices@limerick.ie
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10,
 
 (b) Disposal of Land at Moneymohill, Ballyhahill, Co. Limerick.
@@ -121,5 +127,6 @@ No Moti Councillor J. O’Dono
 take over of Beechwood Drive Estate, Ballingarry.
 
 A.0.B
+
 
 ---

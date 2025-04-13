@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Notice%20and%20Agenda%20-%20Environment%20SPC%203rd%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _,
 
 . ——
@@ -23,8 +27,10 @@ Kh Kase
 DIRECTOR OF SERVICE,
 PHYSICAL DEVELOPMENT DIRECTORATE
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Agenda
 
 1. Minutes
@@ -50,5 +56,6 @@ permit the standard of maintenance and structure of headstones & kerbing that ap
 graveyards for a period in excess of twenty years.
 
 6. Any Other Business
+
 
 ---

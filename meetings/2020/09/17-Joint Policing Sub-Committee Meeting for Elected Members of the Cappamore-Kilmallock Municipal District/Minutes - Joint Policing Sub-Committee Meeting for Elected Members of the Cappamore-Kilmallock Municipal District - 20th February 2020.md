@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-jpc-sub-committee-minutes.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD AT ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -46,8 +50,10 @@ Bruff District, in addition to her current role in the Newcastlewest District.
 She then proceeded to give an update on current policing issues within the District. She
 confirmed that while there had been a reduction in certain crime categories, that burglaries,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 had seen an increase in recent months, particularly in commercial premises, and she
 confirmed that An Garda Siochana were looking at measures to address same. She also
 confirmed that while drink driving detections had reduced, that drug driving detections had
@@ -87,5 +93,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

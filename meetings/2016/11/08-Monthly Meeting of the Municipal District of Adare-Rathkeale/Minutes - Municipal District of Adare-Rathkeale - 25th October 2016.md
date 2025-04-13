@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_25th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT THE DRAFT BUDGETARY PLAN 2017 MEETING OF THE
 MUNICIPAL DISTRICT OF ADARE-RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 25" OCTOBER, 2016, AT 6.30 P.M.
@@ -44,13 +48,16 @@ District of Adare-Rathkeale for the financial year ended 31% December, 2017, in 
 €225,000 was thereby adopted in accordance with Section 102 of the Local Government Act, 2001,
 as amended,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 This concluded the Meeting.
 
 Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

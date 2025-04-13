@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,8 +59,10 @@ b) Glen Grove, Kilmallock
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wewvalimerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 nN
@@ -77,5 +83,6 @@ Question submitted by Councillor O’ Donnell
 
 | will ask at the next meeting on how many occasions during the winter period 2014/2015
 was Regional Road R514 treated under the Winter Maintenance Programme.
+
 
 ---

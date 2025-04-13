@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-d-minutes-special-meeting-21.12.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE ON TUESDAY, 21ST DECEMBER, 2021, AT 2.30P.M.

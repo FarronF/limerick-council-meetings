@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-17th-November-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach
 & Contae Luimnigh
 RPO ——=EE————
@@ -55,5 +59,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 © wvewetimerickie
 (061 - 87150
+
 
 ---

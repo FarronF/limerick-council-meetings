@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_b_minutes_of_meeting_25th_january2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
 ADARE-RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON WEDNESDAY 25™ JANUARY, 2017, AT 6.15 P.M.
@@ -42,5 +46,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

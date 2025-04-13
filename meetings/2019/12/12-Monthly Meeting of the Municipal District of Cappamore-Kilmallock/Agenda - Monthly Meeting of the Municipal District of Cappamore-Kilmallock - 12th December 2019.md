@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01-Agenda-MD-Meeting-12th-Dec-2019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Oifig an Cheantair, Aras Mhainchin Seoighe,
 
@@ -37,8 +41,10 @@ Limerick City and County Council. Aras Mainchin Seoighe Area Office ¥
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Capital Investment Directorate
 Part 8 Procedure ~ Station Close, Knocklong, Co. Limerick.
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning
@@ -79,12 +85,15 @@ Kilmallock Municipal District?
 (b) How many tenants are on the Housing Assisted Payment (HAP) Scheme in the
 Cappamore-Kilmallock Municipal District?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor Teefy
 
 | will ask at the next meeting of the Municipal District of Cappamore Kilmallock how
 many Electric Charging Points for Electric cars are in the Municipal District and where
 are they located?
+
 
 ---

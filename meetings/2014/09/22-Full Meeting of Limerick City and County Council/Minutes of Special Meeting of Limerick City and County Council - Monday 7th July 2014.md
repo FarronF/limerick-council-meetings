@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/9%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_monday_7th_july_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
 DOORADOYLE, LIMERICK, ON MONDAY, 7™ JULY, 2014, AT
@@ -41,8 +45,10 @@ On the proposal of Councillor Collins (M), seconded by Councillor Sheahan
 On resumption, the Meeting proceeded with Item No. 14 on the Agenda as
 agreed prior to the adjournment.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Home and Social Development
 
 Part 8 P. - nd Modifications to R | Development at
@@ -91,8 +97,10 @@ under a number of headings and was prepared and submitted to the Members
 pursuant to Section 179 of the Planning and Development Acts, 2000-2014, and Part
 8 of the Planning and Development Regulations, 2001-2013.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The report stated that the proposal was advertised on 22" March, 2014, and
 plans and particulars in relation to same were made available for public inspection
 from 24" March until 9" May, 2014. It was proposed to proceed as indicated in the
@@ -136,8 +144,10 @@ the Roads Act, 1993, with Clare County Council for Limerick City and County Coun
 to carry out the necessary design, construction work and completion of the Munster
 Bridges Rehabilitation Contracts 2014.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. Economic Development and Planning
 
 (b) Taking in Charge of Estates - Declaration of Roads to be
@@ -183,8 +193,10 @@ On the proposal of Councillor Collins (M), seconded by Councillor Sheahan
 (J), it was unanimously agreed to adjourn for a period. On resumption, the
 Cathaoirleach stated that Item No. 16 (a) would be taken at this point:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16(a) Newcastle West Local Area Plan 2014-2020
 
 Circulated, report of the Director of Economic Development and Planning
@@ -234,8 +246,10 @@ Section 6.1 on Local Area Plans and Infrastructure Provision states:
 of the Local Area Plan in a proactive manner harnessing all available public and private
 funding avenues to support Local Area Plan implementation.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mid-West Strategic Plan 2012 states:
 
 “In the absence of full alignment upgrades, consideration must be immediately given to
@@ -283,8 +297,10 @@ Foley, Galvin, Gleeson, Hourigan, Hurley, Keary, Lynch, Mitchell, Neville, O’B
 O'Dea, O'Donnell, O'Donoghue, O'Hanlon, Ryan, Scanlan, Secas, Sheahan (J),
 Sheahan (K), Sheahan (M), Teefy. (29)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Against:
 
 Councillors Browne, Keller, Loftus, McCreesh, McMahon, O Ceallaigh, Prendiville,
@@ -329,8 +345,10 @@ Seconded by Councillor Browne;
 “That, Councillor McMahon be appointed to the Local Traveller
 Accommodation Consultative Committee.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Cathaoirleach declared Councillors Lynch, Sheahan (M), Hurley and
 McMahon appointed to the Local Traveller Accommodation Consultative Committee.
 
@@ -373,8 +391,10 @@ was required to consider the nomination of 3 Members from within the number
 nominated at (a) above to be permanent delegates to the Standing Policy
 Council of the Association for the full five-year term.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
@@ -422,8 +442,10 @@ to the Audit Committee.
 Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 “That, Councillors Collins (J), Clifford and Scanlan be appointed as
@@ -474,8 +496,10 @@ Limited. Councillor O’Donnell was re-appointed to the Board at Meeting of Lime
 County Council held on 27" May, 2013, for a further 3 year term. Limerick City and
 County Council was therefore required to appoint 1 further Member to the Board.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11
 
 Proposed by Councillor Collins (M);
@@ -524,8 +548,10 @@ The Meetings Administrator advised that Limerick City and County Council
 was required to consider the nomination of 1 Member to represent the Council on the
 RAPID Action Implementation Team for Rathkeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12
 
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan
@@ -572,8 +598,10 @@ Seconded by Councillor Sheahan (J);
 (M), Sheahan (M) and Hurley be appointed to the Board of 2014 Limerick City
 of Culture.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13
 
 The Cathaoirleach declared, in addition to the Cathaoirleach (ex-officio), the
@@ -613,7 +641,10 @@ An Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

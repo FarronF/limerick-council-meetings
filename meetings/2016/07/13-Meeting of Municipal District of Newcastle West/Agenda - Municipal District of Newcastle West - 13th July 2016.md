@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/agenda_-_municipal_district_of_newcastle_west_-_13th_july_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirbhisi Corpardideacha agus Bainistfocht Athrulthe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -57,8 +61,10 @@ accordance with Section 180 of the Planning and Development Acts 2000 -2015 and 
 Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach  wwwAdlimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Part 8-Cois na Feile, Abbeyfeale
 
 To consider the Deputy Chief Executive’s Report, prepared pursuant to Section 179(3) (a) of
@@ -107,8 +113,10 @@ road linking Nash’s Lane to the Community Centre in Newcastle West.
 | will ask at the next Meeting what plans for drainage will be put in place in terms of flood
 relief at Balliniongig/Moyvane, Dromcollogher.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -173,8 +181,10 @@ Notice of Motion submitted by Councillor M. Collins
 Recreation and Amenity section of the General Municipal Allocation to the Newcastle West
 Business Association for their 3 year Christmas Lights Project in Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.
@@ -186,5 +196,6 @@ pedestrian crossing on Main Street, Abbeyfeale.
 
 | will move at the next Meeting that additional crash barriers be installed on the Barna Road
 where it meets with the Great Southern Trail.
+
 
 ---

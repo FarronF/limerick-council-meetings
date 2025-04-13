@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%28b%29%20Draft%20Minutes%20-%20Special%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2015th%20December%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON THURSDAY, 15TH** **DECEMBER, 2022 AT 2.30PM IN THE COUNCIL CHAMBER, DOORADOYLE**

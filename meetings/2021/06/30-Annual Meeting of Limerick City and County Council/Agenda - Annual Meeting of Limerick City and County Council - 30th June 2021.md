@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-annual-meeting-30.06.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Comhairle Cathrach
 & Contae Luimnigh
 ANI” NS
@@ -62,5 +66,6 @@ mm customerservicesG@limerickie
 © vevew limerickie
 
 (061 - 557150
+
 
 ---

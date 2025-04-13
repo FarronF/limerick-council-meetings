@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/Special%20SPC%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL
 DEVELOPMENT STRATEGIC POLICY COMMITTEE
 
@@ -14,5 +18,6 @@ Signed: Cllr. Michael Murphy
 
 Chairperson
 Limerick City and County Council
+
 
 ---

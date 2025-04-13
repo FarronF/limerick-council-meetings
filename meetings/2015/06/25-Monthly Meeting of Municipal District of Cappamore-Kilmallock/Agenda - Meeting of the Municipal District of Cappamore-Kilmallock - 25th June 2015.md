@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_-_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 
 xn — Comhairle Cathrach agus Contae Luimnigh.
@@ -57,8 +61,10 @@ oS
 Ceanncheathni Chorparéideach, Cé na gCeannaithe, Lutmneach customerservices@limerick ie
 Corporate Headquarters, Merchants Quay, Limerick (Regge tetosets).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 7.
@@ -101,8 +107,10 @@ Question submitted by Councillor Mitchell
 | will ask at the next meeting for an update on the recent fish kill in the Drumclog River,
 Knocklong, Co. Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 Notice of Motion submitted by Councillor O’Donnell
@@ -112,5 +120,6 @@ on the R512 at The Pike, Bruff to include repair of existing crash barrier and a
 placing of appropriate signage and road markings to encourage traffic to slow down.
 
 10. C s) lence
+
 
 ---

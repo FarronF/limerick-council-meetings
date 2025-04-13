@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%202017-06-07%20Agenda%20June%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,8 +58,10 @@ To receive presentation on the Limerick City and County Council Housing Programm
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCounc!'
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 7.
@@ -109,8 +115,10 @@ carried out at Mountmahon to the Garda Station, Abbeyfeale.
 | will ask at the next Meeting if the soft spots on the Killarney Road, Abbeyfeale can be
 repaired as the road surface is deteriorating.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14,
@@ -137,5 +145,6 @@ the M7 motorway.
 
 | will move at the next Meeting that Members of the Municipal District of Newcastle West sit
 on the Consultative Group for the Great Southern Greenway as ex-officio members.
+
 
 ---

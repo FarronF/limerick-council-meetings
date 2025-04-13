@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-8th-september-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh
 ~~ i ~ _ Ayas Séan Finn,
@@ -53,8 +57,10 @@ Corporate Headquarters, Merchants Quay, Limerick. 1 W alim
 erickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community Development Directorate
 
 Disposal of Land
@@ -97,8 +103,10 @@ following Storm Ophelia in 2017 in light of the widespread damage throughout the
 County recently due to Storm Ellen and what plans are in place to limit damage or injury
 from future storms.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -125,5 +133,6 @@ ensure that the influx of visitors to Rathkeale for the Christmas perios can be 
 locally for Corona Virus.
 
 (Copy of correspondence enclosed)
+
 
 ---

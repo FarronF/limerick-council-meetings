@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_of_meeting_12th_january2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 THURSDAY, 12™ JANUARY, 2017, AT 9.00 A.M.
@@ -47,8 +51,10 @@ progress report on the Council’s proposed development at Deerpark, Adare be pr
 
 next Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Ballyhahill Development Association - Request to hold District Meeting in Ballyhahill
 
 Circulated, Report of the Meetings Administrator dated 5" January, 2017 informing the Members
@@ -95,8 +101,10 @@ Circulated, report of the Meetings Administrator dated 9" January, 2017 giving a
 proposals to address flooding issues at Foynes, Askeaton and Ballysteen and giving details of
 correspondence issued and received in relation to same.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members noted that the Department of Agriculture, Food and the Marine may have responsibility
 in relation to the maintenance of the embankment at Ballysteen and agreed that the Department
 be provided with a professionally assessed figure detailing the relatively small amount of
@@ -138,8 +146,10 @@ GMA or Development Fund works.
 The A/Senior Executive Engineer clarified that land acquisition would be necessary on the
 Askeaton Town side of the N69.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 7. Notice of Motion submitted by Councillor A. Teskey
@@ -199,8 +209,10 @@ sale of beds which had been reported to the Enforcement Section but no apparent 
 
 been taken.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Keary noted a high level of dumping at the bottle bank in Rathkeale and requested that
 the CCTV footage monitoring this location be monitored and offenders pursued. He requested a
 report on same for the next District Meeting. The A/Senior Executive Engineer noted that this
@@ -236,5 +248,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

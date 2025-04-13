@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2027th%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -50,8 +54,10 @@ To consider fixing date for February Meeting.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach @ www limerick ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -105,8 +111,10 @@ Notices of Motion submitted by Councillor J. Scanlan
 | will move at the next Meeting that immediate safety measures be implemented to ensure
 that adequate sight lines be provided for all traffic exiting the Woodfield Estates on to the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -142,5 +150,6 @@ Notice of Motion submitted by Councillor J. Sheahan
 
 | will move at the next Meeting that all housing estates in the village of Athea be properly
 signposted in the interest of alerting emergency services to correct locations.
+
 
 ---

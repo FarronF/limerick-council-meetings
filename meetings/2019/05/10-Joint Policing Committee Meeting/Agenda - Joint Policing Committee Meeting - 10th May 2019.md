@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 DKS
@@ -78,8 +82,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -130,13 +136,16 @@ and County Council would engage with the Minister for Justice and the Garda Comm
 to obtain the necessary funding to allow the Castleconnell Garda Station to open 24 hours
 daily to serve the needs of this vast area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. To consider the following Notice of Motion submitted by Councillor Paul Keller :
 
 “I propose, since the existing road traffic legislation does not apply to green spaces, housing
 estates, public parks or car parks and footpaths, that tough robust laws to cover quad bike
 and scrambler use be introduced to cover the illegal use in the above commonly used
 areas”.
+
 
 ---

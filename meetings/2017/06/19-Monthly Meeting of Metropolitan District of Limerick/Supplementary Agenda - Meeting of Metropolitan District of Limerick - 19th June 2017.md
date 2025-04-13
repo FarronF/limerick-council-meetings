@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Supplementary%20Agenda%2019th%20June%252c%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirbhisi Corparéideacha,
 a oo™ Comhairle Cathrach agus Contae Luimnigh,
 
@@ -45,5 +49,6 @@ a
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
+
 
 ---

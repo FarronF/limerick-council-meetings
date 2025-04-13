@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_
 
 a
@@ -61,8 +65,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 & weew.limerick.te
 Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 UESTIONS
 
 uestion submi b uncillor L. Galvin
@@ -83,5 +89,6 @@ Notice of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that the landowner at Cratloe West, Abbeyfeale, be
 contacted and asked if the local authority may remove a ditch at this dangerous bend,
 Opposite the homes of Cusacks and Barrys, in the interest of safety.
+
 
 ---

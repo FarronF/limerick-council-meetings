@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_meeting_to_consider_draft_budgetary_plan_2017_for_the_municipal_district_of_newcastle_west_-_19th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ _——l Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -41,5 +45,6 @@ AGENDA
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach  wwew.timerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

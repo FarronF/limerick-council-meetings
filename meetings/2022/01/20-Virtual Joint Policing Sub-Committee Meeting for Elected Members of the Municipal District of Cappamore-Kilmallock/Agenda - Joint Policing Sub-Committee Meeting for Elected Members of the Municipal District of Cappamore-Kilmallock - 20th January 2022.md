@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-agenda-for-january-2022-jpc-sub-committee-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14" January 2021.
 
 A Chomhairleoir, a chara,
@@ -28,5 +32,6 @@ Update on Community Alert presentation.
 3. Policing Issues
 
 To discuss policing issues in the District.
+
 
 ---

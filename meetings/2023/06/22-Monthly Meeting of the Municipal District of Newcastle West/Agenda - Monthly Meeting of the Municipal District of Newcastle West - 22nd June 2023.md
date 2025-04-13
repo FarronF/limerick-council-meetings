@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-22nd-June-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 = & Contae Luimnigh
 aie Limerick Cit
@@ -75,8 +79,10 @@ Y @LimerickCouncil
 
 { 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -120,8 +126,10 @@ Newcastle West be replaced or repaired. You will note | asked this at a previous
 meeting and this issue is still outstanding. A resident took a terrible fall outside
 Marguerites recently due to the condition of the paving.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -159,5 +167,6 @@ entrance to Desmond Castle. This Council owned site is used by the Office of Pub
 Works to access the castle and a local family to access their own home. Vehicles
 accessing the bank are constantly parking here and blocking it up, recently an
 ambulance could not access the site.
+
 
 ---

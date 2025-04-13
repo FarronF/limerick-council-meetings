@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2024th%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -43,5 +47,6 @@ next Annual Meeting or until a successor has been elected.
 
 Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach oo wer limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

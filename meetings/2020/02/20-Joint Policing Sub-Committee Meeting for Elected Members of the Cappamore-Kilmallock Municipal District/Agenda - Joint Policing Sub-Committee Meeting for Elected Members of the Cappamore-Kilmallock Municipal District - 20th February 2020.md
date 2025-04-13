@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-jpc-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
  _——“e Comhairle Cathrach Comhairle Cathvach agus Contae Luimnigh.
 
 & Contae Luimnigh Oiftg an Cheantair, Aras Meeee Motosse
@@ -49,5 +53,6 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office hte
 
 063 980 19
+
 
 ---

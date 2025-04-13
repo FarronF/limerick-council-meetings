@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Agenda%20of%20SPC%20Mtg%20%20-%209th%20Dec%202019.pdf)
+
+---
 **4th** **December, 2019**
 
 **To / Each Member of the Economic Development, Enterprise and Planning**

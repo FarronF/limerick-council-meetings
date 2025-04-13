@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20April%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 6" April, 2016, AT 10:00 A.M.
@@ -51,8 +55,10 @@ Members thanked the Roads Engineer for work that had gone into compiling the Sch
 Works. They welcomed the proposals in the Scheme but pointed out that Mountcollins was in
 urgent need of resurfacing. It was stated that Mountcollins was on the list for 2016-2018 which
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 would commence the following year.
 
 Proposed by Councillor Foley;
@@ -93,8 +99,10 @@ and Transport Infrastructure Ireland. Public/Business Consultation will commence
 
 course.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. lor L.
 
 1 will ask at the next Meeting when the village of Mountcollins will be resurfaced, as it is ina
@@ -148,8 +156,10 @@ approach towards Castlemahon school in the interest of safety.
 
 REPLY: A meeting is to be arranged on site with regard to this matter.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 Notice of Motion submitted by Councillor L. Galvin
@@ -210,6 +220,7 @@ Signed:
 Dated:
 
 Cathaoirleach
+
 
 
 ---

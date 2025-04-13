@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28b%29%20Minutes%20of%20Special%20Meeting%2019th%20October%2C%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK**

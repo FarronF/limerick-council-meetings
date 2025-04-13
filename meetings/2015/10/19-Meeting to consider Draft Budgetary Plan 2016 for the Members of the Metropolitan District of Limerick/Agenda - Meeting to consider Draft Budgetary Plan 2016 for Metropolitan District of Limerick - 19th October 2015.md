@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20to%20consider%20Draft%20Budgetary%20Plan%202016%20for%20Metropolitan%20District%20of%20Limerick.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_— Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -41,5 +45,6 @@ Limerick.
 @ customerservicesa@limerick ie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach oe wrew.limerick.te
 Corporate Headquarters, Merchants Quay, Limerick ¥ @LimerickCouncil
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-agenda-monthly-meeting-of-metropolitan-district-21st-december-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Sebbhisi Corpardideacha,
 ae ne pled — Comhairle Cathrach agus Contae Luimnigh,
 ontae Luimnig Ceanncheathns Chorperaideach,
@@ -43,8 +47,10 @@ Monthly Meeting of the Metropolitan District of Limerick held on 16'* November, 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows :
 
@@ -88,8 +94,10 @@ facilitate plans to increase footfall in our city.
 city and outline what level of engagement is or has taken place to encourage owners to redevelop
 their properties.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting for an update on when derelict houses in Kennedy Park and Hyde Road
@@ -128,8 +136,10 @@ by project breakdown of funding allocated, funding spent to date, expected deliv
 project, the percentage of funding spent on road resurfacing versus walking and cycling
 infrastructure.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14, Question submitted by Councillor J, Costelloe
 
 | will ask at the next meeting how many fines have been issued in relation to illegal dumping in the
@@ -171,8 +181,10 @@ for this individual tree until it reaches the Ancient tree category age of 400 y
 write to the Minister for Transport, Eamon Ryan requesting he sign off approval of the Limerick
 Northern Distributor Road and allow this vital project to continue to proceed as a matter of urgency.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Notice of Motion submitted by Councillor C. Slattery
 
 | will move at the next Metropolitan Meeting that a pedestrian crossing be installed outside
@@ -211,8 +223,10 @@ riverbank.
 in St. Marys Park given that the issues of safety and ASB are of serious concerns to the residents.
 5
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26. Notice of Motion submitted by Councillor C. Sheehan
 
 | will move at the next meeting of Limerick Council that this Council pledges its support for the
@@ -221,5 +235,6 @@ Councillor will take the Covid vaccine when they are deemed eligible and advised
 
 27. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

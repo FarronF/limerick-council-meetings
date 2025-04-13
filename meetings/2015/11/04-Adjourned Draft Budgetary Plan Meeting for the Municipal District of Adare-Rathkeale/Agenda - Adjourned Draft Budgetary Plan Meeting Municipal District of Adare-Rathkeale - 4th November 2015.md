@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Adjourned%20Draft%20Budgetary%20Plan%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%204th%20Novembe.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -34,5 +38,6 @@ Meetings Administrator.
 l customerservices@limerick.ie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach = © wrew.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
+
 
 ---

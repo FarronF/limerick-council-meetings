@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-2021-04-07-minutes-april.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -41,8 +45,10 @@ him well in his new role in the Municipal District of Adare/Rathkeale. The Membe
 referred to the consequences of the frequent movement of Senior staff from the District and
 expressed the need for continuity.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 41. Adoption of Minutes
 
 (a) Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle
@@ -89,8 +95,10 @@ place in Limerick to promote Fairtrade and also referred to the various challeng
 farmers in the developing world such as Climate Change, Low Prices for their products and
 Covid19.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members thanked the Ms. O’Meara for the comprehensive presentation and
 acknowledged the work which the Committee has undertaken.
 
@@ -137,8 +145,10 @@ Manual for Urban Roads and Streets. This is anew requirement from the TIl.
 
 This new design is currently being prepared for submission to Til for the consideration.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) — Asite selection report for a new burial ground for Abbeyfeale was completed in 2020
 and the acquisition of a suitable site is now being progressed by the Property
 Department of Limerick City and County Council.
@@ -189,8 +199,10 @@ _REF, NO. | LOCATION OF LAND |
 
 4
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 )'DS-043-18 6 Colbert Terrace, Abbeyfeale, Co. Limerick V94 H9P3
 | DS-119-19
 
@@ -252,8 +264,10 @@ In the interim, correspondence has been sent to the SMI Board of
 Management seeking any proposals they may have on traffic flow in the
 vicinity of the school.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Newcastle West Public Realm and Traffic Movement Plan is also to go on
 public display in the near future and submissions will be sought from all sectors
 of the community once the public display period commences.
@@ -300,8 +314,10 @@ however, to raise this matter with the relevant Directorate.
 in the Newcastle West Municipal District (b) when will the Newcastle West sewerage
 scheme be upgraded.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: irish Water issued the Newcastle West Municipal District Wastewater Capacity
 Register dated 17" June 2020 (attached) in response to part (a).
 
@@ -346,8 +362,10 @@ REPLY:
 (a) No funding has been received to progress the installation of parklets. Also the exact
 locations will have to be agreed with the nearby businesses.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) As previously advised the owners of Lee’s and Cronin’s Bar may apply for a licence to
 Council’s Planning Department with regard to outdoor seating. No applications have
 been received to date.
@@ -396,8 +414,10 @@ O'Donoghue highlighting the issues with anti-social behaviour in the District an
 support in the amending of legislation. The Meetings Administrator agreed to follow up on
 this matter regarding correspondence with the Deputies.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 As this Notice of Motion is requesting a change in National Policy it would be referred to
 the next Full Council of Limerick City and County Council for consideration.
 
@@ -444,8 +464,10 @@ area and improvements will be carried out as appropriate.
 
 The following items were also raised.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 An update was sought on the proposed works at Wards Cross and Devon Road Cross on the
 N21. The Meetings Administrator agreed to follow up on this matter with the relevant
 Directorate.
@@ -487,5 +509,6 @@ Cathaoirleach
 Dated:
 
 10
+
 
 ---

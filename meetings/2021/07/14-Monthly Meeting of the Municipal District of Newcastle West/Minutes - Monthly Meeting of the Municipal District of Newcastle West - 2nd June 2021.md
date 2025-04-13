@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01a-2021-06-02-minutes-june.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN

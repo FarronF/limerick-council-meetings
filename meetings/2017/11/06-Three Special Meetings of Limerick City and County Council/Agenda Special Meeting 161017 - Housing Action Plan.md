@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/1%20Agenda%20Special%20Meeting%20161017%20-%20Housing%20Action%20Plan.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach ; Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Conae Luimnigh.
 
@@ -51,5 +55,6 @@ Government Act, 2001, as amended.
 
 Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

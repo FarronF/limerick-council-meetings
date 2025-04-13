@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01b%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%202018.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING FOR THE METROPOLITAN**
 
 **DISTRICT OF LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON**

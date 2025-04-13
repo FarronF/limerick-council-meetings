@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/04-agenda-budget-meeting-1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AN ff
 
 Comhairle Cathrach Comhairie Cathrach agus Contae Luimmnigh,
@@ -48,5 +52,6 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncit
 
 (063 980 19
+
 
 ---

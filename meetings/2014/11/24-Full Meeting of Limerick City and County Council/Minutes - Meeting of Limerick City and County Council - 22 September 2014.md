@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/3%20minutes_-_meeting_of_limerick_city_and_county_council_-_22_september_2014.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL

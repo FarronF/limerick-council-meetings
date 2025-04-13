@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%20Agenda%2011th%20June%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_ Comhairle Cathrach
 6 Contae Luimnigh
 NAN ~“
@@ -67,5 +71,6 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 @LimerickCouncil
 \ 061 - 556 000
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/26th%20February%202018-%20Updated%20Agenda%20Environment%20Strategic%20Policy%20Committee%20%281%29.pdf)
+
+---
 **22nd** **February 2018**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/03%20Minutes%20Special%20Meeting%2023rd%20July%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -34,8 +38,10 @@ accordance with Section 20 of the Planning and Development Act 2000 (Amended) to
 accommodate a playing pitch in the interest of active lifestyle and student well-being
 adjacent to Colaiste lésaef.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Following discussions on completion of the presentation, it was agreed to amend the
 Kilmallock Area Plan as follows:-
 
@@ -78,5 +84,6 @@ Signed:
 
 Date:
 Cathaoirleach
+
 
 ---

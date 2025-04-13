@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-i-agenda-adjourned-meeting-03.07.2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—__ Comnairie Cathrach
 & Contae Luimnigh
 AN mem
@@ -53,5 +57,6 @@ Meetings Administrator.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

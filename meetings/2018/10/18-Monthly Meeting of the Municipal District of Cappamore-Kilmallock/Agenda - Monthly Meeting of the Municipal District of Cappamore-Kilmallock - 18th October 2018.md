@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/02%20Agenda%20Municipal%20District%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Comhairle Cathrach
 = oo~ ° Contas —_
 — Saar Coed
@@ -44,8 +48,10 @@ Social Development Directorate.
 
 Update on Threshold Project in Kilmallock, Co.Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Service Operations Directorate
 
 7
@@ -73,5 +79,6 @@ Question submitted by Councillor Teefy
 
 | will ask at the next Meeting of the Municipal District that some action be taken to help
 with the parking at Cahercorney Graveyard on the R514 road.
+
 
 ---

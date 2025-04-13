@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_special_meeting_municipal_district_of_newcastle_west_-20th_july_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
 NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK,
 
@@ -55,8 +59,10 @@ A number of queries were raised by the Members, most of which were responded to 
 Higgins. In relation to a number of matters, however, she pointed out that these would have to
 be raised with the Directors who would be in a better position to give a more comprehensive
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 reply. She then withdrew from the Meeting.
 
 A discussion took place among Members in relation to the presentation and also regarding the
@@ -87,5 +93,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

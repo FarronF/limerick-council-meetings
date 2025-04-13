@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-draft-minutes-monthly-meeting-17th-january-2022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ONLINE ON MONDAY, 17TH** **JANUARY, 2022 at 09:45 A.M.**

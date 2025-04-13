@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-11th-march-2024_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 & Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh.
 
@@ -55,8 +59,10 @@ Croom, Co. Limerick.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick. YW @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Rural, Community and Culture Development Directorate
@@ -96,8 +102,10 @@ estion submitted b ncillor K. han
 | will ask at the next Meeting for an update on the boil water notice for the residents of
 Askeaton and surrounding area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 13.
@@ -109,5 +117,6 @@ Notice of Motion submitted by Councillor K. Sheahan
 promoting the arts in our own District, in consultation with the arts office at HQ.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

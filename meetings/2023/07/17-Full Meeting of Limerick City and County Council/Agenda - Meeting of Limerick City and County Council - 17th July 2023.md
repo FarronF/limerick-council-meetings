@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 ___ & Contae Luimnigh
 
@@ -73,8 +77,10 @@ Chorpardideach, Cé na gCeannaithe, Lutmneach
 Cearmecheathra
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) 9, Rathbane Road, Rathbane, Limerick.
 
 (b) 11, Desmond Drive, Adare, Co. Limerick.
@@ -121,8 +127,10 @@ Development, Enterprise and Planning Strategic Policy Committee.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e)
 
 (g)
@@ -175,8 +183,10 @@ Strategic Policy Committee held on 12" June, 2023.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii) | Chairperson’s Report — Meeting of Climate Action, Biodiversity and
 Environment Strategic Policy Committee held on 13™ June, 2023.
 
@@ -219,8 +229,10 @@ Strategy 2023-2027: Embrace the Experience.
 
 (Report and Draft Strategy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Update on Community CCTV in Limerick
 To receive Update on Community CCTV in Limerick following Data Protection
 Commission Audit.
@@ -263,8 +275,10 @@ To consider participation by Members at the following Conferences:
 (i) “Accelerate Green Conference — Ireland’s Sustainable Future 2023,”
 held in Tullamore, Co. Offaly, on 1% June, 2023.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -316,8 +330,10 @@ Question submitted by Councillor E. O'Donovan
 year by the Local Authority for Occupational Therapist assessment for housing
 adaptation/older persons’ grants in Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -369,8 +385,10 @@ Notice of Motion submitted by Councillor J. Scanlan
 | will move at the next Meeting that Service Level Agreements with the various
 providers of Public Lighting be reviewed as a matter of urgency.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 Notice of Motion submitted by Councillor S. Benson
@@ -403,5 +421,6 @@ water and waste water connection charges. This is in the interest of fairness fo
 persons where Uisce Eireann connections are not available.
 
 Correspondence
+
 
 ---

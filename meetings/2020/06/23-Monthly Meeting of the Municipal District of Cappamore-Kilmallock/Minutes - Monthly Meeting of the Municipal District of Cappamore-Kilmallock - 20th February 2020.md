@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/02-minutes-of-monthly-meeting-20-2-20.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -39,8 +43,10 @@ agreed that Limerick City and County Council should take a lead in this area in 
 charging points in the Municipal District, given the significant environmental impacts that
 increased usage of electric cars could provide.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Deputation from Step Forward Disability Group
 
 The Cathaoirleach welcomed Maureen Browne and Noreen Meagher from Step Forward
@@ -86,8 +92,10 @@ by the Elected Members.
 Circulated, Housing Progress Report from the Director of Services, Housing Development
 Directorate dated 31st January, 2020, which was noted by the Members.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 6. Notice of Motion submitted by Councillor Donegan
@@ -127,8 +135,10 @@ receive the level of service that they have become accustomed to over the last 1
 are confident that we can deliver a viable plan which will be sustainable in the future for
 our patients, GPs and staff.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor Mitchell
 
 | will move at the next meeting of the Municipal District of Cappamore-Kilmallock that the
@@ -172,8 +182,10 @@ Members of the public who witness environmental pollution such as fly tipping, l
 or backyard burning may also report it to Limerick City and County Council Customer
 Services at 061-556000 or the free phone litter line 1800 201 501 or the See /t? Say It! App.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 9. Question submitted by Councillor Donegan
 
@@ -217,8 +229,10 @@ to certain land relating to these works;
 (b) What is the current position with regard to Planning Enforcement measures
 relating to fence and entrance at old bridge?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Reply:
 
 (a) To date we have received no details from larnréd Eireann regarding the title of the
@@ -257,8 +271,10 @@ significant contribution of the fire service in Kilmallock over the years. The E
 agreed to invite Michael Ryan, Chief Fire Officer to give a presentation on the operation of
 the fire service to the Elected Members at a Municipal District Meeting later in the year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e¢ Vote of Sympathy
 
 The Elected Members extended a Vote of Sympathy to Marie O'Neill, Finance Services,
@@ -280,7 +296,10 @@ This concluded the Meeting.
 Signed: Date:
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

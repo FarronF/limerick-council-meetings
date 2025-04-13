@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28b%29%20Minutes%20Ordinary%20Meeting%20290517.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND

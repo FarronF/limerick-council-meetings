@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%2020th%20November%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha,
 
 Comhairle Cathrach
@@ -58,8 +62,10 @@ Sycamore Avenue, Rathbane, Limerick.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Service Operations Directorate
 Speed Limit Review
 
@@ -100,8 +106,10 @@ Committee)
 | will move at the next meeting, as next year marks the 325" year since the death of Patrick
 Sarsfield, | propose that his statue be moved to a more prominent position.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -132,5 +140,6 @@ taking in charge Milford Close Road in Castletroy.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

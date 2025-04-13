@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_7th_january_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 p-P
 
 _——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
@@ -54,8 +58,10 @@ Street, Abbeyfeale.
 Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach  weew.limerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4
@@ -94,8 +100,10 @@ within the Cemetery.
 | will move at the next Meeting that tap water be provided at those Cemeteries currently
 without one and that a bin collection service be put in place, where necessary.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -115,5 +123,6 @@ interest of safety.
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%2013th%20June%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Seirbhisi Cor par aid eacha,
 Comhairie Cathrach agus Contae Luimnigh,
 
@@ -47,5 +51,6 @@ until the next Annual Meeting or until a successor has been elected.
 >
 Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach phere emt
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
+
 
 ---

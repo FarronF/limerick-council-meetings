@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_b_minutes_14th_november2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
 ADARE-RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON MONDAY, 14™ NOVEMBER, 2016, AT 6.00 P.M.
@@ -49,8 +53,10 @@ house that were classed as being for the immediate benefit and use of the occupi
 e In determining the curtilage in this particular instance reliance was placed on the Demesne
 Lands depicted on the Ordnance Survey's First Edition 6” Mapping of the 1840's — the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 extent of such lands depended on ‘gentlemen's agreements’ between the land-owners and
@@ -93,5 +99,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

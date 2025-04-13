@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_monthly_meeting_of_municipal_district_of_adare-rathkeale_-_9th_june_2015_1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -48,8 +52,10 @@ structure PPS 2015C to the Record of Protected Structures contained in the Count
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwilimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Development Plan and decide whether or not the deletions and addition shall be made in
 accordance with Section 55(4) of the Planning and Development Act 2000 (as amended).
 
@@ -87,8 +93,10 @@ Two heavy vehicles cannot pass on this road safely. The main routes that school 
 use to collect our children, for primary and secondary schools, must be assessed as a
 matter of urgency to ensure that our roads are safe for the upcoming school year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -136,8 +144,10 @@ N20 with particular emphasis on the stretch from Anahid Cross to Rockhill Cross 
 upgrade to include road markings, signage, street-lighting at Banogue and flashing
 speed-indicators at Banogue.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -174,5 +184,6 @@ Adare-Rathkeale will be given equal status for the distribution of the 2015 GMA 
 from the division for Parks and Pitches and any other such appropriate division.
 
 Correspondence
+
 
 ---

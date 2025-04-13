@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%202018-06-15%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _———_
 
 AN f™
@@ -74,8 +78,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 {Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -125,8 +131,10 @@ Questions submitted by Councillor M. Collins
 | will ask at the next Meeting if the dyke at Glenastar, Ardagh (near John Hough’s
 entrance) can be piped or filled to make the road edge safe for road users.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -175,5 +183,6 @@ to try and prevent illegal dumping.
 | will move at the next Meeting that a footpath be installed from the top cross at
 Ardagh along the R521 towards Shanagolden to give safe pedestrian access for
 residents accessing Ardagh Village.
+
 
 ---

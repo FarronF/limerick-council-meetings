@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%20Ordinary%20Meeting%208th%20July%202019%20%281%29.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhisi Corparéideacha,
 Comnhaire Cathwach agus Contae Luimingh,
 —— & Contae Luimnigh p preacet teach enter
@@ -42,8 +46,10 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Disposal of Land
 
 To consider proposal for the disposal of land, in accordance with the provisions of Section 183 of
@@ -82,8 +88,10 @@ To consider the Draft Strategic Policy Committee Scheme, 2019 — 2024.
 
 (Draft Scheme Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) Local Traveller Accommodation Consultative Committee
 
 To consider the nomination of 4 Members to the Local Traveller Accommodation Consultative
@@ -118,8 +126,10 @@ Museums’ Trust.
 To consider the nomination of the Mayor (ex-officio), together with a further 15 Members, to the
 Joint Policing Committee.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (h) Board of Governors of St. John’s Hospital
 
 To consider the nomination of the Mayor of the City and County of Limerick and 1 Member to the
@@ -162,8 +172,10 @@ To consider the nomination of 4 Members to the Local Community Development Commi
 
 To consider the nomination of 3 Members to the Rural Water Monitoring Committee.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (q) —_Belltable — Special Sub Committee of Board
 
 To consider the nomination of the Mayor (ex-officio) to the Belltable — Special Sub Committee of
@@ -206,8 +218,10 @@ on 30" May to 1 June, 2019.
 (b) “Sean MacDiarmada Summer School, 2019.” Held in Kiltyclogher, Co. Leitrim on 7" and 8"
 June, 2019.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (cd) “From Ballot Box to Council Chamber” held in Wexford on 5" to 7" July, 2019.
 (d) “Creating Economic & Business Opportunities from Climate Change” to be held in Tullamore,
 Co. Offaly on 9" October, 2019.
@@ -250,8 +264,10 @@ new social housing units, by district, will be delivered in 2019? How many voids
 does Limerick Council currently have? What is the average time to return a void house back
 into use? What measures are planned to reduce this turnaround time?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 OF MOTION
 
 ion submitted by Councillor A. T:
@@ -287,8 +303,10 @@ derogation on Nitrogen Oxides by the environmental protection agency for the tri
 plant in Mungret which would increase their allowed emission limit from 500mg to 800mg as
 it would be harmful to the air quality and thus the people of Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 | will move at the next meeting, that Limerick City and County Council :
@@ -312,5 +330,6 @@ specific geriatric ED facilities.
 21. Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

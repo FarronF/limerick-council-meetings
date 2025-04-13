@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%2010th%20September%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia,
 : 2 ‘om athe . “or '
 
@@ -47,8 +51,10 @@ aaa ares
 Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach www.limerick.te
 Corporate Headquarters, Merchants Quay, Limerick. 1 Y @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community Development Directorate
 Great Southern Greenway
 
@@ -82,8 +88,10 @@ The 2026 Ryder Cup, Adare
 
 To discuss the Ryder Cup due to be held in Adare in 2026.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -122,5 +130,6 @@ Notice of Motion submitted by Councillor E. 0’Bri
 
 | will move at the next Meeting that the Adare-Rathkeale area approves of traffic calming
 measures on Main Street, Pallaskenry.
+
 
 ---

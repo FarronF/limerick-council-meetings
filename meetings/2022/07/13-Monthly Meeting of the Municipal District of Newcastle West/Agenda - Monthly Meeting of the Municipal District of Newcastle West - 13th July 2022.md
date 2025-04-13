@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%202022-07-13%20July%20Agenda%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach P Diiche Bescels an Chuistesin Nua Tar,
 & Contae Luimnigh omnairte Cathrach agus Contae Luimnig'
 - - Aras William Smith O'Brien,
@@ -53,8 +57,10 @@ Ceanncheathna Chorparaideach, Cé na gCeannaithe, Luimneach © wewnlimerickie
 Corporate Headquarters, Merchant's Quay, Limerick rickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 10.
@@ -104,8 +110,10 @@ around Ashford, Broadford and Raheenagh be cut back in the interest of safety.
 | will ask at the next Meeting that a low cost safety measure be procured for the
 Cloncon junction with the R515.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -137,5 +145,6 @@ drivers exiting the Woodfield Estates to the R522.
 
 I will move at the next Meeting that a survey of traffic activity be undertaken at
 Bishops Court, Newcastle West.
+
 
 ---

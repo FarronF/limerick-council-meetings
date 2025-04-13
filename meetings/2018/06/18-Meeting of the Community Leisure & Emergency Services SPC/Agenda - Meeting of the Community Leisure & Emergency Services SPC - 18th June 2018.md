@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Agenda%2018th%20June%20V2.pdf)
+
+---
 **LIMERICK CITY AND COUNTY COUNCIL**
 
 **Community Leisure and Emergency Services**

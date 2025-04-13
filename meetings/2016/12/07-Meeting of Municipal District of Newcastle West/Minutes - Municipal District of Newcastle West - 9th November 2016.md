@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_newcastle_west_-_9th_november_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 
@@ -48,8 +52,10 @@ Great Southern Trail
 The Senior Executive Officer, Economic Development, gave an update to Members on the Great
 Southern Trail under the following headings:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Great Southern Trail (GST) progress to date.
@@ -108,8 +114,10 @@ Proposed by Councillor Scanlan;
 Seconded by Councillor Galvin;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, in accordance with Sections 54 and 55 of the Planning and Development Act 2000 (as
 amended) the approval of the Municipal District of Newcastle West be and is hereby given to
 the addition of Cooney’s Thatched House, Gortnagluggin, Feenagh (P.P.S.2016/B) to the Record
@@ -160,8 +168,10 @@ contact was made with the current local provider was stressed.
 Councillor Collins stated that as he had not been present at the previous Meeting he wished to
 place on record that he was in agreement with the terms of reference as set out.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 (b) To review position in relation to allocations under the Municipal District Special Projects
@@ -216,8 +226,10 @@ will be considered later this year dependent on the availability of funding.
 
 1 will ask at the next Meeting for an update on the following derelict sites, namely (a) 15
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 Assumpta Park, Newcastle West; (b) The O’Gorman properties along Lower Maiden Street,
@@ -273,8 +285,10 @@ Fund or GMA Roads funding.
 Footpath renewal works along Bishop Street, Newcastle West are to commence
 within the next two weeks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor M. Collins
 
 1 will ask at the next Meeting if Transport Infrastructure Ireland can be asked to carry out a
@@ -328,8 +342,10 @@ calming measures installed at Templeglantine in light of the recent serious acci
 
 In proposing the Motion Councillor Galvin stated that the traffic calming works were welcome
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 but that since the installation of these measures several accidents had occurred at this location.
@@ -382,8 +398,10 @@ improvements are required including land purchase.
 1 will move at the next Meeting that a full structural evaluation and immediate remedial
 works be carried out by Irish Water on the water reservoir in Glin, which is leaking profusely.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Sheahan in proposing the Motion stated that works were required immediately on
 this reservoir. He asked that this item be placed on the Agenda again for December.
 
@@ -430,5 +448,6 @@ Signed:
 
 Cathaoirleach
 Dated:
+
 
 ---

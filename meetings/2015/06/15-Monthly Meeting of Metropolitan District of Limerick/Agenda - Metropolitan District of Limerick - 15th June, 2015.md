@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2015th%20June%2C%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,8 +58,10 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach . é pases peers
 
 Corporate Headquarters, Merchants Quay, Limerick  @LimerickCouncit
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (a)
@@ -111,8 +117,10 @@ Travel and Transportation
 To receive Presentation giving update of progress on the Coonagh Knockalisheen
 Road.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -160,8 +168,10 @@ Notice of Motion submitted by Councillor Joe Leddin
 expansion of the successful public bike scheme to the suburbs to include areas
 such as Raheen, Dooradoyle, Castletroy, Ennis Road and Mayorstone.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -215,8 +225,10 @@ Notice of Motion submitted I hn Gilligan
 | will move at the next meeting that Corporate Headquarters, Merchants Quay, be
 made available as a venue for the Civil Ceremony of Marriage.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.
@@ -232,5 +244,6 @@ Metropolitan District of Limerick.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

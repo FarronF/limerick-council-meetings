@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20October%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -46,8 +50,10 @@ e Dwelling house situate at 258 Deer Court, Carew Park in the City of Limerick.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach & wow limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -90,5 +96,6 @@ each site, current living conditions and plans for each site for the next 5 year
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-february-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 = & Contae Luimnigh
 ~e * — Limerick City
@@ -60,8 +64,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land / Proposed Sub-Lease
 
 To note proposal for the disposal of land, and proposed sub-lease as follows :
@@ -92,8 +98,10 @@ Dock Road, Limerick,
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 5. Question submitted by Councillor J. Leddin
@@ -133,8 +141,10 @@ Have bodycams been introduced yet and if not, the reasons for this delay.
 Council consider taking Carrigogunnel! Castle, Ballybrown Co. Limerick in charge or if they have
 explored ownership of this Castle, which attracts many visitors.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the flood
@@ -169,8 +179,10 @@ horses and recover the costs from the landowner.
 Council engage with Bus Eireann and the NTA to identify a turning point for the bus 303 on the Old
 Cork Road to include Georgian Village up as far as Rosmor.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Notice of Motion submitted by Councillor C. Slattery (to be referred to the Local Electoral Area
 Briefings)
 
@@ -205,8 +217,10 @@ parking practices, with a focus on the dangers of parking on footpaths, cycle la
 Council launches a public awareness campaign to deal with the issue of increased illegal dumping
 and littering during the Covid 19 lockdown.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23. Notice of Motion submitted by Councillor C. Sheehan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and County
@@ -217,5 +231,6 @@ Agency Bill.
 
 24. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

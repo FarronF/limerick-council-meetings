@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%20Council%20Meeting%2026.09.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 - ‘esas Cearpaaibdaaciae
 — Comhairle Cathrach Comhairle Cathwach agus Comtne Ludrrrdah,
 
@@ -64,8 +68,10 @@ Presentation to Elected Members.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 Declaration of Interest
@@ -143,8 +149,10 @@ amended.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -194,8 +202,10 @@ in accordance with the provisions of Section 66 of the Local Government Act,
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (g) Foreign Travel
@@ -230,8 +240,10 @@ accordance with Section 106 of the Local Government Act, 2001, as amended.
 
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Transportation and Mobility
@@ -276,8 +288,10 @@ of the Local Government Act, 2001, as amended, and Section 14 of the Roads Act,
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -330,8 +344,10 @@ Question submitted by Councillor J. Sheahan
 | will ask at the next Meeting what is Limerick City and County Council's definition of
 an ‘Active Farmer’ in the context of the Local Improvement Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -384,8 +400,10 @@ considered and unconstrained interpretation of the Guidelines to qualify for a L
 improvement Scheme as set out in the February/April 2020 Memorandum and
 Scheme Outline issued by the Department of Rural and Community Affairs.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor S. Benson (to be referred to the Travel
 and Transportation Strategic Policy Committee)
 
@@ -417,5 +435,6 @@ Festival and Events Grant Scheme to include Elected Members from all political p
 and none.
 
 Correspondence
+
 
 ---

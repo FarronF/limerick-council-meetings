@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-2020-12-16-agenda-.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Cxiiche Bardais an Chaisleain Nua Thisr,
 _—_—_ Comhairle brah Comhairte Cathrach agus Contae Luimnigh,
 
@@ -55,8 +59,10 @@ car parking spaces, associated surface lining, drainage, lighting and green area
 Ceanncheathru Chorpardéideach, Cé na gCeannaithe, Luimneach © vevevilimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick C061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Construction of six cattle underpasses and one cattle overpass at five locations
 on the newly developed Great Southern Greenway at Garranekeevan, Dromin
 (MacTurlough), Doonakeen, Knocknasna and Port.
@@ -73,5 +79,6 @@ change of use to a community and tourism use along with ancillary site works.
 2. General Municipal Allocation
 
 To review position in relation to allocations under the General Municipal Allocation 2020.
+
 
 ---

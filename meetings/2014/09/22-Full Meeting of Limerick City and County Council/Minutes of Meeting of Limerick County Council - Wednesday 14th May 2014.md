@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/5minutes_of_meeting_of_limerick_county_council_-_wednesday_14th_may_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 LIMERICK COUNTY COUNCIL HELD IN THE COUNCIL
 CHAMBER, COUNTY HALL, DOORADOYLE, CO. LIMERICK, ON
@@ -43,8 +47,10 @@ Council must consider the proper planning and sustainable development of the are
 statutory obligations and any relevant plans and policies of the Government or any Minister
 of the Government.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ne
 
 The Senior Executive Planner outlined the procedure to be adhered to following
@@ -96,8 +102,10 @@ necessary). Zoning of this land ‘Enterprise & Employment’ could provide an a
 public/private partnership delivery of important infrastructure at the chosen Docking Point E
 which would be highly unlikely if the land was zoned ‘Agriculture.’
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. 1! recommend an increase in the area of open space as indicated on the map submitted (additional
 open space area of 0.58 hectares). This change is in line with the proper planning and sustainable
 development of the area in that it will provide additional open space for the residents in the area
@@ -138,7 +146,10 @@ An Ranai Contae
 
 Data:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

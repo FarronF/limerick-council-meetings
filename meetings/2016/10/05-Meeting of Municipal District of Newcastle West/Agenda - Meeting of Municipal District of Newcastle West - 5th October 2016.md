@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_meeting_of_municipal_district_of_newcastle_west_-_5th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -48,8 +52,10 @@ To consider the taking in charge of Templegreen, Newcastle West in accordance wi
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach @ wowlimerickie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 (b) Proposal to add one structure to The Record of Protected Structures
@@ -98,8 +104,10 @@ uestion submitted ncill Ivin
 | will ask at the next Meeting if reflective material can be placed on the bridge at
 Templeathea (this bridge is located in the dip of the road).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -139,5 +147,6 @@ Notice of Motion submitted by Councillor S. Browne
 and Sport to support the pupils of Castlemahon National School who live on the R1307
 Balliniska line that are not collected by the local school bus, in their efforts to secure safe
 transport to and from Castlemahon National School.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-29th-May-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh,
 aAr™ lf ™ eee eeeeeencceeeeaeneeeERSNSES
@@ -55,8 +59,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 24st March 2023
 
 following emergency motion:
@@ -68,7 +74,10 @@ adults and children could now be
 lift the eviction ban for rented pre
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

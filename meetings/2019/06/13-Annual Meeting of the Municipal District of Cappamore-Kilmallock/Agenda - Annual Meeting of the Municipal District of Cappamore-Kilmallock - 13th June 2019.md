@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Signed%20Agenda%20MD%20Meeting%2013th%20June.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach
 & Contae Luimnigh
 ~ —> Limerick City
@@ -31,5 +35,6 @@ office until the next Annual Meeting or until a successor has been elected.
 
 2. To elect a Leas-Cathaoirleach of the Municipal District of Cappamore-Kilmallock to hold
 office until the next Annual Meeting or until a successor has been elected.
+
 
 ---

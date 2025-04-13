@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01b%20Minutes%20Adjourned%20Meeting%2020th%20September%202018.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON THURSDAY,**

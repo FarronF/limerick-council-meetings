@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20Cultural%20SPC%203rd%20September%202018.pdf)
+
+---
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Cultural Services Directorate**

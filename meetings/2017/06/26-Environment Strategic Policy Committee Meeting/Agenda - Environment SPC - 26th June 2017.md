@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Environment%20SPC%20Meeting%2026th%20June%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——,
 
 ——-
@@ -20,8 +24,10 @@ held in the Council Chamber, Merchants Quay, Limerick, on Monday 26" June, 2017 
 DIRECTOR OF SERVICE,
 PHYSICAL DEVELOPMENT DIRECTORATE
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Agenda
 
 1. Minutes
@@ -39,6 +45,7 @@ release of Sky Lanterns (Chinese Lanterns) and ban the release of helium balloon
 3. Presentation on th River Basin Management Plan — Ms. Anne Goggin
 
 4. Review of TLC 3— Ms. Sinéad McDonnell
+
 
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/Agenda%20JPC%2012.11.19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 & Contae Luimnigh Comhatric Cathrach agus —_— ml
 “a | a ~ ras S . .
@@ -49,5 +53,6 @@ To discuss policing of the District Christmas 2019.
 & customerservices@limerick.te
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach } © wowsimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. Ces: uauee
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Minutes-Joint-Policing-Committee-Meeting-3rd-March-2023.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE**
 
 **COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON 3RD** **MARCH, 2023 AT 10.00 A.M.**

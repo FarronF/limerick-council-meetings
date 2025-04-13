@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/mintues-limerick-joint-policing-committee-8th-december-2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF MEETING OF JOINT POLICING COMMITTEE HELD IN THE
 CONFERENCE ROOM, ESTUARY HOUSE, GARDA STATION, HENRY STREET,
 LIMERICK ON FRIDAY, 8™ DECEMBER, 2017 AT 10.00 A.M.
@@ -58,8 +62,10 @@ with other police forces and the device now launched was the latest technology a
 It was proposed to do a 6 month pilot and fifty members of An Garda Siochana in Limerick have
 volunteered to use the device on a rostered basis.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6 (a)
 
 Mr. Willoughby then gave presentation on the Active Mobility Pilot in Limerick Garda Division.
@@ -112,8 +118,10 @@ Members referred to the need for extra Gardai in the Bruff area.
 Members wished Tom O'Connor, retired Superintendent well on his retirement adding that he had
 given great service on policing to the city and county.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6 (b)
 
 6 (c)
@@ -166,8 +174,10 @@ Update by Mr. Mihai Bilauca
 Update on installation of CCTV in a number of areas given by Mr. Bilauca. This was welcomed by
 the Members.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “1 will move at the next Metropolitan Area Meeting that a Driver Feedback Sign be erected at the
 Ballinacurra side of the Dooradoyle Flyover to slow traffic in Ballinacurra which is currently
 speeding on the road”.
@@ -214,8 +224,10 @@ police adequately.
 Circulated response from An Garda Siochana in response to request regarding the allocation of
 Probationer Gardai to Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It was noted that five Probationer Gardai were allocated to Limerick from the recent attestation
 and this was welcomed by the Members. Howevr, Members referred to the urgent need for
 
@@ -230,7 +242,10 @@ THE MEETING THEN CONCLUDED
 COUNCILLOR SEAN LYNCH
 CHAIRMAN
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

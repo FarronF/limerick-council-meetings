@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-agenda-ordinary-meeting-limerick-city-and-county-council-23.09.2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach Comhairle Cathr ivan Caine anoun
 & Contae Luimnigh ee : a
 
@@ -65,8 +69,10 @@ Housing Directorate
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach  @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rural, Community and Culture Directorate
 
 General Disposals
@@ -125,8 +131,10 @@ To fix date for the 2025 Statutory Budget Meeting
 
 (Copy of Department Circular Fin 11/2024 dated 15" July, 2024, Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (4)
@@ -178,8 +186,10 @@ the remaining Committee Members.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Environment, Climate Action and Shared Services
@@ -227,8 +237,10 @@ Government and Heritage and the Office of the Planning Regulator (High Court
 Record Number: 2022/1132 JR), which is listed for hearing on 26 - 28 November
 2024.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -273,8 +285,10 @@ for each of the Districts; (c) how many were successful; (d) how many were not
 successful; (e) what was the total paid out; and (f) can | ask for a report also on
 damage/claims as a result of overgrown hedges.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -326,8 +340,10 @@ Question submitted by Councillor E. O'Donovan
 responsibility and plan for the water quality of the River Deel considering the recent
 fish kill in this river.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.
@@ -376,8 +392,10 @@ resources to ensure that all housing units are supplied with High Speed Broadban
 is legislated for in the Gigabit Infrastructure Act which aims to eliminate digital
 exclusion.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 27.
 
 Notice of Motion submitted by Councillor L. Galvin
@@ -419,8 +437,10 @@ to request that the current visitor restrictions in the University Maternity Hos
 Limerick be eased so as to be brought in line with other Maternity Hospitals nationally
 as the current restrictions are causing distress for families in the Midwest.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 31.
 
 33.
@@ -466,5 +486,6 @@ cap at Dublin airport and writes to every Oireachtas member in Limerick City and
 County calling on them to oppose lifting the cap.
 
 Correspondence
+
 
 ---

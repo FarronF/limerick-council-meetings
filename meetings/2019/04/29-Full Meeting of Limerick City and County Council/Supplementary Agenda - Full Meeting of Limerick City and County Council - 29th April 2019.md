@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%28b%29%20Supplementary%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Sebhist Corperdideacha,
 _——_—_ & Contac Lal igh Comhairle Cathrach agus Contae Luimnigh.
 fos. ontae Luimnig Ceanncheathni Chorpardideach,
@@ -57,5 +61,6 @@ eatings Administrator.
 
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick < 061 - $7150
+
 
 ---

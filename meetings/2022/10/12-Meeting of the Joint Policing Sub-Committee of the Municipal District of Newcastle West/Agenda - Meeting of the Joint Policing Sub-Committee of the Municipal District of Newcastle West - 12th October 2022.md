@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%202022-10-12%20Agenda%20JPC%20Subcommittee%20Meeting%20October%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 —_— pled Luimnigh Comhairle Cathrach egus Contae Luimunigh,
 
@@ -50,5 +54,6 @@ To discuss policing issues in the District.
 & customerservices@limerick.ic
 Ceanncheathri: Chorparaideach, Cé na gCeannaithe, Luimneach © vewwlimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick W' @LimerickCouncil
+
 
 ---

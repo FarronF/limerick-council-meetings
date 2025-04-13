@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-2020-12-02-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——_ Comhairle Cathrach PB sorte oe tccerticlpontpelden 5
 & Contae Luimnigh omhaiile Cathrach agus Contae Luimnag!
 Avas William Smith OBnen
@@ -63,8 +67,10 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © wevewalimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick W @limerickCouncil
 (061 - 586 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -112,8 +118,10 @@ there are issues with electricity supplies.
 | will move at the next Meeting that a road crossing be provided at Abbeyfeale United
 Soccer Club Abbeyfeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -126,5 +134,6 @@ residential congestion and traffic flow difficulties along Boherbee.
 
 I will move at the next Meeting that consideration be given to reconfiguring the traffic
 flow at Ballykennedy Cross (Dore’s) in the interest of safety.
+
 
 ---

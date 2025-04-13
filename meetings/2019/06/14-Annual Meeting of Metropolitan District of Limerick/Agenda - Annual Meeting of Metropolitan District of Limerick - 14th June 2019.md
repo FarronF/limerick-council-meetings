@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Annual%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2014th%20June%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach Comnhattie Gatvach onus Contes uumrrtn
 : Yo & Contae Luimnigh Ceanncheathni Chorparaideach,
 NEN . . . Cé na gCeannaithe,
@@ -39,5 +43,6 @@ the next Annual Meeting or until a successor has been elected.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-the-metropolitan-district-of-limerick-20th-march-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Sewbhisi Corparaideacha,
 _—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimrugh,
 & Contae Luimnigh Ceanncheathna Chorpardideach.
@@ -54,8 +58,10 @@ February, 2024.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Disposal of Land
 
 To note proposal for the disposal of land as follows :
@@ -105,8 +111,10 @@ Government Act 2001 (as amended).
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Rural, Community and Culture Development Directorate
 Draft Local Economic and Community Framework Plan 2023 - 2028
 
@@ -153,8 +161,10 @@ are being put in place to restore / repair this road.
 for Ballysimon Road and Garryglass roundabout, now that the funding has been secured, and the
 timeframe for those works.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
@@ -200,8 +210,10 @@ proposed development of 5 no. community bungalows at Mulcair Drive in Annacotty.
 Council give details on what works will be done in Boherkyle with the €60,000 allocated to that
 area by the NTA.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23. Question submitted by Councillor E. O'Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that we write to Irish Rail
@@ -246,8 +258,10 @@ Biodiversity and Environment Strategic Policy Committee)
 County Council consider displaying information about Mental Health Services on the Limerick City
 bridges and across other suitable locations in the City.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 30. Notice of Motion submitted by Councillor E. Secas
 
 | will move at the next Meeting of the Metropolitan District of Limerick that we write to An Post
@@ -297,8 +311,10 @@ Action, Bio’ E ment Strate. ic Poli Committee
 | will move at the next Meeting of the Metropolitan District of Limerick that dog wash facilities be
 installed close to dog parks in Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 37. Notice of Motion submitted by Councillor S. Hartigan (to be referred to the Climate Action,
 
 Bi and Environment Strategic Poli mitt
@@ -307,5 +323,6 @@ Bi and Environment Strategic Poli mitt
 County Council consider placing a sign on each bench in the city along the river Shannon with
 small quote/affirmative message so that when a person sits along the river to think about things
 this would be the first thing they see before they sit.
+
 
 ---

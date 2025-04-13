@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03_draft_minutes_of_special_meeting_13th_may.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN THE FIRE
 STATION, ABBEYFEALE, CO. LIMERICK, ON WEDNESDAY 13th May,
@@ -39,8 +43,10 @@ be provided to the rear of a building fronting on to the Main Street, Abbeyfeale
 In response to queries from the Members, he stated that he was satisfied with issues
 of safety and visibility regarding the proposal.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 A lengthy discussion ensued and on the proposal of Councillor Sheahan, seconded
 by Councillor Galvin, it was unanimously agreed to proceed with the removal of 4 car
 parking spaces on the southern side of Main Street, Abbeyfeale.
@@ -49,5 +55,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

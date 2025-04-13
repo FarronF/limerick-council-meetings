@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/10th%20Dec%202018%20-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 & Contae Luimnigh
 nAr™ _—_—
@@ -21,8 +25,10 @@ CHAIRPERSON OF THE ENVIRONMENT STRATEGIC POLICY COMMITTEE
 
 PHYSICAL DEVELOPMENT DIRECTORATE
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Agenda
 
 1. Minutes
@@ -56,5 +62,6 @@ leaks in Islanduane, Mungret.”
 
 “1 will call on Limerick City and County Council to place Recycle Bins at strategic points throughout
 the city for recycling plastic bottles.”
+
 
 ---

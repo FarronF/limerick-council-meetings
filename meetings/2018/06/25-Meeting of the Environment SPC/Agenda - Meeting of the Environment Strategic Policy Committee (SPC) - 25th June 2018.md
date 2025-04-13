@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/25th%20June%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
+
+---
 **20th** **June 2018**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**

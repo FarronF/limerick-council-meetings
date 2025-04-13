@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_8th_november2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN KILCORNAN COMMUNITY CENTRE, KILCORNAN, CO. LIMERICK ON
 TUESDAY, 8™ NOVEMBER, 2016, AT 9.00 A.M.
@@ -48,8 +52,10 @@ need for an upgrade of the Askeaton Sewerage Treatment facilities and that the r
 the Taoiseach, local Senators and the EPA should also be contacted in this regard. Members also
 agreed that Irish Water and the EPA should be invited to the next Meeting of the District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Circulated, copy of draft Minutes of Budgetary Plan 2017 Meeting of the Municipal District
 of Adare-Rathkeale held on 25" October, 2016.
 
@@ -100,8 +106,10 @@ are in agreement that works would be beneficial at this location and have agreed
 consider proposals from Limerick City & County Council. In accordance with their
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 procedures for requests of funding, a feasibility report has now been requested.
@@ -151,8 +159,10 @@ burials were to be allowed. He pointed out that he had since had discussions wit
 
 and the position had been clarified.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 5. Service Operations Directorate — Planning & Environmental Services
@@ -207,8 +217,10 @@ Sites Register.
 © Progress in bringing the Derelict Sites Registers for the City and County together in digital
 format, accessible by the public and the Elected Members.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 © Details of 13 derelict sites on the Register for Rathkeale including properties about to be
@@ -267,8 +279,10 @@ October, 2016 enclosing the Assessment Report on the Public Consultation Phase o
 Project for the introduction of a 30 kilometres per hour special speed limit in 5 housing estates in
 the Municipal District of Adare-Rathkeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Report was noted by the Members.
 
 7. Flooding Issues
@@ -315,8 +329,10 @@ Planning and Development Act.
 Temporary dwellings that are parked on a public road / footpath and are not being
 lived in would be a matter for An Garda Siochana.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Notice of Motion submitted by Councillor A. Teskey.
 
 It was noted that this Item had been considered in conjunction with Item 5 (b) on the Agenda.
@@ -363,8 +379,10 @@ raising of the road level above the floor level of adjacent property with the po
 to drain from the road into such property. He suggested that in such instances the road should be
 first lowered then brought back to its original level with the new road making material.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 In seconding the Motion Councillor Keary noted that while property owners must not allow water
@@ -413,6 +431,7 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 
 ---

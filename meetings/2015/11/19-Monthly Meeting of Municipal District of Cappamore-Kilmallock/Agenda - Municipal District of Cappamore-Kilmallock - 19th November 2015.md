@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20November%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_—_— Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -56,8 +60,10 @@ To hear update from Inspector Luke Conlon.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach 2
 Corporate Headquarters, Merchants Quay, Limerick waaien serene
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ne
 
 QUESTIONS
@@ -97,5 +103,6 @@ Notice of Motion submitted by Councillor O’Donnell
 | will move at the next Meeting that Limerick City and County Council install
 appropriate and necessary traffic calming measures at the National School in
 Knockainey in the interest of road safety.
+
 
 ---

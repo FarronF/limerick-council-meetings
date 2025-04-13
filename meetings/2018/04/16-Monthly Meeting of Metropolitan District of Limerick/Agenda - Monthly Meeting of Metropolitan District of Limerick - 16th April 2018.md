@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%2016th%20April%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “_r™
 
 — >
@@ -69,8 +73,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 ( 061 - 857150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -117,8 +123,10 @@ up-to-date fire fighting and rescue equipment, so as to safely rescue people tha
 become trapped in a burning high rise buildings such as the 17 storey city hotel and the
 two 15 storey city centre apartments.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -177,8 +185,10 @@ Notice of Motion submitted by Councillor M.Hurley
 improve fish stocks and manage the river Shannon and its tributaries and ask Inland
 Fisheries what they are doing to prevent erosion of the banks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -195,5 +205,6 @@ rents in the cost of student accommodation.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

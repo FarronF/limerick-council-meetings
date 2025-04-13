@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-special-meeting-16.04.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a E Comhairle Cathrach
 = & Contae Luimnigh
 “ne — Limerick City
@@ -69,8 +73,10 @@ Development Plan.
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We request a Special Meeting of Limerick City and County Council to discuss the
 closure of the Rehab Logistics plant in Raheen, the dismissal of 37 workers with
 disabilities and the refusal of the Rehab Group to agree to pay the workers a fair
@@ -87,8 +93,10 @@ Clir. Fergus Kilcoyne. —~
 & ec
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We request a Special Meeting of Limerick City and County Council to discuss the following:
 
 “That, in light of the recent Government announcement on the Rural Development Policy
@@ -113,6 +121,7 @@ Clir. Gerald Mitchell.
 
 q 0?
 Clir. Stephen Keary. porate service a
+
 
 
 ---

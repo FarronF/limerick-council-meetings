@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%20Minutes%2028th%20February%202019%20JPC%20Sub-Committee%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN COMMUNITY CENTRE, GALBALLY, CO.
@@ -41,8 +45,10 @@ in thefts from cars. The Superintendent stressed the importance of members of th
 ensuring that their vehicles were securely locked at all times and that no property should be
 left on display in cars.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Superintendent also referred to the successful event that took place on the 12" February,
 2019 in The Old Convent, Bruff titled “Rural Isolation and Crime Prevention which was
 supported by An Garda Siochana. He thanked the Elected Members for their support in
@@ -89,5 +95,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

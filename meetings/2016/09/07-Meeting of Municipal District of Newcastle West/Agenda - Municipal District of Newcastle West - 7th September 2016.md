@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_newcastle_west_-7th_september_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 
 Comhairle Cathrach agus Contae Luimnigh,
@@ -60,8 +64,10 @@ Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach @ veww.limerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick vy @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -112,8 +118,10 @@ Question submitted by Councillor S. Browne
 
 | will ask at the next Meeting for an update on road resurfacing in Tournafulla.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -161,5 +169,6 @@ Adams Garage have kerbs extended to the roads edge and that the 60 km speed limi
 Glin Town be extended beyond the pier road entrance in the interest of all users of the N69.
 
 Correspondence
+
 
 ---

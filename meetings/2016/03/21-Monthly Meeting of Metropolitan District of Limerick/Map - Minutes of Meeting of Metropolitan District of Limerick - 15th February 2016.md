@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Map%20-%20Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ce S \ / \ a Agriculture Southem Environs LAP Boundory
 j | f ; Existing Residential
 
@@ -37,6 +41,7 @@ WY is
 Zoning Map
 Ordnance Survey Iresond
 CCMA Limerick County Council 2010/09
+
 
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%202018-11-21%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Diuiiche Bardais an Chaisleain Nua Thiar,
 
 a Comhairle Cathrach agus Contae Luimnigh,
@@ -48,5 +52,6 @@ within quicker timeframes.
 & customerservices@limerick.te
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach &) wwwlimerickte
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

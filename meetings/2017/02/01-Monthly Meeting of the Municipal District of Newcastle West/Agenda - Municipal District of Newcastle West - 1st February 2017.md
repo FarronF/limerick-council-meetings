@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_february_meeting_municipal_district_of_newcastle_west_010217.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———
 —=-_:
 
@@ -80,8 +84,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 062 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6.
 
 10.
@@ -137,5 +143,6 @@ Estate.
 
 | will move at the next Meeting that a pedestrian crossing be put in place along Boherbui,
 Newcastlewest and located to the west of Dr. Loughnane’s Medical Centre.
+
 
 ---

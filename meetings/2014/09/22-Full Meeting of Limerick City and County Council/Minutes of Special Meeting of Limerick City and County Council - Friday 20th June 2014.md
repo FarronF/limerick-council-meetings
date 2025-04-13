@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/8%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_friday_20th_june_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
 DOORADOYLE, LIMERICK, ON FRIDAY, 20™ JUNE, 2014, AT 12
@@ -42,8 +46,10 @@ Proposed by Councillor Foley;
 Seconded by Councillor Galvin;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the Abbeyfeale Local Area Plan 2014-2020 be made in accordance
 with the Chief Executive’s recommendations dated 11" June, 2014, under Section
 20(3)(n) of the Planning and Development Acts, 2000-2014.”
@@ -87,8 +93,10 @@ the approval of the Council be and is hereby given to defer the sending of a Not
 under Section 20(3)(a)i) and defer publishing a Notice under Section 20(3)(a)(ii) for
 Kilmallock Local Area Plan 2009-2015 for a further period of 5 years.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. rral Notices to make a new L 1 Ai Plan for Castletro
 and extend the existing Plan
 
@@ -131,7 +139,10 @@ An Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

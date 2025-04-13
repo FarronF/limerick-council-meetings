@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 16TH
@@ -47,8 +51,10 @@ June, 2015.
 
 Proposed by Councillor Collins, seconded by Councillor Galvin, and resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 “That the following housing estate be taken in charge in accordance with Section 180 of
@@ -102,8 +108,10 @@ evidence at present of a litter problem in Church Street.
 Discussion took place regarding the need for a bin at this location. It was suggested that
 the bin currently located at the Vocational School, if not being utilised, be moved to
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Church Street, Executive Engineer Roads agreed to follow up on the matter.
@@ -157,8 +165,10 @@ It was stated that fencing off the site was not a safe option.
 ! will ask at the next Meeting to where the original stone from the recently
 replaced Ronaldson’s Bridge on the Shangarry Ballintubrid borders was taken.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 REPLY: Any suitable stone recovered from the existing structures at this location
@@ -214,8 +224,10 @@ Measures at Devon Road.
 facility would be available at the viewing point nearby to facilitate
 vehicles wishing to access Breens.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It was agreed to invite a staff member from the Road Design Office to the next Meeting.
 
 8c. Question submitted by Councillor L. Galvin
@@ -261,8 +273,10 @@ the estate are resolved, including concerns of the local residents and the wider
 community for example the footpath, sewer, derelict houses and any outstanding
 planning issues that may require enforcement.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Councillor Browne in proposing the Motion stated that there were concerns in relation to
@@ -318,8 +332,10 @@ the houses. In regard to the provision of footpaths on the public road,
 condition no 3 required the developer to pay a special contribution to the
 Council in respect of same. This money has been paid and the Council is
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 obligated to carry out the works. Efforts have been made by Council staff
@@ -373,8 +389,10 @@ as part of the formulation of the Budget for 2016.
 
 This proposal was seconded by Councillor Collins and agreed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 REPLY: The budget allocation for 2015 was adopted by the full Council in January
@@ -389,5 +407,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

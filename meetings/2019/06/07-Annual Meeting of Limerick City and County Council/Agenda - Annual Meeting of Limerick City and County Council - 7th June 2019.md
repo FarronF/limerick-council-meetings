@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%207th%20June%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __ Comhairle Cathrach
 & Contae Luimnigh
 
@@ -67,8 +71,10 @@ w @LimerickCouncil
 
 © 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 To fix dates for Annual Meetings of Metropolitan District of Limerick and Municipal
@@ -117,8 +123,10 @@ Trustees.
 
 To appoint 1 representative to the Library Association of Ireland.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -183,8 +191,10 @@ To consider the nomination of 1 Member to the Limerick Sports Partnership.
 
 To consider the nomination of 1 Member to Limerick Civic Trust.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 24.
 
 25.
@@ -238,5 +248,6 @@ To consider nominations to the Cross Party Committee — Centenary Events 2019 �
 
 To agreed date for July Meeting of Limerick City and County Council (suggested date of 8""
 July, 2019).
+
 
 ---

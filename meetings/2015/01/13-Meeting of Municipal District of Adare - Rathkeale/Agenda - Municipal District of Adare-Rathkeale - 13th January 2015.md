@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare-rathkeale_-_13th_january_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -43,8 +47,10 @@ To receive Deputation from Foynes Flying Boat & Maritime Museum.
 Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach @ weewlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -94,8 +100,10 @@ Rathkeale.
 
 White's Shop
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -128,5 +136,6 @@ Notice of Motion submitted by Councillors K. Sheahan and E. O’Brien
 We will move that the Council commence the process to have the name of the road
 between Pallaskenry Village and the Salesian College called the Saint Don Bosco Road.
 This year is the 200" Anniversary of the birth of Saint Don Bosco.
+
 
 ---

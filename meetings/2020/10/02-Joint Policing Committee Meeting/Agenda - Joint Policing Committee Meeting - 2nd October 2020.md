@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-amended.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _-_em Comhairle Cathrach
 & Contae Luimnigh
 ae. Limerick Cit
@@ -74,8 +78,10 @@ last year’.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 FA
 
 10.
@@ -142,8 +148,10 @@ Questi bmitted by Ki O’D LTD.
 present day with reference to community Gardai, garda staff programme and Garda
 engaged in non core court duties and it’s impact on frontline policing”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -173,5 +181,6 @@ Notice of Moti bmitted by Councillor ¢ Sheet
 
 Superintendent/Chief Superintendent review the CCTV in Garryowen with a view to
 installing additional cameras at this location”.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Minutes%20JPC%20Sub%20Committee%20Meeting%2021st%20November%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -42,8 +46,10 @@ increase in thefts from cars. The Superintendent stressed the importance of memb
 public ensuring that their vehicles were securely locked at all times and that no property
 should be left on display in cars.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Superintendent referred to increased liaison between An Garda Siochana and Limerick
 City & County Council whereby Exclusion Orders had been served on tenants of local authority
 housing under Housing Legislation. He confirmed that this was an important measure in
@@ -88,5 +94,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

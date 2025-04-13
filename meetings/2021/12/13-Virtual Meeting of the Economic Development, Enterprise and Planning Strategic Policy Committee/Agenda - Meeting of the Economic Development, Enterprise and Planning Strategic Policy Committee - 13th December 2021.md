@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/agenda-of-spc-mtg-13th-dec-21.pdf)
+
+---
 **25th** **November, 2021**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**

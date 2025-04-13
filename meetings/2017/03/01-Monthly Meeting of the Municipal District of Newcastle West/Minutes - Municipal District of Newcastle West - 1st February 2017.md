@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_2017-02-01_minutes_february_municipal_district_newcastle_west.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE
 WEST, CO. LIMERICK, ON WEDNESDAY, 1+t FEBRUARY, 2017, AT 10.00 A.M.
@@ -46,8 +50,10 @@ outside the school.
 The Department of Education had been contacted but funding was not forthcoming. Mr. Dalton
 stated that they were asking the Council to assist with funding this venture.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In noting the content of the presentation, the following points and queries were raised by
 Members during discussion:
 
@@ -96,8 +102,10 @@ application for 2017 was being prepared.
 Members asked that contact be made again with Transport Infrastructure Ireland to stress the
 dangerous condition of this road and the urgency for works to be carried out.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 With regard to the Traffic Management Plan for Newcastle West it was stated that the areas
 that needed to be addressed were the four major junctions at Lacey’s Cross, Sheehan’s Road,
 Monagea Road and Bridge Street.
@@ -149,8 +157,10 @@ Templeathea, Athea as promised some time ago.
 
 REPLY: These works will be completed within the next two weeks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor L. Galvin
 
 1 will ask at the next Meeting for an update on the provision of a footpath at Clash road
@@ -200,8 +210,10 @@ NOTICES OF MOTION
 to replace stacking lanes at all the junctions on the N21 in the Municipal District of Newcastle
 West where the directional arrows were removed in the interest of safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion, Councillor Galvin stated that he could not understand why the
 directional arrows had been removed on the N21. It was stated that previously arrows had been
 
@@ -253,8 +265,10 @@ Association had requested funding to provide a marquee to host this event which 
 would be of benefit to the area. Members asked that contact be made with the Directors of
 Economic Development and Culture to seek assistance with funding for the project.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members expressed their disappointment that a Draft Plan for Newcastle West which had been
 commissioned by the Chamber of Commerce and funding provided by the Council had been
 reported in the Press and Members had not been issued with a copy. The Members requested
@@ -283,5 +297,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

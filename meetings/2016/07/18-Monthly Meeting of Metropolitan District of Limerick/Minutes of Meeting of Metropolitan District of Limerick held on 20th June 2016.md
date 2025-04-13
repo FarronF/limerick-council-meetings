@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20on%2020th%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 20" JUNE, 2016, AT
 
@@ -55,8 +59,10 @@ of Limerick.
 (g) Disposal of 2 areas of land, totalling 347 square metres (approx.) to Coras lompar Eireann
 (C.1.E.) at Parnell Street by way of long term lease. Acquire from C.I.E. 2,446 square metres
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 (approx.) of land by way of long term lease, comprising of the newly refurbished plaza area.
@@ -113,8 +119,10 @@ way of potentially financing such projects.
 Agencies involved in the delivery of the LECP were mainly those represented on the LCDC. These
 included: Limerick City and County Council (and the LEO within the Council), Limerick and Clare
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Education and Training Board, Department of Social Protection, the HSE and the Local
@@ -167,8 +175,10 @@ QUESTIONS
 paid to the current service provider per annum, what service level agreement is currently in
 place and what are the future plans to secure a new management company.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The current operator has been engaged on a month by month basis, on the terms
 of the original contract to operate and manage the facility. The operator was paid
 €296,400 (ex VAT) in 2015.
@@ -229,8 +239,10 @@ roof on the building which will shortly go to tender. On completion of same the
 Council will make arrangements with St. Paul’s Scouts to lease agreed
 accommodation accordingly.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 $
 
 11. Question submitted by Councillor John Costelloe
@@ -282,8 +294,10 @@ very significant fall in the membership of the club. The motion was seconded by 
 
 Collins.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 A number of Members raised concerns regarding the level of funding which had been provided
@@ -335,8 +349,10 @@ matter would be referred to the Enforcement Section for follow-up. It was also a
 motion would be referred to the Economic Development, Enterprise and Planning Strategic
 Policy Committee for further consideration.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 15. Notice of Motion submitted by Councillor Joe Leddin
@@ -391,8 +407,10 @@ issue, it had a very significant effect on businesses and people in general in t
 He referred to the spiralling cost of insurance and to the expected additional increases following
 the increases proposed in the new book of quantum regarding insurance compensation.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The motion was seconded by Councillor O’Hanlon.
 
 A number of Members also referred to the issue of rising motor insurance costs and that urgent
@@ -443,8 +461,10 @@ the terms of the Road Opening Licence and in accordance with the Purple Book,
 (Guidelines for Managing Openings in Public Roads-Guidelines for the Opening,
 Backfilling and Reinstatement of Openings in Public Roads).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 Therefore, responsibility for repairing the roads and footpaths damaged by pipe
@@ -498,8 +518,10 @@ general growth of population in the Castletroy area which meant that a second sc
 required in that area. Reference was made to the potential for such a school at the Parkway
 Valley area which would then cater for the Singland and Garryowen areas and would curtail the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 numbers from that area travelling to Castletroy College thereby eliminating some of the
@@ -554,8 +576,10 @@ issues and concerns of the residents.
 Members pointed out that the consultation by Co-operative Housing Ireland had been very
 inadequate in this instance and it was requested that officials from the Housing Section should
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 also attend the public meeting in relation to this matter.
 
 24. Correspondence
@@ -568,5 +592,6 @@ Signed:
 MAYOR
 
 Dated:
+
 
 ---

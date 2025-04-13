@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-b-Minutes-of-Special-Meeting-of%20Municipal-District-of-Adare-Rathkeale-26th-May-2023.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK**

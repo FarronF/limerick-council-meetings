@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/03-minutes-special-meeting-meeting-of-the-municipal-district-of-cappamore-kilmallock-5-september-2024.pdf)
+
+---
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK ON THE

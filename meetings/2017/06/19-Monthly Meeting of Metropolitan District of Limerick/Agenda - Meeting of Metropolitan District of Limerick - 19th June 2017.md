@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha,
 Comhairte Cathrach agus Contae Luimnigh,
 
@@ -56,8 +60,10 @@ Cregan Avenue, Kileely in the City of Limerick.
 eS ee v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -105,8 +111,10 @@ GMA Festivals and Events Grant Scheme.
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -158,8 +166,10 @@ uestion submitted hir. S. Hai
 park in Arthur's Quay, and when it is expected to be returned to the Council Chamber for
 either the approval or refusal of its lease.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -210,5 +220,6 @@ Notice of Motion submitted by Councillor E. Secas
 measures in place to reduce the constant noise from the M7, affecting residents of Golf
 Links Road, Thornfield and Cherryfield estates in Castletroy/Monaleen, whose properties
 back on to M7.
+
 
 ---

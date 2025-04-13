@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_march_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,8 +59,10 @@ Act 2000, (as amended).
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach & wwew.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 Taking in Charge of Estates - Declaration of Roads to be Public Roads
@@ -107,8 +113,10 @@ Question submitted by Councillor Sean Lynch
 crossing to assist people crossing from the Mungret Football clubhouse to the
 pitches.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -157,8 +165,10 @@ was handed over to Irish Water, and requesting the return of that money to the
 Council to be spent on the local roads rather than on imposing another austerity
 charge.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -207,5 +217,6 @@ Notice of Motion submitted by Councillor Maria Byrne
 will provide traffic calming measures at Maigue Avenue, Raheen, Limerick.
 
 Correspondence
+
 
 ---

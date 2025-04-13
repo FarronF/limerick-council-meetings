@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/agenda_meeting_18th_july_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbinisi Corparaideacha agus Bainistiocy Athrulthe
 Comhairle Cathrach agus Contae Luimnnigh.
 
@@ -58,8 +62,10 @@ To consider proposal for the disposal of land at:
 (e) 100 Star Court, Carew Park, Limerick.
 (f) Arthur's Quay, Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (g)
@@ -121,8 +127,10 @@ Stakeholder Group of Limerick 2020.
 
 eeee
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (a)
@@ -168,8 +176,10 @@ To consider the adoption of the Limerick City and County Council 2015
 Annual Report.
 (Annual Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (h)
 
 (i)
@@ -214,8 +224,10 @@ To consider approving visit to London under Section 142(5) of the Local
 Government Act, 2001, as amended.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 (m)
@@ -265,8 +277,10 @@ To consider the adoption of the Local Economic and Community Plan (LECP)
 for Limerick 2016-2021.
 (Report and copy of Draft Plan Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 Community Initiative Scheme 2016
@@ -332,8 +346,10 @@ National Heritage Week to be held in Kilkenny from 20™ to 28” August,
 2016.
 (Details already circulated electronically)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (ii) R onference/Seminar/Meeting/Event
@@ -371,8 +387,10 @@ Question submitted by Councillor M. Donegan
 from other Local Authorities to assist Limerick City and County Council and the costs
 associated with same.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -419,8 +437,10 @@ Tee
 
 We will move at the next Meeting that this Council appoints a Tourism Officer.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor J. Leddin
 
 15. | will move at the next Meeting that Limerick City and County Council include the
@@ -453,5 +473,6 @@ continues.
 
 19. Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

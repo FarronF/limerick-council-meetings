@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-agenda-md-meeting-19-11-20.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh Oifig an Crheartair, Ares Mhainchin Scoighe
@@ -47,8 +51,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Community Development Directorate
 Disposal of Property
 To note proposal for the disposal of property at The Square, Galbally, Co. Limerick.
@@ -82,8 +88,10 @@ for a National Fire Training Centre in Kilmallock Business Park, complete with p
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
 consideration be given to the provision of a speed ramp at the Glenstal end of Murroe Village.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Notice of Motion submitted by Councillor Gerald Mitchell
 
 | will move at the next meeting of the Municipal District of Cappamore-Kilmallock that the
@@ -123,8 +131,10 @@ City and County Council roads engineers would engage with Knocklong Community Co
 their request for and concerns about Traffic Calming measures within the village especially
 along the R513.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Question submitted by Councillor Donegan
 | will ask at the next Meeting of the Municipal District of Cappamore-Kilmallock for an update
 
@@ -158,5 +168,6 @@ the re-lining of the N24 around the area of the turn off for Barna, Pallasgreen.
 | will ask at the next Meeting of the Municipal District of Cappamore-Kilmallock for an update
 on the traffic survey of Pallasgreen and Oola Road crossings in relation to traffic calming
 requirements.
+
 
 ---

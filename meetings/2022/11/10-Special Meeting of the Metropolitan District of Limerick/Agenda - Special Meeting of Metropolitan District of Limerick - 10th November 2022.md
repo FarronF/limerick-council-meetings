@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2010th%20November%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach Carinae Gath Babe ee gary
 . . Ore re rac egus Oni lee wi wg! 1
 & Contae Luimnigh Cesnncheathni Chorparaideach,
@@ -52,5 +56,6 @@ Update on the World-class Waterfront
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmeach W @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 587150
+
 
 ---

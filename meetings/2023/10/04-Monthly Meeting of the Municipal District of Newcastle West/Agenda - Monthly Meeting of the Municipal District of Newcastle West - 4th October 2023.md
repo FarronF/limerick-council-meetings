@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-4th-October-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Diiiche Bardais an Chaisledin Nua Thiar,
 Comnhairle Cathrach agus Contue Luimnigh,
 
@@ -61,8 +65,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 @LimerickCouncil
 \ 061-556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Plan, in accordance with Section 20 (3)(n) of the Planning and Development Act 2000
 (as amended).
 
@@ -105,8 +111,10 @@ the junction of the Old Camas and Ballyowen roads.
 comprehensive and immediate survey of the storm water infrastructure of
 Newcastle West town.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -150,5 +158,6 @@ Notice of Motion submitted by Councillor M. Collins
 
 | will move at the next Meeting that the footpath at Ashford village be extended to
 the speed limit at the Ballagh side.
+
 
 ---

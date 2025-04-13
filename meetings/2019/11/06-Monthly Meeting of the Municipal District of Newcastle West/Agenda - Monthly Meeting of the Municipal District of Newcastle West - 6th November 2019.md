@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%202019-11-06-Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 = & Contae Luimnigh
 ~~ Limerick City
@@ -70,8 +74,10 @@ To review position in relation to allocations under the General Municipal Alloca
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions submitted by Councillor L. Galvin
 
 | will ask at the next Meeting (a) how many applicants are on the housing waiting list
@@ -115,8 +121,10 @@ West town centre.
 monitor the bottle bank area outside the Newcastle West Civic Amenity Centre and
 is cctv installed there.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.
@@ -138,5 +146,6 @@ West be advanced and installed as a matter of urgency.
 | will move at the next Meeting that a safety barrier be installed at Mauricetown
 Upper, Ballagh just beyond the Mass Rock to prevent a serious accident happening
 there.
+
 
 ---

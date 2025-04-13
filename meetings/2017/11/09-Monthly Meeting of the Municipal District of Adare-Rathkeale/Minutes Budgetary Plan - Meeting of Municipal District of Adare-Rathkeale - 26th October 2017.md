@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28c%29%20Minutes%20Budgetary%20Plan%202018%2026th%20October%2C%202017.pdf)
+
+---
 1
 
 **MINUTES OF PROCEEDINGS AT THE BUDGETARY PLAN 2018 MEETING OF THE**

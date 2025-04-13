@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%203rd%20June%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN COMMUNITY HALL,
 DROMCOLLOGHER, CO. LIMERICK, ON WEDNESDAY, 3*°° JUNE, 2015,
@@ -46,8 +50,10 @@ signed.”
 Circulated, copy of draft Minutes of Special Meeting of Municipal District of Newcastle
 West held on 19" May, 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Collins;
 Seconded by Councillor Browne;
 And Resolved:
@@ -96,8 +102,10 @@ developer was still in operation and was working on behalf of the Council on ano
 project in Abbeyfeale. There was general agreement however that the works on the
 estate should be completed as soon as possible.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 The Senior Executive Planner, Economic Development and Planning, outlined the
@@ -152,8 +160,10 @@ been complied with. He then outlined the reason for the proposed deletion of eac
 
 the properties.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 A discussion took place in relation to other properties on the Protected Structures List
@@ -206,8 +216,10 @@ erected on delivery.
 | will ask at the next Meeting for the up-to-date position regarding signage for
 Meelin from the Spout, Mountplummer, Broadford.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Asign has been ordered for the above location.
 
 6. Question submitted by Councillor J. Scanlan
@@ -256,8 +268,10 @@ General Municipal Allocation for Special Projects. It was agreed that this matte
 be deferred to a future meeting and that the possibility of capitalising this fund for use in
 the coming years would also be considered.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Concern was expressed by the Members at the manner in which the General Municipal
 Allocation had been dealt with in 2015. Members were informed that the Chief
 Executive was aware of the concerns raised and had given an undertaking that the
@@ -276,5 +290,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

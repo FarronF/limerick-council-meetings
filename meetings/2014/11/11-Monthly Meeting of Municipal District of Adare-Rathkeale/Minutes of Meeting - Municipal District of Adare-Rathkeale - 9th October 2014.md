@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_adare-rathkeale_-_9th_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF ADARE-RATHKEALE HELD IN ARAS SEAN FINN, NEW
 LINE ROAD, RATHKEALE, CO. LIMERICK, ON THURSDAY, 9"
@@ -36,8 +40,10 @@ The Head of Finance informed Members that a total provisional allocation of
 €1,500,000 had been allocated to the GMA for 2015 with €275,000 of this assigned
 to the Municipal District of Adare-Rathkeale as follows:-
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ADARE RATHKEALE MUNICIPAL DISTRICT DRAFT BUDGETARY PLAN 2015
 
 Municipal District
@@ -82,8 +88,10 @@ Council property/land to realise money could not be recommended in the
 current economic climate. He stressed the importance of maintaining a
 strategic focus in relation to Council owned property/land.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Following further discussion, Members agreed that the allocation of the General
 Municipal Allocation was a step in the right direction and was in keeping with the
 spirit of the Local Government Reform Act, 2014.
@@ -104,7 +112,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%202022-09-07%20Agenda%20September.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Comhairle Cathrach
 & Contae Luimnigh
 aAar™N ra ~
@@ -73,8 +77,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -125,8 +131,10 @@ Park be cut back in the interest of safety locally.
 | will ask at the next Meeting when the broadband roll out will occur at Boola,
 Broadford.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 15.
@@ -172,5 +180,6 @@ the park in Mungret.
 
 | will move at the next Meeting that Council owned lands be provided for allocation
 as allotments in this Municipal area in the interest of sustainability.
+
 
 ---

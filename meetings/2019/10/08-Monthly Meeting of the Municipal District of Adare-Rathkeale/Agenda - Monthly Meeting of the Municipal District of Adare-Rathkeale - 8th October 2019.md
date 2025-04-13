@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%208th%20October%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathract Ceantar Bardasach Ath Dara-Réth Caola,
 Le) aine Catnracn
 
@@ -60,8 +64,10 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) To note proposal for the disposal of property at Galvone Industrial Estate (Former
 Provincial Floor Covering Site), Limerick.
 
@@ -99,8 +105,10 @@ To update Members on issues of interest in the District.
 To review survey for parking in Adare
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 OTICE 10
 
 Notice of Motion submitted by Councillor K. Sheahan
@@ -111,7 +119,10 @@ to the N69.
 
 AOB
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

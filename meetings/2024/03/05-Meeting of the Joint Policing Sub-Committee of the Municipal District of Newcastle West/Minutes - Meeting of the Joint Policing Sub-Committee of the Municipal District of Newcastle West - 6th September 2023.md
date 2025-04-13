@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-minutes-meeting-of-the-joint-policing-sub-committee-of-the-municipal-district-of-newcastle-west-6th-september-2023.pdf)
+
+---
 1
 
 MINUTES

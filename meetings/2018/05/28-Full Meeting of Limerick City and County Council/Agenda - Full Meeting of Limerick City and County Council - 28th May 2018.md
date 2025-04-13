@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%20May%20Meeting%20of%20Council.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrbhisi Corparaideacha,
 
 Comhairle Cathrach :
@@ -73,8 +77,10 @@ ve
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (g) 8, Flood Street, Limerick.
@@ -125,8 +131,10 @@ amended by the Local Government Reform Act, 2014), including Capital
 transfers.
 (Report already circulated)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -172,8 +180,10 @@ To consider the approval of Sectoral Nomination to the Home and Social
 Development Strategic Policy Committee.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 (i)
@@ -215,8 +225,10 @@ for Council nomination, in accordance with Section 16 of the Presidential
 Election Act, 1993.
 (Copy of Correspondence Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (m)
 
 Strategic Policy Committee Reports
@@ -267,8 +279,10 @@ and County, as presented.”
 Note: Integration Strategy for Limerick City and County included for
 consideration under Item No. 6 on the Agenda.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (v) Chairperson’s Report - Environment Strategic Policy Committee
 
 Meeting held on 23 April, 2018.
@@ -313,8 +327,10 @@ O'Connell Str: Li
 
 To receive update on the O’Connell Street Limerick Project.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Regional and Cultural Services Directorate
 
 (a)
@@ -360,8 +376,10 @@ To consider approving recommended Limerick Theatre Bursary Awards 2018.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (f) Cross-Party Committee - Centenary Events 2019-2021
 
 To approve the establishment of a Cross-Party Committee to organise and
@@ -400,8 +418,10 @@ Wexford from 8" to 10" June, 2018.
 2018.
 (Details already circulated electronically)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -440,8 +460,10 @@ We will move at the next Meeting that the Local Authority of Limerick City and
 County Council immediately commence the harmonisation of housing rent payable
 by tenants between City and County.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -496,8 +518,10 @@ becoming free from goods and services produced in Israeli settlements illegally
 established on stolen Palestinian land and therefore urges Senators to support the
 Control of Economic Activity (Occupied Territories) Bill, 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.
@@ -524,5 +548,6 @@ construct Local Authority housing on this land.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

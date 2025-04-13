@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-meeting-of-metropolitan-district-of-limerick-20.09.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 pe E Comhairle Cathrach
 ; & Contae Luimnigh
 Am SS
@@ -49,8 +53,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copies Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows :
 
@@ -93,8 +99,10 @@ QUESTIONS
 | will ask at the next Meeting of the Metropolitan District of Limerick how many houses in Council
 ownership are currently boarded up and for how long these houses are unoccupied.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor J. Leddin
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that Limerick Metropolitan
@@ -138,8 +146,10 @@ not could a total figure be provided to include HAP and RAS.
 | will ask at the next Meeting of the Metropolitan District of Limerick, for an update on the Council's
 plan to introduce choice based letting which was supposed to be introduced over a year ago.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor J. Costelloe
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, in relation to the site at Sheep
@@ -179,8 +189,10 @@ plans for Limerick and hear the views of Members.
 District Council consider revised traffic plan to facilitate permanent pedestrianisation and safer
 streets that currently cannot cater for two way traffic and on street parking.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Notice of Motion submitted by Councillor C. Slattery
 
 1 will move at the next Meeting of the Metropolitan District of Limerick that the Council do a
@@ -221,5 +233,6 @@ in particular areas and ascertain areas where speed reduction measures need to b
 
 26. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

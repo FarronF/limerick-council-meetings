@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-12th-July-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Comhairie Cathrach PE —_ =o Hr Thiar,
 & Contae Luimnigh Aras William Smith OBrien.
 7k LO os ———
@@ -58,8 +62,10 @@ Corporate Headquarters, Merchant's Quay, Limerick v
 @LimorickCouneil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -107,8 +113,10 @@ crossing for Castlemahon School. | believe a speed survey has been carried out a
 this location. This area is very dangerous to pedestrians in both the morning and
 evening.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -163,5 +171,6 @@ Notice of Motion submitted by Councillor L. Galvin
 
 ! will move at the next Meeting that Limerick City and County Council carry out
 immediate improvement works on the road from Mountmahon to Joy's corner.
+
 
 ---

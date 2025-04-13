@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%20Agenda%20MD%20Meeting%209th%20May%202019..pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Comhairle Cathrach
 = & Contae Luimnigh
 “ — Limerick Ci
@@ -40,8 +44,10 @@ To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock he
 the 11" April, 2019.
 (Copy enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Service Operations Directorate
 Operations and Maintenance Services
 
@@ -72,5 +78,6 @@ NOTICE OF MOTION
 Council put measures in place to address traffic and parking problems through the main
 
 street of Doon village.
+
 
 ---

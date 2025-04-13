@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_muncipal_district_of_newcastle_west_-_24th_march_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 COMMUNITY CENTRE, CASTLETOWN CONYERS, CO.
@@ -49,8 +53,10 @@ e Removal of tree at Hawthorns Estate entrance.
 e Provision of footpath from village to St. Joseph’s Foundation House.
 e Directional signs to be placed in the village.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Cathaoirleach and Members commended the Deputation for their presentations
 and thanked them for hosting the Municipal District Meeting in the Community Centre.
 
@@ -101,8 +107,10 @@ information contained under Item No. 2 “Deputation from Tournafulla Sustainabl
 Community”. In referring to the Minutes and the discussion that took place on this Item,
 Councillor Collins stated that he wished to have it recorded that he did not agree that
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 the Minutes were an accurate record of what was discussed and agreed. Following
@@ -161,8 +169,10 @@ community. In relation to a query regarding the cost of the proposed site, Counc
 Collins said that the site in question had been rezoned and was fully serviced and within
 the speed limit of the town.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Operations Manager stated that funding for the feasibility study could be
 considered under the General Municipal Allocation.
 
@@ -209,8 +219,10 @@ the roadside at Springmount, Abbeyfeale, up to Leahy’s Cross.
 REPLY: This work can be considered under the programme of works for 2015
 which will be presented shortly to the Municipal District Councillors.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 With the permission of the Cathaoirleach, it was agreed to take Items 8 and 10 together.
 
 8. Question submitted by Councillor L. Galvin
@@ -254,8 +266,10 @@ proposed to carry out permanent reinstatement works in the coming weeks
 following the receipt of quotations. In the short term temporary works have
 been completed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor J. Scanlan
 
 ! will ask at the next Meeting when will the footpath system be put in place along
@@ -303,8 +317,10 @@ this proposal was turned down on safety and N21 capacity grounds by the
 National Roads Authority. National Roads Authority approval for a bus stop
 is necessary on the N21.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Notice of Motion submitted by Councillor J. Sheahan
 
 | will move at the next Meeting that Limerick City and County Council contact
@@ -352,8 +368,10 @@ Scanlan on the detail of his request and this will also be forwarded to Irish
 
 Water.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 417. Notice of Motion submitted by Councillor J. Scanlan
@@ -381,5 +399,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

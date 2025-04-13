@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-3rd-february-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Community, Leisure & Culture Strategic Policy Committee Meeting 03/02/2020 _
 
 A meeting of the Community, Leisure & Culture Strategic Policy Committee was held in the
@@ -46,8 +50,10 @@ Item 1: Adoption of Minutes
 On the proposal of Cllr M Donegan, seconded by Cllr G Mitchell, the minutes of the previous
 committee meeting held on the 14" November, 2019 were unanimously adopted.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 2: Matter Arising
 
 There were no matters arising from the minutes of the previous meeting.
@@ -93,8 +99,10 @@ projects under various funding streams including the Community Enhancement Progr
 Mens and Womens Sheds, the ‘Big Hello’ and Healthy Ireland. The presentation also
 highlighted key achievements in 2019 including SICAP Audit requirements and the additional
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 allocation of €500,000 for the LEADER Programme awarded to the LCDC as one of the top
 four performing LEADER Local Action Groups in the country.
 
@@ -140,8 +148,10 @@ Clir KO’ Hanlon and the members thanked all those who made the presentations u
 of the agenda items and welcomed progress made to date under the various briefings made
 at the meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 8: Date of next Meeting
 
 The next meeting of the Community, Leisure and Culture SPC will be held on Monday 11%
@@ -157,5 +167,6 @@ Minutes Seconded By: C\wr C, ec tat
 vA 2 a b \r »
 
 Minutes Signed By Chair:
+
 
 ---

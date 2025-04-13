@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20October%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach ; — Seirbhisi Corparaideacha,
 § Contae Luimnigh Comhatie Cathrach agus Comtae Luimnigh,
 
@@ -58,8 +62,10 @@ Lawrence Park, Garryowen, Limerick.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 (c) Disposal of Freehold Interest of premises consisting of a dwelling house situate at 27 Kilmurry
 Avenue, Garryowen, Limerick.
@@ -101,8 +107,10 @@ QUESTIONS
 progress for the proposed Corbally Nature Park given that €15000 was allocated from the GMA
 during the term of the previous Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 7. Question submitted by Councillor C. Sheehan
 
@@ -144,8 +152,10 @@ improved bus services for Ballybrown / Clarina and Patrickswell area.
 ! will move at the next Metropolitan Meeting of Limerick City and County Council that the
 Council put a management plan in place to rejuvenate the Westfield Wetlands.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next Metropolitan Meeting of Limerick City and County Council that the Council
 investigates the feasibility of developing a cycle path from the Mill Road to the city centre along the
 riverbank,
@@ -170,5 +180,6 @@ Disabilities.
 
 18. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

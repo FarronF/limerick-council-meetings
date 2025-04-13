@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-a-minutes-annual-meeting-30.06.2021.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND

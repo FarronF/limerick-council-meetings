@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20May%2C%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i
 
 Seirbhis( Corpardideacha agus Bainistiocht Athruithe,
@@ -56,8 +60,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 & wewews limerick.te
 Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Physical Development Directorate
 
 To receive update from Senior Executive Officer on Speed Limit Review.
@@ -92,5 +98,6 @@ Notice of Motion submitted by Councillor G. Mitchell
 
 | will move at the next Meeting that Cluinfoinse Estate be taken in charge as a matter of
 urgency.
+
 
 ---

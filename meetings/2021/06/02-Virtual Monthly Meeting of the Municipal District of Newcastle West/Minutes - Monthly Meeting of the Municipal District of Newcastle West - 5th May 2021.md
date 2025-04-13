@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-2021-05-05-minutes.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -43,8 +47,10 @@ West, held on 7* April, 2021.
 Proposed by: Councillor Galvin
 Seconded by: Councillor Ruddle
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -91,8 +97,10 @@ On the proposal of Councillor Ruddle, seconded by Councillor Galvin, it was agre
 On the proposal of Councillor Ruddle, seconded by Councillor Galvin, it was agreed to allocate
 €2,000 to Corrandeel Housing.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
 €1,000 to Ferndale Residents Association.
 
@@ -141,8 +149,10 @@ population figures.
 
 In litter fines, €300 was collected and there was no money collected in dog fouling fines.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Galvin expressed dissatisfaction at the response received with regard to the
 number of dog fouling and litter fines issued in 2021. Concern was expressed with regard to
 the rise in incidents of illegal dumping and dog fouling in recent months. Where fines were
@@ -189,8 +199,10 @@ and hall in Castlemahon. The school has a multi million euro extension for compl
 September and there is also a new school/community field being developed. There is
 excessive speed in this location and it is difficult to cross the road.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: The completion of a speed survey and a pedestrian count survey will be
 required at the above location with regard to the provision of a pedestrian
 crossing. These surveys will be carried out within the next few weeks.
@@ -236,8 +248,10 @@ community housing units at Nunan’s corner in the village.
 
 REPLY:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The needs assessment in determining the number and a suitable bed-type mix for the
 proposed Part 8 at the Forge, Broadford is based on the Approved Housing Waiting List. A
 breakdown of the approved Housing Waiting List is provided below. The Capital Investment
@@ -281,8 +295,10 @@ REPLY: This estate is currently in the process of being taken in charge by the C
 Once the taking in charge process is complete, the installation of 30kph signage
 will be carried out.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 12. Notice of Motion submitted by Councillor L. Galvin
@@ -331,8 +347,10 @@ The project is at a very early stage (concept design) it is anticipated it will 
 the WWTP project is completed. This will be subject to funding and other approvals including
 statutory processes”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion, Councillor Scanlan requested that priority be given to upgrading
 Newcastle West Waste Water Treatment Plant. An update on the requested meeting with
 Irish Water was also raised and the Meetings Administrator agreed to follow up on this
@@ -381,8 +399,10 @@ the Limerick Greenway on both short sections immediately on either side of Stati
 (b) that a native tree planting programme be put in place to compliment the amenity
 where this is possible.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Motion was seconded by Councillor Ruddle.
 
 REPLY: As part of the current programme of works on the Limerick Greenway, ducting
@@ -425,8 +445,10 @@ The substantial amount of money paid out by Irish Public Bodies for insurance cl
 Limerick City and County Council was referred to. The responsibility for vehicles parking on
 footpaths was also raised.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members wished to thank Minister S. Harris, Minister for Further and Higher Education,
 Research, Innovation and Science, Minister N. Collins, Minister of State and congratulate
 Limerick Institute of Technology on receiving university status. It was agreed that the
@@ -477,8 +499,10 @@ It was agreed to hold the Annual Meeting of the District on Wednesday, 2"? June,
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 This concluded the Meeting.
 
 Signed:
@@ -488,5 +512,6 @@ Dated:
 Cathaoirleach
 
 11
+
 
 ---

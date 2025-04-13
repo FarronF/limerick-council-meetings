@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Minutes%20Jan%202019%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -41,8 +45,10 @@ information evening on CCTV cameras would take place as promised in the Municipa
 The Meetings Administrator agreed to clarify the situation with Dr Mihai Bilauca, Head of
 Digital Strategy.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Rural Isolation & Crime Prevention
 
 The Cathaoirleach welcomed Sgt Bernie Leetch, Crime Prevention Officer, Henry St Garda
@@ -84,8 +90,10 @@ were away on holidays thereby suggesting that the family home may be unoccupied.
 Members agreed to circulate the details of the event in Bruff and agreed that it was an
 important event to raise awareness of rural isolation and crime prevention.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Question submitted by Councillor Teefy
 
 | will ask at the next Meeting of the Municipal District:
@@ -137,8 +145,10 @@ The Members looked for an update in relation to the removal of the footpath at t
 footbridge. The Executive Engineer confirmed that this work would be done as part of the
 Threshold Project and the planned resurfacing of this area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Vote of Sympathy
 
 The Members extended a Vote of Sympathy to the family and friends of Seamus Sexton,
@@ -154,5 +164,6 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

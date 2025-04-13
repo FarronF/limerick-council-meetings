@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-meeting-of-metropolitan-district-of-limerick-20.12.2021-v2.pdf)
+
+---
 (Image omitted)
 (Image omitted)
 (Image omitted)

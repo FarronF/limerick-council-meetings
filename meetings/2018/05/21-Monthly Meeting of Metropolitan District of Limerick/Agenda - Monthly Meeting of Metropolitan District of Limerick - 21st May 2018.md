@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%2021st%20May%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhisi Corparaideacha,
 _—_—_—_ eee Comhairle Cathrach agus Contae Luimnigh.
 g Ceanncheathni Chorpardideach,
@@ -59,8 +63,10 @@ East Singland Road, Garryowen, Limerick.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -107,8 +113,10 @@ Question submitted by Cmhir. S. 6 Ceallaigh
 Metropolitan District, how many people are currently residing in Hubs, and how many people
 are on the housing list to receive accommodation from the Local Authority in the District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -162,8 +170,10 @@ application by Irish Cement should not be considered as it is not a change of us
 the application or request they apply for a new licence and if possible this to be done in
 conjunction with Clare County Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -210,5 +220,6 @@ August 2018 as the lease will have expired.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

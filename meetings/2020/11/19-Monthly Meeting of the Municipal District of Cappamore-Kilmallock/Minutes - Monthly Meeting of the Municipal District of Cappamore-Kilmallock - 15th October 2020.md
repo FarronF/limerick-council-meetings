@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/03-minutes-monthly-md-meeting-15-10-20.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE DEEBERT
 HOUSE HOTEL, DEEBERT, KILMALLOCK, CO. LIMERICK, ON
@@ -40,8 +44,10 @@ Elected Members of the Adare Rathkeale Municipal District in relation to the pro
 Services Training Centre for Kilmallock, and agreed that another Municipal District should
 not be involving itself in the affairs of the Cappamore Kilmallock Municipal District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Community Development Directorate
 Disposal of Property
 
@@ -86,8 +92,10 @@ Following consideration of the report from the Acting Senior Planner dated the 8
 2020, the approval to the taking in charge of estate at Ash Hill Manor, Kilmallock, Co. Limerick
 was proposed by Cllr Carey, seconded by Clir M. Ryan and agreed by the Elected Members.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Elected Members also expressed their thanks in particular to Diarmuid Sheehy, E.E. for
 his work in getting this estate taken in charge.
 
@@ -130,8 +138,10 @@ that maintenance to a large number of channels in the Kilmallock area had been u
 both in 2019 and previously in 2015. This is in addition to occasional call outs responding to
 fallen trees or gathered debris at structures that could pose a flood risk.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The OPW operates a hydrometric gauge upstream of Kilmallock at Riversfield Weir. On August
 17" 2020, water levels were recorded far in excess of anything previously experienced at this
 gauge. When the recorded levels are analysed against rating curves calibrated to model flood
@@ -176,5 +186,6 @@ to Covid 19 guidelines on the duration of Meetings. This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

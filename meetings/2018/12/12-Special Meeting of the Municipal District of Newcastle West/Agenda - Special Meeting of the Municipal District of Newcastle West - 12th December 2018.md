@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%202018-12-12%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——_
 
 —
@@ -62,5 +66,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerickte
 © wevew limerickie
 w @LimerickCouncil
+
 
 ---

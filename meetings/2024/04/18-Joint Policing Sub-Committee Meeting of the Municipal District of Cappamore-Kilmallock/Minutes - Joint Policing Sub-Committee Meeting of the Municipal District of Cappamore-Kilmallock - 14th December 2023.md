@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/02-minutes-joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK

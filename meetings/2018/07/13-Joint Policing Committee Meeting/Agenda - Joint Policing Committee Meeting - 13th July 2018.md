@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Agenda%20JPC%20Meeting%2013th%20July%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 
 & Contae Luimnigh
@@ -81,8 +85,10 @@ w @LimerickCouncil
 
 ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. To consider Notice of Motion submitted by Councillor J. Pond (referred from Meeting of
 Metropolitan District of Limerick held on 18 June, 2018) :
 
@@ -95,5 +101,6 @@ needs of University of Limerick which now caters for approx.. 13,000 third level
 7. To set date for Public JPC Meeting in Quarter 4, 2018
 - The suggested date is Monday, 10" December, 2018 at 7.00 p.m. in The Council Chamber,
 Dooradoyle.
+
 
 ---

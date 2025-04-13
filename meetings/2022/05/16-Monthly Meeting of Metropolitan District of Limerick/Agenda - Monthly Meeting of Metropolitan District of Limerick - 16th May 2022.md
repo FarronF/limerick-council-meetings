@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20May%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—__— Comhairie Cathrach a pay
 = eo, & Contae Luimnigh jomhe! — Chearaditent:
 . cé the,
@@ -47,8 +51,10 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 ee W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Annual Meeting
 
 To agree a date for the Annual Meeting of the Metropolitan District of Limerick.
@@ -77,8 +83,10 @@ QUESTIONS
 Council provide progress reports on the funding received under URDF to deliver a world class
 waterfront to include a new pedestrian bridge over the river Shannon.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick if the Council has any plans to
@@ -118,8 +126,10 @@ detailed overview of the plans for the combined works on the Graveyard Boundary 
 St Oliver; the plan to widen the road at Georgian Village to Good Council Nursing Home; and the
 design for the Roundabout at Rosmér, Old Cork Road.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 13. Notice of Motion submitted by Councillor J. Leddin (to be referred to the Community, Leisure
@@ -158,5 +168,6 @@ that is currently in place for the pontoon at Montpelier, that is used by the Dr
 
 18. Corres pondence
 (Copy of Correspondence Enclosed)
+
 
 ---

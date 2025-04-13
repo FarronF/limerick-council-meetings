@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/2%20Agenda%20Special%20Meeting%20161017%20-%20Ward%27s%20Cross%20and%20Other%20Junctions%20on%20N21.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . Seirdhisi Corpardideacha,
 _—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathru Chorparaideach,
@@ -47,5 +51,6 @@ received.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - $7150
+
 
 ---

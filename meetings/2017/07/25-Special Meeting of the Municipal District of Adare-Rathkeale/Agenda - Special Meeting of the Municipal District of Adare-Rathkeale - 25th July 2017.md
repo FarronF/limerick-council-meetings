@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%2025th%20July%252c%202017%20%281%29.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhis{ Corpardideacha.
 __——_— & Contae Luimnigh = ena
 aAar™N ————————————— cé annaithe,
@@ -61,12 +65,15 @@ Ceanncheathrit Chorpardideach, Cé na gCeannaithe, Luimneach !
 W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Development Regulations 2001 (as amended) in relation to the Extension of the Great
 Southern Greenway walking and cycling route from Rathkeale to Ballingarrane, Co. Limerick
 along the former Limerick to Kerry railway line.
 
 (Copy Enclosed)
+
 
 ---

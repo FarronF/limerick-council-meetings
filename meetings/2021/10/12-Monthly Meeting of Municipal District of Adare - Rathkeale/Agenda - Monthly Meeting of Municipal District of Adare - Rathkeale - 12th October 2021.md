@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-agenda-12th-october-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach Ceantar Bardasach Ath Dera-Rath Cacia
 
 : : Cornhairie Cathrach agus Contae Luimmnigh,
@@ -49,8 +53,10 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Roads, Traffic & Cleansing
@@ -97,5 +103,6 @@ Correspondence
 
 >
 a
+
 
 ---

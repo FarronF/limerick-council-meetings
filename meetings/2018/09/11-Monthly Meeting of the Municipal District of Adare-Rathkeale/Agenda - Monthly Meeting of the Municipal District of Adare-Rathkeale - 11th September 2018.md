@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%2011th%20September%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
 
 Luim Comhairle Cathrach agus Contae Luimnigh.
@@ -63,8 +67,10 @@ Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposal of land at Adare.
@@ -104,8 +110,10 @@ To note update on proposals to address the flooding issues in Askeaton.
 
 te
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -146,5 +154,6 @@ pedestrian foot bridge adjacent to the Christopher Lynch bridge over the River D
 | will move at the next meeting that this Local Authority carry out a survey and overall
 design/master plan for Shanagolden Village to incorporate traffic calming measures on
 the R521 Newcastle West to Shanagolden road.
+
 
 ---

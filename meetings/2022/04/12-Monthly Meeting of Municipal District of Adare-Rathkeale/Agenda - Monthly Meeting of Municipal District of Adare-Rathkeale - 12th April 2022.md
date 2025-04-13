@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-agenda-12th-april-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 all Comhairle Cathrach
 & Contae Luimnigh
 acs ,
@@ -71,8 +75,10 @@ weew timarickie
 WY @LimerickCouncil
 \ 061-556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Mid West National Road Design Office
@@ -113,6 +119,7 @@ Question submitted by Councillor K. Sheahan
 
 | will ask at the next meeting for an up to date report on sewerage issues in Askeaton.
 
+
 ---
 3
 
@@ -152,4 +159,5 @@ in becoming a Fair Trade Village.
 
 **15.**
 
-**A.O.B**---
+**A.O.B**
+---

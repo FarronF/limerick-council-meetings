@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Minutes%20of%20February%20SPC%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ADS
 —=—>
 
@@ -88,8 +92,10 @@ Corporate Headquarters, Merchants Quay, Limerick
  @LimerickCouncil
 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 3: National Development Plan 2018-2027
 Overview of Housing Issues
 
@@ -137,8 +143,10 @@ and Renew was discussed.
 Cllr. J. Costelloe enquired about the progress with Cosgrave Park, St. Anne’s Court and the
 CHAS Flats. Mr. Seamus Hanrahan advised that the Cosgrave Park construction budget is
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 currently being assessed by the Department of Housing, Planning and Local Government
 (DHPLG). St. Anne’s Court is owned by the St. Vincent de Paul and is undergoing the
 acquisition process. CHAS Flats is at Part 8 public display and will be presented to the
@@ -188,8 +196,10 @@ Affordable Housing and mechanisms to deliver; and
 Announcement for 2” scheme of LIHAF to pump-prime sites for housing
 development
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Item 5: Housing Delivery Overview 2017
 
 Mr. Seamus Hanrahan gave a presentation outlining the main projects in the Housing
@@ -243,8 +253,10 @@ Inspections 2016 and 2017; and
 
 Main reasons for Non-Compliance.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 He stated the majority of inspections in 2016 were on HAP properties and explained what
 ‘fail’ means in terms of non-compliance with the standards. He stated that while a
 substantial number of properties were non-compliant, they were for minor reasons.
@@ -286,5 +298,6 @@ for approval at the next full sitting of Limerick City and County Council.
 The meeting concluded.
 
 Date of next meeting: Monday 30" April 2018 at 11.30am, County Hall, Dooradoyle.
+
 
 ---

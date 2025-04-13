@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20Special%20Meeting%20of%20Metropolitan%20District%2030th%20November%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha.
 
 Comhairle Ca thrach Comhairle Cathrach agus Contae Luimnigh,
@@ -51,5 +55,6 @@ w @LimerickCouncil
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach 06s - Be7i50
 
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

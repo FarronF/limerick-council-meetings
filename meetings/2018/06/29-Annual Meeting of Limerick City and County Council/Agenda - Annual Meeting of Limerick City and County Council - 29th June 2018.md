@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Annual%20Meeting%20290618.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_——_ Comhairle Cathrach
 & Contae Luimnigh
 NN ‘ limeiciy ick City
@@ -59,5 +63,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 w @LimerickCouncil
 (061 - $$7150
+
 
 ---

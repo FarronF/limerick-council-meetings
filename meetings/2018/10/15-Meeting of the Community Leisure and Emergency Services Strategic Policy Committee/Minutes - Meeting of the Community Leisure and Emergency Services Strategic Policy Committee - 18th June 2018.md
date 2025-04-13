@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Item%201%20%20Minutes%20of%20Meeting%2018%20June%202018.pdf)
+
+---
 A meeting of the Community, Leisure and Emergency Services Strategic Policy Committee
 
 was held in Council Chamber, Limerick City and County Council, Dooradoyle, Limerick on

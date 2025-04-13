@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_6th_march_2017_special_meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_
 
 An f™
@@ -68,5 +72,6 @@ Corporate Headquarters, Merchants Quay, Limerick
  weevilimerickie
 
 (061 - 496200
+
 
 ---

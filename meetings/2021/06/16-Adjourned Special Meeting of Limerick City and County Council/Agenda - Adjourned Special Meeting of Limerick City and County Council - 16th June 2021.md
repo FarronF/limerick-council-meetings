@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-adjourned-special-meeting-16.02.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach papacy nasal eran
 ee Pa tke sah “ Comnhairte Cathrach agus Contae Luimnigh,
 ontae Luimnig Ceanncheathru Chorparaideach,
@@ -61,5 +65,6 @@ resolution, the Elected Members amend it.
 
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

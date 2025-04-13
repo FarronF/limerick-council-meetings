@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_adare-rathkeale_-_8th_november_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,8 +59,10 @@ Chorpardideach, Cé na gCeannaithe, Luimneach & wow.merick.ie
 Ceanncheathra Chorpar: r
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncit
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic D ment Directorate
 Great Southern Trail
 
@@ -103,8 +109,10 @@ Flooding Issues
 To receive update on proposals to address the flooding issues in Foynes, Askeaton and
 Ballysteen.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -166,8 +174,10 @@ calming and safety measures at this location.
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -177,5 +187,6 @@ crossing on the Main Street Pallaskenry at the Community Centre in the interest 
 student safety.
 
 Correspondence
+
 
 ---

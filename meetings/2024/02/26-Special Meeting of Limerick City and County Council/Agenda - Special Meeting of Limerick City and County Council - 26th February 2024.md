@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-limerick-city-and-county-council-26th-february-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Comhairle Cathrach
 = & Contae Luimnigh
 oo Li ick Cit
@@ -52,8 +56,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 © wew.limerick.te
 © 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae __ * ——paaly | lta He gray Ble Lravel
 
 Baal ~ Khe.
@@ -65,5 +71,6 @@ am? : = sa. Css
 
 Q e°
 ~°'porate ses
+
 
 ---

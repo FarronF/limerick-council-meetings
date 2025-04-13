@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-the-municipal-district-of-adare-rathkeale-9th-january-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach __ Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comnhairte Cathvach agus aa oed a
 “~™ i ~~ ~ 5
@@ -48,8 +52,10 @@ on 12"" December, 2023.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © wwwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposal of land at 4 High Street, Croom, Co. Limerick.
@@ -92,8 +98,10 @@ Rathkeale Municipal District held on 12" December, 2023)
 ! will move at the next Meeting no election posters for the 2024 local elections are erected
 in the Adare-Rathkeale Municipal District area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -107,5 +115,6 @@ Rathkeale Municipal District.
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

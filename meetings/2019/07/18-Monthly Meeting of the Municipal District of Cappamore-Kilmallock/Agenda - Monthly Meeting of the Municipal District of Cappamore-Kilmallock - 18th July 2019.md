@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20Agenda%20July%202019%20Capp%20KIL%20MD%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairie Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 a Olfg an Cheantair, Aras Mhainchin Seoighe,
@@ -51,8 +55,10 @@ Linmertcli City and County Councl, Arne Betnchds Secighe Ares, Omics W @Limerick
 
 (083 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 
 3
@@ -94,8 +100,10 @@ Notice of Motion submitted by Councillor Donegan
 road junction improvements are carried out at the Garrynoe junction on the R518
 Bruree road to improve sightlines and general safety at the junction.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Notice of Motion submitted by Councillor Teefy
 | will move at the next meeting of the Cappamore Kilmallock Municipal District that
 consideration be given to the provision of some form of traffic calming, such as Driver
@@ -135,5 +143,6 @@ park in Murroe.
 
 | will ask at the next meeting of the Cappamore Kilmallock Municipal District for a
 progress update on the roadworks on Main Street, Caherconlish.
+
 
 ---

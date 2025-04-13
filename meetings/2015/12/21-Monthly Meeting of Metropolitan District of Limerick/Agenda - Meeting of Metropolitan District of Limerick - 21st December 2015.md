@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20December%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 all Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -59,8 +63,10 @@ customerservices@limerick.'
 Ceanncheathni Chorparéideach, Cé na ree Luimneach = é eiimanichale
 Corporate Headquarters, Merchants Quay, vy @Limeri ickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -114,8 +120,10 @@ Question submitted by Councillor Elena Secas
 | will ask at the next meeting when the Council is going to pilot the 30km/h speed limits
 concept in housing estates in the Metropolitan District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -163,8 +171,10 @@ Notice of Motion submi mhlr. Séighin 6 Ceallaigh
 act on its promise to provide for flood defences in Limerick City, and to extend flood
 defences to the Castleconnell/Lisnagry/Montpelier areas.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -190,5 +200,6 @@ begin a process of removing the now redundant phone boxes from the city centre.
 
 Correspondence.
 (Copy of Correspondence Enclosed).
+
 
 ---

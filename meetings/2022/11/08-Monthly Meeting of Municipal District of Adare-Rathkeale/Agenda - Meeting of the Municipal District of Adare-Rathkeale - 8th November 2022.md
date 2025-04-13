@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%208th%20November%2C%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “ll Comhairie Cathrach
 & Contae Luimnigh
 AN fi ™
@@ -73,8 +77,10 @@ Corporate Headquarters, Merchants Quay, Limerick.
 W @LimerickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Housing Directorate
 
 To receive a report on the proposals for No. 24 St. Mary’s Park, Rathkeale, Co. Limerick.
@@ -105,5 +111,6 @@ open and frank debate on the recent media reports regarding the travelling commu
 Rathkeale.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

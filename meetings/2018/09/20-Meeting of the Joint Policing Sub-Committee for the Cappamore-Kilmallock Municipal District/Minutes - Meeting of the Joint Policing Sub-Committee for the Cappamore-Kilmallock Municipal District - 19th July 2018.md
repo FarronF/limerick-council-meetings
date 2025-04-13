@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/02%20Minutes%20of%20Joint%20Policing%20Sub%20Committee%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20held%20on%20Thursday%2019th%20July%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, MILLMOUNT,
@@ -42,8 +46,10 @@ contacts. He confirmed that work was ongoing in compiling a list of relevant sta
 the formal launch and communication of this initiative was likely to take place in Autumn
 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members acknowledged the work done by An Garda Siochana in the District and
 welcomed the proposed Community Policing Initiative. This initiative made a lot of sense as
 it would deepen the contacts between An Garda Siochana and the community and would
@@ -70,5 +76,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

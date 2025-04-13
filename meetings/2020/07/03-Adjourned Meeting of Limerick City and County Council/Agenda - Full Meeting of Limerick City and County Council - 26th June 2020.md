@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-meeting-26.06.2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ceanncheathrnds Chorparaideach,
 neN —_—eeeee Cé na gCeannaithe,
 => Limerick City Luimneach
@@ -51,8 +55,10 @@ Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Disposal of Land
@@ -135,8 +141,10 @@ Annual Report
 To consider Draft Annual Report 2019
 (Report and Annual Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ec)
 
 (4)
@@ -190,8 +198,10 @@ To approve Sectoral Nominations from Public Participation Network and
 Farming Sector to Strategic Policy Committees.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 Limerick Market Trustees
@@ -250,8 +260,10 @@ Committee Meeting held on 24" February, 2020.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Recommendation No. 1:
 
 That, all future recipients of HAP would be Garda vetted similar to the
@@ -287,8 +299,10 @@ To consider approving the recommended allocations under the International
 Mobility Award Scheme 2020 — Round 1.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (d) Grants under the Arts Act
@@ -323,8 +337,10 @@ Question submitted by Councillor D. McSweeney
 | will ask at the next Meeting for an update on the progress being made in securing
 funding to complete Phase Two of Patrickswell Village Renewal Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -380,8 +396,10 @@ Question submitted by Councillor E. O'Donovan
 specific accommodation; how much of this funding has been spent in 2020 and what
 are the plans for expenditure for 2020.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -430,8 +448,10 @@ We will move at the next Meeting that the Council communicate with each of the
 Party Leaders in the Republic to adopt a policy granting each Credit Union branch the
 authorisation to become a Building Society.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Keary, E. O’Brien ’ % ‘Sheahan, A. Teskey
@@ -472,8 +492,10 @@ streaming of all Council Meetings deemed open to the public; that the Council
 implement this urgently, considering the impact of public accessibility to Council
 Meetings due to COVID-19 restrictions.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 27.
 
 10
@@ -506,5 +528,6 @@ The National Small Business Recovery Plan using EU funding recovery schemes.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Budget%20Meeting%2015.11.19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “i Comhairle Cathrach
 & Contae Luimnigh
 ANS °F —_—_— ee
@@ -67,8 +71,10 @@ customerservices@limerick.ie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach yw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . To determine the proportion of commercial rates refund that applies on vacant
 properties in 2020 within the administrative area of Limerick City and County
 Council, in accordance with the provisions of Section 31 of the Local Government
@@ -102,5 +108,6 @@ Reform Act, 2014, subject to finances available.
 
 (Copy of proposed Business and Retail Incentive Scheme for Vacant Property
 2020 Enclosed)
+
 
 ---

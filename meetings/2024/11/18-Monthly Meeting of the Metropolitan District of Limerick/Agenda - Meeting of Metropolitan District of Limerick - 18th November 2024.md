@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-meeting-of-metropolitan-district-of-limerick-18th-november-2024_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 ; & Contae Luimnigh
 Ao™ 2 _—_—=_=——_—
@@ -66,8 +70,10 @@ Y @LimerickCouncil
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Standing Orders for the Metropolitan District of Limerick
 To consider the adoption of Standing Orders for the Metropolitan District of Limerick.
 
@@ -116,8 +122,10 @@ Developments.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Question submitted by Councillor S. Benson
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, how many people on the
@@ -169,8 +177,10 @@ Scheme that includes Mulcair Drive and Mountshannon Road".
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 proposed footpath that will link Rich Hill Woods / Grangewood to the Mackey Roundabout.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Question submitted by Councillor U. Gavan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick has consideration been given
@@ -215,8 +225,10 @@ traffic calming measures at the entrance to the new housing development at “An
 Patrickswell and also if consideration is being given to reducing the speed limit at the same
 location from the current 50 kmph down to 30 kmph.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 24. Notice of Motion submitted by Councillor E. Secas
@@ -260,5 +272,6 @@ public thoroughfares are more heavily enforced.
 fountains previously installed by this local authority be cleaned and maintained.
 
 31. Correspondence (Copy of Correspondence Enclosed).
+
 
 ---

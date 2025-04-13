@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-council-meeting-28.03.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __— Comhairie Cathrach sopnhonvte Cah pes Corpertideacha,
 : ry Comhairle Cathrac us © L r
 en 8 Contac Luimnigh Cearmcheativs: Chorporaideach,
@@ -54,8 +58,10 @@ fe
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimmmeach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To consider proposal for the disposal of land, in accordance with the provisions of
@@ -113,8 +119,10 @@ To consider Chief Executive’s Report for the months of January and February,
 2022.
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -160,8 +168,10 @@ responsibility for Public Procurement to seek guidance in relation to
 the development of a policy on the procurement of sustainable food
 and beverages, and catering services.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -204,8 +214,10 @@ Strategic Policy Committee held on 7" February, 2022.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (iv)
@@ -249,8 +261,10 @@ Development Committee.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -290,8 +304,10 @@ owned properties and the Council is in the process of acquiring more properties
 through Compulsory Purchase Order. The Council needs to refurbish these properties
 so that they can be allocated as soon as possible.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -343,8 +359,10 @@ as soon as possible, the Convention against Trafficking in Human Organs which wa
 adopted by the Council of Europe on 9 July 2014 in order to criminalise illegal organ
 transplantations.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 18.
@@ -392,5 +410,6 @@ public spaces that are not women-friendly, with a view to redesigning them with 
 safety needs of women in mind.
 
 Correspondence
+
 
 ---

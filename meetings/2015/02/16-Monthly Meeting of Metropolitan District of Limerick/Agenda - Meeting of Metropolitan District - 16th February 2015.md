@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20agenda_february_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 en Seirohisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -59,8 +63,10 @@ to Limerick City and County Council.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © www.limerickie
 Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3;
 
 4.
@@ -117,8 +123,10 @@ To consider Report on Derelict Sites in the Metropolitan Area 2015.
 
 (Report to follow).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 QUESTIONS
@@ -159,8 +167,10 @@ Notice of Motion submitted by Councillor Daniel Butler
 entrance of The Grange, Raheen and Church Road entering the R510 to allow local
 traffic drive on to this busy road safely.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -218,8 +228,10 @@ the event to speak in Irish with other Irish speakers and that a similar event b
 held annually during Seachtain na Gaeilge. The event should be open to all,
 whether fluent speakers or beginners, wishing to improve their Irish.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -265,5 +277,6 @@ and Donoughmore National Schools.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

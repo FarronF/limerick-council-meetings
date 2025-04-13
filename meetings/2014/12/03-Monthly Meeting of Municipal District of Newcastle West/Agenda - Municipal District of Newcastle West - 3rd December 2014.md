@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_3rd_december_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -47,8 +51,10 @@ William Smith OBrien.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick y @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 N
@@ -97,8 +103,10 @@ Question submitted by Councillor M. Collins
 | will ask at the next Meeting if CCTV can be installed at Ash, Oak, Rowan and Sycamore
 Crescents to monitor and stop anti-social behaviour at these estates.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -127,5 +135,6 @@ are unsightly, untidy, and a safety hazard to residents and children in the area
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

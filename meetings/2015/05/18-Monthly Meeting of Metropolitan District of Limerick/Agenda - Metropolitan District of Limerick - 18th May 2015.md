@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_18th_may_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirohist Corpardideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -47,8 +51,10 @@ e Dwelling house situate at 122 Hyde Road, Prospect in the City of Limerick.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & wwew.limerickie
 Corporate Headquarters, Merchants Quay, Limerick y @lLimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -99,8 +105,10 @@ open space and d) all associated ancillary works, at O'Malley Park, Southill,
 Limerick.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -141,5 +149,6 @@ Station outward bound
 
 on the grounds of safety for pedestrians, restrictions to traffic flow, and general
 road safety for all users.
+
 
 ---

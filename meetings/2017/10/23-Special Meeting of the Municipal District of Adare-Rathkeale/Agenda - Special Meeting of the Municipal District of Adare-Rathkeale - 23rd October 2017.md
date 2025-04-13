@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2023rd%20October%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhisi Corpardideacha,
 
 _—_— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
@@ -49,5 +53,6 @@ To discuss proposed inspections of over-ground slurry stores.
 
 Ceanncheathri Chorparsideach, Cé na gCeannaithe, Luimneach! vy @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
+
 
 ---

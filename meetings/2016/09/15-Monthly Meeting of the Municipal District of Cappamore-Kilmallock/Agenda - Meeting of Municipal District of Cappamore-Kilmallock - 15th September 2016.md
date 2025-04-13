@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_150916.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Seirdhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 lay oN. ia ‘ Cé na gCeannaithe,
@@ -57,8 +61,10 @@ housing estates.
 Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © www limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development Directorate
 
 Deferral of notices to make a new Local Area Plan for Cappamore and extend the
@@ -90,5 +96,6 @@ Notice of Motion submitted by Councillors B. Teefy and N. Gleeson
 We will move at the next Meeting that the outdoor staff who have retired in recent
 years and those who will be retiring shortly be replaced immediately as staff numbers
 are at a critical level in the area.
+
 
 ---

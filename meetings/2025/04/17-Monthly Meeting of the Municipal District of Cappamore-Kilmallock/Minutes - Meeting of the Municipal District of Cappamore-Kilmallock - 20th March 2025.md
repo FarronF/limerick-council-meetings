@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/01-minutes.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE AND ON-LINE, ON
 THURSDAY, THE 20" MARCH 2025 AT 3.00PM.
@@ -40,8 +44,10 @@ announcement and agreed that it was a great honour for the District and for Lime
 (i) Circulated copy of draft Minutes of Monthly Meeting of the Municipal District of
 Cappamore-Kilmallock held on 20" February, 2025.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by: Councillor Stokes
 Seconded by: Councillor Conway
 
@@ -83,8 +89,10 @@ additional housing in Galbally.
 Proposed by: Councillor E. Ryan;
 Seconded by: Councillor M. Ryan;
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 And Resolved.
 
 “That the Part 8 in relation to the proposed housing development at former Garda Station,
@@ -132,8 +140,10 @@ _ Bohermore Handball Club
 Bruff Afterschool Project
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Colmanswell Community Council
 
 Doon District & Mens Shed
@@ -189,8 +199,10 @@ __ €500
 Pallas United FC
 Rockhill/Bruree Tidy Towns
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions
 
 7. Question submitted by Councillor O’Sullivan
@@ -233,8 +245,10 @@ have committed to work with the relevant stakeholders to masterplan the lands in
 community ownership and seek funding to develop the overall lands, in line with future
 funding calls.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Conway
 
 | will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an
@@ -275,8 +289,10 @@ District. This is to facilitate children who experience difficulties communicati
 such as children with autism, from being possibly excluded from society, as this board
 can be their main way of communicating when out in public.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Notice of Motion was proposed by Cllr Stokes, seconded by Cllr M. Ryan, and
 agreed.
 
@@ -323,8 +339,10 @@ Caherconlish where there is only a grass margin on the boundary of the road.
 
 The Notice of Motion was proposed by Cllr Teefy, seconded by Cllr M, Ryan, and agreed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 The Roads Engineer for the Cappamore-Kilmallock Municipal District will review the
@@ -348,5 +366,6 @@ the 17" April at 3pm.
 This concluded the business of the meeting.
 
 Signed:
+
 
 ---

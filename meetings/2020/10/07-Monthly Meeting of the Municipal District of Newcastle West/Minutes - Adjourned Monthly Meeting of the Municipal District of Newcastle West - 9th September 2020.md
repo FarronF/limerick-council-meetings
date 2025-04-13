@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01b-2020-09-09-minutes-september.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -43,8 +47,10 @@ Special Speed Limit) Bye-Laws 2020.
 Circulated, report of Senior Executive Engineer, Operations and Maintenance Services, dated
 20" August, 2020.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Senior Executive Engineer, West Division, referred to the report and the Draft Road Traffic
 (30 kilometers per hour Special Speed Limit) Bye-Laws 2020. He stated that Limerick City and
 County Council is proposing the installation of 30kph speed limit bye-laws in the following
@@ -97,8 +103,10 @@ consideration should also be given to using social media.
 Following discussion, it was agreed that a workshop for the Councillors with the Consultants
 would be arranged prior to the Draft Plan going on public display.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. General Municipal Allocation (GMA)
 
 On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agreed to allocate
@@ -148,8 +156,10 @@ responsible for granting planning (c) what are the planning conditions (d) were 
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 conditions adhered to (e) is there a public right of way up to the Cross and if so who is
 responsible for its maintenance.
 
@@ -193,8 +203,10 @@ water to the Abbeyfeale Water Treatment Plant.
 
 REPLY: No response from Irish Water.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. s i illor T
 
 | will ask at the next Meeting regarding a major safety issue which has arisen in relation to
@@ -252,8 +264,10 @@ follows:
 *lf it can be powered by mechanical or electrical power alone (i.e. it can continue without you
 pedalling or scooting it) then it is considered to be a ‘mechanically propelled vehicle’(MPV).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Under road traffic law if an MPV is used in a public place it is subject to all of the regulatory
 controls that apply to other vehicles i.e. it must be roadworthy, registered, taxed and insured.
 ¢The driver of the vehicle must hold the appropriate driving licence and is obliged to wear a
@@ -298,8 +312,10 @@ continue with daily maintenance at these play facilities.
 the right hand Beechwood Ave., approach to Meadow Court Estate.,
 as well as that fronting properties towards House No. 20 on the left hand side therein.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Footpath upgrades for the above can be considered under the 2021 Works
 Programme.
 
@@ -344,8 +360,10 @@ the Convent of Mercy, Abbeyfeale.
 
 The Motion was seconded by Councillor Foley.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Limerick City and County Council will arrange to carry out an inspection on the
 site at the Convent of Mercy, Abbeyfeale, Co. Limerick and an update will be
 provided to the Elected Members as soon as possible.
@@ -388,8 +406,10 @@ Allaughaun as he now has responsibility for the OPW.
 It was also proposed by Councillor Scanlan and seconded by Councillor Galvin that Irish Water
 be requested to attend the October Meeting of the District to discuss the above matters.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17. Notice of Motion submitted by Councillor T. Ruddle
 
 I will move at the next Newcastle West Municipal District Meeting that the Council would
@@ -439,8 +459,10 @@ REPLY: Qualifying criteria under the Local Improvement Scheme grants are set out
 
 9
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the Department of Rural and Community Development.
 
 Limerick City & County Council is currently reviewing the administration of the
@@ -490,8 +512,10 @@ an area for littering and anti social behaviour.
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Motion was seconded by Councillor Ruddle.
 
 REPLY: The Council has arranged for daily maintenance of the playground and other
@@ -540,8 +564,10 @@ Newcastle West.
 
 11
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 It was agreed to hold the October Meeting of the District on Wednesday, 7" October, 2020,
 at 10.00 a.m., at Aras William Smith OBrien.
 
@@ -559,5 +585,6 @@ Cathaoirleach
 Dated:
 
 12
+
 
 ---

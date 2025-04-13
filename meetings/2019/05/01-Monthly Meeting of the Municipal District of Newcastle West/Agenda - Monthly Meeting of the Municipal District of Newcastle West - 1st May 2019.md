@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%202019-05-01%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———_ Comhairle Cathrach Dich Bandai an Chaisedin Niue Thr
 Comhairle Cathrach ‘ont imni
 
@@ -53,8 +57,10 @@ os
 cena emma 4
 Corporate Headquarters, Merchant's Quay, Limerick W @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6.
 
 7.
@@ -115,8 +121,10 @@ Notices of Motion submitted by Councillor J. Scanian
 | will move at the next Meeting that a safety audit be undertaken at Ballykennedy
 Cross/junction in Clouncagh.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15S.
@@ -156,5 +164,6 @@ back of school and two others at Ardagh/Newcastle West junction.
 Correspondence
 
 (Copy Enclosed)
+
 
 ---

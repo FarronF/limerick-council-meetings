@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Agenda%20Annual%20Meeting%2025th%20June%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Seirbhisi Corpardiieacha,
 _—_——_ pa Heleale$ cones Comhairle Cathrach agus Contae Luimnigh,
 g Ceanncheathra Chorparaideach,
@@ -46,5 +50,6 @@ next Annual Meeting or until a successor has been elected.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Headquarters, Merchants Quay, Limerick ( 061 - 557150
+
 
 ---

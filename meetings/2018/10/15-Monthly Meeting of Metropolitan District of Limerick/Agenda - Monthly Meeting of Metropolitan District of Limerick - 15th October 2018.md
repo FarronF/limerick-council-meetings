@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2015th%20October%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Seirbhisi Corpardideacha,
 if
 _——_— rp bereaket pein nek Comhairle Cathrach agus Contae Luimnigh,
@@ -61,8 +65,10 @@ To note proposal for the disposal of land as follows:
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Capital Investment Directorate
 Part 8 Procedure — Housing Development at Barnakyle, Patrickswell, Co. Limerick
 
@@ -106,8 +112,10 @@ Question submitted by Councillor J. Costelloe
 | will ask at the next meeting of the Metropolitan District of Limerick how many CCTV
 cameras there are in Limerick City North and how many are monitored and in working order.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9.
 
 10.
@@ -160,8 +168,10 @@ Rhebogue which has been raised over years by Councillors and residents, in parti
 speedbumps and road surfacing on the Rhebogue road which were not completed to the
 standard proposed originally and implemented by Smarter Travel elsewhere in the city.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -202,5 +212,6 @@ Committee)
 | will move at the next meeting that the Limerick Metropolitan Area identify a suitable
 multidisciplinary space which would be suitable for use by various sports, arts and cultural
 groups in the City for training, practices, and rehearsals.
+
 
 ---

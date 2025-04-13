@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/04%20Minutes%2018th%20Oct%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -42,8 +46,10 @@ Director, Support Services requested that details of same should be forwarded to
 Meetings Administrator for consideration. It was agreed that the Minutes would be put on
 the Agenda again for the November 2018 Municipal District Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. cial D °} orate
 U e on C Deve wn & Vill Renewal
 initiatives.
@@ -87,8 +93,10 @@ The Senior Architect gave an update to Members on the Threshold Project in Kilma
 project entailed Limerick City & County Council engaging with Architecture students from the
 University of Limerick in preparing a design project focussed on the northern entrance to
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Kilmallock (around the new footbridge), looking at how this threshold approach to Kilmallock
 could be improved.
 
@@ -137,8 +145,10 @@ and groups from the District for achievements attained at either National or Int
 
 level.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 5. uestion submitted by Councillor Mitchell
 
@@ -178,8 +188,10 @@ is poor, with bends on either side of the graveyard. The road is narrow with a
 continual white line. The nearest safe parking spot is located 200 metres to
 the east of the graveyard in front of a private dwelling.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Council will investigate the option of providing 4-6 car parking spaces at
 the graveyard. This will require the acquisition of a small amount of land to
 the west of the graveyard and the replacement of the existing hedgerow with
@@ -223,8 +235,10 @@ Having regard to the legal advice obtained, the Meetings Administrator explained
 was therefore not in a position to include the Notice of Motion on the Agenda for the
 Municipal District Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 * Deputation
 
 On the proposal of Councillor Sheehy, seconded by Councillor Donegan, it was agreed to
@@ -259,5 +273,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

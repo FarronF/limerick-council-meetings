@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Cappamore%20Kilmallock%20Draft%20Budgetary%20Plan%20Minutes%202017%20%281%29.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING FOR THE MUNICIPAL**
 
 **DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN SEOIGÉ, MILLMOUNT,**

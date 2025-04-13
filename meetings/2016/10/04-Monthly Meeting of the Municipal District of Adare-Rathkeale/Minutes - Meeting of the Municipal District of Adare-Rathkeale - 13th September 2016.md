@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_minutes_13th_september2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 TUESDAY, 13™ SEPTEMBER, 2016, AT 9.00 A.M.
@@ -49,8 +53,10 @@ Circulated, Report of A/Senior Planner, Planning and Environmental Services, dat
 Members requested that this item be deferred indicating that issues were outstanding in relation
 to safety in the estate.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Update on the Taking in Charge of Ballyvareen Estate
 
 Members indicated that the range of issues outstanding in relation to Ballyvareen Estate was
@@ -100,8 +106,10 @@ deal with rural crime.
 Members pointed out the importance of the Gardai maintaining a visible presence throughout the
 District and building a good relationship with the general public. Members welcomed the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 reopening of Croom Garda Station and raised concerns at the high influx of visitors in Rathkeale
@@ -148,8 +156,10 @@ only from that road.
 This question has also been referred to the Road Safety Authority (RSA) and the
 Department of Transport, Tourism and Sport for further clarity.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor A. Teskey
 
 1 will ask at the next Meeting to know what is the delay and what time scale is there in relation
@@ -196,8 +206,10 @@ put in a position whereby GMA funding, intended to be discretionary, had to be a
 such as the maintenance of Adare Town Park to ensure its ongoing maintenance. He stressed that
 works such as this should be funded from general Council funds and the Members should be free
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 to allocate their discretionary funding to the many other deserving projects throughout the
@@ -250,8 +262,10 @@ Councillor Keary informed the Meeting that, due to a proposed shift in the align
 proposed new Limerick to Foynes Road, land in his ownership would now be included as part of
 the road. He expressed his dissatisfaction with Transportation Infrastructure Ireland and the Mid
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 West Road Design Office at how this decision was communicated and at how those affected by
@@ -276,5 +290,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

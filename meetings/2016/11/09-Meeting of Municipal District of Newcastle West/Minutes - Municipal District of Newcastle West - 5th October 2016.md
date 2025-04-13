@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_municipal_district_meeting_newcastle_west_051016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 5" OCTOBER, 2016, AT 10:00 A.M.
@@ -40,8 +44,10 @@ introduction of 30km/hr special speed limits initiative to all housing estates i
 addition, the Members asked if signage displaying the lower speed limit could be erected in all
 housing estates in the interests of safety for those living there.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Service Operations Directorate
 Planning and Environmental Services
 (a) Taking in Charge of Estates — Declaration of Road to be Public Roads
@@ -88,8 +94,10 @@ Following a brief discussion the Members stated that they were satisfied with th
 reference and it was agreed to proceed to the next stage which was to tender for consultants to
 work on the report.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 hri Lightin,
 
 The Cathaoirleach said that he had received an email from the Newcastle West Business
@@ -137,8 +145,10 @@ implementation will be identified.
 | will ask at the next Meeting when the road linings in the Woodfield Estates, Newcastle West
 will be renewed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: The renewal of the road markings in the Woodfield Estates Newcastle West is
 currently being carried out.
 
@@ -187,8 +197,10 @@ Currently consultation is taking place with local landowners with regard to thes
 safety works. It is envisaged that the upgrade works will be carried out in
 November 2016.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 12. Notice of Motion submitted by Councillor J. Scanlan
@@ -238,8 +250,10 @@ carried out as requested.
 ! will move at the next Meeting that funding be provided at budget time to put in place a
 footpath from St. Michael’s House, Ballyagran towards the village.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Councillor Galvin, in proposing the Motion, stated that it was imperative that this footpath be
@@ -278,6 +292,7 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 
 ---

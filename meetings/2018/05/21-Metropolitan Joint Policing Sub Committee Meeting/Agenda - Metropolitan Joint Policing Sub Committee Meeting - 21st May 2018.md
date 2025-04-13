@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/met%20jpc%20agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ars
 
 Seirbhist Corparéidescha,
@@ -50,5 +54,6 @@ February, 2018
 
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach yw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - §87150
+
 
 ---

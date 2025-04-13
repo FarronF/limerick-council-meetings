@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_agenda_1st_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26” September, 2014.
 
 Corporate Services.
@@ -29,8 +33,10 @@ To note date for Meeting to discuss Draft Budgetary Plan.
 3. Travel & Transportation
 To note position on District Roads Work Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -80,8 +86,10 @@ Notice of Motion submitted by Councillor F. Foley
 | will move at the next Meeting that the Council links up the crash barrier on the new
 section of road at Barnagh.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -93,5 +101,6 @@ front of Desmond Castle.
 
 | will move at the next Meeting that the Council increases the allocation and selection of
 books to Newcastle West District Libraries.
+
 
 ---

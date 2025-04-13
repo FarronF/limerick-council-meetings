@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Minutes%20of%20SPC%20Meeting%20-%208th%20Oct%202018.pdf)
+
+---
 **MINUTES**
 
 **OF**

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20Special%20Meeting%20080118.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—__ Comhairle Cathrach
 & Contae Luimnigh
 
@@ -50,5 +54,6 @@ Meetings Administrator.
 
 eathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Compendia Wastamaraae sanicr ott remteet
+
 
 ---

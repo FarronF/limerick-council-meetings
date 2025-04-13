@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20July%202022_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _e_e Comhairle Cathrach Comhairle Gucumatseu Lae
 & Contae Luimnigh Ceanncheathna Chorpardideach;
 “wt” Cé na gCeannaithe,
@@ -40,8 +44,10 @@ To adopt Minutes of the following Meetings;
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -92,8 +98,10 @@ the derelict property at 79 Roundwood Estate as to when works will start to refu
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor J. Leddin
 
 | will ask Limerick Metropolitan Council when the planned upgrades of the Children’s Playground in
@@ -136,8 +144,10 @@ extended to Annacotty and Groody/Ballysimon Road as soon as possible
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Notice of Motion submitted by Councillor E. Secas
 
 | will move at the next Meeting that the Metropolitan District of Limerick engage with the Data
@@ -156,5 +166,6 @@ the soccer pitch.
 
 17. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

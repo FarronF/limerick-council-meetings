@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02-minutes_of_special_meeting_08.01.2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT A SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -53,8 +57,10 @@ Council.
 
 VVVVVVYV
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mr. E. O' Riordan spoke about how the angling tourism had declined in Ireland since
 the early 1980's and mentioned some of the following factors which he felt had
 contributed to that decline:
@@ -123,8 +129,10 @@ the River Loobagh would cost €40,656.
 
 €40,656
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members commended the Delegation for their presentation adding that it was a
 worthwhile project.
 
@@ -135,5 +143,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

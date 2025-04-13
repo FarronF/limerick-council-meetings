@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2027th%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 
@@ -51,8 +55,10 @@ e Staffing in the District.
 e Proposed new Garda Station for Newcastle West.
 ¢ Opening hours for Abbeyfeale Garda Station/Re-advertise opening hours.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Upgrade of Glin Garda Station.
 
 The location of Go Safe vans was discussed and the Superintendent was asked who was
@@ -103,8 +109,10 @@ Section 180 of the Planning and Development Acts 2000-2015 and Section 11 of the
 
 1993.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 UESTION
 5. Question submitted by Councillor J. Scanian
 
@@ -149,8 +157,10 @@ the Council supports these committees through payment of a burial ground
 grant. It is estimated that approximately 30 such grants are provided annually in
 Newcastle West Municipal District at a cost of €10,000.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 8. uestion subm ncillor M. Collins
 
@@ -202,8 +212,10 @@ the funding allocation is being considered and that an update will be available 
 
 the coming weeks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 NOTICES OF MOTION
@@ -259,8 +271,10 @@ discussed.
 
 The Motion was seconded by Councillor Galvin and agreed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Dublin Coach will be contacted with regard to stops at Abbeyfeale and Newcastle
 West for their Tralee to Galway service.
 
@@ -310,8 +324,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LIMERICK CITY AND COUNTY COUNCIL
 MUNICIPAL DISTRICT OF NEWCASTLE WEST
 
@@ -342,5 +358,6 @@ In fa Ae
 Kieran Lehane
 Director of Services
 Environment & Water
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-4th-September-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 il Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caoka,
 
 & Contae Luimnigh Comhairle Cattwach agus ee rel
@@ -47,5 +51,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach ! wewew.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 © 061 - 856 000
+
 
 ---

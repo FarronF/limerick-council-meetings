@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/20210413-draft-minutes-cabe-spc_0.pdf)
+
+---
 1
 
 **Minutes of the Online Meeting of Limerick City & County Council Climate Action,**

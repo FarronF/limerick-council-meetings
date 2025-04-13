@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Agenda%20-%20%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2011th%20January%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ pA Comhairle Cathrach
 & Contae Luimnigh
 AN So
@@ -71,8 +75,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 = limerick.te
 www limerick.te
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 10.
@@ -123,8 +129,10 @@ a) The entrance road to Cluain Arra Estate.
 
 b) The 2 lights out in the Old Mill.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 14.
@@ -174,5 +182,6 @@ back entrance.
 
 | will move at the next Meeting that adequate public lighting is provided along Daar
 River View, Newcastle West.
+
 
 ---

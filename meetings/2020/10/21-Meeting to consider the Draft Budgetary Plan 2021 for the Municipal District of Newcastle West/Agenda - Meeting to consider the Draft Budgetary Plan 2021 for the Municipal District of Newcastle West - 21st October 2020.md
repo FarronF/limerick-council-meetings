@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-2020-10-21-agenda-draft-budgetary-plan.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Dulche Bardais an Chaisiedin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contse Luimragh,
 
@@ -46,5 +50,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wvewlimerick.ie
 
 Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
 © 061 - $56 000
+
 
 ---

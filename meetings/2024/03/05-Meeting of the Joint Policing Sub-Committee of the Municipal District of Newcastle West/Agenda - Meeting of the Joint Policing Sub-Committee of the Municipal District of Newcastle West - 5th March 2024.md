@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-the-joint-policing-sub-committee-of-the-municipal-district-of-newcastle-west-5th-march-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duliche Bardais an Chaisledin Nua Thiar,
 _e_e-~™ & Contae Luimnigh Comhairle Cathyach agus Contae Luimnigh
 
@@ -44,5 +48,6 @@ To discuss policing issues in the District.
 & customerservices@limerickic
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © wvewlimerickie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
+
 
 ---

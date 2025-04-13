@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28c%29%20Minutes%20of%20Special%20Meeting%2011th%20June%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 TUESDAY, 11™ JUNE, 2019 AT 9.30 A.M.
@@ -42,8 +46,10 @@ allocate the following from Councillor McMahon's allocation:
 
 €1,000 to Foynes District Community Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, Councillor
 O’Brien requested the support of all Councillors at the annual Gandelow Races at
 Ringmoylan Pier on Saturday the 15th June, 2019 at 6pm.
@@ -54,5 +60,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

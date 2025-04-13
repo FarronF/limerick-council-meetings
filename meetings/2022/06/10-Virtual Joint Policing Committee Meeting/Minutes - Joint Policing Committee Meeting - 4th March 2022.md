@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20JPC%20Meeting%204th%20March%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF VIRTUAL MEETING OF THE LIMERICK JOINT POLICING COMMITTEE**
 
 **HELD ON 4TH** **MARCH, 2022**

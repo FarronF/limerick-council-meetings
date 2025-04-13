@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-special-meeting-30.06.2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach mony : — a
 : omnairie Cathrach us Contae Luin .
 & Contae Luimnigh Caannchesthrd Chorpardideach,
@@ -53,5 +57,6 @@ Limerick.
 © vewvelimerick.ie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick © 061 - 557150
+
 
 ---

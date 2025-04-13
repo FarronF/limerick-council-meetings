@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/07%20Signed%20Agenda%20Cover%20Letter_Part%208%20for%20Cappamore%20Fire%20Station%20Refurbishment.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 AN Lf ™
@@ -64,8 +68,10 @@ All associated site works.
 
 Par Ww
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Accompanying drawings:
 
 DD0064-1 Existing & Proposed Site Layout
@@ -87,5 +93,6 @@ LA Housing Construction & Maintenance,
 
 Limerick City & County Council, County Hall, Dooradoyle, Limerick.
 e: michael.moloney@limerick.ie | t: 061 557258
+
 
 ---

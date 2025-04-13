@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_20th_february2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Sewrbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -68,8 +72,10 @@ Delmege Park, Moyross, Limerick.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Service Operations Directorate - Planning and Environmental Services
@@ -120,8 +126,10 @@ were offset by other arrangements that resulted in the monetary contribution amo
 
 been waived.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -180,8 +188,10 @@ future will any further traffic from any future development of Greenpark Racecou
 allowed to access the South Circular Road. The Greenpark Infrastructural Development
 Plan must take this into account and provide for all access from the Dock Road.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -218,5 +228,6 @@ Tran i ra Policy Committee
 Transport Authority (NTA) about organising a 'Car Free City' day or weekend, where public
 transportation would be free in order to encourage more people to use this vital public
 service, in order to help tackle pollution and climate change.
+
 
 ---

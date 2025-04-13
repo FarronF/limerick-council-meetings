@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-and-requisition-special-meeting-limerick-city-and-county-council-07.04.2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ie Comhairle Cathrach
 & Contae Luimnigh
 Arc™N acer
@@ -59,8 +63,10 @@ mm customerservices@limerick ie
 @LimerickCouncil
 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Limerick City & County Council
 3.1 MAR 2025
 
@@ -81,5 +87,6 @@ vernon Cie. Uscedte
 
 Clir Shane Hickey O’Mara ChOn . bent L. Lo
 ening UY ee © p-
+
 
 ---

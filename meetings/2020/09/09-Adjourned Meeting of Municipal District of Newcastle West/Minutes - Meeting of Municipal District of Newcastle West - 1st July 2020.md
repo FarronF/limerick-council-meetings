@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-2020-07-01-minutes-july.pdf)
+
+---
 MINUTES
 
 OF

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20Meeting%20-%2025th%20March%202015.pdf)
+
+---
 (Image omitted)
 (Image omitted)
 (Image omitted)

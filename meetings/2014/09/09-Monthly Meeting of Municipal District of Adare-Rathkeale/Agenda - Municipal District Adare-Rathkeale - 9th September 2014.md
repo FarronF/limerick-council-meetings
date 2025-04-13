@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/4%20reply_to_question_-_municipal_district_of_adare-rathkeale_-_9th_september_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LIMERICK CITY & COUNTY COUNCIL
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held on
@@ -20,8 +24,10 @@ Pat Fitzgerald,
 A/Director of Service,
 Economic Development and Planning
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LIMERICK CITY & COUNTY COUNCIL
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held on
@@ -46,8 +52,10 @@ Kieran Lehane
 Director of Service
 Environment & Water Services.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 LIMERICK CITY & COUNTY COUNCIL
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held
@@ -99,8 +107,10 @@ Director
 Environment & Water Services
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 IMERICK CITY & NTY COUN
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held on
@@ -147,5 +157,6 @@ It is intended to meet on site in the near future to discuss the matter further.
 
 Finbarr Keyes,
 Senior Executive Engineer.
+
 
 ---

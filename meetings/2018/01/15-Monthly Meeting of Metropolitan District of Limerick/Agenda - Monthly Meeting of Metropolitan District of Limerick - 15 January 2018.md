@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Agenda%2015th%20January%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhisi Corparaideacha,
 
 __—_—_—_ Comhairle Ca thrach Comhairle Cathrach agus Contae Luimnigh,
@@ -54,8 +58,10 @@ To set schedule of dates for JPC Sub Committee Meetings 2018 (4 no.).
 Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Services Operations Directorate
 
 8 Pr re — Sycamore Avenue, Rathbane, Limerick
@@ -95,8 +101,10 @@ Question submitted by Councillor J. Costelloe
 | will ask at the next Meeting for a list of when the Chain of the Metropolitan Mayor was
 used for official events last year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -150,8 +158,10 @@ minimum standards for rental accommodation and other basic rights of tenants, th
 Council makes sure to include information about tenants rights in the packs sent to HAP
 and RAS tenants as part of any housing needs assessment.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -196,5 +206,6 @@ are planned to develop these sites or buildings.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

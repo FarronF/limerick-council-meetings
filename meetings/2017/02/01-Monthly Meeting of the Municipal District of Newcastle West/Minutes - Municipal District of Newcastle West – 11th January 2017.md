@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_municipal_district_of_newcastle_west_11012017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE
 WEST, CO. LIMERICK, ON WEDNESDAY, 11% JANUARY, 2017, AT 10.00 A.M.
@@ -52,8 +56,10 @@ Development Fund Allocation 2016.
 
 Housing Estates Taken-in-Charge.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Housing Maintenance.
 
 Cemeteries.
@@ -105,8 +111,10 @@ these works to be progressed during 2017 are either under the Development
 Fund or Councillors’ GMA allocation.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 7. Question submitted by Councillor L. Galvin
@@ -160,8 +168,10 @@ sewage upgrade to Athea village as soon as possible.
 
 The Meetings Administrator, who had received a reply by email from Irish Water, read the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 content of the email into the record of the Meeting as follows:
@@ -217,8 +227,10 @@ Conservation Officer.
 
 It is expected that the process for deleting these thatched dwellings from the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 Record of Protected Structures will be initiated in Spring in tandem with the
@@ -257,5 +269,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

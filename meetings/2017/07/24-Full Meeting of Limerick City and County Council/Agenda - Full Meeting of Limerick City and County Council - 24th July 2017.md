@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20-%20Agenda%20Meeting%20240717.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ‘ Seirbhisi Corpardideacha.
 _——_— Comhairle Cathrach Sin Catiwach agin Corean udwige
 & Contae Luimnigh Ceanncheathra Chorpardideach.
@@ -58,8 +62,10 @@ te
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 Customer Services, Culture and Arts Directorate
@@ -96,8 +102,10 @@ To consider the approval of Sectoral Nomination to the Travel and
 Transportation Strategic Policy Committee.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -148,8 +156,10 @@ County Council Audit Committee.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (i)
 
 Strategic Policy Committee Reports
@@ -195,8 +205,10 @@ including, but not limited to, a levy on “one use” items along the
 lines of the successful plastic bag tax or a deposit and return
 scheme etc.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii)
 
 (iv)
@@ -243,8 +255,10 @@ To note the proposed allocations from the Development Fund 2017.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 Limerick Food Strategy Steering Group
@@ -285,8 +299,10 @@ Allocation (Amendment) Regulations, 2016.
 (Report and copy of Amended Draft Housing
 Allocation Scheme 2017 Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Service Operations Directorate
 Litter Report 2016
 
@@ -334,8 +350,10 @@ To note reports by Members who have participated at Conference/ Seminar/
 Meeting/Event.
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -383,8 +401,10 @@ Cement'’s plans for their Dock Road plant.
 this year under the Buy and Renew Scheme and Lease and Repair Scheme to bring
 vacant houses back into use.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -431,8 +451,10 @@ Committee)
 the Wild Atlantic Way and also asks what was done with the submissions made by
 Councillors on the Shannon Estuary Way at a Workshop with Failte Ireland.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.
@@ -464,5 +486,6 @@ the EPA from prosecution, and the need to make it accountable to the Ombudsman.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

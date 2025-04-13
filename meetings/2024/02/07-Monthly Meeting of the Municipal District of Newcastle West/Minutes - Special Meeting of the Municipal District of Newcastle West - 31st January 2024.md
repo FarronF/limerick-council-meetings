@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01b-minutes-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Agenda-Special-Meeting-Limerick-City-and-County-Council-18-07-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach : Se&bhisi Corparaideacha,
 & Contae Luimnigh Cormaine Cathvach agus Contae Luimnigh,
 
@@ -44,5 +48,6 @@ Meetings Administrator.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 587150
+
 
 ---

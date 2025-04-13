@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%2021st%20January%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Comhairle Cathrach — PO se per en aprmy
 i omhai ae Luimnig)
 nArN & Contae Luimnigh Ceanncheathru Chorparéiteach,
@@ -58,8 +62,10 @@ Gough Place, Rosbrien Road, Limerick.
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach YW @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 3. Social Development Directorate — Urban and Rural Community Development
@@ -109,8 +115,10 @@ Lisheen Park and Laurel Park will commence.
 
 10. Question submitted by Councillor S.Lynch
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -171,8 +179,10 @@ Notice of Motion submitted by Councillors Cahillane, Costelloe, Crowley, Daly an
 We will move at the next Limerick Metropolitan Meeting, to agree to nominate the following
 groups with the below amounts, out of the General Municipal Allocation:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 [St. Mary’s Adult EducationCentre 2,000
 St. Mary’s Prize Band
 Athlunkard Boat Club '€2,000 |
@@ -257,8 +267,10 @@ Notice of Motion itted ‘ouncillor E. Se
 | will move at the next meeting that this Council make available a suitable site for a
 Community Centre for Castletroy, Monaleen, Annacotty and surrounding areas.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.
@@ -314,5 +326,6 @@ Notice of Motion mitted by Councill n
 
 the ending of one tenancy and the re-letting of the house under a new tenancy so as to
 reduce the number of unoccupied council owned houses.
+
 
 ---

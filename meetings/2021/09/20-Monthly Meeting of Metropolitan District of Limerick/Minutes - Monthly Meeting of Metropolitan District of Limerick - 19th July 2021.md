@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01a-draft-minutes-monthly-meeting-19th-july-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ON MONDAY, 19TH** **JULY, 2021 at 09:45 A.M.**

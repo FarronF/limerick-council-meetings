@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/00-agenda-annual-meeting-of-the-municipal-district-of-adare-rathkeale-25th-june-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae
 
 a
@@ -63,5 +67,6 @@ until the next Annual Meeting or until a successor has been elected.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach |
 
 Corporate Headquarters, Merchants Quay, Limerick.
+
 
 ---

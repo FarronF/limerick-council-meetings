@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%2010th%20January%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach — Bardasach Ath Dara-Rath Caola,
 
 Comhairle Cathwach agus Contae Luimnigh.
@@ -56,8 +60,10 @@ mhamnamang [20 aco
 Ceanncheathri Chorpardideach, Cé na gCeannaitheuimneach | www.limerickie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development and Enterprise Directorate
 Proposed Rathkeale Local Area Plan 2023 — 2029
 
@@ -87,5 +93,6 @@ Meeting be held in the Adare Recreation and Community Complex at The Manor Field
 Adare.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

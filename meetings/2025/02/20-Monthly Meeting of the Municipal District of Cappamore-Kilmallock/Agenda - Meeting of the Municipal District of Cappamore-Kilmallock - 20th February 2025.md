@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/01-agenda-ck-md-meeting-20th-feb-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Golieach agus Contae Luimnigh,
 & Contae Luimnigh Oifig an Cheantam, Aras M) grit .
 noe a ‘ Cu c ‘
@@ -48,8 +52,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office v
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest
 
 3. Deputation
@@ -85,8 +91,10 @@ Doon.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -131,8 +139,10 @@ Notice of Motion submitted by Councillor Carey
 that immediate action is undertaken on the road leading to Killeenavere Quarry,
 Dromkeen, Co. Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -149,5 +159,6 @@ Notice of Motion submitted by Councillor Conway
 I will move at the next meeting of the Cappamore-Kilmallock Municipal District
 that Limerick City & County Council review the existing drainage systems at
 Maiden Hall, Kilmallock, Co. Limerick.
+
 
 ---

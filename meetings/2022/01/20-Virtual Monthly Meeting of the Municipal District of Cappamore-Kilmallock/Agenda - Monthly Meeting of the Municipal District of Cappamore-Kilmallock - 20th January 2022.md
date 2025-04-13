@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-agenda-for-municipal-district-meeting-jan-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14" January 2022.
 
 A Chomhairleoir, a chara,
@@ -38,8 +42,10 @@ To set a date for a Workshop to discuss Civic reception
 
 Update on GMA Community Grants
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 6. Notice of Motion submitted by Councillor Egan
@@ -77,5 +83,6 @@ intersection (R516/L1415) in Meanus.”
 
 “4 will ask at the next meeting of the Cappamore Kilmallock Municipal District for an update on
 the Taking in Charge of Glenstal Gate Estate, Murroe.”
+
 
 ---

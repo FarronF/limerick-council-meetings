@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_draft_budgetary_plan_2017_for_the_municipal_district_of_adare-rathkeale_-_25th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Seirdhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -40,5 +44,6 @@ AGENDA
 1 = customerservices@limerick.te
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ vewewslimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
 
 ---

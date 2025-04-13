@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/02%20Minutes%20March%202019%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN COMMUNITY
 CENTRE, GALBALLY CO. LIMERICK, ON THURSDAY, 28" FEBRUARY,
@@ -41,8 +45,10 @@ pillars of sustainability: Social, Economic and Environmental. She confirmed tha
 mission is to protect, enhance and cherish the rivers and lakes of the Maigue catchment for
 the benefit and enjoyment of all.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 She acknowledged the contribution of Limerick City & County Council in facilitating and
 supporting the formation of the Trust from the outset. The formation of the Trust was also
 consistent with one of the objectives of the current River Basin Management Plan for Ireland,
@@ -87,8 +93,10 @@ any planning permission being granted. Finally, they requested that a further up
 provided at the May 2019 Meeting on the taking in charge of these eleven estates in the
 Municipal District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Operations & Main rvices-Threshold Project
 
 The Executive Engineer, Cappamore Kilmallock and the Executive Engineer Operations &
@@ -123,8 +131,10 @@ Comhaltas Fleadh
 
 Glenbrohane Defibrillator Project
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 tala A
 (a a,
 lh
@@ -155,8 +165,10 @@ months. Subject to the confirmation of the CPO stage and approval of Transport
 Infrastructure Ireland (TIl), the Mid West National Road Design Office will commence the
 tender process for the construction of the scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion
 
 8. Notice of Motion submitted by Councillor Brigid Teefy
@@ -197,8 +209,10 @@ roads and junctions and proper signage was also important for Tidy Towns purpose
 also agreed that, given the cost of signage, that consideration should be given to the logging
 of signage as an asset and the possible use of barcoding on signage for identification purposes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 rM Arising:
 
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the following
@@ -226,5 +240,6 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

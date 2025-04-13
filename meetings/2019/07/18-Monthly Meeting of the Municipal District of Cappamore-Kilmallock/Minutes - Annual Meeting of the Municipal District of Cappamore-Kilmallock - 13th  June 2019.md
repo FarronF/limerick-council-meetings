@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%20Minutes%20MD%20Annual%20Meeting%2013th%20%20June%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -43,8 +47,10 @@ As there were no other nominations, the outgoing Cathaoirleach declared Councill
 elected as Cathaoirleach of the Municipal District of Cappamore-Kilmallock. The Members
 congratulated Cllr Donegan on his election and wished him well for the year ahead.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On taking the Chair, Councillor Donegan thanked his Proposer and Seconder and said he was
 looking forward to working with the Members, Management and Staff over the next twelve
 months in his role as Cathaoirleach of the Municipal District of Cappamore-Kilmallock.
@@ -89,5 +95,6 @@ Cathaoirleach and wished them well in the year ahead.
 This concluded the Meeting.
 
 Signed:
+
 
 ---

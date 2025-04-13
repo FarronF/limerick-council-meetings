@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/01%20%28a%29%20Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20January%202023.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE, ON

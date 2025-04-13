@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_26th_march_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -53,5 +57,6 @@ To consider approval of allocations under General Municipal Allocation-Special P
 
 Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © wwewlimerick.te
 Corporate Headquarters, Merchants Quay, Limerick wv @LimerickCouncil
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AE
 Limerick
 
@@ -74,8 +78,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 © weve timerick.te
 yw @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 QUESTIONS
@@ -118,8 +124,10 @@ charge and declaring Carrigogunnell Road in Ballybrown, Co. Limerick a Public Ro
 according to the Act. This road leads to Carrigogunnell Castle which attracts visitors /
 tourists on a regular basis.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -177,5 +185,6 @@ Notice of Motion submitted by Councillor Malachy McCreesh
 | will move at the next Meeting that the Council contacts Irish Water for an explanation of
 the ongoing main water burst along Childers Road, specifically at Sycamore Avenue
 (Rathbane) and Greenfields (Ballinacurra).
+
 
 ---

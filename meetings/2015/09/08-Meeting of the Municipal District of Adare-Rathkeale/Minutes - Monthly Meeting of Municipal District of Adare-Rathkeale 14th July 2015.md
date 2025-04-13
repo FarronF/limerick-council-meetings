@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2014th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 14™ JULY, 2015, AT 9.00 A.M.
@@ -43,8 +47,10 @@ And Resolved:
 (b) Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-
 Rathkeale held on 9" June, 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Sheahan;
 Seconded by Councillor Keary;
 And Resolved:
@@ -94,8 +100,10 @@ ability. The delegation then withdrew from the Meeting.
 
 It was agreed that Item 8 would be taken next.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Environment and Water
 Bleach Lough Anglers Ltd.
 
@@ -137,8 +145,10 @@ seeking funding from the Office of Public Works (OPW) and that the tender proces
 commence during the week. Members requested that when the contract was awarded a
 press release would issue at the same time to inform the public.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 5. Economic Development and Planning
@@ -193,8 +203,10 @@ Members were advised that the document before them was not the final Plan, but a
 Socio-Economic Statement, including High Level Goals, derived from a Socio-Economic
 Analysis of Limerick City and County prepared by Dr. Eileen Humphreys (UL) and
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 s
 
 Bernadette Quinn on behalf of the Local Community Development Committee. Members
@@ -241,8 +253,10 @@ vicinity of the Kilcornan primary school and entrance to the Ger McDonnell all-
 weather playing facility/Kilcornan Community Centre together with enhanced traffic
 calming/safety measures at this location.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 Members expressed their concern regarding road safety at Kilcornan and other locations
@@ -287,8 +301,10 @@ authority can provide by way of a GMA is dependent on the total level of income 
 to it, and the non-discretionary costs that must be met as a first call on that income,
 including at municipal district level.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 The Chief Executive must consider the resource needs of the local authority in determining
@@ -335,8 +351,10 @@ Accordingly, setback of property boundaries is not an option. However the safety
 junction may be improved by introducing a mandatory STOP on 3 of the approaches,
 allowing right of way only for traffic travelling from the South towards the N69 (Killeen
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 Guesthouse Junction). There is a Statutory process involved in the introduction of this
@@ -382,8 +400,10 @@ for the outstanding works. It is therefore intended to make an application under
 Development Fund Allocation for Unfinished Estates in 2016 in order to secure the
 balance of funding.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 17. Notice of Motion submitted by Councillor S. Keary
 
@@ -428,8 +448,10 @@ for General Operatives / Drivers.
 increased by at least 50% to allow the urgent upgrading of the road network around
 the District which is dangerously unfit for purpose.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 During the course of their discussion Councillor O'Donoghue indicated that there was
@@ -474,5 +496,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

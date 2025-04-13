@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AD
 
 . —-
@@ -59,8 +63,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerickie
 w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development & Planning
 (a) Part 8 — Rathkeale Enterprise Centre, Rathkeale Industrial Estate, Rathkeale
 
@@ -101,8 +107,10 @@ in the District are maintained to allow the safe passage of all road-users.
 Rathkeale District in order that basic road maintenance standards can be achieved in the District,
 in the interest of public health and safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -155,8 +163,10 @@ expressed wishes of the people and the misbehaviour of significant numbers of pe
 misbehaviour of significant numbers of people in Askeaton, that Askeaton Garda Station would
 be fully staffed at the first available opportunity.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -168,5 +178,6 @@ monitoring in designated areas of the Adare-Rathkeale District to assist in the 
 detection of rural crime.
 
 Correspondence
+
 
 ---

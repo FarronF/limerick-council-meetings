@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%202019-02-06%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ —<- Duiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -60,8 +64,10 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach oe wewsimerick.te
 
 Crenarata Uesdemiartare Marchante Quau Miemaricl et A imate Crnmertt
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11,
@@ -116,8 +122,10 @@ Notices of Motion submitted by Councillor L. Galvin
 
 | will move at the next Meeting that a traffic management plan be created for Collins,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -152,5 +160,6 @@ Knockaderry be taken in charge by Limerick City and County Council.
 in lighting at Cregan’s Cross on the N21 as you turn off for Knockaderry.
 
 Correspondence
+
 
 ---

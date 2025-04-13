@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%2017th%20July%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 y
 
 _—_——" Comhairle Cathrach
@@ -79,8 +83,10 @@ w @LimerickCouncil
 
 ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -127,8 +133,10 @@ Committee, and when is it envisaged that this committee will begin to meet regul
 current spend so far this year on horse control, the number of horses seized, the number
 reclaimed, and the number put down.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -182,8 +190,10 @@ Notice of Motion submitted by Councillor J. Costelloe
 of Bryan Whelan and T. J Herlihy, who died tragically while restoring Thomond Bridge on
 the 29th of August 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -211,5 +221,6 @@ Economic Development Directorate
 
 To receive Presentation from SIRO, a joint venture between the ESB and Vodafone, on the
 deployment of high speed broadband in the city.
+
 
 ---

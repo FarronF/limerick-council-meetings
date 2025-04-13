@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-newcatlse-west-15th-january-2025.pdf)
+
+---
 (Image omitted)
 
 Comhairle Cathrach

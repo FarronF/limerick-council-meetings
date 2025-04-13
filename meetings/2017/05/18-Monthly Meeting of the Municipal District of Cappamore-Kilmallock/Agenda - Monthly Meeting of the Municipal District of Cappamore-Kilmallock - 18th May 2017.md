@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018th%20May%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 il Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -59,8 +63,10 @@ To note proposal for the disposal of land at:
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Lubmneach yw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 CareBright, Bruff
@@ -95,5 +101,6 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 1 will move at the next Meeting that Limerick City and County Council start work in order to
 improve visibility at the dangerous junction outside the church in Bulgaden and improve road
 markings and signage and take precautions to reduce speed on this route.
+
 
 ---

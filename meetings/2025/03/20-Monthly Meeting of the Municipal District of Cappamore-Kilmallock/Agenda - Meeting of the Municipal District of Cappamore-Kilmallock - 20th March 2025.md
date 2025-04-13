@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-march-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach — in Chetan Anke Decne ne ;
 
 & Contae Luimnigh Olfig an Cneantair, Aras “Cl Mochesig.
@@ -52,8 +56,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 7.
@@ -97,8 +103,10 @@ ion subm ncill
 works re the Market House and the Old Creamery, Kilfinane and what are the next steps for both
 projects.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor Conway
 
 | will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an update
@@ -136,5 +144,6 @@ Kilmallock, Co. Limerick.
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District that safety
 measures be put in place on a section of the road edge on the R513 at Boskill, Caherconlish
 where there is only a grass margin on the boundary of the road.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Council-Meeting-22-05-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ? Sewbhisi Corparaideacha.
 
 a pa acl} prbore Comhairle Cathrach agus Contae Luimnigh,
@@ -59,8 +63,10 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) 7, Claughaun Court, Garryowen, Limerick.
 
 (f} 75, Carey's Road, Limerick.
@@ -118,8 +124,10 @@ Act, 2014).
 (Unaudited Annual Financial Statement and Report from Chief
 Executive already circulated)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (4)
@@ -168,8 +176,10 @@ To consider the approval of Sectoral Nomination to the Travel and
 Transportation Strategic Policy Committee.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 )
 
 (k)
@@ -232,8 +242,10 @@ and Planning Strategic Policy Committee held on 24" April, 2023.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 1)
 
 (iv) | Chairperson’s Report — Meeting of Travel and Transportation Strategic
@@ -282,8 +294,10 @@ Treatment Plant Upgrade Scheme.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -323,8 +337,10 @@ Question submitted by Councillor E. O’Donovan
 times of tourist information centres that will be open during Summer 2023 in Limerick
 City and County.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -376,8 +392,10 @@ twill move at the next Meeting that Limerick City and County Council correspond 
 the President of the GAA to request that championship matches be aired on terrestrial
 television free of charge.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -401,5 +419,6 @@ include the automatic inclusion of Local Authority Elected Members on the boards
 Higher Education Boards.
 
 Correspondence
+
 
 ---

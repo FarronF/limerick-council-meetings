@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda-23rd-April-2019-Environment-SPC-Meeting.pdf)
+
+---
 **15th** **April, 2019**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**

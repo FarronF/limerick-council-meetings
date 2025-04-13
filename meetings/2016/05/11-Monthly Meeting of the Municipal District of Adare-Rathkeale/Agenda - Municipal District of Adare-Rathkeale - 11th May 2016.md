@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20May%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_——" Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -43,8 +47,10 @@ Rathkeale, Co. Limerick. (Item to be taken at 10.30 a.m.).
 Ceanncheathrai Chorpardideach, Cé na gCeannaithe, Luimneach @ www limericikie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Corporate Services
 Meeting of Municipal District
 
@@ -80,8 +86,10 @@ To note update on the provision of a new sewerage treatment plant in Askeaton.
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -124,5 +132,6 @@ on workmanship, experience and references rather than just price. The lowest ten
 mean the best work.
 
 Corresponden
+
 
 ---

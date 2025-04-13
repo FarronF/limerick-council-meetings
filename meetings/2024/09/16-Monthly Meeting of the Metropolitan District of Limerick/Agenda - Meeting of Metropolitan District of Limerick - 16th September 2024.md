@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-agenda-meeting-of-metropolitan-district-of-limerick-16th-september-2024.pdf)
+
+---
 (Image omitted)
 (Image omitted)
 (Image omitted)

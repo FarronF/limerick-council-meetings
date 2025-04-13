@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20-%2022nd%20Oct%202019%20Climate%20Action%2C%20Biodiversity%20Env%20SPC%20Meeting.pdf)
+
+---
 **16th** **October, 2019**
 
 **To: The Chairperson and Each Member of the Climate Action, Biodiversity and**

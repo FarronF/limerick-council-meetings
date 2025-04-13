@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee%2012th%20June%202017.pdf)
+
+---
 **6th** **June, 2017**
 
 **To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**

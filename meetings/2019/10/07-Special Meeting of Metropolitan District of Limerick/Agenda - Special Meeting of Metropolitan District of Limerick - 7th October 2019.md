@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20Special%20Meeting%20of%20Metropolitan%20District%20-%20Monday%2007.10.19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Comhairle Cathrach
 
 & Contae Luimnigh
@@ -59,5 +63,6 @@ im customerservices@limerickic
 @ worwtimerick.ie
 
 (061 - 557150
+
 
 ---

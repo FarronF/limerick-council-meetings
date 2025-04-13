@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%202023-02-10%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%20%2010th%20February%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Disiche Bardais an Chaisleain Nua Thiar,
 _—_—_—_ & Contae Luimnigh Comhairte Cathrach agus Contae Luimnigh,
 
@@ -52,8 +56,10 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Disposal of Land
@@ -100,8 +106,10 @@ West will be tenanted.
 ! will ask at the next Meeting that remedial work be undertaken on the section of the
 road linking the River Arra and the Bridge of Tears Roundabout.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -160,8 +168,10 @@ people especially on higher ground.
 | will move at the next Meeting that a disability bay be put in place down Whites
 Passage, Meenoline South next to the Greenway.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Notice of M Hor J.
@@ -174,5 +184,6 @@ Notice of Motion submitted by Councillor M. Collins
 
 | will move at the next Meeting that Scanlan’s Lane, Newcastle West, be made a one
 way system towards Assumpta Park in the interest of pedestrian and vehicular safety.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_metropolitan_district_-_20th_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -49,8 +53,10 @@ e Dwelling house situate at 20, Linden Court, Kennedy Park, Limerick;
 Ceanncheathrui Chorpardideach, Cé na gCeannaithe, Luimneach © wwwalimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Economic Development and Planning
@@ -101,8 +107,10 @@ Limerick City and County Council put plans in place immediately to make safe
 this amenity, reopen the path to the public and allow for an increase in the water
 flow between the River Shannon and Westfield Lake and visa versa.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor Joe Leddin
 
 . [will move at the next Meeting that Limerick City and County Council carry out
@@ -147,8 +155,10 @@ ability to park on the street outside their homes whether by a permit system or
 
 more permanent designated parking.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Councillor Malachy McCreesh
 
 13.1 will move at the next Meeting that an immediate response is required from
@@ -195,8 +205,10 @@ Limerick’, which is ‘Ceantar Cathrach Luimnigh’ in the Council Chamber,
 
 Merchant's Quay.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motion submitted by Cmhir. Séighin O Ceallaigh
 19.1 will move at the next Meeting that Limerick City and County Council provide a
 
@@ -207,5 +219,6 @@ Notice of Motion submitted by Councillor Gerry O’Dea
 
 20.1 will move at the next Meeting that Limerick City and County Council address the
 long term future and plans for our municipal golf course at Rathbane.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2011th%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——
 Limerick
 CITY & COUNTY
@@ -68,8 +72,10 @@ To recap on presentation from previous Meeting and discuss the following:
 © wevewlimerickie
 w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ne
 
 NOTICES OF MOTION ADJOURNED FROM PREVIOUS ING
@@ -105,5 +111,6 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District that the
 Council allocate €1,500 from the general municipal allocation to the Knocklong &
 Glenbrohane parish journal which has not been published in 20 years.
+
 
 ---

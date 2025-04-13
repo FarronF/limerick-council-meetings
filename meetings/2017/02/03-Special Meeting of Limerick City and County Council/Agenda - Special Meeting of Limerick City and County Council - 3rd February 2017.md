@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_special_meeting_of_limerick_city_and_county_council_-_3rd_february_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 =
 =!
 
@@ -61,5 +65,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 061 - 496200
+
 
 ---

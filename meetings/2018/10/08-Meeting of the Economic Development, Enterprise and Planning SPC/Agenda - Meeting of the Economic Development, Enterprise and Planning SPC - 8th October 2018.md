@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%20of%20SPC%208th%20of%20October%202018.pdf)
+
+---
 25th September 2018
 
 **To/Each Member of the Economic Development, Enterprise and Planning**

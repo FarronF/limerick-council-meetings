@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20Minutes%2021st%20January%202019%20%282%29.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE COUNCIL CHAMBER, MERCHANT'S QUAY, LIMERICK, ON MONDAY, 21% JANUARY, 2019 AT
 9.45 A.M.
@@ -44,8 +48,10 @@ Clir D. Butler, Mayor of the Metropolitan District wished to acknowledge the suc
 Munster Rugby team at the weekend, in qualifying for the Quarter Finals of the European
 Champions Cup, and the positive experience had by the visiting Exeter Supporters.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Capital Investment Directorate
 
 Pp ure-G Pl Rosbrien Road
@@ -98,8 +104,10 @@ e 13 sites added to Limerick City and County Council Vacant Site Register in Jun
 e 3 Appeals to An Bord Pleanala in respect of entry of the Vacant Sites Register.
 e 7% levy of the market value of the vacant site will be charged 1* January 2020.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ms S. Hourigan, in her role as Vacant Homes Officer, outlined that the Councils objectives in
 relation to vacant homes were mapping of vacant homes to gain an accurate picture of vacancy
 and re-activation of vacant homes in particular in areas of high demand for social housing.
@@ -147,8 +155,10 @@ Bed and Breakfast:
 
 Total 35 families including 52 adults and 69 children.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Mid West Simon Family Hub, Dublin Road:
 
 7 single parents with 14 children
@@ -202,8 +212,10 @@ plans to enhance/decorate the Municipal and Utility Boxes in the Metropolitan Ar
 REPLY: | recommend that this item be referred for discussion at the next Cultural SPC
 meeting of 12" February, 2019.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 8. Question submitted by Councillor S. Lynch
@@ -253,8 +265,10 @@ rubbish, the lack of evidence recovered, the operations of unpermitted waste
 collectors and increasing number of households availing of approved refuse
 collection arrangement.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 11. Question submitted by Comhairleoir S. 6 Ceallaigh
@@ -307,8 +321,10 @@ REPLY: There are Roads and footpaths in Ballynanty that require attention. These
 considered for inclusion in the 2019 Schedule of Municipal District Works subject
 to funding.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 14. Question submitted by Councillor J. Costello
@@ -382,8 +398,10 @@ List of approved properties:
 6 Herbert Grove, Castletroy View
 7 Crannog, Dublin Road
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17 The Gables, Pennywell
 20 Parkview
 
@@ -446,8 +464,10 @@ The zoning of the portion of land that failed to transfer to the Council remains
 unchanged and is per the Southern Environs Local Area Plan 2011-2017 as
 extended until 2021.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9
 
 The zoning is Open Space and Recreational.
@@ -501,8 +521,10 @@ Gilligan
 We will move at the next Limerick Metropolitan Meeting, to agree to nominate the following
 groups with the below amounts, out of the General Municipal Allocation:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 St. Mary’s Adult Education Centre
 St. Mary’s Prize Band
 
@@ -562,8 +584,10 @@ J. Leddin, S. Lynch, J. Loftus, and M. McCreesh)
 
 This Motion was proposed by Councillor Leddin, seconded by Cllr Lynch and agreed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Leddin and seconded by Cllr Lynch, it was agreed to allocate €3,000
 to the following:
 
@@ -610,8 +634,10 @@ the existing provision of facilities across Limerick City and County and inform 
 strategy that would seek to ascertain future needs. It is the intention of the Social
 Development Directorate to commence work on this in the first quarter of 2019.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion Councillor Hogan welcomed the audit and queried with the Executive
 the timeframe for completion date of the audit.
 
@@ -660,8 +686,10 @@ Suspension of Standing Orders:
 On the proposal of Councillor J. Costelloe, seconded by Councillor J. Gilligan Standing Orders were
 suspended in order to complete the Agenda.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13
 
 23. Notice of Motion submitted by Councillor M. Hurley
@@ -712,8 +740,10 @@ Orders for 10 minutes in order to complete the Agenda.
 the ending of one tenancy and the re-letting of the house under a new tenancy so as to reduce
 the number of unoccupied council owned houses.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14
 
 REPLY: The Service Operations Section are currently working on a review of both the
@@ -736,5 +766,6 @@ Signed:
 MAYOR
 
 Dated:
+
 
 ---

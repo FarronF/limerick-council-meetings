@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 2"? MARCH, 2016, AT 10:00 A.M.
@@ -47,8 +51,10 @@ the region.
 
 Mr. O’Ruairc also spoke of the proposal by the Office of Public Works to rename the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Castle to “Newcastle West Medieval Complex”. Members expressed concern at this
@@ -98,8 +104,10 @@ Newcastle West, Co.Limerick.
 ¢ Disposal of Freehold Interest in dwelling house situate at Glensharrold,
 Carrickerry, Ardagh, Co.Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 6.
@@ -162,8 +170,10 @@ REPLY: The Roads crew is currently engaged in reconstruction works and will ende
 
 to have this matter addressed when resources permit.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 NOTICES OF MOTION
@@ -220,8 +230,10 @@ is being granted and details of the allocation for the Newcastle West Municipal
 
 District are awaited.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -286,8 +298,10 @@ Councillor Collins stated that he had been informed that a proposal was made bac
 the 1960s to rename The Square in Newcastle West to Con Colbert Square. It was
 proposed to follow up on this and revert back in light of the 1916 Commemoration.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Following brief discussion on Cois na Feile, Athletics Track and Road Works Scheme
 it was agreed to hold a Special Meeting “in committee” of the District on Tuesday, 22
 March, 2016.
@@ -299,5 +313,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

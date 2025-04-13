@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/02-minutes-budget-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD
 IN THE DEEBERT HOUSE HOTEL, DEEBERT, KILMALLOCK, CO.
@@ -37,8 +41,10 @@ Executive to the General Municipal Allocation with €295,000 of this assigned t
 District of Cappamore-Kilmallock, which was the second highest allocation to a District after
 the Metropolitan District allocation.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The proposed breakdown was outlined as follows:
 
 [ Service _ General Municipal Allocation-2021 Cappamore-Kilmallock MD
@@ -76,5 +82,6 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%2010th%20April%2C%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AO
 
 a
@@ -73,8 +77,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Regional Services Directorate
 P. Road Improvemen rks at
 
@@ -113,8 +119,10 @@ To note update on proposed traffic calming scheme for Kilcornan.
 
 w
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -138,7 +146,10 @@ Flooding Issues in Foynes
 To note update on flooding issues in Foynes.
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

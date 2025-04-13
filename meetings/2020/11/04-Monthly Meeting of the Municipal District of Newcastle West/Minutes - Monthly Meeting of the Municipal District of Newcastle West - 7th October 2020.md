@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01a-2020-10-07-minutes-october.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -45,8 +49,10 @@ And Resolved:
 
 (b) Circulated, copy of draft Minutes of Meeting of the Adjourned Meeting of the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Municipal District of Newcastle West held on 9" September, 2020.
 
 Proposed by: Councillor Collins
@@ -90,8 +96,10 @@ Circulated, report of Administrative Officer, Urban & Rural Community Developmen
 The Members agreed to allocate funding to the organisations as outlined in the report. This
 was proposed by Councillor Galvin and seconded by Councillor Scanlan.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ss. General Municipal Allocation (GMA)
 
 On the proposal of Councillor Scanlan, seconded by Councillor Sheahan, it was agreed to
@@ -138,8 +146,10 @@ water to the Abbeyfeale Water Treatment Plant.
 
 REPLY:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e In early 2016, following extreme floods, a breach formed on the River Feale. The
 breach occurred when flood waters bypassed the existing meander, the natural course
 of the river and instead flowed through an existing drainage channel. If left unchecked
@@ -184,8 +194,10 @@ localrepsupport @water.ie or by phone at 1890 178 178.
 Councillor Foley acknowledged the response received from Irish Water but also referred
 to the ongoing issue with regard to river erosion at the town park.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 NOTICE OF MOTION FROM SEPTEMBER MUNICIPAL DISTRICT
@@ -232,8 +244,10 @@ pre 2016. While it is accepted that there has been erosion at the Public Park, I
 Water’s position is that this did not occur as a result of the emergency works
 undertaken.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 e Irish Water does not have jurisdiction to undertake any further works on the River
 Feale and so it is respectfully suggested that contact be made with the OPW to further
 discuss the matter.
@@ -285,8 +299,10 @@ mitigate the blockages and need for repeated jetting/cleaning out. A proposal wa
 
 6
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Irish Water for approval and recently a purchase order has been issued to a Contractor to
 undertake the work. A start date is awaited for this work and LCCC will continue to closely
 monitor the manhole in the interim. LCCC will seek to progress the remedial works as a matter
@@ -335,8 +351,10 @@ receiving Rental Accommodation Scheme Support (RAS).
 
 6 households are approved.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Of the 358 households who have expressed an interest in being house in NCW they are
 categorised as follows: 173 - First preference, 53 — second and 132 — third.
 
@@ -368,8 +386,10 @@ from 2016 to 2020 along with the numbers acquired in the same period through Sec
 
 obligations.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 Please find the table below showing the acquisitions in the Newcastle West Municipal District
@@ -410,8 +430,10 @@ acceptable on the discs both day and night.
 The playback issue is not apparent in any of our discs assessed and may be a user issue. VLC
 player is recommended.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 These cameras include panoramic cameras, which are a collection of cameras reviewing a 360
 degree aspect.
 
@@ -461,8 +483,10 @@ commitment that all essential upgrade works on residential properties purchased 
 
 10
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Authority be undertaken immediately once property purchased, in order that those homes
 are tenanted within a 6 month timeframe from the date of purchase.
 
@@ -507,8 +531,10 @@ followed and it was agreed that a list of traders and map would be circulated.
 
 11
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19. Notice of Motion submitted by Councillor M. Collins
 
 ! will move at the next Meeting that Limerick City and County Council engage with the
@@ -556,8 +582,10 @@ along with two Elected Members and three Council officials.
 
 12
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Senior Executive Engineer referred to the workshop, which was to take place with the
 Consultants regarding the Newcastle West Public Realm and Traffic Movement Plan. It was
 agreed that an online workshop would take place on Wednesday, 14” October, 2020, at 2.30
@@ -575,7 +603,10 @@ Dated:
 
 13
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

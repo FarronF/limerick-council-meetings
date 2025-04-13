@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-meeting-of-metropolitan-district-19th-october-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 eer —— Limerick City
@@ -61,8 +65,10 @@ m customerservices@limerick.ie
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows :
 
@@ -108,8 +114,10 @@ in accordance with Section 131A and Schedule 14A of the Local Government Act 200
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 6. Question submitted by Councillor D. McSweeney
@@ -147,8 +155,10 @@ in November last year, and when is it due to be completed.
 I will ask at the next meeting if “Residents Only” signs and permits can be installed in housing estates
 on roads surrounding University Hospital Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next meeting if Limerick City and County Council will review fish passage at the
@@ -180,8 +190,10 @@ to Breska Rovers FC with the prospect of securing funding for this project in ne
 explore the use of body cams for traffic wardens in the city area for any staff who would wish to use
 them as a security measure.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18. Notice of Motion submitted by Councillor S. Kiely
 
 | will move at the next meeting of Limerick Metropolitan District that we write to the Minister for
@@ -198,5 +210,6 @@ fought at the siege of Jadotville.
 
 20. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

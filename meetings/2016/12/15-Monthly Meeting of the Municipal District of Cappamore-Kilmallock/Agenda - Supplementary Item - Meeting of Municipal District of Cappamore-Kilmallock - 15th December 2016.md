@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_supplementary_item_-_15th_december_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirdhisi Corpardideacha.
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -46,5 +50,6 @@ Meetings Administrator.
 © weevelimerickie
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
+
 
 ---

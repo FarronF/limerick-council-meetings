@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20of%20Draft%20Budgetary%20Plan%20Municipal%20District%20of%20Newcastle%20West%20-%2021st%20October%202.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
 
 OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ÁRAS

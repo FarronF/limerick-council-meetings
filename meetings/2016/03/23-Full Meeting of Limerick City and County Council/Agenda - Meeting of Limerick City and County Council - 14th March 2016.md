@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2014th%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbnisi Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -48,8 +52,10 @@ To consider proposal for the disposal of land at
 (b) 13, Donnellans Buildings, Rosbrien, Limerick.
 (c) 16, Flood Street, Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (d)
@@ -102,8 +108,10 @@ Maurice Quinlivan to Dail Eireann:
 e Travel and Transportation SPC.
 e Home and Social Development SPC.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (iv) To consider the nomination of a replacement to the following
@@ -153,8 +161,10 @@ Company Limited.
 Limerick 2020 consequent on the election of Councillor Tom Neville to
 Dail Eireann:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (d) Chief Executive’s Report
 
 To consider Chief Executive’s Reports for the months of January and
@@ -190,8 +200,10 @@ for Fair Conditions of Employment.
 
 (This item will be taken at 4.30 pm)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Conferences
@@ -252,8 +264,10 @@ Questions submitted by Councillor C. Prendiville
 for water rates available for charities and voluntary organisations who are struggling
 on reduced budgets.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -300,8 +314,10 @@ Committee,
 | will move at the next Meeting that a Policy be adopted to install Carbon Monoxide
 Detectors in all Social Housing Units within the jurisdiction of this Authority.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -331,5 +347,6 @@ to reverse the creeping privatisation of ambulance services in the Mid-West.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

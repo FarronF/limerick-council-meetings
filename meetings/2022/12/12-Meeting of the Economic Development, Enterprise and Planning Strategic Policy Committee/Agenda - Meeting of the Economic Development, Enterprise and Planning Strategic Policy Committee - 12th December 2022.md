@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda-Economic-Development-Enterprise-Planning-SPC-Meeting-12th-December-22.pdf)
+
+---
 **25th** **November, 2022**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**

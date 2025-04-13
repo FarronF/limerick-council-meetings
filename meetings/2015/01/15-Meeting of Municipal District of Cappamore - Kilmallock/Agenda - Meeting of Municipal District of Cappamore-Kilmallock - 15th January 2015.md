@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_15th_january_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,8 +59,10 @@ Water Treatment Plant in Oola.
 Ceanncheathni Chorpardéideach, Cé na gCeannaithe, Luimneach © vewewlimerickie
 Corporate Headquarters, Merchants Quay, Limerick YW @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 nw
@@ -71,5 +77,6 @@ Notice of Motion submitted by Councillor W. O'Donnell
 | will move at the next meeting that Limerick City and County Council engage with all Tidy
 Towns Committees to ascertain what assistance can be given in advance of this years
 Tidy Towns Competition.
+
 
 ---

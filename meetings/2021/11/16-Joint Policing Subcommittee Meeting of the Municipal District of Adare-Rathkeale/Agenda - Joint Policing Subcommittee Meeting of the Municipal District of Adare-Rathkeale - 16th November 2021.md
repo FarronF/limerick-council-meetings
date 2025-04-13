@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-16th-november-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 & Contae Luimnigh Cormihawte Cathrach agus C = rsa
 aArmN fr \ vas Séan Finny
@@ -38,5 +42,6 @@ Corporate Headquarters, Merchants Quay, Limerick. y
 
 @LimerickCouncil
 \ 061 - 556 000
+
 
 ---

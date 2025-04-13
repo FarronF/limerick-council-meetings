@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-2021-12-01-agenda-december-.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ ar Habra Cathrach
 ontae Luimnigh
 ans” , oe
@@ -76,8 +80,10 @@ www.timerick.te
 @LirnerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -129,8 +135,10 @@ Question submitted by Councillor J, Scanian
 | will ask at the next Meeting when will the replication of property numbering at
 Daar River Walk and Daar River View, Newcastle West be resolved.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -165,5 +173,6 @@ and County Council to the Housing Aid for the Elderly, the Mobility Aid and the
 
 Housing Adaption grants take place immediately and that Councillors be allowed
 participate in the review.
+
 
 ---

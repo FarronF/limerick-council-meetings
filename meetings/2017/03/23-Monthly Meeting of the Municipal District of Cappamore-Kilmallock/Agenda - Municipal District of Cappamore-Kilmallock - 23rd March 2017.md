@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-03-23_meeting_agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrbiiisi Corparaideacha.
 > Comhairle Cathrach agus Contae Luimnigh,
 
@@ -63,8 +67,10 @@ customerservices@limerick.ic
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 General Municipal Allocation
 
 To consider approving allocations under the General Municipal Allocation to the Local
@@ -99,8 +105,10 @@ Amendment to County Development Plan
 
 To receive a presentation in relation to the Northern Distributor Road.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -140,5 +148,6 @@ Notice of Motion submitted by Councillor G. Mitchell
 | will move at the next Meeting that Hospital Waste Water Treatment Plant be
 immediately upgraded, as a matter of urgency, to make it fit for purpose to comply
 with present regulations.
+
 
 ---

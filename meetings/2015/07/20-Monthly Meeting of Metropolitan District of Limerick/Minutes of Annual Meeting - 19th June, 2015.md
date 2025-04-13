@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Annual%20Meeting%20-%2019th%20June%2C%202015.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF
 
 METROPOLITAN DISTRICT OF LIMERICK HELD IN THE

@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_environment_spc_meeting_-_12th_december_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——
 
 AN f™
@@ -26,8 +30,10 @@ PHYSICAL DEVELOPMENT DIRECTORATE
 
 POLICY COMMITTEE—
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Agenda
 
 . Minutes
@@ -42,5 +48,6 @@ held on the 25" October, 2016.
 2015 — 2021
 
 . Update on Recent Waste Legislative Developments
+
 
 ---

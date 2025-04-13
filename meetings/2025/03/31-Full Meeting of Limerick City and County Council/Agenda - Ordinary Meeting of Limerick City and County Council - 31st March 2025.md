@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-ordinary-meeting-of-limerick-city-and-county-council-31st-march-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——_ Comhairle Cathrach Comhairle Cathra fan Carica LabTolaae
 . . Orns e wacn, & a ee Lu ‘ugh,
 ai > & Contae Luimnigh Ceanncheathna Chorparaideach,
@@ -54,8 +58,10 @@ Housing Directorate
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach ¥ @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rural, Community, Culture and Tourism Development Directorate
 
 General Disposals
@@ -106,8 +112,10 @@ Statement for Year ended 31% December, 2023.
 Members of Limerick City and County Council for the Year ended
 31* December, 2023.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (d)
@@ -156,8 +164,10 @@ Limerick Civic Trust - Vacancy
 To consider the filling of vacancy on Limerick Civic Trust following the
 resignation from the Trust of the Council’s nominee, Councillor Talukder.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (s)
 
 (h)
@@ -212,8 +222,10 @@ Recommendation:
 2025-2030 be adopted at the next sitting of the Full Council.”
 (Report, Executive Summary and Draft Plan Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iv) | Chairperson’s Report — Meeting of the Community, Leisure, Arts,
 Heritage and Culture Strategic Policy Committee held on 12" March,
 
@@ -259,8 +271,10 @@ To consider approving recommended grants under the Arts Act, 2003.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (c) Individual Arts Bursary Awards 2025
@@ -302,8 +316,10 @@ a city-wide traffic management campaign around our major education institutions 
 employers for the wider benefit of local residential communities who are currently
 suffering from car parking issues on a regular basis.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9.
 
 10.
@@ -354,8 +370,10 @@ Question submitted by Councillor S. Benson
 | will ask at the next meeting if Limerick City and County Council has a dedicated
 fulltime Access Officer, with appropriate seniority and training.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -399,8 +417,10 @@ Question submitted by Councillor J. Scanian
 purchase in 2024 under Notice to Quit, Tenant in Situ and Rightsizing options, what
 the relating purchase monies amount to, and when completions are expected.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor N. Stokes
@@ -442,8 +462,10 @@ Government to enact the Occupied Territories Bill in full, and (b) Agrees to fly
 Palestinian flag outside Merchant’s Quay as a sign of solidarity with the people of
 Gaza, East Jerusalem and the West Bank. Note: (b) Referred to Protocol Committee.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 31.
 
 10
@@ -478,8 +500,10 @@ Notice of Motion submitted by Councillor S. Beasley
 Council for Limerick Lace to have a location where they can showcase their wares for
 tourists and interested parties.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Motion sub: Councillor S. Hickey-O'’Mara
 
 | will move at the next Meeting that this Council engage the services of a Sustainability
@@ -494,5 +518,6 @@ Limerick Development Plan 2022-2028 with a view to amending Planning Policies an
 a review of the current list of Protected Structures.
 
 Correspondence
+
 
 ---

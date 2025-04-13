@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_12th_may_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON TUESDAY, 12™ MAY, 2015, AT 9.00 A.M.
@@ -42,8 +46,10 @@ Members noted and approved the disposal of land as set out below:-
 
 e Ballymacave, Croagh
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Corporate Services
 
 Annual Meeting of Municipal District
@@ -91,8 +97,10 @@ this was a serious public health issue.
 The Senior Executive Engineer indicated that he would bring this issue to the attention of
 the Health Board and report back to Members on the outcome.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 5. Question submitted by Councillor Ciara McMahon
@@ -151,8 +159,10 @@ REPLY: The recruitment of staff is subject to sanction by the Department of the
 Environment. A staffing request is currently with the Department for a
 number of posts including General Operatives.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Limerick City and County Council has recently employed a number of
 temporary General Operatives. Interviews for additional temporary General
 Operatives are scheduled to take place on week ending 15” May, 2015.
@@ -198,8 +208,10 @@ Representative
 Prm Energy Sytems Inc. Ronald Bailey, President of company who design PRM
 gasification systems
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 CHO Power Marc Lefour, Director of CHO Power who operate the Plant in
@@ -253,8 +265,10 @@ The Visit was divided into three information gathering sessions
 1) Wednesday Evening — Open Discussions with Leonardo Reira, Environpower on
 the proposal
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 2) Thursday Morning — Site visit of the Gasification Plant in Morcenx, Tour given by
@@ -309,8 +323,10 @@ tannery waste as an example of effective odour control.
 Proximity of residents to the plant, ML stated that there were local residents within 250m of
 the Morcenx Plant.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members expressed their disappointment at the negative media coverage their trip to the
 gasification plant in France had received as the coverage had focused on the cost of the
 trip and that the plant was not fully operational during the visit. They pointed out that,
@@ -355,8 +371,10 @@ He indicated that this was a health threat and that no new houses should be buil
 Askeaton until a sewerage plant was built. He requested that Irish Water be written to
 outlining the need for a new sewerage plant for Askeaton.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 Councillor O’Brien indicated that the announcement of the shelving of the motorway
@@ -377,5 +395,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

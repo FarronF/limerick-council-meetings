@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%202017-10-18%20Minutes%20Draft%20Budgetary%20Plan%20Newcastle%20West.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
 WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON
@@ -47,8 +51,10 @@ Community Initiatives
 TOTAL: | General Municipal Allocation ss €225,000—~—“‘C*™S
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 The A/Head of Finance confirmed that it was necessary to assign the ‘Special Projects — LA
@@ -72,5 +78,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

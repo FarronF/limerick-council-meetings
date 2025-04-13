@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02-minutes-monthly-meeting-cappamore-kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN COLAISTE IOSAEF
 COMMUNITY COLLEGE, SHEARE’S ST, KILMALLOCK, CO. LIMERICK,
@@ -31,8 +35,10 @@ impressive buildings and facilities.
 With the agreement of the Elected Members, the Cathaoirleach proposed a vote of sympathy
 for all those who had perished in recent months because of the Covid 19 crisis and he praised
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 the work done by all frontline workers in facing the challenges encountered in dealing with
 Covid 19.
 
@@ -82,8 +88,10 @@ The Elected Members welcomed the significant amount of works and expenditure pro
 in the Schedule and thanked the Council staff for their assistance in the preparation of
 same. The Director, Support Services-Finance, Corporate, HR & ICT confirmed that a
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 presentation would be made to the Elected Members later in the year in relation to the
 completion of works contained in the Schedule of Municipal District Works 2020.
 
@@ -129,8 +137,10 @@ NOTICE OF MOTION
 5. Notice of Motion submitted by Councillor M. Ryan
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
 Limerick City and County Council and the Department of Transport, Tourism and Sport
 review the heavy traffic loading on the R513 Regional road from Caherconlish to
@@ -172,8 +182,10 @@ Limerick City and County Council write to the HSE and Manager of Shannondoc and 
 update and full clarity on this essential and necessary service which serves a huge area and
 what are its future plans.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Cilr Mitchell, seconded by Cllr Teefy and agreed that the Meetings
 Administrator would, on behalf of the Elected Members, write to Shannon Doc outlining
 the concerns expressed in the Notice of Motion and seek a reply to same.
@@ -213,8 +225,10 @@ the junction with the L5050 and the lining of the same junction.
 
 Reply:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Transport Infrastructure Ireland (Til) were contacted by Limerick City and County Council on
 the 12" March 2020 regarding the above issue. TIl responded and recommended that: “as
 there is no need to prevent overtaking other than on approach to this junction, the lining
@@ -256,8 +270,10 @@ and flooding Irish Water customers and public lands.
 Further investigation revealed that the cause of this overflow discharge to river was as a
 direct result of a partial network blockage further downstream.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Water Services Operatives later that evening removed a significant amount of debris and
 unblocked this sewer. It is my understanding that the sewer is now functioning as designed
 and that overflow discharges to the river have now ceased.
@@ -274,7 +290,10 @@ This concluded the Meeting.
 Signed: Date:
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

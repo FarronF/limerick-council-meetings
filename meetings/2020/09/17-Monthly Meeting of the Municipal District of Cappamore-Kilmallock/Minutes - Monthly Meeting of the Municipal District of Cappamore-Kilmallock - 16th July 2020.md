@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/04-minutes-july-2020-mthly-mtg.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE PASTORAL
 CENTRE, SHEARES STREET, KILMALLOCK, CO. LIMERICK, ON
@@ -46,8 +50,10 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Under Matters Arising, the Elected Members referred to recent media reports citing a
 reference to “cronyism” by an Elected Member in reference to the election of the
 Cathaoirleach and Leas Cathaoirlech at the Annual Meeting in June of the Municipal District.
@@ -90,8 +96,10 @@ would create an exemption from the requirement to pay parking fees for a maximum
 four hours and that this exemption would be reviewed after a period of twenty-four months
 from their adoption to take account of possible developments in the Electric Vehicle sector.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 He confirmed that the statutory Bye-Law process required the Local Authority to undertake
 a public consultation process prior to the adoption of the Draft Municipal District of
 Cappamore-Kilmallock (Parking Places) (Amendment) Byelaws, 2020 and that approval of
@@ -131,8 +139,10 @@ District Area.
 Limerick City and County Council install traffic calming measures and appropriate signage on
 the west side approach road into Bruree village on the R518.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Clir. Donegan, seconded by Clir. Carey and agreed.
 Reply:
 
@@ -179,8 +189,10 @@ and County prepared by the LCDC. Ballyhoura Development, West Limerick resources
 the Paul Partnership each have a role to play in business support in their own respective
 areas.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Anew Head of Enterprise in the Limerick Enterprise Office will be appointed in the next two
 months and they will review the delivery of services across the city and county to ensure
 that all areas are receiving the highest level of support available.
@@ -228,8 +240,10 @@ equipment. There are a further 12 prosecutions pending at present.
 2. The equipment was installed in both urban and rural areas where there was a high
 number of illegal dumping/waste issues recorded.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. There is no specific annual budget for CCTV equipment but the costs are paid from
 the “Litter Management/Waste Enforcement” budgets. The Council owns some
 equipment and engages private operators in other cases.
@@ -276,8 +290,10 @@ that are operated by Limerick City and County Council and Shannon Commercial Pro
 
 Reply:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Shannon Commercial Properties no longer have any Business Parks in the Cappamore
 Kilmallock Municipal District. They disposed of their last Business Park in the District
 (Kilmallock Business Park) to Limerick City and County Council in January 2020.
@@ -316,8 +332,10 @@ be invited to attend, in addition to the Superintendent from the Bruff District.
 agreed to invite AnneMarie McDonald, Community Sustainment Officer, Limerick City and
 County Council to the Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Thomastown Railway Crossing
 
 The Elected Members were advised by the Executive Engineer, Cappamore-Kilmallock
@@ -330,6 +348,7 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 
 ---

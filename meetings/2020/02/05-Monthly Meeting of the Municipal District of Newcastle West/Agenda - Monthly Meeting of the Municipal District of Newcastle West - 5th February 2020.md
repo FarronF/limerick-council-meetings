@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-2020-02-05-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Oidiehe Bardais an Chaisleain Nua Thiar,
 _ ..-—l & Contas tadrretight Comhairle Cathrach agus Contae Lulmnigh
 
@@ -62,8 +66,10 @@ Corporate Headquarters, Merchant's Quay, Limerick WF @limerickCouncil
 
 ( 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 QUESTIONS
@@ -99,5 +105,6 @@ in Templegiantine.
 
 | will move at the next Meeting that public lighting be provided at the entrance to
 Maple Grove, Templeglantine.
+
 
 ---

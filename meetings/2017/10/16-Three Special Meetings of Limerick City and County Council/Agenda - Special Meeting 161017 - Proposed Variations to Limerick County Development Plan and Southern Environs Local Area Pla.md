@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/4%20Agenda%20-%20Special%20Meeting%20161017%20-%20Proposed%20Variations%20to%20Limerick%20County%20Development%20Plan%20and%20Southern%20Environs%20Local%20Area%20Plan.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhisi Corpardideacha.
 __— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
 & Contae Luimnigh Ceanncheathni Chorpardideach.
@@ -59,8 +63,10 @@ item.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Lutmneach y @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 Notice of Motion subm i O’Brien
@@ -68,5 +74,6 @@ Notice of Motion subm i O’Brien
 | will move at the Special Meeting that Limerick City and County Council call upon An
 Post and/or the Minster for Communications to withdraw from circulation the An
 Post Che Guevara stamp.
+
 
 ---

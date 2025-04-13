@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%20July%20Meeting%20of%20Council.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha.
 
 Comhairle Cathrach
@@ -65,8 +69,10 @@ Planning and Development Act, 2000 (as amended), at: P
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (d) St. Nessan’s Road, Ballykeeffe, Limerick.
@@ -110,8 +116,10 @@ To consider the adoption of the Limerick City and County Council 2017
 Annual Report.
 (Annual Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) Limerick Market Trustees
 
 To consider the nomination of the Mayor of the City and County of Limerick,
@@ -152,8 +160,10 @@ Policy Committee Meeting held on 9" July, 2018.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 Recommendation No. 1
@@ -203,8 +213,10 @@ circulated to each Local Authority in the country and to the Local
 Authority Members’ Association (LAMA) and the Association of trish
 Local Government ({AILG).”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii)
 
 (iv)
@@ -251,8 +263,10 @@ Note: The Travel and Transportation SPC meeting which was scheduled to
 take place on Monday, 11™ June, did not go ahead, therefore there is no
 Chairperson’s report for that meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Physical Development Directorate
 Flood Risk Management Plans - CFRAMS
 
@@ -296,8 +310,10 @@ with Clare County Council for proposed rehabilitation works at O’Brien’s
 Bridge / Montpelier.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (c) Litter Report 2017
@@ -343,8 +359,10 @@ Questions submitted by Councillor J. Scanlan
 | will ask at the next Meeting as to the number of tenants accommodated by this
 Authority who incur weekly rental costs in excess of: (a) €150; (b) €200 and (c) €300.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -389,8 +407,10 @@ rental policy for its housing stock so as to ensure that none of its tenants are
 with monthly rental costs in excess of what a 25-year variable rate mortgage would
 be on a property comparable with that which they occupy.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -435,5 +455,6 @@ Budget.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

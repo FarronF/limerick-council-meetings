@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-special-meeting-of-limerick-city-and-county-council-19th-december-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach ; Seirbhisi Corparaideacha,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 9g Ceanncheathru Chorparaidesch,
@@ -58,8 +62,10 @@ m customerservices@limerickie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach vw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) To consider the nomination of a replacement to Moyross Community Enterprise
 Centre Limited consequent to the election of Councillor Conor Sheehan to Dail
 Eireann.
@@ -72,5 +78,6 @@ Committee of Limerick City and County Council.
 City and County Council.
 
 (Report to follow)
+
 
 ---

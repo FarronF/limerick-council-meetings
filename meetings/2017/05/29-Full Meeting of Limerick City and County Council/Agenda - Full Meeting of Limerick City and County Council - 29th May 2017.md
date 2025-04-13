@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%20Meeting%20290517.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ___ Seirbhis{ Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh.,
 
@@ -70,8 +74,10 @@ circulated)
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Support Services Directorate
 (a) Chief Executive’s Report
 
@@ -106,8 +112,10 @@ replace Councillor Loftus and (ii) Councillor Loftus to the Economic
 Development, Enterprise and Planning Strategic Policy Committee to replace
 Councillor Prendiville.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (f)
 
 Strategic Policy Committee Reports
@@ -157,8 +165,10 @@ Planning Strategic Policy Committee Meeting held on 3° April, 2017.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (9)
 
 (h)
@@ -209,8 +219,10 @@ for the Year Ended 31% December, 2015.
 (iii) Limerick City and County Council Statutory Audit Report for the Year
 Ended 31" December, 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -261,8 +273,10 @@ accordance with Sections 13 (5) and (6) of the Planning and Development Act, 200
 (as amended).
 (Report already circulated)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -311,8 +325,10 @@ from 12" to 14" May, 2017.
 (e) 2-Day Microsoft Excel Advanced Training for Councillors, held in Clonakilty,
 Co. Cork, on 17/18" May, 2017.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (f} Conference on Mna na hEireann — Celebrating Women in Modern Ireland,
@@ -354,8 +370,10 @@ by Councillors.
 housing units in the Georgian Quarter of the City Centre, including the possibility of
 developing them as Social and Affordable Housing.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -396,8 +414,10 @@ I will move at the next Meeting that Limerick City and County Council support th
 campaign to ensure Pope Francis visits Limerick in his proposed trip to Ireland in
 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -430,5 +450,6 @@ Junction 27 - Southbound, to include the tourist village of Castleconnell.
 
 Correspondence.
 (Copy of Correspondence Enclosed)
+
 
 ---

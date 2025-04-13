@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-9th-november-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 ne & Contae Luimnigh Comnhattie Cathrach agus Contae Luimnigh,
 
@@ -59,8 +63,10 @@ Corporate Headquarters, Merchants Quay, Limerick, 1 y
 @LimerickCouncil
 (\ 061-886 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8.
 
 District Engineers Report
@@ -94,5 +100,6 @@ signage at the approaches to Askeaton to indicate it is the oldest town in the C
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

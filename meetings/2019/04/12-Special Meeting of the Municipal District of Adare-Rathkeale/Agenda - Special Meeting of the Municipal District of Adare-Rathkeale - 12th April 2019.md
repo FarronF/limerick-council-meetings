@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%2012th%20April%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al fay tread pecan aly Comhabte Catlvach usu Contns Lssrotgh
 ontae Luimnigh " :
 ff 8 Aras Séan Finn,
@@ -46,5 +50,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach | www. limerick.te
 Corporate Headquarters, Merchants Quay, Limerick. WY @LimerickCouncil
 
 \ 061 - 556 000
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seibhisi Corpardideacha,
 Comhairle Cathrach agus Comae Luénnigh,
 
@@ -62,8 +66,10 @@ Cé na gCeannaithe, Luimneach vy @LimerickCouncil
 Ceanncheathru Chorparaideach,
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -113,5 +119,6 @@ To consider the following Notice of Motion submitted by Councillor G. Mitchell :
 Gardai available to police the Bruff district in light of present happenings and heading into
 the long evenings to alleviate fears out there from the elderly, vulnerable and the general
 public”.
+
 
 ---

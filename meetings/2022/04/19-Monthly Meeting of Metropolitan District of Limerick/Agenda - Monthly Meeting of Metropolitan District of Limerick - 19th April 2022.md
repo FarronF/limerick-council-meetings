@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-agenda-meeting-of-metropolitan-district-of-limeick-19th-april-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 & Contae Luimnigh
 ar” vs ~\
@@ -53,8 +57,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -114,8 +120,10 @@ QUESTIONS
 procurement process for the removal of graffiti and that the railway bridge over the Park Canal
 linking Lower Park and Rhebogue be included in the tender.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the detailed
@@ -159,8 +167,10 @@ construction and what is the timeframe for completion.
 process to complete master plan for the Limerick 2030 Cleeves site and what is the timeframe for
 completing this master plan.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor S. Hartigan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a report on energy efficiency
@@ -200,8 +210,10 @@ homes and businesses, for Limerick City and other urban areas.
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the LIT/TUS
 to city centre active travel project.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19. Question submitted by Councillor S. Novak Uf Chonchuir
 
 | will ask at the next Meeting of the Metropolitan District of Limerick can the Council outline plans
@@ -233,8 +245,10 @@ Council write to the National Transport Authority (NTA) to express our concern o
 process required to secure approval for Smarter Travel Projects such as new cycle routes and bus
 connects.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 24. Notice of Motion submitted by Councillors S. Benson and S. Hartigan
 
 At the next Meeting of the Metropolitan District of Limerick, we will ask that Limerick City and
@@ -263,5 +277,6 @@ a self-cleaning outdoor public toilet in Limerick City and within all of our pub
 
 28. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

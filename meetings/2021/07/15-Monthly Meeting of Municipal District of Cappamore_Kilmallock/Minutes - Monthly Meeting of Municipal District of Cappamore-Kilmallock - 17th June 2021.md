@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-minutes-17th-june-2021.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE

@@ -1,3 +1,6 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_home_social_development_spc_-_13th_june_2016.pdf)
+
+---
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL SPC**
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic

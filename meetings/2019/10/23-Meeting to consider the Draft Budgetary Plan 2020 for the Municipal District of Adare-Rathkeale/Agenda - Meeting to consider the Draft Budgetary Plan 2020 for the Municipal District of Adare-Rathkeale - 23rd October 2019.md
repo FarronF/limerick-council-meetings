@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%2023rd%20October%2C%202019_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rith Caola,
 — & Contas Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
@@ -38,5 +42,6 @@ AGENDA
 im customerservices@limerickic
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach | @ wenilimerickie
 Corporate Headquarters, Merchants Quay, Limerick. “C celcbaaecs
+
 
 ---

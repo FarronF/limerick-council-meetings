@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-agenda-8th-december-2020-version-2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 ry Comhairle Cathrach agus Contae Luimnigh,
 ——- & Contae Luimnigh ieee Sani Fawr
@@ -62,8 +66,10 @@ Corporate Headquarters, Merchants Quay, Limerick. v
 @LimerickCouncil
 ( 061 - 856 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Operations and Maintenance Services
 District Engineers Report
 
@@ -93,8 +99,10 @@ Notice of Moti bmitted by C illor A. Tes!
 I will move at the next Meeting for a new post and rail fence to be erected in St. Mary’s
 Park, Rathkeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -105,5 +113,6 @@ I will move at the next Meeting to call on Limerick City and County Council to p
 fully equipped modern library in Askeaton.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

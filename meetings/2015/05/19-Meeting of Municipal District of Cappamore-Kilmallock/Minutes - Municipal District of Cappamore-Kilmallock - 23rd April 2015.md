@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_cappamore-kilmallock_-_23rd_april_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON THURSDAY,
@@ -43,8 +47,10 @@ Proposed by Councillor Donegan;
 Seconded by Councillor Gleeson;
 And Resolved:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “That, the following estates — (i) Bellview, Kilmallock; (ii) Glen Grove, Kilmallock - be
 taken in charge, in accordance with Section 180 of the Planning and Development
 Acts, 2000-2014, and Section 11 of the Roads Act, 1993”.
@@ -93,8 +99,10 @@ park).
 e Every Friday afternoon 2pm - 4pm in Hospital, (adjacent to
 O'Sullivan’s Centra Shop).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 As soon as further information is available Limerick City and County Council will
 inform all Councillors.
 
@@ -141,8 +149,10 @@ out on Good Friday as part of the Team Limerick Clean up campaign.
 With the Cathaoirleach’s permission, sympathy was extended to the following on
 their recent bereavements:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Sean & Dominic Treacy, on the death of their father, Jeremiah Treacy,
 Knockmore, Bruree.
 
@@ -160,5 +170,6 @@ Signed:
 Dated:
 
 Cathaoirleach
+
 
 ---

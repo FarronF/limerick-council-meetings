@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%28b%29%20Minutes%20Annual%20Meeting%2023rd%20June%202017.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON** **FRIDAY, 23RD** **JUNE, 2017,**

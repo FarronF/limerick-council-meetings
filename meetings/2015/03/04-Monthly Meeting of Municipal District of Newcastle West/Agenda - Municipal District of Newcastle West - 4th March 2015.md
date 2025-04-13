@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_4th_march_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -56,8 +60,10 @@ presentation at April Meeting.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & www.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 5.
@@ -104,8 +110,10 @@ housing estate on New Street, Abbeyfeale.
 | will ask at the next Meeting if the safety/crash barriers will be continued along the
 roadside at Springmount, Abbeyfeale, up to Leahy’s Cross.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -155,8 +163,10 @@ lease or purchase of the site, incorporating the old Vocational Education School
 Abbeyfeale, so as to secure its accessibility and use long-term by the community of
 Abbeyfeale and surrounding parishes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -170,5 +180,6 @@ consumers where multiple choice supply exists.
 | will move at the next Meeting that the issue of the disturbed road verge, right-hand side,
 past the entrance to Newcastle West Rugby Club and onward beyond the Physiotherapy
 Centre, be addressed and resurfaced in the interest of safety locally.
+
 
 ---

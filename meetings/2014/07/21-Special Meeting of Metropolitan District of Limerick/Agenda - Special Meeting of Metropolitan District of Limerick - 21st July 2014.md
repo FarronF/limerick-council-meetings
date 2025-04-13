@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_of_special_meeting_of_the_metropolitan_district_of_limerick_-_21_july_2014.pdf)
+
+---
 **16th July, 2014.**
 
 **Corporate Services.**

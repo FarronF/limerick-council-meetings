@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_draft_budgetary_plan_meeting_17th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 _—_—_ Comhairle Cathrach agus Contae Luimnigh,
 
@@ -40,5 +44,6 @@ AGENDA
 @ customerservices@limerickie
 Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach o www .limerickte
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
+
 
 ---

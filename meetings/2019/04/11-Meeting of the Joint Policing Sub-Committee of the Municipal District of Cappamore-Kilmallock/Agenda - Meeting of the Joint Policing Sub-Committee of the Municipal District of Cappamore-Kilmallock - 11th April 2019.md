@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Agenda%20JPC%20Meeting%2011th%20April%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 tn | ee ten
 & Contae Luimnigh
 AN ™
@@ -35,5 +39,6 @@ To discuss policing issues in the District.
 
 Limerick City & County Council, Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick. V35 K497 063-98019
+
 
 ---

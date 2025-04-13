@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Home%20and%20Social%20Development%20Strategic%20Policy%20Committee%20Meeting%20-%2014th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL
 
 T
@@ -59,5 +63,6 @@ Any other business
 Signed: M. Donegan
 Chairperson
 Limerick City and County Council
+
 
 ---

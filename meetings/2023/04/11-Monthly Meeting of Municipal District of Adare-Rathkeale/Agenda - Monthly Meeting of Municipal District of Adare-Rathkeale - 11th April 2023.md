@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __ Comhairle Cathrach
 & Contae Luimnigh
 ACN ~~
@@ -72,8 +76,10 @@ customerservices@limerickie
 W @LimerickCouncil
 © 061-556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Roads, Traffic & Cleansing
 2023 Development Fund Allocations
 
@@ -107,5 +113,6 @@ Correspondence
 >
 °
 @
+
 
 ---

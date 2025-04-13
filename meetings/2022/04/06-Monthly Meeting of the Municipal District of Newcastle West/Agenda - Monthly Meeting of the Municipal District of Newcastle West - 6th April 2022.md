@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-2022-04-06-agenda-april.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ___ Comhairle Cathrach
 & Contae Luimnigh
 AoN
@@ -75,8 +79,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 @LimerickCouncil
 ( 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 11.
@@ -119,8 +125,10 @@ Church) be fixed and put in working order again.
 | will ask at the next Meeting can a footpath be considered for Kilmeedy from
 Browne’s corner to the Church as it is in very bad condition.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -155,5 +163,6 @@ locked at night time and reopened in the mornings.
 
 | will move at the next Meeting that Site Notices be placed on all on all Council owned
 property being considered for disposal within our Municipal District.
+
 
 ---

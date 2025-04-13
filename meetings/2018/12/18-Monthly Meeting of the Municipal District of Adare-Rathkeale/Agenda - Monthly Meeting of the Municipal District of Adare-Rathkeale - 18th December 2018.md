@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%20Agenda%2018th%20December%2C%202018%20V2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 el Comhairle Cathrach
 & Contae Luimnigh
 OM ee —————
@@ -77,8 +81,10 @@ www.limerickie
 W @LimerickCouncil
 { 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development Directorate
 To consider the proposed amendment to the Adare Local Area Plan 2015 — 2021 and the
 Chief Executive's Report dated 30th November 2018, which relates to the rephasing of
@@ -116,8 +122,10 @@ To note update on proposals to address the flooding issues in Askeaton.
 
 nN
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -166,5 +174,6 @@ entrances and exits to the town of Rathkeale.
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

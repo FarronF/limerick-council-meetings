@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-meeting-of-metropolitan-district-of-limerick-16th-december-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 & Contae Luimnigh
 nAcr™N a ——_—_——_—
@@ -64,8 +68,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (064 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of interest
 3. Dis | of Land
 To note proposal for the disposal of land as follows:
@@ -107,8 +113,10 @@ Roads Act 1993.
 To receive Briefing on the proposed Part 8 for the Fireplace Site, 35 — 39 Nicholas Street,
 Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 7. Question submitted by Councillor M. Donoghue
 
@@ -152,8 +160,10 @@ ongoing footpath improvement works in the Caherdavin area.
 Fund initiative that traditionally provides hampers from the Milk Market to Limerick families in
 need.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 14. Notice of Motion submitted by Councillor S. Kiely
 
@@ -188,5 +198,6 @@ the Metropolitan area.
 
 19. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

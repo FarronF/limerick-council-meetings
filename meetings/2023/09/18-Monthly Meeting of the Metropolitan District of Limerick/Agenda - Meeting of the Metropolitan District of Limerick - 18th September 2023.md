@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-18th-September-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
  _——ee Comhairle Cathrach
 & Contae Luimnigh
 NN —__—_—_—__
@@ -57,8 +61,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest.
 
 3. Disposal of Land
@@ -109,8 +115,10 @@ attractiveness for new business to establish in the city centre.
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ja Question submitted by Councillor J. Leddin
 
 | will ask at the next Meeting of the Metropolitan District of Limerick who is contracted to collect
@@ -161,8 +169,10 @@ progress of the widening of Golf Links Road by O'Shea's Pub.
 progress on the distributor road connecting Groody Road to Golf Links Road/Old School House
 Road junction.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
@@ -214,8 +224,10 @@ enable the inclusion of a new policy in these same plans that would seek to ensu
 
 4
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 housing developments (excluding single apartment block developments in the city centre) of
 greater than 25 residential units, that at least 50% of these residential units will be allocated for
 private market sale through one of the following.
@@ -261,8 +273,10 @@ was committed to in 2020 under Active Travel proposals.
 roundabout maintenance plan and sponsorship scheme with particular reference to the
 Coonagh and Clondrinagh roundabouts and the upkeep of same.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 29. Question submitted by Councillor O. O’Sullivan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that the North Circular
@@ -305,8 +319,10 @@ to the Minister for Education to ask her to ensure that a bus service is provide
 attending the Limerick Educate Together Secondary School who are eligible but currently
 without a school bus place.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 35. Notice of Motion submitted by Councillor S. Kiely
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the possibility of a
@@ -354,9 +370,12 @@ unacceptable situation whereby many Early Years Practitioners providing the cruc
 into education for our children in a pre-school setting receive no salary out of term time causing
 many to consider leaving the profession.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 42. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

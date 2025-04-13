@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/00%20Agenda%205th%20December%2C%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach
 _—_—" & Contae Luimnigh
 ArN SEE
@@ -74,8 +78,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Service Operations Directorate — Operations and Maintenance Services
 
 ed Lim iew - Draft Speed Limit Bye-Laws for National and Non-National
@@ -123,8 +129,10 @@ To note update on pedestrian controlled crossing for Adare.
 
 nN
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -177,5 +185,6 @@ needed car park for Adare Village to help alleviate traffic congestion.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairle Cathr a nen i 6 ae
 
 __——_— & Contae Luimnigh me comniaeny Chorpardidesch.
@@ -59,8 +63,10 @@ rekes (061 - 557150
 
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -100,5 +106,6 @@ To note reply from Office of Commissioner regarding allocation of Probationer Ga
 Limerick.
 
 View new Custody Suite at Henry Street Garda Station
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01%202022-04-06%20Minutes%20April.pdf)
+
+---
 MINUTES
 
 OF

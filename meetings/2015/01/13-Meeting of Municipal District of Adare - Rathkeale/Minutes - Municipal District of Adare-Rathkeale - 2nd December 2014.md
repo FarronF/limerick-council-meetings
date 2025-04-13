@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_2nd_december_2014_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK, ON TUESDAY, 2”° DECEMBER, 2014, AT
@@ -45,8 +49,10 @@ circulated at the last Municipal District Meeting outlining that there was suffi
 zoned in the current Local Area Plan for Croom and a resolution was passed to extend the
 existing Local Area Plan.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Environment and Water
 
 Gortadroma Landfill
@@ -97,8 +103,10 @@ Amendment proposed by Councillor O'Brien.
 
 The result of the voting was as follows:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 For the Amendment:
 Councillors Keary, McMahon, Neville, O'Brien, O'Donoghue and Sheahan. (6)
 The Meeting Administrator declared that the amendment was carried.
@@ -145,8 +153,10 @@ commercial or dual purposes. At present these dwellings not in commercial
 use are derelict and do not fulfil modern residential demands, facilities or
 size. The continuation of current residential zoning will compound and
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii).
 
 4
@@ -202,8 +212,10 @@ phase 2 residential and phase 2 serviced sites at Deepark. Any future
 development on these lands shall incorporate as many of the trees as
 possible into the scheme. A comprehensive tree survey carried out by a
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iii).
 
 liv)
@@ -259,8 +271,10 @@ development in accordance with the County Development Plan and the
 zoning of Adare Soccer Club portion of ground at Deerpark from Residential
 Development Area Phase 1 to Open Space compliments these guidelines.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 ¢ The Adare Area Plan has zoned 34.54 hectares as Residential Development
@@ -312,8 +326,10 @@ it was agreed to hold the next monthly Meeting on 13” January, 2015 at 9.00 a.
 Foynes Flying Boat & Maritime Museum, Foynes and to receive a Deputation from Foynes
 Flying Boat & Maritime Museum.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Deputation from the Parents’ Council of Shanagolden National
 School
 
@@ -359,8 +375,10 @@ The sale was negotiated directly with the Receiver for the Bank, Price
 Waterhouse Coopers, by staff members of Innovate Limerick.
 The local elected representatives have been briefed on this initiative.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICE OF MOTION
 
 8. Notice of Motion submitted by Councillor E. O’Brien
@@ -392,14 +410,19 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 C. ~ aN
 6unoz.
 wv > s
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

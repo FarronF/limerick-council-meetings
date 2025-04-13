@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/00-2025-04-02-agenda-april.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 ee % Contes Lalmanigk Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,8 +58,10 @@ Corporate Headquarters, Merchant's Quay, Limerick v
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -102,8 +108,10 @@ Notices of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that the parking bye-laws be extended east of
 Abbeyfeale to beyond "Greyhound and Pet World".
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 15.
@@ -133,5 +141,6 @@ suggest this should be done on a regular basis.
 
 i will move at the next Meeting that Limerick City and County Council affix the loose
 stones in the Square, Newcastle West. These can be dangerous.
+
 
 ---

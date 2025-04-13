@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00%202019-12-11%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __ Comhairle Cathrach Diiiche Rardais an Chaisledin Nua Thiat,
 
 Comtuitrle Cathract agus Contae Lutnimgt:
@@ -53,8 +57,10 @@ Corporate Headquarters, paasclioait’s Giames Limerick ¥ @limerickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Housing Development Directorate
 
 To note progress report from the Housing Development Directorate.
@@ -97,8 +103,10 @@ Ballyagran, (g) Castlemahon, (h) Knockaderry, (i) Feohanagh, (j) Glin, (k) Abbey
 (})}) Mountcollins, (m) Tournafulla, (n) Templeglantine, (0) Ardagh-Carrigkerry (p)
 Raheenagh (q) Ashford (r) Monagea (s) Athea.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -143,5 +151,6 @@ these roads should be placed on the Roads Programme 2020.
 design of the junction in the village of Castletown to ensure safety of motorists and
 that the design would incorporate the village itself including traffic calming measures
 and footpath improvements.
+
 
 ---

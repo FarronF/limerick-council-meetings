@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%202018-07-04%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Duiche Bardais an Chaisleain Nua Thiar,
 —=-— Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,8 +59,10 @@ Corporate
 
 Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8.
 
 Physical Development Directorate
@@ -102,8 +108,10 @@ Municipal District.
 building and roof of the property at Church Street, Newcastle West next to the Aldi
 car park.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9.
 
 10.
@@ -148,5 +156,6 @@ Notices of Motion submitted by Councillor J. Sheahan
 site which has been tested and proven suitable at Abbeyfeale East (subject to receipt
 of full planning) for the provision of a new Graveyard for the people of Abbeyfeale and
 its hinterland.
+
 
 ---

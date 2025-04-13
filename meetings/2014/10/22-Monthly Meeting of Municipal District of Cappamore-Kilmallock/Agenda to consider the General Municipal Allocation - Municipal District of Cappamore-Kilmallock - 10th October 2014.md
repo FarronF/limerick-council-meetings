@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/general_municipal_allocation_cappamore-kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Pe
 peer
 
@@ -44,8 +48,10 @@ City and County Council's budget is made up of a high volume of non discretionar
 expenditure. The starting point for the consideration of the GMA allocations included
 reviewing the levels of discretionary allocations in 2014 budget.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Section 102 (4A) (c) and (d) provide that it is a reserved function of the members of a
 municipal district to adopt the draft budgetary plan with or without amendment.
 
@@ -66,8 +72,10 @@ the budget spend similar to previous years.
 Tom Gilligan,
 Head of Finance.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 CAPPAMORE KILMALLOCK MUNICIPAL DISTRICT DRAFT BUDGETARY PLAN
 2015
 
@@ -85,5 +93,6 @@ FO4 Community Initiatives 30,000
 Special Projects 100,000
 
 Relevant Gross Expenditure (B=A)
+
 
 ---

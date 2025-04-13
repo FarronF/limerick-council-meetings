@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/01-minutes-of-monthly-meeting-20th-may-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF ONLINE MONTHLY MEETING OF
 THE MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD ON
 THURSDAY 20" May 2021, AT 4.00PM.
@@ -38,8 +42,10 @@ development is achieved in the forthcoming Development Plan.
 Members also agreed a strategy for the development of business in the Municipal District of
 Cappamore-Kilmallock needed to be a priority into the future.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 After further discussion it was proposed by Councillor Donegan that a Special Meeting of the
 District be convened to discuss the issues raised with the Planning Department of Limerick
 City & County Council.
@@ -83,8 +89,10 @@ the June meeting of the Municipal District.
 
 This proposal was seconded by Councillor Mitchell and agreed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTIONS
 
 1. Notice of Motion submitted by Councillor Donegan
@@ -123,8 +131,10 @@ QUESTIONS
 City and County Council that they consider installing dog waste bins at the entrance/exit
 areas of the loop walks in Kilmallock town.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 The Council operate an “any bag any bin” policy. There are no specific dog waste bins but
@@ -172,8 +182,10 @@ submitted to the members at the July Meeting.
 
 4
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Question submitted by Councillor Mitchell
 
 “| will ask at the next meeting of the Cappamore-Kilmallock Municipal District what the
@@ -208,8 +220,10 @@ The Roads Engineer for the area will conduct the necessary traffic and speed sur
 L5093 in Caherconlish when resources are available. A report on the need for traffic calming
 measures in this area will be prepared in due course.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor Teefy
 
 “| will ask at the next meeting of the Cappamore-Kilmallock Municipal District for the total
@@ -254,8 +268,10 @@ oOo
 [Anglesboro
 ja
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Any Other Business
 
 Votes of Sympathy
@@ -278,5 +294,6 @@ the time -
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_minutes_10th_march_2015.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 
 OF ADARE-RATHKEALE HELD AT ÁRAS SEÁN FINN, NEW LINE ROAD,

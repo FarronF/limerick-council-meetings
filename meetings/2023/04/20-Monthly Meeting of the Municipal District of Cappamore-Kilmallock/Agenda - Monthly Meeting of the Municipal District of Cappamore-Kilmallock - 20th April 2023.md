@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20April%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comnairle Cathrach agus Contar Luiranigh
 & Contae Luimnigh Oifig an Cheantais, Aras Mhainchin Seoighe
 
@@ -51,8 +55,10 @@ Correspondence received from Uisce Eireann
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wvewlimerick.te
 Limerick City and County Council, Aras Mainchin Seoighe Area Office ve
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Property Services
 
 *® Proposed disposal of Property at 3 Ath Alainn, Bruree, Co Limerick.
@@ -95,8 +101,10 @@ Bruff, possibly on Crawford St.
 Stud delineators “Cats eyes” be put in place on the Regional Roads in the areas where they
 are not already in place. They are very effective and are a safety measure on the roads.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 10. Question submitted by Councillor Carey
@@ -104,5 +112,6 @@ QUESTIONS
 | will ask at the next meeting of the Cappamore Kilmallock Municipal District how many
 people are currently on the housing waiting list with Kilmallock as their area of choice and
 how many of these are in receipt of HAP.
+
 
 ---

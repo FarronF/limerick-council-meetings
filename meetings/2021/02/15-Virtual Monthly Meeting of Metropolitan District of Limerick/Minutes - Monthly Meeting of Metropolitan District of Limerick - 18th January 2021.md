@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01a-draft-minutes-monthly-online-meeting-18th-january-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON MONDAY, 18TH** **JANUARY, 2021 at 09:45 A.M.**

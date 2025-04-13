@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/agenda-joint-policing-committee-meeting-26th-april-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 al Comhairle Cathrach Comnhairie Cath feaaOsnl L sigh
 . ervey ve Cathrach agus Contae Luiny
 & Contae Luimnigh Ceanncheathri Chorparaideach
@@ -60,8 +64,10 @@ m Customerservices@limerickie
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor Sean Hartigan
 
 | will ask at the next Meeting of the Joint Policing Committee for an update on recent measures
@@ -90,6 +96,7 @@ presence of Gardai on foot and bicycle patrols in residential areas of Limerick 
 and detect criminal! and anti social behaviour.
 
 it inh
+
 
 
 ---

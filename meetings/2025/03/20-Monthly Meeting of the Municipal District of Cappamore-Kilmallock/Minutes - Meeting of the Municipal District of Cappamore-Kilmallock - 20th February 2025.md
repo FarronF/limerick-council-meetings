@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-february-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE AND ON-LINE, ON
 THURSDAY, THE 20™ FEBRUARY 2025 AT 3.00PM.
@@ -43,8 +47,10 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interests
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
@@ -94,8 +100,10 @@ for approval:
 Disposal of land comprising 1.24 acres/0.50 hectares, situate at Site E, Kilmallock
 Business Park, Kilmallock, Co. Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The report, as circulated, was noted by Members.
 
 c) Circulated, report of the Senior Staff Officer, Housing Support Services, dated 7”
@@ -139,8 +147,10 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development
 Regulations, 2001 (as amended) and noted that it was proposed to proceed in
 accordance with Section 8 of the report.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The following amendments were proposed by Councillor Stokes and seconded by
 Councillor Teefy:
 
@@ -186,8 +196,10 @@ QUESTIONS
 completion timeline on the footpath repairs at Effin Graveyard which were included in the
 Cemeteries budget, 2024 Schedule of Works.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 The contractor procured to carry out the footpath restorations works in Effin Graveyard last
@@ -233,8 +245,10 @@ to the junction.
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District for an update
 on the situation at O'Rourke's on the N20.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 A Judicial Review hearing regarding An Bord Pleanala’s approval of the N20 O’Rourke’s Cross
@@ -278,8 +292,10 @@ agreed the operator ensure that a road sweeper was in place fulltime when waste 
 delivered. This instruction has been adhered to and there has been no significant issues with
 respect to the maintenance of the public roads.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The waste disposal site operator has, however, in recent weeks been asked to cease
 operations temporarily so as to carry out improvements to their own access road leading up
 to the old quarry. It should be noted that this road is not a public road. Limerick City and
@@ -322,8 +338,10 @@ The Cappamore-Kilmallock Municipal District will liaise with Cork County Council
 the drainage network on the county boundary at Maiden Hall, to determine if any
 improvements may be necessary.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Any Other Business
 
 The Leas Cathaoirleach referred to the recent announcement by Or. Pat Daly, Director
@@ -354,6 +372,7 @@ Signed:
 Cathaoirleach
 
 Date:
+
 
 
 ---

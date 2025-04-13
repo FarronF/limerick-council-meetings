@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20municipal_district_of_newcastle_west_agenda_-_wednesday_3rd_september.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28 August, 2014.
 
 Corporate Services.
@@ -36,8 +40,10 @@ Newcastle West.
 
 (Draft Standing Orders enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -86,8 +92,10 @@ Question submitted by Councillor J. Sheahan
 
 (b) Does the application of chlorine volume/frequency affect taste for the householder.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -125,8 +133,10 @@ Reserved Functions and revised budgetary process.
 
 (This item will be taken in committee at 11.30 a.m.)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
 GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 2"°
@@ -165,8 +175,10 @@ It was agreed that Meetings of the Municipal District of Newcastle West would be
 held on the first Wednesday of every month at 10.00 a.m. It was noted that the next
 Meeting would take place on Wednesday, 3 September, 2014 at 10.00 a.m.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Travel and Transportation:
@@ -213,8 +225,10 @@ agreed to recommend the scheme for approval to the full Council.
 Councillor Collins stated that he was not in agreement with the scheme, as
 presented, and did not support the proposal.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Questions submitted by Councillor J. Scanlan:
 
 “| will ask at our July Meeting as to when renewal work will occur on the
@@ -262,8 +276,10 @@ It was noted that this bridge was the responsibility of both Limerick City and C
 Council and Kerry County Council. It was agreed that the matter would be raised
 with Castleisland Area Office.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 “| will ask for an up-date on the river at the back of the Town Park,
@@ -295,8 +311,10 @@ Dated:
 
 Cathaoirleach
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ~ LIMERICK CITY |
 AND COUNTY
 COUNCIL
@@ -308,8 +326,10 @@ DISTRICT OF
 NEWCASTLE WEST |
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Municipal District of Newcastle West, in exercise of its powers under the Local
 
 Government Act, 2001, as amended by the Local Government Reform Act 2014 hereby make
@@ -371,8 +391,10 @@ ____124 _| Motions of Sympathy and Adjournments | IS,
 16 Revocation and Commencement 6
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 DURATION OF STANDING ORDERS
 
 These Standing Orders shall continue in force until altered, amended, or repealed. The
@@ -444,8 +466,10 @@ authority, if selected in accordance with this sub-paragraph, shall not have any
 
 2.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 In the case of the Annual Meeting in an election year the election of a Cathaoirleach is to be
@@ -529,8 +553,10 @@ thing done at the meeting.
 
 3.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 22.
 
 For the purposes of Standing Order No. 20 “signature” includes a facsimile of a signature
@@ -606,8 +632,10 @@ Ordinary Meeting .
 
 4.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ORDER OF BUSINESS
 
 31.
@@ -697,8 +725,10 @@ the person chairing the Meeting and any minutes claiming to be so signed shall b
 in evidence without proof. When the question that they be confirmed is put from the Chair,
 a Member may object to any part thereof as not being an accurate record and upon a
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 40.
 
 motion any question of altering the record shall be determined by the Municipal District
@@ -769,8 +799,10 @@ District must sign the notice.
 
 A Motion may be withdrawn by leave of the Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 49.The following Motions may be made without Notice at a Meeting:-
 
 (1) On matters expressly required by statute to be done at the Meeting.
@@ -844,8 +876,10 @@ Mecting for consideration;
 
 7.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 « In the absence of such a representative, the Cathaoirleach will make such determination
 in accordance with Standing Orders;
 
@@ -907,8 +941,10 @@ relevancy shall be determined by the Cathaoirleach at her/his absolute discretio
 an amendment is carried, the Motion, as amended, shall take the place of the original
 Motion, and shall become the question upon which any further amendment may be moved.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 63.
 
 Where there is only one Amendment and it is carried, it shall then be taken to be the
@@ -990,8 +1026,10 @@ after which the Motion authorised by this order shall be put without further
 
 debate.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 75.
 
 76.
@@ -1073,8 +1111,10 @@ any further part in that meeting on that day.
 
 10.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 83A.
 
 83B.
@@ -1150,8 +1190,10 @@ information.
 
 11.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 $4.
 
 No Members shall address the Cathaoirleach, unless from one of the seats reserved to
@@ -1237,8 +1279,10 @@ Meetings of the Municipal District without the prior approval of the Municipal D
 Members.
 12.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 96.
 
 Councillors are not permitted to receive or make telephone calls during meetings and all
@@ -1322,8 +1366,10 @@ applies. The term of a Special Committee shall be for such period as the Municip
 District Members may determine when appointing the Committee.
 13.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 107.
 
 108.
@@ -1413,8 +1459,10 @@ legal provisions.
 
 14.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 SUSPENSION OF STANDING ORDERS
 
 120. (i) In any case of urgency, or upon Motion made on a notice duly given, any one or more
@@ -1469,8 +1517,10 @@ or sister)
 
 15.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 EXPRESSIONS OF SYMPATHY
 
 125. Expressions of Sympathy must be submitted in writing to the Cathaoirleach on the
@@ -1495,8 +1545,10 @@ MEETINGS ADMINISTRATOR
 
 16.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 COMHAIRLE CATHRACH & CONTAE LUIMNIGH
 LIMERICK CITY & COUNTY COUNCIL
 
@@ -1539,8 +1591,10 @@ TRAVEL & TRANSPORTATION
 
 2_068_16_o0a39
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Oifig Dearadh Bothar
 Naisidnta an Mhedin larthair
 Comhairle Chontae Luimnigh
@@ -1608,8 +1662,10 @@ ee
 ‘Mid West Nasional Road Design Office is 2 collaboration ef Limerxt Cosory Council, Troaxcnamd piirtndivraches is ea Olfig Dearadh Béchar Néisiints a> Mbedix laribai: ite Cocuhawte
 Lezenck Cry Council and Nomh Tipperary County Cosexil. Coonter Luimunigh. Combaire Cacheath Luirenigh Coeshairie Checmne Thichraié Auoce Thesidh.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 \
 
 _
@@ -1624,6 +1680,7 @@ t
 
 |
 +} .
+
 
 
 ---

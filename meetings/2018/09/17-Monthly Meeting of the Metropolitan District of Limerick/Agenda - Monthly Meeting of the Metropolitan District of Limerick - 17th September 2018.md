@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%2017th%20September%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_—_ Comhairle Cathrach Comhairle Cobeaeh agnceeataerige
 -~ — 6 Contae Luimnigh Ceanncheathni Chorparaideach,
 ” F : . Cé na gCeannaithe.
@@ -55,8 +59,10 @@ To note proposal for the disposal of land as follows:
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -114,8 +120,10 @@ To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Pla
 Development Act, 2000 (as amended) and Part 8 of the Planning and Development
 Regulations, 2001 (as amended) in relation to Lower Carey’s Road, Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b)
 
 (c)
@@ -172,8 +180,10 @@ uestion submitt mhir. S. O Ceallaigh
 | will ask at the next meeting how many houses are due to be knocked, refurbished, or built
 in each of Limerick's Regeneration areas in 2018 and 2019.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -225,8 +235,10 @@ Notice of Motion submitted by Cmhir. S. O Ceallaigh (to be referred to the Trave
 parking spaces for motorbikes and mopeds in Limerick City centre and that these will be
 monitored to view the viability of their expansion at a later time.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -290,12 +302,15 @@ and call for them to be paid similar rates to other forces required to assist in
 
 in the future.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

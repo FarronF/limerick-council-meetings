@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_special_meeting_of_limerick_city_and_county_council_-_28th_november.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———— Seirbhisi Corparéideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -51,5 +55,6 @@ connectivity of Croagh Village to the Limerick/Foynes Road Improvements Scheme.
 
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach y @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
+
 
 ---

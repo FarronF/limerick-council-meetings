@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/00-annual-meeting-of-the-municipal-district-of-newcastle-west-26th-june-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Avas William Smith O'Brien,
 
 Comhairle Cathrach Duliche Bardais an Chaisledin Nua Thiar,
@@ -51,5 +55,6 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © yevewlimarick.le
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 { 061 - 556 000
+
 
 ---

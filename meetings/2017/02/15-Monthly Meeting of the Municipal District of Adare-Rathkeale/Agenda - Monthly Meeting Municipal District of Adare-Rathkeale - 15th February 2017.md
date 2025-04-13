@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_15th_february2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _ _— Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -53,8 +57,10 @@ Company. (Item to be taken at 10.15).
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach | yw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposal of land as follows:
@@ -101,8 +107,10 @@ Questions submitted by Councillor E. O’Brien
 | will ask at the next Meeting for an update on the Kilcornan Traffic Calming measures.
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -135,5 +143,6 @@ commercial identity of the proposed business that is to be established there.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

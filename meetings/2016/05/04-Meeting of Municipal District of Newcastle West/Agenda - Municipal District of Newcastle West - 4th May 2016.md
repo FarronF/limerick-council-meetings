@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20May%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—— Seirbhist Corparaideacha agus Bainistfocht Athrulthe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,8 +58,10 @@ Update on Cois na Feile, Abbeyfeale.
 Ceanncheathr Chorparaideach, Cé na gCeannaithe, Luimneach @ wvew.timerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -106,8 +112,10 @@ annual plan in place for grass cutting and general maintenance at the Glebe Esta
 
 Monagea.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -144,5 +152,6 @@ town of Glin.
 
 | will move at the next Meeting that a pedestrian crossing be provided at a location in South
 Main Street, Glin.
+
 
 ---

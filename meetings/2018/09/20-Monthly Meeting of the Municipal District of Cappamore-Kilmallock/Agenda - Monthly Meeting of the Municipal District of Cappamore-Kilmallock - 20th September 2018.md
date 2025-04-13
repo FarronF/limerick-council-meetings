@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03%20MD%20Agenda%20for%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach
 = ——_ & Contae ——
 = roe om
@@ -47,8 +51,10 @@ Herbertstown, Co. Limerick.
 Pallas, Co. Limerick.
 (Report enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 7.
@@ -90,8 +96,10 @@ Notice of Motion submitted by Councillor Donegan
 would consider installing speed ramps/traffic calming measures within Millmount Estate,
 Kilmallock.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Notice of Motion submitted by Councillor Teefy
@@ -104,5 +112,6 @@ Notice of Motion submitted by Councillor O’Donnell
 
 I will move at the next meeting that Limerick City & County Council investigate all options
 for the provision of off street parking in Bruff Town.
+
 
 ---

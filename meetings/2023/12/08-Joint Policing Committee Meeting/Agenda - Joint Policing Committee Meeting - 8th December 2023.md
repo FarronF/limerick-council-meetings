@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-joint-policing-committee-meeting-8th-december-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —— Comhairle Cathrach Cornhiwirte Caieethenn Ooteuenn
 _o Wi Cou mil J sf U veoh,
 re. & Contae Luimnigh Ceanncheathra Chorpardideach,
@@ -46,8 +50,10 @@ AGENDA
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . Question submitted by Deputy Maurice Quinlivan, T.D.
 1 will ask at the next Meeting of the Joint Policing Committee for a progress report on the
 
@@ -82,5 +88,6 @@ Garda resources in the city centre.
 Commissioner to state our opposition to proposals to disband dedicated community policing
 and that we ask for the retention of these units and circulate this motion to all local authority
 JPC’s.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Agenda%20Special%20Meeting%20290517.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 arcs Ua ‘
 —
 COMHAIRLE
@@ -58,5 +62,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerick.ic
 
 ( 061 - 496200
+
 
 ---

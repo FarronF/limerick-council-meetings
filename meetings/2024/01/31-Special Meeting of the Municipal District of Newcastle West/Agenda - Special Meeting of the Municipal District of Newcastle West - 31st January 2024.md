@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AN 7 “
 
 Comhairle Cathrach Diliche Bardais an Chaisledin Nua Thiar,
@@ -65,8 +69,10 @@ Corporate Headquarters, Merchant's Quay, Limerick WY a@limerickCouncil
 
 & 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 and site including utilities, drainage, landscaping and public realm. Widening of the existing
 entrance to accommodate 2-way traffic.
 
@@ -92,5 +98,6 @@ proposal is a continuation of the previously approved Part 8 Planning for a carp
 228019.
 
 (Reports Enclosed)
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_-_municipal_district_of_newcastle_west_-_2nd_july_2014_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26 June, 2014.
 
 Corporate Services.
@@ -43,8 +47,10 @@ Development Regulations, 2001-2013, in relation to N21 Newcastle West Pavement
 Improvement and Pedestrian Facilities Scheme 2014.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -83,5 +89,6 @@ Dually Road (above Dan Kennedy's gate). This is an ongoing issue that needs to b
 addressed.
 
 Any Other Business.
+
 
 ---

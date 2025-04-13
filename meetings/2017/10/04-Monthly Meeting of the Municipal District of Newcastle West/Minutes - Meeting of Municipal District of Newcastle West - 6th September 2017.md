@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20September%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 6th
@@ -43,8 +47,10 @@ Proposal to remove three structures from the Record of Protected Structures
 Circulated, Report of the Senior Manager, Planning and Environmental Services dated 25”
 August, 2017 setting out details of proposals to remove three structures from the Record of
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 Protected Structures in accordance with Sections 54 and 55 of the Planning and Development
@@ -94,8 +100,10 @@ Members that the Plan would be launched later in the month.
 
 Members noted the Draft Heritage Plan.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Social Development Directorate
 Community Initiative Scheme 2017
 
@@ -146,8 +154,10 @@ possibility. Members raised concern at the location of the site identified and t
 
 at the location.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 The Director of Services noted their concerns but stated that all issues had to be evaluated in
@@ -204,8 +214,10 @@ as soon as possible.
 Members requested that the OPW be contacted in relation to arranging a representative to
 attend a future Meeting of the District in relation to the River Galey and other issues in the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 District.
 
 11. Question submitted by Councillor J. Scanian
@@ -258,8 +270,10 @@ NOTICES OF MOTION
 We will move at the next Meeting that the Ardagh District Recreational and Sporting
 Company be invited to attend the October Meeting of the District to present to the Members
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 their plans for an all-weather multi use Astro Turf Pitch.
@@ -313,8 +327,10 @@ The Motion was seconded by Councillor Galvin.
 
 REPLY: The town centres of Abbeyfeale and Newcastle West are designated pay parking
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 areas in accordance with the Abbeyfeale and Newcastle West Parking Places Bye
@@ -345,5 +361,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

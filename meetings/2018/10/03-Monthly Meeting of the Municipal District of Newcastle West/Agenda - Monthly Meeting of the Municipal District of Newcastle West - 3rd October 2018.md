@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%202018-10-03%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —=
 
 “rN
@@ -79,8 +83,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 & vevewimerickte
 wv @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -130,8 +136,10 @@ funding to complete the plan (iv) proposed commencement date of the works as per
 the Part Vill (v) update on the provision of a public toilet (vi) update on the derelict
 buildings (vii) details on the formation of a working group to progress the plan.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 Notice of Motion submitted by Councillor F, Foley
@@ -140,5 +148,6 @@ Notice of Motion submitted by Councillor F, Foley
 development of houses at New Street and Colbert Road, Abbeyfeale, should instead
 be made available to purchase the former Council houses known as Colbert Terrace,
 Abbeyfeale, as these houses are derelict and an eye sore.
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%20JPC%20Meeting%2011%204%2019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
 KILMALLOCK HELD IN THE OLD IRISH WAYS MUSEUM,
@@ -42,8 +46,10 @@ particular, recent issues in the Bruree area. He informed the Members that a pol
 prepared which included both local and primary Garda response units and will provide for
 additional resources including staffing and a policing plan for the area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Superintendent Sugrue confirmed to the Members that Garda John Curtin, Ballylanders and
 Sergeant Helen Holden, Cappamore are due to retire shortly and that plans to replace these
 staff members are currently in train.
@@ -76,5 +82,6 @@ Signed: —
 Cathaoirleach
 
 Date:
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/00-agenda-meeting-of-metropolitan-district-of-limerick-20th-january-2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Sewbdhisi Corparaideacha,
 eg 6 Cont Lui ah Comhairle Cathwach agus Contae Luimnigh,
 , ontae Lutmnig) Ceanncheathna Chorparaideach,
@@ -43,8 +47,10 @@ December, 2024.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach ¥ @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Declaration of Interest
 
 3. Di | nd
@@ -91,8 +97,10 @@ is found.
 decluttering of unnecessary street signage including the former car park signs which have not
 been in use for several years.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Question submitted by Councillor J. Leddin
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for the Council to clarify the
@@ -139,8 +147,10 @@ children.
 Cleeves Site will be occupied by TUS. Is there any other community/cultural/residential plans for
 the site.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18. Question submitted by Councillor U. Gavan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick what is the timeline for the
@@ -188,8 +198,10 @@ the Government to provide additional financial incentives and supports to encour
 of unoccupied properties located in the city centre to redevelop for commercial and or residential
 purposes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 25. Notice of Motion submitted by Councillor E. O'Donovan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that this Council carries
@@ -226,5 +238,6 @@ businesses where footpaths are badly affected in freezing weather.
 
 31. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

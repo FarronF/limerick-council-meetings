@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_12th_january_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -60,8 +64,10 @@ To consider request to hold District Meeting in Ballyhahill.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 Service Operations — Planning & Environmental Services
@@ -101,5 +107,6 @@ attendance at that meeting.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

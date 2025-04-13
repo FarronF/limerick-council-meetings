@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_20th_april_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -51,8 +55,10 @@ Castletroy, Co. Limerick.
 Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach & wwwaimerickic
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development and Planning
 Taking in Charge of Estates - Declaration of Roads to be Public Roads
 
@@ -98,8 +104,10 @@ e RAS
 e Approved Housing Bodies and Voluntary Housing Associations
 e Leasing
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -149,8 +157,10 @@ inspections under the Fire Services and Licensing Acts carried out on all premis
 and apartment blocks in the Metropolitan Area in the last year and give details of
 any issues found and the follow up procedures.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -163,5 +173,6 @@ progress of the Limerick 2030 plan, following the decision of An Bord Pleandala 
 grant permission to Horizon Mall application.
 
 Correspondence
+
 
 ---

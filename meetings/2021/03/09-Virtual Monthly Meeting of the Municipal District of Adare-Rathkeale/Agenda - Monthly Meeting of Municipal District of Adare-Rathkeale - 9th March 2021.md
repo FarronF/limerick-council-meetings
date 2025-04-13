@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-9th-march-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 ~ — Limerick Ci
@@ -81,8 +85,10 @@ W @LimorickCouncil
 
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Physical Development Directorate
@@ -115,8 +121,10 @@ Question submitted by Councillor B. Collins
 | will ask at the next Meeting for an update on the roll out of the National Broadband Plan
 in the Adare-Rathkeale Electoral Area.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -132,5 +140,6 @@ and County Council adopts a Green Dog Walker Initiative as part of their respons
 above issues.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

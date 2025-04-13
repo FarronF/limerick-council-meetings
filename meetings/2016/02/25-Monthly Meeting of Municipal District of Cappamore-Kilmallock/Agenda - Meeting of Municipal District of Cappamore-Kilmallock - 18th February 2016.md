@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018th%20February%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -51,8 +55,10 @@ for the District.
 Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach & wewwlimerick.le
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncit
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -96,8 +102,10 @@ proposed Traffic Calming Measures adjacent to the National School in Knockainey.
 I will ask at the next Meeting what arrangements are in place for the carrying out of
 Road Marking Works in 2016.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -133,5 +141,6 @@ Notice of Motion submi uncillor B. T.
 implemented in the housing estates and | further move that Ceol na hAbhann,
 Caherconlish be one of the estates in Cappamore-Kilmallock Municipal District to have
 this speed limit of 30km per hour.
+
 
 ---

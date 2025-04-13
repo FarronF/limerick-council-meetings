@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20Budget%20Meeting%2025.11.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 & Contae Luimnigh
 ArT 7 SS
@@ -82,8 +86,10 @@ w @LimerickCouncil
 
 © 061 - 587150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . To determine the proportion of commercial rates refund that applies on vacant
 properties in 2023 within the administrative area of Limerick City and County
 Council, in accordance with the provisions of Section 31 of the Local Government
@@ -117,5 +123,6 @@ Reform Act, 2014.
 
 (Copy of proposed Retail Economic Incentive Scheme for Vacant Property 2023
 Enclosed)
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i
 
 ar™N ,
@@ -70,8 +74,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 & wow limerick.ie
 w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) Municipal Reception
 
 To consider the grant of a Municipal Reception to honour Newcastle West GAA for their
@@ -116,8 +122,10 @@ works.
 | will ask at the next Meeting for an update on the proposed works for Castletown/Ballyagran
 villages arising from the Municipal District Meeting held in the hall in Castletown.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -177,5 +185,6 @@ Notice of Motion submitted by Councillor M. Collins
 Glengurt National School (National School in Tournafulla) to allow safe access and set down
 
 for those attending the school.
+
 
 ---

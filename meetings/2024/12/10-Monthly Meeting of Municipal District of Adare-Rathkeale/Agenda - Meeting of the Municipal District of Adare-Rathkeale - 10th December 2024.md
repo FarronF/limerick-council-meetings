@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/16-correspondence-september-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_ Comhairle Cathrach
 & Contae Luimnigh
 AmN 7 ‘
@@ -75,8 +79,10 @@ i customerservices@limerickie
 W @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rural, Culture, Community and Tourism D n
 
 Part VIII — Proposed Remodelling and Extension of the Adare Heritage Centre
@@ -115,5 +121,6 @@ To receive a Deputation from Askeaton Civic Trust, Tourist Office and Genealogy 
 (Item to be taken at 11.00 am)
 
 A.0.B
+
 
 ---

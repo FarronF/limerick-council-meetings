@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%202018-10-19%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 =
 
 ar™ ia ‘\ Aras Wiltiam Smith O'Brien,
@@ -46,5 +50,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Report Attached)
 
 w @LimerickCouncil
+
 
 ---

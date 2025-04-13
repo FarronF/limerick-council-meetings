@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_15th_december_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Seirbnis{ Corparaéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -34,5 +38,6 @@ Meetings Administrator.
 @ customerservices@limerickie
 Ceanncheathni Chorpardideach, Cé Lappe Luimneach © woewlimerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+
 
 ---

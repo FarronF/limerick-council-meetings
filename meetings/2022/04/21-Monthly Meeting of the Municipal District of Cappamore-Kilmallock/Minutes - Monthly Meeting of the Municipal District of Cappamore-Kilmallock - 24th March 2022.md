@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/minutes-of-cappamore-kilmallock-municipal-district-meeting-thursday-24th-march-2022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL**
 
 **DISTRICT OF CAPPAMORE KILMALLOCK HELD ON THURSDAY 24TH** **MARCH**

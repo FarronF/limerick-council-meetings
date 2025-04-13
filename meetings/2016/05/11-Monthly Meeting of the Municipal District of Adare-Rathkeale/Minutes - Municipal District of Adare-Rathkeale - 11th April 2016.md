@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 MONDAY, 11™ APRIL, 2016, AT 9.00 A.M.
@@ -48,8 +52,10 @@ summer.
 clear that the laying of a sewerage pipe along the route did not form part of their current
 priorities. The council would, however, continue to engage with Irish Water in this regard.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ¢ Transport Infrastructure Ireland (TIl) had made it clear that a footpath from Adare to the
 Adare GAA grounds would not be funded as part of the scheme. Contact would, however,
 be made with the Roads Department of the Council in relation to the possibility of laying a
@@ -94,8 +100,10 @@ of the Planning and Development Act 2000-2015 and Part Vill of the Planning and 
 Regulations 2001-2015 in relation to Rathkeale Enterprise Centre. It was proposed to proceed in
 accordance with the Deputy Chief Executive's Report.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 Members welcomed the proposal and indicated that it was important that sufficient vehicular
@@ -146,8 +154,10 @@ funding had been allocated for works.
 In relation to Foynes, the Operations Manager indicated that the contract was being finalised and
 it was hoped work would commence on site within four weeks.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 The Operations Manager indicated that a Meeting with the Office of Public Works (OPW) would
@@ -195,8 +205,10 @@ week. As there are approx 940km of roads in the Municipal District of Adare-
 Rathkeale it is not possible to issue letters to all landowners. However, as
 complaints arise the Council investigates the issues and issue notices if warranted.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 8. Question submitted by Councillor R. O'Donoghue
@@ -255,8 +267,10 @@ required.
 
 If an applicant is VAT exempt there are other options available to them.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 10. Question submitted by Councillor K. Sheahan
@@ -309,8 +323,10 @@ properties were vacant they should notify the Council. In response to an enquiry
 the Director, Regional Services undertook to update the Members on the provision of additional
 social housing in Adare.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Notice of Motion submitted by Councillor S. Keary
 
 I will move at the next Meeting that Limerick City and County Council should, as a matter of
@@ -360,8 +376,10 @@ prioritise the issues pertaining to Road Safety such as the putting in place of 
 adequate pedestrian crossings, speed ramps, footpaths & lighting. We should be influenced for
 the safety of young people using schools and sports facilities and we should be influenced by the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 needs of the elderly people at Churches, Doctors Surgeries etc. When we adopt this policy it
@@ -415,8 +433,10 @@ would be required to view the tapes. Members requested that the Motion be forwar
 
 Joint Policing Committee (JPC).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. Correspondence
 
 Correspondence was noted.
@@ -456,5 +476,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

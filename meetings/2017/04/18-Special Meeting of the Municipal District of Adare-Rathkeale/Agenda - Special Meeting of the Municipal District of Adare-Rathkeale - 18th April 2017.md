@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_special_meeting_of_the_municipal_district_of_adare-rathkeale_-_18th_april_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirdhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -43,5 +47,6 @@ To discuss allocation of the Culture and Arts Cross Party Working Group Budget.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
+
 
 ---

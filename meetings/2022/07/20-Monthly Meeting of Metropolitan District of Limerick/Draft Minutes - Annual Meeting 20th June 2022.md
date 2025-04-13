@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28b%29%20Draft%20Minutes%20Annual%20Meeting%2020th%20June%202022.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE, ON MONDAY, 20TH** **JUNE, 2022 AT**

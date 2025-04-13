@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/03%20Minutes%20Municipal%20District%20Meeting%2020th%20Sept%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -33,8 +37,10 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Service Operations Directorate
 
 Disposal of Land
@@ -76,8 +82,10 @@ existing road surface and white lining at Lynch’s bend. The Council has
 appointed Ecoflex Ltd to lay 500 sq. metres of anti-skid surfacing at the
 location. This will be followed by the renewal of the white lines.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The works are expected to be carried out by 15"" October 2018, subject to
 suitable weather conditions.
 
@@ -125,8 +133,10 @@ REPLY: It was the intention to tender this project out for construction in the s
 City & County Council, offering to take down and bury the existing over
 ground three-phase power line between the old and new burial grounds, as
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 they were doing works in an adjacent property. By doing so, it would both
 visually enhance the boundary between both the existing and new
 graveyards and have the potential of providing additional new burial spaces.
@@ -169,8 +179,10 @@ REPLY: The installation of speed ramps and other traffic calming measures is gui
 by the policy document ‘Limerick City and County Council Traffic Calming
 Policy for Urban Areas’.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In common with all housing estates in Kilmallock, the Council will erect 30
 kph signs at Millmount Estate following approval of the Speed Limit Byelaws
 in late 2018.
@@ -213,8 +225,10 @@ REPLY: On foot of representations received regarding a localised surface water
 drainage issue within the burial ground. Limerick City & County Council has
 assessed the drainage issue along with the deleterious condition of the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 existing footpaths and decided to install new surface water drainage in the
 affected area and replace the damaged sections of footpaths with new.
 
@@ -260,8 +274,10 @@ undue hardship and stress on parents and students, at the start of a new school 
 The Members agreed that the Municipal District would write to both Bus Eireann and Minister
 John Halligan, who as Minister for State had school transport as one of his Ministerial
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 responsibilities, to outline the concerns that the Elected Members felt in relation to this issue
 and seeking a meeting with both parties to discuss their concerns .
 
@@ -310,12 +326,15 @@ for the Municipal District.
 
 This concluded the Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Signed:
 
 Date:
 
 Cathaoirleach
+
 
 ---

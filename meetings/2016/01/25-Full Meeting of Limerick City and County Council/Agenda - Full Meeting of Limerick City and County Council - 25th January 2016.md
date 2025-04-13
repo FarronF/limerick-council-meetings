@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Setrbnisi Corparaideachs agus Bainistiocit Athrulthe
 Comnairie Cathrach agus Comae Luimnign
 
@@ -48,8 +52,10 @@ To consider proposal for the disposal of land at:
 {ii) 3, Flood Street, Pennywell, Limerick.
 (iii) 100 Glasgow Park, Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 {iv)
@@ -105,8 +111,10 @@ on the resignation of Shane Clifford, Councillor:
 (iv) | Stakeholder Group of Limerick 2020.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (a)
@@ -166,8 +174,10 @@ Statement for the Year Ended 31st December, 2014.
 ¢ Limerick City and County Council Statutory Audit Report for the
 Year Ended 31" December 2014.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 (h) Twinning
@@ -218,8 +228,10 @@ March 2016.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Limerick 2020 Directorate
@@ -265,8 +277,10 @@ from 22” to 24™ January, 2016.
 e Conference “Government's Construction 2020 Strategy — Local Government
 Housing Supply 2016,” to be held in Wexford, from 22™ to 24” January, 2016.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 e Forum “Demystifying EU Funding — Helping Organisations to Access the
@@ -317,8 +331,10 @@ I will move at the next Meeting that a Quantitive Risk Assessment be immediately
 carried out so as to assess the risks or none of the operation of a Gasification Plant at
 Gortadroma.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -373,8 +389,10 @@ what was the total cost to the Council.
 | will ask at the next meeting how many people on invalidity pension and blind
 pension would not be eligible for a bin waiver for this year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16.
 
 17.
@@ -420,8 +438,10 @@ referred to Environment Strategic Policy Committee)
 to those on invalidity pension and blind pension, to bring them on par with those on
 disability allowance who are in receipt of the waiver.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 22.
@@ -463,7 +483,10 @@ budget as heretofore.
 Correspondence.
 (Copy of Correspondence Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

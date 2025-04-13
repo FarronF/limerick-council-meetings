@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_environment_spc_monday_27th_february2c_2017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ko
 
 ——
@@ -23,8 +27,10 @@ Kh Lore
 DIRECTOR OF SERVICE,
 PHYSICAL DEVELOPMENT DIRECTORATE
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Agenda
 
 Minutes
@@ -58,5 +64,6 @@ out on the measures that will be undertaken to resolve this issue.
 
 Presentation on the Local Authority Environmental Enforcement 2015 - Performance
 Assessment of Limerick City & County Council
+
 
 ---

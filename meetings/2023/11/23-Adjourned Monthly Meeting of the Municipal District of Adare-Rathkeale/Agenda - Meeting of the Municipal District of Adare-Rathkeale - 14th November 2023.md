@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-14th-November-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 agi Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 & Contae Luimnigh Comhairie Cathrach agus = rm ny
 Ne <4 Li rick Cit Line Nua.
@@ -53,8 +57,10 @@ Corporate Headquarters, Merchants Quay, Limerick. W @limerickCouneil
 
 \ 061 - $86 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Declaration of Interest
 
 Planning, Environment and Place Making Directorate
@@ -97,8 +103,10 @@ zones around Chawkes Cross in Granagh to 60kms and installs driver feedback sign
 other necessary signage to advertise the reduction in speed at this dangerous junction to
 improve safety for all road users.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -121,5 +129,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 A.0.B
+
 
 ---

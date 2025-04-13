@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Budget-2024-Meeting-of-Limerick-City-and-County-Council-17th-November-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 & Contae Luimnigh
 
@@ -76,8 +80,10 @@ Capital Programme 2024-2026)
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (063 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. That Limerick City and County Council makes a Scheme for the abatement of rates
 due to it by liable persons, or classes of liable persons, in respect of vacant
 properties in accordance with the provisions of Section 9 of the Local Government
@@ -106,5 +112,6 @@ Reform Act, 2014.
 
 (Copy of proposed Retail Economic Incentive Scheme for Vacant Property 2024
 enclosed)
+
 
 ---

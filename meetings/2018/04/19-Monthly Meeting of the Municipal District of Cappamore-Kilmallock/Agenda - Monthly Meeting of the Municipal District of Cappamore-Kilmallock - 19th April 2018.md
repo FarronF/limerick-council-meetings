@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20190418.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “Ars
 
 Seirbhisi Corparaideacha.
@@ -60,8 +64,10 @@ To review the current position regarding the General Municipal Allocation 2018.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 587150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 7.
@@ -91,5 +97,6 @@ Notice of Motion submitted by Councillor W. O’Donnell
 | will move at the next Meeting that Limerick City and County Council carry out a review
 of the Bruff Local Area Plan to include re-zoning of lands for residential development
 which are required for the town.
+
 
 ---

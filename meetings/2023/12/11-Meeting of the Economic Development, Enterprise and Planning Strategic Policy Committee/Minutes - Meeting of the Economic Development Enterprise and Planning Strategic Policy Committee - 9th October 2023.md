@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-committee-9th-october-2023.pdf)
+
+---
 (Image omitted)
 
 **Draft Minutes of the Blended Meeting of Limerick City & County Council Economic Development,**

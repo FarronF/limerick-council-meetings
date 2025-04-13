@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-2021-06-02-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _———_— Comhairle Cathrach Cciche Bardais an Chaisleain Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contae Lumnigh
 = , g Aves Wilkamn aaa chor
@@ -48,8 +52,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 @LimerickCouncit
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 i1.
@@ -99,8 +105,10 @@ I will ask at the next Meeting when works incorporating the provision of pedestr
 crossings along the R522 at North Road and Liscarroll Road, Dromcolloger will take
 place.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -159,5 +167,6 @@ Notice of Motion submitted by Councillor T. Ruddle
 Monagea National School be renewed.
 
 Correspondence.
+
 
 ---

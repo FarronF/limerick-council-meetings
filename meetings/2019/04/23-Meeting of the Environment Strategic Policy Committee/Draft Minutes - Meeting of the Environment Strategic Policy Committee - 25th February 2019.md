@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Draft-Minutes-of-the-Environment-Strategic-Policy-Committee-Meeting-25-Feb-2019.pdf)
+
+---
 1
 
 **Minutes of the Meeting of Limerick City & County Council Environment Strategic Policy**

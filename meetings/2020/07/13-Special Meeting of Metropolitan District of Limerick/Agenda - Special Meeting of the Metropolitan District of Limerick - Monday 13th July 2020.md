@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/agenda-special-meeting-13-07-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 pe Comhairle Cathrach
 & Contae Luimnigh
 
@@ -54,8 +58,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (061 - 57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17th of June 2020
 Cathaoirleach a chara,
 
@@ -72,13 +78,16 @@ Ole Conon
 
 an gyi. Gl
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 at,
 
 ey
 Neat, if you cou (
 eciate . if you
+
 
 
 ---

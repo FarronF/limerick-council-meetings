@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20December%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 AEN 7 ba Cé na gCeannaithe.
@@ -51,8 +55,10 @@ raised.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ weew.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ADJOURNED NOTICE OF MOTION
 Notice of Motion submitted by Councillor E. O’Brien
 
@@ -92,5 +98,6 @@ playing facility/ Kilcornan Community Centre together with enhanced traffic calm
 measures at this location.
 
 10. Correspondence
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Agenda%20Cultural%20SPC%2012th%20December%202017.pdf)
+
+---
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Cultural Services Directorate**

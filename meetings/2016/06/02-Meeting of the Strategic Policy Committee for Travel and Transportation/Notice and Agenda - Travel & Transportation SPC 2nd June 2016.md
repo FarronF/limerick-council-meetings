@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Notice%20and%20Agenda%20-%20Travel%20%26%20Transportation%20SPC%202nd%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a,
 
 ——=—
@@ -25,8 +29,10 @@ CHAIR OF THE TRAVEL & TRANSPORATION STRATEGIC POLICY COMMITTEE
 DIRECTOR OF SERVICE,
 PHYSICAL DEVELOPMENT DIRECTORATE
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Agenda
 
 . Minutes
@@ -49,5 +55,6 @@ nsi ion of poli
 . Presentation on the 2016 Budget
 
 . Any Other Business
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_17th_november_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Seirdhist Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -49,8 +53,10 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach "= @ vevew.limerick.
 
 Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -93,8 +99,10 @@ Review of Schedule of Works 2016
 To receive update on the Schedule of Works 2016 for the Municipal District of
 Cappamore-Kilmallock.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Question submitted by Councillor E. Ryan
 
 I will ask at the next Meeting for a full breakdown of all costs incurred in providing the
@@ -122,5 +130,6 @@ Notice of Motion submitted incillor L.M. Sheeh
 
 | will move at the next Meeting that Limerick City and County Council provide traffic
 calming measures on the approach roads to Kilfinane.
+
 
 ---

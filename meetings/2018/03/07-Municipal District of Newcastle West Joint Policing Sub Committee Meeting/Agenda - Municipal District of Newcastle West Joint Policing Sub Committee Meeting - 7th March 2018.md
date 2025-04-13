@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-07%20Municipal%20District%20of%20Newcastle%20West%20JPC%20Subcommittee%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———
 
 Duiche Bardais an Chaisleain Nua Thiar,
@@ -43,5 +47,6 @@ To discuss policing issues in the District.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
+
 
 ---

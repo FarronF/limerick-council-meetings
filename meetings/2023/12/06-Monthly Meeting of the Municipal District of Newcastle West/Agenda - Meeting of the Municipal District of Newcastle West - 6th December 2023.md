@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_— Comhairie Cathrach
 
 & Contae Luimnigh
@@ -77,8 +81,10 @@ Y @LimerickCouncil
 
 & 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 accordance with Section 20(3)(n) of the Planning and Development Act 2000 (as
 amended)
 
@@ -126,8 +132,10 @@ road.
 give a detailed Update/Report on the derelict properties in Abbeyfeale town (a)
 Colbert's Terrace, (b) Main Street (c) Old Church Street (d) New Street (c) Convent
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -183,8 +191,10 @@ from 105 spaces what they got in the original planning permission, this is reduc
 down to about 80. Also we have lost parking in other parts of the town, Dooley's
 new supermarket extension. It is incumbent on the Council to provide adequate
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 within walking of town centre. The new draft public realm plans also show a
 reduction of car parking in the Square.
 
@@ -196,5 +206,6 @@ speeding through the villages and the following areas (a) The Commons, Ardagh, (
 Glenagore, Athea to Athea village and (c) Athea village to the Kerry County
 Bounds. This audit should look at speed limit reductions, driver feedback signs and
 average speed cameras.
+
 
 ---

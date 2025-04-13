@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%202018%20for%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2026th%20October%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Seirbhist Corparaideacha,
 _—" coma a Comhairle Cathrach agus Contae Luimnigh.
 re, ontae Luimnig Ceanncheathru Chorpardideach,
@@ -44,5 +48,6 @@ AGENDA
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneact! W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

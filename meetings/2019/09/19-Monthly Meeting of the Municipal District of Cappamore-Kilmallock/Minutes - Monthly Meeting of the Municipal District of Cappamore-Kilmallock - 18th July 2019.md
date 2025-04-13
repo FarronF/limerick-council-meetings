@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%2018th%20July%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -42,8 +46,10 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 {iii} | Circulated, copy of draft Minutes of Special Meeting of the Municipal District of
 Cappamore-Kilmallock held on the 2" July, 2019.
 
@@ -86,8 +92,10 @@ proposed Kilmallock Local Area Plan 2019-2025. The A/Senior Executive Planner th
 presentation to the elected Members on the Chief Executives Report dated 25™ June, 2019
 and gave an overview of the proposed Kilmallock Local Area Plan 2019-2025, She also went
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 through each submission received in relation to it and the proposed response to each
 submission by Limerick City & County Council.
 
@@ -130,8 +138,10 @@ investment plan during 2019.
 
 Upgrade to Inlet Works
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Please note Hospital will require planning permission, which our consultants are currently
 preparing the application for. Hospital forms part of the Waste Water Treatment Plant
 Upgrade Contract 2.
@@ -174,8 +184,10 @@ Reply: The Elected Members approved General Municipal Allocation (GMA) funding i
 on a section of the R512 between the Pike and the new JFK Statue, for the placement of a
 raised pedestrian crossing, which will be going ahead later this year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 While a recent funding application through the Low Cost Safety Scheme for additional works
 at this location was unsuccessful, a tender is currently being placed by Central Services for
 the provision of Driver Feedback Signs, which also includes 10 No. for the Cappamore-
@@ -217,8 +229,10 @@ basis throughout the City and County.
 Up to now, the timeframe for return of properties includes a Voids funding application to
 the Department in advance, with works commencing upon receipt of approval.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 To manage the issue, we are in the process of introducing a fast-track process that will see a
 pilot project being launched to return 30 of the properties in the coming months, After the
 first phase is completed, we will move to return more of the properties in batches of 30.
@@ -262,8 +276,10 @@ to be provided for the installation of CCTV.
 Due to budget limitations, the projected demand for CCTV installation in the 14 towns has
 been met by installation in two waves.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Wave i
 Currently the Smart CCTV project Wave 1 is in transition (test) status.
 
@@ -322,8 +338,10 @@ Community CCTV Scheme. We hope that with the knowledge provided by the CCTV
 framework develop during the Smart CCTV project many other communities will succeed in
 their applications under the DoJ Community CCTV Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In November 2018, we secured €334,573 in funding from the Community CCTV Scheme of
 the Department of Justice for the 14 towns included in the Smart CCTV Project. This allows
 us now to complete Wave 2 of the project and also to maintain sufficient funding for the
@@ -366,8 +384,10 @@ Limerick City and County Council have written to TIl with a list of agenda items
 proposed attendees as received from the Municipal Districts. It is expected that the
 meeting will occur shortly after the summer period.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12. Question submitted by Councillor Martin Ryan
 
 | will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an
@@ -409,8 +429,10 @@ The Cathaoirleach referred to the proposed meeting with Transport Infrastructure
 agenda items from the District, to the Elected Members, in case they wanted to add any other
 suggested items for this proposed meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 ¢ Vote of Sympathy
@@ -438,5 +460,6 @@ This concluded the Meeting.
 
 Signed: Date:
 Cathaoirleach
+
 
 ---

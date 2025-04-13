@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Ordinary%20Meeting%2025.11.19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach I nt Corpardidescha
 —_ & Contae Luimnigh Se ead Chama,
 a Cé na gCeannaithe,
@@ -60,8 +64,10 @@ Development Act, 2000 (as amended), at:
 Ceanncheathrié Chorpardideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 (f
@@ -126,8 +132,10 @@ To consider the adoption of the Limerick City and County Council Corporate Plan
 2019-2024.
 (Report and copy of Draft Plan Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (e) Audit
 
 (i) Audit Committee Work Programme 2019-2020
@@ -170,8 +178,10 @@ Committee Meeting held on 29™ October, 2019.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -221,8 +231,10 @@ Arrangements.
 
 (Report and copy of Draft Scheme Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Community Development
@@ -268,8 +280,10 @@ Biodiversity” held in Clonakilty Co. Cork on from 8" to 10" November, 2019.
 e “Entitlement to Health Services” held in Clonakilty, Co. Cork, from 15" to 17%
 November, 2019.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -323,8 +337,10 @@ I will ask at the next Meeting what is the Building Energy Rating of all local a
 which has undergone retrofit in the last two years. Please provide numbers of houses at each
 BER grade.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -360,5 +376,6 @@ Limerick Greenway with a view to linking Limerick City with the Suir Blueway, Ti
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

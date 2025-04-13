@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2020th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -54,8 +58,10 @@ the City's Arts, Culture and Community Resource Centre.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach  wwwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 2
@@ -103,8 +109,10 @@ Home and Social Development
 
 To receive Presentation from Respond Housing Association.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -153,8 +161,10 @@ Government to immediately cease the water meter installation programme and
 divert those resources and staff to replacing all lead piping. The costs of this
 programme should be paid for by the state, as in Ballynanty and Kileely.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -212,8 +222,10 @@ Notice of Motion submitted by Councillor James Collins
 suitable site for a community centre for Raheen, Dooradoyle, Mungret and
 surrounding areas.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20.
 
 21.
@@ -257,5 +269,6 @@ under the RAS and HAP schemes prior to the tenant taking up their tenancy.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

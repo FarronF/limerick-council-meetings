@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20on%2024th%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK
 HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON FRIDAY, 24™ JUNE, 2016,
 
@@ -46,8 +50,10 @@ International Band Championship and the Council's continued investment in and su
 a wide variety of festivals and events - key drivers of economic growth and a vital source of
 income to Limerick during 2015.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Highlights:
 
 e Arrival of more than 30 new retailers in the past 12 months.
@@ -109,8 +115,10 @@ Seconded by Councillor Collins.
 
 “That Councillor Michael Hourigan be appointed Mayor of the Metropolitan District of Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 to hold office until the next Annual Meeting or until a successor has been appointed”.
@@ -170,8 +178,10 @@ For Councillor Keller
 
 Councillors Keller, Loftus and Prendiville (3)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 For Councillor Secas
 Councillors Leddin and Secas (2)
 
@@ -218,8 +228,10 @@ Seconded by Councillor Prendiville.
 “That Councillor Cian Prendiville be appointed Deputy Mayor of the Metropolitan District of
 Limerick to hold office until the next Annual Meeting or until a successor is appointed”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Hurley;
 Seconded by Councillor Collins.
 
@@ -270,8 +282,10 @@ Members were missing from the Meeting, namely former Councillor Joe Crowley who 
 passed away tragically in the course of the year and former Councillor Shane Clifford who had
 resigned. They congratulated former Councillor Byrne on her appointment to the Seanad.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 The Director congratulated Councillor Hourigan and Councillor Butler on their elevation to the
@@ -287,5 +301,6 @@ Signed:
 MAYOR
 
 Dated:
+
 
 ---

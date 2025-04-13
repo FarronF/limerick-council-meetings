@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%2015th%20April%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_— Comhairle Cathrach
 
 & Contae Luimnigh
@@ -63,8 +67,10 @@ To consider date for the May Meeting of the Metropolitan District of Limerick.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposal of land as follows:
@@ -113,8 +119,10 @@ in their Offices in Dublin.
 
 (Correspondence Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -165,8 +173,10 @@ St Nessan’s Primary School Mungret Parents Association €1,000
 Mungret Community College Parents Association €1,000
 Draw Out Limerick €1,000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -214,5 +224,6 @@ Strategic Policy Committee)
 
 ! will move at the next meeting that the Council consider installing a network of drinking
 fountains in appropriate locations to cut the number of plastic bottles used.
+
 
 ---

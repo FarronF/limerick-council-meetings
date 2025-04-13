@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/03-february-2020-md-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __ Comhairle Cathrach Comranie Catt nay agus area Luimnigh,
 
 z dig an Cheantat, Aras Mhainchin Seoighe,
@@ -55,8 +59,10 @@ Hospital, Co. Limerick. as
 Comhairie Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Aras Mhainchin Seoighe wwwlimerickie
 Limerick City and County Council. Aras Mainchin Seoighe Area Office v
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Capital Investment Directorate
 
 Disposal of Property
@@ -98,8 +104,10 @@ were not included in the first phase, include the following locations: Hospital,
 Knocklong, Knockainey, Kilteely, Herbertstown, Galbally, Ballylanders, Martinstown,
 Bulgaden, Meanus, Grange, Bruff, Garrydoolis and Templebraden.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Notice of Motion submitted by Councillor Martin Ryan
 
 | will move at the next meeting of the Municipal District of Cappamore-Kilmallock that
@@ -139,5 +147,6 @@ Limerick City and County Council advise what are the anticipated numbers and typ
 social housing units (either new build, acquisition, refurbishment, long-term void, etc.)
 that will become available within the next 6 months in each village/town in the
 Cappamore-Kilmallock Municipal District.
+
 
 ---

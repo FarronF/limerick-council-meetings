@@ -1,4 +1,9 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_cappamore_-_kilmallock_-_agenda_12_june_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 ——_
 oe
 
@@ -49,5 +54,6 @@ Environment, Community and Local Government Enclosed)
 res,
 ig Cé na gCeannaithe, Luimneach t: 061 407100 e@: info@timerickcity.ie
 * 2 Merchant's Quay, Limerick f: 061 415266 w: www.limerickcity.ie
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_4th_october2c_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
@@ -55,8 +59,10 @@ Maritime Museum.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach |  wowlimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Servic rations — Planning & Environmental Servic
 
 (a) To receive update on the Taking-In-Charge of Ballyvareen Estate.
@@ -92,8 +98,10 @@ Question submitted by Councillor K. Sheahan
 | will ask at the next Meeting for a detailed report on the Council’s intentions regarding Kilbraden
 Burial Ground.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -141,5 +149,6 @@ Notice of Motion submitted by Councillor R. O'Donoghue
 the footpaths in St. Mary’s Park, Rathkeale in the interest of public health and safety.
 
 Corr: nden
+
 
 ---

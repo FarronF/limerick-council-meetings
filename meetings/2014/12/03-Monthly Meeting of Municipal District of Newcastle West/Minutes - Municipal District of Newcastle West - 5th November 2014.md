@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_5th_november_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM
 SMITH OBRIEN, GORTBOY, NEWCASTLE WEST, CO. LIMERICK,
@@ -41,8 +45,10 @@ presentation. They complimented the Gardai on their preparation for Halloween as
 had been a dramatic fall-off in Halloween incidents in 2014. Members welcomed the joint
 efforts made by both Council staff and the Gardai.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Zz
 Members outlined their concerns, which included the following:
 
@@ -107,8 +113,10 @@ write to the Department of Social Protection requesting that the use of Dates of
 (DOB) normally used in relation to transactions with Public Bodies be replaced by PPSN
 Nos. (Personal Public Service Nos.).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Customer Services:
 
 The Executive Architect circulated to Members copy plans of the Proposed Refurbishment
@@ -150,8 +158,10 @@ Councillor Galvin requested a more detailed response to this Question.
 It was proposed by Councillor Browne and seconded by Councillor Foley that a Meeting be
 arranged with Cluid Housing Association in the near future.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Question submitted by Councillor J. Scanlan
 
 | will ask at the next Meeting if remedial works will be undertaken to improve sight
@@ -194,8 +204,10 @@ Management Plan for the town, which would incorporate the purchase of this prope
 A short discussion ensued on this Motion and, again, it was stressed that a Traffic
 Management Plan was urgently required for the town.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: There is considerable merit in acquiring this building from a transportation
 perspective. Clearly, its acquisition would be dependant on a funding source
 being made available to purchase the property at a reasonable price.
@@ -245,8 +257,10 @@ We require immediate confirmation from your offices that this practice has
 
 now ceased."
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Following receipt of the above direction, the Council confirmed to the Office
 of the Data Protection Commissioner that the practice had ceased in April
 2014.
@@ -290,8 +304,10 @@ Councillor Galvin seconded the Motion.
 REPLY: There is no funding available in the current year for the provision of
 additional street bins in Abbeyfeale.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Members welcomed that the Fire Station in Abbeyfeale was re-opened but they stated that
 a long-term solution was needed to the on-going problems being experienced by the
 Station. Members requested that they be kept up-to-date on the situation.
@@ -310,5 +326,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

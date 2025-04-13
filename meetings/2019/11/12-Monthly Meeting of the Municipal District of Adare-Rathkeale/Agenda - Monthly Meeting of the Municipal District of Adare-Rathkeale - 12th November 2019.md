@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%2012th%20November%2C%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rith Caola,
 & Contae Luimnigh Comhairle Cathrach agus “ee prey ty
 ~ a ns = = Line Nua,
@@ -56,8 +60,10 @@ To discuss Traffic Calming Scheme at N20 Banogue.
 Ceanncheathri Chorparéideach, Cé na gCeannaitheLuimneach ! © won limericcie
 Corporate Headquarters, Merchants Quay, Limerick. Ld Coeksases0
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Capital Investment Directorate
 Part 8 Procedure — Towerfield, Croom, Co. Limerick
 To consider the Chief Executive’s Report pursuant to Section 179 3 (a) of the Planning and
@@ -92,8 +98,10 @@ Questions submitted by Councillor 8. Collins
 | will ask at the next Meeting if a full time village caretaker or maintenance operative has
 been appointed in Adare on the occasion of the retirement of Mike Brouder.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -129,5 +137,6 @@ Correspondence
 (Correspondence Enclosed)
 
 A.0.B
+
 
 ---

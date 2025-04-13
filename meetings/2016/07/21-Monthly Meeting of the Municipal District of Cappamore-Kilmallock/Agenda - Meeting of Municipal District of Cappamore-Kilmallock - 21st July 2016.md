@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Meeting%20of%20Municipal%20District%20of%20.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -56,8 +60,10 @@ including Limerick Sports Partnership Strategic Plan 2016-2020.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © weewtimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -90,5 +96,6 @@ I will move at the next Meeting that the Cappamore-Kilmallock Municipal District
 to mobile network providers supplying coverage in the Cappamore / Kilmallock area to
 express sincere displeasure with the inconsistent service they provide in towns and
 rural areas across Limerick County.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Minutes%20of%20JPC%20Meeting%2010th%20May%2019.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
 **COUNCIL CHAMBER, DOORADOYLE, ON FRIDAY, 10TH** **MAY, 2019 AT 2.00 P.M.**

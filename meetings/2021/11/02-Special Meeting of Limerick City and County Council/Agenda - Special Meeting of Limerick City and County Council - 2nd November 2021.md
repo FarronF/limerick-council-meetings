@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-agenda-special-meeting-02.11.2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 P Seibhisi Corpardideacha,
 a parctlealy pretend Comhairle Cathrach agus Contae Luimnigh,
 ontae Luimnigh Ceanncheathna Chorpardidesch,
@@ -47,5 +51,6 @@ mm customerservices@limerick.le
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

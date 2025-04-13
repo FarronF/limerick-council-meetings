@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 wl Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -44,8 +48,10 @@ To receive Deputation from Rathkeale Community Council. (Item to be taken at 9.0
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach www limerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -91,5 +97,6 @@ the standard of maintenance and structure of headstones and kerbing that applied
 for a period in excess of twenty years.
 
 Corr n
+
 
 ---

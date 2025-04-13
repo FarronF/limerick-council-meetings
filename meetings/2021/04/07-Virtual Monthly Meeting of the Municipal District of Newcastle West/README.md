@@ -4,4 +4,17 @@
 
 **Date and Time:** 2021-04-07 10:00:00
 
-**<a href="https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-60" target="_blank">Link to meeting</a>**
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-60)**
+
+Files: 
+
+Agenda - Monthly Meeting of the Municipal District of Newcastle West - 7th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-2021-04-07-agenda.pdf) - [Extracted text](./Agenda%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%207th%20April%202021.md)
+
+Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-2021-03-03-minutes-march.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%203rd%20March%202021.md)
+
+Presentation Fairtrade - Monthly Meeting of the Municipal District of Newcastle West - 7th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/02-2021-04-07-presentation-fairtrade.pdf) - Text not extracted
+
+Replies to Questions - Monthly Meeting of the Municipal District of Newcastle West - 7th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/2021-04-07-replies-to-questions.pdf) - Text not extracted
+
+Replies to Notices of Motion - Monthly Meeting of the Municipal District of Newcastle West - 7th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/2021-04-07-replies-to-nom.pdf) - Text not extracted
+

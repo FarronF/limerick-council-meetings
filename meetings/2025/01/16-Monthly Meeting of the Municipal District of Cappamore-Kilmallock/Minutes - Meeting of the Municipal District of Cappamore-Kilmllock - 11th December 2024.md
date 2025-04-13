@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-cappamore-kilmllock-11th-december-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
 MAINCHIN SEOIGE AND ON-LINE, ON WEDNESDAY, 11™ DECEMBER
@@ -41,8 +45,10 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Matters Arising
 Councillor Teefy (8) requested an update on the driver feed-back sign replacement and
 repairs in the District.
@@ -80,8 +86,10 @@ Placemaking to the meeting.
 Sean McGrath, Executive Engineer, Planning Enforcement gave a brief overview of the
 works carried out by the Council to enable the taking in charge of the Cluain Foinse Estate
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 which included a new watermain and foul and storm water line repairs. Costing for the
 works was in the region of €77,300 with €46,000 of the spend coming from Development
 Fund monies. He requested the approval of members to take this estate into the charge of
@@ -126,8 +134,10 @@ Member requested an information evening be arranged for the Cappamore-Kilmallock
 Municipal District to facilitate members of the general public who may be interested in
 availing of this scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7 Notice of Motion submitted by Councillor PJ Carey
 
 “| will move at the next meeting of the Cappamore-Kilmallock Municipal District that Housing
@@ -160,8 +170,10 @@ The Meetings Administrator advised Members on the changes to the private housing
 scheme whereby from the 1° of January, 2025 applicants will no longer be able to apply for
 assistance to replace fossil fuel boilers in their homes.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Leas Cathaoirleach Cllr. Conway (G) wished all present a Happy Christmas and thanked Staff
 of the Municipal District for all their efforts during the year and thanked Dara O’Brien Senior
 Staff Officer in particular for all her work over the years and wished her well in her new role.
@@ -176,7 +188,10 @@ Cathaoirleach
 
 Date:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

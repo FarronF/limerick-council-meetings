@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/00%20Agenda%20Special%20Meeting%2015th%20August%20.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Seirbhist Corpardideacha,
 ir! hr, imnigh,
 ee & Contae Luimnigh a. boheme
@@ -51,5 +55,6 @@ Limerick along the former Limerick to Kerry railway line.
 
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
+
 
 ---

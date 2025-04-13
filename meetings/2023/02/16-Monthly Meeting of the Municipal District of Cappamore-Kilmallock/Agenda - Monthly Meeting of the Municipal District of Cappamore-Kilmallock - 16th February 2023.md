@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20February%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __——_ Comhairle Cathrach Combiaine Cotsuactiemis Cortes Liiekit
 
 & Contae Luimnigh Olfig an Cheantair, Aras a Mochenso.
@@ -50,8 +54,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office nd
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Property Services
 
 To consider Disposal of Property at:
@@ -91,8 +97,10 @@ otherwise in good condition.
 Limerick City and County Council to promote and allocate grant funding to support the
 2023 Annual St. Patrick’s Day Parades planned within the Municipal District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Notice of Motion submitted by Councillor Carey
 
 I will move at the next meeting of the Cappamore/Kilmallock Municipal District that Active
@@ -118,5 +126,6 @@ to slow traffic and in the interests of safety for all road users.
 
 | will ask at the next Municipal District meeting that improvement works/safety measures
 be carried out around the area of Cahercorney Graveyard on the R514.
+
 
 ---

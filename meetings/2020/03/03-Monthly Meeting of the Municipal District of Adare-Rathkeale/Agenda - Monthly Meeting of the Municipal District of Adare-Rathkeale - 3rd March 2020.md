@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-3rd-march-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnugh,
 
@@ -58,8 +62,10 @@ amended) in relation to the proposed N20 Banogue Traffic Calming Scheme.
 = customerservices@limerick.te
 Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © weunilimerick.te
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 I - 202
 
 To consider the Chief Executive’s Report dated 21" February 2020 on the proposed
@@ -93,8 +99,10 @@ Notice of Motion submitted by Councillor K. Sheahan
 Party Leaders in the Republic to adopt a policy granting each credit union branch the
 authorisation to become a Building Society.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -108,5 +116,6 @@ Correspondence
 
 (Copy of Correspondence Enclosed)
 A.0.B
+
 
 ---

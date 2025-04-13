@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00-2019-10-09-JPC-Subcommittee-Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 & Contae Luimnigh Comnairle Cathwach agus Contae Luirnnigh,
 
@@ -52,5 +56,6 @@ To discuss policing issues in the District.
 meneneryeertarikt
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www.limerickic
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Meeting%2015th%20June%252c%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 <——
 —=_>
 
@@ -68,8 +72,10 @@ To receive Presentation on Tourism/Marketing Proposals.
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Social Development Directorate
@@ -96,5 +102,6 @@ Notice of Motion submitted by Councillor E. Ryan
 | will move at the next meeting that this District provide Road Restoration Funding to
 complete the necessary road works and footpath at Nicker - this footpath to run from
 the Priest’s house to Nicker School with pedestrian crossing to School.
+
 
 ---

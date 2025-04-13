@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01-agenda_19.02.2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13" February, 2015.
 
 To/ The Cathaoirleach_ and each Member of the Municipal
@@ -37,8 +41,10 @@ To receive Presentation from Noel Earlie of the JP McManus Benevolent Fund givin
 outline of the Team Limerick Clean Up Campaign.
 (Presentation Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 7.
@@ -88,8 +94,10 @@ Notice of Motion submitted by Councillor Sheehy
 addressed immediately with stop Signs and lining.
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -110,5 +118,6 @@ Notice of Motion submitted by Councillor Donegan
 
 | will move at the next Meeting that Limerick City & County Council consider road
 improvements at the junction at Kilgarriff, Ballylanders.
+
 
 ---

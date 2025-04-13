@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_environment_spc_-_24th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ————
 
 ArN ,
@@ -25,8 +29,10 @@ Fetord Dj] by.
 PP DIRECTOR OF SERVICE,
 _ PHYSICAL DEVELOPMENT DIRECTORATE
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Agenda
 1. Minutes
 
@@ -51,5 +57,6 @@ those resources to locate and replace lead pipes.
 
 5. To consider the Council's policy in relation to the provision of water connections at
 burial grounds
+
 
 ---

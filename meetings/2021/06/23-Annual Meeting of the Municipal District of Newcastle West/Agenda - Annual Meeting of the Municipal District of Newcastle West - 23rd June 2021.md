@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-2021-06-23-agenda-agm.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a pero} Cathrach
 
 ontae Luimnigh
@@ -60,5 +64,6 @@ DJ customerservicesalimerick.te
 
 LimerickCouncil
 ( 061 - 556 000
+
 
 ---

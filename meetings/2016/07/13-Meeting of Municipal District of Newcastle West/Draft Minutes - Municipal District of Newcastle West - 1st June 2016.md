@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD
 IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 1* June,
 2016, AT 10:00 A.M.
@@ -51,8 +55,10 @@ made up to and including the 27" June, 2016.
 e Tender documents were being prepared in tandem with the public consultation
 process.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 e it was proposed to bring Part Vill Report to the July Meeting for consideration.
 
@@ -104,8 +110,10 @@ available heritage information to the wider public in a user-friendly manner.
 
 e To promote best practice in heritage conservation and management.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY:
 
 3
@@ -162,8 +170,10 @@ of different Directorates including both Economic Development and the Service Op
 Directorate. A review of the necessary operational structures required to advance the
 development of the GST is underway.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 The marketing of the Great Southern Trail will be undertaken following the necessary
@@ -219,8 +229,10 @@ of the New Barnagh Road going down hill.
 REPLY: All crash barriers required under the construction contract have been installed by the
 contractor.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Cathaoirleach referred to Item 5 which had been deferred earlier in the Meeting and it was agreed to
 take this item before the Notices of Motion.
 
@@ -275,8 +287,10 @@ Local Economic Community Plan, find it is consistent with the Limerick City Deve
 there is consistency between the economic and the community elements of the LECP, in
 accordance with Section 66 of the Local Government Act, 2001, as amended”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 NOTICES OF MOTION
@@ -330,8 +344,10 @@ programme. The necessary works are to commence in early June.
 In reply to a query regarding amount of funding received under the Severe Weather
 Funding Programme, the Roads Engineer agreed to email the list of projects and amounts
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 to Members. It was also stated that the second round of funding under the Programme was
@@ -379,8 +395,10 @@ Seconded by Councillor Sheahan.
 
 REPLY: Prior to carrying out a major overlay of the carriageway in Glin Village, it would be
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 prudent to undertake a strategic Public Realm Plan for the village. This plan would
@@ -434,8 +452,10 @@ She stated that a Motion to change the name of The Square would have to be passe
 Council. In this regard, a Motion could be submitted to the July Meeting of the Full Council from
 the Municipal District to propose the change of name and to commence the process.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 After a brief discussion, it was agreed to make contact with residents of the Square in relation to
 the proposal and if the feedback was positive to proceed to Full Council with a Motion.
 
@@ -453,5 +473,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

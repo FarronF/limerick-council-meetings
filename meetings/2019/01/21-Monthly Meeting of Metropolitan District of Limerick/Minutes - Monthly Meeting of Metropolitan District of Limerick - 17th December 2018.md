@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20Draft%20%20Minutes%2017th%20December%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
 THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 17™ DECEMBER, 2018 AT
 9.45 A.M.
@@ -47,8 +51,10 @@ positive contribution that the Cathedral makes to the City.
 Clir Leddin referred to the CPO legislation and the use of this legislation by the Urban &
 Rural Community Development team. Cllr Leddin requested an update on the CPO process
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -114,8 +120,10 @@ this Item to the January Meeting of the District.
 
 Economic Development Directorate
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Castletroy Local Area Plan 2019-2025
 
 Circulated copy of Chief Executive’s Report dated 19"" November, 2018 in relation to the proposed
@@ -165,8 +173,10 @@ of queries including the pay by weight option and the incentives to reduce waste
 Executive Officer, Physical Development confirmed that the flat rate pricing will be phased out and
 the pay by weight or pay by lift option will be used. Mr McGuigan stated that the public
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 consultation report was for noting at the Metropolitan meeting and the new Bye-Laws will be on
@@ -223,8 +233,10 @@ operational
 ¢ Members requested more signage and indicator signs be installed in SOkph / 60kph
 zones.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 ¢ Members referred to the N69 in particular on approach to Clarina and reduction of
@@ -279,8 +291,10 @@ of Riverfest 2019.
 
 Suspension of Standing Orders
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 It was proposed by Cllr J Leddin and seconded by Cllr J O’Dea to suspend Standing Orders in order
@@ -342,8 +356,10 @@ Procurement Framework Information Document.
 2. The timescale for Stage 1 and 2 are comparable for Rapid Build and Conventional
 construction. The main time saving is at Stage 3 and 4 (site stage). On a current
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 7
@@ -407,8 +423,10 @@ Derelict Site Act 1990 requesting the present owners to carry out certain
 remedial measures in order to prevent land becoming or continuing to be
 a Derelict Site.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21, Question submitted by Councillor S.Lynch
 
 | will ask at the next meeting how many rough sleepers do we have on our streets compared to
@@ -468,8 +486,10 @@ Number of valid
 Commencement Notices
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 received
 Number of new
 buildings notified to the
@@ -525,8 +545,10 @@ Further examination did not proceed at the time due to funding constraints, and
 other traffic calming works were provided in the Rhebogue area. The Council
 proposes to examine the provision of a pedestrian walkway now, under the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10
 
 Limerick-Shannon Metropolitan Area Transport Strategy and we will seek grant
@@ -552,8 +574,10 @@ pocommodated in
 ‘amily Emergency
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTI MOTION
 
 18. Notice of Motion submitted by Councillor J. Gilligan
@@ -599,8 +623,10 @@ Strategic Policy Committee)
 ! will move at the next meeting that this Council immediately re-act local bye-laws making all
 refuse collectors charge customers on a pay by weight basis.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12
 
 It was agreed to refer this Motion to the Environment Strategic Policy Committee.
@@ -652,8 +678,10 @@ the Members in the District with the response from TI.
 
 I call on my fellow Metropolitan Councillors to join me in calling for the national core responders
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13
 
 initiative to be implemented in Limerick Fire and Rescue who are currently fully trained in this.
@@ -705,8 +733,10 @@ This is relevant to us and our constituents as a majority of EMTs and paramedics
 members of the National Ambulance Service Representative Association (NASRA) and
 Psychiatric Nurses Association (PNA) and have been denied recognition by the HSE. A one day
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14
 
 national strike of ambulance staff is to take place on Wednesday 19*” December and already
@@ -743,5 +773,6 @@ Signed:
 MAYOR
 
 Dated: ——————————————
+
 
 ---

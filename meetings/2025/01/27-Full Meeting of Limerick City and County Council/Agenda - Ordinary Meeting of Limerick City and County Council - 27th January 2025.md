@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/00-agenda-ordinary-meeting-limerick-city-and-county-council-27.01.2025.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach : — Setrbhisi Corpardideacha,
 & Contae Luimnigh Comnairie Cathrach agus Corkae Luimnigh,
 fs, Ceanncheathrd Chorpardideach.
@@ -69,8 +73,10 @@ wvew limerick ie
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach ouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Derelict Disposals
 
 (d) Property at Kerry Road, Abbeyfeale, Co. Limerick.
@@ -109,8 +115,10 @@ nominee to the Local Community Development Committee.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (f) Nominations to Strategic Policy Committees
 
 {i) To consider the approval of Sectoral Nominees to the Strategic Policy
@@ -144,8 +152,10 @@ To note reports by Members who have participated at Conference / Seminar /
 Meeting / Event.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -191,8 +201,10 @@ Question submitted by Councillor E. O’Donovan
 | will ask at the next Meeting for resources available to Limerick Council for complaints
 of animal welfare issues, including horses, during the recent freezing weather.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -250,8 +262,10 @@ OF SaePppann
 We will move at the next Meeting that we call on the incoming Minister for Health to
 establish an ambulance base at Kilmallock Primary Health Centre, Kilmallock.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 Notice of Motion submitted by Councillor S. Hickey-O'Mara
@@ -296,8 +310,10 @@ in danger of damaging the infrastructure and (c) calls on the Government to set 
 special emergency phone number which is activated prior to and manned during all
 orange and red weather alerts.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23.
 
 Notice of Motion submitted by Councillor A. Teskey
@@ -342,8 +358,10 @@ relevant Government Department-backed plan to be put in place to mitigate agains
 the danger of falling Trees, Branches and Bramble resulting in Power and water supply
 outages into the future.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 31.
 
 Notice of Motion submitted by Councillor E, O'Donovan
@@ -372,5 +390,6 @@ I will move at the next meeting that the owners of the former Debenhams building
 are encouraged to expedite development and reuse this key City Centre site.
 
 Correspondence
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-17th-february-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __— Comhairle Cathrach
 & Contae Luimnigh
 
@@ -53,8 +57,10 @@ em customerservices@limerickic
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick © 061 - §57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 
 To note proposal for the disposal of land as follows:
@@ -93,8 +99,10 @@ accordance with the provisions of Section 19 of the Planning and Development Act
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 6. Question submitted by Councillor S. Benson
@@ -134,8 +142,10 @@ feasible.
 release funding for St. Gabriel’s Respite House for children with acute, life-limiting conditions
 which remains closed one year after completion so as it can be opened without delay.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 12. Notice of Motion submitted by Councillor F. Kilcoyne
@@ -154,5 +164,6 @@ nurse in June 2020.
 14. Correspondence
 
 (Copy of Correspondence Enclosed)
+
 
 ---

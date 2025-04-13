@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-meeting-5th-march-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ————— Comhairle Cathrach Pn Cchemacemnunenen
 a & Contae Luimnigh Ceanncheathni Chorparaideach,
 ANcrN . Cé na gCeannaithe,
@@ -56,8 +60,10 @@ of cars parking on footpaths throughout the city thereby obstructing pedestrians
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimnesch w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -128,8 +134,10 @@ Notice of Motion submitted by Councillor Conor Sheehan
 Superintendent to put in place a specific policing operation to combat the rise in anti social
 behaviour along the Canal Bank and Island Bank in Limerick city”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. N f i i uncillor Conor n
 
 17.
@@ -151,7 +159,10 @@ to be responsible for their children. | would recommend that sanctions be impose
 parents whose children are engaging in such behaviour by means of fines and that these
 fines would be recovered by way of attachment of earnings, if applicable”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

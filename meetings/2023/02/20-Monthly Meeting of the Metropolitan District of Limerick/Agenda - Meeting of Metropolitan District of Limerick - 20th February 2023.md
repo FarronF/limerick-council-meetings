@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20February%202023%20%281%29.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 : Setrbhisi Corperdidescha,
 ae pa alread Comhairie Cathrach agus Contae Lulmnigh
 ontae mrnigi Ceanncheathra Chorpardidesch,
@@ -46,8 +50,10 @@ m= customerservices@limerick.te
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luirmmeach w @LimerickCouncti
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 
 To note proposal for the disposal of land as follows :
@@ -89,8 +95,10 @@ QUESTIONS
 the Council currently deploy in Limerick city and how many mini sweepers/cycle lane sweepers
 are deployed in the city.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
@@ -131,8 +139,10 @@ Catherine Street.
 | will ask at the next Meeting of the Metropolitan District of Limerick for the Council to outline
 the long-term plans for Donnellan's Field / Thomondgate Weir.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor C. Sheehan
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on Limerick
 
@@ -174,8 +184,10 @@ some works have been done the area is still not acceptable and needs immediate a
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 proposed Flood Relief Scheme for Annacotty including Mulcair Drive and Mountshannon Road.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Question submitted by Councillor $. Novak Ui Chonchdir
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the Mobility
@@ -213,8 +225,10 @@ weather conditions.
 in Limerick city be retained by Limerick Council for community use as community groups have no
 Spaces to use within the city centre.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26. Notice of Motion submitted by Councillor C. Sheehan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the Active Travel
@@ -260,5 +274,6 @@ regularly to St. John’s Square to alleviate anti-social behaviour in the area.
 
 32. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

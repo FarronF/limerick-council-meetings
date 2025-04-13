@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%202022-11-02%20Agenda%20November.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar.
 & Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh.
 
@@ -56,8 +60,10 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -107,8 +113,10 @@ NOTICES OF MOTION
 | will move at the next Meeting that urgent and immediate work be carried out on
 the bridge dividing Kerry and Limerick on the Kilmorna Road.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 Notices of Motion submitted by Councillor J. Scanian
@@ -118,5 +126,6 @@ improved levels of service from the ESB.
 
 I will move at the next Meeting that a progress report be provided in respect of the
 need for a Distributor Road in Newcastle West.
+
 
 ---

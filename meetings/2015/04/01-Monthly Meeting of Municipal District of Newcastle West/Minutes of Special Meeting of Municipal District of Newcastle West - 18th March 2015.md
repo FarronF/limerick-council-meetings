@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_muncipal_district_of_newcastle_west_-_18th_march_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
 WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON
@@ -38,8 +42,10 @@ would encourage participation, promote health and wellbeing and foster a sense o
 community. He stated that what was required from the General Municipal Allocation
 was funding to undertake a feasibility study for the project.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor Collins added that clarification had been sought from the Chief Executive
 and Head of Finance in relation to the criteria for allocating funds, under the Special
 Projects Category, from the General Municipal Allocation. He stated that it was
@@ -71,5 +77,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

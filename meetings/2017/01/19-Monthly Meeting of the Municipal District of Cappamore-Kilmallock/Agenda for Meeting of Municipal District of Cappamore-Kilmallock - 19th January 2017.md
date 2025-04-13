@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_2017-01-19.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —
 —
 
@@ -68,8 +72,10 @@ Superintendent William Duane, Bruff District to give update on policing for the 
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Social Development Directorate
 
 To receive update on the Local Economic Community Plan (LECP) / Community
@@ -90,5 +96,6 @@ treatment plant in Hospital. | will also ask what is the time frame for upgradin
 plant to cater for present and future needs and also to ensure compliance with relevant
 regulations and criteria. This upgrade is an immediate and essential priority for
 Hospital to move forward.
+
 
 ---

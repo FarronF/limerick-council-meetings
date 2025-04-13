@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%202018-01-10%20Minutes%20January%202018.pdf)
+
+---
 MINUTES
 
 OF

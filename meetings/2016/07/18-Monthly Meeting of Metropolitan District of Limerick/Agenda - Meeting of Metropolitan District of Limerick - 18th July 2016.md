@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -56,8 +60,10 @@ O’Malley Park, Southill, being transferred to Limerick City and County Council
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach © www limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (b)
@@ -112,8 +118,10 @@ Fire Services Act, 1981 and 2003.
 
 (Copy Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6.
 
 10.
@@ -167,8 +175,10 @@ Notice of Motion submitted by Councillor Joe Leddin
 to attend a future Metropolitan Meeting and present their thoughts on what Limerick must
 do to enhance our tourism offerings and increase visitor numbers to the City.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -222,8 +232,10 @@ donations from men who have had sex with men, and instead calling for all blood
 donations to be screened on the basis of risky sexual behaviour rather than the current,
 prejudiced system.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.
@@ -238,5 +250,6 @@ at Rathbane.
 Correspondence.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

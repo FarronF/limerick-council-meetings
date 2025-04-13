@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20of%20SPC%2003rd%20December%202018.pdf)
+
+---
 21 November 2018
 
 **To/Each Member of the Economic Development, Enterprise and Planning**

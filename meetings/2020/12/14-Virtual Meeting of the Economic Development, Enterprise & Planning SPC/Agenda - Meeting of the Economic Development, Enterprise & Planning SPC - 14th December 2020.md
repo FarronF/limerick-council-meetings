@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/agenda-of-spc-mtg-14th-dec-2020.pdf)
+
+---
 **8th** **December, 2020**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**

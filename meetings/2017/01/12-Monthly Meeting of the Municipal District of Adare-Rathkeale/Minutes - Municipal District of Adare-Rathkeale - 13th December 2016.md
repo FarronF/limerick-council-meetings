@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_13th_december_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD IN ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON
 TUESDAY, 13™ DECEMBER, 2016, AT 9.00 A.M.
@@ -44,8 +48,10 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 2; Deputation from Foynes Flying Boat and Maritime Museum
@@ -91,8 +97,10 @@ Adare Town Park Maintenance 44,224 |
 Mesh Fence Adar re it00
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 On the proposal of Councillor O’Brien, seconded by Councillor O'Donoghue the proposed
@@ -140,8 +148,10 @@ location and was awaiting reply. It was noted that the Council had applied for f
 repair works to the banks at this location but the application was refused as the works did not
 meet the OPW’s cost benefit criteria.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 Members expressed their dissatisfaction at the lack of progress in relation to Ballysteen and
@@ -188,8 +198,10 @@ respect of legal liability attaching to the Council in respect of any maintenanc
 upkeep activities the Council may be engaged in both to owned slipways/piers and
 privately owned slipways/piers.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 From Marine point of view, the Council owned slipways/piers exposures should be
@@ -237,8 +249,10 @@ undertook to review same when the estate was taken in charge.
 An amended Motion was put forward by Councillor Keary, seconded by Councillor Teskey that the
 taking-in-charge of Cois Sruthain be delayed until the planning application associated with the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 route of the proposed fence had been resolved to the satisfaction of the Members and the fence
@@ -285,8 +299,10 @@ from the District.
 
 11. Correspondence
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 Members noted correspondence that had been received from the Environmental Protection
@@ -339,8 +355,10 @@ and 4 p.m. and that many locals walk to and from Askeaton to the plant. He highl
 for a footpath from the plant linking up with Askeaton and requested that this request go forward
 as a Motion to the next Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8
 
 Councillor O'Donoghue requested an update in relation to Neville’s Cross junction and Lees Cross.
@@ -358,5 +376,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-ii-minutes-8th-july-2021.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS OF ON-LINE SPECIAL MEETING OF THE

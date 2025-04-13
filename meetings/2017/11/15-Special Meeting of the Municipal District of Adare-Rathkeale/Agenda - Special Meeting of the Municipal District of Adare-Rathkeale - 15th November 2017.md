@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Agenda%2015th%20November%252c%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Comhairle Cathrach
 & Contae Luimnigh
 a i
@@ -68,5 +72,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ woewlimerickie
 a
 ( 061 - 557150
+
 
 ---

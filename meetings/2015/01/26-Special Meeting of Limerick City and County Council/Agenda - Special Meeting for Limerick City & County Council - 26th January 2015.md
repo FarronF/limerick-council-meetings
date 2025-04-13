@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_for_limerick_city_county_council_-_26th_january_2015_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 
 Comhairle Cathrach agus Contae Luimnigh,
@@ -34,8 +38,10 @@ customerservices@limerickie
 Ceanncheathru Chorpardideach, Cé na Leperaeaog Luimneach . © wwwalimerickie
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 We the undersigned on behalf of the Fianna Fail Party call a Special meeting of Limerick City
 and County Council to discuss the potential impact to the Limerick and Midwest Region of a
 
@@ -48,6 +54,7 @@ Loden
 (c4 WU
 
 gues (AGS
+
 
 
 ---

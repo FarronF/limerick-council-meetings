@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-11th-may-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 il Comhairle Cathrach
 & Contae Luimnigh
 AN ~
@@ -71,8 +75,10 @@ v
 @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 7.
@@ -99,5 +105,6 @@ To agree a date for the Annual Meeting and June Monthly Meeting of the Adare-
 Rathkeale Municipal District.
 
 A.O.B.
+
 
 ---

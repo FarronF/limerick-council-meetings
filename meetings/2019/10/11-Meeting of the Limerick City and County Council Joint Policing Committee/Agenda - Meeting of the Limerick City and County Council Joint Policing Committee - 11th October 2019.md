@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20JPC%20Meeting%2011th%20Oct%2019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ni Serdhisi Corpardideacha,
 ee Comhairle Cathrach Comhairle Cathrach agus Contae Lumnigh
 o—~ & Contae Luimnigh Ceanncheathni Chorparéidesch,
@@ -53,8 +57,10 @@ attached).
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. To consider the following Question submitted by Councillor Michael Murphy :
 
 “| will ask at the next Meeting for an update on concerns expressed to me about the
@@ -67,5 +73,6 @@ Castleconnell”.
 out to each text alert group in each Garda District in the Limerick Garda Division in years
 2016, 2017, 2018 and 2019 to date and the reason why some groups are not receiving any or
 very few text alerts”.
+
 
 ---

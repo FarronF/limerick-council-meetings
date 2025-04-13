@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Special-Meeting-of-Council-23-June-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_— Comhairle Cathrach P a Caton a
 a = & Contae L igh Ceanncheathra Chorparaideach,
 — Cé na gCeannaithe,
@@ -38,8 +42,10 @@ es customerservices@limerickio
 eee W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Carroll, Siobhan
 
 From: Benson, Sharon
@@ -59,8 +65,10 @@ Cllr Sharon Benson
 087
 2102084
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 31st of May 2022
 
 To the Mayor of Limerick City and County Council,
@@ -81,8 +89,10 @@ Cllr Sasa Novak 4 » Urn 6
 
 (VAN VO
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 BUILDING AN IRELAND OF £ :
 QuAls
 Clir, PJ CAREY
@@ -107,6 +117,7 @@ Thanck yen,
 Reejordh$S
 
 Signed * PX. Gore
+
 
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/00%20Agenda%20-%20Council%20Meeting%2023.01.2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach Ccunhaite tue papell aatarorerig
 wna Catlwacn agus Contac uuirreng 5
 = ™ & Contae Luimnigh Ceanncheatnni Chorpardideach,
@@ -55,8 +59,10 @@ mcustomerservices@limerick.ie
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c) 8, Quin’s Cottages, Rosbrien, Limerick.
 
 (d) 58, Upper Carey's Road, Limerick.
@@ -101,8 +107,10 @@ Statement for the Year ended 31% December, 2021.
 Members of Limerick City and County Council for the Year
 ended 31* December, 2021.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (4)
@@ -153,8 +161,10 @@ To consider filling vacancy on the LECP (Local Economic and Community Plan)
 Steering Group consequent on the resignation of Councillor Eddie Ryan from
 the Steering Group.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (g)
 
 Strategic Policy Committee Reports
@@ -200,8 +210,10 @@ That, Limerick City and County Council contact the Minister for
 Transport asking that any civil works due on the Limerick/Foynes Rail
 Line reinstatement will future-proof the line to become a dual line.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 {v) Chairperson’s Report — Meeting of Home and Social Development
 Strategic Policy Committee held on 14" December, 2022.
 
@@ -248,8 +260,10 @@ To note reports by Members who have participated at Conference / Seminar /
 Meeting / Event.
 (Reports Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -298,8 +312,10 @@ Notice of Motion submitted by Councillor J, Leddin
 to a Council Meeting to update Members on the planned refurbishment of the railway
 line from Limerick to Foynes and discuss potential of disused Mungret line.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -327,5 +343,6 @@ I will move at the next meeting that the Council write to the Minister for Healt
 him to allocate and appoint a full time HIV Consultant at University Hospital Limerick.
 
 Correspondence
+
 
 ---

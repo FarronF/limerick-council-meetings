@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%202022-11-02%20Minutes%20November.pdf)
+
+---
 MINUTES
 
 OF

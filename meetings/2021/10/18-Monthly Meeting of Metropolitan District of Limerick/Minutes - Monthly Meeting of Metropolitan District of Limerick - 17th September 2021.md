@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02a-draft-minutes-special-meeting-17th-september-2021.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON FRIDAY, 17TH** **SEPTEMBER, 2021 at 9.30 A.M. IN THE COUNCIL CHAMBER, DOORADOYLE**

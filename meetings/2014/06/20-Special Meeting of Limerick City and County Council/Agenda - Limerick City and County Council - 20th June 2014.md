@@ -1,4 +1,9 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/limerick_city_and_county_council_agenda_-_20_june_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 ———
 
 AN Mf ™~
@@ -55,8 +60,11 @@ wee
 if *, Cé na gCeannaithe, Luimneach t: 061 407100 e: info@limerickcity.ie
 ey Merchant's Quay, Limerick f: 061 415266 w: wwewatimerickcity.ie
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 3.
 
 {2}
@@ -73,5 +81,6 @@ Principal Act) and provides for the extension of the valid life of a Local Area
 
 Plan.
 (Report already circulated)
+
 
 ---

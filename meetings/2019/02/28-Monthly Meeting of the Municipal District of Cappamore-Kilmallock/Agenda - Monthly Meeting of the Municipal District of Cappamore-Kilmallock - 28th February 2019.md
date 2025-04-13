@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20Agenda%20Municipal%20District%20Monthly%20Meeting%2028th%20Feb%202019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 aa Comhairle Cathrach
 — rs & a ae
 —— 6 sesh Conca
@@ -39,8 +43,10 @@ Planning & Environment Services
 To receive update from Planning & Environment Services on Taking in Charge of estates
 in the Municipal District.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 >
@@ -83,5 +89,6 @@ Notice of Motion submitted by Councillor Mike Donegan
 
 | will move at the next meeting of the Municipal District meeting that an audit is carried
 out on signage, including tourist and leisure signs, in Kilmallock town and approach roads.
+
 
 ---

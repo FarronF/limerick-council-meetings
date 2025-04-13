@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-06-10-agenda-agm.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 hairle Cathrach Dutiche Bardais an Chaisledin Nua Thiar,
 _—_—_ payed Lutmmioh Comhairle Cathrach agus Contae Luimnagh,
 
@@ -52,5 +56,6 @@ Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © vvowimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
 
 ( 061 - 556 000
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda_june_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_
 
 AN fi ™
@@ -71,8 +75,10 @@ Corporate Headquarters, Merchants Quay, Limerick
  www.limerickie
 w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -111,5 +117,6 @@ Notice of Motion submitted by Councillor S. Browne
 
 | will move at the next Meeting that the road in front of John Paul Terrace, Broadford be
 repaired as a matter of urgency.
+
 
 ---

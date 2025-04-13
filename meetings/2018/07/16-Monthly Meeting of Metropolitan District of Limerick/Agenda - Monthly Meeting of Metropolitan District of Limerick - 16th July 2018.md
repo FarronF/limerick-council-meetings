@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%2016th%20July%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha,
 
 Comhairle Cathrach s
@@ -62,8 +66,10 @@ Islamic Cultural Centre.
 Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Capital Investment Directorate
 Design and Delivery Services
 Part 8 Procedure — Housing Development at DeValera Park, Sexton Street North (2 units)
@@ -108,8 +114,10 @@ A Fund All ions 2018
 
 To agree allocations under the GMA Fund 2018.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -161,8 +169,10 @@ commencement.
 commencement.
 ~ List the value of the contributions received per development.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -221,5 +231,6 @@ decision to close the ATMs at the Parkway Shopping Centre.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

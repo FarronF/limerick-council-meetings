@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/agenda-special-meeting-11.03.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach Comhairle C duchtnnConnuanan
 y a ) agu: Jonitae rrr.
 — & Contae Luimnigh Ceannchesthra Chorparaideach
@@ -43,5 +47,6 @@ AGENDA
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061- 557150
+
 
 ---

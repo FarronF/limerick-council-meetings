@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-for-the-elected-members-of-the-municipal-district-of-cappamore-kilmallock-29th-february-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach —— a ng vi
 : ; ; fg an Cheantaty, Aras Mhainchin Seoighe,
 z ——_ & Contae Luimnigh Cill Mochealég,
@@ -39,5 +43,6 @@ Municipal Allocation 2024.
 wcmonameneieete
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Arps Mhainchin Seoighe www.limerick.te
 Limerick City and County Council, Aras Mainchin Seoighe Area Office sch
+
 
 ---

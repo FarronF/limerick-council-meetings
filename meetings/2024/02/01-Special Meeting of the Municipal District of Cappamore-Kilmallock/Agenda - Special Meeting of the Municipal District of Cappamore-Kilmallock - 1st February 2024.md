@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-1st-february-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 26" January, 2024.
 
 A Chomhairleoir, a chara,
@@ -26,5 +30,6 @@ Development Act, 2000 (as amended), in relation to the Refurbishment and Renovat
 Kilfinane Market House for commercial and community use, works will also include the
 addition of a first floor, to the existing structure. The building is on the Record of Protected
 Structure RPS 1324 and located in the Kilfinnane Architecture Conservation Area.
+
 
 ---

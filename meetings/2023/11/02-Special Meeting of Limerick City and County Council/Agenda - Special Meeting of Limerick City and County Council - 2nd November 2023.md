@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-2nd-November-23.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 —_—e_e Comhairle Cathrach
 = & Contae Luimnigh
 a Limerick
@@ -51,8 +55,10 @@ W @LimerickCouncil
 
 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Subject: Special Blended Meeting Limerick City and County Council
 
 Location: Microsoft Teams Meeting
@@ -105,5 +111,6 @@ Alternate VTC instructions
 Limerick - Atlantic Edge, European Embrace.
 
 Leam More | Help | Meeting options | Legal
+
 
 ---

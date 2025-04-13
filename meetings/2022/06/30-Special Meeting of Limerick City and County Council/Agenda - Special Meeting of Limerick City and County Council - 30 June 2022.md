@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Special-Meeting-30-06-2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach ae Coe
 
 . 2 Comhalrie Cathwach agus Contae Luimnigh
@@ -47,5 +51,6 @@ Meetings Ad tor
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

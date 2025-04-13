@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%20%28Amen%29%20May%202018%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 
 = a —— —s
@@ -43,8 +47,10 @@ Drive, Hospital, Co.Limerick
 To consider the Chief Executive’s Report prepared pursuant to Section 179, subsection
 3(a), of the Planning and Development Act’s 2000 (as amended) and Part 8 of the
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 Planning and Development Regulations, 2001 (as amended) in relation to the
@@ -82,5 +88,6 @@ Notice of Motion submitted b llor M n n
 
 | will move at the next meeting that Limerick City & County Council coordinate an agreed
 traffic management plan and social area for Deebert Close Estate, Kilmallock.
+
 
 ---

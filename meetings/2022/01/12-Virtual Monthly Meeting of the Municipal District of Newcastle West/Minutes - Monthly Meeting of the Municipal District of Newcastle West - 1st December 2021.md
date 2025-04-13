@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-2021-12-01-minutes-december-.pdf)
+
+---
 MINUTES
 
 OF

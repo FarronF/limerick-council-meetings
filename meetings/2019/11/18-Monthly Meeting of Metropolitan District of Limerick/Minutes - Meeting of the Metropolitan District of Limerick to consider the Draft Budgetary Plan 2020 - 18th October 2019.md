@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28a%29%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2018th%20October%202019.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK TO**
 
 **CONSIDER THE DRAFT BUDGETARY PLAN 2020 HELD IN THE COUNCIL CHAMBER, MERCHANT’S**

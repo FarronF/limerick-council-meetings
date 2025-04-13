@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-council-meeting-24.01.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 & Contae Luimnigh
 
@@ -64,8 +68,10 @@ Planning and Development Act, 2000 (as amended), at:
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Lutmneach © @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a) 1, Saint Peter Street, Limerick (deferred from November Meeting)
 (b) 55, Keane Street, Killalee, Limerick.
 
@@ -125,8 +131,10 @@ Transportation Strategic Policy Committee.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (a)
 
 (e)
@@ -183,8 +191,10 @@ Strategic Policy Committee held on 6 December, 2021.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (iv) Chairperson’s Report — Meeting of Travel and Transportation Strategic
 Policy Committee held on 14'* December, 2021.
 
@@ -225,8 +235,10 @@ To note and consider the Strategic Infrastructure Development application to An
 Bord Pleandla at Aughinish Alumina Limited.
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Community. Tourism and Culture
 
 (a) Discover Limerick DAC Funding
@@ -260,8 +272,10 @@ ADJOURNED NOTICE OF MOTION
 reduce our carbon footprint in areas such as Council building retrofitting, electric
 vehicles and energy usage, in line with Government climate action policy.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -310,8 +324,10 @@ Scheme;
 (c) has the Council stopped any HAP payments to Landlord, due to the standards of a
 property, in the past three years.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 15.
 
 16.
@@ -355,8 +371,10 @@ We will move at the next Meeting that the Shannongrove Collar currently at the
 Victoria and Albert Museum, London, be repatriated to Limerick on lease to the
 Limerick City and County Museum.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 21.
 
 Notice of Motion submitted by Councillor L. Galvin
@@ -388,5 +406,6 @@ support to commemorate the five hundred year anniversary of the signing of the
 Treaty of Askeaton taking place in June 2023.
 
 Correspondence
+
 
 ---

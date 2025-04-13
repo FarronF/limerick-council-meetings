@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-10th-january-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Duliche Bardais an Chaisiedin Nua Thiar.
 & Contae Luimnigh Comhamte Cathrach agus Contae Luimnich.
 
@@ -56,8 +60,10 @@ Ceanncheathna Chorpardideach, Cé na gCeannaithe, Luimneach © www limerick ie
 Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
 ( 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -109,8 +115,10 @@ from Mountmahon to Joy's Corner.
 | will ask at the next Meeting if a programme of works for footpaths in Athea
 village is planned for 2024.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 16.
@@ -147,5 +155,6 @@ Roads Programme as this will be part of the Town Plan.
 
 | will move at the next Meeting that footpaths be considered at the rear of
 Hazelgrove Estate, Newcastle West for the 2024 works programme.
+
 
 ---

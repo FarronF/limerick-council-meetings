@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-monthly-meeting-21st-september-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach Combisirie Camwach eps Conmeetuaneton
 - . ¥
 wv” ™ & Contae Luimnigh Ceanncheathni Chorpardideach,
@@ -51,8 +55,10 @@ de
 Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows :
 
@@ -92,8 +98,10 @@ of the Existing Playground at Castletroy, Limerick.
 
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5. Economic Development Directorate
 
 Part 8 Procedure ~ Extension to ENGINE, Cecil Street
@@ -130,8 +138,10 @@ Corbally and Kings Island and the timeframe for completion for both projects.
 for the installation of new bus shelters and what locations in the Limerick City East area will benefit
 from this funding.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Question submitted by Councillor J. Costelloe
 
 | will ask at the next Meeting how many peopie are employed in the Troy Studios Development and
@@ -170,8 +180,10 @@ Metropolitan Council meetings.
 | will ask at the next Meeting for a breakdown of the expenditure of the Guiding Limerick through
 Covid plans.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting for an update on the progress of reinstating speed ramps on the
@@ -212,8 +224,10 @@ person.
 Council compiles data on the demand for housing from people on the housing list in each area of
 preference based on number of bedrooms required and publishes these figures.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 24. Notice of Motion submitted by Councillor D. McSweeney (to be referred to the Climate Action,
 Biodiversity and Environment Strategic Policy Committee)
 
@@ -245,10 +259,13 @@ for people of all ages and all abilities.
 City Hall in purple for International Recovery Day on 30th of September, in support and recognition
 of all those who have lost their lives to addiction and those who are in active recovery.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 30. Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

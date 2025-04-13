@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Special-Meeting-of-Municipal-District-of-Adare-Rathkeale-26th%20May%202023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 eel Comhairle Cathrach
 & Contae Luimnigh
 
@@ -61,5 +65,6 @@ Corporate Headquarters, Merchants Quay, Limerick.
 @LimerickCouncil
 
 ( 061 - $56 000
+
 
 ---

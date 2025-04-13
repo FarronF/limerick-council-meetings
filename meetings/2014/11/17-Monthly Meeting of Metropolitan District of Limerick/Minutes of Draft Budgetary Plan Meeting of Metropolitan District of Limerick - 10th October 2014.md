@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_adjourned_draft_budgetary_plan_meeting.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ADJOURNED DRAFT
 
 BUDGETARY PLAN MEETING HELD IN THE COUNCIL

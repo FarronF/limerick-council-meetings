@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_newcastle_west_-_1st_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
 GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 1°
@@ -45,8 +49,10 @@ reviewed on a daily basis but he did not believe that response times would be to
 affected. He also stated that discussions were ongoing with Human Resources and SIPTU
 to try to resolve the matter.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Members voiced grave concerns about the closure of the Fire Station, particularly as
 the town of Abbeyfeale was one of the biggest employers in West Limerick. They were
 concerned that the emergency response time would be increased by a minimum of 15
@@ -89,8 +95,10 @@ Members were informed that Superintendent Thomas O'Connor had been requested to
 attend a meeting of the Municipal District of Newcastle West and he had given an
 undertaking that he would attend the November Meeting.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 5. uestion submitted by Councillor vin
@@ -133,8 +141,10 @@ REPLY: Maintenance funds are extremely limited in the current year, especially f
 new works of this nature. The funding position can be reviewed towards
 year end, and the works considered if funding is available.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Councillor J. Scanlan
 
 ! will ask at the next Meeting if road lining can be renewed or put in place at a
@@ -176,8 +186,10 @@ danger at present. It should be noted that they survived Storm Darwin on
 
 12" February, 2014.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 NOTICES OF MOTION
 
 12. Notice of Motion submitted by Councillor J. Scanlan
@@ -226,8 +238,10 @@ phase of the Scheme which is expected to commence in November of this
 
 year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14. Notice of Motion submitted by Councillor S. Browne
 
 | will move at the next Meeting that the Council improves the signage and bus stop
@@ -277,8 +291,10 @@ occurred since the economic downturn of 2008. The Library Service has,
 with all other Council Departments, had to experience reduced budgets. This
 has inevitably impacted on the Council’s capacity to purchase new books.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 However, the Council's records would indicate that Newcastle West Library
 has not been disproportionately impacted upon, relative to other Branches in
 the City and County Library Service.
@@ -297,5 +313,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

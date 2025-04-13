@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%20Agenda%2019th%20February%202018.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_— Comhairle Cathrach
 & Contae Luimnigh
 AcoN —_—_—_—_—_—_—_———
@@ -69,8 +73,10 @@ w @LimerickCouncit
 
 ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 Disposal of Land
@@ -117,8 +123,10 @@ Council as to when works will begin and be completed on the Ferrybridge in Castl
 due to the numerous false promises made to local representatives and the people of
 Castieconnell for over a year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -174,12 +182,15 @@ trategic Policy Committee
 almost full, Limerick City and County Council would immediately begin the process of
 acquiring a suitable site in the area for a new Burial Ground.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 Correspondence
 
 (Copy of Correspondence Enclosed).
+
 
 ---

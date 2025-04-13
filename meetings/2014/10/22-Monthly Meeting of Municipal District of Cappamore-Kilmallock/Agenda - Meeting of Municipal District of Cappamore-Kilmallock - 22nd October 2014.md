@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore-kilmallock_-_22nd_october_2014_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_—_ Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -48,11 +52,15 @@ agreed.
 Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach © vevevatimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4.
 
 10.
@@ -97,11 +105,15 @@ Notice of Motion submitted by Councillor M. Donegan
 and brief the Members on the pollution of the River Lubagh in August and outline the
 Council's plans to support Inland Fisheries Ireland and the local Angling Club.
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
@@ -144,8 +156,10 @@ s rs
 Circulated, copy of draft Standing Orders for the Municipal District of Cappamore-
 Kilmallock for consideration and adoption.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Director of Service pointed out that the Standing Orders presented were
 consistent with Government Guidelines and each Municipal District had a
 requirement to adopt its own Standing Orders.
@@ -193,8 +207,10 @@ indicated in the Chief Executive’s Report.
 
 The Members noted the report and welcomed the proposed development.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Travel and Transportation
 
 Mr. Brian Kennedy made a presentation in relation to set-up of Operational Divisions.
@@ -243,8 +259,10 @@ Depending on costs from the quotations, there may not be funds
 available to carry out the works this year. If not, the repairs will be
 carried out in 2015, subject to available funding.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7. Question submitted by Councillor N. Gleeson
 
 | will ask at the next Meeting about developing a car park in Doon beside the
@@ -292,8 +310,10 @@ Councillor Donegan, in proposing the Motion, said he was disappointed that the
 Council had not reappointed a staff member to the Board of Ballyhoura Development
 and asked if the situation could be reviewed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Councillor O' Donnell seconded the Motion.
 
 REPLY:
@@ -325,11 +345,15 @@ Dated:
 
 Cathaoirleach
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON FRIDAY,
@@ -376,8 +400,10 @@ He informed the Members that a total of €1.5m had been allocated by the Chief
 Executive to the GMA with €310,000 of this assigned to the Cappamore-Kilmallock
 District as follows:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 To finance Gross Revenue Expenditure Municipal District
 Details of Proposed Expenditure proposed expenditure
 
@@ -415,8 +441,10 @@ rather a new focus on how the existing budget was allocated.
 proposed that a figure would be provided in each District for special projects.
 He outlined that those projects must specify a minimum spend of €50,000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 each and it was envisaged that this spend would be for projects of a specific
 and strategic nature. It was noted that the total amount allocated for special
 projects in each of the Municipal Districts was €100,000 with €150,000 being
@@ -454,7 +482,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

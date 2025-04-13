@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-limerick-city-and-county-council-27th-may-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Sewbhisi Corparaideacha
 
 Comharle Cathrach agus Contae Luimnigh
@@ -59,8 +63,10 @@ om Customerservices@limerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Rural, Community and Culture Development Directorate
 General Disposals
 
@@ -113,8 +119,10 @@ the Local Government Act, 2001 (as amended).
 (Unaudited Annual Financial Statement and Report
 from Chief Executive already circulated)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (c)
 
 (a)
@@ -165,8 +173,10 @@ Strategic Policy Committee held on 10" April, 2024.
 
 (Chairperson’s Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (ii)
 
 (iii)
@@ -218,8 +228,10 @@ under the Dolores O'Riordan Music Bursary Scheme 2024.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 (4)
@@ -271,8 +283,10 @@ To approve the Limerick City and County Council Tree Policy 2024-2030.
 
 (Report Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -321,8 +335,10 @@ rent of the social house they are living in. We believe that this should be addr
 by the Elected Members and the extra charge on the rent account that is now incurred
 should be removed as we consider this to be unfair and unjust.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14,
@@ -373,5 +389,6 @@ Climate and Communications to seek advice on what actions or remedies can be mad
 available to the neighbours of existing wind farms.
 
 Correspondence
+
 
 ---

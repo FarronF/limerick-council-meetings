@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/minutes-of-jpc-meeting-21st-feb-2020.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE COUNCIL**
 
 **CHAMBER, CORPORATE HEADQUARTERS, MERCHANT’S QUAY, ON FRIDAY, 21ST** **FEBRUARY, 2020 AT**

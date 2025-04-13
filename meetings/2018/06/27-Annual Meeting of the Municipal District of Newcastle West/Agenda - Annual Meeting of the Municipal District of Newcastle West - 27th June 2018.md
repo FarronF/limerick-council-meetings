@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%202018-06-27%20Agenda%20Annual%20Meeting%20NCW.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a
 
 ncN La
@@ -58,5 +62,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 es customerservices@limerickie
 oo wwew.imerickie
 w @LimerickCouncil
+
 
 ---

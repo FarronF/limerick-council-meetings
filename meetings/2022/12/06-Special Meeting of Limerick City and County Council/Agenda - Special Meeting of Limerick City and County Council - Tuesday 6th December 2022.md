@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20-%20Special%20Meeting%2006.12.22.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 “i Comhairle Cathrach Combuirle Chitunch enue ConeLuirnion
 vw ag. ie UTTY .
 Ll ™ & Contae Luimnigh Ceanncheathra Chorpardidesch,
@@ -39,5 +43,6 @@ Meetings Administrator.
 
 Ceanncheathra Chorparakieach, Cé na gCeannaithe, Luirmmeach
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557180
+
 
 ---

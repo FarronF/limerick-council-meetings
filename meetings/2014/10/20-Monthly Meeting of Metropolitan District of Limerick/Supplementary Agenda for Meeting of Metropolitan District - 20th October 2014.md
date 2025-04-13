@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/supplementary_agenda_for_meeting_of_metropolitan_district_-_20th_october_2014.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -45,5 +49,6 @@ Meetings Administrator
 @ customerservices@limerickic
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © wow limerickie
 Corporate Headquarters, Merchants Quay, Limerick Yw @LimerickCouncil
+
 
 ---

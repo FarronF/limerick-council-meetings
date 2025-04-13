@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-14th-september-2021_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
@@ -57,8 +61,10 @@ mbaasiaagg Peer
 ee eee 1 wwwlimerickic
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncit
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Adare Fountain
 To receive an update in relation to the restoration of the Adare Fountain.
 Housing Directorate
@@ -85,8 +91,10 @@ To update Members on issues of interest in the District.
 
 To review position in relation to allocations under the General Municipal Allocation 2021.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -115,5 +123,6 @@ encouragement to help people provide homes for themselves by they being permitte
 construct wooden structures as dwellings.
 
 A.0.8
+
 
 ---

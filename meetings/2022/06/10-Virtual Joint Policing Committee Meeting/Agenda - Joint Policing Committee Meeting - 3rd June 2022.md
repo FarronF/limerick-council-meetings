@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda%20JPC%20Meeting%203rd%20June%2C%202022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 i Comhairle Cathrach
 = & Contae Luimnigh
 ~_ Limerick Cit
@@ -66,8 +70,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 Ww @LimerickCouncil
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Question submitted by Maurice Quinlivan, T.D.:
 
 ‘t will ask at the next meeting for a progress report on operation ‘Operation Copdég’, how It is
@@ -108,5 +114,6 @@ recouped by whatever means necessary by the State’.
 
 ‘| will move at the next meeting that Limerick City and County Council write to the Garda
 Commissioner to request additional Garda resources to police the city centre’.
+
 
 ---

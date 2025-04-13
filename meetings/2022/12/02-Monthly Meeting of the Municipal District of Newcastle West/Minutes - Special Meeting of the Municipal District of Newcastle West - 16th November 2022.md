@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%202022-11-16%20Minutes%20Special%20Meeting.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -52,7 +55,8 @@ unfortunately a large section of the town park is closed at present due to healt
 
 reasons. The excellent work carried out by the Town Park Committee over the last number of
 
-years in maintaining the upkeep of the town park was acknowledged.---
+years in maintaining the upkeep of the town park was acknowledged.
+---
 Reference was made to the substantial level of funding invested in the town park from various
 
 funding streams and the importance of seeking further funding to rectify the issues was
@@ -115,7 +119,8 @@ It was also agreed to change the date of the December Meeting of the District to
 
 December, 2022, at 3 p.m., at Áras William Smith OBrien.
 
-This concluded the Meeting.---
+This concluded the Meeting.
+---
 Signed:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -124,7 +129,10 @@ Signed:
 
 Dated:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**---
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

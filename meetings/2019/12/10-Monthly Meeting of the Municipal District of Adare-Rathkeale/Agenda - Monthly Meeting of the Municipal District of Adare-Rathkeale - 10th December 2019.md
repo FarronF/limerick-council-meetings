@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00-Agenda-10th-December-2019.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
 ————— Ps eantaa Lutmnigh Comhairle Cathrach agus Contae Luimnigh,
@@ -61,8 +65,10 @@ Local Area Plan in accordance with Section 20 (3) of the Planning and Developmen
 Ceanncheathra Chorpardideach, Cé na gCeannaithe.Luimneach 1 wei limerickie
 Corporate Headquarters, Merchants Quay, Limerick, @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -103,5 +109,6 @@ We will move at the next Meeting that this District lobby the Transport Minister
 the proposals that were recently proposed in relation to the new penalty points scheme.
 
 (Correspondence Enclosed)
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 gill Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -46,8 +50,10 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & weew limerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 9.
@@ -92,8 +98,10 @@ traffic flow at three pinch points, namely, Bridge Street, Newcastle West, Boher
 Sheahan’s Road junctions with the N21 with a view to placing mini roundabout systems at
 each location so as to enable the smooth flow of traffic locally.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -132,5 +140,6 @@ Notice of Motion submitted by Councillor L. Galvin
 
 | will move at the next Meeting that parking, seating and bins be provided at the scenic
 viewing location at Barnagh.
+
 
 ---

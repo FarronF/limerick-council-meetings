@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20January%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -55,8 +59,10 @@ To note present position in relation to the Old School House, Grange.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach 5 wwew.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick “euaatonc
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 QUESTIONS
@@ -99,5 +105,6 @@ Notice of Motion submitted by Councillor G. Mitchell
 1 will move at the next Meeting that regular inspections are carried out of gulleys,
 culverts, pipes, watercourses to determine that they are fit for purpose and in working
 order throughout the year.
+
 
 ---

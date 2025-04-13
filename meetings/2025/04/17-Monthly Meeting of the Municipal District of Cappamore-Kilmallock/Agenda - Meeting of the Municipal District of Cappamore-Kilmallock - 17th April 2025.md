@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/00-agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach Comhairle Cathrach agus Conta Luimnigh,
 & Contae Luimnigh Olfig an Cheantaly, Aras Mha we n seoighe,
 
@@ -51,8 +55,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Rural, Cultural, Community & Tourism Development Directorate
 
 To receive an update on the 2025 National Famine Commemoration Ceremony planned for
@@ -87,8 +93,10 @@ many of these have had work done.
 with the name of the estate ‘The Oaks’ in Liscreagh, Murroe can be replaced as the existing sign
 has deteriorated.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Notice of Motions
 
 9. Notice of Motion submitted by Councillor M. Ryan
@@ -109,5 +117,6 @@ Limerick located near the entrance/exit along the stretch of road in front of Ho
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District that a traffic
 management survey be carried out on Sarsfield Street, Kilmallock with a view to placing a
 pedestrian crossing near Friars Gate.
+
 
 ---

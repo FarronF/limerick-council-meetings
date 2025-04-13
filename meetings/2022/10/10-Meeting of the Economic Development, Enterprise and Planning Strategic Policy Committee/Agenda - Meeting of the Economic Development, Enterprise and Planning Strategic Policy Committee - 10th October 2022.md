@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20SPC%20Mtg%20%20-%2010th%20Oct%202022.pdf)
+
+---
 **20th** **September, 2022**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**

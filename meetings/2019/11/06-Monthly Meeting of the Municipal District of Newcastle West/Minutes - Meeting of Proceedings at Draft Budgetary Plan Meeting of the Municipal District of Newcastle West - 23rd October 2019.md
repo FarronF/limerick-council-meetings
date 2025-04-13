@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28b%29-2019-10-23%20Minutes-Draft-Budgetary-Plan-Meeting.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
 MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE

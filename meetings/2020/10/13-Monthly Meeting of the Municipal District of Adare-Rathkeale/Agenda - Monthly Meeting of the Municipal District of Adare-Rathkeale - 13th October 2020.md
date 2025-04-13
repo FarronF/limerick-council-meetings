@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-13th-october-2020-1.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Céantar Bardasach Ath Dara-Rith Caola,
 & Contae Luimnigh Comnainea Cathrach agus Contae Luirnnigh,
 
@@ -59,8 +63,10 @@ Corporate Headquarters, Merchants Quay, Limerick. W @limerickCouncil
 
 © 061 - $56 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Operations and Maintenance Services
 District Engineers Report
 To update Members on issues of interest in the District.
@@ -93,8 +99,10 @@ Notice of Motion submitted by Councillor A. Teskey
 instating the necessary lay-by turning lanes at Blossom Hill cross, Rathkeale for road
 safety reasons.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -109,5 +117,6 @@ Notic Motion submi ncillor K. Sheahan
 
 I will move at the next Meeting that this committee would discuss the details of the
 erection of a Christmas crib in the lobby of our office in Rathkeale.
+
 
 ---

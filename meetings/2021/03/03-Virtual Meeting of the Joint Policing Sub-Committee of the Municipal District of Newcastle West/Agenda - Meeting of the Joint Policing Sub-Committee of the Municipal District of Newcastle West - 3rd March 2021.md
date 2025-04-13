@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-2021-03-03-agenda-jpc-subcommittee.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairie Cathrach
 = & Contae Luimnigh
 oa Li k Ci
@@ -68,5 +72,6 @@ Corporate Headquarters, Merchant's Quay, Limerick
 W @limerickCouncil
 
 ( 061 - $56 000
+
 
 ---

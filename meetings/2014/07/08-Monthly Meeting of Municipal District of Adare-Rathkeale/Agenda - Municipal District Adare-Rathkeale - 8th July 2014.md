@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_adare-rathkeale_-_agenda_8_july_2014.pdf)
+
+---
 **3rd** **July, 2014.**
 
 **Corporate Services.**

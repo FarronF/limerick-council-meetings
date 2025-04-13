@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-october-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach
 & Contae Luimnigh
 AON ff “
@@ -60,8 +64,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 (063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. Property Services
 
 Disposal of Freehold Interest in property at 5 Ash Hill, Kilmallock, Co. Limerick.
@@ -95,8 +101,10 @@ our Municipality targeting Teenagers.”
 Authority will CPO numbers 4, 5 and 6 Orr St., Kilmallock to bring these properties out of
 dereliction and back into use for housing need.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Notice of Motion submitted by Councillor Teefy
 
 “| will move at the next meeting of the Cappamore-Kilmallock Municipal District that traffic
@@ -116,5 +124,6 @@ lifting of the Boil Water Notice in Foileen, Cappamore.”
 “| will ask at the next meeting of the Cappamore-Kilmallock Municipal District what is the current
 position with the dwelling No. $ St. Munchin's Tce. Bruree. Is it part of LCCC housing stock and if
 so when will the house be put back into use .”
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/agenda-special-meeting-03.03.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 le Comhairle Cathrach
 & Contae Luimnigh
 ON i ——————
@@ -59,5 +63,6 @@ A ener eee een nnn nnn en eewennnsnccennne
 © wenalimerick.ie
 @LimerickCouncil
 © 061 - 57150
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-meeting-of-the-metropolitan-district-of-limerick-21st-october-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_ Comhairle Cathrach
 & Contae Luimnigh
 at iT rors
@@ -66,8 +70,10 @@ W @LimerickCouncil
 
 (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Minutes
 
 To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on 16"
@@ -110,8 +116,10 @@ the requirements of Section 200(1) of the Local Government Act 2001 (as amended)
 
 Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. i rts and R ion Directorate
 
 Part 8 — Southside Connectivity Project
@@ -160,8 +168,10 @@ many local authority houses are boarded-up.
 | will ask at the next Meeting of the Metropolitan District of Limerick, as of October 2024, how
 many people are on the Limerick City and County Council social housing list.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13. Question submitted by Councillor S. Beasley
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, what is the annual revenue
@@ -212,8 +222,10 @@ Roundabout in Lisnagry.
 | will ask at the next Meeting of the Metropolitan District of Limerick what proposals the Council
 are considering for the development of the site that was purchased at Annacotty Roundabout.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 20. Question submitted by Councillor U. Gavan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick if the Council has actively
@@ -260,8 +272,10 @@ dockless bike scheme beyond Castletroy into other suburbs such as Corbally.
 | will ask at the next Meeting of the Metropolitan District of Limerick for the number of
 unauthorised developments that have had to be removed/demolished between 2019 and 2024.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 28. Question submitted by Councillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a detailed update on the
@@ -315,8 +329,10 @@ Department to establish if, with the focus on DAC-led cultural institutions and 
 
 6
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 in the tourism survey and other marketing materials, will there be similar avenues of support for
 non-DAC attractions to access over the coming months / years, ahead of the new tourism strategy
 being introduced.
@@ -359,8 +375,10 @@ County Council would present to city centre retailers at no cost parking ticket 
 
 7
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2025 provided the retailers have paid their 2024 rates in full. | would suggest large retailers who
 pay more than €20K in rates receive a 100 book of tickets and all other retailers 25 books of tickets
 to distribute free parking tickets to their customers in Limerick City centre. A provision for such a
@@ -399,8 +417,10 @@ comprehensive maintenance plan for the Guinness Canal.
 establish an online directory of Limerick based professional artists from across all artistic
 disciplines akin to Clare Arts Office's online directory at clarearts.ie.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 49. Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the Council facilitate
@@ -425,5 +445,6 @@ due to reviews by the Mayor including but not limited to housing and property di
 
 53. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

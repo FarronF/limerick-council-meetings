@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-20%20B%20-%20Agenda%20Special%20Meeting%20on%20LA%20houses.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ———
 
 . —
@@ -59,5 +63,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 mcustomerservices@limerick.le
 @ Vevewimerickte
 y @limerickCouncil
+
 
 ---

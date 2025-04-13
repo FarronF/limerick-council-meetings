@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20April%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 al Comhairle Cathrach agus Contae Luimnigh,
 
@@ -47,8 +51,10 @@ To consider draft Schedule of Works for the Municipal District of Newcastle West
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & wvew.timerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -100,8 +106,10 @@ Gortboy, Newcastle West.
 I will move at the next Meeting that speed indication signage be put in place on the Kilready
 approach towards Castlemahon school in the interest of safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13.
 
 14.
@@ -114,5 +122,6 @@ Abbeyfeale.
 
 | will move at the next Meeting that a large sign displaying the rules for the playground in
 Abbeyfeale be erected, to prevent antisocial behaviour.
+
 
 ---

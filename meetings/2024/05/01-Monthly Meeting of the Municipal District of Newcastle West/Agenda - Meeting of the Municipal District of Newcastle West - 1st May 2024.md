@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-1st-may-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Aras Viilliaen Smith O'Brien,
 
 Comhairle Cathrach Diliche Bardais an Chaisledin Nua Thiar.
@@ -51,8 +55,10 @@ V42P578.
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach www.timerick.te
 Corporate Headquarters, Merchant's Quay, Limerick Yai
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -105,8 +111,10 @@ towards the Community Property at Feohanagh will be laid.
 | will ask at the next Meeting when work on the agreed footpath extension from the
 Kerry Co-Op premises to the speed limit along Clooneyskehane will be constructed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 14.
 
 15.
@@ -154,5 +162,6 @@ t will move at the next Meeting that the roadway at Rooskagh East be considered 
 
 resurfacing and passing bays be installed now that traffic flow has increased in the
 locality due to a commercial business at the top of Rooskagh Hill.
+
 
 ---

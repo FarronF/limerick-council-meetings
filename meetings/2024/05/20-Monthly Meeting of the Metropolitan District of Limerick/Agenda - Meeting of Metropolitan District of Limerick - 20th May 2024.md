@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-metropolitan-district-of-limerick-20th-may-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ; Sewbhisi Corparaideacha,
 eel Comhairle Cathrach Comhaite Cathrach agus Contae Luimnigh,
 ~ & Contae Luimnigh Ceanncheathri Chorpardideach,
@@ -55,8 +59,10 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach ye
 ‘LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Regeneration, Sports and Recreation Directorate
 (a)_Part 8 Procedure —Moyross Avenue Upgrade
 
@@ -107,8 +113,10 @@ a lot of green area, can the green area be cut into to make up car parking space
 
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, with the Factory Youthspace
@@ -154,8 +162,10 @@ Community and Culture Development Department on what progress has been made in t
 provision of a Community Centre for the Dooradoyle/Raheen area following the completion of a
 feasibility study in early 2023.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 16. Question submitted by Councillor D. McSweeney
 
 | will ask at the next Meeting of the Metropolitan District of Limerick what engagement has
@@ -198,8 +208,10 @@ previously on this.
 made on a new location for the bring centre in Castleconnell as the current one is insufficient and
 not in a suitable location.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 N OF MOTION
 
 23. Notice of Motion submitted by Councillor D. Butler
@@ -246,8 +258,10 @@ the housing projects earmarked for Limerick in a quicker fashion.
 County Council outline its proposals to address the issues relating to the proper upkeep and
 maintenance of cemeteries, located within the Metropolitan District of Limerick.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 30. Notice of Motion submitted by Coundillor S. Kiely
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the restrictions on
@@ -269,5 +283,6 @@ summer.
 
 33. Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

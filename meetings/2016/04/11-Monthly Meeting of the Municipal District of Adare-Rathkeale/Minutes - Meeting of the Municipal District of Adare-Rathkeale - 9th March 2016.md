@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20March%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
 RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD, RATHKEALE, CO.
 LIMERICK ON TUESDAY, 9™ MARCH, 2016, AT 9.00 A.M.
@@ -46,8 +50,10 @@ ramps in Rathkeale and highlighted the need for a speed ramp in Thomas Street. M
 that pedestrian crossings and speed ramps form part of road safety measures and that steel speed
 ramps could be used as they were less expensive than tarmac.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 The Senior Engineer, Transportation highlighted the benefits of providing area wide traffic calming
@@ -94,8 +100,10 @@ Mr. Dermot Donovan, Roadplan Consulting presented and circulated an update on th
 N21 Adare Western Approach Improvement Scheme. He indicated that this was the 3° Briefing to
 Elected Members and highlighted the inadequacies of the existing pavement and drainage. He
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 
 indicated that a set-down area and carpark, in the vicinity of the school, was proposed as part of
@@ -147,8 +155,10 @@ Circulated, report of the A/Senior Planner, Economic Development and Planning da
 The report was noted by the Members who requested that the item remain on the agenda for
 next month.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6. General Municipal Allocation
 It was agreed that the General Municipal Allocation Workshop should be held on Monday, 14”
 March, 2016 at 11.00 a.m.
@@ -195,8 +205,10 @@ graveyards for a period in excess of twenty years.
 
 Councillor Sheahan informed the Meeting that he was withdrawing his Notice of Motion.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11. Correspondence
 
 Correspondence was noted.
@@ -217,5 +229,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

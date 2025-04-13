@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%202019-07-03%20Minutes%20July.pdf)
+
+---
 MINUTES
 
 OF

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-July-2023.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 mhair Yr Comhairle Cathrach agus Contae Luimnigh:
 -e_e“ Comhairle Cathrach ¢ Part
 & Contae Luimnigh Otftg an Creantaiy, Aras i wancrin Seoighe,
@@ -55,8 +59,10 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office y .
 
 063 980 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Declaration of Interest
 
 Disposal of Land
@@ -89,8 +95,10 @@ transfer to an alternative LCCC house
 refused a housing transfer application form and thus denied request for formal
 application.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -140,5 +148,6 @@ Notice of Motion submitted by Councillor P. Carey
 | will move at the next meeting of the Cappamore/Kilmallock Municipal District that
 Limerick City and County Council accommodate for land disposal, two local business that
 wish to expand by purchasing a site each at Kilmallock Business Park.
+
 
 ---

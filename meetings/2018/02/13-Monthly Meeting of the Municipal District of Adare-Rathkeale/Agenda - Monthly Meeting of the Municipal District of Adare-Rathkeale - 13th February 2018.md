@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%20Agenda%2013th%20February%202018%20v3_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——
 
 ——-
@@ -74,8 +78,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerickie
 Ww @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -123,8 +129,10 @@ To note update on pedestrian controlled crossing for Adare.
 
 (Copy Enclosed)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -176,8 +184,10 @@ ation ch wali aii trate Councilor G: O'nd
 Adare Rathkeale area repair damage to the structural and/or retaining wall at the Market
 Lane, Summerville, Pallaskenry recently damaged due to storm damage.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.
@@ -196,5 +206,6 @@ to a roadworthy standard.
 
 Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

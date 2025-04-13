@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%202018-09-05%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AD
 
 —————-
@@ -75,8 +79,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerickie
 w @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7.
 
 10.
@@ -127,8 +133,10 @@ Newcastle West.
 on the right hand approach to the metal bridge leaving the N21 when travelling
 eastwards.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -154,5 +162,6 @@ to restore a full and safe drinking water supply to the residents at O'Connor Pa
 Ardagh.
 
 rrespondence
+
 
 ---

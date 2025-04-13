@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/04_draft_minutes_of_special_meeting_19th_may.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ARAS
 WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON
@@ -41,8 +45,10 @@ Subsidy Scheme, finance was provided by the Housing Finance Agency. At a
 Meeting held on the 31st March, 2008, the Council gave its approval to the raising of
 a loan of 2.37m from the Housing Finance Agency.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Director further stated that Cluid entered into a Building Agreement with
 Kilmoney Construction. In March 2009, Kilmoney assigned their interest in the
 Building Agreement to Shineford Limited. The Building Agreement between
@@ -93,8 +99,10 @@ It was agreed that Engineering staff would attend Meetings of the Municipal Dist
 items were included on the Agenda relating to their work area. The Operations
 Manager confirmed that staff would be available on the day, if required.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed
 to invite a staff member from the Economic Development and Planning Directorate to
 the next Meeting in relation to Rathronan Estate, Athea, Co. Limerick.
@@ -103,5 +111,6 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 ---

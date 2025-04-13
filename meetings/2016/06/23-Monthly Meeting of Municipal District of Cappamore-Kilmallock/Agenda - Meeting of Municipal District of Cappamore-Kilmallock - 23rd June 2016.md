@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20June%202016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -52,8 +56,10 @@ customerservices@limerick.ie
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach @ vewevalimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development Directorate
 (a) eritage
 To receive briefing on the preparation of a Heritage Plan for Limerick.
@@ -87,5 +93,6 @@ Question submitted by Councillor B. Teefy
 
 1 will ask at the next meeting when will the remaining work to the extension of
 Caherconlish Graveyard be carried out and totally completed.
+
 
 ---

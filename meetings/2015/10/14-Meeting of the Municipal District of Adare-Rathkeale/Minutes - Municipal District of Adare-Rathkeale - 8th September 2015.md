@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%208th%20September%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD IN KILCORNAN COMMUNITY CENTRE,
 KILCORNAN, CO. LIMERICK ON TUESDAY, 8" SEPTEMBER, 2015, AT
@@ -49,8 +53,10 @@ primary school and entrance to the Ger McDonnell all-weather playing facility/
 Kilcornan Community Centre together with enhanced traffic calming/safety
 measures at this location.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 REPLY: The issue of traffic calming at this location has been raised with the NRA
@@ -105,8 +111,10 @@ Rathkeale held on 14” July, 2015.
 
 Proposed by Councillor O’Brien;
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seconded by Councillor McMahon;
 And Resolved:
 
@@ -155,8 +163,10 @@ renewal of the lease for a further 6 years.
 The Head of Finance, Motor Tax and ICT indicated that, subject to agreement by the
 Members, this item would go before the full Council. He pointed out that there were time
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 
 constraints as the lease needed to be renewed by November. Following a lengthy
@@ -205,8 +215,10 @@ Scheme.
 
 REPLY: This work will be carried out under the 2016 Road Works Scheme.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor S. Keary
 
 ! will ask at the next Meeting what is the policy of Limerick City and County Council
@@ -249,8 +261,10 @@ Municipal District works does not allow for the replacement of any further
 speed ramps at this location. However, it is our intention to reduce the
 speed limit in this estate to 30 kph this year.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 6
 
 13. Question submitted by Councillor R. O’Donoghue
@@ -299,8 +313,10 @@ formal approval.
 2015, if a person wants to purchase a second grave is it proposed that the price of
 the second grave be set at the same price or discounted.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 REPLY: The price of graves is set by the Chief Executive as part of the financial
@@ -349,8 +365,10 @@ Meeting of the District to outline future plans for the forest park.
 ! will move at the next Meeting that immediate repairs be carried out on the road at
 Ballyculhane, Kildimo.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Pothole repairs will be carried out in the next few weeks. The road at this
 location will be considered for next year’s road works programme.
 
@@ -397,8 +415,10 @@ Sheahan.
 REPLY: The Community Park in Ballingarry is not in the ownership of Limerick City
 and County Council.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 23. Correspondence
 
 Correspondence was noted.
@@ -431,7 +451,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

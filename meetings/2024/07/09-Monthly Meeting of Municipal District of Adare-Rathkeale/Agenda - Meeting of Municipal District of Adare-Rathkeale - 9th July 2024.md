@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-9th-july-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_— Comhairle Cathrach
 & Contae Luimnigh
 AN I 7S
@@ -69,8 +73,10 @@ Corporate Headquarters, Merchants Quay, Limerick.
 VY @LimerickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -111,8 +117,10 @@ Council.
 
 >?
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -134,5 +142,6 @@ supplied with High Speed Broadband as is legislated for in the Gigabit Infrastru
 which aims to eliminate digital exclusion.
 
 (Copy of Correspondence Enclosed).
+
 
 ---

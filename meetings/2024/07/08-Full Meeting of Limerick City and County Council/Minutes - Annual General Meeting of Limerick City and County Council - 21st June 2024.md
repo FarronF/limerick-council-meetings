@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-annual-general-meeting-of-limerick-city-and-county-council-21st-june-2024.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE, ON FRIDAY, 21ST** **JUNE, 2024, AT**

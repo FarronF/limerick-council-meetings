@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20JPC%20Agenda%20for%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20Joint%20Policing%20Sub-Committee.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 __—_— Comhairle Cathrach
 <=
 & County Council Limerick City & County Council,
@@ -37,5 +41,6 @@ Sub-Committee held on 19" July, 2018.
 2. Policing Issues
 
 To discuss policing issues in the District.
+
 
 ---

@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/03-minutes-of-annual-meeting-27th-june-2024.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS OF THE ANNUAL MEETING OF THE

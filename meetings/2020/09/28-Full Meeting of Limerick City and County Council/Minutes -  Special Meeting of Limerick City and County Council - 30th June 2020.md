@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-b-minutes-special-meeting-30.06.2020.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY

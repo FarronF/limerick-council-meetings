@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-adjourned-special-meeting-17.06.2021-2.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ee Comhairle Cathrach Comhairle Cattuach ag Contes ludrenighs
 5 Contae Luimnigh Ceanncheathnis Chorpardideach,
 ans a Cé na gCeannaithe.
@@ -55,5 +59,6 @@ resolution, the Elected Members amend it.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---

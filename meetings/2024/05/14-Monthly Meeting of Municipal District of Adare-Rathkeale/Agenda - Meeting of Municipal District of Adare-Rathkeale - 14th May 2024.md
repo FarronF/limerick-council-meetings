@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-14th-may-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 a Comhairle Cathrach
 & Contae Luimnigh
 AN ‘“
@@ -60,8 +64,10 @@ Corporate Headquarters, Merchants Quay, Limerick.
 @LimerickCouncil
 \ 061 - 556 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Disposal of Land
 
 To note proposal for the disposals of Freehold Interest at 9 Boherbue, Rathkeale, Co.
@@ -97,8 +103,10 @@ District Engineers Report
 To update Members on issues of interest in the District.
 (Report Enclosed).
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11,
@@ -158,8 +166,10 @@ District be conducted to include parking spaces footpaths and open spaces.
 The purpose of the audit is to ensure the safety of every person living in, working or visiting
 these estates.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 17.
 
 19.
@@ -176,5 +186,6 @@ unjust.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

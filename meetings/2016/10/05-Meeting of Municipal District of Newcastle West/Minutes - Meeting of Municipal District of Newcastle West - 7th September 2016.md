@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_of_meeting_municipal_district_of_newcastle_west_070916.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
 HELD IN ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY,
 
@@ -49,8 +53,10 @@ Pilot Project for the Introduction of 30km/hr Special Speed Limits in Five Housi
 Estates.
 Circulated, Report of the Director, Physical Development Directorate dated 31* August, 2016.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2
 
 The Senior Executive Officer stated that it was the intention of Limerick City and County Council
@@ -106,8 +112,10 @@ e Satisfactory design and implementation of Traffic Management Plan in Abbeyfeal
 © Commence process for Abbeyfeale/Newcastle West bypass.
 ¢ Minor safety improvement works.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4. eneral Muni LAI ion
 
 It was proposed by Councillor Collins that €5000 be allocated to Glin Rovers Soccer Club to carry
@@ -164,8 +172,10 @@ proposed that an application would be made to the Council to fund the capital co
 
 the lighting system on behalf of the town of Newcastle West.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 E NS
 
 6. Question submitted by Councillor L. Galvin
@@ -231,8 +241,10 @@ was provided by the Heritage Council towards a LIDAR scan and
 
 REPLY: (a)
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 photographic survey. The second was provided by the Department of
@@ -298,8 +310,10 @@ directional sign at Castlemahon Cross for the Birth place of Con Colbert at Mona
 REPLY:
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Proposed by Councillor Scanlan, seconded by Councillor Sheahan.
 
 The erection of a suitable directional sign is a matter for the local authority rather
@@ -357,8 +371,10 @@ Glin Town be extended, beyond the pier road entrance, in the interest of all use
 
 Proposed by Councillor Sheahan, seconded by Councillor Galvin.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 7
 
 The Council will bring the above Notice of Motion to the attention of Transport
@@ -388,7 +404,10 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
 
 ---

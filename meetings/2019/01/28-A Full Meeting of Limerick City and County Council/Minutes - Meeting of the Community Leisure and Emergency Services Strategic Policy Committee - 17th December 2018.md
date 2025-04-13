@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/03%20%28c%29%20%28v%29%20Community%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee.pdf)
+
+---
 **Community, Leisure & Emergency Services Strategic Policy Committee**
 
 **Meeting 17/12/2018**

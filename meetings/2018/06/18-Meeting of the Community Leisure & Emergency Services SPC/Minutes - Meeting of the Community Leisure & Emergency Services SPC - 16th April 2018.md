@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Minutes%20of%20Meeting%2016th%20April.pdf)
+
+---
 A meeting of the Community, Leisure and Emergency Services Strategic Policy Committee
 
 was held in Council Chamber, Limerick City and County Council, Merchants Quay, Limerick

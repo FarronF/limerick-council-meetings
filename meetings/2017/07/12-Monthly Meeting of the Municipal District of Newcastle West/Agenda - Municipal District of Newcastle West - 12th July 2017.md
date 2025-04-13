@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%202017-07-12%20Agenda%20July%20Meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardiieacha,
 Comhairte Cathrach agus Contae Luimnigh,
 
@@ -60,8 +64,10 @@ To receive presentation on Housing Loan Application process.
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -115,8 +121,10 @@ Street, Dromcollogher.
 | will ask at the next Meeting when footpath renewal will be carried out between the Village
 Store and the Old Hall at Castlemahon Village.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -131,5 +139,6 @@ Notice of Motion submitted by Councillor J. Scanian
 | will move at the next Meeting that an acceptable time frame be agreed to enable
 prospective tenants take up residence upon local authority houses being allocated to them
 within this area.
+
 
 ---

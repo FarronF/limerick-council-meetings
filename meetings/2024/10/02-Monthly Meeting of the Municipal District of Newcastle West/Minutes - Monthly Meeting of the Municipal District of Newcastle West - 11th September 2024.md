@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-2024-09-11-minutes-september.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
@@ -43,8 +47,10 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 such interests were declared.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3. Environment, Climate Action and Shared Services Directorate
 
 To Receive Update on Maintenance of Cemeteries in the District.
@@ -88,8 +94,10 @@ Abbeyfeale, Co. Limerick.
 
 Members noted the proposal.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) —_ Circulated, report of Administrative Officer, Rural, Community and Culture
 Development Directorate, dated 27" August, 2024, concerning proposal to dispose of
 property at 14 Bothar Bui, Newcastle West, Co. Limerick.
@@ -137,8 +145,10 @@ review of speed limits which took place as a result of a Programme for Governmen
 
 3
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 implementation group was set up to review and reduce speed limits where appropriate. He
 stated that the purpose of the review was to address both road safety issues and carbon
 emissions. He stated that the group consisted of key state stakeholders including the
@@ -187,8 +197,10 @@ The Members thanked the Senior Executive Engineer for the comprehensive presenta
 While the Members were in favour of road safety, dissatisfaction was expressed on the 60kph
 Default Speed Limits being put in place for local roads. The Members referred to the financial
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 costs involved, the importance of enforcing proper speed on our roads, the importance of
 average speed cameras, speeding on approach to schools, maintenance of roadside trees and
 speed limit signage on our roads.
@@ -235,22 +247,32 @@ Looking ahead, the current programme anticipates the construction phase to begin
 2026, subject to a Part 10 planning process. We are confident that the ongoing work will
 ensure the successful and timely delivery of this crucial project for the community.
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
+
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 View 1 Proposed
 
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 <
 ?
 ~
@@ -260,14 +282,18 @@ o
 6
 
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 View 2 Existing
 
 11
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Ss
 z
 we
@@ -279,16 +305,22 @@ o
 
 12
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 13
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
-14
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+14
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 9. Question submitted by Councillor L. Galvin
 
 ! will ask at the next Meeting for a detailed financial report on the Abbeyfeale Traffic
@@ -316,8 +348,10 @@ of funding.
 
 15
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 TI ae
 
 promey hcp weal 2 1 Lue 2024
@@ -354,8 +388,10 @@ Yours sincerely,
 Pececntiard BE serve prarsanta 2 stestifteastocr Obi gocertety tara Frdigie te Cocnét Sorrel atl ae Mtl ag wrew ie
 TR protons pereerat dase in ascartonce wil fs Oute Prmcuctiony Neto avatbes uh ween Ube,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10. Question submitted by Councillor L. Galvin
 
 ! will ask at the next Meeting for an update on (a) All Part 8 housing developments in this
@@ -403,8 +439,10 @@ funded
 
 16
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Minor Refurbishment. Voids | 13 2024 - 10 units, 2025 - 3 units 1toiSmonths —
 
 funding/Own resources
@@ -451,8 +489,10 @@ Park be pruned in the interest of safety.
 
 17
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: The Council will inspect the trees and will arrange for tree maintenance work
 as necessary at the entrance to Assumpta Park.
 
@@ -502,8 +542,10 @@ signage measures at the above locations. With regard to traffic calming
 
 18
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 measures, additional funding will be required and the Traffic Calming Policy
 2024 will have to be adhered to.
 
@@ -553,8 +595,10 @@ The Motion was seconded by Councillor Galvin.
 
 19
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 REPLY: Limerick City and County Council will arrange for signage to be put in place as
 soon as possible.
 
@@ -602,8 +646,10 @@ We would like to thank you for your correspondence. | trust that this update pro
 to both you and your (District) Members. Should you have any further queries, please don’t
 hesitate to contact us on the details below.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 In proposing the Motion, Councillor Ruddle expressed dissatisfaction at the response received
 and the Members requested that further clarification on capacity of Newcastle West
 Wastewater Treatment facility be sought. A discussion took place and following discussion,
@@ -653,8 +699,10 @@ Clouncagh.
 
 21
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The recent footpath works carried out on the R522 at Killeline, Newcastle West, was
 acknowledged.
 
@@ -700,6 +748,7 @@ Signed:
 Cathaoirleach
 
 Dated:
+
 
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/Agenda%20Special%20Meeting%2010.05.2022.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 . Se®bhisi Corpardéideacha,
 
 _ parted poredaber dy Comhairle Cathrach agus Contae Lutmnigh,
@@ -47,5 +51,6 @@ Meetings Administrator.
 
 Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCounctl
 Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
+
 
 ---

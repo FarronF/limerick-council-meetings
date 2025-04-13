@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-04/00%20-%202017-05-03%20Agenda%20May%20Meeting%20Municipal%20District%20of%20Newcastle%20West_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 AE
 —
 
@@ -77,8 +81,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 ci. r
@@ -115,5 +121,6 @@ Notice of Motion submitted by Councillor J. Scanian
 
 1 will move at the next Meeting that the litter bin blown down in Hurricane Darwin along
 Maiden Street, Newcastle West, be replaced.
+
 
 ---

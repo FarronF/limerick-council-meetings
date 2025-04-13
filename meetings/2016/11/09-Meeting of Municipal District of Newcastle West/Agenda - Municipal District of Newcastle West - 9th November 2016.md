@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_november_meeting_municipal_district_of_newcastle_west_091116.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 _—_—_— Comhairle Cathrach agus Contae Luimnigh.
 
@@ -48,8 +52,10 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wewwlimerick.ie
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development Directorate
 Great Southern Trail
 
@@ -95,8 +101,10 @@ uesti ubmi by Councillor J. Scanian
 | will ask at the next Meeting for an update on the following derelict sites, namely (a) 15
 Assumpta Park, Newcastle West; (b) The O’Gorman properties along Lower Maiden Street,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -156,8 +164,10 @@ Notice of Motion submitted by Councillor J. Sheahan
 | will move at the next Meeting that a full structural evaluation and immediate remedial
 works be carried out by Irish Water on the water reservoir in Glin, which is leaking profusely.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 18.
 
 19.
@@ -168,5 +178,6 @@ Notice of Motion submitted by Councillor M. Collins
 and that the tree stump which was to be removed many months ago be now acted upon.
 
 Correspondence
+
 
 ---

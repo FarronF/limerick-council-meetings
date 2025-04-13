@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-3rd-april-2024.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_ Comhairle Cathrach
 & Contae Luimnigh
 aAanm™. —_ —_—_—_————_————
@@ -67,8 +71,10 @@ Regulations, 2001 (as amended) in relation to the following:
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 The Abbeyfeale Goods Shed and site will become one of the main Visitor Experiences
 and Service Centre Hubs on the Limerick Greenway. Development to include:
 
@@ -110,8 +116,10 @@ Management Plan.
 | will ask at the next Meeting for a costing to be carried out for a handrail from the
 bottom of the Giants Garden, Athea to the graveyard.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -171,8 +179,10 @@ I will move at the next Meeting that the Council consider extending the speed li
 from Kilmeedy Village L6041 before it joins the L6042 Ballingarry road as this would
 be in line with the recent upgrade of footpaths.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 19.
 
 20.
@@ -192,5 +202,6 @@ Notice of Motion submitted by Councillor M. Collins
 twill move at the next Meeting that Limerick City and County Council replace and
 repair the concrete steps and footpath locally known as the Mass Path from Maiden
 Street to Assumpta Park, Newcastle West.
+
 
 ---

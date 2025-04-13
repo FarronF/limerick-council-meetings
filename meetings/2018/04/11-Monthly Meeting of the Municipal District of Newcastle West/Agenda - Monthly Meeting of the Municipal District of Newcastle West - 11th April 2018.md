@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%202018-04-11%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ——
 
 =
@@ -74,8 +78,10 @@ To receive Deputation from Tournafulla/Mountcollins Parish Committee.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 6.
@@ -128,8 +134,10 @@ uestion ed by Councillor M. Collin
 | will ask at the next Meeting if graffiti on the walls at Carrig Desmond Newcastle West
 can be cleaned.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -166,5 +174,6 @@ Notice of Motion submitted by Councillor M. Collins
 
 | will move at the next Meeting that speed ramps be installed at the entrance to
 Carraig Desmond Housing Estate Newcastle West to control traffic speed in the estate.
+
 
 ---

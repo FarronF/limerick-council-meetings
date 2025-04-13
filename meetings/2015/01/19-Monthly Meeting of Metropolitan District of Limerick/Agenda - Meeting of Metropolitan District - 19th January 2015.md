@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_19th_january_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -56,8 +60,10 @@ customerservices@limerick.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCourcil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Economic Development and Planning
 
 Proposed Patrickswell Local Area Plan 2015 - 2021
@@ -107,8 +113,10 @@ been described as 'the lanes of history’ and which has the potential to be sen
 developed as an historic quarter of our capital city, enhancing the living market
 trading tradition and bringing to life the area's central role in the 1916 Rising.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Notice of Motion submitted by Councillor Maurice Quinlivan
@@ -150,8 +158,10 @@ immediately to review rent supplement caps in Limerick. The unrealistic rates ar
 causing a real housing crisis and forcing many people including families into
 homelessness.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -183,5 +193,6 @@ connection is comprised of lead piping.
 
 Correspondence
 (Copy of Correspondence Enclosed).
+
 
 ---

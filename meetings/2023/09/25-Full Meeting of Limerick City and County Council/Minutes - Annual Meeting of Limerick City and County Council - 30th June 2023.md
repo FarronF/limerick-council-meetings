@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-a-Minutes-Annual-Meeting-of-Limerick-City-and-County-Council-30th-June-2023.pdf)
+
+---
 1
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND

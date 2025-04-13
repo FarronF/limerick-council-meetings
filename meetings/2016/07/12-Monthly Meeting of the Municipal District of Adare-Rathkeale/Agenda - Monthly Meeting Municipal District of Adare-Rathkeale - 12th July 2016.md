@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20July%202016_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_ Seirdhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -51,8 +55,10 @@ Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach & www.limerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 (b) Limerick Local Economic & Community Plan (LECP
 
 To consider the adoption of a Statement of Consistency on the Draft Local Economic and
@@ -100,8 +106,10 @@ Community Initiativ
 To consider the Community Initiative Scheme 2016.
 2
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -147,5 +155,6 @@ powers and prevent illegal trading taking place from unauthorised premises that 
 brought to their attention in recent months.
 
 Correspondence
+
 
 ---

@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_adjourned_budgetary_meeting_24th_october_2016.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _————
 
 aArN
@@ -54,5 +58,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerick.ie
 & wwwalimerickie
 w @LimerickCouncil
+
 
 ---

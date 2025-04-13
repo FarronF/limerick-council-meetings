@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-for-the-home-and-social-development-spc-.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ‘TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL
 DEVELOPMENT STRATEGIC POLICY COMMITTEE
 
@@ -52,8 +56,10 @@ evidence of a household waste collection service a condition of all tenancies an
 cases of non-compliance the cost of waste collection is added to the customers rent
 bill.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. Call for Agenda Items.
 
 9, Any other business.
@@ -61,5 +67,6 @@ bill.
 Signed: Cllr. Michael Murphy
 Chairperson
 Limerick City and County Council
+
 
 ---

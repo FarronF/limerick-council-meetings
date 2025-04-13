@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%202018-05-02%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Duiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 
@@ -60,8 +64,10 @@ customerservices@limerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach z @ weewNimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5.
 
 10.
@@ -111,8 +117,10 @@ these AHB’s.
 | will ask at the next Meeting when will the yellow hatching at various
 junctions/intersections within Newcastle West be renewed.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -180,5 +188,6 @@ overall plan/vision for the village for future years.
 
 | will move at the next Meeting that Limerick City and County Council design, cost and
 provide a footpath to Kilfergus Housing Estate, Glin.
+
 
 ---

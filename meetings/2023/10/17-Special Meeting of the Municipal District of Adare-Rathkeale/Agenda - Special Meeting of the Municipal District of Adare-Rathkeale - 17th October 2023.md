@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-17th-October-2023_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 — Comhairle Cathrach ‘ on Ain Dae Pa —_=
 & Contae Luimnigh omhairie Cathvach agus Contae Luimnig
 = Sé es
@@ -42,5 +46,6 @@ Corporate Headquarters, Merchants Quay, Limerick. yw
 
 @LimerickCouncil
 \ 061 - 556 000
+
 
 ---

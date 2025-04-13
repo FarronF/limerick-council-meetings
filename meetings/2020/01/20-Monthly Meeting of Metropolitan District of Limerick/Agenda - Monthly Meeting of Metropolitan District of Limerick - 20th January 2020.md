@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00-agenda-monthly-meeting-20th-january-2020.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ae Comhairle Cathrach Seirbhisi Corparaideacha
 Comnhairie Cathrach agus Contae Luimnigh,
 ~~ & Contae Luimnigh Cearncheathré Chorparaideach,
@@ -47,8 +51,10 @@ December, 2019.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
 
@@ -90,8 +96,10 @@ lodged to date.
 that was supposed to happen in late 2019 and whether consideration has been given to either
 acquire more land at Kilmurry or create another cemetery for Castletroy.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3
 7. Question submitted by Councillor J. Leddin
 | will ask at the next Meeting can Limerick City and County Council consider the placement of
@@ -134,8 +142,10 @@ completion date.
 living in student villages under each of the following: HAP, RAS, long term lease and temporary
 contracts,
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 4
 14. Question submitted by Councillor S. Benson
 
@@ -177,8 +187,10 @@ Action, Biodiversity and Environment Strategic Policy Committee)
 weed control service contract to eliminate unnecessary herbicide application, reducing the
 frequency of spraying and reduce the volume of herbicides used.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | propose that Limerick City and County Council write to the Minister for Health demanding that
 immediate emergency funding be made available to provide sufficient bed spaces and staff for
 the safe and efficient functioning of the hospital.
@@ -218,13 +230,16 @@ medium to high rise development and give confidence to citizens and developers.
 intersections of O'Connell Street with Cecil Street, Glentworth Street, Hartstonge Street and
 Barrington Street to the standard set out in the Design Manual for Urban Roads and Streets.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 | will move at the next Meeting that our Metropolitan Council follow through on our support for
 Limerick football and provide start up funds, from our GMA funding, to enable Limerick United
 and it’s Academy continue its work for soccer football in Limerick.
 
 28. Correspondence
 (Copy of Correspondence Enclosed)
+
 
 ---

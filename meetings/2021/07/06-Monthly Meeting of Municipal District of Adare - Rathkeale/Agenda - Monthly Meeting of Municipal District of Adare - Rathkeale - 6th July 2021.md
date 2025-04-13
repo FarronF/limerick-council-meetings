@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-6th-july-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rith Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnagh,
 
@@ -53,8 +57,10 @@ Corporate Headquarters, Merchants Quay, Limerick. ! ¥ @LimerickCouncit
 
 ( 06:1 - 856 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Housing Support Services
 Adjourned Disposal of Land
 
@@ -96,8 +102,10 @@ this business is kept clean and litter free.
 
 w
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 11.
@@ -120,5 +128,6 @@ Notice of Motion submitted by Councillor K. Sheahan
 to the soccer pitch in Clonreask, Askeaton in charge.
 
 (Copy of Correspondence Enclosed)
+
 
 ---

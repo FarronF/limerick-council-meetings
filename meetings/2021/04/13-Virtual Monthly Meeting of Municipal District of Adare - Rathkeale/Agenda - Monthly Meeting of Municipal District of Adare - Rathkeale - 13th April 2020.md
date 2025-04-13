@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-13th-april-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia
 & Contae Luimnigh Comhaite Cathrach agus Contac Luimugh
 
@@ -53,8 +57,10 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 \ 061-586 000
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Design and Delivery Services
 Kildimo Village to the Beer Garden Public House
 
@@ -78,5 +84,6 @@ Correpsondence
 (Copy of Correspondence Enclosed).
 
 A.0.B.
+
 
 ---

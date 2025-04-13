@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-d-minutes-adjourned-special-meeting-16.06.2021.pdf)
+
+---
 MINUTES OF PROCEEDINGS AT ADJOURNED SPECIAL MEETING OF LIMERICK CITY
 
 AND COUNTY COUNCIL HELD IN THE MILLENNIUM THEATRE, LIMERICK INSTITUTE

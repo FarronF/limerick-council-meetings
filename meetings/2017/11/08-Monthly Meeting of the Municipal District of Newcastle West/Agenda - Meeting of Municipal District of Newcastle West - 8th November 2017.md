@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%202017-11-08%20%20Agenda%20%281%29.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _—_—_—_— Comhairle Cathrach é _— aehtiy Corpertidenct,
 i 1 omhairle Cathrac agus Contae uimnigh.
 aAmN & Contae Luimnigh Ceanncheathri Chorpardideach,
@@ -58,8 +62,10 @@ Barnagh Tunnel and Viewing Area onto the Great Southern Greenway Limerick.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -113,8 +119,10 @@ Notices of Motion submitted by Councillor J. Scanlan
 | will move at the next Meeting that tree pruning be carried out along the Carrickerry road at
 the Old Mill Ardagh, in the interest of safety.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 12.
 
 13.
@@ -141,5 +149,6 @@ Notice of Motion submitted by Councillor S. Browne
 
 | will move at the next Meeting that Limerick City and County Council put a pedestrian
 crossing in front of Broadford National School in the interest of safety.
+
 
 ---

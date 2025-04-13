@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Annual%20Meeting%20of%20Metropolitan%20District%2023rd%20June%202017.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Seirbhisi Corpardideacha,
 
 ————— Comhairle Cathrach agus Contae Luimnigh,
@@ -50,5 +54,6 @@ next Annual Meeting or until a successor has been elected.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
+
 
 ---

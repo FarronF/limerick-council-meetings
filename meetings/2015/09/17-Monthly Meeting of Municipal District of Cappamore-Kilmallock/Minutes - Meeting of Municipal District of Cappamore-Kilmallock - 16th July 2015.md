@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20July%202015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON THURSDAY
@@ -41,8 +45,10 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 2. Corporate Services and Change Management
 
 1 015 - I Constituenci
@@ -86,8 +92,10 @@ Works Programme and informed them that same would be completed in September.
 
 The Members commended the staff on the works already carried out.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 QUESTIONS
 
 Replies to the following Questions on the Agenda were circulated to all Members
@@ -128,8 +136,10 @@ Fisheries Ireland. A meeting of the Councillors and stakeholders will be
 held in the near future to review the proposed works and it is envisaged
 that work would start in the river in August.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 8. ion submitted uncillor chell
 
 | will ask at the next Meeting what number of dwellings at Presentation Close
@@ -171,8 +181,10 @@ signage at 90 degree bend where accidents are occurring on a continual basis
 on the Hospital to Kilteely road a short distance from St. Joseph's school, in
 the interests of safety for all road users.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 5
 
 The Motion was proposed by Councillor Mitchell and seconded by Councillor Ryan.
@@ -210,8 +222,11 @@ Cathaoirleach
 
 Dated:
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 om te
+
 
 ---

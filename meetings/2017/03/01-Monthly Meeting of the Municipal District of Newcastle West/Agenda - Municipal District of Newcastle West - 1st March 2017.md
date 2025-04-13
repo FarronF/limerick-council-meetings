@@ -1,4 +1,8 @@
+[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-03-01_agenda_march_meeting_municipal_district_newcaselt_west.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 <<
 
 Seirdhisi Corparéideacha,
@@ -70,8 +74,10 @@ To review position in relation to allocations under the General Municipal Alloca
 Ceanncheathru Chorpardéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 10.
 
 Renaming of The Square, Newcastle West
@@ -120,8 +126,10 @@ waste water treatment purposes, will be reinstated; (b) what are plans for said 
 
 thereafter.
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -157,5 +165,6 @@ resurface of the Car Park at Glin GAA Pitch.
 
 | will move at the next Meeting that the Council assists St. Fergus’ National School, Glin, in
 remedial works to alleviate traffic management at the school.
+
 
 ---

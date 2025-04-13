@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%28d%29%20Minutes%20-%20Special%20Meeting%20In%20Committee%20of%20Adare-Rathkeale%20-%205th%20September%202017.pdf)
+
+---
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING ‘IN COMMITTEE’ OF THE**
 
 **MUNICIPAL DISTRICT OF ADARE-RATHKEALE HELD IN THE TRAINING ROOM, LOWER**

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-17th-june-2021-annual-meeting.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh. Ottg an Cheantaw, Aras Mhainctin Seoighe,
@@ -51,5 +55,6 @@ Comhairle Cathrach agus Contae Luimnigh. Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 (063 980 19
+
 
 ---

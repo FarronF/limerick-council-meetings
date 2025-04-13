@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_18th_march_2015.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 _——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh
 
@@ -30,8 +34,10 @@ Meetings Administrator.
 Ceanncheathri Chorpardéideach, Cé na gCeannaithe, Luimneach ;
 Corporate Headquarters, Merchants Quay, Limerick xg GlinetdiGounal
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 fais”
 
 ke Ces Ptbett tof I Buaspl
@@ -50,5 +56,6 @@ fe nko
 
 bi Ay 7
 Cie Fyn
+
 
 ---

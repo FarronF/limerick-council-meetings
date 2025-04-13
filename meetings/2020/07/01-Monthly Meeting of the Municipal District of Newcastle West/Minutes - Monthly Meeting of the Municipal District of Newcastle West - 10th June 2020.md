@@ -1,3 +1,6 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01a-2020-06-10-minutes-june.pdf)
+
+---
 MINUTES
 
 OF

@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024_0.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 Comhairle Cathrach Comhairie Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh Oilfig an Cheantaiy, Aras er ee
@@ -59,11 +63,15 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 (063 980 19
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 3.
 
 4.
@@ -115,8 +123,10 @@ Notice of Motion submitted by Councillors Teefy
 pedestrian crossing be put in at Holycross on the R512 where there is very large movement of
 traffic and pedestrians.”
 
+
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 11.
 
 12.
@@ -159,5 +169,6 @@ Question submitted by Councillor Donegan
 expect works to begin on the safety works planned for the Railway Road, the railway bridge
 and Gotoon, Kilmallock, including footpath replacement and improved signage for the safety
 of pedestrians crossing the bridge.”
+
 
 ---

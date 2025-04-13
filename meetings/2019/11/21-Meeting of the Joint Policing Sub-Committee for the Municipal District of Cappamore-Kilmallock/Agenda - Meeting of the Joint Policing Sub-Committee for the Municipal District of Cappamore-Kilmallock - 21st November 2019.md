@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20JPC%20Agenda.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ll Comhairle Cathrach
 & Contae Luimnigh
 NIN ‘
@@ -48,5 +52,6 @@ To discuss policing issues in the District.
 
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
+
 
 ---

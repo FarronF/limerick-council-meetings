@@ -1,4 +1,8 @@
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/agenda-special-meeting-of-the-metropolitan-district-of-limerick-8th-november-2021.pdf)
+
+---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
 ‘ Se&bhis{ Corpardidescha,
 _—__ Comhairle Cathrach Comhairie Cathyach agus Contae Luinynigh,
 & Contae Luimnigh Ceanncheathni Chorpardideach,
@@ -46,5 +50,6 @@ Development DAC.
 
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
 
 ---
