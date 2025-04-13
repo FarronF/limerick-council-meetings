@@ -41,7 +41,7 @@ To search only files from meetings in 2024
 
 This is very effective for agendas however remember that minutes are stored in the meeting they are adopted, not the meeting they were recorded in. As such minutes for meetings at the end of the year are likely to be stored in the following year.
 
-It may be more effective to search for year anywhere in the path.
+It may be more effective to search for year anywhere in the path but this may give results from a slightly larger range.
 
 `path:**/*2024*`
 
