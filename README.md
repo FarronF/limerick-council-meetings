@@ -20,7 +20,7 @@ Images in PDFs are currently omitted to ensure searching is easier. They will be
 You must have a GitHub account and be signed in to use GitHub's search feature
 
 Using GitHub's search functionality, you can search for words or phrases. e.g.
-![example](screenshots/image.png)
+![example](https://i.imgur.com/7GIuqQF.png)
 
 From here you will see various instances where this word appears in documents.
 
