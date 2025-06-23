@@ -4,6 +4,10 @@ This repository contains texts extracted all publically available meeting agenda
 
 The purpose of this repo is to allow easy searching of the contents of these PDFs by utilizing github's built in search functionality. It also may be easier to navigate to meetings on specific dates as the limerick.ie website only supports navigation one month at a time.
 
+## Last Update
+2024-06-24
+All agendas and minutes PDFs uploaded to this date parsed and uploaded here.
+
 ## Why?
 Transparency in local government is essential to a healthy democracy. While official minutes are available, they can be difficult to find, navigate, and search through. This project aims to make these records more accessible, searchable, and user-friendly — helping to bridge the gap between the council's decisions and the community it serves.
 
