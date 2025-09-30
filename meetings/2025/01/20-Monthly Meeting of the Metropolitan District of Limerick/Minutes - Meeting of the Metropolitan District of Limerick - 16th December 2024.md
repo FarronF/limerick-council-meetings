@@ -1,7 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-december-2024.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OFLIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ONMONDAY, 16THDECEMBER, 2024 at 9.45 A.M.PRESENT IN THE CHAIR:** Councillor K. O’Hanlon, Cathaoirleach
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
+
+**LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
+
+**MONDAY, 16TH** **DECEMBER, 2024 at 9.45 A.M.**
+
+**PRESENT IN THE CHAIR:** Councillor K. O’Hanlon, Cathaoirleach
 
 **MEMBERS IN ATTENDANCE**:
 
@@ -171,7 +177,9 @@ It was agreed to include the City Transport Plan as an item on the agenda for th
 
 Area Briefings to allow for more discussion per Area.
 
-**5.Housing Directorate(a) Part 8 Procedure – Six No. Housing Units at Mulcair Drive, Rivers, Annacotty, Co. Limerick**
+**5.Housing Directorate**
+
+**(a) Part 8 Procedure – Six No. Housing Units at Mulcair Drive, Rivers, Annacotty, Co. Limerick**
 
 Circulated, Report of the Senior Engineer, LA Housing Construction and Maintenance dated 4th
 
@@ -253,7 +261,9 @@ in favour of the Part 8 Procedure – Six No. Housing Units at 52 New Road, Thom
 
 to proceed.
 
-**6.Planning, Environment and Place-Making Directorate(a) Taking in Charge of Estates - Declaration of Roads to be Public Roads**
+**6.Planning, Environment and Place-Making Directorate**
+
+**(a) Taking in Charge of Estates - Declaration of Roads to be Public Roads**
 
 Circulated, Report of the Senior Planner, Planning and Place-Making Directorate dated 2nd
 
@@ -273,7 +283,7 @@ Section 180 of the Planning and Development Act 2000 (as amended) and Section 11
 
 Act, 1993”.
 
-**(b) Briefing on Part 8–Fireplace Site, 35–39 Nicholas Street, Limerick**
+**(b) Briefing on Part 8** **–** **Fireplace Site, 35** **–** **39 Nicholas Street, Limerick**
 
 The A/Senior Executive Planner and Executive Planner, Forward Planning gave a Presentation to
 
@@ -307,13 +317,29 @@ positive benefits this will have for the area. They commended the team for the f
 
 have done with the proposed design and highlighted how it will significantly revitalise the street.
 
-**QUESTIONS7.Question submitted by Councillor M. Donoghue*I will ask at the next Meeting of the Metropolitan District of Limerick what plans are in place to**support Our Lady of Lourdes, Childers Road, in the upgrade of their existing structure and**facilities.*REPLY:** Following a recent meeting with Our Lady of Lourdes, a conditional assessment is being
+**QUESTIONS**
+
+**7.Question submitted by Councillor M. Donoghue**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick what plans are in place to***
+
+***support Our Lady of Lourdes, Childers Road, in the upgrade of their existing structure and***
+
+***facilities.***
+
+**REPLY:** Following a recent meeting with Our Lady of Lourdes, a conditional assessment is being
 
 sought from their consultants after which Regeneration will review refurbishment and/or
 
 re-development options for their operations.
 
-**8.Question submitted by Councillor E. Secas*I will ask at the next Meeting of the Metropolitan District of Limerick for an update on site**acquisition for a new graveyard in the Castletroy area.*REPLY**: In our reply to Question raised by Cllr Secas on this issue dated the 16th of February 2024
+**8.Question submitted by Councillor E. Secas**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on site***
+
+***acquisition for a new graveyard in the Castletroy area.***
+
+**REPLY**: In our reply to Question raised by Cllr Secas on this issue dated the 16th of February 2024
 
 the response stated:
 
@@ -337,7 +363,15 @@ we are engaging with the property owners in order to obtain necessary permission
 
 out physical assessments of same.
 
-**9.Question submitted by Councillor J. Pond*I will ask at the next Meeting of the Metropolitan District of Limerick that following on from**further recent acts of anti-social behaviour on Castletroy Greenway, can I have an update on the**CCTV scheme that is proposed for the Castletroy Greenway.*REPLY:** Limerick City and County Council’s Digital Services CCTV team submitted a Community CCTV
+**9.Question submitted by Councillor J. Pond**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick that following on from***
+
+***further recent acts of anti-social behaviour on Castletroy Greenway, can I have an update on the***
+
+***CCTV scheme that is proposed for the Castletroy Greenway.***
+
+**REPLY:** Limerick City and County Council’s Digital Services CCTV team submitted a Community CCTV
 ---
 6
 
@@ -353,7 +387,17 @@ consideration. This application is currently under review by the Garda Commissio
 
 team. We anticipate receiving the outcome of the application within the next few weeks.
 
-**10.Question submitted by Councillor C. Slattery*I will ask at the next Meeting of the Metropolitan District of Limerick can Limerick Council advise**why people in receipt of the bin waiver have to pay a subsidy to their bin provider if they go over**a certain weight.**The weight allowance is very low if elderly people living alone have to pay fees**towards the second half of the year.*REPLY**: The weight allowance for Household Waste Subsidy Scheme is 120kg per bin, i.e. 120kg
+**10.Question submitted by Councillor C. Slattery**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick can Limerick Council advise***
+
+***why people in receipt of the bin waiver have to pay a subsidy to their bin provider if they go over***
+
+***a certain weight.*** ***The weight allowance is very low if elderly people living alone have to pay fees***
+
+***towards the second half of the year.***
+
+**REPLY**: The weight allowance for Household Waste Subsidy Scheme is 120kg per bin, i.e. 120kg
 
 General Waste, 120kg Mixed Dry Recyclables, 120kg Food Waste Recycling, a total of 360kg.
 
@@ -391,13 +435,27 @@ tenders and the available budget, Limerick City and County Council proceeded wit
 
 3 i.e. 120kg per bin.
 
-**11.Question submitted by Councillor S. Hickey-O’Mara*I will ask at the next Meeting of the Metropolitan District of Limerick if road calming measures**can be installed at the junction of Willow Avenue and Woodbine Avenue, Caherdavin Heights, as**this junction has been flagged as dangerous for pedestrians and cyclists by local residents.*REPLY:** Active Travel will review road calming measures at the junction of Willow Avenue and
+**11.Question submitted by Councillor S. Hickey-O’Mara**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick if road calming measures***
+
+***can be installed at the junction of Willow Avenue and Woodbine Avenue, Caherdavin Heights, as***
+
+***this junction has been flagged as dangerous for pedestrians and cyclists by local residents.***
+
+**REPLY:** Active Travel will review road calming measures at the junction of Willow Avenue and
 
 Woodbine Avenue, Caherdavin Heights with Limerick City and County Council Travel &
 
 Transport Operations & Maintenance as part of NTA allocation for 2025.
 
-**12.Question submitted by Councillor S. Hickey-O’Mara*I will ask at the next Meeting of the Metropolitan District of Limerick if the Council has plans to**improve footpaths on Caragh Avenue, Caragh Drive and Sheelin Road, Caherdavin, as part of**their ongoing footpath improvement works in the Caherdavin area.***
+**12.Question submitted by Councillor S. Hickey-O’Mara**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick if the Council has plans to***
+
+***improve footpaths on Caragh Avenue, Caragh Drive and Sheelin Road, Caherdavin, as part of***
+
+***their ongoing footpath improvement works in the Caherdavin area.***
 ---
 7
 
@@ -411,7 +469,15 @@ Caragh Drive and Sheelin Road, Caherdavin may be considered if deemed a priority
 
 other footpaths in need of refurbishment throughout the Metropolitan North area.
 
-**13.Question submitted by Councillor E. O’Donovan*I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the**Mayor’s Fund initiative that traditionally provides hampers from the Milk Market to Limerick**families in need.*REPLY**: The Mayor’s Christmas Coal tradition, once a gesture of goodwill, involved distributing a
+**13.Question submitted by Councillor E. O’Donovan**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the***
+
+***Mayor’s Fund initiative that traditionally provides hampers from the Milk Market to Limerick***
+
+***families in need.***
+
+**REPLY**: The Mayor’s Christmas Coal tradition, once a gesture of goodwill, involved distributing a
 
 bag of coal to the needy in Limerick City. This was an unadvertised gesture, offering
 
@@ -465,11 +531,17 @@ In any case, I would advise anyone in need of support during the festive period 
 
 Citizens Information or other charities supported by Council funds for sources of assistance.
 
-**NOTICES OF MOTION14.Notice of Motion submitted by Councillor S. Kiely**
+**NOTICES OF MOTION**
+
+**14.Notice of Motion submitted by Councillor S. Kiely**
 ---
 8
 
-***I will move at the next Meeting of the Metropolitan District of Limerick that we engage with the**relevant Council Department and request that King John's Castle be lit up from the river side to**enhance the vista.***
+***I will move at the next Meeting of the Metropolitan District of Limerick that we engage with the***
+
+***relevant Council Department and request that King John's Castle be lit up from the river side to***
+
+***enhance the vista.***
 
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor Butler and agreed.
 
@@ -487,7 +559,15 @@ assessed for appropriateness. Funding will be required to support the installati
 
 approved illumination scheme.
 
-**15.Notice of Motion submitted by Councillor J. Pond*I will move at the next Meeting of the Metropolitan District of Limerick, that Limerick City and**County Council would write to An Garda Siochana to ask that every effort is made to**ensure that**Chestnut Close in Elm Park and indeed all estates in the area are free from illegally parked**vehicles thus allowing service vehicles including bin trucks proper access to these estates.***
+**15.Notice of Motion submitted by Councillor J. Pond**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick, that Limerick City and***
+
+***County Council would write to An Garda Siochana to ask that every effort is made to**ensure that***
+
+***Chestnut Close in Elm Park and indeed all estates in the area are free from illegally parked***
+
+***vehicles thus allowing service vehicles including bin trucks proper access to these estates.***
 
 The Notice of Motion was proposed by Councillor Pond, seconded by Councillor Secas and agreed.
 
@@ -499,7 +579,17 @@ Members welcomed the Motion and agreed that immediate action is required to rect
 
 the residents living in these areas.
 
-**16.Notice of Motion submitted by Councillor D. McSweeney*I will move at the next Meeting of the Metropolitan District of Limerick that in light of the**correspondence received from the Director General between Active Travel and the Fire Service**and Building Control that a full review be carried out on all constructed and proposed Active**Travel Schemes of the negative impact such schemes may have on emergency response times**and a full report be furnished to the elected members of the Metropolitan District.***
+**16.Notice of Motion submitted by Councillor D. McSweeney**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that in light of the***
+
+***correspondence received from the Director General between Active Travel and the Fire Service***
+
+***and Building Control that a full review be carried out on all constructed and proposed Active***
+
+***Travel Schemes of the negative impact such schemes may have on emergency response times***
+
+***and a full report be furnished to the elected members of the Metropolitan District.***
 
 The Notice of Motion was proposed by Councillor McSweeney, seconded by Councillor Butler and
 
@@ -535,7 +625,13 @@ circulated to all Members and a Briefing would be organised for the Members of t
 
 District.
 
-**17.Notice of Motion submitted by Councillor S. Hickey-O’Mara*I will move at the next Meeting of the Metropolitan District of Limerick that this Council installs**more public bins along the route of Cratloe Road, Sexton Street North and High Road, stretching**from Thomond Park to the River Shannon.***
+**17.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that this Council installs***
+
+***more public bins along the route of Cratloe Road, Sexton Street North and High Road, stretching***
+
+***from Thomond Park to the River Shannon.***
 
 The Notice of Motion was proposed by Councillor Hickey-O’Mara, seconded by Councillor
 
@@ -575,7 +671,13 @@ Henry Street was removed due to the volume of domestic waste left around the bin
 
 review the area again and re-instate the bin if required.
 
-**18.Notice of Motion submitted by Councillor E. O’Donovan*I will move at the next Meeting of the Metropolitan District of Limerick that Planning**Enforcement ensure that every enforcement complaint is acknowledged and responded to within**14 days in the Metropolitan area.***
+**18.Notice of Motion submitted by Councillor E. O’Donovan**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that Planning***
+
+***Enforcement ensure that every enforcement complaint is acknowledged and responded to within***
+
+***14 days in the Metropolitan area.***
 
 The Notice of Motion was proposed by Councillor O’Donovan, seconded by Councillor Hickey-
 
@@ -609,5 +711,9 @@ Correspondence was noted and taken as read.
 
 This concluded the Meeting.
 
-**Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_CATHAOIRLEACHDated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**CATHAOIRLEACH**
+
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 ---

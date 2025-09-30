@@ -1,7 +1,9 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-home-and-social-strategic-policy-committee-13th-march-2025.pdf)
 
 ---
-**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENTSTRATEGIC POLICY COMMITTEE**
+**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
+
+**STRATEGIC POLICY COMMITTEE**
 
 A meeting of Limerick City and County Council Home and Social Development Strategic Policy
 

@@ -3,15 +3,33 @@
 ---
 (Image omitted)
 
-**02 April, 2025To: The Chairperson and Each Member of the Economic Development, Enterprise, Tourism &Planning Strategic Policy Committee of Limerick City & County Council**
+**02 April, 2025**
+
+**To: The Chairperson and Each Member of the Economic Development, Enterprise, Tourism &**
+
+**Planning Strategic Policy Committee of Limerick City & County Council**
 
 You are invited to attend the Meeting of the Economic Development, Enterprise, Tourism & Planning
 
-Strategic Policy Committee to be held in the **Council Chamber, Dooradoyle and Online by MS TeamsVideo Conference**, **on Monday, the 14th of April 2025 at 2.15pm**. The business to be transacted is
+Strategic Policy Committee to be held in the **Council Chamber, Dooradoyle and Online by MS Teams**
+
+**Video Conference**, **on Monday, the 14th of April 2025 at 2.15pm**. The business to be transacted is
 
 set out in the appended agenda.
 
-**Signed: CLLR PETER DOYLECHAIRPERSON OF THE ECONOMIC DEVELOPMENT, ENTERPRISE, TOURISM & PLANNINGSTRATEGIC POLICY COMMITTEEVINCENT MURRAYDIRECTOR OF SERVICE,PLANNING AND PLACEMAKING DIRECTORATEAGENDA**
+**Signed: CLLR PETER DOYLE**
+
+**CHAIRPERSON OF THE ECONOMIC DEVELOPMENT, ENTERPRISE, TOURISM & PLANNING**
+
+**STRATEGIC POLICY COMMITTEE**
+
+**VINCENT MURRAY**
+
+**DIRECTOR OF SERVICE,**
+
+**PLANNING AND PLACEMAKING DIRECTORATE**
+
+**AGENDA**
 
 1. Minutes: To adopt the draft minutes of the Meeting of the Economic Development,
 

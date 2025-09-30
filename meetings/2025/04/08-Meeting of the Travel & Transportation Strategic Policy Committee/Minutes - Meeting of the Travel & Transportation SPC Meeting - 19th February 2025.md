@@ -3,7 +3,13 @@
 ---
 1
 
-**Minutes of the Meeting of Limerick City and County Council’s Travel and TransportationStrategic Policy Committee held on 19thFebruary 2025 at 3:00 p.m. in the Council Chamber,Dooradoyle and ONLINE by MS Teams Video Conference.Members Present:** Cllrs. Teefy (Chair), Butler, Kilcoyne, Gavan, Hartigan, O’Donoghue,
+**Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
+
+**Strategic Policy Committee held on 19th** **February 2025 at 3:00 p.m. in the Council Chamber,**
+
+**Dooradoyle and ONLINE by MS Teams Video Conference.**
+
+**Members Present:** Cllrs. Teefy (Chair), Butler, Kilcoyne, Gavan, Hartigan, O’Donoghue,
 
 O’Donovan, E. Ryan, Ruddle, Scanlon, Secas, Teskey, Mrs. M. Browne, Mr. Farron Flaherty, Mr.
 
@@ -49,7 +55,7 @@ and adopted.
 ---
 2
 
-**Item 2:Presentation: Community Hedge cutting Scheme–John Gannon, S.E.**
+**Item 2:** **Presentation: Community Hedge cutting Scheme** **–** **John Gannon, S.E.**
 
 Mr. Gannon delivered a presentation outlining the Community Hedge Cutting Grant Scheme and
 
@@ -259,7 +265,9 @@ on the 31st March 2025 for adoption.
 
 Two Notice of Motions (a) & (b) were addressed as part of Item 2.
 
-**a)Notice of Motion submitted by Councillor S. Kiely (referred from September CouncilMeeting)**
+**a)Notice of Motion submitted by Councillor S. Kiely (referred from September Council**
+
+**Meeting)**
 
 I will move at the next Meeting that this Local Authority examine the possibility of a
 
@@ -279,7 +287,9 @@ of roadside hedge/overhanging trees to be cut with a minimum length of road netw
 
 to be incorporated in any application of 5km.
 
-**b)Notice of Motion submitted by Councillor J. Pond(referred from September CouncilMeeting)**
+**b)Notice of Motion submitted by Councillor J. Pond** **(referred from September Council**
+
+**Meeting)**
 
 I will move at the next Meeting that Limerick City and County Council would adopt a policy
 
@@ -311,7 +321,9 @@ of roadside hedge/overhanging trees to be cut with a minimum length of road netw
 
 to be incorporated in any application of 5km.
 
-**Item 3: Notice of Motion submitted by Councillor J. O’Donoghue (referred from Adare-Rathkeale September Municipal Meeting)**
+**Item 3: Notice of Motion submitted by Councillor J. O’Donoghue (referred from Adare-**
+
+**Rathkeale September Municipal Meeting)**
 
 I will move at the next meeting that a plan for verge trimming on a year-round basis be
 
@@ -381,7 +393,9 @@ during the months of March to August.
 
 Cllr. J. O’Donoghue understood that funding comes into the process and accepted the response.
 
-**Item 4: Notice of Motion submitted by Councillor P. Doyle (referred from September MetroMeeting)**
+**Item 4: Notice of Motion submitted by Councillor P. Doyle (referred from September Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that free parking for one
 
@@ -429,7 +443,9 @@ remove the word ‘free’ from the motion and submit to Mr. H. McGrath for disc
 
 the development of the Limerick City Transport Plan.
 
-**Item 5: Notice of Motion submitted by Councillor J. Leddin (referred from October MetroMeeting)**
+**Item 5: Notice of Motion submitted by Councillor J. Leddin (referred from October Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this Council amend
 
@@ -473,7 +489,9 @@ and the proposal to advance discussion.
 ---
 8
 
-**Item 6: Notice of Motion submitted by Councillor P. Doyle (referred from October MetroMeeting)**
+**Item 6: Notice of Motion submitted by Councillor P. Doyle (referred from October Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
 
@@ -535,7 +553,9 @@ interest to the Limerick City taskforce group for consideration.
 ---
 9
 
-**Item 7: Notice of Motion submitted by Councillor E. Secas (referred from October MetroMeeting)**
+**Item 7: Notice of Motion submitted by Councillor E. Secas (referred from October Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that the Mayor and the
 
@@ -601,7 +621,9 @@ incorporated in any application of 5km.
 ---
 10
 
-**Item 9: Update on provision of salt to Resident’s Associations during extreme weatherconditions**
+**Item 9: Update on provision of salt to Resident’s Associations during extreme weather**
+
+**conditions**
 
 With the proposal from the Chair, this item was deferred to the next SPC meeting.
 

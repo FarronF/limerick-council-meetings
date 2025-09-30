@@ -1,7 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-meeting-of-the-metropolitan-district-of-limerick-21st-july-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OFLIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ONMONDAY, 21STJULY, 2025 at 9.45 A.M.PRESENT IN THE CHAIR:** Councillor D. Butler
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
+
+**LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
+
+**MONDAY, 21ST** **JULY, 2025 at 9.45 A.M.**
+
+**PRESENT IN THE CHAIR:** Councillor D. Butler
 
 **MEMBERS IN ATTENDANCE**:
 
@@ -189,7 +195,9 @@ approve the change of name for the funding allocation from Castlerock Residents 
 
 Castlerock Housing Development.
 
-**6.Planning and Place-Making DirectoratePart 8 Procedure – Market Quarter and Cruises Street Public Realm Project**
+**6.Planning and Place-Making Directorate**
+
+**Part 8 Procedure – Market Quarter and Cruises Street Public Realm Project**
 
 The Mayor’s Report prepared in accordance with Section 179(3)(a) of the Planning and
 
@@ -231,7 +239,19 @@ The Mayor’s Report, as circulated, was approved with no modifications, as prop
 
 Dan McSweeney and seconded by Councillor Sarah Kiely.
 
-**QUESTIONS7.Question submitted by Councillor U. Gavan*I will ask at the next Meeting of the Metropolitan District of Limerick if Limerick City and County**Council has considered an outdoor seating rebate for outlets which prescribe to a living wage in**a move to encourage outdoor dining/investment and living wage coupled with encouraging late**night activity in our local economy.*REPLY**: The Minister for Housing, Local Government and Heritage, James Browne, confirmed that
+**QUESTIONS**
+
+**7.Question submitted by Councillor U. Gavan**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick if Limerick City and County***
+
+***Council has considered an outdoor seating rebate for outlets which prescribe to a living wage in***
+
+***a move to encourage outdoor dining/investment and living wage coupled with encouraging late***
+
+***night activity in our local economy.***
+
+**REPLY**: The Minister for Housing, Local Government and Heritage, James Browne, confirmed that
 
 the Government intends to waive the €125 per table per year fee for businesses such as
 
@@ -251,7 +271,13 @@ does not currently have discretion to implement wage-based incentives or conditi
 
 licence rebates.
 
-**8.Question submitted by Councillor S. Beasley*I will ask at the next Meeting of the Metropolitan District of Limerick for the figures for the total**number of Notice to Quits that the Housing Department is currently handling.*REPLY**: Limerick City and County Council has been operating the tenant in situ scheme since April
+**8.Question submitted by Councillor S. Beasley**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for the figures for the total***
+
+***number of Notice to Quits that the Housing Department is currently handling.***
+
+**REPLY**: Limerick City and County Council has been operating the tenant in situ scheme since April
 
 2023. To date, Limerick City and County Council have been notified of 906 NTQs. Please see
 
@@ -259,7 +285,17 @@ current breakdown below, as at 11/07/25:
 ---
 5
 
-**9.Question submitted by Councillor S. Beasley*I will ask at the next Meeting of the Metropolitan District of Limerick for a follow up on the**progress of my motion from the October 2024 meeting which was passed by the Councillors:**"That Limerick City and County Council agree to source more hostel beds for individual homeless**people".*REPLY**: The Council works with all service providers on a daily basis to ensure the usage and the
+**9.Question submitted by Councillor S. Beasley**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for a follow up on the***
+
+***progress of my motion from the October 2024 meeting which was passed by the Councillors:***
+
+***"That Limerick City and County Council agree to source more hostel beds for individual homeless***
+
+***people".***
+
+**REPLY**: The Council works with all service providers on a daily basis to ensure the usage and the
 
 management of hostel bed capacity/temporary supported accommodation for individuals
 
@@ -271,7 +307,13 @@ Limerick Homeless Action team continues in its efforts to review existing and ad
 
 hostel capacity in conjunction with our HSE partners and other stakeholders.
 
-**10.Question submitted byCouncillor E. O’Donovan*I will ask at the next meeting of the Metropolitan District of Limerick for an update on the use of**the Go-Car share scheme spaces in the City Centre area now that the service has been withdrawn.*REPLY**: Travel & Transport Strategy are currently in the procurement process (out to tender) for a
+**10.Question submitted by** **Councillor E. O’Donovan**
+
+***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the use of***
+
+***the Go-Car share scheme spaces in the City Centre area now that the service has been withdrawn.***
+
+**REPLY**: Travel & Transport Strategy are currently in the procurement process (out to tender) for a
 
 Licenced Service Provider to operate a Car Club scheme for the Limerick City & Environs
 
@@ -285,13 +327,29 @@ tenderer.
 ---
 6
 
-**11.Question submitted by Councillor E. O’Donovan*I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the taking**in charge of Ard Thomain, Sli Na Manach in Mungret as this estate is over 12 years old and**requires road infrastructure.*REPLY**: The Council has issued a snag list of works required to bring the development up to the
+**11.Question submitted by Councillor E. O’Donovan**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the taking***
+
+***in charge of Ard Thomain, Sli Na Manach in Mungret as this estate is over 12 years old and***
+
+***requires road infrastructure.***
+
+**REPLY**: The Council has issued a snag list of works required to bring the development up to the
 
 required taking-in-charge standard, and the Council and developer are in ongoing
 
 discussions about necessary development works.
 
-**12.Question submitted by Councillor E. O’Donovan*I will ask at the next meeting of the Metropolitan District of Limerick for an update on the 800m**shared cycle/pedestrian path with public lighting along the Rosbrien Road from the railway**track to Old Crescent Rugby Club that this Council received funding to deliver in 2022.*REPLY**: Limerick City and County Council were not in a position to drawdown previous allocated
+**12.Question submitted by Councillor E. O’Donovan**
+
+***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the 800m***
+
+***shared cycle/pedestrian path with public lighting along the Rosbrien Road from the railway***
+
+***track to Old Crescent Rugby Club that this Council received funding to deliver in 2022.***
+
+**REPLY**: Limerick City and County Council were not in a position to drawdown previous allocated
 
 funding on this matter. Active Travel will liaise with Operations & Maintenance and the
 
@@ -299,7 +357,15 @@ National Transport Authority in relation to the preparation of a new application
 
 for this project and update members if successful.
 
-**13.Question submitted by Councillor E. Secas*I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the**Ballysimon Road active travel scheme and the timeframe for its delivery, including the pedestrian**crossing at Garryglass Roundabout.*REPLY**: We are currently developing plans for improved walking and cycle facilities along Ballysimon
+**13.Question submitted by Councillor E. Secas**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the***
+
+***Ballysimon Road active travel scheme and the timeframe for its delivery, including the pedestrian***
+
+***crossing at Garryglass Roundabout.***
+
+**REPLY**: We are currently developing plans for improved walking and cycle facilities along Ballysimon
 
 Road from its junction with Garryglass Roundabout to the Childers Road, including
 
@@ -311,15 +377,31 @@ and to pass through their project appraisal guidelines.
 
 Active Travel are anticipating going to public consultation in Q4 2025.
 
-**14.Question submitted by Councillor S. Hickey-O’Mara*I will ask at the next meeting of the Metropolitan District of Limerick for clarity on the future of**the bus stop outside the Limerick Baptist Church, Old Cratloe Road. Will this bus stop, which**serves the 302, be preserved as part of the Old Cratloe Road Active Travel Scheme.*REPLY**: Yes, the existing bus stop outside of the Limerick Baptist Church, Old Cratloe Road will be
+**14.Question submitted by Councillor S. Hickey-O’Mara**
+
+***I will ask at the next meeting of the Metropolitan District of Limerick for clarity on the future of***
+
+***the bus stop outside the Limerick Baptist Church, Old Cratloe Road. Will this bus stop, which***
+
+***serves the 302, be preserved as part of the Old Cratloe Road Active Travel Scheme.***
+
+**REPLY**: Yes, the existing bus stop outside of the Limerick Baptist Church, Old Cratloe Road will be
 
 retained as part of the Old Cratloe Road Active Travel Scheme.
 
-**15.Question submitted by Councillor S. Hickey-O’Mara*I will ask at the next meeting of the Metropolitan District of Limerick if, given the plans for**forthcoming ‘August Activations’**throughout the city, the Council plans to increase the provision***
+**15.Question submitted by Councillor S. Hickey-O’Mara**
+
+***I will ask at the next meeting of the Metropolitan District of Limerick if, given the plans for***
+
+***forthcoming ‘August Activations’*** ***throughout the city, the Council plans to increase the provision***
 ---
 7
 
-***of public toilets to serve the expected increase in the number of people to locations outlined as**part of this project? If so, where will these additional public toilets be located.*REPLY**: It would be the responsibility of the event management company procured to animate the
+***of public toilets to serve the expected increase in the number of people to locations outlined as***
+
+***part of this project? If so, where will these additional public toilets be located.***
+
+**REPLY**: It would be the responsibility of the event management company procured to animate the
 
 city centre during August to determine if additional public toilets are required for any
 
@@ -329,7 +411,27 @@ of August Animations with the procured event management company at present and w
 
 ask them to factor this into their preparations and budget.
 
-**16.Question submitted by Councillor S. Hickey-O’Mara*I will ask at the next meeting of the Metropolitan District:**(a) How often was the Council contacted to remove roadkill in the Metropolitan area over the**past 5 years.**(b) If any roadkill blackspots have been identified by the Council as a result.**(c) Whether the Council records the species of animal when removing roadkill in the**Metropolitan area.**(d) Were there any significant increases/decreases in the number of animals removed per month**i.e. are there times of the year that saw an increase or decrease in roadkill.**(e) How is this roadkill disposed of once removed.*REPLY**:
+**16.Question submitted by Councillor S. Hickey-O’Mara**
+
+***I will ask at the next meeting of the Metropolitan District:***
+
+***(a) How often was the Council contacted to remove roadkill in the Metropolitan area over the***
+
+***past 5 years.***
+
+***(b) If any roadkill blackspots have been identified by the Council as a result.***
+
+***(c) Whether the Council records the species of animal when removing roadkill in the***
+
+***Metropolitan area.***
+
+***(d) Were there any significant increases/decreases in the number of animals removed per month***
+
+***i.e. are there times of the year that saw an increase or decrease in roadkill.***
+
+***(e) How is this roadkill disposed of once removed.***
+
+**REPLY**:
 
 (a) The Council’s complaints system does not have a service option for small dead animals which
 
@@ -357,7 +459,13 @@ noted.
 
 (e) Roadkill is disposed of as general waste which is processed by a waste management company.
 
-**17.Question submitted by Councillor P. Reale*I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the**implementation of bye laws for busking including a timeline for introduction.*REPLY**: Limerick City and County Council Street Performance and Busker Bye – Laws 2025 were
+**17.Question submitted by Councillor P. Reale**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the***
+
+***implementation of bye laws for busking including a timeline for introduction.***
+
+**REPLY**: Limerick City and County Council Street Performance and Busker Bye – Laws 2025 were
 
 signed and sealed on the 3rd July last, and are in force since that date. An Garda Siochana,
 
@@ -375,7 +483,19 @@ https://www.limerick.ie/council/services/environment-and-climate-
 
 action/environmental-control/noise-nuiscance
 
-**18.Question submitted by Councillor P. Reale*I will ask at the next Meeting of the Metropolitan District of Limerick for an update on what**discussions are ongoing with the**Department of Housing, Local Government and Heritage**in**relation to the wind down of the Economic & Social Intervention Fund in Limerick and what**discussions are happening in relation to identifying an alternative funding stream to support**these communities who benefit from these funds.*REPLY**: The Limerick Regeneration Framework Implementation Plan (LRFIP) was launched in 2013,
+**18.Question submitted by Councillor P. Reale**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on what***
+
+***discussions are ongoing with the*** ***Department of Housing, Local Government and Heritage***
+
+***in*** ***relation to the wind down of the Economic & Social Intervention Fund in Limerick and what***
+
+***discussions are happening in relation to identifying an alternative funding stream to support***
+
+***these communities who benefit from these funds.***
+
+**REPLY**: The Limerick Regeneration Framework Implementation Plan (LRFIP) was launched in 2013,
 
 which was a ten-year programme to deliver on social, economic and physical objectives.
 
@@ -409,13 +529,29 @@ works with agencies, service providers, and community groups on an ongoing basis
 
 identify opportunities for collaboration, coordination, and funding.
 
-**19.Question submitted by Councillor M. Donoghue*I will ask at the next Meeting of the Metropolitan District of Limerick how many fines have been**issued in 2024 and to end-June 2025 for failure to comply with waste management bye-laws,**both in relation to domestic waste and commercial waste. Also, what revenues have these fines**raised for LCCC in 2024 and to end-June 2025.*REPLY**: A total of **392** fines were issued by the Domestic Waste and Litter team and the Commercial
+**19.Question submitted by Councillor M. Donoghue**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick how many fines have been***
+
+***issued in 2024 and to end-June 2025 for failure to comply with waste management bye-laws,***
+
+***both in relation to domestic waste and commercial waste. Also, what revenues have these fines***
+
+***raised for LCCC in 2024 and to end-June 2025.***
+
+**REPLY**: A total of **392** fines were issued by the Domestic Waste and Litter team and the Commercial
 
 Waste team between 1st January 2024 and 30th June 2025. A total of **€23,130** was collected
 
 from these fines.
 
-**20.Question submitted by Councillor M. Donoghue*I will ask at the next Meeting of the Metropolitan District of Limerick that the cost for 2024**Riverfest, specifically pertaining to the Festival Village cost of €144,211.35, is broken down on a**detailed and itemised basis.***
+**20.Question submitted by Councillor M. Donoghue**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick that the cost for 2024***
+
+***Riverfest, specifically pertaining to the Festival Village cost of €144,211.35, is broken down on a***
+
+***detailed and itemised basis.***
 ---
 9
 
@@ -431,7 +567,11 @@ heart of the city, providing significant temporary employment over the weekend. 
 
 expenditure budget for Riverfest Festival Village 2024 is as follows:
 
-**Riverfest 2024 Festival VillageItemAmount ex.vat**
+**Riverfest 2024 Festival Village**
+
+**Item**
+
+**Amount ex.vat**
 
 Timber Cabins
 
@@ -535,7 +675,13 @@ Vat at 23%
 
 Total
 
-**€144,211.3521.Question submitted by Councillor M. Donoghue*I will ask at the next Meeting of the Metropolitan District of Limerick what the future plans are**for No. 58 O’Connell Street, the building formerly occupied by Narrative 4 and now sitting vacant.***
+**€144,211.35**
+
+**21.Question submitted by Councillor M. Donoghue**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick what the future plans are***
+
+***for No. 58 O’Connell Street, the building formerly occupied by Narrative 4 and now sitting vacant.***
 ---
 10
 
@@ -547,7 +693,15 @@ The roof of the building is in need of improvement works and contractors are cur
 
 site carrying out repairs to the roof structure.
 
-**NOTICES OF MOTION22.Notice of Motion submitted by Councillor C. Slattery*I will move at the next Meeting of the Metropolitan District of Limerick that this Council consider**converting the green area outside the Glasgow Park houses into additional car parking spaces,**given there is plenty of green space already in the area.***
+**NOTICES OF MOTION**
+
+**22.Notice of Motion submitted by Councillor C. Slattery**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that this Council consider***
+
+***converting the green area outside the Glasgow Park houses into additional car parking spaces,***
+
+***given there is plenty of green space already in the area.***
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Kiely and agreed.
 
@@ -575,7 +729,15 @@ provision is required. If the area is deemed to warrant additional car parking p
 
 a budget would need to be provided for any proposed works
 
-**23.Notice of Motion submitted by Councillor C. Slattery*I will move at the next Meeting of the Metropolitan District of Limerick can Limerick City and**County Council write to the Minister for Health for an update on the review of Emeis Ireland -**previously known as Orpea, that was to be initiated immediately following the documentary on**private nursing homes aired on RTE on the 5**th**June 2025 to address all issues.***
+**23.Notice of Motion submitted by Councillor C. Slattery**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick can Limerick City and***
+
+***County Council write to the Minister for Health for an update on the review of Emeis Ireland -***
+
+***previously known as Orpea, that was to be initiated immediately following the documentary on***
+
+***private nursing homes aired on RTE on the 5**th*** ***June 2025 to address all issues.***
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor O’Donovan and
 
@@ -585,7 +747,13 @@ In proposing the Motion, Councillor Slattery highlighted the distress caused to 
 
 the documentary. She emphasised the need to enact the Adult Safeguarding Bill.
 
-**24.Notice of Motion submitted by Councillor J. Leddin*I will move at the next Meeting of the Metropolitan District of Limerick that the Council introduce**a reduced speed limit from 50km to 30km on the Ballinacurra Road and O'Connell Avenue to align**with the new 30km limit in the city centre.***
+**24.Notice of Motion submitted by Councillor J. Leddin**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that the Council introduce***
+
+***a reduced speed limit from 50km to 30km on the Ballinacurra Road and O'Connell Avenue to align***
+
+***with the new 30km limit in the city centre.***
 ---
 11
 
@@ -621,7 +789,11 @@ the review process of speed limits across the city and county. He also agreed to
 
 in relation to the figure submitted for traffic calming in last year’s budget.
 
-**25.Notice of Motion submitted by Councillor U. Gavan*I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and**County Council support an artistic campaign for Post Office Lane and Todd’s Bow.***
+**25.Notice of Motion submitted by Councillor U. Gavan**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
+
+***County Council support an artistic campaign for Post Office Lane and Todd’s Bow.***
 
 The Notice of Motion was proposed by Councillor Gavan, seconded by Councillor Hickey-O’Mara
 
@@ -641,7 +813,15 @@ the scope and objectives of the artistic campaign, and determine what support we
 
 reasonably offer within existing resources.
 
-**26.Notice of Motion submitted by Councillor S. Beasley*I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and**County Council write to the Minister for Housing, that children who are languishing in emergency**accommodation for longer than 6 months, should be entitled to counselling.**Funding must be**made available as down the line these children could have mental health issues.***
+**26.Notice of Motion submitted by Councillor S. Beasley**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
+
+***County Council write to the Minister for Housing, that children who are languishing in emergency***
+
+***accommodation for longer than 6 months, should be entitled to counselling.*** ***Funding must be***
+
+***made available as down the line these children could have mental health issues.***
 
 The Notice of Motion was proposed by Councillor Beasley, seconded by Councillor Hickey-O’Mara
 
@@ -653,7 +833,15 @@ In proposing the Motion, Councillor Beasley referred to the large number of chil
 
 accommodation and the long term effect this can have on them.
 
-**27.Notice of Motion submitted by Councillor E. O’Donovan*I will move at the next meeting of the Metropolitan District of Limerick for this Council to liaise**with Laurel Hill, St. Clements, Scoil Mhathair De and An Mhodh Scoil**for a designated school**drop off and pick up area to accommodate students as vehicular traffic is causing significant**safety issues on South Circular Road/O’Connell Ave and other roads close to these schools.***
+**27.Notice of Motion submitted by Councillor E. O’Donovan**
+
+***I will move at the next meeting of the Metropolitan District of Limerick for this Council to liaise***
+
+***with Laurel Hill, St. Clements, Scoil Mhathair De and An Mhodh Scoil*** ***for a designated school***
+
+***drop off and pick up area to accommodate students as vehicular traffic is causing significant***
+
+***safety issues on South Circular Road/O’Connell Ave and other roads close to these schools.***
 
 The Notice of Motion was proposed by Councillor O’Donovan, seconded by Councillor Leddin and
 
@@ -679,7 +867,13 @@ As part of the construction works and proposed design, the project manager for t
 
 Circular Road (SCR) will liaise with the respective schools to discuss construction works.
 
-**28.Notice of Motion submitted by Councillor E. O’Donovan*I will move at the next Meeting of the Metropolitan District of Limerick that this Council consider**installing a disabled parking space in the Go-Car space outside the Strand Hotel, now that the**Go-Car service has been withdrawn.***
+**28.Notice of Motion submitted by Councillor E. O’Donovan**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that this Council consider***
+
+***installing a disabled parking space in the Go-Car space outside the Strand Hotel, now that the***
+
+***Go-Car service has been withdrawn.***
 
 The Notice of Motion was proposed by Councillor O’Donovan, seconded by Councillor Hickey-
 
@@ -701,11 +895,15 @@ existence outside the Strand Hotel will be carried once an Operation Plan is ass
 
 agreed between Limerick City & County Council and any preferred tenderer.
 
-**29.Notice of Motion submitted by Councillors S. Kiely and D. McSweeney*We will move at the next meeting of the Metropolitan District of Limerick that we examine the***
+**29.Notice of Motion submitted by Councillors S. Kiely and D. McSweeney**
+
+***We will move at the next meeting of the Metropolitan District of Limerick that we examine the***
 ---
 13
 
-***rollout of a Home Improvement Grant Scheme for Social Housing Tenants of Limerick City and**County Council in the Metropolitan District in advance of Budget 2026.***
+***rollout of a Home Improvement Grant Scheme for Social Housing Tenants of Limerick City and***
+
+***County Council in the Metropolitan District in advance of Budget 2026.***
 
 The Notice of Motion was proposed by Councillor McSweeney, seconded by Councillor Kiely and
 
@@ -735,7 +933,15 @@ Councillor Kiely requested that data be circulated in relation to the Pilot Sche
 
 operated in the Newcastle West area.
 
-**30.Notice of Motion submitted by Councillor S. Hickey-O’Mara*I will move at the next meeting of the Metropolitan District of Limerick that this Council plant a**row of trees along the road between the Tesco Roundabout and the entrance to Ferndale which**will act as a carbon offset for the Coonagh-Knockalisheen Distributor Road, improve air quality**for local residents, absorb noise pollution, and increase privacy for residents living in Ferndale.***
+**30.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+
+***I will move at the next meeting of the Metropolitan District of Limerick that this Council plant a***
+
+***row of trees along the road between the Tesco Roundabout and the entrance to Ferndale which***
+
+***will act as a carbon offset for the Coonagh-Knockalisheen Distributor Road, improve air quality***
+
+***for local residents, absorb noise pollution, and increase privacy for residents living in Ferndale.***
 
 The Notice of Motion was proposed by Councillor Hickey-O’Mara, seconded by Councillor
 
@@ -759,7 +965,15 @@ Councillor Hickey-O’Mara requested that alternative locations would also be lo
 
 agreed to revert to Members in this regard.
 
-**31.Notice of Motion submitted by Councillor S. Hickey-O’Mara*I will move at the next meeting of the Metropolitan District of Limerick that this Council write to**Minister for Further and Higher Education, Research, Innovation and Science, James Lawless,**stating that this District condemn the Government’s plans to reinstate the €3,000 college**contribution fee for students given the increased financial burden that this will place on students***
+**31.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+
+***I will move at the next meeting of the Metropolitan District of Limerick that this Council write to***
+
+***Minister for Further and Higher Education, Research, Innovation and Science, James Lawless,***
+
+***stating that this District condemn the Government’s plans to reinstate the €3,000 college***
+
+***contribution fee for students given the increased financial burden that this will place on students***
 ---
 14
 
@@ -777,7 +991,25 @@ of the Motion would be sent to all Local Authorities for support.
 
 Following discussion on the Motion, it was agreed to amend the wording as follows:
 
-***I will move at the next meeting of the Metropolitan District of Limerick that this Council write to**the Minister for Further and Higher Education, Research, Innovation and Science, James Lawless,**stating that this District condemn any future attempt by the Government to reinstate the €3,000**college contribution fee for students given the increased financial burden that this will place on**students and their families.*32.Notice of Motion submitted by Councillor P. Reale*I will move at the next Meeting of the Metropolitan District of Limerick that this Council erects**purple flags on Thomond Bridge for the month of September in support of National Recovery**Month 2025 - raising awareness about substance use disorder and mental health, celebrating**those in recovery, and promoting the idea that recovery is possible.***
+***I will move at the next meeting of the Metropolitan District of Limerick that this Council write to***
+
+***the Minister for Further and Higher Education, Research, Innovation and Science, James Lawless,***
+
+***stating that this District condemn any future attempt by the Government to reinstate the €3,000***
+
+***college contribution fee for students given the increased financial burden that this will place on***
+
+***students and their families.***
+
+**32.Notice of Motion submitted by Councillor P. Reale**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that this Council erects***
+
+***purple flags on Thomond Bridge for the month of September in support of National Recovery***
+
+***Month 2025 - raising awareness about substance use disorder and mental health, celebrating***
+
+***those in recovery, and promoting the idea that recovery is possible.***
 
 The Notice of Motion was proposed by Councillor Reale, seconded by Councillor Hickey-O’Mara
 
@@ -817,7 +1049,15 @@ suspended in order to complete the agenda.
 ---
 15
 
-***I will move at the next Meeting of the Metropolitan District of Limerick that Forward Planning**develop an interactive Landuse and Vacancy Map for the City Centre to identify potential sites**for meanwhile use in Limerick City Centre, and to support the creation of a more detailed Zoning**Map for the City Centre in the next iteration of the Limerick Development Plan to inform more**beneficial and viable future developments.***
+***I will move at the next Meeting of the Metropolitan District of Limerick that Forward Planning***
+
+***develop an interactive Landuse and Vacancy Map for the City Centre to identify potential sites***
+
+***for meanwhile use in Limerick City Centre, and to support the creation of a more detailed Zoning***
+
+***Map for the City Centre in the next iteration of the Limerick Development Plan to inform more***
+
+***beneficial and viable future developments.***
 
 The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor Reale and
 
@@ -837,7 +1077,19 @@ investigate the potential to display this material online. The information colle
 
 inform policy and land use maps in the next iteration of the Development Plan.
 
-**34.Notice of Motion submitted by Councillor M. Donoghue*I will move at the next Meeting of the Metropolitan District of Limerick that the Council’s mixed**tenure policy is implemented more authoritatively within the City Centre, through the use of**planning conditions in accordance with the LCCC’s own Development Plan and in accordance with**national guidance, to repair and create sustainable communities by integrating different types**of housing – social, affordable, and private - to avoid concentrated areas of social housing and**promote social inclusion.***
+**34.Notice of Motion submitted by Councillor M. Donoghue**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that the Council’s mixed***
+
+***tenure policy is implemented more authoritatively within the City Centre, through the use of***
+
+***planning conditions in accordance with the LCCC’s own Development Plan and in accordance with***
+
+***national guidance, to repair and create sustainable communities by integrating different types***
+
+***of housing – social, affordable, and private - to avoid concentrated areas of social housing and***
+
+***promote social inclusion.***
 
 The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor Hickey-
 
@@ -919,7 +1171,11 @@ waiting list for the bed type proposed.
 
 • An evaluation of the level of social-rental housing (including Housing Assistance Payment [HAP])
 
-in the area to avoid an overconcentration of any one tenure type. **The approach of the HousingDirectorate is no more than 30% on an Electoral Division within the City and for settlementsoutside the City the built up town boundary is used.**
+in the area to avoid an overconcentration of any one tenure type. **The approach of the Housing**
+
+**Directorate is no more than 30% on an Electoral Division within the City and for settlements**
+
+**outside the City the built up town boundary is used.**
 
 • An analysis of the HP Pobal Deprivation Index for the area to ensure that areas classified as
 
@@ -957,5 +1213,9 @@ Correspondence was noted and taken as read.
 
 This concluded the Meeting.
 
-**Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_CATHAOIRLEACHDated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**CATHAOIRLEACH**
+
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 ---

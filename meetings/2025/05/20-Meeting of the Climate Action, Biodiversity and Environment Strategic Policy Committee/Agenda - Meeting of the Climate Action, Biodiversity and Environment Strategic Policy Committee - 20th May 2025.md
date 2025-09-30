@@ -3,7 +3,11 @@
 ---
 1
 
-**6thMay 2025To: The Chairperson and Each Member of the Climate Action, Biodiversity and EnvironmentStrategic Policy Committee of Limerick City & County Council**
+**6th** **May 2025**
+
+**To: The Chairperson and Each Member of the Climate Action, Biodiversity and Environment**
+
+**Strategic Policy Committee of Limerick City & County Council**
 
 You are invited to attend a blended Meeting of the Climate Action, Biodiversity and Environment
 
@@ -13,7 +17,17 @@ on Tuesday 20th May 2025 at 2:30pm. The business to be transacted is set out in 
 
 agenda.
 
-**Signed:CLLR JOE LEDDINCHAIRPERSON OF THE CLIMATE ACTION, BIODIVERSITY AND ENVIRONMENTSTRATEGIC POLICY COMMITTEEAgenda1.**Annual Update on Limerick Climate Action Plan -the localisation of National Policy on
+**Signed:**
+
+**CLLR JOE LEDDIN**
+
+**CHAIRPERSON OF THE CLIMATE ACTION, BIODIVERSITY AND ENVIRONMENT**
+
+**STRATEGIC POLICY COMMITTEE**
+
+**Agenda**
+
+**1.**Annual Update on Limerick Climate Action Plan -the localisation of National Policy on
 
 Climate Action in LCCC. Mr. Kieran Reeves, Climate Action Co-ordinator, Environment and
 

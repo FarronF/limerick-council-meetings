@@ -3,34 +3,62 @@
 ---
 1
 
-**30thMay, 2025To: The Chairperson and Each Member of the Travel & Transportation Strategic PolicyCommittee of Limerick City & County Council**
+**30th** **May, 2025**
+
+**To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
+
+**Committee of Limerick City & County Council**
 
 You are invited to attend a Meeting of the Travel and Transportation Strategic Policy
 
 Committee, to be held in the **Council Chamber, Dooradoyle and ONLINE** by MS Teams Video
 
-Conference, on Tuesday the 10**thJune**, **2025** at 3:00 p.m. The business to be transacted is set
+Conference, on Tuesday the 10**th** **June**, **2025** at 3:00 p.m. The business to be transacted is set
 
 out in the appended agenda.
 
-**Signed:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEEHugh McGrath**
+**Signed:**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE**
+
+**Hugh McGrath**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**A/DIRECTOR OF SERVICE,TRANSPORTATION & MOBILITY DIRECTORATE**
+**A/DIRECTOR OF SERVICE,**
+
+**TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
 (Image omitted)
 ---
 2
 
-**AGENDA1.Minutes:**
+**AGENDA**
+
+**1.Minutes:**
 
 To adopt the draft minutes of the Meeting of the Travel and Transportation Strategic
 
 Policy Committee held on the 8th April 2025.
 
-**2.Update on Local Link Service–Anne Gaughan, General Manager for Local LinkLimerick and Clare.3.Presentation on the CPO process for Road Schemes–Ger Carey, Mid West NationalRoad Design Office4.Update on provision of salt to Resident Associations during extreme weatherconditions - John Gannon, S.E.5.Notice of Motion submitted by Councillor M. Donoghue (referred from April MetroMeeting)**
+**2.Update on Local Link Service** **–** **Anne Gaughan, General Manager for Local Link**
+
+**Limerick and Clare.**
+
+**3.Presentation on the CPO process for Road Schemes** **–** **Ger Carey, Mid West National**
+
+**Road Design Office**
+
+**4.Update on provision of salt to Resident Associations during extreme weather**
+
+**conditions - John Gannon, S.E.**
+
+**5.Notice of Motion submitted by Councillor M. Donoghue (referred from April Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that the
 
@@ -40,7 +68,9 @@ attendees at courses or Active Retirement, where hourly parking discs and reside
 
 parking permits are not appropriate.
 
-**6.Notice of Motion submitted by Councillor C. Slattery (referred from May MetroMeeting)**
+**6.Notice of Motion submitted by Councillor C. Slattery (referred from May Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick for this Council
 
@@ -48,7 +78,9 @@ to look at providing free parking permits to Health Care Workers who provide hom
 
 support to people who live in the City with parking restrictions outside their homes.
 
-**7.Notice of Motion submitted by Councillor S. Benson (referred from April MetroMeeting)**
+**7.Notice of Motion submitted by Councillor S. Benson (referred from April Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this
 
@@ -62,9 +94,13 @@ signage.
 
 I will move at the next meeting that the Travel and Transportation Strategic
 
-Policy Committee write to the **Minister for Transport**, the **Chairperson of theBoard of Transport Infrastructure Ireland (TII)**, and the **Chief Executive of TII** to
+Policy Committee write to the **Minister for Transport**, the **Chairperson of the**
 
-call for urgent prioritisation and full delivery of the **Rathkeale to Limerick CityGreenway** in advance of the **Ryder Cup in 2027**.
+**Board of Transport Infrastructure Ireland (TII)**, and the **Chief Executive of TII** to
+
+call for urgent prioritisation and full delivery of the **Rathkeale to Limerick City**
+
+**Greenway** in advance of the **Ryder Cup in 2027**.
 ---
 3
 

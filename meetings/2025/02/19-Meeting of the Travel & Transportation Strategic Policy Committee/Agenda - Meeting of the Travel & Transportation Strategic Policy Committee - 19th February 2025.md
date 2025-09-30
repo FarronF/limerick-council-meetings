@@ -3,26 +3,42 @@
 ---
 1
 
-**6thFebruary, 2025To: The Chairperson and Each Member of the Travel & Transportation Strategic PolicyCommittee of Limerick City & County Council**
+**6th** **February, 2025**
+
+**To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
+
+**Committee of Limerick City & County Council**
 
 You are invited to attend a Meeting of the Travel and Transportation Strategic Policy
 
-Committee, to be held in the **Council Chamber, Dooradoyle and ONLINE by MS Teams VideoConference**, on Wednesday, the 19th February, **2025** at 3:00 p.m. The business to be
+Committee, to be held in the **Council Chamber, Dooradoyle and ONLINE by MS Teams Video**
+
+**Conference**, on Wednesday, the 19th February, **2025** at 3:00 p.m. The business to be
 
 transacted is set out in the appended agenda.
 
-**Signed:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEEBrian Kennedy**
+**Signed:**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE**
+
+**Brian Kennedy**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**DIRECTOR OF SERVICE,TRANSPORTATION & MOBILITY DIRECTORATE**
+**DIRECTOR OF SERVICE,**
+
+**TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
 (Image omitted)
 ---
 2
 
-**AGENDA1.Minutes:**
+**AGENDA**
+
+**1.Minutes:**
 
 To adopt the draft minutes of the Meeting of the Travel and Transportation Strategic
 
@@ -32,13 +48,17 @@ Policy Committee held on the 23rd April 2024.
 
 Two Notice of Motions (a) & (b) to be taken as part of Item 2
 
-**a.Notice of Motion submitted by Councillor S. Kiely (referred from SeptemberCouncil Meeting)**
+**a.Notice of Motion submitted by Councillor S. Kiely (referred from September**
+
+**Council Meeting)**
 
 I will move at the next Meeting that this Local Authority examine the possibility
 
 of a Community Hedge Cutting Grant
 
-**b.Notice of Motion submitted by Councillor J. Pond(referred from SeptemberCouncil Meeting)**
+**b.Notice of Motion submitted by Councillor J. Pond** **(referred from September**
+
+**Council Meeting)**
 
 I will move at the next Meeting that Limerick City and County Council would adopt
 
@@ -48,13 +68,17 @@ are a danger to all road users, including pedestrians, cyclists and vehicles own
 
 thus preventing serious accidents from occurring on all our roads.
 
-**3.Notice of Motion submitted by Councillor J. O’Donoghue (referred from Adare-Rathkeale September Municipal Meeting)**
+**3.Notice of Motion submitted by Councillor J. O’Donoghue (referred from Adare-**
+
+**Rathkeale September Municipal Meeting)**
 
 I will move at the next meeting that a plan for verge trimming on a year round basis
 
 be implemented by L.C.C.C on all roads under the control of the Local Authority.
 
-**4.Notice of Motion submitted by Councillor P. Doyle (referred from September MetroMeeting)**
+**4.Notice of Motion submitted by Councillor P. Doyle (referred from September Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that free
 
@@ -68,7 +92,9 @@ increase footfall in William Street and Cruises Street and surrounding areas. Th
 
 cost to this measure is amending signage on the poles with appropriate stickers.
 
-**5.Notice of Motion submitted by Councillor J. Leddin (referred from October MetroMeeting)**
+**5.Notice of Motion submitted by Councillor J. Leddin (referred from October Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this
 
@@ -80,7 +106,9 @@ is signed and submitted by residents.
 ---
 3
 
-**6.Notice of Motion submitted by Councillor P. Doyle (referred from October MetroMeeting)**
+**6.Notice of Motion submitted by Councillor P. Doyle (referred from October Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that Limerick
 
@@ -96,7 +124,9 @@ tickets to their customers in Limerick City centre. A provision for such a schem
 
 should also be included in the Councils 2025 Budget process.
 
-**7.Notice of Motion submitted by Councillor E. Secas (referred from October MetroMeeting)**
+**7.Notice of Motion submitted by Councillor E. Secas (referred from October Metro**
+
+**Meeting)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that the
 
@@ -106,7 +136,9 @@ chair a taskforce to address car parking problems in residential areas around th
 
 University of Limerick.
 
-**8.Question submitted by Councillor E. Secas (referred from September CouncilMeeting)**
+**8.Question submitted by Councillor E. Secas (referred from September Council**
+
+**Meeting)**
 
 I will ask at the next Meeting if Limerick City and County Council will introduce in its
 
@@ -118,7 +150,11 @@ hedges/tree branches along public roads, similar to the schemes provided by
 
 Clare/Leitrim/Cork County Councils.
 
-**9.Update on provision of salt toResident’s Associations during extreme weatherconditions10.Update on Bus Connects programme.**
+**9.Update on provision of salt to** **Resident’s Associations during extreme weather**
+
+**conditions**
+
+**10.Update on Bus Connects programme.**
 ---
 4
 ---

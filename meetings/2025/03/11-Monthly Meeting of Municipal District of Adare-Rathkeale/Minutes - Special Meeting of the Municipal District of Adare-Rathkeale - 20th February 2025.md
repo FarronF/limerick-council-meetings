@@ -1,7 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-the-municipal-district-of-adare-rathkeale-20th-february-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK ON THURSDAY, 20THFEBRUARY, 2025 AT 12.00 P.M.PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
+
+**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
+
+**LIMERICK ON THURSDAY, 20TH** **FEBRUARY, 2025 AT 12.00 P.M.**
+
+**PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -23,7 +29,9 @@ Community, Culture and Tourism Development and thanked him for all his help duri
 
 his term as Director of the Adare-Rathkeale Municipal District.
 
-**1.To receive a Deputation from Foynes Aviation Museum**
+**1.**
+
+**To receive a Deputation from Foynes Aviation Museum**
 
 The Cathaoirleach welcomed Margaret O’Shaughnessy, Director and Barry O’Kelly,
 

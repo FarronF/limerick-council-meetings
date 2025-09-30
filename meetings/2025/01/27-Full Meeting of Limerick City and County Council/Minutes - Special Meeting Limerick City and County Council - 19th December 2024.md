@@ -117,7 +117,9 @@ relation to the filling of subsequent vacancies consequent to the election of Co
 
 Sheehan to Dáil Éireann.
 
-**a)Chair-Designate of the Climate Action, Biodiversity and Environment Strategic PolicyCommittee**
+**a)Chair-Designate of the Climate Action, Biodiversity and Environment Strategic Policy**
+
+**Committee**
 
 The Príomh Chomhairleoir advised that the Council was required to consider the
 
@@ -155,7 +157,9 @@ Kiely, Kilcoyne, Leddin, McSweeney, Mayor Moran, O’Donoghue, O’Hanlon, O’S
 
 O’Sullivan (T), Pond, Reale, Ryan (M), Secas, Sheahan, Slattery, Stokes, Talukder, Teskey, Ward
 
-**(28)For Councillor O’Donovan**
+**(28)**
+
+**For Councillor O’Donovan**
 
 Councillors Beasley, Benson, Donoghue, Hartigan (T), Hickey-O’Mara, O’Donovan, Ryan (E),
 
@@ -345,13 +349,19 @@ Strategic Policy Committees as set out below:
 ---
 6
 
-**Trade UnionTravel and Transportation Strategic Policy Committee**
+**Trade Union**
+
+**Travel and Transportation Strategic Policy Committee**
 
  Dan O'Neill
 
  Carol McNamara
 
-**Community/ VoluntaryEconomic Development, Enterprise, Tourism and Planning Strategic PolicyCommittee**
+**Community/ Voluntary**
+
+**Economic Development, Enterprise, Tourism and Planning Strategic Policy**
+
+**Committee**
 
  Declan Hehir, BGM Community Council CLG
 
@@ -377,7 +387,11 @@ Strategic Policy Committees as set out below:
 
  Marion Hurley, Kilmurry Arts and Heritage Centre
 
-**Social InclusionEconomic Development, Enterprise, Tourism and Planning Strategic PolicyCommittee**
+**Social Inclusion**
+
+**Economic Development, Enterprise, Tourism and Planning Strategic Policy**
+
+**Committee**
 
  Vadivel Raj, Limerick Migrants Forum
 

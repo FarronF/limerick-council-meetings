@@ -1,7 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/01-draft-minutes-of-monthly-meeting-8th-april-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK AND ONLINE ON TUESDAY, 8THAPRIL, 2025 AT 9.30 A.M.PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
+
+**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
+
+**LIMERICK AND ONLINE ON TUESDAY, 8TH** **APRIL, 2025 AT 9.30 A.M.**
+
+**PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -39,7 +45,9 @@ Agency, Environment and Climate Action (Mr. C. McDonagh), Clerical Officer (Ms. 
 
 Lenihan).
 
-**1.Adoption of Minutes**
+**1.**
+
+**Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Municipal District of
 
@@ -53,7 +61,9 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-**2.Declaration of Interest**
+**2.**
+
+**Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
@@ -65,7 +75,9 @@ No such interest was declared.
 ---
 2
 
-**3.Disposal of Land**
+**3.**
+
+**Disposal of Land**
 
 Circulated, report of the Head of Property Management dated 21st March, 2025 setting
 
@@ -79,7 +91,9 @@ The report, as circulated, was proposed by Councillor Teskey, seconded by Counci
 
 Collins and agreed.
 
-**4.Deputation from Coolcappa Action Group**
+**4.**
+
+**Deputation from Coolcappa Action Group**
 
 The Cathaoirleach welcomed representatives from Coolcappa Action Group to the
 
@@ -115,7 +129,11 @@ The Delegation thanked Members for the opportunity to discuss their concerns and
 
 then withdrew from the Meeting.
 
-**5.Planning and Place-Making DirectorateFlood Relief Scheme for Adare**
+**5.**
+
+**Planning and Place-Making Directorate**
+
+**Flood Relief Scheme for Adare**
 
 The Cathaoirleach welcomed Mr. Jonathan Reid, from Ryan Hanley Consulting to the
 
@@ -153,7 +171,11 @@ would correspond with Martin McDonnell in the Office of Public Works and request
 
 review of the proposed Askeaton Flood Relief Scheme.
 
-**6.Rural, Community, Culture and Tourism Development DirectorateCroí Cónaithe–Vacant Property Refurbishment Grant**
+**6.**
+
+**Rural, Community, Culture and Tourism Development Directorate**
+
+**Croí Cónaithe** **–** **Vacant Property Refurbishment Grant**
 
 The Cathaoirleach welcomed staff from the Property Management Services Department
 
@@ -207,7 +229,11 @@ costs.
 ---
 4
 
-**7.Environment, Climate Action and Shared Services DirectorateGortadroma Landfill**
+**7.**
+
+**Environment, Climate Action and Shared Services Directorate**
+
+**Gortadroma Landfill**
 
 The Senior Executive Engineer, Limerick Clare Energy Agency, Environment and Climate
 
@@ -229,7 +255,11 @@ advised costs of approximately €25,000 to carry out a feasibility study and pr
 
 region of €13,000 per month would apply to Limerick City and County Council.
 
-**8.Transport and Mobility DirectorateFoynes to Limerick Road (including the Adare Bypass) Project**
+**8.**
+
+**Transport and Mobility Directorate**
+
+**Foynes to Limerick Road (including the Adare Bypass) Project**
 
 The Senior Executive Engineer & Client Project Manager – Adare Bypass, Mid West
 
@@ -279,7 +309,9 @@ the overall scheme.
 ---
 5
 
-**9.District Engineers Report**
+**9.**
+
+**District Engineers Report**
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated 8th
 
@@ -289,7 +321,9 @@ the District.
 
 The report, as circulated, was noted by Members.
 
-**10.General Municipal Allocation (GMA)**
+**10.**
+
+**General Municipal Allocation (GMA)**
 
 On the proposal of Councillor Keary, seconded by Councillor Teskey, it was agreed to
 
@@ -303,7 +337,21 @@ On the proposal of Councillor Hartigan, seconded by Councillor Teskey, it was ag
 
 allocate €5,000 to Scoil Mhuire National School, Pallaskenry.
 
-**QUESTIONS11.Question submitted by Councillor A. TeskeyI will ask at the next Meeting does this Local Authority carry out independent noisemonitoring in areas in which wind farms exist, if so how often do these take place andwhat repercussions are to be imposed on such a development if noise levels arerecorded as unsatisfactory.REPLY:**
+**QUESTIONS**
+
+**11.**
+
+**Question submitted by Councillor A. Teskey**
+
+**I will ask at the next Meeting does this Local Authority carry out independent noise**
+
+**monitoring in areas in which wind farms exist, if so how often do these take place and**
+
+**what repercussions are to be imposed on such a development if noise levels are**
+
+**recorded as unsatisfactory.**
+
+**REPLY:**
 
 The Council does undertake noise monitoring where complaints are
 
@@ -329,7 +377,17 @@ and operators to find a satisfactory solution to a complaint.
 ---
 6
 
-**12.Question submitted by Councillor A. TeskeyI will ask at the next Meeting what are the official speed limits now on the N21particularly on entering and exiting Croagh. Was the limit changed recently. If so bywho and who authorised such change.REPLY:**
+**12.**
+
+**Question submitted by Councillor A. Teskey**
+
+**I will ask at the next Meeting what are the official speed limits now on the N21**
+
+**particularly on entering and exiting Croagh. Was the limit changed recently. If so by**
+
+**who and who authorised such change.**
+
+**REPLY:**
 
 The Road Traffic Act 2004 introduced the provision for a County or City
 
@@ -365,7 +423,17 @@ works area where the 50km/hr steps up to a 60km/hr zone and from then
 
 up to a 100km/hr zone.
 
-**13.Question submitted by Councillor A. TeskeyI will ask at the next Meeting how much was paid out by Limerick City and CountyCouncils Insurance Department for all public liability associated claims and costs in2024.REPLY:**
+**13.**
+
+**Question submitted by Councillor A. Teskey**
+
+**I will ask at the next Meeting how much was paid out by Limerick City and County**
+
+**Councils Insurance Department for all public liability associated claims and costs in**
+
+**2024.**
+
+**REPLY:**
 
 All Public Liability Claims notified to Limerick City and County Council are
 
@@ -375,7 +443,15 @@ Limited.
 
 In 2024, 215 Claims were settled at a total cost of €3,527,131.
 
-**NOTICE OF MOTION14.Notice of Motion submitted by Councillor A. TeskeyI will move at the next Meeting that the May District Meeting takes place in St. Mary’sNational School, Croom.**
+**NOTICE OF MOTION**
+
+**14.**
+
+**Notice of Motion submitted by Councillor A. Teskey**
+
+**I will move at the next Meeting that the May District Meeting takes place in St. Mary’s**
+
+**National School, Croom.**
 ---
 7
 
@@ -383,7 +459,9 @@ The Motion was proposed by Councillor Teskey, seconded by Councillor Collins and
 
 agreed.
 
-**15.Correspondence**
+**15.**
+
+**Correspondence**
 
 Correspondence was noted and taken as read.
 

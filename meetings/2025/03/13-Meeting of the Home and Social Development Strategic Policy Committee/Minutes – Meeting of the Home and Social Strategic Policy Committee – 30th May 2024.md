@@ -1,13 +1,15 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-home-and-social-strategic-policy-committee-30th-may-2024.pdf)
 
 ---
-**MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIALDEVELOPMENT SPC**
+**MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
+
+**DEVELOPMENT SPC**
 
  
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic Policy
 
-Committee was held on the **30thMay 2024** in the Council Chamber, Dooradoyle and via MS Teams. 
+Committee was held on the **30th** **May 2024** in the Council Chamber, Dooradoyle and via MS Teams. 
 
  
 
@@ -71,7 +73,7 @@ Mr. Kenneth Bracken, Co Op Student, Homeless Action Team
 
 Martina Brennan
 
-**Welcome by Chairperson–Cllr. Stephen Keary**
+**Welcome by Chairperson** **–** **Cllr. Stephen Keary**
 
  
 
@@ -79,7 +81,11 @@ An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed all member
 
 SPC meeting.
 
-**Item 1:  Confirm minutes from meeting held on11thApril 2024.Proposed:** Cllr. Mike Donegan  **Seconded:** Cllr. Tom Collopy
+**Item 1:  Confirm minutes from meeting held on11th** **April 2024.** 
+
+ 
+
+**Proposed:** Cllr. Mike Donegan  **Seconded:** Cllr. Tom Collopy
 ---
 **Item 2: Matters arising from the Minutes** 
 
@@ -215,7 +221,7 @@ in the upcoming elections.
 
 Cllr. Collopy thanked Cllr. Keary for sitting as An Cathaoirleach of the Home and Development SPC.
 
-**October SPC meeting date Thursday, 10thOctober 2024.**
+**October SPC meeting date Thursday, 10th** **October 2024.**
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 

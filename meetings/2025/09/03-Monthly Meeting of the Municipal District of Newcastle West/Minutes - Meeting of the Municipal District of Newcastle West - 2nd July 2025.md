@@ -335,7 +335,9 @@ Meeting and the Questions were therefore taken as having been dealt with.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting**that drainage works be carried out at the Grove Road in**Abbeyfeale.***
+***I will ask at the next Meeting*** ***that drainage works be carried out at the Grove Road in***
+
+***Abbeyfeale.***
 
 REPLY:
 
@@ -349,7 +351,11 @@ required.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting for an update on (a) the bollards for the Killarney Road,**Abbeyfeale and (b) the parking byelaws from the school up to the Greyhound and**Pet World.***
+***I will ask at the next Meeting for an update on (a) the bollards for the Killarney Road,***
+
+***Abbeyfeale and (b) the parking byelaws from the school up to the Greyhound and***
+
+***Pet World.***
 
 REPLY:
 
@@ -375,7 +381,9 @@ adoption at the October Municipal District Meeting.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting for someone to be available to discuss the Abbeyfeale**Traffic Management Plan and a detailed financial report be given.***
+***I will ask at the next Meeting for someone to be available to discuss the Abbeyfeale***
+
+***Traffic Management Plan and a detailed financial report be given.***
 
 REPLY:
 
@@ -387,7 +395,9 @@ Meeting to provide an update on the Abbeyfeale Traffic Management Plan.
 
 10.Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting that a disabled parking bay be provided at Main Street,**Ardagh.***
+***I will ask at the next Meeting that a disabled parking bay be provided at Main Street,***
+
+***Ardagh.***
 
 REPLY: The road is narrow and it may not suitable to allocate a disabled bay along
 
@@ -395,7 +405,11 @@ Main Street. A Meeting onsite will be arranged to investigate further.
 
 11.Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting when (a) reinstatement of a collapsed section of R522**through Feohanagh Village will take place (b) when the new footpath towards the**Community House will be delivered.***
+***I will ask at the next Meeting when (a) reinstatement of a collapsed section of R522***
+
+***through Feohanagh Village will take place (b) when the new footpath towards the***
+
+***Community House will be delivered.***
 
 REPLY:
 
@@ -405,7 +419,9 @@ REPLY:
 
 12.Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting that the road verge opposite Church View Estate and**Castlemahon Church be cut back.***
+***I will ask at the next Meeting that the road verge opposite Church View Estate and***
+
+***Castlemahon Church be cut back.***
 
 REPLY:
 
@@ -423,7 +439,9 @@ NOTICES OF MOTION
 
 13. Notice of Motion submitted by Councillor L. Galvin
 
-***I will move at the next Meeting that the road from the Church in Tournafulla over to**Keating's Bar be resurfaced**.***
+***I will move at the next Meeting that the road from the Church in Tournafulla over to***
+
+***Keating's Bar be resurfaced**.***
 
 The Motion was seconded by Councillor Sheehan.
 
@@ -445,7 +463,9 @@ village will be considered under the Roadworks Scheme 2026 subject to Department
 
 14. Notice of Motion submitted by Councillor F. Foley
 
-***I will move at the next Meeting that speed ramps be put in place in Mountcollins village in**the interest of safety.***
+***I will move at the next Meeting that speed ramps be put in place in Mountcollins village in***
+
+***the interest of safety.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -467,7 +487,9 @@ Following a brief discussion, the Senior Executive Engineer agreed to assess thi
 
 15. Notice of Motion submitted by Councillor F. Foley
 
-***I will move at the next Meeting that the new car park formally**known as Riordan’s Bar be**open to the public.***
+***I will move at the next Meeting that the new car park formally*** ***known as Riordan’s Bar be***
+
+***open to the public.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -493,7 +515,9 @@ a Cost Exercise is to be undertaken shortly.
 
 16. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that immediate action is taken by the Local Authority in**respect of significant local safety concerns attending to Clouncagh Creamery.***
+***I will move at the next Meeting that immediate action is taken by the Local Authority in***
+
+***respect of significant local safety concerns attending to Clouncagh Creamery.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -515,7 +539,11 @@ agreed that the Meetings Administrator would seek clarification on this matter.
 
 17. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that this Local Authority provide a guide in terms of**support to residents locally where health and safety is at risk consequent to extreme**weather events.***
+***I will move at the next Meeting that this Local Authority provide a guide in terms of***
+
+***support to residents locally where health and safety is at risk consequent to extreme***
+
+***weather events.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -625,7 +653,9 @@ This concluded the Meeting.
 
 Signed:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Cathaoirleach**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Cathaoirleach**
 
 Dated:
 

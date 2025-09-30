@@ -1,7 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-january-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK ON TUESDAY, 14THJANUARY, 2025 AT 9.30 A.M.PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
+
+**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
+
+**LIMERICK ON TUESDAY, 14TH** **JANUARY, 2025 AT 9.30 A.M.**
+
+**PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -31,7 +37,9 @@ Supervisors John Coleman and Noel O’Connor along with the Director General and
 
 District Executive staff and requested Elected Members gratitude be extended to all.
 
-**1.Adoption of Minutes**
+**1.**
+
+**Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Municipal District of
 
@@ -63,7 +71,9 @@ Administrator.
 ---
 2
 
-**2.Declaration of Interest**
+**2.**
+
+**Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
@@ -73,7 +83,11 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 No such interest was declared.
 
-**3.Roads, Traffic and CleansingDistrict Engineers Report**
+**3.**
+
+**Roads, Traffic and Cleansing**
+
+**District Engineers Report**
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated
 
@@ -101,7 +115,9 @@ extended. It was agreed this matter would be referred to Ben Noonan, Senior
 
 Executive Engineer, Tourism Department for his direct response.
 
-**4.General Municipal Allocation (GMA)**
+**4.**
+
+**General Municipal Allocation (GMA)**
 
 On the proposal of Councillor Teskey, seconded by Councillor Ward, it was agreed to
 
@@ -115,11 +131,23 @@ On the proposal of Councillor Ward, seconded by Councillor Teskey, it was agreed
 
 allocate €2,000 to Askeaton Civic Trust.
 
-**QUESTIONS5.Question submitted by Councillor A. TeskeyI will ask at the next Meeting given the fact that the proposed works to the AdareHeritage Centre have gone on display on E tenders can the Council confirm if it has**
+**QUESTIONS**
+
+**5.**
+
+**Question submitted by Councillor A. Teskey**
+
+**I will ask at the next Meeting given the fact that the proposed works to the Adare**
+
+**Heritage Centre have gone on display on E tenders can the Council confirm if it has**
 ---
 3
 
-**monies sanctioned for the proposed project if so how much is allocated and from whatbudget has the allowance been made available from.Reply:**
+**monies sanctioned for the proposed project if so how much is allocated and from what**
+
+**budget has the allowance been made available from.**
+
+**Reply:**
 
 This is a call for **expression of interest** for the proposed development from
 
@@ -133,7 +161,17 @@ shortlisted for inclusion on a tender panel to be used should the project
 
 progress to tender stage in the future if funding is secured.
 
-**6.Question submitted by Councillor A. TeskeyI will ask at the next Meeting how many planning applications were appealed to An BordPleanála both by the Local Authority and the proposed applicant in 2024. How many ofthese were overturned by the Bord and what percentage does this represent overall.Reply:**
+**6.**
+
+**Question submitted by Councillor A. Teskey**
+
+**I will ask at the next Meeting how many planning applications were appealed to An Bord**
+
+**Pleanála both by the Local Authority and the proposed applicant in 2024. How many of**
+
+**these were overturned by the Bord and what percentage does this represent overall.**
+
+**Reply:**
 
 In 2024, 88 no. appeals were made to An Bord Pleanála in respect of
 
@@ -145,7 +183,21 @@ Of the decisions made to date on 2024 appeals made to An Bord Pleanála,
 
 2 No. decisions have been overturned.
 
-**NOTICE OF MOTION7.Notice of Motion submitted by Councillor J. O’DonoghueI will move at the next Meeting that we write to the Department of Housing, LocalGovernment and Heritage and any other relevant Government Departments to changethe regulations on the newest application forms for Housing Adaptation Grants forolder people and disabled people. Most notably the unavailability of a grant toreplace a fossil fuel burner if the current burner is unrepairable.**
+**NOTICE OF MOTION**
+
+**7.**
+
+**Notice of Motion submitted by Councillor J. O’Donoghue**
+
+**I will move at the next Meeting that we write to the Department of Housing, Local**
+
+**Government and Heritage and any other relevant Government Departments to change**
+
+**the regulations on the newest application forms for Housing Adaptation Grants for**
+
+**older people and disabled people. Most notably the unavailability of a grant to**
+
+**replace a fossil fuel burner if the current burner is unrepairable.**
 
 The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Teskey
 
@@ -171,7 +223,9 @@ scheme should be amended to include funding to purchase of generator for private
 
 properties.
 
-**8.A.O.B**
+**8.**
+
+**A.O.B**
 
  Councillor O’Donoghue requested a presentation on the dereliction process and
 

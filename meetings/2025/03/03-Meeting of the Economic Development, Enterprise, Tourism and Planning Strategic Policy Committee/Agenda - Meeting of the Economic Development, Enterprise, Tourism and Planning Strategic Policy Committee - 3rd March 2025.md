@@ -5,7 +5,11 @@
 
 (Image omitted)
 
-**18thFebruary, 2025To: The Chairperson and Each Member of the Economic Development, Enterprise, Tourism &Planning Strategic Policy Committee of Limerick City & County Council**
+**18th** **February, 2025**
+
+**To: The Chairperson and Each Member of the Economic Development, Enterprise, Tourism &**
+
+**Planning Strategic Policy Committee of Limerick City & County Council**
 
 You are invited to attend the Meeting of the Economic Development, Enterprise, Tourism & Planning
 
@@ -13,7 +17,19 @@ Strategic Policy Committee to be held in **the Council Chamber, Dooradoyle** on 
 
 2025 at 2.00pm. The business to be transacted is set out in the appended agenda.
 
-**Signed: CLLR PETER DOYLECHAIRPERSON OF THE ECONOMIC DEVELOPMENT, ENTERPRISE, TOURISM & PLANNINGSTRATEGIC POLICY COMMITTEEVINCENT MURRAYDIRECTOR OF SERVICE,PLANNING AND PLACEMAKING DIRECTORATEAgenda**
+**Signed: CLLR PETER DOYLE**
+
+**CHAIRPERSON OF THE ECONOMIC DEVELOPMENT, ENTERPRISE, TOURISM & PLANNING**
+
+**STRATEGIC POLICY COMMITTEE**
+
+**VINCENT MURRAY**
+
+**DIRECTOR OF SERVICE,**
+
+**PLANNING AND PLACEMAKING DIRECTORATE**
+
+**Agenda**
 
 1. Introductions.
 
@@ -29,7 +45,11 @@ Strategic Policy Committee to be held in **the Council Chamber, Dooradoyle** on 
 
 6. Notice of Motion
 
-**Notice of Motion submitted by Councillor J. Leddin (referred from the Meeting of theMetropolitan District held on 20thJanuary, 2025 to the Economic Development,Enterprise, Tourism and Planning Strategic Policy Committee)**
+**Notice of Motion submitted by Councillor J. Leddin (referred from the Meeting of the**
+
+**Metropolitan District held on 20th** **January, 2025 to the Economic Development,**
+
+**Enterprise, Tourism and Planning Strategic Policy Committee)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that the Council
 

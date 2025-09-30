@@ -287,7 +287,11 @@ Meeting and the Questions were therefore taken as having been dealt with.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting for the total amount of money allocated to Abbeyfeale Town**Park for 2023 and 2024, how much of this money has been spent and an outline of the**plans in place for how the remainder of this money will be spent.***
+***I will ask at the next Meeting for the total amount of money allocated to Abbeyfeale Town***
+
+***Park for 2023 and 2024, how much of this money has been spent and an outline of the***
+
+***plans in place for how the remainder of this money will be spent.***
 
 REPLY:
 
@@ -313,7 +317,9 @@ upgrade to the playground facilities.
 
 Question submitted by Councillor L. Galvin
 
-***I**will ask at the next Meeting for a detailed update/report on the Ray’s housing estate in**Mountcollins, to include sewerage, water, lighting and road surface.***
+***I*** ***will ask at the next Meeting for a detailed update/report on the Ray’s housing estate in***
+
+***Mountcollins, to include sewerage, water, lighting and road surface.***
 
 REPLY:
 
@@ -329,7 +335,9 @@ contractor to commence on site and will update when works commence.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting for a detailed report/update of all Part 8 planning**applications for housing in this District.***
+***I will ask at the next Meeting for a detailed report/update of all Part 8 planning***
+
+***applications for housing in this District.***
 
 REPLY:
 
@@ -339,7 +347,13 @@ West District. Please see table below for Planning description and progress of e
 
 application.
 
-**Part 8ReferencePlanning DescriptionProgress**
+**Part 8**
+
+**Reference**
+
+**Planning Description**
+
+**Progress**
 
 PT8LL54
 
@@ -539,7 +553,13 @@ Ardagh, Co. Limerick
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next*Meeting*what effect in terms of delivery is the constrained**wastewater utility infrastructure in Newcastle West town likely to have on our much**anticipated Social Housing project at Sycamore Crescent, Gortboy, Newcastle West i.e.**when is it expected to (a) commence and (b) complete.***
+***I will ask at the next*** **Meeting** ***what effect in terms of delivery is the constrained***
+
+***wastewater utility infrastructure in Newcastle West town likely to have on our much***
+
+***anticipated Social Housing project at Sycamore Crescent, Gortboy, Newcastle West i.e.***
+
+***when is it expected to (a) commence and (b) complete.***
 
 REPLY:
 
@@ -593,7 +613,11 @@ treatment plant.
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting (a) when safety measures will be put in place at Ashford**School and (b) when footpath extensions to the speed limit on each side of the village will**be delivered.***
+***I will ask at the next Meeting (a) when safety measures will be put in place at Ashford***
+
+***School and (b) when footpath extensions to the speed limit on each side of the village will***
+
+***be delivered.***
 
 REPLY:
 
@@ -607,7 +631,9 @@ village is expected to be delivered during Q3 of 2025.
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting that the verge of the local road opposite Castlemahon Church**be cleaned and made safe.***
+***I will ask at the next Meeting that the verge of the local road opposite Castlemahon Church***
+
+***be cleaned and made safe.***
 
 REPLY:
 
@@ -619,7 +645,9 @@ NOTICES OF MOTION
 
 12. Notice of Motion submitted by Councillor L. Galvin
 
-***I will move at the next Meeting that the parking bye-laws be extended east of Abbeyfeale**to beyond "Greyhound and Pet World".***
+***I will move at the next Meeting that the parking bye-laws be extended east of Abbeyfeale***
+
+***to beyond "Greyhound and Pet World".***
 
 The Motion was seconded by Councillor Foley.
 
@@ -641,7 +669,11 @@ The intention is to provide a drawing for the Members approval as soon as possib
 
 13. Notice of Motion submitted by Councillor L. Galvin
 
-***I will move at the next Meeting that this Council carry out works at the bridge/stream at**the old Post Office, Ballaugh V42TR66 to prevent flooding and damage to the public road**and other property.***
+***I will move at the next Meeting that this Council carry out works at the bridge/stream at***
+
+***the old Post Office, Ballaugh V42TR66 to prevent flooding and damage to the public road***
+
+***and other property.***
 ---
 9
 
@@ -667,7 +699,9 @@ the area more frequently to assess what works if any are required.
 
 14. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that Skyline be requested to present to our Municipal**Council.***
+***I will move at the next Meeting that Skyline be requested to present to our Municipal***
+
+***Council.***
 
 The Motion was seconded by Councillor Galvin.
 
@@ -677,7 +711,11 @@ Skyline will be in attendance at the April meeting.
 
 15. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that this Municipal Council call on the Taoiseach and**Minister for Housing to immediately increase the recently announced funding allocation**towards the purchase of properties for Tenants-in-Situ here in Newcastle West.***
+***I will move at the next Meeting that this Municipal Council call on the Taoiseach and***
+
+***Minister for Housing to immediately increase the recently announced funding allocation***
+
+***towards the purchase of properties for Tenants-in-Situ here in Newcastle West.***
 
 The Motion was seconded by Councillor Ruddle.
 
@@ -703,7 +741,11 @@ and the Minister for Housing, Local Government and Heritage.
 
 16. Notice of Motion submitted by Councillor T. Ruddle
 
-***I will move at the next Meeting that Limerick City and County Council clean up rubbish and**clean up the basketball court at Sharwood estate, Newcastle West. I suggest this should**be done on a regular basis.***
+***I will move at the next Meeting that Limerick City and County Council clean up rubbish and***
+
+***clean up the basketball court at Sharwood estate, Newcastle West. I suggest this should***
+
+***be done on a regular basis.***
 ---
 10
 
@@ -733,7 +775,9 @@ request for CCTV in the estate to alleviate the littering issue.
 
 17. Notice of Motion submitted by Councillor T. Ruddle
 
-***I will move at the next Meeting that Limerick City and County Council affix the loose**stones in the Square, Newcastle West. These can be dangerous.***
+***I will move at the next Meeting that Limerick City and County Council affix the loose***
+
+***stones in the Square, Newcastle West. These can be dangerous.***
 
 The Motion was seconded by Councillor Galvin.
 
@@ -799,7 +843,9 @@ This concluded the Meeting.
 
 Signed:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Cathaoirleach**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Cathaoirleach**
 
 Dated:
 

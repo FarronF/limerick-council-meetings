@@ -3,34 +3,52 @@
 ---
 1
 
-**28thMarch, 2025To: The Chairperson and Each Member of the Travel & Transportation Strategic PolicyCommittee of Limerick City & County Council**
+**28th** **March, 2025**
+
+**To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
+
+**Committee of Limerick City & County Council**
 
 You are invited to attend a Meeting of the Travel and Transportation Strategic Policy
 
 Committee, to be held in the **Council Chamber, Dooradoyle and ONLINE** by MS Teams Video
 
-Conference, on **Tuesday the 8thApril, 2025** at 3:00 p.m. The business to be transacted is set
+Conference, on **Tuesday the 8th** **April, 2025** at 3:00 p.m. The business to be transacted is set
 
 out in the appended agenda.
 
-**Signed:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEEHugh McGrath**
+**Signed:**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE**
+
+**Hugh McGrath**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**A/DIRECTOR OF SERVICE,TRANSPORTATION & MOBILITY DIRECTORATE**
+**A/DIRECTOR OF SERVICE,**
+
+**TRANSPORTATION & MOBILITY DIRECTORATE**
 
 (Image omitted)
 (Image omitted)
 ---
 2
 
-**AGENDA1.Minutes:**
+**AGENDA**
+
+**1.Minutes:**
 
 To adopt the Draft Minutes of the Meeting of the Travel and Transportation Strategic
 
 Policy Committee held on the 19th February 2025.
 
-**2.Notice of Motion submitted byFarron Flaherty, Dan O’Neill &Seán Golden,(Limerick Cycling Campaign, ICTU/SIPTU and Limerick Chamber)–Enhancement of Bus Services in Raheen and Mungret Areas**
+**2.Notice of Motion submitted by** **Farron Flaherty, Dan O’Neill &** **Seán Golden,**
+
+**(Limerick Cycling Campaign, ICTU/SIPTU and Limerick Chamber)** **–**
+
+**Enhancement of Bus Services in Raheen and Mungret Areas**
 
 We request that the Travel and Transportation Strategic Policy Committee of
 
@@ -68,7 +86,9 @@ operational considerations of the new routes, providing valuable data for full-
 
 scale implementation for the full rollout of the BusConnects project.
 
-**3.Limerick City Centre Transport Plan Update:4.Presentation of the Active Travel Interactive Map - Toby Goodwin**
+**3.Limerick City Centre Transport Plan Update:**
+
+**4.Presentation of the Active Travel Interactive Map - Toby Goodwin**
 ---
 3
 ---

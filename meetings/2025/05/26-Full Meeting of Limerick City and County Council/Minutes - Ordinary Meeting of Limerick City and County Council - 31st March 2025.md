@@ -723,7 +723,13 @@ Nominations had now been received from the PPN which were outlined in the report
 
 follows:
 
-**Strategic Policy CommitteePPN PillarName of Nominee andNominating Body**
+**Strategic Policy Committee**
+
+**PPN Pillar**
+
+**Name of Nominee and**
+
+**Nominating Body**
 
 Community, Leisure, Arts,
 
@@ -791,7 +797,13 @@ And Resolved:
 
 representatives to Strategic Policy Committees as follows:
 
-**Strategic Policy CommitteePPN PillarName of Nominee andNominating Body**
+**Strategic Policy Committee**
+
+**PPN Pillar**
+
+**Name of Nominee and**
+
+**Nominating Body**
 
 Community, Leisure, Arts,
 
@@ -845,7 +857,9 @@ Strategic Policy Committee Reports
 
 (i)
 
-Circulated, report of the Chairperson of the **Travel and Transportation Strategic PolicyCommittee** dated 20th March, 2025, in relation to Meeting of the Committee held on
+Circulated, report of the Chairperson of the **Travel and Transportation Strategic Policy**
+
+**Committee** dated 20th March, 2025, in relation to Meeting of the Committee held on
 
 19th February, 2025.
 
@@ -859,7 +873,11 @@ Cutting Grant Scheme. The SPC was recommending that the Council adopt the
 
 Scheme.
 
-**Recommendation*“That, the Draft Community Hedge**-Cutting Grant Scheme be presented to the Full**Council Meeting on 31**st**March, 2025, for adoption.”***
+**Recommendation**
+
+***“That, the Draft Community Hedge**-Cutting Grant Scheme be presented to the Full***
+
+***Council Meeting on 31**st**March, 2025, for adoption.”***
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
@@ -881,7 +899,9 @@ to amend the heading of the application form to include community groups.
 
 (ii)
 
-Circulated, report of the Chairperson of the **Economic Development, Enterprise,Tourism and Planning** Strategic Policy Committee dated 19th March, 2025, in relation
+Circulated, report of the Chairperson of the **Economic Development, Enterprise,**
+
+**Tourism and Planning** Strategic Policy Committee dated 19th March, 2025, in relation
 
 to meeting of the Committee held on 3rd March, 2025.
 
@@ -889,7 +909,13 @@ The Chairperson’s report was noted by the Council.
 ---
 12
 
-**Recommendation*“That, this Council call on the Government to provide additional financial incentives**and supports to encourage the owners of unoccupied properties located in the city**centre to redevelop for commercial and/or residential purposes.”***
+**Recommendation**
+
+***“That, this Council call on the Government to provide additional financial incentives***
+
+***and supports to encourage the owners of unoccupied properties located in the city***
+
+***centre to redevelop for commercial and/or residential purposes.”***
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
@@ -897,7 +923,9 @@ Recommendation was agreed.
 
 (iii)
 
-Circulated, report of the Chairperson of the **Climate Action, Biodiversity andEnvironment** Strategic Policy Committee dated 14th March, 2025, in relation to
+Circulated, report of the Chairperson of the **Climate Action, Biodiversity and**
+
+**Environment** Strategic Policy Committee dated 14th March, 2025, in relation to
 
 Meeting of the Committee held on 11th March, 2025.
 
@@ -911,7 +939,9 @@ Also circulated, report of the Director for the Metropolitan District of Limeric
 
 **Recommendation**:
 
-***“That, the Limerick City and County**Council Biodiversity Action Plan 2025-2030 be**adopted at the next sitting of the Full Council.”***
+***“That, the Limerick City and County*** ***Council Biodiversity Action Plan 2025-2030 be***
+
+***adopted at the next sitting of the Full Council.”***
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
@@ -929,7 +959,9 @@ circulated, be and is hereby adopted.”
 
 (iv)
 
-Circulated, report of the Chairperson of the **Community, Leisure, Arts, Heritage andCulture Strategic Policy Committee** dated 20th March, 2025, in relation to meeting of
+Circulated, report of the Chairperson of the **Community, Leisure, Arts, Heritage and**
+
+**Culture Strategic Policy Committee** dated 20th March, 2025, in relation to meeting of
 
 the Committee held on 12th March, 2025.
 
@@ -945,7 +977,11 @@ Recommendation from the SPC:
 ---
 13
 
-**“That, the application for accreditation to the World Health Organisation EuropeanHealthy Cities/Counties Network be considered for approval by Limerick City andCounty Council.”**
+**“That, the application for accreditation to the World Health Organisation European**
+
+**Healthy Cities/Counties Network be considered for approval by Limerick City and**
+
+**County Council.”**
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
@@ -1157,7 +1193,13 @@ MAYOR’S QUESTIONS
 
 Question submitted by Councillor U. Gavan
 
-***I will ask the Mayor to work with the Director General and An Garda Síochána to lead a city-**wide traffic management campaign around our major education institutions and employers**for the wider benefit of local residential communities who are currently suffering from car**parking issues on a regular basis.***
+***I will ask the Mayor to work with the Director General and An Garda Síochána to lead a city-***
+
+***wide traffic management campaign around our major education institutions and employers***
+
+***for the wider benefit of local residential communities who are currently suffering from car***
+
+***parking issues on a regular basis.***
 ---
 16
 
@@ -1227,7 +1269,13 @@ wide campaign.
 
 Question submitted by Councillor E. O’Donovan
 
-***I will ask the Mayor at the next Meeting of Limerick Council for an update on the**membership, status and priorities of the Limerick Project Ireland 2040 Delivery Board**Transport Sub-Group.*REPLY:**
+***I will ask the Mayor at the next Meeting of Limerick Council for an update on the***
+
+***membership, status and priorities of the Limerick Project Ireland 2040 Delivery Board***
+
+***Transport Sub-Group.***
+
+**REPLY:**
 
 The Transport Sub-Group was formally established at the most recent meeting
 
@@ -1287,7 +1335,15 @@ to the Meeting and were therefore considered as having been dealt with:
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting**–**since 1**st**February, 2025, it is now illegal to own an XL Bully**Dog unless you have a Certificate of Exemption**–**(a) how many XL Bully Dogs were**destroyed; (b) how many exemptions were granted in Limerick; (c) what were the reasons**for the exemptions; and (d) what steps has this Council put in place to ensure that all XL**Bully Dogs are certified.***
+***I will ask at the next Meeting*** ***–*** ***since 1**st*** ***February, 2025, it is now illegal to own an XL Bully***
+
+***Dog unless you have a Certificate of Exemption*** ***–*** ***(a) how many XL Bully Dogs were***
+
+***destroyed; (b) how many exemptions were granted in Limerick; (c) what were the reasons***
+
+***for the exemptions; and (d) what steps has this Council put in place to ensure that all XL***
+
+***Bully Dogs are certified.***
 
 REPLY:
 
@@ -1335,7 +1391,9 @@ Applicants that supplied the required documentation within the deadline
 
 for applications were approved for an exemption.
 
-(d)  **What steps has this Council put in place to ensure that all XL Bully Dogsare certified:** it is the responsibility of each dog owner to apply for a
+(d)  **What steps has this Council put in place to ensure that all XL Bully Dogs**
+
+**are certified:** it is the responsibility of each dog owner to apply for a
 
 Certificate of exemption for their XL Bully dog. In advance of the ban
 
@@ -1355,7 +1413,13 @@ exempt their dog.
 
 Question submitted by Councillor B. Collins
 
-***I will ask at the next Meeting how many pre-planning and full planning permissions have**been refused or withdrawn since the adoption of the Limerick Development Plan 2022-2028**based on applicants residing in Level 4 settlements.*REPLY:**
+***I will ask at the next Meeting how many pre-planning and full planning permissions have***
+
+***been refused or withdrawn since the adoption of the Limerick Development Plan 2022-2028***
+
+***based on applicants residing in Level 4 settlements.***
+
+**REPLY:**
 
 This Question was discussed with Councillor Collins. Details of pre-planning
 
@@ -1373,7 +1437,9 @@ once gathered.
 
 Question submitted by Councillor E. O’Donovan
 
-***I will ask at the next Meeting of Limerick Council for the number of Notices to Quit received**by Limerick Council across Limerick in the last 12 months per month.***
+***I will ask at the next Meeting of Limerick Council for the number of Notices to Quit received***
+
+***by Limerick Council across Limerick in the last 12 months per month.***
 ---
 19
 
@@ -1389,7 +1455,21 @@ since the eviction ban in March 2023. The numbers provided under column B
 
 record the new notifications received per month.
 
-**ABMonthCumulative Averageper month since March2023No. of new Notice-to-Quitnotifications received per month**
+**A**
+
+**B**
+
+**Month**
+
+**Cumulative Average**
+
+**per month since March**
+
+**2023**
+
+**No. of new Notice-to-Quit**
+
+**notifications received per month**
 
 Feb-24
 
@@ -1479,7 +1559,15 @@ Up to 21st March 2025
 
 Question submitted by Councillor S. Benson
 
-***I will ask at the next meeting, (i) How many vacant Council properties do we currently have**(ii) What is the projected cost of refurbishing all of these properties (iii) What is this year’s**budget for refurbishing these properties and (iv) How much do we get from central**government towards the cost, per unit.*REPLY:**
+***I will ask at the next meeting, (i) How many vacant Council properties do we currently have***
+
+***(ii) What is the projected cost of refurbishing all of these properties (iii) What is this year’s***
+
+***budget for refurbishing these properties and (iv) How much do we get from central***
+
+***government towards the cost, per unit.***
+
+**REPLY:**
 
 The number of vacant properties as of 26th March, 2025, is 226 units, of which
 
@@ -1491,7 +1579,9 @@ For the current 119 houses, the projected cost of refurbishing these units is
 
 projected average cost based on 2024 is as follows:
 
-**CategoryCost**
+**Category**
+
+**Cost**
 
 Prelets
 
@@ -1527,7 +1617,11 @@ stock, which is not a void, an application for funding can be made.
 
 Question submitted by Councillor S. Benson
 
-***I will ask at the next meeting if Limerick City and County Council has a dedicated fulltime**Access Officer, with appropriate seniority and training.*REPLY:**
+***I will ask at the next meeting if Limerick City and County Council has a dedicated fulltime***
+
+***Access Officer, with appropriate seniority and training.***
+
+**REPLY:**
 
 Limerick City and County Council has a number of Access Officers in place, each
 
@@ -1547,7 +1641,13 @@ sessions for staff on their responsibilities in this very important area.
 
 Question submitted by Councillor M. Donoghue
 
-**I will ask at the next Meeting of Limerick City and County Council that all paths and roadsmaintenance costs for all required works are included in pre-budget workshops in a project-by-project in Q3 and Q4 going forward.REPLY:**
+**I will ask at the next Meeting of Limerick City and County Council that all paths and roads**
+
+**maintenance costs for all required works are included in pre-budget workshops in a project-**
+
+**by-project in Q3 and Q4 going forward.**
+
+**REPLY:**
 
 The Road Maintenance Works to be carried out annually are identified on the
 
@@ -1577,7 +1677,11 @@ known and allocated.
 
 Question submitted by Councillor M. Donoghue
 
-***I will ask at the next Meeting if the Housing Department can set out its current projected**Per Cent for Art budget across all projects regardless of stage.*REPLY:**
+***I will ask at the next Meeting if the Housing Department can set out its current projected***
+
+***Per Cent for Art budget across all projects regardless of stage.***
+
+**REPLY:**
 
 The Table below outlines the Per Cent for Art budgets approved on Limerick
 
@@ -1653,7 +1757,11 @@ approved)
 
 Question submitted by Councillor D. McSweeney
 
-***I will ask at the next Meeting of Limerick City and County Council for a full yearly breakdown**of expenditure on consultants by the Active Travel Team since it was established.*REPLY:**
+***I will ask at the next Meeting of Limerick City and County Council for a full yearly breakdown***
+
+***of expenditure on consultants by the Active Travel Team since it was established.***
+
+**REPLY:**
 
 The average percentage of design consultancy spending on Limerick City and
 
@@ -1685,7 +1793,7 @@ Spend on design consultancy was as follows: -
 
 2024 - €1,627,209.69
 
-**Total -€4,455,983.32**
+**Total -** **€4,455,983.32**
 
 The overall non-payroll costs for the same period and same schemes amount
 
@@ -1699,7 +1807,9 @@ withstanding fees are still being incurred as schemes are progressing.
 
 Question submitted by Councillor S. Beasley
 
-***I will ask at the next Meeting of Limerick City and County Council over the past five years,**what are the maintenance costs for Council housing stock by year and District.***
+***I will ask at the next Meeting of Limerick City and County Council over the past five years,***
+
+***what are the maintenance costs for Council housing stock by year and District.***
 ---
 22
 
@@ -1709,7 +1819,15 @@ The following are the Maintenance costs for Council housing stock by year and
 
 District over the past five years:
 
-**20202021202220232024**
+**2020**
+
+**2021**
+
+**2022**
+
+**2023**
+
+**2024**
 
 Municipal District of Adare-
 
@@ -1777,7 +1895,19 @@ Authority area for the past five financial years. I have also included the
 
 percentage for 2025:
 
-**Year202020212022202320242025**
+**Year**
+
+**2020**
+
+**2021**
+
+**2022**
+
+**2023**
+
+**2024**
+
+**2025**
 
 Windfarm Income as a
 
@@ -1801,7 +1931,13 @@ Rates Income
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting how many properties our Authority had agreed to purchase**in 2024 under Notice to Quit, Tenant in Situ and Rightsizing options, what the relating**purchase monies amount to, and when completions are expected.*REPLY**:
+***I will ask at the next Meeting how many properties our Authority had agreed to purchase***
+
+***in 2024 under Notice to Quit, Tenant in Situ and Rightsizing options, what the relating***
+
+***purchase monies amount to, and when completions are expected.***
+
+**REPLY**:
 
 Limerick City and County Council (LCCC) is ‘sale agreed’ on 14 Tenant-in-Situ
 
@@ -1859,7 +1995,15 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor N. Stokes
 
-***I will move at the next Plenary Meeting of Limerick City and County Council that this Council**examine the possibility of securing funding for the Irish Chamber Orchestra's Education and**Community Engagement work. The funding is essential to enable them to continue their**offering of programmes free-of-charge to schools and community groups, providing access**to music and the arts for those who may require it.***
+***I will move at the next Plenary Meeting of Limerick City and County Council that this Council***
+
+***examine the possibility of securing funding for the Irish Chamber Orchestra's Education and***
+
+***Community Engagement work. The funding is essential to enable them to continue their***
+
+***offering of programmes free-of-charge to schools and community groups, providing access***
+
+***to music and the arts for those who may require it.***
 
 The Motion was proposed by Councillor Stokes and seconded by Councillor Hickey-
 
@@ -1927,7 +2071,13 @@ important programme for schools.
 
 Notice of Motion submitted by Councillor T. Ruddle
 
-***I will move at the next Meeting that Limerick City and County Council call for Government**intervention to start the process of upgrading Newcastle West Sewerage Scheme**immediately; to also put interim/temporary measures in place so that development can**continue while the upgrade can take place.***
+***I will move at the next Meeting that Limerick City and County Council call for Government***
+
+***intervention to start the process of upgrading Newcastle West Sewerage Scheme***
+
+***immediately; to also put interim/temporary measures in place so that development can***
+
+***continue while the upgrade can take place.***
 
 The Motion was proposed by Councillor Ruddle and seconded by Councillor Galvin.
 
@@ -1975,7 +2125,13 @@ at a possible temporary solution, and asked to be kept up to date on progress.
 
 Notice of Motion submitted by Councillor L. Galvin
 
-***I will move at the next Meeting that this Council calls on the Department of Education to**fund all safety measures that are necessary outside all Schools in the interest of children's**safety, particularly national schools, i.e. crossings, lighting, speed ramps, signage, car/bus**parking.***
+***I will move at the next Meeting that this Council calls on the Department of Education to***
+
+***fund all safety measures that are necessary outside all Schools in the interest of children's***
+
+***safety, particularly national schools, i.e. crossings, lighting, speed ramps, signage, car/bus***
+
+***parking.***
 
 The Motion was proposed by Councillor Galvin and seconded by Councillor Collins (M).
 
@@ -1997,7 +2153,11 @@ Nos. 24, 27 and 33 - in relation to the Development Plan - were taken together:
 
 Notice of Motion submitted by Councillor J. Sheahan
 
-***I will move at the next Meeting that the Mayor of Limerick immediately commence a review**of the Limerick Development Plan 2022-2028 to expedite the development of housing in**Limerick City and County.***
+***I will move at the next Meeting that the Mayor of Limerick immediately commence a review***
+
+***of the Limerick Development Plan 2022-2028 to expedite the development of housing in***
+
+***Limerick City and County.***
 
 The Motion was proposed by Councillor Sheahan and seconded by Councillor Keary.
 
@@ -2017,7 +2177,15 @@ and stressed the need for more residential zoning throughout Limerick city and c
 
 Notice of Motion submitted by Councillor B. Collins
 
-***I will move at the next Meeting that Limerick City and County Council amend the Limerick**Development Plan 2022-2028 to include the following:**‘For a positive planning application**for a one-off rural house outside a settlement, that the absence of affordable dwellings for**purchase within a settlement be included as qualifying criteria where a housing need is**demonstrated.’***
+***I will move at the next Meeting that Limerick City and County Council amend the Limerick***
+
+***Development Plan 2022-2028 to include the following:*** ***‘For a positive planning application***
+
+***for a one-off rural house outside a settlement, that the absence of affordable dwellings for***
+
+***purchase within a settlement be included as qualifying criteria where a housing need is***
+
+***demonstrated.’***
 ---
 26
 
@@ -2039,7 +2207,13 @@ if a site was available.
 
 Notice of Motion submitted by Councillor S. Keary
 
-***I will move at the March Meeting of Limerick City and County Council that the Forward**Planning Section of this Authority immediately commence a review of the current Limerick**Development Plan 2022-2028 with a view to amending Planning Policies and a review of**the current list of Protected Structures.***
+***I will move at the March Meeting of Limerick City and County Council that the Forward***
+
+***Planning Section of this Authority immediately commence a review of the current Limerick***
+
+***Development Plan 2022-2028 with a view to amending Planning Policies and a review of***
+
+***the current list of Protected Structures.***
 
 The Motion was proposed by Councillor Keary and seconded by Councillor O’Donovan.
 
@@ -2047,7 +2221,7 @@ In moving the Motion, Councillor Keary welcomed the other two Motions and agreed
 
 that a review of the Limerick Development Plan was required.
 
-**REPLY to Notice of Motion No. 24–Councillor John Sheahan**
+**REPLY to Notice of Motion No. 24** **–** **Councillor John Sheahan**
 
 In accordance with the Planning and Development Act 2000 (as amended), work on
 
@@ -2081,7 +2255,7 @@ Assessments and scoping of Strategic Environmental Assessment and Appropriate
 
 Assessment.
 
-**REPLY to Notice of Motion No. 27–Councillor B. Collins**
+**REPLY to Notice of Motion No. 27** **–** **Councillor B. Collins**
 
 In accordance with the Planning and Development Act 2000 (as amended), the
 
@@ -2103,7 +2277,7 @@ would therefore be contrary to Section 10 of the Planning and Development Act 20
 
 (as amended).
 
-**REPLY to Notice of Motion No. 33–Councillor S. Keary**
+**REPLY to Notice of Motion No. 33** **–** **Councillor S. Keary**
 
 In accordance with the Planning and Development Act 2000 (as amended),
 
@@ -2205,7 +2379,11 @@ Councillor Stokes, Standing Order No. 4 was suspended in order to complete the a
 
 Notice of Motion submitted by Councillor C. Slattery
 
-***I will move at the next Meeting that Limerick City and County Council process rent**assessments for people in Council properties in a timely manner to avoid tenants receiving**backdated bills for arrears.***
+***I will move at the next Meeting that Limerick City and County Council process rent***
+
+***assessments for people in Council properties in a timely manner to avoid tenants receiving***
+
+***backdated bills for arrears.***
 
 The Motion was proposed by Councillor Slattery and seconded by Councillor Kiely.
 
@@ -2287,7 +2465,13 @@ process for the rent assessments.
 
 Notice of Motion submitted by Councillor U. Gavan
 
-***I will move at the next Meeting that Limerick City and County Council (a) Calls on the**Government to enact the Occupied Territories Bill in full**,**and (b) Agrees to fly the Palestinian**flag outside Merchant’s Quay as a sign of solidarity with the people of Ga**za, East Jerusalem**and the West Bank**.**Note: (b) Referred to Protocol Committee.***
+***I will move at the next Meeting that Limerick City and County Council (a) Calls on the***
+
+***Government to enact the Occupied Territories Bill in full**,*** ***and (b) Agrees to fly the Palestinian***
+
+***flag outside Merchant’s Quay as a sign of solidarity with the people of Ga**za, East Jerusalem***
+
+***and the West Bank**.***  ***Note: (b) Referred to Protocol Committee.***
 
 The Motion was proposed by Councillor Gavan and seconded by Councillor E.
 
@@ -2299,7 +2483,11 @@ meeting of the Protocol Committee.
 
 Notice of Motion submitted by Councillor E. O’Donovan
 
-***I will move at the next meeting of Limerick Council that this Council write to the Minister for**Housing requesting a funding guarantee for the tenant-in-situ scheme for 2025, and to**allow Limerick Council the maximum flexibility on how this scheme is operated.***
+***I will move at the next meeting of Limerick Council that this Council write to the Minister for***
+
+***Housing requesting a funding guarantee for the tenant-in-situ scheme for 2025, and to***
+
+***allow Limerick Council the maximum flexibility on how this scheme is operated.***
 
 The Motion was proposed by Councillor O’Donovan and seconded by Councillor
 
@@ -2309,11 +2497,21 @@ Benson.
 
 Notice of Motion submitted by Councillor S. Benson
 
-***I will move at the next meeting that we write to the National Transport Authority and**Minister for Transport to ask if additional funding will be made available for road repairs,**particularly for local roads through housing estates, on bus routes. And that an inspection**be carried out ahead of the rollout of bus connects, to ensure that the roads on all routes***
+***I will move at the next meeting that we write to the National Transport Authority and***
+
+***Minister for Transport to ask if additional funding will be made available for road repairs,***
+
+***particularly for local roads through housing estates, on bus routes. And that an inspection***
+
+***be carried out ahead of the rollout of bus connects, to ensure that the roads on all routes***
 ---
 30
 
-***are of suitable standard to cater for the heavier electric fleet and increased frequency, and**where necessary roads will be upgraded and funding will be provided to maintain these**routes into the future.***
+***are of suitable standard to cater for the heavier electric fleet and increased frequency, and***
+
+***where necessary roads will be upgraded and funding will be provided to maintain these***
+
+***routes into the future.***
 
 The Motion was proposed by Councillor Benson and seconded by Councillor Gavan.
 
@@ -2321,7 +2519,13 @@ The Motion was proposed by Councillor Benson and seconded by Councillor Gavan.
 
 Notice of Motion submitted by Councillor M. Donoghue
 
-***I will move at the next Meeting that this Council write to the Minister for Transport, Darragh**O’Brien, T.D., to propose that the**BusConnects Limerick is implemented and made**operational without delay. I understand that the majority of the required infrastructure is**in place for this transformative network.***
+***I will move at the next Meeting that this Council write to the Minister for Transport, Darragh***
+
+***O’Brien, T.D., to propose that the*** ***BusConnects Limerick is implemented and made***
+
+***operational without delay. I understand that the majority of the required infrastructure is***
+
+***in place for this transformative network.***
 
 The Motion was proposed by Councillor Donoghue and seconded by Councillor
 
@@ -2331,7 +2535,11 @@ O’Donovan.
 
 Notice of Motion submitted by Councillor S. Beasley
 
-***I will move at the next Meeting that a space be gifted by Limerick City and County Council**for Limerick Lace to have a location where they can showcase their wares for tourists and**interested parties.***
+***I will move at the next Meeting that a space be gifted by Limerick City and County Council***
+
+***for Limerick Lace to have a location where they can showcase their wares for tourists and***
+
+***interested parties.***
 
 The Motion was proposed by Councillor Beasley and seconded by Councillor Hickey-
 
@@ -2385,7 +2593,15 @@ Limerick Lace to all.
 
 Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
-***I will move at the next Meeting that this Council engage the services of a Sustainability**Officer to carry out a sustainability audit of Riverfest 2025, and all Limerick Council run**Festivals and Events thereafter, in order to minimise the environmental impact, thereby**aligning with the sustainability goals of the Limerick City and County Council Festival and**Events Strategy 2023-2027.***
+***I will move at the next Meeting that this Council engage the services of a Sustainability***
+
+***Officer to carry out a sustainability audit of Riverfest 2025, and all Limerick Council run***
+
+***Festivals and Events thereafter, in order to minimise the environmental impact, thereby***
+
+***aligning with the sustainability goals of the Limerick City and County Council Festival and***
+
+***Events Strategy 2023-2027.***
 
 The Motion was proposed by Councillor Hickey-O’Mara and seconded by Councillor
 

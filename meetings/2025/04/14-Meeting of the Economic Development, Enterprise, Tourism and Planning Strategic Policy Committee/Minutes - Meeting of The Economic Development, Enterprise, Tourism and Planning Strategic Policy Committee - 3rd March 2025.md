@@ -1,7 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-3rd-march-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,PLANNING AND TOURISM STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 3 MARCH 2025 AT2PM IN COUNCIL CHAMBER, DOORADOYLE AND ONLINEPresent in the Chair:**
+**MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
+
+**PLANNING AND TOURISM STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 3 MARCH 2025 AT**
+
+**2PM IN COUNCIL CHAMBER, DOORADOYLE AND ONLINE**
+
+**Present in the Chair:**
 
 Councillor Peter Doyle
 
@@ -33,7 +39,9 @@ Staff Officer).
 
 Cllr. Joe Leddin
 
-**MeetingItem 1: Introductions**
+**Meeting**
+
+**Item 1: Introductions**
 
 Meeting began with a welcome to the first SPC meeting from the Chair, Councillor Doyle, followed
 
@@ -131,7 +139,9 @@ Mr. Murray responded that the Mayoral Programme is new to Local Government, and 
 
 process. Some of the objectives contained in the Mayoral Programme are policy related.
 
-**Item 3: To receive a presentation for discussion on the Proposed Development ContributionScheme 2025**
+**Item 3: To receive a presentation for discussion on the Proposed Development Contribution**
+
+**Scheme 2025**
 
 Ms. Brislane gave members an overview of the proposed Development Scheme 2025 workshop with
 
@@ -401,7 +411,7 @@ The Chair Cllr. Doyle sought an extension to the meeting at 3.50pm to continue w
 
 agenda items. The members agreed and the meeting reconvened.
 
-**Item 5: To receive an update on the Local Enterprise Office–Mike Cantwell**
+**Item 5: To receive an update on the Local Enterprise Office** **–** **Mike Cantwell**
 
 Mr Cantwell gave members a presentation on what funding can be accessed through the Local
 
@@ -457,7 +467,23 @@ The members thanked Mr. Cantwell for his presentation. The presentation with fur
 
 the grants will be circulated to the members.
 
-**Item 6: Notice of MotionNotice of Motion submitted by Councillor J. Leddin (referred from the Meeting of theMetropolitan District held on 20thJanuary 2025 to the Economic Development, Enterprise,Tourism and Planning Strategic Policy Committee)I will move at the next Meeting of the Metropolitan District of Limerick that the Council calls onthe Government to provide additional financial incentives and supports to encourage the ownersof unoccupied properties located in the city centre to redevelop for commercial and or residentialpurposes.The Notice of Motion was formally seconded by both Mr. Joyce and Councillor Reale.**
+**Item 6: Notice of Motion**
+
+**Notice of Motion submitted by Councillor J. Leddin (referred from the Meeting of the**
+
+**Metropolitan District held on 20th** **January 2025 to the Economic Development, Enterprise,**
+
+**Tourism and Planning Strategic Policy Committee)**
+
+**I will move at the next Meeting of the Metropolitan District of Limerick that the Council calls on**
+
+**the Government to provide additional financial incentives and supports to encourage the owners**
+
+**of unoccupied properties located in the city centre to redevelop for commercial and or residential**
+
+**purposes.**
+
+**The Notice of Motion was formally seconded by both Mr. Joyce and Councillor Reale.**
 
 In proposing the motion Cllr. Leddin stated that there is a need to incentivise the redevelopment of
 

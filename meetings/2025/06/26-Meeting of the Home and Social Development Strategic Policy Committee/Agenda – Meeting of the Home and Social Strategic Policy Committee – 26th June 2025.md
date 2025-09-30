@@ -1,7 +1,9 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-the-home-and-social-strategic-policy-committee-26th-june-2025.pdf)
 
 ---
-**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENTSTRATEGIC POLICY COMMITTEE**
+**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
+
+**STRATEGIC POLICY COMMITTEE**
 
 A meeting of Limerick City and County Council Home and Social Development Strategic Policy
 
@@ -25,7 +27,9 @@ tenant is responsible for and the Council arranging said works.
 
 6. Upcoming Housing scheme launches.
 
-7. **Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home andSocial Development Strategic Policy Committee)**
+7. **Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and**
+
+**Social Development Strategic Policy Committee)**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City
 
@@ -35,7 +39,9 @@ for those in exceptional circumstances or where the circumstances of the family 
 
 a drastic change
 
-8. **Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Homeand Social Development Strategic Policy Committee)**
+8. **Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Home**
+
+**and Social Development Strategic Policy Committee)**
 
 I will move at the next meeting of the Metropolitan District of Limerick that this Council
 

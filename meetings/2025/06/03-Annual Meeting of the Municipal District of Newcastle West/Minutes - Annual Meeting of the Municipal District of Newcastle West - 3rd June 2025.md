@@ -137,7 +137,9 @@ Meeting and the Questions were therefore taken as having been dealt with.
 
 Question submitted by Councillor M. Collins
 
-***I will ask at the next Meeting for an update on the proposed footpath extension from the**Creamery at the Bridge of Tears to the Castlemahon road***.
+***I will ask at the next Meeting for an update on the proposed footpath extension from the***
+
+***Creamery at the Bridge of Tears to the Castlemahon road***.
 
 REPLY:
 
@@ -153,7 +155,15 @@ will be available.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting for an update on (a) The bollards planned for the Killarney**Road, Abbeyfeale (b) The extension of the Bye Laws up to the Greyhound and Pet World**premises, Abbeyfeale (c) An update on the Programme of Works for Collins Park,**Abbeyfeale, (d) An update on the extension of the footpath out to Dalton’s Cross,**Abbeyfeale.***
+***I will ask at the next Meeting for an update on (a) The bollards planned for the Killarney***
+
+***Road, Abbeyfeale (b) The extension of the Bye Laws up to the Greyhound and Pet World***
+
+***premises, Abbeyfeale (c) An update on the Programme of Works for Collins Park,***
+
+***Abbeyfeale, (d) An update on the extension of the footpath out to Dalton’s Cross,***
+
+***Abbeyfeale.***
 
 REPLY:
 
@@ -207,7 +217,9 @@ Cross in Abbeyfeale.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting**for a detailed update on the Abbeyfeale Traffic**Management Plan.***
+***I will ask at the next Meeting*** ***for a detailed update on the Abbeyfeale Traffic***
+
+***Management Plan.***
 
 REPLY:
 
@@ -233,7 +245,9 @@ updates remain, the works package is effectively ready to proceed to Tender.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting for an update on the Flood Relief Scheme for Abbeyfeale**(Mart bridge towards the rear of the soccer field).***
+***I will ask at the next Meeting for an update on the Flood Relief Scheme for Abbeyfeale***
+
+***(Mart bridge towards the rear of the soccer field).***
 
 REPLY:
 
@@ -311,7 +325,9 @@ Review Request Form for further consideration by the Office of Public Works.
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting**when road lining will occur at Cooliska Cross as well as**a number of other junctions in our Municipality.***
+***I will ask at the next Meeting*** ***when road lining will occur at Cooliska Cross as well as***
+
+***a number of other junctions in our Municipality.***
 
 REPLY:
 
@@ -325,7 +341,9 @@ work is provided under the general maintenance programme.
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting that this Authority liaise with the local Driving Test Centre in**terms of appropriate safety observation when conducting tests in the Daar River View Area**.***
+***I will ask at the next Meeting that this Authority liaise with the local Driving Test Centre in***
+
+***terms of appropriate safety observation when conducting tests in the Daar River View Area**.***
 
 REPLY:
 
@@ -337,7 +355,11 @@ test centre activity while operational on a public roadway.
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting the number of insurance claims made against this**Municipality in respect of (a) Falls on footpaths and (b) Pothole induced damage to cars on**our roads network in 2023, 2024 as well as the current year to date**.***
+***I will ask at the next Meeting the number of insurance claims made against this***
+
+***Municipality in respect of (a) Falls on footpaths and (b) Pothole induced damage to cars on***
+
+***our roads network in 2023, 2024 as well as the current year to date**.***
 
 REPLY:
 
@@ -381,7 +403,11 @@ Attached below is supporting documentation.
 
 Question submitted by Councillor T. Ruddle
 
-***I will ask at the next Meeting that the Limerick City and County Council cut back the**grass at the following locations (a) Ballynoe Cross (b) Castlemahon/Ardrine Cross. They**are badly overgrown and it is difficult to see.***
+***I will ask at the next Meeting that the Limerick City and County Council cut back the***
+
+***grass at the following locations (a) Ballynoe Cross (b) Castlemahon/Ardrine Cross. They***
+
+***are badly overgrown and it is difficult to see.***
 
 REPLY:
 
@@ -395,7 +421,13 @@ NOTICES OF MOTION
 
 12. Notice of Motion submitted by Councillor M. Collins
 
-***I will move at the next Meeting that the hedgerow on the right hand side at Woodfield**Grove on the boundary with Newcastle West Town FC pitch be cleaned and the green**palisade fence be continued to the end of the road. This is to stop illegal dumping and**antisocial behaviour.***
+***I will move at the next Meeting that the hedgerow on the right hand side at Woodfield***
+
+***Grove on the boundary with Newcastle West Town FC pitch be cleaned and the green***
+
+***palisade fence be continued to the end of the road. This is to stop illegal dumping and***
+
+***antisocial behaviour.***
 
 The Motion was seconded by Councillor Scanlan.
 
@@ -423,7 +455,13 @@ Meeting of the District.
 
 13. Notice of Motion submitted by Councillor L. Galvin
 
-***I will move at the next Meeting that the Council present a detailed report of submissions**made to the Department of Transport for repairs badly needed on the N21 over the past**two years. Please give the following: (a) Locations on the N21 where works are/were**required (b) Dates of submissions (c) Costings and replies to each submission.***
+***I will move at the next Meeting that the Council present a detailed report of submissions***
+
+***made to the Department of Transport for repairs badly needed on the N21 over the past***
+
+***two years. Please give the following: (a) Locations on the N21 where works are/were***
+
+***required (b) Dates of submissions (c) Costings and replies to each submission.***
 
 The Motion was seconded by Councillor Foley.
 
@@ -467,7 +505,9 @@ also raised.
 
 14. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that a safety survey be carried out at the exit from Liosán**on to Sheahan’s Road at Gortboy,**Newcastle West.***
+***I will move at the next Meeting that a safety survey be carried out at the exit from Liosán***
+
+***on to Sheahan’s Road at Gortboy,*** ***Newcastle West.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -489,7 +529,9 @@ the lighting at this location.
 
 15. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that**safety measures be considered as a matter of urgency**on both approaches to Bunoke Bridge on the R 522.***
+***I will move at the next Meeting that*** ***safety measures be considered as a matter of urgency***
+
+***on both approaches to Bunoke Bridge on the R 522.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -507,7 +549,13 @@ this location will be considered as a proposal under the Low Cost Safety Schemes
 
 16. Notice of Motion submitted by Councillor T. Ruddle
 
-***I will move at the next Meeting that Limerick City and County Council take up and refit the**slab footpaths in The Square, Newcastle West and surrounding streets**.**Th**i**s has led to**accidents and potential claims in recent times. Also, long term to provide a better type of**path.***
+***I will move at the next Meeting that Limerick City and County Council take up and refit the***
+
+***slab footpaths in The Square, Newcastle West and surrounding streets**.*** ***Th**i**s has led to***
+
+***accidents and potential claims in recent times. Also, long term to provide a better type of***
+
+***path.***
 
 The Motion was seconded by Councillor Galvin.
 
@@ -611,7 +659,9 @@ This concluded the Meeting.
 
 Signed:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Cathaoirleach**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Cathaoirleach**
 
 Dated:
 

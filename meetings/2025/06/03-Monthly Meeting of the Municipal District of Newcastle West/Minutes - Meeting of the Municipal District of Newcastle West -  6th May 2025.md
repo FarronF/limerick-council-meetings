@@ -473,7 +473,9 @@ Meeting and the Questions were therefore taken as having been dealt with.
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting that a speed survey be undertaken on the R520 through**Ardagh Village.***
+***I will ask at the next Meeting that a speed survey be undertaken on the R520 through***
+
+***Ardagh Village.***
 
 REPLY:
 
@@ -483,7 +485,9 @@ place within Ardagh Village.
 
 10.Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting what, if any horse control measures, are expected to be**implemented in Newcastle West town.***
+***I will ask at the next Meeting what, if any horse control measures, are expected to be***
+
+***implemented in Newcastle West town.***
 
 REPLY:
 
@@ -511,7 +515,9 @@ Customer Services and the matter will be investigated by Veterinary Services sta
 
 11.Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting when overhanging trees will be cut back at Woodfield Park,**Newcastle West.***
+***I will ask at the next Meeting when overhanging trees will be cut back at Woodfield Park,***
+
+***Newcastle West.***
 ---
 8
 
@@ -527,7 +533,9 @@ will assess the situation in accordance with the Tree Management Policy.
 
 Question submitted by Councillor F. Foley
 
-***I will ask at the next Meeting for an update on the proposed resurfacing works on the**Killarney Road, Abbeyfeale, from the Town Park to the Doctor’s surgery.***
+***I will ask at the next Meeting for an update on the proposed resurfacing works on the***
+
+***Killarney Road, Abbeyfeale, from the Town Park to the Doctor’s surgery.***
 
 REPLY:
 
@@ -553,7 +561,13 @@ NOTICES OF MOTION
 
 13. Notice of Motion submitted by Councillor T. Ruddle
 
-***I will move at the next Meeting that Limerick City and County Council identify a suitable**site in Newcastle West town that they could purchase and source funding to construct a**multi**-**purpose facility to accommodate (a) Men's shed (b) Snooker club (c) Theatre and**Arts centre (d) Band practice facility.***
+***I will move at the next Meeting that Limerick City and County Council identify a suitable***
+
+***site in Newcastle West town that they could purchase and source funding to construct a***
+
+***multi**-**purpose facility to accommodate (a) Men's shed (b) Snooker club (c) Theatre and***
+
+***Arts centre (d) Band practice facility.***
 
 The Motion was seconded by Councillor Sheahan.
 
@@ -597,7 +611,9 @@ on the provision of a Theatre and Arts Centre at the earliest opportunity.
 
 14. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting**that a management plan be immediately implemented at**The Demesne, Newcastle West, to keep our park safe and clean for its users.***
+***I will move at the next Meeting*** ***that a management plan be immediately implemented at***
+
+***The Demesne, Newcastle West, to keep our park safe and clean for its users.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -635,7 +651,9 @@ behaviour at the Demesne Park and other policing matters in the District.
 
 15. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that**a tourism promotion initiative be considered and put**in place for Ballinruane Wood, Kilmeedy.***
+***I will move at the next Meeting that*** ***a tourism promotion initiative be considered and put***
+
+***in place for Ballinruane Wood, Kilmeedy.***
 
 The Motion was seconded by Councillor Collins.
 ---
@@ -655,7 +673,13 @@ promote Ballinruane Wood, Kilmeedy.
 
 16. Notice of Motion submitted by Councillor J. Sheahan
 
-***I move at the next Meeting that Limerick City and County Council commence Section 38**of**the Road Traffic Act, 1994, to increase public car parking facilities in the following two**estates in the Newcastle West Municipal District (a) Marian Place, Glin and (b) Corbry**Estate, Glin.***
+***I move at the next Meeting that Limerick City and County Council commence Section 38**of***
+
+***the Road Traffic Act, 1994, to increase public car parking facilities in the following two***
+
+***estates in the Newcastle West Municipal District (a) Marian Place, Glin and (b) Corbry***
+
+***Estate, Glin.***
 
 The Motion was seconded by Councillor Galvin.
 
@@ -679,7 +703,11 @@ Forward Planning and Roads Department.
 
 17. Notice of Motion submitted by Councillor J. Sheahan
 
-***I will move at the next Meeting that Limerick City and County Council in consultation with**An Garda Síochána immediately put a static speed camera in place at Clooneyscrehane on**the R515 in the interest of road safety.***
+***I will move at the next Meeting that Limerick City and County Council in consultation with***
+
+***An Garda Síochána immediately put a static speed camera in place at Clooneyscrehane on***
+
+***the R515 in the interest of road safety.***
 
 The Motion was seconded by Councillor Galvin.
 
@@ -745,7 +773,9 @@ This concluded the Meeting.
 
 Signed:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Cathaoirleach**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Cathaoirleach**
 
 Dated:
 

@@ -1,7 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-january-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OFLIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ONMONDAY, 20THJANUARY, 2025 at 9.45 A.M.PRESENT IN THE CHAIR:** Councillor K. O’Hanlon, Cathaoirleach
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
+
+**LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
+
+**MONDAY, 20TH** **JANUARY, 2025 at 9.45 A.M.**
+
+**PRESENT IN THE CHAIR:** Councillor K. O’Hanlon, Cathaoirleach
 
 **MEMBERS IN ATTENDANCE**:
 
@@ -81,7 +87,17 @@ Monday, 10th March, 2025;
 
 Tuesday, 22nd April, 2025.
 
-**QUESTIONS5.Question submitted by Councillor M. Donoghue*I will ask at the next Meeting of the Metropolitan District of Limerick if the Council has a Road**Hierarchy Map for the Metropolitan District of Limerick in place, and if not, when does the Council**anticipate generating such a map.*REPLY**: Limerick City and County Council is in discussions with the Roads Management Office (RMO)
+**QUESTIONS**
+
+**5.Question submitted by Councillor M. Donoghue**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick if the Council has a Road***
+
+***Hierarchy Map for the Metropolitan District of Limerick in place, and if not, when does the Council***
+
+***anticipate generating such a map.***
+
+**REPLY**: Limerick City and County Council is in discussions with the Roads Management Office (RMO)
 
 regarding the creation of online mapping which would provide this information. The RMO
 
@@ -91,7 +107,19 @@ are awaiting clarification from the RMO regarding confirmation that this service
 
 proceed and the timelines associated.
 
-**6.Question submitted by Councillor P. Doyle*I will ask at the next meeting of the Metropolitan District of Limerick**when will the Greenway**path from the University of Limerick / Plassey be extended to reach Castleconnell**and Montpelier**and will there be a path linking the new planned Park and Ride parking facility at the Mackey**Roundabout with this Greenway**so that UL staff and students could cycle into work and study**after parking their cars at the Mackey Roundabout**facility.*REPLY:** The UL to Montpelier Greenway project is currently nearing the end of the route selection
+**6.Question submitted by Councillor P. Doyle**
+
+***I will ask at the next meeting of the Metropolitan District of Limerick**when will the Greenway***
+
+***path from the University of Limerick / Plassey be extended to reach Castleconnell**and Montpelier***
+
+***and will there be a path linking the new planned Park and Ride parking facility at the Mackey***
+
+***Roundabout with this Greenway**so that UL staff and students could cycle into work and study***
+
+***after parking their cars at the Mackey Roundabout**facility.***
+
+**REPLY:** The UL to Montpelier Greenway project is currently nearing the end of the route selection
 
 process to identify an emerging preferred route. A number of key criteria are being used to
 
@@ -109,7 +137,13 @@ and connectivity between both facilities can be considered following the identif
 
 the preferred route of the greenway project.
 
-**7.Question submitted by Councillor C. Slattery*I will ask at the next Meeting of the Metropolitan District of Limerick what is the current update**with Our Lady Queen of Peace Community Centre.**I am aware the Council have received funds**to refurbish the Centre.**Have the Council an update on purchasing the property from the Diocese.***
+**7.Question submitted by Councillor C. Slattery**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick what is the current update***
+
+***with Our Lady Queen of Peace Community Centre.*** ***I am aware the Council have received funds***
+
+***to refurbish the Centre.*** ***Have the Council an update on purchasing the property from the Diocese.***
 ---
 3
 
@@ -119,7 +153,15 @@ for the Centre. The acquisition of the property has not been agreed but the Coun
 
 continue to engage with the Diocese in relation to this matter.
 
-**8.Question submitted by Councillor C. Slattery*I will ask at the next Meeting of the Metropolitan District of Limerick is there an update on The**Factory Youthspace Galvone in relation to them staying in the premises until a suitable location**is found.*REPLY**: Discussions have been ongoing in relation to extending the current arrangement with the
+**8.Question submitted by Councillor C. Slattery**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick is there an update on The***
+
+***Factory Youthspace Galvone in relation to them staying in the premises until a suitable location***
+
+***is found.***
+
+**REPLY**: Discussions have been ongoing in relation to extending the current arrangement with the
 
 owners of the premises VPK. An agreement has been reached with VPK to extend the
 
@@ -127,7 +169,15 @@ licence until August 2026. The Property Unit of the Council and VPK will review 
 
 agreement in December 2025.
 
-**9.Question submitted by Councillor J. Leddin*I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the**decluttering of unnecessary street signage including the former car park signs which have not**been in use for several years.*REPLY**: 49 signs were removed as part of the de-cluttering element of the Wayfinding & Orientation
+**9.Question submitted by Councillor J. Leddin**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the***
+
+***decluttering of unnecessary street signage including the former car park signs which have not***
+
+***been in use for several years.***
+
+**REPLY**: 49 signs were removed as part of the de-cluttering element of the Wayfinding & Orientation
 
 Signage Project and the pavement surface was reinstated.
 
@@ -137,7 +187,15 @@ remaining infrastructure to be refurbished or repurposed in future to support ob
 
 the new Limerick City Centre Transport Plan, subject to available funding for such a project.
 
-**10.Question submitted by Councillor J. Leddin*I will ask at the next Meeting of the Metropolitan District of Limerick for the Council to clarify the**criteria for corporate sponsorship of city roundabouts given the significant differences in the**quality and maintenance of the roundabouts.*REPLY:** The criteria for roundabout sponsorship requires the Sponsor to enter into a three year
+**10.Question submitted by Councillor J. Leddin**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for the Council to clarify the***
+
+***criteria for corporate sponsorship of city roundabouts given the significant differences in the***
+
+***quality and maintenance of the roundabouts.***
+
+**REPLY:** The criteria for roundabout sponsorship requires the Sponsor to enter into a three year
 
 Service Level Agreement, where the roundabout must be maintained to an acceptable
 
@@ -161,13 +219,25 @@ for seeking Expressions of Interest for future roundabout sponsorship.
 ---
 4
 
-***I will ask at the next Meeting of the Metropolitan District of Limerick for the Council to undertake**the repainting of the traffic islands and also include the cleaning of all the plaques on our city**bridges.*REPLY:** The Roads, Traffic and Cleansing Operation teams hope to complete cleaning of traffic
+***I will ask at the next Meeting of the Metropolitan District of Limerick for the Council to undertake***
+
+***the repainting of the traffic islands and also include the cleaning of all the plaques on our city***
+
+***bridges.***
+
+**REPLY:** The Roads, Traffic and Cleansing Operation teams hope to complete cleaning of traffic
 
 islands on approach to city bridges later this year. Plaque cleaning and repainting will also
 
 be considered once suitable weather conditions and resources become available.
 
-**12.Question submitted by Councillor E. Secas*I will ask at the next**Meeting of the Metropolitan District of Limerick for an outline of the plans**to implement the Bus Connects Limerick Network in the next 12 months.*REPLY**: Implementation of the improved services under BusConnects Network Redesign are to be
+**12.Question submitted by Councillor E. Secas**
+
+***I will ask at the next**Meeting of the Metropolitan District of Limerick for an outline of the plans***
+
+***to implement the Bus Connects Limerick Network in the next 12 months.***
+
+**REPLY**: Implementation of the improved services under BusConnects Network Redesign are to be
 
 delivered by Bus Eireann & the NTA. These improved services are expected to be made
 
@@ -185,7 +255,15 @@ Other parts of the BusConnects programme, like simpler fares, will be delivered 
 
 new bus network.
 
-**13.Question submitted by Councillor E. O’Donovan*I will ask at the next Meeting of the Metropolitan District of Limerick for the cost to Limerick**Council for illegally dumped waste in Limerick City on a yearly basis and the most frequent**locations for illegal dumping in Limerick Metropolitan area.*REPLY:** The clean up of illegally dumped rubbish in the Limerick Metropolitan Area is divided
+**13.Question submitted by Councillor E. O’Donovan**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for the cost to Limerick***
+
+***Council for illegally dumped waste in Limerick City on a yearly basis and the most frequent***
+
+***locations for illegal dumping in Limerick Metropolitan area.***
+
+**REPLY:** The clean up of illegally dumped rubbish in the Limerick Metropolitan Area is divided
 
 between three sections of the Council, Domestic Waste and Litter, Cleansing and
 
@@ -201,7 +279,7 @@ Regeneration - €69,666
 
 Domestic Waste & Litter (Anti Dumping Initiative) - €43,348.61
 
-**Total:€209,814.61** *This figure does not include staffing costs or plant hire*
+**Total:** **€209,814.61** *This figure does not include staffing costs or plant hire*
 
 In addition, €30,000 was spent on Bulky Waste Collections and the installation of CCTV in
 
@@ -217,7 +295,13 @@ Johnsgate, and Kilmallock Road.
 
 With the permission of the Cathaoirleach, the following Question was taken at the Meeting:
 
-**14.Question submitted by Councillor E. O’Donovan*I will ask at the next Meeting of the Metropolitan District of Limerick for a detailed expenditure**for Christmas in Limerick events 2024.*REPLY**: The expenditure below refers to event held in Limerick for Christmas held between 20th
+**14.Question submitted by Councillor E. O’Donovan**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for a detailed expenditure***
+
+***for Christmas in Limerick events 2024.***
+
+**REPLY**: The expenditure below refers to event held in Limerick for Christmas held between 20th
 
 November until 31st December.
 
@@ -225,7 +309,11 @@ The events are to animate the city centre, attract footfall and celebrate Christ
 
 Limerick.
 
-**Christmas in Limerick 2024ItemAmount incl. vat**
+**Christmas in Limerick 2024**
+
+**Item**
+
+**Amount incl. vat**
 
 Milestone Animation Public Realm
 
@@ -373,9 +461,25 @@ and Officials, and to meet as soon as possible in relation to planning of events
 
 Limerick 2025.
 
-**15.Question submitted by Councillor E. O’Donovan*I will ask at the next Meeting of the Metropolitan District of Limerick how much Limerick Council**has collected in derelict site levies in the past 12 months in Limerick City West, Limerick City East**and Limerick City North.*REPLY:** The total amount of levies collected in 2024 is €648,268.48.
+**15.Question submitted by Councillor E. O’Donovan**
 
-**16.Question submitted by Councillor S. Beasley*I will ask at the next Meeting of the Metropolitan District of Limerick for a breakdown of families**that were in emergency accommodation from 1st November 2024 to 1st January 2025 including**children.*REPLY:** This information is published monthly in the Director General’s report.
+***I will ask at the next Meeting of the Metropolitan District of Limerick how much Limerick Council***
+
+***has collected in derelict site levies in the past 12 months in Limerick City West, Limerick City East***
+
+***and Limerick City North.***
+
+**REPLY:** The total amount of levies collected in 2024 is €648,268.48.
+
+**16.Question submitted by Councillor S. Beasley**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick for a breakdown of families***
+
+***that were in emergency accommodation from 1st November 2024 to 1st January 2025 including***
+
+***children.***
+
+**REPLY:** This information is published monthly in the Director General’s report.
 
 November and December’s reports are available on Limerick.ie and the extracts from both
 
@@ -387,7 +491,15 @@ December’s report shows an increase of 3 Families on the previous month.
 ---
 7
 
-**17.Question submitted by Councillor U. Gavan*I will ask at the next Meeting of the Metropolitan District of Limerick what portion of the 8 acre**Cleeves Site will be occupied by TUS. Is there any other community/cultural/residential plans for**the site.*REPLY:**
+**17.Question submitted by Councillor U. Gavan**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick what portion of the 8 acre***
+
+***Cleeves Site will be occupied by TUS. Is there any other community/cultural/residential plans for***
+
+***the site.***
+
+**REPLY:**
 
 Limerick Twenty Thirty prepared a Master Plan for the 10 acre Cleeves Riverside Quarter site
 
@@ -480,7 +592,13 @@ Riverside Quarter.
 ---
 9
 
-***I will ask at the next Meeting of the Metropolitan District of Limerick what is the timeline for the**Park and Ride at the Mackey Roundabout and have plans progressed for another by Ballysimon**to alleviate congestion.*REPLY:** Limerick City and County Council is currently working with the NTA Park and Ride team to
+***I will ask at the next Meeting of the Metropolitan District of Limerick what is the timeline for the***
+
+***Park and Ride at the Mackey Roundabout and have plans progressed for another by Ballysimon***
+
+***to alleviate congestion.***
+
+**REPLY:** Limerick City and County Council is currently working with the NTA Park and Ride team to
 
 deliver a Park and Ride facility in close proximity to the Mackey Roundabout Junction on
 
@@ -490,11 +608,19 @@ hoped that Planning will be submitted for this site in 2025.
 
 Options are currently being looked at for a Park and Ride site at Ballysimon.
 
-**19.Question submitted by Councillor S. Hickey-O’Mara*I will ask at the next Meeting of the Metropolitan District of Limerick that this Council provide an**anticipated timeline for the progression of the Coonagh-Knockalisheen Distributor Road now that**the project has been awarded to Wills Bros Ltd.***
+**19.Question submitted by Councillor S. Hickey-O’Mara**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick that this Council provide an***
+
+***anticipated timeline for the progression of the Coonagh-Knockalisheen Distributor Road now that***
+
+***the project has been awarded to Wills Bros Ltd.***
 
  ***When will work begin.***
 
- ***Is there an anticipated date of completion.*REPLY:** The Coonagh to Knockalisheen Distributor Road Contract was awarded to Wills Bros Ltd on
+ ***Is there an anticipated date of completion.***
+
+**REPLY:** The Coonagh to Knockalisheen Distributor Road Contract was awarded to Wills Bros Ltd on
 
 18th December 2024. In accordance with the requirements in the contract, Wills Bros Ltd
 
@@ -504,7 +630,13 @@ Once the programme of works is received and approved, local residents meetings w
 
 held and regular updates will be issued.
 
-**20.Question submitted by Councillor S. Hickey-O’Mara*I will ask at the next Meeting of the Metropolitan District of Limerick that this Council provide an**update on water quality at the Corbally Baths.*REPLY:** In relation to water quality monitoring at Corbally Baths, Limerick City and County Council
+**20.Question submitted by Councillor S. Hickey-O’Mara**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick that this Council provide an***
+
+***update on water quality at the Corbally Baths.***
+
+**REPLY:** In relation to water quality monitoring at Corbally Baths, Limerick City and County Council
 
 undertakes sampling fortnightly during the bathing season (June 1st to 15th September) and
 
@@ -518,7 +650,13 @@ satisfying the limits set out in the Bathing Water Regulations. However, an impr
 
 in microbiological results was noted in 2024 compared to previous years.
 
-**21.Question submitted by Councillor S. Hickey-O’Mara*I will ask at the next Meeting of the Metropolitan District of Limerick that this Council provides**an update on air quality across Limerick City North.*REPLY:**
+**21.Question submitted by Councillor S. Hickey-O’Mara**
+
+***I will ask at the next Meeting of the Metropolitan District of Limerick that this Council provides***
+
+***an update on air quality across Limerick City North.***
+
+**REPLY:**
 
 The EPA indicate that the main air quality pollutants across Ireland are fine particulate matter
 
@@ -530,7 +668,31 @@ national ambient air quality monitoring network) near the Limerick North Metropo
 
 these parameters are good and meet EU norms (**Table 1**).
 
-**Table 1. Air quality levels at Henry Street for 2024 for particulate matter and nitrogen dioxide.Parameter ->PM10(µg/m3)PM2.5(µg/m3)NO2(µg/m3)Henry Street(2024)12.06.913.6**
+**Table 1. Air quality levels at Henry Street for 2024 for particulate matter and nitrogen dioxide.**
+
+**Parameter ->**
+
+**PM10**
+
+**(µg/m3)**
+
+**PM2.5**
+
+**(µg/m3)**
+
+**NO2**
+
+**(µg/m3)**
+
+**Henry Street**
+
+**(2024)**
+
+**12.0**
+
+**6.9**
+
+**13.6**
 
 Ireland Air Quality Standard
 
@@ -578,7 +740,15 @@ The results of real-time online air quality monitoring for the Limerick Metropol
 
 found at www.airquality.ie.
 
-**NOTICES OF MOTION22.Notice of Motion submitted by Councillor C. Slattery*I will move at the next Meeting of the Metropolitan District of Limerick that the Roads Engineers**come up with a solution to alleviate traffic congestion on the Childers Road from the Tipperary**Roundabout to the Parkway Roundabout.***
+**NOTICES OF MOTION**
+
+**22.Notice of Motion submitted by Councillor C. Slattery**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that the Roads Engineers***
+
+***come up with a solution to alleviate traffic congestion on the Childers Road from the Tipperary***
+
+***Roundabout to the Parkway Roundabout.***
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Pond and
 
@@ -626,19 +796,47 @@ area (as with a number of other similar areas around the City) to make necessary
 
 for the improved transport initiatives underway and planned.
 
-**23.Notice of Motion submitted by Councillor J. Leddin (to be referred to the Home and SocialDevelopment Strategic Policy Committee)*I will move at the next Meeting of the Metropolitan District of Limerick that the Council invite the**Land Development Agency to a meeting to receive an update on what funding was secured for**LDA sites in Limerick from the national budget and to provide an update on each site and**timeframe for planning applications.***
+**23.Notice of Motion submitted by Councillor J. Leddin (to be referred to the Home and Social**
+
+**Development Strategic Policy Committee)**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that the Council invite the***
+
+***Land Development Agency to a meeting to receive an update on what funding was secured for***
+
+***LDA sites in Limerick from the national budget and to provide an update on each site and***
+
+***timeframe for planning applications.***
 
 It was agreed to refer this Notice of Motion to the Home and Social Development Strategic Policy
 
 Committee.
 
-**24.Notice of Motion submitted by Councillor J. Leddin (to be referred to the EconomicDevelopment, Enterprise, Tourism and Planning Strategic Policy Committee)*I will move at the next Meeting of the Metropolitan District of Limerick that the Council calls on**the Government to provide additional financial incentives and supports to encourage the owners**of unoccupied properties located in the city centre to redevelop for commercial and or residential**purposes.***
+**24.Notice of Motion submitted by Councillor J. Leddin (to be referred to the Economic**
+
+**Development, Enterprise, Tourism and Planning Strategic Policy Committee)**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that the Council calls on***
+
+***the Government to provide additional financial incentives and supports to encourage the owners***
+
+***of unoccupied properties located in the city centre to redevelop for commercial and or residential***
+
+***purposes.***
 
 It was agreed to refer this Notice of Motion to the Economic Development, Enterprise, Tourism and
 
 Planning Strategic Policy Committee.
 
-**25.Notice of Motion submitted by Councillor E. O’Donovan*I will move at the next Meeting of the Metropolitan District of Limerick that this Council carries**out a full review of disabled parking spaces in Limerick City to ensure there is appropriate dished**kerbs and appropriate road markings to enable wheelchair users to safely enter and exit their**vehicles.***
+**25.Notice of Motion submitted by Councillor E. O’Donovan**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that this Council carries***
+
+***out a full review of disabled parking spaces in Limerick City to ensure there is appropriate dished***
+
+***kerbs and appropriate road markings to enable wheelchair users to safely enter and exit their***
+
+***vehicles.***
 
 The Notice of Motion was proposed by Councillor O’Donovan, seconded by Councillor Hickey-
 
@@ -660,13 +858,25 @@ if required, a remedial action plan will be coordinated through the Metropolitan
 
 Office. There are approximately 214 disabled parking spaces in Limerick City.
 
-**26.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and SocialDevelopment Strategic Policy Committee)*I will move at the next Meeting of the Metropolitan District of Limerick that there should be no**more undignified ‘open mic’ discussions at the Homeless Action Teams facility in Limerick.***
+**26.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
+
+**Development Strategic Policy Committee)**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that there should be no***
+
+***more undignified ‘open mic’ discussions at the Homeless Action Teams facility in Limerick.***
 
 It was agreed to refer this Notice of Motion to the Home and Social Development Strategic Policy
 
 Committee.
 
-**27.Notice of Motion submitted by Councillor F. Kilcoyne*I will move at the next**Meeting of the Metropolitan District of Limerick that the Local Authority**consider reversing the one-way traffic system at Foxes Bow to allow traffic flow across to William**Street from Thomas Street to alleviate traffic congestion.***
+**27.Notice of Motion submitted by Councillor F. Kilcoyne**
+
+***I will move at the next**Meeting of the Metropolitan District of Limerick that the Local Authority***
+
+***consider reversing the one-way traffic system at Foxes Bow to allow traffic flow across to William***
+
+***Street from Thomas Street to alleviate traffic congestion.***
 
 The Notice of Motion was proposed by Councillor Kilcoyne, seconded by Councillor Leddin and
 
@@ -698,7 +908,11 @@ narrow street and adjacent laneways. An alternative route from Thomas Street to 
 
 Street is along Wickham Street which is 67m to the east of Fox’s Bow.
 
-**28.Notice of Motion submitted by Councillor S. Hickey-O’Mara*I will move at the next Meeting of the Metropolitan District of Limerick that this Council return**to operating their Mobile Library Service in Caherdavin.***
+**28.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that this Council return***
+
+***to operating their Mobile Library Service in Caherdavin.***
 
 The Notice of Motion was proposed by Councillor Hickey-O’Mara, seconded by Councillor
 
@@ -734,7 +948,17 @@ The City and County Librarian agreed to send information to Members on the Homeb
 
 Service.
 
-**29.Notice of Motion submitted by Councillor S. Hickey-O’Mara*I will move at the next Meeting of the Metropolitan District of Limerick that this Council profiles**dogs in the care of Limerick Dog Shelter, for whom it is not possible to rehome to animal**sanctuaries, on the Limerick Council website and that Limerick Dog Shelter expand its presence**across social media platforms in addition to their current presence on Facebook in order to further**inform the public of all dogs currently in its care.***
+**29.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that this Council profiles***
+
+***dogs in the care of Limerick Dog Shelter, for whom it is not possible to rehome to animal***
+
+***sanctuaries, on the Limerick Council website and that Limerick Dog Shelter expand its presence***
+
+***across social media platforms in addition to their current presence on Facebook in order to further***
+
+***inform the public of all dogs currently in its care.***
 
 The Notice of Motion was proposed by Councillor Hickey-O’Mara, seconded by Councillor
 
@@ -764,7 +988,13 @@ presence, sharing individual cases from the shelter and highlighting the work be
 
 the team, in line with the LCCC social media policy
 
-**30.Notice of Motion submitted by Councillor O. O’Sullivan*I will move at the next Meeting of the Metropolitan District of Limerick that that this Council**purchase portable grit bins for Limerick City to facilitate access to salt-grit for residents or**businesses where footpaths are badly affected in freezing weather.***
+**30.Notice of Motion submitted by Councillor O. O’Sullivan**
+
+***I will move at the next Meeting of the Metropolitan District of Limerick that that this Council***
+
+***purchase portable grit bins for Limerick City to facilitate access to salt-grit for residents or***
+
+***businesses where footpaths are badly affected in freezing weather.***
 
 The Notice of Motion was proposed by Councillor O’Sullivan, seconded by Councillor Secas and
 
@@ -796,5 +1026,9 @@ Correspondence was noted and taken as read.
 
 This concluded the Meeting.
 
-**Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_CATHAOIRLEACHDated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**CATHAOIRLEACH**
+
+**Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 ---

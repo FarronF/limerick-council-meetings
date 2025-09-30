@@ -3,7 +3,13 @@
 ---
 1
 
-**Minutes of the Meeting of Limerick City and County Council’s Travel and TransportationStrategic Policy Committee held on 8thApril 2025 at 3:00 p.m. in the Council Chamber,Dooradoyle and ONLINE by MS Teams Video Conference.Members Present:** Cllrs. Teefy (Chair), Butler, Conway, Doyle, Kilcoyne, Gavan, Hartigan,
+**Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
+
+**Strategic Policy Committee held on 8th** **April 2025 at 3:00 p.m. in the Council Chamber,**
+
+**Dooradoyle and ONLINE by MS Teams Video Conference.**
+
+**Members Present:** Cllrs. Teefy (Chair), Butler, Conway, Doyle, Kilcoyne, Gavan, Hartigan,
 
 O’Donoghue, O’Donovan, E. Ryan, M. Ryan, T. Ruddle, Teskey.
 
@@ -29,7 +35,11 @@ on provision of salt to Resident’s Associations during extreme weather conditi
 
 the agenda for subsequent SPC meetings.
 
-**Item 2:Notice of Motion submitted by Farron Flaherty, Dan O’Neill &Seán Golden, (LimerickCycling Campaign, ICTU/SIPTU and Limerick Chamber)–Enhancement of Bus Services in Raheen and Mungret Areas**
+**Item 2:** **Notice of Motion submitted by Farron Flaherty, Dan O’Neill &** **Seán Golden, (Limerick**
+
+**Cycling Campaign, ICTU/SIPTU and Limerick Chamber)** **–**
+
+**Enhancement of Bus Services in Raheen and Mungret Areas**
 
 We request that the Travel and Transportation Strategic Policy Committee of Limerick City and
 
@@ -211,7 +221,7 @@ The Chair agreed that it is beyond urgent and suggested that rural services also
 
 agenda for a subsequent meeting. Mr. McGrath agreed to follow up.
 
-**Item 3: Limerick City Centre Transport Plan Update–Mr. Hugh McGrath A/D.O.S:**
+**Item 3: Limerick City Centre Transport Plan Update** **–** **Mr. Hugh McGrath A/D.O.S:**
 
 Mr. McGrath confirmed that the Transport Plan comes out of the Limerick Shannon Metropolitan
 
@@ -357,7 +367,9 @@ local link, there are synergies there and it probably merits another discussion.
 
 update on strategy.
 
-**Item 4: Presentation of the Active Travel Interactive Map–Toby Goodwin, BehaviouralScientist.**
+**Item 4: Presentation of the Active Travel Interactive Map** **–** **Toby Goodwin, Behavioural**
+
+**Scientist.**
 
 Mr. Toby Goodwin delivered a presentation on the Limerick Active Travel Interactive Map
 

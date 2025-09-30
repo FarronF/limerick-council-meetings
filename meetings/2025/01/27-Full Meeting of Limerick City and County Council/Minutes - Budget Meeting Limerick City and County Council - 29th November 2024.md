@@ -205,7 +205,11 @@ targeted will unlock projects long in gestation and identified in the mayoral pr
 
 help small and local businesses.
 
-**It was then unanimously agreed that theMayor’sReport on the Draft Budget 2025, ascirculated to Members, would be read into the Minutes of the Meeting as follows:“Introduction**
+**It was then unanimously agreed that the** **Mayor’s** **Report on the Draft Budget 2025, as**
+
+**circulated to Members, would be read into the Minutes of the Meeting as follows:**
+
+**“Introduction**
 ---
 4
 
@@ -243,7 +247,7 @@ The budget process for the preparation, consideration and adoption of the budget
 
 statutory compliance with a number of steps, which can be summarised as follows:
 
-***Step 1**–**Preparation and publishing of Mayoral Programme.*** The Mayoral Programme was
+***Step 1*** ***–*** ***Preparation and publishing of Mayoral Programme.*** The Mayoral Programme was
 
 prepared and published as set out in Section 31 of the Local Government (Mayor of Limerick)
 
@@ -251,7 +255,9 @@ and Miscellaneous Provisions Act 2024. The Mayoral Programme outlines the Mayor�
 
 objectives and priorities for his term of office.
 
-***Step 2 - Decision by the Council on the adjustment factor to the Local Property Tax (LPT)**following a public consultation process.*** This decision was made at the Council Meeting on
+***Step 2 - Decision by the Council on the adjustment factor to the Local Property Tax (LPT)***
+
+***following a public consultation process.*** This decision was made at the Council Meeting on
 
 the 23rd September 2024 to leave the LPT adjustment factor at the 2024 levels for 2025.
 
@@ -275,7 +281,9 @@ Adare / Rathkeale Municipal District
 
 12th November
 
-***Step 4 - Consultation with the Corporate Policy Group (CPG) and adoption of the Draft**Budget by Council.*** Initial CPG meeting held on 16th September. Budget Strategy presented
+***Step 4 - Consultation with the Corporate Policy Group (CPG) and adoption of the Draft***
+
+***Budget by Council.*** Initial CPG meeting held on 16th September. Budget Strategy presented
 
 to CPG Meeting held on the 21st October with further meeting held on the 18th November.
 
@@ -283,7 +291,9 @@ The Statutory Budget meeting is scheduled for 29th November with budget workshop
 
 Councillors to be held on the 11th November and 22nd November.
 
-***Step 5 - Consideration and adoption of the schedule of Municipal works by each of the**Metropolitan / Municipal Districts.*** These meetings will be convened in early 2025 following
+***Step 5 - Consideration and adoption of the schedule of Municipal works by each of the***
+
+***Metropolitan / Municipal Districts.*** These meetings will be convened in early 2025 following
 
 the adoption of the Budget.
 ---
@@ -433,7 +443,9 @@ uncertainty – in part the result of a more fractious geopolitical environment 
 
 the view that the future could be very different from the recent past.
 
-Against this backdrop, a ***key macroeconomic objective of national Budget 2025*** is to ***support**the supply-side of the economy***, by increasing capital expenditure to address existing
+Against this backdrop, a ***key macroeconomic objective of national Budget 2025*** is to ***support***
+
+***the supply-side of the economy***, by increasing capital expenditure to address existing
 
 infrastructural deficits, including the shortfall of housing output relative to population needs.
 
@@ -487,13 +499,17 @@ small number of sectors (ICT, pharma-chem). This sectoral-level concentration cr
 
 vulnerability for the domestic economy via employment, wages and corporate tax revenues.
 
-Turning to the ***national**budgetary situation***, a general government surplus of €23.7 billion is
+Turning to the ***national*** ***budgetary situation***, a general government surplus of €23.7 billion is
 
 projected for this year, the equivalent of 7.5 per cent of Gross National Income (GNI). This
 
 figure includes the one-off transfer to the State arising from the Court of Justice of the
 
-European Union ruling in September. ***Excluding the impact of this transfer, as well as the**Depar**tment’s estimate of windfall corporate tax receipts, there would be an underlying**fiscal deficit of around €6.3 billion (2 per cent of GNI) for this year.***
+European Union ruling in September. ***Excluding the impact of this transfer, as well as the***
+
+***Depar**tment’s estimate of windfall corporate tax receipts, there would be an underlying***
+
+***fiscal deficit of around €6.3 billion (2 per cent of GNI) for this year.***
 
 As the overall stance of macroeconomic policy adjusts – via a tightening of monetary policy
 
@@ -501,13 +517,17 @@ and the gradual withdrawal of fiscal support – ***global growth has slowed***.
 
 immune from these trends, with trade a key transmission channel from the international to
 
-the domestic economy. In other words, ***lower external demand is weighing on export**growth***. This impact is amplified by a number of sector-specific adjustments taking place in
+the domestic economy. In other words, ***lower external demand is weighing on export***
+
+***growth***. This impact is amplified by a number of sector-specific adjustments taking place in
 
 some multinational-dominated sectors, such as reduced demand for Covid-related products
 
 in the pharma sector. Sub-sectors such as semi-conductors have also posted lower foreign
 
-sales, as have exports related to “contract manufacturing”. As a result, ***exports and GDP**growth are revised down for this year and next year***.
+sales, as have exports related to “contract manufacturing”. As a result, ***exports and GDP***
+
+***growth are revised down for this year and next year***.
 
 For ***domestic demand***, incoming data are sending mixed signals. On the one hand, the
 
@@ -603,7 +623,21 @@ Finance's budget for 2025.
 
 *stated)*
 
-**202320242025202620272028*Economic Activity**% change (unless stated)***
+**2023**
+
+**2024**
+
+**2025**
+
+**2026**
+
+**2027**
+
+**2028**
+
+***Economic Activity***
+
+***% change (unless stated)***
 
 Real GDP
 
@@ -925,7 +959,9 @@ accrue to the Council.
 ---
 12
 
-***The Key Objectives of the 2025 Revenue Budget are set out below:*Housing and Regeneration**
+***The Key Objectives of the 2025 Revenue Budget are set out below:***
+
+**Housing and Regeneration**
 
  Additional resources for the maintenance budget to meet the ongoing demands of our social
 
@@ -995,7 +1031,9 @@ key partners and the Southern Regional Assembly.
 ---
 13
 
-***The key objectives of the 2025 Revenue Budget are set out below:*1.Housing & Regeneration**
+***The key objectives of the 2025 Revenue Budget are set out below:***
+
+**1.Housing & Regeneration**
 
  Progress all avenues to increase housing supply in Limerick
 
@@ -1249,7 +1287,11 @@ expenditure is matched by a corresponding income, it has no net effect on the Bu
 
 Provisions. The following Table 2 depicts Revenue expenditure by Division.
 
-**DivisionDraft Budget 2025Adopted Budget 2024**
+**Division**
+
+**Draft Budget 2025**
+
+**Adopted Budget 2024**
 
 A - Housing & Building
 
@@ -1305,7 +1347,11 @@ H - Misc Services
 
 €16,056,951
 
-**€926,602,654€942,789,672Table 2: Analysis of Expenditure by Division**
+**€926,602,654**
+
+**€942,789,672**
+
+**Table 2: Analysis of Expenditure by Division**
 ---
 16
 
@@ -1321,7 +1367,41 @@ Division, with comparative figures for 2024:
 
 (Image omitted)
 
-**H - Misc ServicesG - Agri, Ed, Health & WelfareF - Recreation & AmenityE - Environmental ServicesD - Development MgtC - Water ServicesB - Road Transport & SafetyA - Housing & Building1.9%0.1%2.1%5.1%3.7%1.8%5.9%8.4%Draft Budget 2025 - Analysis of Expenditure(excl HAP 71%)**
+**H - Misc Services**
+
+**G - Agri, Ed, Health & Welfare**
+
+**F - Recreation & Amenity**
+
+**E - Environmental Services**
+
+**D - Development Mgt**
+
+**C - Water Services**
+
+**B - Road Transport & Safety**
+
+**A - Housing & Building**
+
+**1.9%**
+
+**0.1%**
+
+**2.1%**
+
+**5.1%**
+
+**3.7%**
+
+**1.8%**
+
+**5.9%**
+
+**8.4%**
+
+**Draft Budget 2025 - Analysis of Expenditure**
+
+**(excl HAP 71%)**
 
 (Image omitted)
 
@@ -1343,7 +1423,93 @@ Division, with comparative figures for 2024:
 
 €80.00
 
-**A -Housing &BuildingB - RoadTransport& SafetyC - WaterServicesD -Development MgtE -EnvironmentalServicesF -Recreation &AmenityG - Agri,Ed, Health& WelfareH - MiscServicesDraft Budget 2025 €'m€77.73€54.55€16.52€34.38€47.14€19.89€1.35€18.57Adopted Budget 2024 €'m€67.61€52.65€16.96€29.96€46.48€18.09€1.28€16.06Analysis of Expenditure by Division(Excl HAP)**
+**A -**
+
+**Housing &**
+
+**Building**
+
+**B - Road**
+
+**Transport**
+
+**& Safety**
+
+**C - Water**
+
+**Services**
+
+**D -**
+
+**Developm**
+
+**ent Mgt**
+
+**E -**
+
+**Environm**
+
+**ental**
+
+**Services**
+
+**F -**
+
+**Recreatio**
+
+**n &**
+
+**Amenity**
+
+**G - Agri,**
+
+**Ed, Health**
+
+**& Welfare**
+
+**H - Misc**
+
+**Services**
+
+**Draft Budget 2025 €'m**
+
+**€77.73**
+
+**€54.55**
+
+**€16.52**
+
+**€34.38**
+
+**€47.14**
+
+**€19.89**
+
+**€1.35**
+
+**€18.57**
+
+**Adopted Budget 2024 €'m**
+
+**€67.61**
+
+**€52.65**
+
+**€16.96**
+
+**€29.96**
+
+**€46.48**
+
+**€18.09**
+
+**€1.28**
+
+**€16.06**
+
+**Analysis of Expenditure by Division**
+
+**(Excl HAP)**
 ---
 17
 
@@ -1351,7 +1517,9 @@ Division, with comparative figures for 2024:
 
 The level of expenditure shown above, at €926.6million, will be financed from the following
 
-**SourceAmount**
+**Source**
+
+**Amount**
 
 1. Local Property Tax
 
@@ -1385,7 +1553,11 @@ Sub Total HAP
 
 €656,523,385
 
-**Total including HAP€926,602,654Table 3: Analysis of Draft Budget 2025 Income**
+**Total including HAP**
+
+**€926,602,654**
+
+**Table 3: Analysis of Draft Budget 2025 Income**
 
 The following Pie chart highlights the % split by income category excluding HAP.
 
@@ -1393,7 +1565,35 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 (Image omitted)
 
-**Local PropertyTax8%CommercialRates25%Grants &Subsidies (net ofHAP)44%Goods &Services (net ofHAP)23%Analysis of Income (excluding HAP)**
+**Local Property**
+
+**Tax**
+
+**8%**
+
+**Commercial**
+
+**Rates**
+
+**25%**
+
+**Grants &**
+
+**Subsidies (net of**
+
+**HAP)**
+
+**44%**
+
+**Goods &**
+
+**Services (net of**
+
+**HAP)**
+
+**23%**
+
+**Analysis of Income (excluding HAP)**
 ---
 18
 
@@ -1403,7 +1603,9 @@ Rates (25%), LPT (8%) and Goods & Services (23%).
 
 Comparative figures for Budgets 2025 and 2024 are shown hereunder.
 
-**Chart 4: Analysis of Income: Draft Budget 2025 v’s Budget 2024Goods and Services Income**
+**Chart 4: Analysis of Income: Draft Budget 2025 v’s Budget 2024**
+
+**Goods and Services Income**
 
 Goods and Services income excluding HAP income for Draft Budget 2025 is €61.24m and is
 
@@ -1433,7 +1635,63 @@ Budget 2024).
 
 (Image omitted)
 
-**LocalProperty TaxCommercialRatesGrants &Subsidies (netof HAP)Goods &Services (netof HAP)HAPDifferentialRentHAP Subsidyfrom DHPCLG€21.41€69.12€118.31€61.24€157.50€499.03€21.33€64.18€104.80€58.70€161.50€532.28Draft Budget 2025 €'mAdopted Budget 2024 €'m**
+**Local**
+
+**Property Tax**
+
+**Commercial**
+
+**Rates**
+
+**Grants &**
+
+**Subsidies (net**
+
+**of HAP)**
+
+**Goods &**
+
+**Services (net**
+
+**of HAP)**
+
+**HAP**
+
+**Differential**
+
+**Rent**
+
+**HAP Subsidy**
+
+**from DHPCLG**
+
+**€21.41**
+
+**€69.12**
+
+**€118.31**
+
+**€61.24**
+
+**€157.50**
+
+**€499.03**
+
+**€21.33**
+
+**€64.18**
+
+**€104.80**
+
+**€58.70**
+
+**€161.50**
+
+**€532.28**
+
+**Draft Budget 2025 €'m**
+
+**Adopted Budget 2024 €'m**
 ---
 19
 
@@ -1461,7 +1719,9 @@ Stability Agreement and assumed pay increases for 2025 (pending national pay-tal
 
 is noted at €18.96m in Draft Budget 2025 (increase of €4.68m compared to 2024 due
 
-to pay increases in 2024 & 2025). ***The Department have not confirmed the actual**compensation amount for Retained Firefighters increased pay for 2025***, and it is
+to pay increases in 2024 & 2025). ***The Department have not confirmed the actual***
+
+***compensation amount for Retained Firefighters increased pay for 2025***, and it is
 
 assumed for the purposes of Draft Budget 2025 such pay increases are fully funded by
 
@@ -1533,11 +1793,17 @@ The 2025 allocation from the Local Property Tax and the calculation provided by 
 
 on the basis of this allocation is set out in ***Table 4*** below:
 
-***Limerick City and County Council - 2025 LPT Allocation*LPT Retained Locally 100%**
+***Limerick City and County Council - 2025 LPT Allocation***
+
+**LPT Retained Locally 100%**
 
 €15,676,454
 
-**2025 Baseline€19,054,4642025 Shortfall (LPT retained locally -2025 Baseline)**
+**2025 Baseline**
+
+**€19,054,464**
+
+**2025 Shortfall (LPT retained locally -2025 Baseline)**
 
 -€3,378,010
 
@@ -1545,11 +1811,21 @@ on the basis of this allocation is set out in ***Table 4*** below:
 
 €3,378,010
 
-**Total LPT Funding to be provided in 2025€19,054,46415% increase in LPT rate**
+**Total LPT Funding to be provided in 2025**
+
+**€19,054,464**
+
+**15% increase in LPT rate**
 
 €2,351,468
 
-**Revised LPT Allocation 2025€21,405,932Table 4: LPT Reconciliation 2025Commercial Rates**
+**Revised LPT Allocation 2025**
+
+**€21,405,932**
+
+**Table 4: LPT Reconciliation 2025**
+
+**Commercial Rates**
 
 Commercial Rates is a significant contributor to the total budgeted income for the Council
 
@@ -1601,7 +1877,9 @@ accordance with Section 66 of the Local Government Act, 2001, as amended by Sect
 
 the Local Government Reform Act, 2014 as outlined in Table 5 below:
 
-**Band% Refund**
+**Band**
+
+**% Refund**
 
 Up to €12,000 Annual Rate Demand (with payment of
 
@@ -1621,7 +1899,9 @@ Over €60,001 Annual Rate Demand (with payment of
 
 0%
 
-**Table 5: Vacant Property Scheme 2025Small and Medium Business Support Scheme 2025 (SME Scheme)**
+**Table 5: Vacant Property Scheme 2025**
+
+**Small and Medium Business Support Scheme 2025 (SME Scheme)**
 
 The proposed Small and Medium Business Support scheme will pay a financial support to
 
@@ -1827,7 +2107,47 @@ housing supply. Below please find a summary of potential recommended spend and s
 
 of funding for the 5 year capital plan 2025-2029 as of this year.
 
-**CapitalExpenditure2025 -2029GrantfundedLoanfundedDevelopmentLevy FundedRevenueFundedMayoralFund/NationalGovernmentFundingSourceOther (LandSales /Contributors/ICRs)**
+**Capital**
+
+**Expenditure**
+
+**2025 -2029**
+
+**Grant**
+
+**funded**
+
+**Loan**
+
+**funded**
+
+**Development**
+
+**Levy Funded**
+
+**Revenue**
+
+**Funded**
+
+**Mayoral**
+
+**Fund/**
+
+**National**
+
+**Government**
+
+**Funding**
+
+**Source**
+
+**Other (Land**
+
+**Sales /**
+
+**Contributors/**
+
+**ICRs)**
 
 €m
 
@@ -1865,7 +2185,29 @@ Chart 6 profiles the Capital Expenditure for each of the five years:
 
 (Image omitted)
 
-**20252026202720282029€756.38€968.64€725.98€724.51€989.80Capital Expenditure 2025-2029 by Year€'m**
+**2025**
+
+**2026**
+
+**2027**
+
+**2028**
+
+**2029**
+
+**€756.38**
+
+**€968.64**
+
+**€725.98**
+
+**€724.51**
+
+**€989.80**
+
+**Capital Expenditure 2025-2029 by Year**
+
+**€'m**
 ---
 25
 
@@ -2225,7 +2567,9 @@ The following amended Vacant Property Refund Scheme is proposed for 2025
 
 subject to the terms and conditions of the scheme:
 
-**Band% Refund**
+**Band**
+
+**% Refund**
 ---
 30
 
@@ -2269,13 +2613,21 @@ between €1 and €30,000 in 2025, subject to the Scheme being approved by Coun
 
 on the basis of the following parameters:
 
- **The support payment aimed specifically at small and medium-sized businesseswill be 13.5% of 2025 rates subject to a maximum limit of €1,500.**
+ **The support payment aimed specifically at small and medium-sized businesses**
 
- **Occupiers of formerly Vacant premises would get a 50% Refund of CommercialRates in the first year of occupation subject to a maximum refund of €10,000.**
+**will be 13.5% of 2025 rates subject to a maximum limit of €1,500.**
+
+ **Occupiers of formerly Vacant premises would get a 50% Refund of Commercial**
+
+**Rates in the first year of occupation subject to a maximum refund of €10,000.**
 
 Schedule of amendments to the Budget originally proposed:
 
-**Schedule of Amendments(Decrease)/Increaseexpenditure**
+**Schedule of Amendments**
+
+**(Decrease)/Increase**
+
+**expenditure**
 
 No increase in commercial Rates (reduction in Income)
 

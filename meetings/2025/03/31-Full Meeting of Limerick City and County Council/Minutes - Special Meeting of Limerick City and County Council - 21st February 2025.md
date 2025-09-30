@@ -123,7 +123,9 @@ especially Office of Public Works building;
 
 and County Council.
 ---
-**3Innovate Limerick DAC**
+**3**
+
+**Innovate Limerick DAC**
 
  Work on a new strategy is required once minority shareholding of Enterprise Ireland
 
@@ -325,7 +327,9 @@ element may be lost, while other Members looked forward to seeing the report fol
 
 governance review.
 
-The Head of Innovate Limerick DAC, gave a brief outline on the key objectives of the **InnovateLimerick DAC** as follows:
+The Head of Innovate Limerick DAC, gave a brief outline on the key objectives of the **Innovate**
+
+**Limerick DAC** as follows:
 
  It was noted that the Board of Innovate Limerick needs to be broadened and
 
@@ -423,7 +427,7 @@ extending between Holycross and Grange Church at Lough Gur.
 
 Director of Planning and Place-making, gave a brief outline on the key objectives of the
 
-**LimerickTwenty Thirty DAC** as follows:
+**Limerick** **Twenty Thirty DAC** as follows:
 
  Its role is to plan and develop key strategic sites in Limerick City and County.
 
@@ -437,5 +441,13 @@ Square and Gardens International;
 
 This concluded the Meeting.
 
-**Signed:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Príomh ChomhairleoirDate:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**Signed:**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Príomh Chomhairleoir**
+
+**Date:**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 ---
