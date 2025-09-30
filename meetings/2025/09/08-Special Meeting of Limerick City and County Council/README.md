@@ -8,5 +8,5 @@
 
 Files: 
 
-Agenda and Requisition - Special Meeting of Limerick City and County Council - 8th September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda.pdf) - [Extracted text](./Agenda%20and%20Requisition%20-%C2%A0Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%208th%20September%202025.md)
+Agenda and Requisition - Special Meeting of Limerick City and County Council - 8th September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda.pdf) - Text not extracted
 

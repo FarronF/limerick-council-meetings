@@ -8,9 +8,9 @@
 
 Files: 
 
-Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 17th June 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-june-2025.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20June%202025.md)
+Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 17th June 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-june-2025.pdf) - Text not extracted
 
-Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 15th May 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-may-2025.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2015th%20May%202025.md)
+Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 15th May 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-may-2025.pdf) - Text not extracted
 
 Proposed Disposal of Property at Grange, Kilmallock, Co. Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/proposed-disposal-of-property-at-grange-kilmallock-co-limerick.pdf) - Text not extracted
 

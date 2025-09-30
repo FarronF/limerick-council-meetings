@@ -555,9 +555,7 @@ Strategic Policy Committee Reports
 
 (i)
 
-Circulated, report of the Chairperson of the **Climate Action, Biodiversity and**
-
-**Environment** Strategic Policy Committee dated 21st May, 2025, in relation to meeting
+Circulated, report of the Chairperson of the **Climate Action, Biodiversity andEnvironment** Strategic Policy Committee dated 21st May, 2025, in relation to meeting
 
 of the Committee held on 20th May, 2025.
 
@@ -573,15 +571,7 @@ June, 2025.
 
 The report was noted by the Council.
 
-**Recommendation**
-
-**“****That, the Council write to the Minister for Transport, the Chairperson of the Board**
-
-**of Transport Infrastructure Ireland (TII), and the Chief Executive of TII to call for urgent**
-
-**prioritisation and full delivery of the Rathkeale to Limerick City Greenway in advance**
-
-**of the Ryder Cup in 2027****”**.
+**Recommendation“That, the Council write to the Minister for Transport, the Chairperson of the Boardof Transport Infrastructure Ireland (TII), and the Chief Executive of TII to call for urgentprioritisation and full delivery of the Rathkeale to Limerick City Greenway in advanceof the Ryder Cup in 2027”**.
 
 The Recommendation was agreed and discussion took place on the remaining
 
@@ -591,9 +581,7 @@ requested an in-person briefing from the Transportation and Mobility Directorate
 
 (iii)
 
-Circulated, report of the Chairperson of the **Economic Development,**
-
-**Enterprise, Tourism and Planning** Strategic Policy Committee dated 2nd July,
+Circulated, report of the Chairperson of the **Economic Development,Enterprise, Tourism and Planning** Strategic Policy Committee dated 2nd July,
 
 2025, in relation to Meeting of the Committee held on 23rd June, 2025,
 
@@ -601,21 +589,13 @@ together with Draft Night Time Economy Action Plan 2025 for noting.
 
 The report was noted by the Council.
 
-**Recommendation No. 1**
-
-**That, the draft new Limerick Tourism Strategy 2025-2030 be considered for approval**
-
-**by Limerick City and County Council at the September Plenary Meeting.**  (Report to
+**Recommendation No. 1That, the draft new Limerick Tourism Strategy 2025-2030 be considered for approvalby Limerick City and County Council at the September Plenary Meeting.**  (Report to
 
 be submitted in September)
 
 The position was noted by the Council in relation to Recommendation No. 1.
 
-**Recommendation No. 2**
-
-**That, the Draft Night Time Economy Action Plan 2025 be brought to the July Plenary**
-
-**Meeting of the Full Council for noting.**
+**Recommendation No. 2That, the Draft Night Time Economy Action Plan 2025 be brought to the July PlenaryMeeting of the Full Council for noting.**
 
 The Draft Plan was noted by the Council.
 ---
@@ -749,9 +729,7 @@ The Council approved the attendance of the following Members at Conference alrea
 
 approved by the Council:
 
-**Conference:** **“The Martin McEvoy 2025 Conference, Mayoral Governance in Dublin –**
-
-**Democracy, Devolution and Impact” Dublin City University, Dublin** **- 29th April, 2025:**
+**Conference:“The Martin McEvoy 2025 Conference, Mayoral Governance in Dublin –Democracy, Devolution and Impact” Dublin City University, Dublin- 29th April, 2025:**
 
 Councillors D. McSweeney and A. Teskey.
 
@@ -771,17 +749,7 @@ MAYOR’S QUESTIONS
 
 Question submitted by Councillor S. Kiely
 
-**I will ask the Mayor at the next Meeting of Limerick Council given the recent information**
-
-**on your SMART housing, I would like to know what the route to planning is for this proposal**
-
-**and what consultation has taken place with the Executive and the communities at your**
-
-**proposed locations.**
-
-**REPLY:**
-
-***Route to Planning***
+**I will ask the Mayor at the next Meeting of Limerick Council given the recent informationon your SMART housing, I would like to know what the route to planning is for this proposaland what consultation has taken place with the Executive and the communities at yourproposed locations.REPLY:*Route to Planning***
 
 The SMART Housing programme is being advanced in accordance with the provisions of the
 
@@ -795,11 +763,7 @@ Council to take the necessary actions to implement the objectives of its Develop
 
 Plan. The SMART Housing programme fully supports this duty by seeking to fast-track
 
-the delivery of new homes **on Council-owned lands designated for residential use**
-
-**under its land use zoning objectives as democratically adopted in the Limerick**
-
-**Development Plan 2022****–****2028**.
+the delivery of new homes **on Council-owned lands designated for residential useunder its land use zoning objectives as democratically adopted in the LimerickDevelopment Plan 2022–2028**.
 
 
 
@@ -973,15 +937,7 @@ Limerick City and County Council Development Plan.
 
 Question submitted by Councillor E. O’Donovan
 
-**I will ask the Mayor at the next Meeting of Limerick Council for the membership of the**
-
-**Community Liaison Committee due to have been established by this Council as is stipulated**
-
-**in the planning conditions in respect to Irish Cement and for the amount of the community**
-
-**fund that is due to be distributed that has been accumulating since 2023.**
-
-**REPLY:**
+**I will ask the Mayor at the next Meeting of Limerick Council for the membership of theCommunity Liaison Committee due to have been established by this Council as is stipulatedin the planning conditions in respect to Irish Cement and for the amount of the communityfund that is due to be distributed that has been accumulating since 2023.REPLY:**
 
 I have confirmed that the Community Development section of the Council's
 
@@ -1021,21 +977,11 @@ to the Meeting and the Questions were therefore considered as having been dealt 
 
 Question submitted by Councillor E. Secas
 
-**I will ask at the next Meeting of the Council,** **further to Housing Minister James Browne’s**
-
-**call to all City and County Council CE****’****s (Limerick Director General) for immediate reviews**
-
-**and updates of local development plans to align with the forthcoming revised National**
-
-**Planning Framework, stressing the need to identify deliverable housing sites with access to**
+**I will ask at the next Meeting of the Council,further to Housing Minister James Browne’scall to all City and County Council CE’s (Limerick Director General) for immediate reviewsand updates of local development plans to align with the forthcoming revised NationalPlanning Framework, stressing the need to identify deliverable housing sites with access to**
 ---
 14
 
-**infrastructure, if Limerick City and County Council is going to start the review process of its**
-
-**Development Plan immediately instead of waiting until 2026.**
-
-**REPLY**
+**infrastructure, if Limerick City and County Council is going to start the review process of itsDevelopment Plan immediately instead of waiting until 2026.REPLY**
 
 Minister’s Browne’s letter (May 2025) to all Chief Executives signalled
 
@@ -1097,15 +1043,7 @@ Appropriate Assessment.
 
 Question submitted by Councillor E. O’Donovan
 
-**I will ask at the next Meeting of Limerick Council if this Council has liaised with Irish Rail or**
-
-**is aware of the PSDP for the re-opening of the Limerick to Foynes rail track with a focus on**
-
-**hazard identification and safety as the rail track runs through residential areas and estates**
-
-**in Limerick.**
-
-**REPLY:**
+**I will ask at the next Meeting of Limerick Council if this Council has liaised with Irish Rail oris aware of the PSDP for the re-opening of the Limerick to Foynes rail track with a focus onhazard identification and safety as the rail track runs through residential areas and estatesin Limerick.REPLY:**
 
 All aspects of safety associated with the re-opening of the Foynes to Limerick
 
@@ -1131,13 +1069,7 @@ Engineer & we will address these with Irish Rail if necessary.
 
 Question submitted by Councillor J. O’Donoghue
 
-**I will ask at the next Meeting of Limerick City and County Council that, in relation to wind**
-
-**farms, is there an evaluation on health impacts when investigating complaints about noise**
-
-**and shadow flicker.**
-
-**REPLY:**
+**I will ask at the next Meeting of Limerick City and County Council that, in relation to windfarms, is there an evaluation on health impacts when investigating complaints about noiseand shadow flicker.REPLY:**
 
 Noise Limits for windfarms are set to mitigate potential negative impacts on
 
@@ -1165,13 +1097,7 @@ and Development Act 2000 as amended and the Environmental Protection Act
 
 Question submitted by Councillor S. Hickey-O'Mara
 
-**I will ask at the next meeting of Limerick City and County Council for an update on plans for**
-
-**the Men’s Mental Health Campaign which received full cross****-party support at last**
-
-**November’s M****eeting of this Council.**
-
-**REPLY:**
+**I will ask at the next meeting of Limerick City and County Council for an update on plans forthe Men’s Mental Health Campaign which received full cross-party support at lastNovember’s Meeting of this Council.REPLY:**
 
 While the delivery of a Men’s Mental Health Campaign is outside the exclusive
 
@@ -1207,13 +1133,7 @@ project.
 
 Question submitted by Councillor M. Donoghue
 
-**I will ask at the next Meeting of Limerick City and County Council for the projected Per Cent**
-
-**for Art budget that will be delivered for Limerick City and County through the current Active**
-
-**Travel Capital Projects at all stages.**
-
-**REPLY:**
+**I will ask at the next Meeting of Limerick City and County Council for the projected Per Centfor Art budget that will be delivered for Limerick City and County through the current ActiveTravel Capital Projects at all stages.REPLY:**
 
 Thank you for your question regarding the Per Cent for Art budget allocated
 
@@ -1259,15 +1179,7 @@ projects ranging from €10,000 to €3m.
 
 Question submitted by Councillor D. McSweeney
 
-**I will ask at the next Meeting of Limerick City and County Council for a full breakdown of**
-
-**the number of applications received under the Maintenance of Open Spaces Grant Scheme,**
-
-**the average allocation per applicant and the total allocation to this scheme under the 2025**
-
-**Budget.**
-
-**REPLY:**
+**I will ask at the next Meeting of Limerick City and County Council for a full breakdown ofthe number of applications received under the Maintenance of Open Spaces Grant Scheme,the average allocation per applicant and the total allocation to this scheme under the 2025Budget.REPLY:**
 
 The Council operates an annual Maintenance of Open Spaces Grant Scheme,
 
@@ -1295,13 +1207,7 @@ Total Allocation €55,226, an increase of approximately €14,000 on 2024.
 
 Question submitted by Councillor D. McSweeney
 
-**I will ask at the next Meeting of Limerick City and County Council for a full breakdown of**
-
-**the number of applications received under the Burial Ground Maintenance Grants Scheme,**
-
-**the allocation per applicant and the total allocation to this scheme under the 2025 Budget.**
-
-**REPLY:**
+**I will ask at the next Meeting of Limerick City and County Council for a full breakdown ofthe number of applications received under the Burial Ground Maintenance Grants Scheme,the allocation per applicant and the total allocation to this scheme under the 2025 Budget.REPLY:**
 
 Limerick City and County Council distributed application forms to 127
 
@@ -1335,13 +1241,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor S. Beasley
 
-**I will move at the next Meeting of Limerick City and County Council that this Council call on**
-
-**local businesses and vintners to actively support the "*****Ask for Angela*****" campaign across**
-
-**Limerick. For reference, the "*****Ask for Angela*****" campaign is a proven initiative designed to**
-
-**help victims of sexual harassment and assault safely seek assistance in public venues.**
+**I will move at the next Meeting of Limerick City and County Council that this Council call onlocal businesses and vintners to actively support the "*Ask for Angela*" campaign acrossLimerick. For reference, the "*Ask for Angela*" campaign is a proven initiative designed tohelp victims of sexual harassment and assault safely seek assistance in public venues.**
 
 The Motion was proposed by Councillor Beasley and seconded by Councillor
 
@@ -1357,11 +1257,7 @@ Night Time Economy Plan.
 
 Notice of Motion submitted by Councillor S. Kiely
 
-**I will move at the next Meeting of Limerick City and County Council that an update be given**
-
-**to Councillors regarding the timescale for installation of bus shelters across the city and**
-
-**county.**
+**I will move at the next Meeting of Limerick City and County Council that an update be givento Councillors regarding the timescale for installation of bus shelters across the city andcounty.**
 
 The Motion was proposed by Councillor Kiely and seconded by Councillor McSweeney.
 
@@ -1419,17 +1315,7 @@ Notice of Motion submitted by Councillors F. Foley, F. Kilcoyne, M. Ryan and
 
 G. Ward
 
-**We will move at the next Meeting that Limerick City and County Council agrees to and calls**
-
-**on the Minister for Housing, Local Government and Heritage to relax the current ribbon**
-
-**development rules to allow for the construction of 6 dwellings in a linear arrangement and,**
-
-**where appropriate, that restrictions be set aside entirely for sites within 1 km of an existing**
-
-**settlement boundary once the development is located on a non-regional road with**
-
-**available appropriate sightlines.**
+**We will move at the next Meeting that Limerick City and County Council agrees to and callson the Minister for Housing, Local Government and Heritage to relax the current ribbondevelopment rules to allow for the construction of 6 dwellings in a linear arrangement and,where appropriate, that restrictions be set aside entirely for sites within 1 km of an existingsettlement boundary once the development is located on a non-regional road withavailable appropriate sightlines.**
 
 The Motion was proposed by Councillor Ryan (M) and seconded by Councillor Foley.
 
@@ -1441,11 +1327,7 @@ It was agreed that the Motion would be forwarded to all Local Authorities for su
 
 Notice of Motion submitted by Councillor U. Gavan
 
-**I will move at the next Meeting that Limerick City and County Council write to the**
-
-**Department of Social Protection to change the provision of the Carers Leave Act 2001 to**
-
-**remove the time limit of 104 weeks.**
+**I will move at the next Meeting that Limerick City and County Council write to theDepartment of Social Protection to change the provision of the Carers Leave Act 2001 toremove the time limit of 104 weeks.**
 
 The Motion was proposed by Councillor Gavan and seconded by Councillor Scanlan.
 
@@ -1457,9 +1339,7 @@ providers.
 
 Notice of Motion submitted by Councillor E. O’Donovan
 
-**I will move at the next Meeting of Limerick Council that this Council calls on the Central**
-
-**Bank of Ireland to immediately end the facilitation of the Israeli Bond Issuance Programme.**
+**I will move at the next Meeting of Limerick Council that this Council calls on the CentralBank of Ireland to immediately end the facilitation of the Israeli Bond Issuance Programme.**
 
 The Motion was proposed by Councillor O’Donovan and seconded by Councillor
 
@@ -1473,13 +1353,7 @@ Minister for Finance.
 
 Notice of Motion submitted by Councillor J. O’Donoghue
 
-**I will move at the next Meeting that Limerick City and County Council write to the**
-
-**Department of Housing, Local Government and Heritage** **to request** **that no new onshore**
-
-**wind farm planning applications should be approved until updated national guidelines on**
-
-**wind energy are approved and implemented by the Government.**
+**I will move at the next Meeting that Limerick City and County Council write to theDepartment of Housing, Local Government and Heritageto requestthat no new onshorewind farm planning applications should be approved until updated national guidelines onwind energy are approved and implemented by the Government.**
 
 Councillor Scanlan stated that, at the request of Councillor O’Donoghue who had to
 
@@ -1495,11 +1369,7 @@ developments are outdated and need to be reviewed.
 
 Notice of Motion submitted by Councillor J. Scanlan
 
-**I will move at the next Meeting of Limerick City and County Council that our Authority**
-
-**provide a liaison/link to Community Welfare where support is necessary to enable newly**
-
-**allocated tenants move in speedily.**
+**I will move at the next Meeting of Limerick City and County Council that our Authorityprovide a liaison/link to Community Welfare where support is necessary to enable newlyallocated tenants move in speedily.**
 
 The Motion was proposed by Councillor Scanlan and was seconded by Councillor
 
@@ -1539,27 +1409,7 @@ It was agreed that the Motion would be circulated to all Local Authorities for s
 
 25.
 
-Notice of Motion submitted by Councillor S. Hickey-O'Mara ***(to be referred to***
-
-***Home and Social Development Strategic Policy Committee)***
-
-**I will move at the next Meeting of Limerick City and County Council that this Council**
-
-**formally declares a Student Housing Emergency in Limerick and commits to convening a**
-
-**Student Housing Taskforce in partnership with local Students’ Unions, local third****-level**
-
-**institutions, approved housing bodies, and relevant Council departments, with the aim of:**
-
-**(i) Acknowledging the acute shortage of affordable and suitable accommodation for**
-
-**students attending third-level institutions in Limerick; (ii) Identifying Council-owned or**
-
-**privately owned land suitable for student housing; (iii) Exploring opportunities for cost-**
-
-**rental, or cooperative models of development; (iv) Removing planning or zoning barriers**
-
-**where appropriate for the construction of student housing.**
+Notice of Motion submitted by Councillor S. Hickey-O'Mara ***(to be referred to**Home and Social Development Strategic Policy Committee)*I will move at the next Meeting of Limerick City and County Council that this Councilformally declares a Student Housing Emergency in Limerick and commits to convening aStudent Housing Taskforce in partnership with local Students’ Unions, local third-levelinstitutions, approved housing bodies, and relevant Council departments, with the aim of:(i) Acknowledging the acute shortage of affordable and suitable accommodation forstudents attending third-level institutions in Limerick; (ii) Identifying Council-owned orprivately owned land suitable for student housing; (iii) Exploring opportunities for cost-rental, or cooperative models of development; (iv) Removing planning or zoning barrierswhere appropriate for the construction of student housing.**
 
 It was agreed to refer the Motion to the Home and Social Development Strategic Policy
 
@@ -1567,13 +1417,7 @@ Committee.
 
 26.
 
-Notice of Motion submitted by Councillor D. McSweeney ***(to be referred to***
-
-***Community, Leisure, Arts, Heritage and Culture SPC)***
-
-**I will move at the next Meeting of Limerick City and County Council that we examine the**
-
-**rollout of a Community Contracts Grant Scheme in advance of budget 2026.**
+Notice of Motion submitted by Councillor D. McSweeney ***(to be referred to**Community, Leisure, Arts, Heritage and Culture SPC)*I will move at the next Meeting of Limerick City and County Council that we examine therollout of a Community Contracts Grant Scheme in advance of budget 2026.**
 
 It was agreed to refer the Motion to the Community, Leisure, Arts, Heritage and
 
@@ -1585,17 +1429,7 @@ Culture Strategic Policy Committee.
 
 Notice of Motion submitted by Councillor C. Slattery
 
-**I will move at the next Meeting that Limerick City and County Council write to the Minster**
-
-**for Justice to ask for an update on the legislation being drafted to amend the Criminal**
-
-**Justice Act, 1994, to ban the wearing of balaclavas and other face coverings at protests**
-
-**where they are used to conceal a person's identity; and to request that the legislation**
-
-**includes measures to ban balaclavas and face coverings on persons trying to conceal their**
-
-**identity to commit a crime (i) in public places and (ii) while riding scrambler bikes.**
+**I will move at the next Meeting that Limerick City and County Council write to the Minsterfor Justice to ask for an update on the legislation being drafted to amend the CriminalJustice Act, 1994, to ban the wearing of balaclavas and other face coverings at protestswhere they are used to conceal a person's identity; and to request that the legislationincludes measures to ban balaclavas and face coverings on persons trying to conceal theiridentity to commit a crime (i) in public places and (ii) while riding scrambler bikes.**
 
 The Motion was proposed by Councillor Slattery and seconded by Councillor Pond.
 
@@ -1611,7 +1445,7 @@ The Correspondence circulated with the agenda was taken as read.
 
 With the permission of the Príomh Chomhairleoir, the following matters were raised:
 
-**Civic Reception** **–** **Limerick Senior footballers**
+**Civic Reception–Limerick Senior footballers**
 
 It was agreed to confer a Civic Reception on the Limerick Senior Footballers on
 
@@ -1645,13 +1479,5 @@ The Register of Decisions on Applications under the Planning and Development Act
 
 2000, as amended, is available on SharePoint for inspection by the Members.
 
-**Signed:**
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**Príomh Chomhairleoir**
-
-**Date:**
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**Signed:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Príomh ChomhairleoirDate:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 ---

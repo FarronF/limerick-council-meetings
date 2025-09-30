@@ -8,7 +8,7 @@
 
 Files: 
 
-Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th July 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-8th-july-2025_0.pdf) - [Extracted text](./Agenda%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%208th%20July%202025.md)
+Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th July 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-8th-july-2025_0.pdf) - Text not extracted
 
 Minutes - Annual Meeting of the Municipal District of Adare-Rathkeale - 27th June 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-b-draft-minutes-of-annual-meeting-27th-june-2025_0.pdf) - [Extracted text](./Minutes%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2027th%20June%202025.md)
 

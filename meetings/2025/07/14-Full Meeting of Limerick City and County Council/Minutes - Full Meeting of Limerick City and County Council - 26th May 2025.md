@@ -601,9 +601,7 @@ The report was noted by the Council.
 
 (ii)
 
-Circulated, report of the Chairperson of the **Economic Development, Enterprise,**
-
-**Tourism and Planning** Strategic Policy Committed dated 15th May, 2025, in relation to
+Circulated, report of the Chairperson of the **Economic Development, Enterprise,Tourism and Planning** Strategic Policy Committed dated 15th May, 2025, in relation to
 
 meeting of the Committee held on 14th April, 2025.
 
@@ -655,9 +653,7 @@ as circulated, be and is hereby adopted in accordance with Section 22 (9) of the
 
 (iv)
 
-Circulated, report of the Chairperson of the **Community, Leisure, Arts, Heritage and**
-
-**Culture** Strategic Policy Committee dated 15th May, 2025, in relation to meeting of the
+Circulated, report of the Chairperson of the **Community, Leisure, Arts, Heritage andCulture** Strategic Policy Committee dated 15th May, 2025, in relation to meeting of the
 
 Committee held on 14th May, 2025.
 
@@ -879,11 +875,7 @@ MAYOR’S QUESTIONS
 
 Question submitted by Councillor E. Secas
 
-**I will ask the Mayor if he has had any engagement with the Office of Public Works (OPW)**
-
-**which was commissioned in September 2023 to identify a suitable site for a Garda Station**
-
-**in Castletroy, and if he can request the OPW to provide an official statement on the matter.**
+**I will ask the Mayor if he has had any engagement with the Office of Public Works (OPW)which was commissioned in September 2023 to identify a suitable site for a Garda Stationin Castletroy, and if he can request the OPW to provide an official statement on the matter.**
 ---
 13
 
@@ -925,17 +917,7 @@ mentioned the Garda Station in Castletroy.
 
 Question submitted by Councillor E. O’Donovan
 
-**I note that monies from the Mayoral Fund were allocated in 2024 for the RIARI design**
-
-**review of state lands in Moyross. When was this design review prepared and what**
-
-**consultation was done with local communities for this review. Similarly, have any other**
-
-**allocation from the Mayoral Fund been provided for design reviews in other areas and what**
-
-**has been the community consultation for these reviews.**
-
-**REPLY:**
+**I note that monies from the Mayoral Fund were allocated in 2024 for the RIARI designreview of state lands in Moyross. When was this design review prepared and whatconsultation was done with local communities for this review. Similarly, have any otherallocation from the Mayoral Fund been provided for design reviews in other areas and whathas been the community consultation for these reviews.REPLY:**
 
 Limerick City and County Council (LCCC) sought a review of proposals for
 
@@ -1007,11 +989,7 @@ to the Meeting and the Questions were therefore taken as having been dealt with:
 
 Question submitted by Councillor L. Galvin
 
-**I will ask at the next full Council Meeting for an update on the new system of General Data**
-
-**Protection Regulation (GDPR) forms.**
-
-**REPLY:**
+**I will ask at the next full Council Meeting for an update on the new system of General DataProtection Regulation (GDPR) forms.REPLY:**
 
 The GDPR Consent portal is almost ready for release to Elected Members.
 
@@ -1053,11 +1031,7 @@ July 2025.
 
 Question submitted by Councillor L. Galvin
 
-**I will ask at the next full Council Meeting for a full and detailed explanation of the**
-
-**description for Sub-Standard Roads within this Council.**
-
-**REPLY:**
+**I will ask at the next full Council Meeting for a full and detailed explanation of thedescription for Sub-Standard Roads within this Council.REPLY:**
 
 The definition of sub-standard road is set out in the Limerick Development Plan
 
@@ -1079,19 +1053,7 @@ Department.
 
 Question submitted by Councillor D. McSweeney
 
-**I will ask at the next Meeting of Limerick City and County Council for the following**
-
-**information in relation to the Local Authority Affordable Purchase Scheme, to be broken**
-
-**down by Municipal District: (i) The number of affordable purchase homes delivered in each**
-
-**year since 2022; (ii) The number of affordable purchase homes in the delivery pipeline for**
-
-**each year up to and including 2029; (iii) The number of units approved for funding by the**
-
-**Department under the Affordable Housing Fund.**
-
-**REPLY:**
+**I will ask at the next Meeting of Limerick City and County Council for the followinginformation in relation to the Local Authority Affordable Purchase Scheme, to be brokendown by Municipal District: (i) The number of affordable purchase homes delivered in eachyear since 2022; (ii) The number of affordable purchase homes in the delivery pipeline foreach year up to and including 2029; (iii) The number of units approved for funding by theDepartment under the Affordable Housing Fund.REPLY:**
 
 In responding to this Question, the following context is provided:
 
@@ -1121,19 +1083,7 @@ set a target for local authority-led affordable housing of 264 homes for 2022-20
 
 Housing Fund (AHF – A.31) for 2025 nationally.
 
-***(i)******The number of affordable purchase homes delivered in each year since 2022 are shown***
-
-***in Table 1 below:***
-
-**District**
-
-**2022**
-
-**2023**
-
-**2024**
-
-**Metropolitan** 0
+***(i)**The number of affordable purchase homes delivered in each year since 2022 are shown**in Table 1 below:*District202220232024Metropolitan** 0
 
 25
 
@@ -1141,9 +1091,7 @@ Housing Fund (AHF – A.31) for 2025 nationally.
 ---
 16
 
-**Newcastle**
-
-**West**
+**NewcastleWest**
 
 0
 
@@ -1151,9 +1099,7 @@ Housing Fund (AHF – A.31) for 2025 nationally.
 
 16
 
-**Cappamore-**
-
-**Kilmallock**
+**Cappamore-Kilmallock**
 
 0
 
@@ -1161,9 +1107,7 @@ Housing Fund (AHF – A.31) for 2025 nationally.
 
 0
 
-**Adare-**
-
-**Rathkeale**
+**Adare-Rathkeale**
 
 0
 
@@ -1201,23 +1145,7 @@ Public Expenditure and Reform in May 2024. The timing of these approvals has imp
 
 ability to progress delivery at significant scale in earlier years – 2022 to 2024.
 
-***(ii)******The number of affordable purchase homes in the delivery pipeline for each year up to***
-
-***and including 2029 are shown in Table 2 below:***
-
-**District**
-
-**2025**
-
-**2026**
-
-**2027**
-
-**2028**
-
-**2029**
-
-**Metropolitan** 6
+***(ii)**The number of affordable purchase homes in the delivery pipeline for each year up to**and including 2029 are shown in Table 2 below:*District20252026202720282029Metropolitan** 6
 
 134
 
@@ -1227,9 +1155,7 @@ ability to progress delivery at significant scale in earlier years – 2022 to 2
 
 0
 
-**Newcastle**
-
-**West**
+**NewcastleWest**
 
 0
 
@@ -1241,9 +1167,7 @@ ability to progress delivery at significant scale in earlier years – 2022 to 2
 
 0
 
-**Cappamore-**
-
-**Kilmallock**
+**Cappamore-Kilmallock**
 
 12
 
@@ -1255,9 +1179,7 @@ ability to progress delivery at significant scale in earlier years – 2022 to 2
 
 0
 
-**Adare-**
-
-**Rathkeale**
+**Adare-Rathkeale**
 
 0
 
@@ -1303,19 +1225,7 @@ housing delivery in Limerick City and County.
 ---
 17
 
-***(iii)******The number of units approved by the Department under the Affordable Housing Fund***
-
-***are shown in Table 3 below:***
-
-**District**
-
-**No of**
-
-**Approved**
-
-**Units**
-
-**Metropolitan**
+***(iii)**The number of units approved by the Department under the Affordable Housing Fund**are shown in Table 3 below:*DistrictNo ofApprovedUnitsMetropolitan**
 
 370
 
@@ -1323,9 +1233,7 @@ housing delivery in Limerick City and County.
 
 90
 
-**Cappamore-**
-
-**Kilmallock**
+**Cappamore-Kilmallock**
 
 0
 
@@ -1391,31 +1299,7 @@ Settlements Guidelines which prioritise optimised density and the efficient use 
 
 Question submitted by Councillor S. Kiely
 
-**I will ask at the next Meeting of Limerick City and County Council for the following**
-
-**information in relation to Mary Street Garda Station following the approval of the Section**
-
-**183 by this Council: (i) Was a payment made by this Local Authority to the approved**
-
-**purchaser and, if so, how much; (ii) Has feedback been provided by the Department of**
-
-**Housing, Local Government and Heritage on the reasons the proposed stabilisation works**
-
-**were not funded under the Historic Structures Fund; (iii) Has any expenditure been incurred**
-
-**to date or procured to carry out works on this property since the Section 183 was approved**
-
-**and, if so, how much and for what works; (iv) What works are planned to be carried out to**
-
-**this property during 2025, the estimated value of same and what will the status of the**
-
-**building be once these works are completed; and (v) Have we considered the future use of**
-
-**this building and explored funding avenues for capital works but also running costs in the**
-
-**future.**
-
-**REPLY:**
+**I will ask at the next Meeting of Limerick City and County Council for the followinginformation in relation to Mary Street Garda Station following the approval of the Section183 by this Council: (i) Was a payment made by this Local Authority to the approvedpurchaser and, if so, how much; (ii) Has feedback been provided by the Department ofHousing, Local Government and Heritage on the reasons the proposed stabilisation workswere not funded under the Historic Structures Fund; (iii) Has any expenditure been incurredto date or procured to carry out works on this property since the Section 183 was approvedand, if so, how much and for what works; (iv) What works are planned to be carried out tothis property during 2025, the estimated value of same and what will the status of thebuilding be once these works are completed; and (v) Have we considered the future use ofthis building and explored funding avenues for capital works but also running costs in thefuture.REPLY:**
 
 The Council has received funding of approximately €200,000 under THRIVE –
 
@@ -1469,9 +1353,7 @@ works will be in the region of €400,000.
 
 Question submitted by Councillor J. Scanlan
 
-**I will ask at the next Meeting for the number of Refuse Collectors who provide a pick-up**
-
-**service in Limerick.**
+**I will ask at the next Meeting for the number of Refuse Collectors who provide a pick-upservice in Limerick.**
 ---
 19
 
@@ -1505,23 +1387,7 @@ Company
 
 Question submitted by Councillor D. McSweeney
 
-**I will ask at the next Meeting of Limerick City and County Council for the following**
-
-**information in relation to the proposed disposal of 3 and 4 Creagh Lane, Limerick City: (i)**
-
-**What was the valuation of both properties; (ii) following the advertising of these through**
-
-**our Auctioneers, how many persons bid on the properties; (iii) What was the final bid**
-
-**placed on each of the properties; (iv) Bidders have now been advised the sale of these**
-
-**properties has now been suspended with the possibility of them been withdrawn from the**
-
-**market in the coming weeks, please advise the Department of Limerick Council which**
-
-**requested this action and the rationale behind such an action.**
-
-**REPLY:**
+**I will ask at the next Meeting of Limerick City and County Council for the followinginformation in relation to the proposed disposal of 3 and 4 Creagh Lane, Limerick City: (i)What was the valuation of both properties; (ii) following the advertising of these throughour Auctioneers, how many persons bid on the properties; (iii) What was the final bidplaced on each of the properties; (iv) Bidders have now been advised the sale of theseproperties has now been suspended with the possibility of them been withdrawn from themarket in the coming weeks, please advise the Department of Limerick Council whichrequested this action and the rationale behind such an action.REPLY:**
 
 The potential of these two houses as a possible public amenity was identified
 
@@ -1565,37 +1431,7 @@ historic part of the City.
 
 Question submitted by Councillor S. Hickey-O’Mara
 
-**I will ask at the next Meeting of this Council (a) For an annual breakdown of how many**
-
-**inspections on private rented properties, including those rented under HAP and RAS, were**
-
-**carried out by Limerick City and County Council over the past five years from 2021 to 2025;**
-
-**(b) For a breakdown of how many inspections on private rented properties, including those**
-
-**rented under HAP and RAS, led to the issuing of Improvement Notices to landlords over the**
-
-**past five years from 2021 to 2025; (c) For a further breakdown of the issues identified as a**
-
-**result of inspections on private rented properties, including those under HAP and RAS, that**
-
-**led to the issuing of Improvement Notices to landlords over the past five years from 2021**
-
-**to 2025; (d) How many qualified Technicians are presently employed by Limerick City and**
-
-**County Council to carry out inspections on private rented properties, including those**
-
-**under HAP and RAS.**
-
-**REPLY:**
-
-**(a)**
-
-**Annual Breakdown of how many inspections on private rented properties, including**
-
-**those rented under HAP and RAS, were carried out by Limerick City and County**
-
-**Council over the past five years from 2021 to 2025**
+**I will ask at the next Meeting of this Council (a) For an annual breakdown of how manyinspections on private rented properties, including those rented under HAP and RAS, werecarried out by Limerick City and County Council over the past five years from 2021 to 2025;(b) For a breakdown of how many inspections on private rented properties, including thoserented under HAP and RAS, led to the issuing of Improvement Notices to landlords over thepast five years from 2021 to 2025; (c) For a further breakdown of the issues identified as aresult of inspections on private rented properties, including those under HAP and RAS, thatled to the issuing of Improvement Notices to landlords over the past five years from 2021to 2025; (d) How many qualified Technicians are presently employed by Limerick City andCounty Council to carry out inspections on private rented properties, including thoseunder HAP and RAS.REPLY:(a)Annual Breakdown of how many inspections on private rented properties, includingthose rented under HAP and RAS, were carried out by Limerick City and CountyCouncil over the past five years from 2021 to 2025**
 
 
 
@@ -1677,7 +1513,7 @@ Virtual inspections were carried out in 2022.
 
 
 
-**2021** **–** **208 inspections carried out broken down as follows:**
+**2021–208 inspections carried out broken down as follows:**
 
 There was a total of 208 Tenancies Inspected
 
@@ -1689,13 +1525,7 @@ This includes as follows:
 
  3 Private Tenancies
 
-**(b)**
-
-**Breakdown of on how many inspections on private rented properties, including**
-
-**those rented under HAP and RAS, led to the issuing of Improvement Notices to**
-
-**landlords over the past five years from 2021 to 2025**
+**(b)Breakdown of on how many inspections on private rented properties, includingthose rented under HAP and RAS, led to the issuing of Improvement Notices tolandlords over the past five years from 2021 to 2025**
 
 
 
@@ -1749,15 +1579,9 @@ issued to landlords on private rented properties including properties rented und
 
 HAP and RAS
 
-**(c)**
+**(c)Breakdown of the issues identified as a result of inspections of private rentedproperties, including those under HAP and RAS that led to the issuing ofImprovement Notices to landlords over the past five years from 2021 to 2025**
 
-**Breakdown of the issues identified as a result of inspections of private rented**
-
-**properties, including those under HAP and RAS that led to the issuing of**
-
-**Improvement Notices to landlords over the past five years from 2021 to 2025**
-
- **2025** **–** **Up to 30/04/2025**
+ **2025–Up to 30/04/2025**
 
 212 - Structural Non-Compliant
 
@@ -1869,13 +1693,7 @@ HAP and RAS
 
 153 – General Information
 
-**(d)**
-
-**How many qualified Technicians are presently employed by Limerick City and County**
-
-**Council to carry out inspections on private rented properties, including those under**
-
-**HAP and RAS?**
+**(d)How many qualified Technicians are presently employed by Limerick City and CountyCouncil to carry out inspections on private rented properties, including those underHAP and RAS?**
 
 The full staff complement in the Private Rented Inspection Team comprises of the
 
@@ -1903,19 +1721,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor P. Doyle
 
-**I will move at the next Meeting that Limerick City and County Council write to Iarnród**
-
-**Éireann/Irish Rail requesting that they investigate the purchase of land adjacent to**
-
-**Annacotty Business Park and the Castleconnell rail line. This would provide an urban train**
-
-**station linking the Annacotty Business Park with Castleconnell, Birdhill and Nenagh and**
-
-**Colbert Station Limerick. Over 3,000 people work in the Annacotty Business Park and this**
-
-**train station would greatly assist employees coming and going to work and reduce**
-
-**congestion on our roads.**
+**I will move at the next Meeting that Limerick City and County Council write to IarnródÉireann/Irish Rail requesting that they investigate the purchase of land adjacent toAnnacotty Business Park and the Castleconnell rail line. This would provide an urban trainstation linking the Annacotty Business Park with Castleconnell, Birdhill and Nenagh andColbert Station Limerick. Over 3,000 people work in the Annacotty Business Park and thistrain station would greatly assist employees coming and going to work and reducecongestion on our roads.**
 
 In proposing the Motion, Councillor Doyle asked for the figure of 3,000, in relation to
 
@@ -1929,11 +1735,7 @@ The amended Motion was seconded by Councillor Pond.
 
 Notice of Motion submitted by Councillor L. Galvin
 
-**I will move at the next meeting of Limerick City and County Council that this Council call on**
-
-**the Government to enact legislation to prohibit the use of smartphones (mobile phones**
-
-**with access to internet and social media) among youths under 16 years of age.**
+**I will move at the next meeting of Limerick City and County Council that this Council call onthe Government to enact legislation to prohibit the use of smartphones (mobile phoneswith access to internet and social media) among youths under 16 years of age.**
 
 The Motion was proposed by Councillor Galvin and seconded by Councillor Kiely.
 
@@ -1945,13 +1747,7 @@ It was agreed that the Motion would be circulated to all Local Authorities for s
 
 22.
 
-Notice of Motion submitted by Councillor S. Beasley ***(to be referred to the***
-
-***Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee)***
-
-**I will move at the next Meeting that Limerick City and County Council promote The**
-
-**Sunflower representing hidden disabilities across Limerick City and County.**
+Notice of Motion submitted by Councillor S. Beasley ***(to be referred to the**Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee)*I will move at the next Meeting that Limerick City and County Council promote TheSunflower representing hidden disabilities across Limerick City and County.**
 
 It was agreed to refer this Motion to the Community, Leisure, Arts, Heritage and
 
@@ -1963,13 +1759,7 @@ Culture Strategic Policy Committee.
 
 Notice of Motion submitted by Councillor E. Ryan
 
-**I will move at the next meeting that Limerick City and County Council call on the Minister**
-
-**for Housing, Local Government and Heritage, James Browne, TD, to amend the Tenant**
-
-**Incremental Purchase Scheme 2016/S.I. No. 619/2023, to allow tenants to purchase their**
-
-**Council house after a period of five years and not a ten-year period as is currently required.**
+**I will move at the next meeting that Limerick City and County Council call on the Ministerfor Housing, Local Government and Heritage, James Browne, TD, to amend the TenantIncremental Purchase Scheme 2016/S.I. No. 619/2023, to allow tenants to purchase theirCouncil house after a period of five years and not a ten-year period as is currently required.**
 
 The Motion was proposed by Councillor Ryan (E) and seconded by Councillor Scanlan.
 
@@ -1979,17 +1769,7 @@ It was agreed that the Motion would be circulated to All Local Authorities for s
 
 Notice of Motion submitted by Councillor T. Ruddle
 
-**I will move at the next Meeting that Limerick City and County Council call on the**
-
-**Department of Housing, Local Government and Heritage to change the current policy in**
-
-**relation to changing the use of a commercial premises, office, shop etc. to residential. At**
-
-**present you have to leave a premises completely idle for a minimum of 2 years, to gain an**
-
-**exemption in planning when you convert the premises. This barrier should be removed in a**
-
-**housing crisis. We want to bring these premises back in to use as soon as possible.**
+**I will move at the next Meeting that Limerick City and County Council call on theDepartment of Housing, Local Government and Heritage to change the current policy inrelation to changing the use of a commercial premises, office, shop etc. to residential. Atpresent you have to leave a premises completely idle for a minimum of 2 years, to gain anexemption in planning when you convert the premises. This barrier should be removed in ahousing crisis. We want to bring these premises back in to use as soon as possible.**
 
 The Motion was proposed by Councillor Ruddle and seconded by Councillor Keary.
 
@@ -1999,9 +1779,7 @@ Notice of Motion submitted by the Members of the Metropolitan District of
 
 Limerick
 
-**We will move at the next Meeting that Limerick City and County Council call on the Mayor**
-
-**to request the National Transport Authority to address the Metropolitan Members.**
+**We will move at the next Meeting that Limerick City and County Council call on the Mayorto request the National Transport Authority to address the Metropolitan Members.**
 
 The Motion was proposed by Councillor O’Donovan and seconded by Councillor Secas.
 
@@ -2011,11 +1789,7 @@ The Mayor agreed to write to the National Transport Authority.
 
 Notice of Motion submitted by Councillor E. Secas
 
-**I will move at the next Meeting that this Council call on the Government and Minister for**
-
-**Health, Jennifer Carroll MacNeill, TD, to take decisive action to deliver a new ED hospital**
-
-**for Limerick and the Mid-West region.**
+**I will move at the next Meeting that this Council call on the Government and Minister forHealth, Jennifer Carroll MacNeill, TD, to take decisive action to deliver a new ED hospitalfor Limerick and the Mid-West region.**
 
 The Motion was proposed by Councillor Secas and seconded by Councillor Reale.
 
@@ -2031,9 +1805,7 @@ Department was required.
 
 Notice of Motion submitted by Councillor J. Scanlan
 
-**I will move at the next Meeting that our Authority liaise with the Refuse Operators servicing**
-
-**Limerick users with a view to making the offering provided more environmentally-friendly.**
+**I will move at the next Meeting that our Authority liaise with the Refuse Operators servicingLimerick users with a view to making the offering provided more environmentally-friendly.**
 
 The Motion was proposed by Councillor Scanlan and seconded by Councillor Ryan (E).
 
@@ -2071,11 +1843,7 @@ licensing-system-to-a-franchise-tendering-system/
 
 Notice of Motion submitted by Councillor E. O’Donovan
 
-**I will move at the next Meeting that Limerick City and County Council request that the**
-
-**Ardagh Chalice be loaned from the National Museum of Ireland to Limerick to be put on**
-
-**display as an attraction for the duration of the Ryder Cup.**
+**I will move at the next Meeting that Limerick City and County Council request that theArdagh Chalice be loaned from the National Museum of Ireland to Limerick to be put ondisplay as an attraction for the duration of the Ryder Cup.**
 
 The Motion was proposed by Councillor O’Donovan and seconded by Councillor Kiely.
 
@@ -2087,13 +1855,7 @@ related to Limerick should be brought back to be displayed in Limerick.
 
 Notice of Motion submitted by Councillor M. Ryan
 
-**I will move at the next Meeting that Limerick City and County Council would install an**
-
-**averaging speed camera system on a trial basis, for example, in a village like Elton, on a**
-
-**regional road. This should be on a benefit analysis basis as a method to reduce speed while**
-
-**monitoring cost comparison, overall environmental and safety benefits for a community.**
+**I will move at the next Meeting that Limerick City and County Council would install anaveraging speed camera system on a trial basis, for example, in a village like Elton, on aregional road. This should be on a benefit analysis basis as a method to reduce speed whilemonitoring cost comparison, overall environmental and safety benefits for a community.**
 
 The Motion was proposed by Councillor Ryan (M) and seconded by Councillor Collins
 
@@ -2127,9 +1889,7 @@ The Members were reminded that it was a Policing function to issue speeding fine
 
 Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
-**I will move at the next Meeting of this Council that this Council look to establish an office**
-
-**of a Youth Mayor.**
+**I will move at the next Meeting of this Council that this Council look to establish an officeof a Youth Mayor.**
 
 The Motion was proposed by Councillor Hickey-O’Mara and seconded by Councillor
 
@@ -2149,11 +1909,7 @@ purpose of exploring the establishment of an office of Youth Mayor.
 
 Notice of Motion submitted by Councillor U. Gavan
 
-**I will move at the next Meeting that Limerick City and County Council liaise with the**
-
-**Department of Housing and the Government calling for the restoration of the No Fault**
-
-**Eviction as the housing emergency spirals out of control and building targets fail to be met.**
+**I will move at the next Meeting that Limerick City and County Council liaise with theDepartment of Housing and the Government calling for the restoration of the No FaultEviction as the housing emergency spirals out of control and building targets fail to be met.**
 
 The Motion was proposed by Councillor Gavan and seconded by Councillor
 

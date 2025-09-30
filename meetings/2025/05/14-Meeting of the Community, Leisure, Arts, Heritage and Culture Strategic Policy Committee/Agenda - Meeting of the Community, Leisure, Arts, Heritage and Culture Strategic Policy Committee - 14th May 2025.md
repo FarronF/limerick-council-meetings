@@ -3,19 +3,7 @@
 ---
 (Image omitted)
 
-**LIMERICK CITY AND COUNTY COUNCIL**
-
-**Community, Leisure, Arts, Heritage and Culture**
-
-**Corporate Headquarters**
-
-**Merchant’s Quay**
-
-**Limerick**
-
-**TO: THE CHAIR AND EACH MEMBER OF THE COMMUNITY, LEISURE, ARTS, HERITAGE AND**
-
-**CULTURE STRATEGIC POLICY COMMITTEE**
+**LIMERICK CITY AND COUNTY COUNCILCommunity, Leisure, Arts, Heritage and CultureCorporate HeadquartersMerchant’s QuayLimerickTO: THE CHAIR AND EACH MEMBER OF THE COMMUNITY, LEISURE, ARTS, HERITAGE ANDCULTURE STRATEGIC POLICY COMMITTEE**
 
 The next meeting of Limerick City and County Council, Community, Leisure, Arts, Heritage and
 
@@ -23,9 +11,7 @@ Culture Strategic Policy Committee will be a hybrid meeting held in Council Cham
 
 Dooradoyle, Co. Limerick with a virtual link in option on Wednesday, 14th May 2025 at 3:00pm
 
-**AGENDA**
-
-**Item 1:**
+**AGENDAItem 1:**
 
 Adoption of Minutes of Community, Leisure & Culture Strategic Policy
 
@@ -51,11 +37,5 @@ Presentation onDeveloping Street Performance in Limerick - Etain McCooey
 
 Date of next meeting
 
-**Councillor Fergus Kilcoyne**
-
-**Chairperson**
-
-**Community, Leisure, Arts, Heritage and Culture SPC**
-
-**Limerick City and County Council**
+**Councillor Fergus KilcoyneChairpersonCommunity, Leisure, Arts, Heritage and Culture SPCLimerick City and County Council**
 ---

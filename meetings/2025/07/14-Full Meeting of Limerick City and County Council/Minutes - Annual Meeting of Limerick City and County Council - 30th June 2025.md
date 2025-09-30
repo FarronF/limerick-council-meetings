@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/minutes-annual-meeting-limerick-city-and-county-council-30.06.2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
-
-**HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND ONLINE, ON MONDAY,**
-
-**30****TH** **JUNE, 2025, AT 3.00 P.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND COUNTY COUNCILHELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND ONLINE, ON MONDAY,30THJUNE, 2025, AT 3.00 P.M.PRESENT IN THE CHAIR:**
 
 Councillor D. McSweeney, Príomh Chomhairleoir
 
@@ -187,9 +181,7 @@ with integrity and respect. Leadership is not about choosing sides — it’s ab
 
 together, finding common ground, and serving the people of Limerick first.”
 
-**1.**
-
-**Election of Príomh Chomhairleoir of Limerick City and County Council:**
+**1.Election of Príomh Chomhairleoir of Limerick City and County Council:**
 
 The outgoing Príomh Chomhairleoir invited nominations for the Office of Príomh
 
@@ -319,9 +311,7 @@ and ambitious for our future.
 
 Go raibh míle maith agaibh.
 
-**2.**
-
-**Election of Leas-Phríomh Chomhairleoir of Limerick City and County Council:**
+**2.Election of Leas-Phríomh Chomhairleoir of Limerick City and County Council:**
 
 The Príomh Chomhairleoir invited nominations for the Office of Leas-Phríomh Chomhairleoir
 
@@ -413,9 +403,7 @@ This concluded the meeting.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Príomh Chomhairleoir**
-
-**Date:**
+**Príomh ChomhairleoirDate:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ---

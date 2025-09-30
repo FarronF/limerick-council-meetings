@@ -3,13 +3,7 @@
 ---
 1
 
-**MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
-
-**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
-
-**LIMERICK AND ONLINE ON FRIDAY, 27****TH** **JUNE, 2025 AT 11.30 A.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK AND ONLINE ON FRIDAY, 27THJUNE, 2025 AT 11.30 A.M.PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -51,11 +45,7 @@ Discussion ensued in relation to the Social Housing project in Pallaskenry. Memb
 
 requested this be an item on the Agenda for the July Municipal District Meeting.
 
-**1.**
-
-**To elect a Cathaoirleach of the Municipal District of Adare-Rathkeale to hold**
-
-**office until the next Annual Meeting or until a successor has been elected.**
+**1.To elect a Cathaoirleach of the Municipal District of Adare-Rathkeale to holdoffice until the next Annual Meeting or until a successor has been elected.**
 
 The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach for the
 
@@ -99,11 +89,7 @@ was looking forward to working with all Members, Management and Staff over the n
 
 twelve months in his role as Cathaoirleach of the Adare-Rathkeale Municipal District.
 
-**2.**
-
-**To elect a Leas-Cathaoirleach of the Municipal District of Adare-Rathkeale to**
-
-**hold office until the next Annual Meeting or until a successor has been elected.**
+**2.To elect a Leas-Cathaoirleach of the Municipal District of Adare-Rathkeale tohold office until the next Annual Meeting or until a successor has been elected.**
 
 The newly elected Cathaoirleach then invited nominations for the office of Leas-
 

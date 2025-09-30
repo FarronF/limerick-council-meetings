@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-b-minutes-annual-meeting-23rd-june-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
-
-**HELD IN THE COUNCIL CHAMBER,** **MERCHANT’S QUAY** **AND ONLINE, ON MONDAY, 23****RD** **JUNE,**
-
-**2025 AT 9.45AM**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICKHELD IN THE COUNCIL CHAMBER,MERCHANT’S QUAYAND ONLINE, ON MONDAY, 23RDJUNE,2025 AT 9.45AMPRESENT IN THE CHAIR:**
 
 Councillor K. O’Hanlon, Cathaoirleach
 
@@ -53,9 +47,7 @@ Metropolitan District and commended him on the professional manner in which he c
 
 Metropolitan Meetings and carried out his duties.
 
-**1.****To elect a Cathaoirleach of the Metropolitan District of Limerick to hold Office until the next**
-
-**Annual Meeting or until a successor has been elected**
+**1.To elect a Cathaoirleach of the Metropolitan District of Limerick to hold Office until the nextAnnual Meeting or until a successor has been elected**
 
 The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach for the coming year.
 
@@ -87,7 +79,7 @@ Reale, Secas, Slattery and Talukder
 
 (14)
 
-**For Councillor Hickey-****O’Mara**
+**For Councillor Hickey-O’Mara**
 
 Councillors Benson, Donoghue, Gavan, Hartigan, Hickey-O’Mara and O’Donovan
 
@@ -143,9 +135,7 @@ for their communities, as when each succeed in their areas, Limerick as a whole 
 
 finished by saying it was a great honour to accept the role of Cathaoirleach.
 
-**2.****To elect a Leas Chathaoirleach of the Metropolitan District of Limerick to hold Office until the**
-
-**next Annual Meeting or until a successor has been elected.**
+**2.To elect a Leas Chathaoirleach of the Metropolitan District of Limerick to hold Office until thenext Annual Meeting or until a successor has been elected.**
 
 The Cathaoirleach invited nominations for the Office of Leas Chathaoirleach of the Metropolitan
 
@@ -173,9 +163,5 @@ year ahead.
 
 This concluded the Meeting.
 
-**SIGNED: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**Cathaoirleach**
-
-**DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**SIGNED: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_CathaoirleachDATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 ---

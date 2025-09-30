@@ -8,9 +8,9 @@
 
 Files: 
 
-Supplementary Agenda - Full Meeting of Limerick City and County Council - 22nd September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/supplementary-agenda-council-meeting-22.09.2025.pdf) - [Extracted text](./Supplementary%20Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2022nd%20September%202025.md)
+Supplementary Agenda - Full Meeting of Limerick City and County Council - 22nd September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/supplementary-agenda-council-meeting-22.09.2025.pdf) - Text not extracted
 
-Agenda - Full Meeting of Limerick City and County Council - 22nd September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-full-meeting-of-limerick-city-and-county-council-22nd-september-2025.pdf) - [Extracted text](./Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2022nd%20September%202025.md)
+Agenda - Full Meeting of Limerick City and County Council - 22nd September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-full-meeting-of-limerick-city-and-county-council-22nd-september-2025.pdf) - Text not extracted
 
 Minutes - Ordinary Meeting of Limerick City and County Council - 14th July 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-ordinary-meeting-of-limerick-city-and-county-council-14th-july-2025.pdf) - [Extracted text](./Minutes%20-%20Ordinary%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2014th%20July%202025.md)
 

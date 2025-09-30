@@ -3,13 +3,7 @@
 ---
 1
 
-**Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
-
-**Strategic Policy Committee held on 23****rd** **April 2024 at 3:00 p.m. in the Council Chamber,**
-
-**Merchant’s Quay** **and ONLINE by MS Teams Video Conference.**
-
-**Members Present:** Cllrs. Novak (Chair), Butler, Daly, Foley, Kilcoyne, Leddin, McSweeney,
+**Minutes of the Meeting of Limerick City and County Council’s Travel and TransportationStrategic Policy Committee held on 23rdApril 2024 at 3:00 p.m. in the Council Chamber,Merchant’s Quayand ONLINE by MS Teams Video Conference.Members Present:** Cllrs. Novak (Chair), Butler, Daly, Foley, Kilcoyne, Leddin, McSweeney,
 
 O’Donovan, O’Hanlon, Ryan, Secas, Teefy, Mrs. M. Browne, Mr. Seán Golden, Mr. Tim O’ Brien,
 
@@ -53,7 +47,7 @@ adopted.
 ---
 2
 
-**Item 2: NTA Presentation: TFI Bike Scheme in Limerick** **–** **Andreas Saul-Rotne**
+**Item 2: NTA Presentation: TFI Bike Scheme in Limerick–Andreas Saul-Rotne**
 
 Mr. Andreas Saul-Rotne delivered an overview on the TFI Bike scheme outlining the stations in
 
@@ -137,9 +131,7 @@ the stations were required to be close to the city. Over time, the lesson learnt
 
 stations need to be further apart and need to be close to employment centres to maximise usage.
 
-**Item 3: Presentation: Parking Permits for Voluntary Organisations** **–** **Karen McDonnell,**
-
-**Executive Planner**
+**Item 3: Presentation: Parking Permits for Voluntary Organisations–Karen McDonnell,Executive Planner**
 
 Mr. Kennedy introduced this item by explaining how it arose from a Notice of Motion at an SPC
 
@@ -195,7 +187,7 @@ would be installed early next year. Mr. McGrath clarified that one or two of the
 
 cameras will be piloted in Dublin first and added that the NTA is examining traffic enforcement.
 
-**Item 4: Traffic Calming Policy** **–** **Hugh McGrath, S.E.**
+**Item 4: Traffic Calming Policy–Hugh McGrath, S.E.**
 
 Mr. McGrath delivered the Traffic Calming Policy outlining the changes proposed following a
 
@@ -269,17 +261,13 @@ support and liaise with the DoT.
 
 The Chair agreed that Items 5 and 6 would be discussed together.
 
-**Item 5: Notice of Motion submitted by Councillor L. Galvin (referred from Newcastle West**
-
-**Municipal Meeting)**
+**Item 5: Notice of Motion submitted by Councillor L. Galvin (referred from Newcastle WestMunicipal Meeting)**
 
 I will move at the next meeting that the byelaws be reviewed with regard to residential parking
 
 in the NCW Municipal District.
 
-**Item 6. Notice of Motion submitted by submitted by Councillor J. Scanlon (Referred from**
-
-**Newcastle West Municipal Meeting)**
+**Item 6. Notice of Motion submitted by submitted by Councillor J. Scanlon (Referred fromNewcastle West Municipal Meeting)**
 
 I will move at the next meeting that the charge for resident parking permits in Newcastle West
 
@@ -309,11 +297,7 @@ Cllr. Galvin stated the €25 is not much however there should not be two differ
 
 Ms. Power read the response to both Motions as follows:
 
-**Limerick City and County Council has commenced preparation of the Limerick Transport Plan.**
-
-**On completion of The Plan the parking byelaws for all districts will be reviewed and updated**
-
-**as necessary. Any changes made to byelaws in the interim would be premature.**
+**Limerick City and County Council has commenced preparation of the Limerick Transport Plan.On completion of The Plan the parking byelaws for all districts will be reviewed and updatedas necessary. Any changes made to byelaws in the interim would be premature.**
 
 Cllr. Scanlon stated that the reply was not satisfactory, and two permits are required for the
 

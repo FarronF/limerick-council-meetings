@@ -1,9 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-home-and-social-strategic-policy-committee-24th-april-2025.pdf)
 
 ---
-**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
-
-**STRATEGIC POLICY COMMITTEE**
+**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENTSTRATEGIC POLICY COMMITTEE**
 
 A meeting of Limerick City and County Council Home and Social Development Strategic Policy
 
@@ -29,11 +27,7 @@ Committee will be held in the Council Chamber, Dooradoyle and online on MS Teams
 
 5. Autism Working Group update.
 
-6. **Notice of Motion submitted by the Municipal District of Adare-Rathkeale** **-**
-
-**Councillors K. Sheahan** **(****Pro****p****oser****},** **B. Collins****,** **S. Kea****ry,** **E. O'Brien****,** **J.**
-
-**O'Dono****g****hue****,** **A. Teske****y**
+6. **Notice of Motion submitted by the Municipal District of Adare-Rathkeale-Councillors K. Sheahan(Proposer},B. Collins,S. Keary,E. O'Brien,J.O'Donoghue,A. Teskey**
 
 *We will move at the next Meeting if a recipient of carers allowance is living with elderly parents who*
 

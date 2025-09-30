@@ -51,9 +51,7 @@ The Members and staff thanked Councillor Galvin for his time as Cathaoirleach an
 
 him well.
 
-**1.**
-
-**Election of Cathaoirleach of the Municipal District**
+**1.Election of Cathaoirleach of the Municipal District**
 
 The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach of the
 
@@ -111,9 +109,7 @@ He thanked the Members, Director, Meetings Administrator, Roads and Housing staf
 
 assistance throughout the year.
 
-**2.**
-
-**Election of Leas-Chathaoirleach of the Municipal District**
+**2.Election of Leas-Chathaoirleach of the Municipal District**
 
 The Cathaoirleach then invited nominations for the office of Leas-Chathaoirleach of the
 
@@ -149,9 +145,7 @@ This concluded the Meeting.
 
 Signed:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**Cathaoirleach**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Cathaoirleach**
 
 Dated:
 

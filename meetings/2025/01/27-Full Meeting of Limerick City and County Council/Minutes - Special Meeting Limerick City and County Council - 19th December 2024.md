@@ -117,9 +117,7 @@ relation to the filling of subsequent vacancies consequent to the election of Co
 
 Sheehan to Dáil Éireann.
 
-**a)****Chair-Designate of the Climate Action, Biodiversity and Environment Strategic Policy**
-
-**Committee**
+**a)Chair-Designate of the Climate Action, Biodiversity and Environment Strategic PolicyCommittee**
 
 The Príomh Chomhairleoir advised that the Council was required to consider the
 
@@ -157,9 +155,7 @@ Kiely, Kilcoyne, Leddin, McSweeney, Mayor Moran, O’Donoghue, O’Hanlon, O’S
 
 O’Sullivan (T), Pond, Reale, Ryan (M), Secas, Sheahan, Slattery, Stokes, Talukder, Teskey, Ward
 
-**(28)**
-
-**For Councillor O’Donovan**
+**(28)For Councillor O’Donovan**
 
 Councillors Beasley, Benson, Donoghue, Hartigan (T), Hickey-O’Mara, O’Donovan, Ryan (E),
 
@@ -171,7 +167,7 @@ The Príomh Chomhairleoir declared Councillor Joe Leddin appointed Chair-Designa
 
 of the Climate Action, Biodiversity and Environment Strategic Policy Committee.
 
-**b)****Moyross Community Enterprise Centre Limited**
+**b)Moyross Community Enterprise Centre Limited**
 
 The Príomh Chomhairleoir advised that the Council was required to consider the
 
@@ -207,7 +203,7 @@ Scanlan, Secas, Sheahan, Slattery, Stokes, Talukder, Teefy, Teskey, Ward. **(34)
 ---
 4
 
-**For Councillor Hickey-****O’Mara**
+**For Councillor Hickey-O’Mara**
 
 Councillors Benson, Donoghue, Gavan, Hickey O’Mara, O’Donovan. **(5)**
 
@@ -349,19 +345,13 @@ Strategic Policy Committees as set out below:
 ---
 6
 
-**Trade Union**
-
-**Travel and Transportation Strategic Policy Committee**
+**Trade UnionTravel and Transportation Strategic Policy Committee**
 
  Dan O'Neill
 
  Carol McNamara
 
-**Community/ Voluntary**
-
-**Economic Development, Enterprise, Tourism and Planning Strategic Policy**
-
-**Committee**
+**Community/ VoluntaryEconomic Development, Enterprise, Tourism and Planning Strategic PolicyCommittee**
 
  Declan Hehir, BGM Community Council CLG
 
@@ -387,11 +377,7 @@ Strategic Policy Committees as set out below:
 
  Marion Hurley, Kilmurry Arts and Heritage Centre
 
-**Social Inclusion**
-
-**Economic Development, Enterprise, Tourism and Planning Strategic Policy**
-
-**Committee**
+**Social InclusionEconomic Development, Enterprise, Tourism and Planning Strategic PolicyCommittee**
 
  Vadivel Raj, Limerick Migrants Forum
 

@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-february-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
-
-**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
-
-**LIMERICK AND ONLINE ON TUESDAY, 11****TH** **FEBRUARY, 2025 AT 9.30 A.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK AND ONLINE ON TUESDAY, 11THFEBRUARY, 2025 AT 9.30 A.M.PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -43,9 +37,7 @@ Executive Office, Regeneration, Sports and Recreation (Mr. D. White), Clerical O
 
 (Ms. L. Lenihan).
 
-**1.**
-
-**Adoption of Minutes**
+**1.Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Municipal District of
 
@@ -59,9 +51,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-**2.**
-
-**Declaration of Interest**
+**2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
@@ -73,11 +63,7 @@ No such interest was declared.
 ---
 2
 
-**3.**
-
-**Property Management Services**
-
-**Derelict Sites and Vacant Homes Activation Programme**
+**3.Property Management ServicesDerelict Sites and Vacant Homes Activation Programme**
 
 The Cathaoirleach welcomed Jayne Leahy, Head of Property Management and Audrey
 
@@ -107,11 +93,7 @@ presentation would be given to Members at a future Meeting of the District on th
 
 Property Refurbishment Grant.
 
-**4.**
-
-**Mid West National Road Design Office**
-
-**Foynes to Limerick Road (Including Adare Bypass) Project**
+**4.Mid West National Road Design OfficeFoynes to Limerick Road (Including Adare Bypass) Project**
 
 The Cathaoirleach welcomed Ultan Heffernan, Senior Executive Engineer & Client Project
 
@@ -171,21 +153,13 @@ Members requested an update and progress report on the Limerick to Foynes rail l
 
 the March Municipal District Meeting.
 
-**5.**
-
-**Active Travel**
+**5.Active Travel**
 
 The Senior Executive Engineer, Roads, Traffic and Cleansing advised Members Item 12 on
 
 the Agenda wold be taken in connection with this item.
 
-**Notice of Motion submitted by Councillor T. Hartigan**
-
-**I will move at the next Meeting to extend an invitation to the Transportation and**
-
-**Mobility Department to discuss the applications submitted for the District under the**
-
-**Active Travel recent schemes.**
+**Notice of Motion submitted by Councillor T. HartiganI will move at the next Meeting to extend an invitation to the Transportation andMobility Department to discuss the applications submitted for the District under theActive Travel recent schemes.**
 
 The Senior Executive Engineer, Roads, Traffic and Cleansing gave Members a presentation
 
@@ -235,11 +209,7 @@ Transport Infrastructure Ireland for schemes in towns and villages on the Nation
 
 in the District.
 
-**6.**
-
-**Roads, Traffic and Cleansing**
-
-**District Engineers Report**
+**6.Roads, Traffic and CleansingDistrict Engineers Report**
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated
 
@@ -277,15 +247,7 @@ The report, as circulated, was noted by Members.
 
 It was agreed Item 13 on the Agenda would be taken next.
 
-**NOTICE OF MOTION**
-
-**13.**
-
-**Notice of Motion submitted by Councillor J. O’Donoghue**
-
-**I will move at the next Meeting for an opening date to be confirmed for the Askeaton**
-
-**Swimming Pool along with any other updates.**
+**NOTICE OF MOTION13.Notice of Motion submitted by Councillor J. O’DonoghueI will move at the next Meeting for an opening date to be confirmed for the AskeatonSwimming Pool along with any other updates.**
 
 The Notice of Motion was proposed by Councillor O’Donoghue, seconded by Councillor
 
@@ -353,11 +315,7 @@ however, it is difficult to advise an opening date at this time given the
 
 process is still on-going.
 
-**7.**
-
-**Travel and Transport Strategy**
-
-**Footpath from Kildimo to the Beer Garden Public House**
+**7.Travel and Transport StrategyFootpath from Kildimo to the Beer Garden Public House**
 
 The Meetings Administrator advised Members the following update was received from
 
@@ -389,11 +347,7 @@ Strategy Department at the March Municipal District Meeting to discuss the matte
 
 further.
 
-**8.**
-
-**Planning, Environment and Place Making**
-
-**Flood Relief Scheme for Adare**
+**8.Planning, Environment and Place MakingFlood Relief Scheme for Adare**
 
 The Meetings Administrator advised Members the following update was received from
 
@@ -423,9 +377,7 @@ Senior Executive Engineer, Planning, Environment and Place Making attend the Mar
 
 Municipal District Meeting to present the Plan to Members.
 
-**9.**
-
-**General Municipal Allocation (GMA)**
+**9.General Municipal Allocation (GMA)**
 
 On the proposal of Councillor Collins, seconded by Councillor Keary, it was agreed to
 
@@ -517,9 +469,7 @@ allocate the following:
 
  €2,000 to Ballyneety Men’s Shed.
 
-**10.**
-
-**Request to receive a Deputation from Foynes Flying Boat Museum**
+**10.Request to receive a Deputation from Foynes Flying Boat Museum**
 
 The Meetings Administrator informed Members that a request to receive a Deputation
 
@@ -527,9 +477,7 @@ had been received from representatives of Foynes Flying Boat Museum. Members agr
 
 further discussion would take place on this matter and would revert in due course.
 
-**11.**
-
-**Request to receive a briefing from Tusla**
+**11.Request to receive a briefing from Tusla**
 ---
 8
 
@@ -539,9 +487,7 @@ representatives of Tusla to consider a briefing on the fostering process. It was
 
 receive this briefing at the April Adare-Rathkeale Municipal District Meeting.
 
-**14.**
-
-**Correspondence**
+**14.Correspondence**
 
 Correspondence was noted and taken as read.
 

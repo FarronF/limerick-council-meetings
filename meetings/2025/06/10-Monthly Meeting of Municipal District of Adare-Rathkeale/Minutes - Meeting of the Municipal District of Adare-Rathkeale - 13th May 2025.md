@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-a-draft-minutes-of-monthly-meeting-13th-may-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
-
-**ADARE-RATHKEALE HELD IN** **ST. MARY’S NATIONAL SCHOOL, HIGH STREET, CROOM****,**
-
-**CO. LIMERICK ON TUESDAY, 13****TH** **MAY, 2025 AT 9.30 A.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD INST. MARY’S NATIONAL SCHOOL, HIGH STREET, CROOM,CO. LIMERICK ON TUESDAY, 13THMAY, 2025 AT 9.30 A.M.PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -35,9 +29,7 @@ National School and thanked Mr. Emmett Murphy, Principal, for facilitating the M
 
 District Meeting at the school.
 
-**1.**
-
-**Adoption of Minutes**
+**1.Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Municipal District of
 
@@ -51,9 +43,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-**2.**
-
-**Declaration of Interest**
+**2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
@@ -65,9 +55,7 @@ No such interest was declared.
 ---
 2
 
-**3.**
-
-**Disposal of Land**
+**3.Disposal of Land**
 
 Circulated, report of the Head of Property Management dated 7th April, 2025 setting out
 
@@ -81,9 +69,7 @@ The report, as circulated, was proposed by Councillor Collins, seconded by Counc
 
 Keary and agreed.
 
-**4.**
-
-**Deputation from Croom National School Parents Association**
+**4.Deputation from Croom National School Parents Association**
 
 The Cathaoirleach welcomed representatives from Croom National School to the
 
@@ -95,15 +81,7 @@ Management Member and Darren Feldon, Architect and Head of Design Team.
 
 It was agreed Item 8 on the Agenda would be taken in connection with this item.
 
-**8.**
-
-**Notice of Motion submitted by Councillor J. O’Donoghue**
-
-**I will move at the next Meeting that Limerick City and County Council give a**
-
-**commitment to the completion of the section of road from the L1408 via Camogue Park**
-
-**to the rear of the extended boundary of Croom National School.**
+**8.Notice of Motion submitted by Councillor J. O’DonoghueI will move at the next Meeting that Limerick City and County Council give acommitment to the completion of the section of road from the L1408 via Camogue Parkto the rear of the extended boundary of Croom National School.**
 
 The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Hartigan
 
@@ -119,9 +97,7 @@ Distributor Road has been delivered to date through collaboration and funding fr
 
 following agencies:
 
-**Funding Sources on Croom Distributor Road**
-
-**Scheme**
+**Funding Sources on Croom Distributor RoadScheme**
 
 EURO
 
@@ -303,9 +279,7 @@ The Delegation thanked Members for the opportunity to discuss their concerns and
 
 then withdrew from the Meeting.
 
-**5.**
-
-**Briefing from Tusla on the fostering process**
+**5.Briefing from Tusla on the fostering process**
 
 The Cathaoirleach welcomed Ms. Jeanette Seymour from Tusla to the Meeting. Ms.
 
@@ -345,11 +319,7 @@ these issues adding Members also needed to contact An Garda Síochána to discus
 
 concerns.
 
-**6.**
-
-**Transport and Mobility Directorate**
-
-**District Engineers Report**
+**6.Transport and Mobility DirectorateDistrict Engineers Report**
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated
 
@@ -359,9 +329,7 @@ for the District.
 
 The report, as circulated, was noted by Members.
 
-**7.**
-
-**General Municipal Allocation (GMA)**
+**7.General Municipal Allocation (GMA)**
 
 On the proposal of Councillor Collins, seconded by Councillor O’Donoghue it was agreed
 
@@ -413,17 +381,7 @@ allocate the following:
 
  €1,000 to Pallaskenry Tidy Towns.
 
-**NOTICES OF MOTION**
-
-**9.**
-
-**Notice of Motion submitted by Councillor J. O’Donoghue**
-
-**I will move at the next Meeting that we write to the Department of Transport and ask**
-
-**that anyone using an e-scooter or an e-bike in a public place should hold a valid theory**
-
-**test that displays their knowledge on the rules of the road.**
+**NOTICES OF MOTION9.Notice of Motion submitted by Councillor J. O’DonoghueI will move at the next Meeting that we write to the Department of Transport and askthat anyone using an e-scooter or an e-bike in a public place should hold a valid theorytest that displays their knowledge on the rules of the road.**
 
 The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Teskey
 
@@ -481,15 +439,7 @@ caution the introduction of regulatory burdens that may not be practical
 
 to implement.
 
-**10.**
-
-**Notice of Motion submitted by Councillor A. Teskey**
-
-**I will move at the next Meeting given the fact the Council has honoured its obligations**
-
-**with the Department of Social Protection in its two year contract at Bank of Ireland,**
-
-**this premises be offered now for use in the provision of Library Services in Askeaton.**
+**10.Notice of Motion submitted by Councillor A. TeskeyI will move at the next Meeting given the fact the Council has honoured its obligationswith the Department of Social Protection in its two year contract at Bank of Ireland,this premises be offered now for use in the provision of Library Services in Askeaton.**
 
 The Motion was proposed by Councillor Teskey, seconded by Councillor Keary and
 
@@ -553,9 +503,7 @@ capital funding from the Department of Social Protection; and Rural and Communit
 
 Development and the Gaeltacht.
 
-**11.**
-
-**A.O.B**
+**11.A.O.B**
 
  Councillor Teskey proposed a vote of sympathy for the following people:
 

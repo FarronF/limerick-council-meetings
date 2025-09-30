@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-for-economoic-development-enterprise-tourism-and-planning-spc-meeting-held-14th-april-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
-
-**TOURISM AND PLANNING STRATEGIC POLICY COMMITTEE MEETING HELD ON MONDAY, 14 APRIL**
-
-**2025 AT 2:15PM IN COUNCIL CHAMBER, DOORADOYLE AND ONLINE**
-
-**Present in the Chair:**
+**MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,TOURISM AND PLANNING STRATEGIC POLICY COMMITTEE MEETING HELD ON MONDAY, 14 APRIL2025 AT 2:15PM IN COUNCIL CHAMBER, DOORADOYLE AND ONLINEPresent in the Chair:**
 
 Councillor Peter Doyle
 
@@ -29,13 +23,7 @@ Officer), Mr.Vincent Murray (Director of Services), Ms. Nuala O’Connell (Senio
 
 Brendan Troy (Senior Executive Officer) and Ms. Maria Woods (Senior Planner).
 
-**Meeting**
-
-**Item 1**
-
-**Minutes: To adopt the draft minutes of the Meeting of the Economic Development, Enterprise,**
-
-**Tourism and Planning Strategic Policy Committee held on Monday 3rd March 2025.**
+**MeetingItem 1Minutes: To adopt the draft minutes of the Meeting of the Economic Development, Enterprise,Tourism and Planning Strategic Policy Committee held on Monday 3rd March 2025.**
 
 Mr. Thompson, PPN, requested two amendments to the draft minutes relating to his comments on
 
@@ -71,11 +59,7 @@ Proposed by: Cllr. Dan McSweeney
 
 Seconded by: Cllr. Joe Pond
 
-**Item 2**
-
-**Festivals and Events - The benefits to Tourism** **–** **Presentation by Ms. Eileen Coleman, Senior**
-
-**Executive Officer.**
+**Item 2Festivals and Events - The benefits to Tourism–Presentation by Ms. Eileen Coleman, SeniorExecutive Officer.**
 
 Ms. Coleman gave members a presentation on the benefits of festivals for tourism with emphasis on
 
@@ -263,11 +247,7 @@ these challenges. Mr. Troy said that he will bring the Night-Time Economy propos
 
 meeting.
 
-**Item 3**
-
-**Market Quarter & Cruises Street Public Realm Upgrades Project** **–** **presentation from Ms. Nuala**
-
-**O’Connell.**
+**Item 3Market Quarter & Cruises Street Public Realm Upgrades Project–presentation from Ms. NualaO’Connell.**
 
 Ms. O’Connell briefed members on the progress of the Market Quarter & Cruises Street Public Realm
 
@@ -391,9 +371,7 @@ with the remaining agenda items until 4.30pm. The members agreed and the meeting
 
 The meeting extension was proposed by Cllr. McSweeney and seconded by Cllr. Keary.
 
-**Item 4**
-
-**Update on THRIVE Kings Island Walled Town Area** **–** **presentation from Ms. Maria Woods**
+**Item 4Update on THRIVE Kings Island Walled Town Area–presentation from Ms. Maria Woods**
 
 Ms. Woods told members that the Forward Planning & Public Realm Department are submitting the
 
@@ -469,9 +447,7 @@ Property Department is in charge of this site and the members will be kept updat
 
 future changes.
 
-**Item 5**
-
-**AOB**
+**Item 5AOB**
 
 The Department of Housing, Local Government and Heritage has circulated a date in relation to
 
@@ -479,9 +455,7 @@ induction training for SPC Members. The training is online and is scheduled for 
 
 between 10am and 12pm, the details of the training was emailed to the SPC members.
 ---
-**Item 6**
-
-**Date for next meeting**
+**Item 6Date for next meeting**
 
 The next meeting is scheduled for Monday 23rd June 2025 at 2.15 pm.
 

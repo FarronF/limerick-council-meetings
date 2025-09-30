@@ -5,11 +5,7 @@
 
 (Image omitted)
 
-**4****th** **March, 2025**
-
-**To: The Chairperson and Each Member of the Climate Action, Biodiversity and Environment**
-
-**Strategic Policy Committee of Limerick City & County Council**
+**4thMarch, 2025To: The Chairperson and Each Member of the Climate Action, Biodiversity and EnvironmentStrategic Policy Committee of Limerick City & County Council**
 
 You are invited to attend a blended Meeting of the Climate Action, Biodiversity and Environment
 
@@ -19,17 +15,7 @@ on Tuesday 11th March 2025 at 2:30pm. The business to be transacted is set out i
 
 agenda.
 
-**Signed:**
-
-**CLLR JOE LEDDIN**
-
-**CHAIRPERSON OF THE CLIMATE ACTION, BIODIVERSITY AND ENVIRONMENT**
-
-**STRATEGIC POLICY COMMITTEE**
-
-**Agenda**
-
-**1.**Limerick City and County Council Biodiversity Action Plan 2025-2030, presentation – Ms.
+**Signed:CLLR JOE LEDDINCHAIRPERSON OF THE CLIMATE ACTION, BIODIVERSITY AND ENVIRONMENTSTRATEGIC POLICY COMMITTEEAgenda1.**Limerick City and County Council Biodiversity Action Plan 2025-2030, presentation – Ms.
 
 Sinéad McDonnell, Biodiversity Officer, Environment and Climate Action.
 
@@ -43,7 +29,7 @@ Climate Action.
 
 Administrative Officer, Litter Management.
 
-**4.****Notice of Motion submitted by Councillor** **E. O’Donovan**
+**4.Notice of Motion submitted by CouncillorE. O’Donovan**
 
 I will move at the next meeting of the Metropolitan District of Limerick that a cost price
 

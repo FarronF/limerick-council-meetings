@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-08/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-8th-july-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
-
-**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
-
-**LIMERICK AND ONLINE ON TUESDAY, 8****th** **JULY, 2025 AT 9.30 A.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK AND ONLINE ON TUESDAY, 8thJULY, 2025 AT 9.30 A.M.PRESENT IN THE CHAIR:**
 
 Councillor G. Ward, An Cathaoirleach.
 
@@ -35,9 +29,7 @@ Maintenance (Mr. B. Kidney), Administrative Officer, Strategy and Non LA Housing
 
 Construction (Mr. J. Hayes).
 
-**1.**
-
-**Adoption of Minutes**
+**1.Adoption of Minutes**
 
 (a)
 
@@ -95,9 +87,7 @@ Councillor Teskey in relation to General Municipal Allocations be forwarded to C
 
 Services Department, City Hall for clarification.
 
-**2.**
-
-**Declaration of Interest**
+**2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government
 
@@ -109,9 +99,7 @@ the Meeting.
 
 No such interest was declared.
 
-**3.**
-
-**Disposal of Land**
+**3.Disposal of Land**
 
 (a)
 
@@ -145,11 +133,7 @@ The report, as circulated, was noted by Members.
 ---
 3
 
-**4.**
-
-**Mid West National Road Design Office**
-
-**N/M20 Cork to Limerick Project**
+**4.Mid West National Road Design OfficeN/M20 Cork to Limerick Project**
 
 Members welcomed Jari Howard N/M20 Project Coordinator, Mid West National Road
 
@@ -159,15 +143,7 @@ Consultants to the meeting. It was agreed Item 8 on the Agenda would be taken in
 
 connection with this item.
 
-**8.**
-
-**Notice of Motion submitted by Councillor J. O’Donoghue**
-
-**I will move at the next Meeting that we receive a presentation from the N/M20 office**
-
-**on the latest update on the proposed project from the Cork/Limerick boundary to**
-
-**Patrickswell.**
+**8.Notice of Motion submitted by Councillor J. O’DonoghueI will move at the next Meeting that we receive a presentation from the N/M20 officeon the latest update on the proposed project from the Cork/Limerick boundary toPatrickswell.**
 
 The N/M20 Project Coordinator, Mid West National Road Design Office gave Members a
 
@@ -213,11 +189,7 @@ Following further discussion The N/M20 Project Coordinator, Mid West National Ro
 
 Design Office agreed to take consideration of Councillor O’Donoghue’s observations.
 
-**5.**
-
-**Housing Strategy & Non-LA Housing Construction**
-
-**Social Housing Delivery**
+**5.Housing Strategy & Non-LA Housing ConstructionSocial Housing Delivery**
 ---
 4
 
@@ -255,9 +227,7 @@ development. He further advised drainage issues for these units which has not be
 
 straightforward also has to be resolved by the end of July.
 
-**6.**
-
-**Social Housing in Pallaskenry**
+**6.Social Housing in Pallaskenry**
 
 The Senior Executive Officer, Strategy & Non LA Construction updated Members on the
 
@@ -293,11 +263,7 @@ every three weeks going forward.
 ---
 5
 
-**7.**
-
-**Transport and Mobility Directorate**
-
-**District Engineers Report**
+**7.Transport and Mobility DirectorateDistrict Engineers Report**
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated
 
@@ -307,9 +273,7 @@ for the District.
 
 The report, as circulated, was noted by Members.
 
-**8.**
-
-**General Municipal Allocation (GMA)**
+**8.General Municipal Allocation (GMA)**
 
 On the proposal of Councillor Collins, seconded by Councillor O’Donoghue, it was agreed
 
@@ -363,15 +327,11 @@ allocate the following:
 
  €3,000 Ballingarry Community Park.
 
-**10.**
-
-**Correspondence**
+**10.Correspondence**
 
 Correspondence was noted and taken as read.
 
-**11.**
-
-**A.O.B**
+**11.A.O.B**
 
  Members requested a presentation on the opening of Tenders and procurement
 

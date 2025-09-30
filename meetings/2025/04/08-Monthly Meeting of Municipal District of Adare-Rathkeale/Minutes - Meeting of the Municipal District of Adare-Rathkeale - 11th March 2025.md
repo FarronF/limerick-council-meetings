@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-march-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
-
-**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
-
-**LIMERICK AND ONLINE ON TUESDAY, 11****TH** **MARCH, 2025 AT 9.30 A.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK AND ONLINE ON TUESDAY, 11THMARCH, 2025 AT 9.30 A.M.PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -39,9 +33,7 @@ Director of Service, Mr. Stephane Duclot well in his appointment as Director of 
 
 Newcastle West Municipal District.
 
-**1.**
-
-**Adoption of Minutes**
+**1.Adoption of Minutes**
 
 (a)
 
@@ -93,9 +85,7 @@ Adare-Rathkeale Municipal District to host the event, which to date has not been
 
 acknowledged by Limerick City and County Council.
 
-**2.**
-
-**Declaration of Interest**
+**2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
@@ -105,13 +95,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 No such interest was declared.
 
-**3.**
-
-**Rural, Culture, Community and Tourism Development Directorate**
-
-**Part 8 Procedure** **–** **Redevelopment of the Monument Hill Walk in Foynes, Co.**
-
-**Limerick**
+**3.Rural, Culture, Community and Tourism Development DirectoratePart 8 Procedure–Redevelopment of the Monument Hill Walk in Foynes, Co.Limerick**
 
 Circulated, report of the Director of Service, Rural, Culture, Community and Tourism
 
@@ -181,11 +165,7 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development
 
 Regulations 2001 (as amended)”.
 
-**4.**
-
-**Transportation and Mobility Directorate**
-
-**Footpath from Kildimo to the Beer Garden Public House**
+**4.Transportation and Mobility DirectorateFootpath from Kildimo to the Beer Garden Public House**
 
 The Cathaoirleach welcomed A/Director of Service, Transportation and Mobility to the
 
@@ -229,9 +209,7 @@ extension from Kildimo to the Beer Garden be provided by the next meeting.
 ---
 4
 
-**5.**
-
-**Schedule of Municipal District Works for the Adare-Rathkeale District**
+**5.Schedule of Municipal District Works for the Adare-Rathkeale District**
 
 Circulated, report of the Director of Services, Planning and Place-Making outlining the
 
@@ -251,11 +229,7 @@ Rathkeale be adopted in accordance with Section 103A of the Local Government Act
 
 2001”.
 
-**6.**
-
-**Roads, Traffic and Cleansing**
-
-**District Engineers Report**
+**6.Roads, Traffic and CleansingDistrict Engineers Report**
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated
 
@@ -271,9 +245,7 @@ Engineer, Roads, Traffic and Cleansing agreed to liaise with Tom Joyce, Executiv
 
 Architect, Urban and Rural Community Development.
 
-**7.**
-
-**General Municipal Allocation (GMA)**
+**7.General Municipal Allocation (GMA)**
 
 On the proposal of Councillor Collins, seconded by Councillor Teskey, it was agreed to
 
@@ -313,19 +285,7 @@ allocate the following:
 
  €2,000 to Gerald Griffin Resource Centre.
 
-**QUESTIONS**
-
-**8.**
-
-**Question submitted by Councillor A. Teskey**
-
-**I will ask at the next Meeting how many people have been prosecuted or legal action**
-
-**enforced upon land owners who do not cut or maintain their hedgerows by this Local**
-
-**Authority in the past 24 months and breakdown of each per District.**
-
-**REPLY:**
+**QUESTIONS8.Question submitted by Councillor A. TeskeyI will ask at the next Meeting how many people have been prosecuted or legal actionenforced upon land owners who do not cut or maintain their hedgerows by this LocalAuthority in the past 24 months and breakdown of each per District.REPLY:**
 
 Within the past 24 months, across all Municipal Districts in Limerick City &
 
@@ -339,15 +299,7 @@ For the period 2023 & 2024 the Adare Rathkeale MD offices have issued
 
 section 70 of the roads act 1993.
 
-**9.**
-
-**Question submitted by Councillor A. Teskey**
-
-**I will ask at the next Meeting for an update on the discussions by this Council in relation**
-
-**to the appointment of an operator for the Askeaton Swimming Pool.**
-
-**REPLY:**
+**9.Question submitted by Councillor A. TeskeyI will ask at the next Meeting for an update on the discussions by this Council in relationto the appointment of an operator for the Askeaton Swimming Pool.REPLY:**
 
 Discussions are continuing with the same operator as reported at the
 
@@ -359,17 +311,7 @@ month. Subject to a satisfactory agreement, the centre could reopen later
 
 in the summer.
 
-**10.**
-
-**Question submitted by Councillor A. Teskey**
-
-**I will ask at the next Meeting for the Local Authority to explain the brief and the role**
-
-**and its proposed purpose of the appointment of Kathleen White to our District Council**
-
-**and for the Local Authority to explain the exact areas for which the appointment will be**
-
-**responsible for and what exactly are the functions of the said appointment.**
+**10.Question submitted by Councillor A. TeskeyI will ask at the next Meeting for the Local Authority to explain the brief and the roleand its proposed purpose of the appointment of Kathleen White to our District Counciland for the Local Authority to explain the exact areas for which the appointment will beresponsible for and what exactly are the functions of the said appointment.**
 ---
 6
 
@@ -403,29 +345,7 @@ Overall oversight of the District has been assigned to Gordon Daly, Deputy
 
 Director General.
 
-**11.**
-
-**Question submitted by Councillor S. Keary**
-
-**I will ask at the next Meeting:**
-
-**(a)**
-
-**How many applications have been made in the Adare-Rathkeale Municipal Area**
-
-**for Croí Cónaithe grant funding from the 1****st** **of January 2024 to the 31****st** **of**
-
-**December 2024.**
-
-**(b) How many applications have been approved pertaining to the same period.**
-
-**(c) How many applications have been refused/declined.**
-
-**(d) How many Section 5 requests have been sought during the said period.**
-
-**(e) How many applications did not have a Section 5 request.**
-
-**REPLY:**
+**11.Question submitted by Councillor S. KearyI will ask at the next Meeting:(a)How many applications have been made in the Adare-Rathkeale Municipal Areafor Croí Cónaithe grant funding from the 1stof January 2024 to the 31stofDecember 2024.(b) How many applications have been approved pertaining to the same period.(c) How many applications have been refused/declined.(d) How many Section 5 requests have been sought during the said period.(e) How many applications did not have a Section 5 request.REPLY:**
 
 The Vacant Property Refurbishment Grant was launched by the
 
@@ -521,19 +441,7 @@ How many applications did not have a Section 5 request.
 
 11
 
-**NOTICES OF MOTION**
-
-**12.**
-
-**Notice of Motion submitted by Councillor A. Teskey**
-
-**I will move at the next Meeting that this District write to the Minister for Enterprise**
-
-**Trade and Employment to ask for an update on what the Government have done to date**
-
-**and what measures if any have they undertaken to address the impending closure of**
-
-**Wyeth Nutritional.**
+**NOTICES OF MOTION12.Notice of Motion submitted by Councillor A. TeskeyI will move at the next Meeting that this District write to the Minister for EnterpriseTrade and Employment to ask for an update on what the Government have done to dateand what measures if any have they undertaken to address the impending closure ofWyeth Nutritional.**
 
 The Motion was proposed by Councillor Teskey, seconded by Councillor O’Donoghue and
 
@@ -549,17 +457,7 @@ which is a significant employer in the Askeaton region and raised concern of the
 
 impact on the local economy.
 
-**13.**
-
-**Notice of Motion submitted by Councillor A. Teskey**
-
-**I will move at the next Meeting that this District Council write to the Finance Director to**
-
-**request that due to the approval of 99 units by An Bord Pleanála in Deerpark, Adare and**
-
-**given the fact that the balance of €9.15 million is now due to this Local Authority that**
-
-**this funding be allocated to the Adare-Rathkeale Municipal District.**
+**13.Notice of Motion submitted by Councillor A. TeskeyI will move at the next Meeting that this District Council write to the Finance Director torequest that due to the approval of 99 units by An Bord Pleanála in Deerpark, Adare andgiven the fact that the balance of €9.15 million is now due to this Local Authority thatthis funding be allocated to the Adare-Rathkeale Municipal District.**
 
 The Motion was proposed by Councillor Teskey, seconded by Councillor Hartigan and
 
@@ -573,15 +471,7 @@ account for the acquisition of strategic asset purchases for the Council in gene
 
 future use of this fund is not pre-determined for any municipal/metropolitan district.
 
-**14.**
-
-**Notice of Motion submitted by Councillor J. O’Donoghue**
-
-**I will move at the next Meeting for an update on the status of our road velocity patcher,**
-
-**especially around the number of days it was being repaired in 2024 and the costs**
-
-**involved.**
+**14.Notice of Motion submitted by Councillor J. O’DonoghueI will move at the next Meeting for an update on the status of our road velocity patcher,especially around the number of days it was being repaired in 2024 and the costsinvolved.**
 
 The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Teskey and
 
@@ -669,15 +559,11 @@ for replacement in 2027, at which point it will become the spare
 
 machine for the fleet.
 
-**15.**
-
-**Correspondence**
+**15.Correspondence**
 
 Correspondence was noted and taken as read.
 
-**16.**
-
-**A.O.B**
+**16.A.O.B**
 
  Councillor Teskey requested a Meeting with the Ryder Cup Co-Ordinator as he
 

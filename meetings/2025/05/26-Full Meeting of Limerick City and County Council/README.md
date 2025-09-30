@@ -8,7 +8,7 @@
 
 Files: 
 
-Agenda -  Full Meeting of Limerick City and County Council - 26th May 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-special-meeting-of-limerick-city-and-county-council-9th-may-2025_0.pdf) - [Extracted text](./Agenda%20-%C2%A0%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2026th%20May%202025.md)
+Agenda -  Full Meeting of Limerick City and County Council - 26th May 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-special-meeting-of-limerick-city-and-county-council-9th-may-2025_0.pdf) - Text not extracted
 
 Minutes - Ordinary Meeting of Limerick City and County Council - 31st March 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-ordinary-meeting-of-limerick-city-and-county-council-31st-march-2025.pdf) - [Extracted text](./Minutes%20-%20Ordinary%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2031st%20March%202025.md)
 

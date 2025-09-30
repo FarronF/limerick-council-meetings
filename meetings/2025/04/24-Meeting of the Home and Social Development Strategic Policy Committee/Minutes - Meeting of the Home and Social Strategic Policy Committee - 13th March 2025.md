@@ -1,15 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-home-and-social-strategic-policy-committee-13th-march-2025.pdf)
 
 ---
-**MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
-
-**DEVELOPMENT SPC**
+**MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIALDEVELOPMENT SPC**
 
  
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic Policy
 
-Committee was held on the **13****th** **March 2025** in the Council Chamber, Dooradoyle and via MS
+Committee was held on the **13thMarch 2025** in the Council Chamber, Dooradoyle and via MS
 
 Teams. 
 
@@ -87,7 +85,7 @@ Director of Housing to the SPC as well as wishing Ms. Caroline Curley best wishe
 
 retirement. He then welcomed all new and current members to the March SPC meeting.
 
-**Item 1: Confirm minutes from meeting held on****30th May 2024**
+**Item 1: Confirm minutes from meeting held on30th May 2024**
 ---
 **Proposed:** Cllr. Adam Teskey
 
@@ -147,13 +145,7 @@ the Department to query as required. Mr McNamara confirmed that there are altern
 
 advised there is a list available.
 
-**On the proposal of Cllr. Francis Foley seconded by Cllr. Noreen Stokes it was agreed that under the**
-
-**present scheme, a recommendation be sent to the DHLGH to accommodate the installation of**
-
-**New Fossil Fuel Boilers.**
-
-**Proposed:** Cllr. Francis Foley **Seconded:** Cllr. Noreen Stokes
+**On the proposal of Cllr. Francis Foley seconded by Cllr. Noreen Stokes it was agreed that under thepresent scheme, a recommendation be sent to the DHLGH to accommodate the installation ofNew Fossil Fuel Boilers.Proposed:** Cllr. Francis Foley **Seconded:** Cllr. Noreen Stokes
 ---
 Mr. McNamara went onto to give a brief overview of what the scheme provides grant assistance
 
@@ -337,13 +329,7 @@ Cllr. Benson gave an overview on her motion and also added that there needs to b
 
 all stakeholders involved and that a working group was needed to make the changes.
 
-**On the proposal of Cllr. Sharon Benson seconded by Cllr. Elisa O’Donovan it was agreed that**
-
-**members of the SPC would establish a working group to further progress the work of the Autism**
-
-**Friendly Limerick group.**
-
-**Proposed:** Cllr. Sharon Benson **Seconded:** Cllr. Elisa O’Donovan
+**On the proposal of Cllr. Sharon Benson seconded by Cllr. Elisa O’Donovan it was agreed thatmembers of the SPC would establish a working group to further progress the work of the AutismFriendly Limerick group.Proposed:** Cllr. Sharon Benson **Seconded:** Cllr. Elisa O’Donovan
 
 Ms. Hayes replied that there are 2 ways options, through the Housing Disability Steering Group
 
@@ -405,11 +391,7 @@ Notice of Motion submitted by Councillor S. Beasley – 31st January 2025
 
 Cllr. Beasley asked could there be clinics arranged.
 
-**On the proposal of Cllr. Sarah Beasley seconded by Cllr. Sharon Benson it was agreed to bring**
-
-**forward if clinics could be arranged.**
-
-**Proposed:** Cllr. Sarah Beasley
+**On the proposal of Cllr. Sarah Beasley seconded by Cllr. Sharon Benson it was agreed to bringforward if clinics could be arranged.Proposed:** Cllr. Sarah Beasley
 
 **Seconded:** Cllr. Sharon Benson.
 
@@ -511,7 +493,7 @@ to legal due diligence.
 
 Mr. Kidney in reply to query regarding Adare – that they are currently gathering tender documents.
 
-**April SPC meeting date Thursday, 24****th** **April 2025**
+**April SPC meeting date Thursday, 24thApril 2025**
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting and
 

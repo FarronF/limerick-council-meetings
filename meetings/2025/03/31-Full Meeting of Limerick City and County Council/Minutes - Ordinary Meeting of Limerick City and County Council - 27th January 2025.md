@@ -109,11 +109,7 @@ The Motions were then taken in the following order:
 
 Notice of Motion submitted by Councillor E. Secas
 
-***I will move at the next meeting that Limerick City and County Council include in the winter***
-
-***maintenance programme measures to provide, going forward, gritting bins/loads to***
-
-***housing estates, where required by residents’ groups to treat footpaths within their estates.***
+***I will move at the next meeting that Limerick City and County Council include in the winter**maintenance programme measures to provide, going forward, gritting bins/loads to**housing estates, where required by residents’ groups to treat footpaths within their estates.***
 
 In moving the Motion, Councillor Secas outlined the need to introduce gritting bins
 
@@ -145,17 +141,7 @@ to be assessed in consideration for both the City and County.
 
 Notice of Motion submitted by Councillor L. Galvin
 
-***I will move at the next Plenary Meeting, given the recent weather events, that this Council***
-
-***(a) calls on Uisce Éireann to install generators at every pumping station in the country (b)***
-
-***calls on the ESB to cut back / cut down all trees and / or branches that are in danger of***
-
-***damaging the infrastructure and (c) calls on the Government to set up a special emergency***
-
-***phone number which is activated prior to and manned during all orange and red weather***
-
-***alerts.***
+***I will move at the next Plenary Meeting, given the recent weather events, that this Council**(a) calls on Uisce Éireann to install generators at every pumping station in the country (b)**calls on the ESB to cut back / cut down all trees and / or branches that are in danger of**damaging the infrastructure and (c) calls on the Government to set up a special emergency**phone number which is activated prior to and manned during all orange and red weather**alerts.***
 
 In moving the Motion, Councillor Galvin acknowledged the work carried out by the
 
@@ -189,25 +175,7 @@ Notice of Motion submitted by the Mayor of Limerick, John Moran and
 
 Councillors M. Ryan and L. Galvin
 
-***We will move at the next Meeting that the Council expresses its fullest appreciation for all***
-
-***of the work done by the Council staff and staff of other agencies and volunteers who worked***
-
-***24/7 to alleviate the hardships caused by the recent severe weather event. The Council now***
-
-***calls on the Minister for Housing, Local Government and Heritage to (a) immediately release***
-
-***funds to replenish Local Authority financial resources used to manage the emergency and***
-
-***(b) provide additional adequate funds (or otherwise provide financial arrangements) for***
-
-***Local Authorities impacted to arrange a local scheme to compensate homeowners and***
-
-***businesses for property damage, lost stock or foods or other reasonable uninsured damages***
-
-***caused by snowfall or electricity cuts and that this notice of motion be circulated to all Local***
-
-***Authorities.***
+***We will move at the next Meeting that the Council expresses its fullest appreciation for all**of the work done by the Council staff and staff of other agencies and volunteers who worked**24/7 to alleviate the hardships caused by the recent severe weather event. The Council now**calls on the Minister for Housing, Local Government and Heritage to (a) immediately release**funds to replenish Local Authority financial resources used to manage the emergency and**(b) provide additional adequate funds (or otherwise provide financial arrangements) for**Local Authorities impacted to arrange a local scheme to compensate homeowners and**businesses for property damage, lost stock or foods or other reasonable uninsured damages**caused by snowfall or electricity cuts and that this notice of motion be circulated to all Local**Authorities.***
 
 In moving the Motion, the Mayor of Limerick, John Moran, paid tribute to all Council
 
@@ -235,13 +203,7 @@ supply of snow ploughs for future use by community groups, should the need arise
 
 Notice of Motion submitted by Councillor A. Teskey
 
-***I will move at the next Meeting that this Local Authority would put in place a financial***
-
-***support scheme within the grant aid for older people form to include people in medical need***
-
-***that they would be able to apply for financial aid to help them purchase a generator to***
-
-***allow them to power electric medical devices where loss of power occurs.***
+***I will move at the next Meeting that this Local Authority would put in place a financial**support scheme within the grant aid for older people form to include people in medical need**that they would be able to apply for financial aid to help them purchase a generator to**allow them to power electric medical devices where loss of power occurs.***
 
 The Motion was proposed by Councillor Teskey and seconded by Councillor Galvin.
 
@@ -265,15 +227,7 @@ Department, requesting the Department consider changing the national guidelines.
 
 the Councillor if he would consider re-wording the Motion to read as follows:
 
-***I will move at the next Meeting that this Local Authority would call on the Government to***
-
-***put in place a financial support scheme within the grant aid for older people form to include***
-
-***people in medical need that they would be able to apply for financial aid to help them***
-
-***purchase a generator to allow them to power electric medical devices where loss of power***
-
-***occurs.***
+***I will move at the next Meeting that this Local Authority would call on the Government to**put in place a financial support scheme within the grant aid for older people form to include**people in medical need that they would be able to apply for financial aid to help them**purchase a generator to allow them to power electric medical devices where loss of power**occurs.***
 
 Councillor Teskey agreed to the reworded Motion.
 
@@ -287,13 +241,7 @@ copy would also be forwarded to all Local Authorities for support.
 
 Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that this Council write to the Minister asking for a relevant***
-
-***Government Department-backed plan to be put in place to mitigate against the danger of***
-
-***falling Trees, Branches and Bramble resulting in Power and Water Supply outages into the***
-
-***future.***
+***I will move at the next Meeting that this Council write to the Minister asking for a relevant**Government Department-backed plan to be put in place to mitigate against the danger of**falling Trees, Branches and Bramble resulting in Power and Water Supply outages into the**future.***
 
 The Motion was proposed by Councillor Scanlan, seconded by Councillor Daly, and
 
@@ -539,9 +487,7 @@ Ryan (M), Secas, Slattery, Talukder, Teefy, Ward.  **(23)**
 
 Councillors Beasley, Butler, Conway, Doyle, Galvin, Hartigan (T), Keary, Kiely, McSweeney,
 
-O’Sullivan (O), O’Sullivan (T), Ruddle, Scanlan, Sheahan, Stokes, Teskey.  **(16)**
-
-**Abstentions**
+O’Sullivan (O), O’Sullivan (T), Ruddle, Scanlan, Sheahan, Stokes, Teskey.  **(16)Abstentions**
 
 There were no abstentions.
 
@@ -727,89 +673,7 @@ on 19th December, 2024, and the approval of the Council was now requested for th
 
 remaining 16 Sectoral nominations from the Pillars, outlined in the report as follows:
 
-**Economic**
-
-**Development,**
-
-**Enterprise,**
-
-**Tourism and**
-
-**Planning SPC**
-
-**Climate**
-
-**Action,**
-
-**Biodiversity and**
-
-**Environment SPC**
-
-**Travel and**
-
-**Transportation**
-
-**SPC**
-
-**Home**
-
-**and Social**
-
-**Development**
-
-**SPC**
-
-**Community,**
-
-**Leisure, Arts,**
-
-**Heritage and**
-
-**Culture SPC**
-
-**Agriculture/**
-
-**Farming**
-
-**John Hannon**
-
-**Seán Lavery**
-
-**Barry Murphy**
-
-**Philip Ruttle**
-
-**Louise Crowley**
-
-**Development/**
-
-**Construction**
-
-**Michael Joyce**
-
-**John Foster**
-
-**P.J. O’Grady**
-
-**John Ward**
-
-**Business/**
-
-**Commercial**
-
-**Michelle Gallagher**
-
-**Seán Golden**
-
-**Conor Joy**
-
-**Michelle Gallagher**
-
-**Seán Golden**
-
-**Seán Golden**
-
-**Randal Hodkinson**
+**EconomicDevelopment,Enterprise,Tourism andPlanning SPCClimateAction,Biodiversity andEnvironment SPCTravel andTransportationSPCHomeand SocialDevelopmentSPCCommunity,Leisure, Arts,Heritage andCulture SPCAgriculture/FarmingJohn HannonSeán LaveryBarry MurphyPhilip RuttleLouise CrowleyDevelopment/ConstructionMichael JoyceJohn FosterP.J. O’GradyJohn WardBusiness/CommercialMichelle GallagherSeán GoldenConor JoyMichelle GallagherSeán GoldenSeán GoldenRandal Hodkinson**
 
 The report concluded that vacancies still remained in relation to positions to be filled
 
@@ -831,89 +695,7 @@ Officer, Corporate Services, Governance and Customer Services dated 17th January
 ---
 11
 
-**Economic**
-
-**Development,**
-
-**Enterprise,**
-
-**Tourism and**
-
-**Planning SPC**
-
-**Climate**
-
-**Action,**
-
-**Biodiversity and**
-
-**Environment SPC**
-
-**Travel and**
-
-**Transportation**
-
-**SPC**
-
-**Home**
-
-**and Social**
-
-**Development**
-
-**SPC**
-
-**Community,**
-
-**Leisure, Arts,**
-
-**Heritage and**
-
-**Culture SPC**
-
-**Agriculture/**
-
-**Farming**
-
-**John Hannon**
-
-**Seán Lavery**
-
-**Barry Murphy**
-
-**Philip Ruttle**
-
-**Louise Crowley**
-
-**Development/**
-
-**Construction**
-
-**Michael Joyce**
-
-**John Foster**
-
-**P.J. O’Grady**
-
-**John Ward**
-
-**Business/**
-
-**Commercial**
-
-**Michelle Gallagher**
-
-**Seán Golden**
-
-**Conor Joy**
-
-**Michelle Gallagher**
-
-**Seán Golden**
-
-**Seán Golden**
-
-**Randal Hodkinson****”**
+**EconomicDevelopment,Enterprise,Tourism andPlanning SPCClimateAction,Biodiversity andEnvironment SPCTravel andTransportationSPCHomeand SocialDevelopmentSPCCommunity,Leisure, Arts,Heritage andCulture SPCAgriculture/FarmingJohn HannonSeán LaveryBarry MurphyPhilip RuttleLouise CrowleyDevelopment/ConstructionMichael JoyceJohn FosterP.J. O’GradyJohn WardBusiness/CommercialMichelle GallagherSeán GoldenConor JoyMichelle GallagherSeán GoldenSeán GoldenRandal Hodkinson”**
 
 (ii)
 
@@ -1145,13 +927,7 @@ With the permission of the Príomh Chomhairleoir and prior to proceeding to Item
 
 5 on the Agenda, Councillor Keary moved the following Emergency Motion:
 
-***“I will move that Limerick City and County Council will write to the new Minister for***
-
-***Transport, Mr. Darragh O’Brien,*** ***TD, and ask him to construct the additional two***
-
-***kilometres of Motorway between Adare and Mount Earl to connect the existing***
-
-***Motorway to the current proposal.”***
+***“I will move that Limerick City and County Council will write to the new Minister for**Transport, Mr. Darragh O’Brien,**TD, and ask him to construct the additional two**kilometres of Motorway between Adare and Mount Earl to connect the existing**Motorway to the current proposal.”***
 
 The Motion was seconded by Councillor Teskey.
 
@@ -1215,11 +991,9 @@ On the proposal of Councillor Sheahan, seconded by Councillor Collins (M), the C
 
 approved the attendance of the following Members at Conferences already approved:
 
-**Conference ‘A Practical Guide to Budget 2025 –** **Carlingford, Co. Louth (11****th****–** **13****th** **October,**
+**Conference ‘A Practical Guide to Budget 2025 –Carlingford, Co. Louth (11th–13thOctober,2024):** Councillors Leddin, O’Hanlon, Galvin, Slattery, Kilcoyne, Foley, Collins (M).
 
-**2024):** Councillors Leddin, O’Hanlon, Galvin, Slattery, Kilcoyne, Foley, Collins (M).
-
-**Conference ‘Health Services Entitlements’ –** **Clonakilty, Co. Cork:** Councillor O’Donovan.
+**Conference ‘Health Services Entitlements’ –Clonakilty, Co. Cork:** Councillor O’Donovan.
 
 MAYOR’S QUESTIONS
 
@@ -1227,17 +1001,7 @@ MAYOR’S QUESTIONS
 
 Question submitted by Councillor U. Gavan
 
-***I will ask the Mayor at the next Meeting has Limerick City and County Council***
-
-***communicated/liaised with Uisce Éireann regarding capacity to deal with increased***
-
-***demand for water and waste facilities whilst roadworks will be carried out, to plan for the***
-
-***future and Ryder Cup and ultimately ensure that we do not have one set of long term***
-
-***roadworks followed by another.***
-
-**REPLY:**
+***I will ask the Mayor at the next Meeting has Limerick City and County Council**communicated/liaised with Uisce Éireann regarding capacity to deal with increased**demand for water and waste facilities whilst roadworks will be carried out, to plan for the**future and Ryder Cup and ultimately ensure that we do not have one set of long term**roadworks followed by another.*REPLY:**
 
 The Councillor's point is well made — you are completely right that proper
 
@@ -1277,15 +1041,7 @@ other matters, but I would be happy to keep this issue on my agenda with Uisce
 
 Question submitted by Councillor S. Benson
 
-***I will ask the Mayor at the next meeting for an update on the first 3 Expert Groups that are***
-
-***being established, how stakeholders are being chosen to sit on these groups and what other***
-
-***Expert Groups are being planned for the future.***
-
-**REPLY:**
-
-**Context: Purpose and Role of Expert Groups:**
+***I will ask the Mayor at the next meeting for an update on the first 3 Expert Groups that are**being established, how stakeholders are being chosen to sit on these groups and what other**Expert Groups are being planned for the future.*REPLY:Context: Purpose and Role of Expert Groups:**
 
 The establishment of Expert Groups represents a shift in how policy is developed and
 
@@ -1709,13 +1465,7 @@ Breakdown of expenditure on renewal and maintenance works are listed as
 
 follows: -
 
-**Renewal and Maintenance Costs**
-
-**Breakdown**
-
-**Year**
-
-**Value**
+**Renewal and Maintenance CostsBreakdownYearValue**
 
 2023
 
@@ -1859,9 +1609,7 @@ Kilmallock – Councillors G. Conway (Proposer), P.J. Carey, T. O’Sullivan, E.
 
 Ryan, M. Ryan, N. Stokes, B. Teefy
 
-**We will move at the next Meeting that we call on the incoming Minister for Health to**
-
-**establish an ambulance base at Kilmallock Primary Health Centre, Kilmallock.**
+**We will move at the next Meeting that we call on the incoming Minister for Health toestablish an ambulance base at Kilmallock Primary Health Centre, Kilmallock.**
 
 The Motion was proposed by Councillor Conway and seconded by Councillor Ryan (M).
 
@@ -1875,21 +1623,7 @@ two ambulances to be operational there.
 
 Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
-**I will move at the next Meeting that this Council commit to using factual and accurate**
-
-**information, based on credible sources, in this Cou****ncil’s discussion and debates over the**
-
-**length of its term. In making this commitment, this Council affirms its obligation as a Local**
-
-**Authority, as per Section 42 of the Irish Human Rights and Equality Commission Act 2014,**
-
-**to have regard to the need to: (a) eliminate discrimination; (b) promote equality of**
-
-**opportunity and treatment of its staff and the persons to whom it provides services, and (c)**
-
-**protect the human rights of its members, staff and the persons to whom it provides**
-
-**services.**
+**I will move at the next Meeting that this Council commit to using factual and accurateinformation, based on credible sources, in this Council’s discussion and debates over thelength of its term. In making this commitment, this Council affirms its obligation as a LocalAuthority, as per Section 42 of the Irish Human Rights and Equality Commission Act 2014,to have regard to the need to: (a) eliminate discrimination; (b) promote equality ofopportunity and treatment of its staff and the persons to whom it provides services, and (c)protect the human rights of its members, staff and the persons to whom it providesservices.**
 
 The Motion was proposed by Councillor Hickey-O’Mara and seconded by Councillor
 
@@ -1953,13 +1687,7 @@ dealt with earlier in the Meeting and therefore proceeded to Item No. 24 on the 
 
 Notice of Motion submitted by Councillor U. Gavan
 
-**I will move at the next Meeting that this Council calls on employers throughout the region**
-
-**to ensure that all staff in their employ have recourse to first-class menstrual and**
-
-**menopausal care with a focus on best practice in order to set the highest standards and**
-
-**ensure Limerick leads the way at national level with regard to these issues.**
+**I will move at the next Meeting that this Council calls on employers throughout the regionto ensure that all staff in their employ have recourse to first-class menstrual andmenopausal care with a focus on best practice in order to set the highest standards andensure Limerick leads the way at national level with regard to these issues.**
 
 The Motion was proposed by Councillor Gavan and seconded by Councillor
 
@@ -1985,25 +1713,7 @@ similar campaign on this matter.
 
 Notice of Motion submitted by Councillor S. Benson
 
-**I will move at the next Meeting that this Council will adopt a rights-based Ethical**
-
-**Procurement Policy (EPP), ensuring that every endeavour is made to ensure that Council**
-
-**tender processes are consistent with the principles of the UN guiding principles on Business**
-
-**and Human Rights, OECD, Guidelines for Multinational Enterprises and the Global Sullivan**
-
-**Principles (1999) - to promote respect for human rights by companies with which they do**
-
-**business.****The EPP will incorporate widely accepted and precisely formulated international**
-
-**standards and explain clearly how the policy will be implemented. The primary aim of the**
-
-**EPP is to ensure that human rights obligations are properly acknowledged, observed and**
-
-**respected at all stages of the procurement process.**
-
-**REPLY:**
+**I will move at the next Meeting that this Council will adopt a rights-based EthicalProcurement Policy (EPP), ensuring that every endeavour is made to ensure that Counciltender processes are consistent with the principles of the UN guiding principles on Businessand Human Rights, OECD, Guidelines for Multinational Enterprises and the Global SullivanPrinciples (1999) - to promote respect for human rights by companies with which they dobusiness.The EPP will incorporate widely accepted and precisely formulated internationalstandards and explain clearly how the policy will be implemented. The primary aim of theEPP is to ensure that human rights obligations are properly acknowledged, observed andrespected at all stages of the procurement process.REPLY:**
 
 The Council has a Procurement Policy in place, which is based on the Public
 
@@ -2053,15 +1763,7 @@ further.
 
 Notice of Motion submitted by Councillor S. Beasley
 
-**I move at the next Meeting that we write to the Chief Superintendent of Limerick Garda**
-
-**Síochána, considering the absence of an ISPCA Inspector in Limerick, to urge the creation of**
-
-**a dedicated** ***Garda Animal Welfare******Unit*** **in Limerick, to combat the rising incidents of animal**
-
-**cruelty and to further address seizure processes related to the impending ban on XL Bully**
-
-**dogs.**
+**I move at the next Meeting that we write to the Chief Superintendent of Limerick GardaSíochána, considering the absence of an ISPCA Inspector in Limerick, to urge the creation ofa dedicated*Garda Animal Welfare**Unit*in Limerick, to combat the rising incidents of animalcruelty and to further address seizure processes related to the impending ban on XL Bullydogs.**
 ---
 26
 
@@ -2073,15 +1775,7 @@ O’Donovan, and adopted.
 
 Notice of Motion submitted by Councillor E. O’Donovan
 
-**I will move at the next Meeting that this Council write to the Department of Children,**
-
-**Equality, Disability, Integration and Youth (DCEDIY), Taoiseach and Minister for DCEDIY and**
-
-**request an extension until June for the state-supported Ukrainian accommodation in**
-
-**Limerick and for those with pets to be accommodated in temporary accommodation as**
-
-**required.**
+**I will move at the next Meeting that this Council write to the Department of Children,Equality, Disability, Integration and Youth (DCEDIY), Taoiseach and Minister for DCEDIY andrequest an extension until June for the state-supported Ukrainian accommodation inLimerick and for those with pets to be accommodated in temporary accommodation asrequired.**
 
 The Motion was proposed by Councillor O’Donovan and seconded by Councillor Secas,
 
@@ -2095,15 +1789,7 @@ Councillors J. O’Donoghue (Proposer), B. Collins, T. Hartigan, S. Keary, A.
 
 Teskey, G. Ward
 
-**We will move at the next Meeting that Limerick City and County Council write to the**
-
-**Department of Housing, Local Government and Heritage, and any other relevant**
-
-**Government Departments, to change the Regulations on the newest application forms for**
-
-**Housing Adaptation Grants for older people and disabled people, most notably the**
-
-**unavailability of a grant to replace a fossil fuel burner if the current burner is unrepairable.**
+**We will move at the next Meeting that Limerick City and County Council write to theDepartment of Housing, Local Government and Heritage, and any other relevantGovernment Departments, to change the Regulations on the newest application forms forHousing Adaptation Grants for older people and disabled people, most notably theunavailability of a grant to replace a fossil fuel burner if the current burner is unrepairable.**
 
 The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Keary,
 
@@ -2113,9 +1799,7 @@ and adopted.
 
 Metropolitan District of Limerick)
 
-**I will move at the next meeting that the owners of the former Debenhams building are**
-
-**encouraged to expedite development and reuse this key City Centre site.**
+**I will move at the next meeting that the owners of the former Debenhams building areencouraged to expedite development and reuse this key City Centre site.**
 
 The Motion was referred to the Metropolitan District of Limerick for consideration.
 

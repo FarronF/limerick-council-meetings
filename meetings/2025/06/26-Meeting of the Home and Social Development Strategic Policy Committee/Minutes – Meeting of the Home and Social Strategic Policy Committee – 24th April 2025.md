@@ -1,15 +1,13 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-home-and-social-strategic-policy-committee-24th-april-2025.pdf)
 
 ---
-**MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
-
-**DEVELOPMENT SPC**
+**MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIALDEVELOPMENT SPC**
 
  
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic Policy
 
-Committee was held on the **24****th** **April 2025** in the Council Chamber, Dooradoyle and via MS Teams. 
+Committee was held on the **24thApril 2025** in the Council Chamber, Dooradoyle and via MS Teams. 
 
  
 
@@ -65,7 +63,7 @@ Cllr. Bridie Collins
 
 Ms. Carol McNamara.
 
-**Welcome by Chairperson** **–** **Cllr. Stephen Keary**
+**Welcome by Chairperson–Cllr. Stephen Keary**
 
  
 
@@ -73,11 +71,7 @@ An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed everyone i
 
 and online.
 
-**Item 1: Confirm minutes from meeting held on****13****th** **March 2025**
-
- 
-
-**Proposed:** Cllr. Joe Leddin
+**Item 1: Confirm minutes from meeting held on13thMarch 2025Proposed:** Cllr. Joe Leddin
 
 **Seconded:** Cllr. Noreen stokes
 ---
@@ -103,7 +97,7 @@ would be opened up to the schools and stated it is not just for the sports but w
 
 other recreations in the area.
 
-**Item 4: Changes to Limerick City and County Allocation Scheme 2021** **–** **Rightsizing Scheme:**
+**Item 4: Changes to Limerick City and County Allocation Scheme 2021–Rightsizing Scheme:**
 
 Sarah Newell, Senior Executive Officer, Housing presented on the changes to Limerick City and
 
@@ -159,13 +153,7 @@ current schemes across all our social media platforms and that the Elected Membe
 
 notified prior to launch dates.
 
-**On the proposal of Cllr. Noreen Stokes seconded by Cllr. Catherine Slattery it was agreed to bring**
-
-**the recommendation for Changes to Limerick City and County Allocation Scheme 2021** **–**
-
-**Rightsizing Scheme to Full Council.**
-
-**Proposed:** Cllr. Noreen Stokes **Seconded:** Cllr. Catherine Slattery
+**On the proposal of Cllr. Noreen Stokes seconded by Cllr. Catherine Slattery it was agreed to bringthe recommendation for Changes to Limerick City and County Allocation Scheme 2021–Rightsizing Scheme to Full Council.Proposed:** Cllr. Noreen Stokes **Seconded:** Cllr. Catherine Slattery
 
 **Item 5: Autism Working Group update.**
 
@@ -235,11 +223,7 @@ at where money could be saved if this motion was passed. Mr. Brian Kennedy, Dire
 
 stated that he would look for an update on same.
 
-**On the proposal of Cllr. Adam Tesky seconded by Cllr. Elisa O’ Donovan it was agreed to seek an**
-
-**update on where the rent review is at present and when the timeline would be for completion.**
-
-**Proposed:** Cllr. Adam Teskey **Seconded** Cllr. Elisa O’ Donovan
+**On the proposal of Cllr. Adam Tesky seconded by Cllr. Elisa O’ Donovan it was agreed to seek anupdate on where the rent review is at present and when the timeline would be for completion.Proposed:** Cllr. Adam Teskey **Seconded** Cllr. Elisa O’ Donovan
 
 **Item 7: AOB**
 
@@ -251,7 +235,7 @@ Kathy O’Grady, Administrative Officer, Housing advised that members could cont
 
 advance of the SPC meeting to add items to the agenda.
 
-**Next meeting date Thursday, 26****th** **June 2025**
+**Next meeting date Thursday, 26thJune 2025**
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 

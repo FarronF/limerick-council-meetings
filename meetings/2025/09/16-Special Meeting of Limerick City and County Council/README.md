@@ -8,7 +8,7 @@
 
 Files: 
 
-Agenda - Special Meeting of Limerick City and County Council -  16th September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-special-meeting-of-limerick-city-and-county-council-16th-september-2025.pdf) - [Extracted text](./Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%C2%A0%2016th%20September%202025.md)
+Agenda - Special Meeting of Limerick City and County Council -  16th September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-special-meeting-of-limerick-city-and-county-council-16th-september-2025.pdf) - Text not extracted
 
 Mayoral Fund Update September 2025 - Special Meeting of Limerick City and County Council - 16th September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/mayoral-fund-update-september-2025-special-meeting-of-limerick-city-and-county-council-16th-september-2025.pdf) - Text not extracted
 

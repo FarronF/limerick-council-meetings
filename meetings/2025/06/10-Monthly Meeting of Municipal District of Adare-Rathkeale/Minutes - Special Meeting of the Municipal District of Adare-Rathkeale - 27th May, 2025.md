@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-b-draft-minutes-of-special-meeting-27th-may-2025.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
-
-**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
-
-**LIMERICK ON TUESDAY, 27****TH** **MAY, 2025 AT 9.00 A.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK ON TUESDAY, 27THMAY, 2025 AT 9.00 A.M.PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -23,9 +17,7 @@ Strategy and Non LA Housing Construction (Ms. S. Newell), Clerical Officer (Ms. 
 
 Lenihan).
 
-**1.**
-
-**Social Housing in Pallaskenry**
+**1.Social Housing in Pallaskenry**
 
 The Cathaoirleach welcomed Senior Executive Officer, Strategy and Non LA Housing
 

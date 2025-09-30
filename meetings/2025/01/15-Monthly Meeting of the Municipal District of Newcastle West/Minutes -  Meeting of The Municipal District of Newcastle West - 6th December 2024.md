@@ -191,9 +191,7 @@ Meeting and the Questions were therefore taken as having been dealt with.
 
 Question submitted by Councillor M. Collins
 
-***I will ask at the next Meeting for an update on the provision of a new playground in***
-
-***Newcastle West.***
+***I will ask at the next Meeting for an update on the provision of a new playground in**Newcastle West.***
 
 REPLY:
 
@@ -223,9 +221,7 @@ ADJOURNED NOTICE OF MOTION
 
 Notice of Motion submitted by Councillor J. Scanlan.
 
-***I will move at the next Meeting that traffic flow along Nash’s Lane, Newcastle West, be***
-
-***reviewed in the interest of safety.***
+***I will move at the next Meeting that traffic flow along Nash’s Lane, Newcastle West, be**reviewed in the interest of safety.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -251,11 +247,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor M. Collins
 
-***I will move at the next Meeting that proper traffic calming measures including upgraded***
-
-***footpaths, ramps and lighting be installed at Feohanagh Village. The village has had no***
-
-***investment or work done in many years.***
+***I will move at the next Meeting that proper traffic calming measures including upgraded**footpaths, ramps and lighting be installed at Feohanagh Village. The village has had no**investment or work done in many years.***
 
 The Motion was seconded by Councillor Scanlan.
 
@@ -313,9 +305,7 @@ This concluded the Meeting.
 
 Signed:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**Cathaoirleach**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Cathaoirleach**
 
 Dated:
 

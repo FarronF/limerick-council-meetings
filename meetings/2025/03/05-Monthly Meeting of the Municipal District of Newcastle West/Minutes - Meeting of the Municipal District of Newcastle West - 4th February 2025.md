@@ -123,9 +123,7 @@ Meeting and the Questions were therefore taken as having been dealt with.
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting when footpath extensions are likely to be completed at***
-
-***Clooneyskehane along the R520 and R522 towards the speed limit in both instances.***
+***I will ask at the next Meeting when footpath extensions are likely to be completed at**Clooneyskehane along the R520 and R522 towards the speed limit in both instances.***
 
 REPLY:
 
@@ -135,9 +133,7 @@ The design is expected to be completed in Q2 2025.
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting when acceptable car parking facilities will be provided to***
-
-***compliment our Greenway facility off Station Road.***
+***I will ask at the next Meeting when acceptable car parking facilities will be provided to**compliment our Greenway facility off Station Road.***
 
 REPLY:
 
@@ -153,9 +149,7 @@ Question submitted by Councillor J. Scanlan
 ---
 3
 
-***I will ask at the next Meeting when the footpath extension towards the Community House***
-
-***at Feohanagh will be commenced.***
+***I will ask at the next Meeting when the footpath extension towards the Community House**at Feohanagh will be commenced.***
 
 REPLY:
 
@@ -175,9 +169,7 @@ Municipal District of Newcastle West.
 
 Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting*** **that the need for enforceable average speed control is**
-
-**identified and implemented on Regional Roads within our Municipal Area.**
+***I will move at the next Meeting*that the need for enforceable average speed control isidentified and implemented on Regional Roads within our Municipal Area.**
 
 The Motion was seconded by Councillor Galvin.
 
@@ -205,9 +197,7 @@ Garda Síochána.
 
 10. Notice of Motion submitted by Councillor J. Scanlan
 
-***I will move at the next Meeting that*** ***our Local Authority identify/provide a premises for a***
-
-***much needed Men’s Shed facility in the immediate Newcastle West vicinity.***
+***I will move at the next Meeting that**our Local Authority identify/provide a premises for a**much needed Men’s Shed facility in the immediate Newcastle West vicinity.***
 
 The Motion was seconded by Councillor Sheahan.
 
@@ -283,9 +273,7 @@ This concluded the Meeting.
 
 Signed:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**Cathaoirleach**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Cathaoirleach**
 
 Dated:
 

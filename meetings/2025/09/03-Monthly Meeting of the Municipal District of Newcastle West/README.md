@@ -8,7 +8,7 @@
 
 Files: 
 
-Agenda - Meeting of the Municipal District of Newcastle West - 3rd September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/00-2025-09-03-agenda-meeting-of-the-municipal-district-of-newcastle-west.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%203rd%20September%202025.md)
+Agenda - Meeting of the Municipal District of Newcastle West - 3rd September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/00-2025-09-03-agenda-meeting-of-the-municipal-district-of-newcastle-west.pdf) - Text not extracted
 
 Minutes - Meeting of the Municipal District of Newcastle West - 2nd July 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/01-2025-07-02-minutes-july-meeting-of-the-municipal-district-of-newcastle-west.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20July%202025.md)
 

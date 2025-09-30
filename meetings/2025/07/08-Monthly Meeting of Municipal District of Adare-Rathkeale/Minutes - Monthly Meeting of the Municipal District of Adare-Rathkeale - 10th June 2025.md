@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-draft-minutes-of-monthly-meeting-10th-june-2025-2_0.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
-
-**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
-
-**LIMERICK AND ONLINE ON TUESDAY, 10****TH** **JUNE, 2025 AT 9.30 A.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.LIMERICK AND ONLINE ON TUESDAY, 10THJUNE, 2025 AT 9.30 A.M.PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -25,9 +19,7 @@ O’Connor), A/Senior Executive Officer, Municipal Districts (Ms. K. White), Adm
 
 Officer, Property Management (Ms. T. Knox), Clerical Officer (Ms. L. Lenihan).
 
-**1.**
-
-**Adoption of Minutes**
+**1.Adoption of Minutes**
 
 (a)
 
@@ -87,9 +79,7 @@ Engineer for the District is essential without delay and agreed to follow up wit
 
 Gannon, Senior Engineer and revert in due course to Members.
 
-**2.**
-
-**Declaration of Interest**
+**2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
@@ -99,9 +89,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 No such interest was declared.
 
-**3.**
-
-**Disposal of Land**
+**3.Disposal of Land**
 
 Circulated, report of the Head of Property Management dated 29th May, 2025 setting out
 
@@ -117,25 +105,11 @@ Keary and agreed.
 
 It was agreed Item 8 on the Agenda would be taken next.
 
-**8.**
-
-**Notice of Motion submitted by Councillor J. O’Donoghue**
-
-**I will move at the next Meeting that Limerick City and County Council bring to the**
-
-**market any property in their possession for a period of more than 12 months that has**
-
-**not secured funding for the maintenance and utilization of same. This is to include**
-
-**vacant or derelict properties, commercial or residential.**
+**8.Notice of Motion submitted by Councillor J. O’DonoghueI will move at the next Meeting that Limerick City and County Council bring to themarket any property in their possession for a period of more than 12 months that hasnot secured funding for the maintenance and utilization of same. This is to includevacant or derelict properties, commercial or residential.**
 
 Following discussion Councillor O’Donoghue withdrew his motion.
 
-**4.**
-
-**Transport and Mobility Directorate**
-
-**District Engineers Report**
+**4.Transport and Mobility DirectorateDistrict Engineers Report**
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated
 
@@ -147,9 +121,7 @@ for the District.
 
 The report, as circulated, was noted by Members.
 
-**5.**
-
-**General Municipal Allocation (GMA)**
+**5.General Municipal Allocation (GMA)**
 
 On the proposal of Councillor Collins, seconded by Councillor Teskey, it was agreed to
 
@@ -197,17 +169,7 @@ On the proposal of Councillor Ward, seconded by Councillor Teskey it was agreed 
 
 allocate €1,000 to Askeaton Ballysteen Active Retirement Group.
 
-**QUESTIONS**
-
-**6.**
-
-**Question** **submitted by Councillor J. O’Donoghue**
-
-**I will ask at the next Meeting for a list of all derelict and vacant properties in Council**
-
-**ownership for a period of 12 months or more in the Adare-Rathkeale District,**
-
-**residential or commercial.**
+**QUESTIONS6.Questionsubmitted by Councillor J. O’DonoghueI will ask at the next Meeting for a list of all derelict and vacant properties in Councilownership for a period of 12 months or more in the Adare-Rathkeale District,residential or commercial.**
 ---
 4
 
@@ -239,33 +201,13 @@ Water.
 
 awaiting water services infrastructure upgrade.
 
-**7.**
-
-**Question submitted by Councillor J. O’Donogh****ue**
-
-**I will ask at the next Meeting for a full report on all noise complaints relating to wind**
-
-**turbines in Co. Limerick, to include dates reported, actions, resolutions and any**
-
-**reports pending.**
-
-**REPLY:**
+**7.Question submitted by Councillor J. O’DonoghueI will ask at the next Meeting for a full report on all noise complaints relating to windturbines in Co. Limerick, to include dates reported, actions, resolutions and anyreports pending.REPLY:**
 
 The tables below relate to noise complaints made to the Council related
 
 to wind farms in County Limerick.
 
-**Athea**
-
-**Date of**
-
-**complaint**
-
-**Actions taken**
-
-**Resolutions**
-
-**Reports pending**
+**AtheaDate ofcomplaintActions takenResolutionsReports pending**
 
 02/02/2012
 
@@ -281,17 +223,7 @@ Case closed (no
 
 reports pending)
 
-**Grouselodge**
-
-**Date of**
-
-**complaint**
-
-**Actions taken**
-
-**Resolutions**
-
-**Reports pending**
+**GrouselodgeDate ofcomplaintActions takenResolutionsReports pending**
 
 22/02/2012
 
@@ -313,17 +245,7 @@ Case closed (no
 
 reports pending)
 
-**Mauricetown**
-
-**Date of**
-
-**complaint**
-
-**Actions taken**
-
-**Resolutions**
-
-**Reports pending**
+**MauricetownDate ofcomplaintActions takenResolutionsReports pending**
 ---
 5
 
@@ -353,17 +275,7 @@ Case closed (no
 
 reports pending)
 
-**Rathcahill**
-
-**Date of**
-
-**complaint**
-
-**Actions taken**
-
-**Resolutions**
-
-**Reports pending**
+**RathcahillDate ofcomplaintActions takenResolutionsReports pending**
 
 10/02/2014
 
@@ -381,17 +293,7 @@ Case closed (no
 
 reports pending)
 
-**NOTICES OF MOTION**
-
-**9.**
-
-**Notice of Motion submitted by Councillor** **J. O’Donoghue**
-
-**I will move at the next Meeting that Limerick City and County Council give us the**
-
-**presentation that was previously given at a briefing on Development Plan wind energy**
-
-**policy relating to noise.**
+**NOTICES OF MOTION9.Notice of Motion submitted by CouncillorJ. O’DonoghueI will move at the next Meeting that Limerick City and County Council give us thepresentation that was previously given at a briefing on Development Plan wind energypolicy relating to noise.**
 
 The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Collins and
 
@@ -427,15 +329,11 @@ September meeting of the Municipal District of Adare-Rathkeale.
 ---
 6
 
-**10.**
-
-**Correspondence**
+**10.Correspondence**
 
 Correspondence was noted and taken as read.
 
-**11.**
-
-**A.O.B**
+**11.A.O.B**
 
  Councillor Teskey proposed the new Parklet in Askeaton be renamed Ruttles
 

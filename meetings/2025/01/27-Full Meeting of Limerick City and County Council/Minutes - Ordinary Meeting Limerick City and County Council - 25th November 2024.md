@@ -889,13 +889,7 @@ to the Meeting and the Questions were therefore taken as having been dealt with:
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting (a) what remains as the outstanding balance on the loan***
-
-***provided to the Dublin Bike-Hire Company, (b) are repayments on schedule and (c) when is***
-
-***full and final repayment due.***
-
-**REPLY:**
+***I will ask at the next Meeting (a) what remains as the outstanding balance on the loan**provided to the Dublin Bike-Hire Company, (b) are repayments on schedule and (c) when is**full and final repayment due.*REPLY:**
 
 (a) €116,044.20;
 
@@ -907,13 +901,7 @@ Question submitted by Councillor J. Scanlan
 
 Question submitted by Councillor J. Scanlan
 
-***I will ask at the next Meeting what areas have been identified as priorities by our Authority***
-
-***and what progress has been made in terms of the introduction of Average Speed Cameras***
-
-***countywide.***
-
-**REPLY:**
+***I will ask at the next Meeting what areas have been identified as priorities by our Authority**and what progress has been made in terms of the introduction of Average Speed Cameras**countywide.*REPLY:**
 
 The current tranche of Fixed Spot and Average Speed Camera Sites was chosen
 
@@ -937,11 +925,7 @@ determined in consultation with the Local Authority and TII.
 
 Question submitted by Councillor S. Kiely
 
-***I will ask at the next Meeting for an update on the verbal commitment given to examine the***
-
-***possibility of a community hedge cutting scheme and its inclusion in the budget.***
-
-**REPLY:**
+***I will ask at the next Meeting for an update on the verbal commitment given to examine the**possibility of a community hedge cutting scheme and its inclusion in the budget.*REPLY:**
 
 Subject to final endorsement of the draft Budget 2025, provision has been
 
@@ -953,11 +937,7 @@ procedure of how such a scheme will be administered has to be developed.
 
 Question submitted by Councillor C. Slattery
 
-***I will ask at the next Meeting can the Council give a timeframe on how long it takes after***
-
-***reporting a bulb gone on a street light to have the bulb replaced.***
-
-**REPLY:**
+***I will ask at the next Meeting can the Council give a timeframe on how long it takes after**reporting a bulb gone on a street light to have the bulb replaced.*REPLY:**
 
 As per previous correspondence, Limerick City and County Council entered into
 
@@ -991,11 +971,7 @@ infrastructure related).
 
 Question submitted by Councillor C. Slattery
 
-***I will ask at the next Meeting why did Limerick City and County Council not provide an in-***
-
-***person ceremony to switch on the Christmas lights in Limerick City.***
-
-**REPLY:**
+***I will ask at the next Meeting why did Limerick City and County Council not provide an in-**person ceremony to switch on the Christmas lights in Limerick City.*REPLY:**
 
 Limerick City and County Council has programmed a number of Christmas
 
@@ -1011,11 +987,7 @@ It was decided that there would be no switch-on event for Christmas 2024.
 
 Question submitted by Councillor S. Hickey-O’Mara
 
-***I will ask at the next Meeting for an update on the procurement and installation of specific***
-
-***dog waste bins across Limerick as I have been asked about this on numerous occasions by***
-
-***residents.***
+***I will ask at the next Meeting for an update on the procurement and installation of specific**dog waste bins across Limerick as I have been asked about this on numerous occasions by**residents.***
 ---
 14
 
@@ -1049,11 +1021,7 @@ dispose of dog waste on routes where dog walking is prevalent.
 
 Question submitted by Councillor M. Donoghue
 
-***I will ask at the next Meeting what the projected budget for Riverfest 2025 is and what***
-
-***percentage of the overall Festival and Events 2025 budget Riverfest will absorb.***
-
-**REPLY:**
+***I will ask at the next Meeting what the projected budget for Riverfest 2025 is and what**percentage of the overall Festival and Events 2025 budget Riverfest will absorb.*REPLY:**
 
 The projected budget for Riverfest 2025 is subject to approval by the Members
 
@@ -1065,11 +1033,7 @@ available.
 
 Question submitted by Councillor M. Donoghue
 
-**I will ask at the next Meeting what policies, personnel and resources are in place to deal**
-
-**with dereliction and vacancy across Limerick City and Limerick County.**
-
-**REPLY:**
+**I will ask at the next Meeting what policies, personnel and resources are in place to dealwith dereliction and vacancy across Limerick City and Limerick County.REPLY:**
 
 Limerick City and County Council takes a proactive, place-based approach to
 
@@ -1131,11 +1095,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor S. Benson
 
-***I will move at the next Meeting that this Council write to the Minister for Education urging***
-
-***her to scrap plans to spend €9 million on mobile phone pouches and to allocate this funding***
-
-***instead to special education provision.***
+***I will move at the next Meeting that this Council write to the Minister for Education urging**her to scrap plans to spend €9 million on mobile phone pouches and to allocate this funding**instead to special education provision.***
 
 With the permission of the Meeting and at the request of Councillor Benson, this
 
@@ -1145,11 +1105,7 @@ Notice of Motion was withdrawn.
 
 Notice of Motion submitted by Councillor C. Sheehan
 
-***I will move at the next Meeting that this Council write to the Minister for Health and***
-
-***Taoiseach to ask them to intervene to ensure that the specialist nursing vacancies are filled***
-
-***in the University Hospital Limerick Oncology Department as soon as possible.***
+***I will move at the next Meeting that this Council write to the Minister for Health and**Taoiseach to ask them to intervene to ensure that the specialist nursing vacancies are filled**in the University Hospital Limerick Oncology Department as soon as possible.***
 
 Councillor Leddin moved the Motion on Councillor Sheehan’s behalf. The Motion was
 
@@ -1159,11 +1115,7 @@ seconded by Councillor O’Hanlon and adopted.
 
 Notice of Motion submitted by Councillors J. Scanlan and E. Ryan
 
-***We will move at the next Meeting that Limerick City and County Council call on the Minister***
-
-***for Transport to remove the condition that a secondary land holding of one hectare***
-
-***minimum should apply to enable qualification for the Local Improvement Scheme.***
+***We will move at the next Meeting that Limerick City and County Council call on the Minister**for Transport to remove the condition that a secondary land holding of one hectare**minimum should apply to enable qualification for the Local Improvement Scheme.***
 
 The Motion was proposed by Councillor Scanlan, seconded by Councillor Sheahan and
 
@@ -1185,21 +1137,11 @@ It was agreed to write to the Minister for Rural and Community Development.
 
 Notice of Motion submitted by Councillor A. Teskey
 
-**I will move at the next Meeting for a variation to the Limerick Devel****opment Plan to add the**
-
-**following to Chapter 11 Development Management Standards, 11.7.2.1 Wind Energy: "In**
-
-**addition to the above, the following local considerations will be taken into account by the**
-
-**Council in relation to any planning application;**
+**I will move at the next Meeting for a variation to the Limerick Development Plan to add thefollowing to Chapter 11 Development Management Standards, 11.7.2.1 Wind Energy: "Inaddition to the above, the following local considerations will be taken into account by theCouncil in relation to any planning application;**
 
 
 
-**Impact on human health in relation to noise disturbance (including consistency with the**
-
-**Word Health Organisations 2018 Environmental Noise Guidelines for the European**
-
-**Region), shadow flicker and air quality."**
+**Impact on human health in relation to noise disturbance (including consistency with theWord Health Organisations 2018 Environmental Noise Guidelines for the EuropeanRegion), shadow flicker and air quality."**
 
 The Motion was proposed by Councillor Teskey, seconded by Councillor O’Donoghue
 
@@ -1283,15 +1225,7 @@ Members and the Executive.
 
 Notice of Motion submitted by Councillor S. Beasley
 
-***I will move at the next Meeting that communication take place with the Ministers***
-
-***responsible for animal welfare regarding the request from Limerick City and County Council***
-
-***for a six-month amnesty for XL Bully dogs that are being surrendered to local animal welfare***
-
-***charities. This amnesty would facilitate the rehoming of these dogs to other countries, such***
-
-***as Italy and Sweden.***
+***I will move at the next Meeting that communication take place with the Ministers**responsible for animal welfare regarding the request from Limerick City and County Council**for a six-month amnesty for XL Bully dogs that are being surrendered to local animal welfare**charities. This amnesty would facilitate the rehoming of these dogs to other countries, such**as Italy and Sweden.***
 
 The Motion was proposed by Councillor Beasley and seconded by Councillor Hartigan
 
@@ -1305,13 +1239,7 @@ permission of the Meeting, the Motion was withdrawn.
 
 Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
-***I will move at the next Meeting that we run a Limerick-wide campaign to highlight the***
-
-***importance of Men’s Mental Health******through engaging with sports organisations, men’s***
-
-***sheds, schools, and other organisations to promote connection and a sense of belonging in***
-
-***our city and county.***
+***I will move at the next Meeting that we run a Limerick-wide campaign to highlight the**importance of Men’s Mental Health**through engaging with sports organisations, men’s**sheds, schools, and other organisations to promote connection and a sense of belonging in**our city and county.***
 
 The Motion was proposed by Councillor Hickey-O’Mara, seconded by Councillor
 
@@ -1351,11 +1279,7 @@ With the permission of the Príomh Chomhairleoir, Councillor Kiely requested to 
 
 the following Emergency Motion and this was agreed:
 
-“***I move at this meeting that Limerick City and County Council consider temporarily***
-
-***opening the bus lane on O’Connell*** ***Street for the Christmas period, to relieve traffic***
-
-***congestion and potentially encourage more footfall into the city.******”***
+“***I move at this meeting that Limerick City and County Council consider temporarily**opening the bus lane on O’Connell**Street for the Christmas period, to relieve traffic**congestion and potentially encourage more footfall into the city.**”***
 
 The Motion was proposed by Councillor Kiely, seconded by Councillor Butler, and
 
@@ -1419,13 +1343,7 @@ MAYOR’S QUESTIONS
 
 Question submitted by Councillor S. Kiely
 
-***I will ask the Mayor if the 100k over three years offered to the International Rugby***
-
-***Experience can be offered to the LEDP to save the Markets Field given the fact that it has***
-
-***been offered as a gift to Limerick City and County Council.***
-
-**REPLY:**
+***I will ask the Mayor if the 100k over three years offered to the International Rugby**Experience can be offered to the LEDP to save the Markets Field given the fact that it has**been offered as a gift to Limerick City and County Council.*REPLY:**
 
 I regret to say that what the Councillor proposes will no longer be possible
 
@@ -1587,11 +1505,7 @@ Councillor Teefy, Standing Order No. 4 was suspended in order to complete the ag
 
 Question submitted by Councillor U. Gavan
 
-***I will ask at the next Meeting wha******t are the Mayor’s plans now for the Designated Activity***
-
-***Companies (DACs) following his recent legal advice.***
-
-**REPLY:**
+***I will ask at the next Meeting wha**t are the Mayor’s plans now for the Designated Activity**Companies (DACs) following his recent legal advice.*REPLY:**
 
 As a shareholder and Mayor of Limerick, I am uniquely positioned to influence
 

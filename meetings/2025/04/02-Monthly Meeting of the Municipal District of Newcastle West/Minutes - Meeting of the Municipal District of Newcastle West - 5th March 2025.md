@@ -285,9 +285,7 @@ Meeting and the Questions were therefore taken as having been dealt with.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting for an update on the footpath/pedestrian crossing and traffic***
-
-***calming measures at the Killarney Road, Abbeyfeale (Dalton’s Cross).***
+***I will ask at the next Meeting for an update on the footpath/pedestrian crossing and traffic**calming measures at the Killarney Road, Abbeyfeale (Dalton’s Cross).***
 
 REPLY:
 
@@ -301,9 +299,7 @@ been submitted to TII for approval and possible funding.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting for an update on the pedestrian access to the Greenway at***
-
-***Galvin’s road, Templeglantine and at Murphy’s Bend.***
+***I will ask at the next Meeting for an update on the pedestrian access to the Greenway at**Galvin’s road, Templeglantine and at Murphy’s Bend.***
 
 REPLY:
 
@@ -343,9 +339,7 @@ existing access point will have to be closed as per the road safety audit.
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting*** ***for a full detailed report on (a) new graveyard in Abbeyfeale***
-
-***(b) update on the Part 8 for the Greenway at the station storehouse and yard.***
+***I will ask at the next Meeting**for a full detailed report on (a) new graveyard in Abbeyfeale**(b) update on the Part 8 for the Greenway at the station storehouse and yard.***
 
 REPLY:
 
@@ -389,11 +383,7 @@ was unsuccessful. It is proposed to submit the project for future calls under Ca
 
 Question submitted by Councillor T. Ruddle
 
-***I will ask at the next Meeting when the Planning Department are sending out***
-
-***correspondence to constituents can they put a contact name on the correspondence for***
-
-***ease of reference please.***
+***I will ask at the next Meeting when the Planning Department are sending out**correspondence to constituents can they put a contact name on the correspondence for**ease of reference please.***
 
 REPLY:
 
@@ -419,9 +409,7 @@ direct them to the appropriate person.
 
 Question submitted by Councillor T. Ruddle
 
-***I will ask at the next Meeting (a) how many visits of people using the Greenway in 2024 (b)***
-
-***how many have used the Greenway since it has opened.***
+***I will ask at the next Meeting (a) how many visits of people using the Greenway in 2024 (b)**how many have used the Greenway since it has opened.***
 
 REPLY:
 
@@ -475,9 +463,7 @@ The total number of visitors since the Greenway opened is approximately 639,902.
 
 Question submitted by Councillor T. Ruddle
 
-***I will ask at the next Meeting when is it envisaged that there will be a toilet installed in the***
-
-***Demesne as it has been raised with me by the public.***
+***I will ask at the next Meeting when is it envisaged that there will be a toilet installed in the**Demesne as it has been raised with me by the public.***
 
 REPLY:
 
@@ -495,9 +481,7 @@ given to the location and installation of these toilets.
 
 Question submitted by Councillor F. Foley
 
-***I will ask at the next Meeting for an update on the purchase of the new burial ground in***
-
-***Abbeyfeale.***
+***I will ask at the next Meeting for an update on the purchase of the new burial ground in**Abbeyfeale.***
 
 REPLY:
 
@@ -517,11 +501,7 @@ ADJOURNED NOTICES OF MOTION
 
 13. Notice of Motion submitted by Councillor T. Ruddle.
 
-***I will move at the next Meeting that signage be placed around the town and at the***
-
-***entrance to the Demesne showing where we have parking available for visitors and***
-
-***shoppers in the town.***
+***I will move at the next Meeting that signage be placed around the town and at the**entrance to the Demesne showing where we have parking available for visitors and**shoppers in the town.***
 
 The Motion was seconded by Councillor Collins.
 
@@ -543,11 +523,7 @@ that some signage has been erected and signage for the N21 is to arrive this wee
 
 Notice of Motion submitted by Councillor T. Ruddle.
 
-**I** ***will move at the next Meeting that the Community Council car park be made available***
-
-***for car parking to shoppers in the town. The Council have in recent times assisted with***
-
-***lighting to the car park here.***
+**I*will move at the next Meeting that the Community Council car park be made available**for car parking to shoppers in the town. The Council have in recent times assisted with**lighting to the car park here.***
 
 The Motion was seconded by Councillor Sheahan.
 
@@ -571,11 +547,7 @@ NOTICES OF MOTION
 
 15. Notice of Motion submitted by Councillor F. Foley
 
-***I will move at the next Meeting that a school warden be provided on the N21 at the entrance***
-
-***of Scoil Mháthair Dé, Abbeyfeale in the interest of safety for the pupils attending the***
-
-***national school.***
+***I will move at the next Meeting that a school warden be provided on the N21 at the entrance**of Scoil Mháthair Dé, Abbeyfeale in the interest of safety for the pupils attending the**national school.***
 
 The Motion was seconded by Councillor Galvin.
 
@@ -601,11 +573,7 @@ sought on where funding for the school wardens in Adare and Newcastle West is so
 
 16. Notice of Motion submitted by Councillor L. Galvin
 
-***I will move at the next Meeting that the shed at the rear of the old bank be given to***
-
-***parking and be included as additional parking as part of the Abbeyfeale Traffic***
-
-***Management Plan.***
+***I will move at the next Meeting that the shed at the rear of the old bank be given to**parking and be included as additional parking as part of the Abbeyfeale Traffic**Management Plan.***
 
 The Motion was seconded by Councillor Foley.
 
@@ -641,11 +609,7 @@ revert to the Members when discussions with the landowner is concluded.
 
 17. Notice of Motion submitted by Councillor T. Ruddle
 
-***I will move at the next Meeting that the Council consider two public lights for the Council***
-
-***owned Demesne car park in front of Newcastle West town soccer ground as it discourages***
-
-***people from using the town car park.***
+***I will move at the next Meeting that the Council consider two public lights for the Council**owned Demesne car park in front of Newcastle West town soccer ground as it discourages**people from using the town car park.***
 
 The Motion was seconded by Councillor Scanlan.
 
@@ -743,9 +707,7 @@ This concluded the Meeting.
 
 Signed:
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**Cathaoirleach**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Cathaoirleach**
 
 Dated:
 

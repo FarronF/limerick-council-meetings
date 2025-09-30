@@ -57,11 +57,7 @@ B. Collins to discuss the following issue as set out in the Agenda and accompany
 
 relation to the N/M20 Cork to Limerick Project:
 
-***“We, the undersigned, request a Special Meeting of Limerick City and County Council to receive an***
-
-***update from the N/M20 Design Team on the proposed scheme and to discuss the implications and***
-
-***solutions for the Attyflin Junction 5 and the proposed Croom Junctions******.”***
+***“We, the undersigned, request a Special Meeting of Limerick City and County Council to receive an**update from the N/M20 Design Team on the proposed scheme and to discuss the implications and**solutions for the Attyflin Junction 5 and the proposed Croom Junctions**.”***
 ---
 **2**
 

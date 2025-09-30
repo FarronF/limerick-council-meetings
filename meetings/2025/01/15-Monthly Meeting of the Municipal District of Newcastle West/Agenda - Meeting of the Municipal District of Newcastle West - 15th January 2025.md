@@ -39,9 +39,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held in Aras
 
-William Smith OBrien, Newcastle West, Co. Limerick on **Wednesday, 15****th** **January, 2025, at 10.00**
-
-**a.m.** The business to be transacted is set out on the appended Agenda.
+William Smith OBrien, Newcastle West, Co. Limerick on **Wednesday, 15thJanuary, 2025, at 10.00a.m.** The business to be transacted is set out on the appended Agenda.
 
 Is mise Ie meas,
 
@@ -49,27 +47,13 @@ Heather Supple, Meetings
 
 Administrator.
 
-**AGENDA**
-
-**1.**
-
-**Minutes**
-
-**(a)** To adopt Minutes of Meeting of the Municipal District of Newcastle West held on **6****th**
+**AGENDA1.Minutes(a)** To adopt Minutes of Meeting of the Municipal District of Newcastle West held on **6th**
 
 December, 2024.
 
 (Copy Enclosed)
 
-**2.**
-
-**Declaration of Interest.**
-
-**3.**
-
-**Disposal of Land**
-
-**(a)** To note proposal for the Disposal of Freehold Interest in property at 2 St. Ita's Terrace, St.
+**2.Declaration of Interest.3.Disposal of Land(a)** To note proposal for the Disposal of Freehold Interest in property at 2 St. Ita's Terrace, St.
 
 Ita's Road, Newcastle West, Co. Limerick.
 
@@ -79,33 +63,17 @@ Glin, Co. Limerick.
 
 (Reports Enclosed)
 
-**Ceanncheathni Chorparaideach, Ce na gCeannaithe, Luimneach**
-
-**Corporate Headquarters, Merchant's Quay, Limerick**
-
-**as** **customerservices<alimerick.ie h**
-
-**www.limerick.ie**
-
-**IF** **@LimerickCouncil** **t**
-
-**061 - 556 000**
+**Ceanncheathni Chorparaideach, Ce na gCeannaithe, LuimneachCorporate Headquarters, Merchant's Quay, Limerickascustomerservices<alimerick.ie hwww.limerick.ieIF@LimerickCouncilt061 - 556 000**
 
 (Image omitted)
 ---
 2
 
-**4.**
-
-**General Municipal Allocation**
+**4.General Municipal Allocation**
 
 To review position in relation to allocations under the General Municipal Allocation 2025.
 
-**QUESTIONS**
-
-**Questions submitted by Councillor L. Galvin**
-
-**5.**
+**QUESTIONSQuestions submitted by Councillor L. Galvin5.**
 
 I will ask at the next Meeting for a detailed update on the bypasses of **(a)** Adare, **(b)** Abbeyfeale and (c)
 
@@ -125,9 +93,7 @@ I will ask at the next Meeting for a detailed update on the progress report aris
 
 Abbeyfeale.
 
-**Questions submitted by Councillor J. Scanlan**
-
-**8.**
+**Questions submitted by Councillor J. Scanlan8.**
 
 I will ask at the next Meeting when footpath renewal will be undertaken along the street between the
 
@@ -145,9 +111,7 @@ I will ask at the next Meeting that the speed indicator on the western side of B
 
 relocated next to the speed limit signage.
 
-**Question submitted by Councillor T. Ruddle**
-
-**11.**
+**Question submitted by Councillor T. Ruddle11.**
 
 I will ask at the next Meeting for a list of vacant properties in the Newcastle West Municipal District
 
@@ -155,11 +119,7 @@ owned by Limerick City and County Council, in tabular form by location and the m
 
 that they have been vacant.
 
-**NOTICES OF MOTION**
-
-**Notices of Motion submitted by Councillor L. Galvin**
-
-**12.**
+**NOTICES OF MOTIONNotices of Motion submitted by Councillor L. Galvin12.**
 
 I will move at the next Meeting that the Council expedite the Flood Relief Scheme in Athea particularly
 
@@ -175,9 +135,7 @@ draw up a Flood Relief Scheme from the Mart Bridge towards the rear of Abbey Uni
 
 and that this includes the dredging of the river from the said locations.
 
-**Notices of Motion submitted by Councillor J. Scanlan**
-
-**14.**
+**Notices of Motion submitted by Councillor J. Scanlan14.**
 
 I will move at the next Meeting that both lighting and shelter be improved at the Westbound Bus Stop
 

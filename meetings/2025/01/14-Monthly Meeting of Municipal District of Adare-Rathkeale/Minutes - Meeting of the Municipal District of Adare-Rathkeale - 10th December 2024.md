@@ -1,13 +1,7 @@
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-december-2024_0.pdf)
 
 ---
-**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
-
-**ADARE-RATHKEALE HELD IN ASKEATON CIVIC TRUST OFFICE, EAST SQUARE,**
-
-**ASKEATON, CO. LIMERICK ON TUESDAY, 10****TH** **DECEMBER, 2024 AT 10.00 A.M.**
-
-**PRESENT IN THE CHAIR:**
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OFADARE-RATHKEALE HELD IN ASKEATON CIVIC TRUST OFFICE, EAST SQUARE,ASKEATON, CO. LIMERICK ON TUESDAY, 10THDECEMBER, 2024 AT 10.00 A.M.PRESENT IN THE CHAIR:**
 
 Councillor A. Teskey, An Cathaoirleach.
 
@@ -35,9 +29,7 @@ Development Officer (Mr. S. O’Doherty), Administrative Officer, Property Manag
 
 O’Connell), Clerical Officer (Ms. L. Lenihan).
 
-**1.**
-
-**Adoption of Minutes**
+**1.Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Municipal District of
 
@@ -51,9 +43,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-**2.**
-
-**Declaration of Interest**
+**2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
@@ -73,9 +63,7 @@ the Adare Heritage Centre.
 ---
 2
 
-**3.**
-
-**Disposal of Land**
+**3.Disposal of Land**
 
 Circulated, report of the Head of Property Management dated 27th November, 2024
 
@@ -89,11 +77,7 @@ The report, as circulated, was proposed by Councillor Collins, seconded by Counc
 
 Hartigan and agreed.
 
-**4.**
-
-**Rural, Culture, Community and Tourism Development**
-
-**Part VIII** **–** **Proposed Remodelling and Extension of the Adare Heritage Centre**
+**4.Rural, Culture, Community and Tourism DevelopmentPart VIII–Proposed Remodelling and Extension of the Adare Heritage Centre**
 
 Circulated, report of the Director General dated the 4th December, 2024 setting out
 
@@ -189,11 +173,7 @@ Centre at Main Street, Adare, Co. Limerick be approved in accordance with Sectio
 
 Planning and Development Regulations 2001 (as amended)”.
 
-**5.**
-
-**Forward Planning and Public Realm**
-
-**Croom Local Area Plan 2020** **–** **2026**
+**5.Forward Planning and Public RealmCroom Local Area Plan 2020–2026**
 
 Circulated, report of the Mayor of Limerick dated the 29th November, 2024 setting out
 
@@ -221,11 +201,7 @@ Section 19 of the Planning and Development Act 2000 (as amended)”.
 ---
 4
 
-**6.**
-
-**Roads, Traffic and Cleansing**
-
-**District Engineers Report**
+**6.Roads, Traffic and CleansingDistrict Engineers Report**
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated
 
@@ -239,17 +215,13 @@ Councillor Teskey expressed his gratitude to all the Roads outdoor staff for the
 
 especially during the recent storm and wished all a Happy Christmas.
 
-**7.**
-
-**General Municipal Allocation (GMA)**
+**7.General Municipal Allocation (GMA)**
 
 It was noted that no new allocations under the General Municipal Allocation (GMA) were
 
 currently proposed.
 
-**8.**
-
-**Deputation from Askeaton Civic Trust, Tourist Office and Genealogy Centre**
+**8.Deputation from Askeaton Civic Trust, Tourist Office and Genealogy Centre**
 
 The Cathaoirleach welcomed Mr. Kevin Sheahan and Ms. Carmel Ryan, representatives
 
@@ -283,9 +255,7 @@ to allocate €2,000 from their 2025 General Municipal Allocation to Askeaton Ci
 
 The delegation then withdrew from the Meeting.
 
-**9.**
-
-**A.O.B**
+**9.A.O.B**
 
  Councillor O’Donoghue expressed concern in relation to the new Housing Aid for
 
