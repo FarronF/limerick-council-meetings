@@ -5,7 +5,7 @@ This repository contains texts extracted all publically available meeting agenda
 The purpose of this repo is to allow easy searching of the contents of these PDFs by utilizing github's built in search functionality. It also may be easier to navigate to meetings on specific dates as the limerick.ie website only supports navigation one month at a time.
 
 ## Last Update
-2024-06-24
+2024-09-30
 All agendas and minutes PDFs uploaded to this date parsed and uploaded here.
 
 ## Why?
