@@ -8,9 +8,9 @@
 
 Files: 
 
-Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 20th February 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/01-agenda-ck-md-meeting-20th-feb-2025.pdf) - Text not extracted
+Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 20th February 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/01-agenda-ck-md-meeting-20th-feb-2025.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20February%202025.md)
 
-Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 16th January 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/02-ck-md-meeting-minutes-16th-jan-2025.pdf) - Text not extracted
+Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 16th January 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/02-ck-md-meeting-minutes-16th-jan-2025.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20January%202025.md)
 
 Disposal of Land - Main Street, Bruff, Co. Limerick, V35WT73 - 20th February 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/05-md-report-land-disposal-at-main-street-bruff.pdf) - Text not extracted
 

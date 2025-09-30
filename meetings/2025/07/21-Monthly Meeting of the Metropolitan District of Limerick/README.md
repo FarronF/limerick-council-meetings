@@ -8,7 +8,7 @@
 
 Files: 
 
-Agenda - Meeting of the Metropolitan District of Limerick - 21st July 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-july-2025.pdf) - Text not extracted
+Agenda - Meeting of the Metropolitan District of Limerick - 21st July 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-july-2025.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2021st%20July%202025.md)
 
 Minutes - Monthly Meeting of the Metropolitan District of Limerick - 16th June 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-minutes-monthly-meeting-16th-june-2025.pdf) - [Extracted text](./Minutes%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2016th%20June%C2%A02025.md)
 
