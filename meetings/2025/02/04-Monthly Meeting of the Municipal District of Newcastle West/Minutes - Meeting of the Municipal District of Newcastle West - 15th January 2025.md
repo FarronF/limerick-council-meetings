@@ -255,8 +255,9 @@ Vacant Units in Newcastle West MD
 
 Unit Location Vacant Period | Current
 (Months) | Position
+
 a
-a
+
 a
 
 Newcastle West

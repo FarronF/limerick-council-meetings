@@ -238,8 +238,6 @@ passed at the May 2023 Metropolitan District meeting "that this Council draft a 
 for Patrickswell Village and put the resource in place to action this plan
 once Patrickswell Village Renewal Scheme is completed later this year".
 
-26. Question submitted by Councillor D. McSweeney
-
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 proposed new City Centre Library to include most up to date quantity surveyor costings and
 details on any funding applications submitted.

@@ -45,7 +45,6 @@ The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
 mL
-. he “J
 Meetings Administrator.
 
 AGENDA

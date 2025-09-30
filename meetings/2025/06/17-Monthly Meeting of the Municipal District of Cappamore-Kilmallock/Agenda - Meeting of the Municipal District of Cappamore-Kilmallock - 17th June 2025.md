@@ -51,7 +51,6 @@ To adopt Minutes of the following Meeting:
 May, 2025.
 (Copy enclosed)
 2. Declaration of Interest
-ins * D eronatimarichcie
 Comhairle Cathrach agus Contae Lutmnigh, an Cheantatr, Aras Mhainchin Seoighe
 SE Cp onl Cine Goan han Monsen Sosigin Ann Outs W @LimerickCouncil
 

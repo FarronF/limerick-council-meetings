@@ -16,7 +16,6 @@ Limerick City arxi Cau founcl,
 
 Kiirallock,
 
-Co. Laneritk.
 EIRCODE V35 K497
 
 &: 4353 (0) 65 980 19

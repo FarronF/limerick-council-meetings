@@ -5,7 +5,6 @@
 
 ae Comhairle Cathrach Duce Bardais an Chaisedin Nua Thiar,
 & Contae Luimnigh Conde coneises ree ae ,
-AN ™ Brien,
 
 Limerick City a
 = — — An Caislean Nua Thiar,

@@ -47,8 +47,6 @@ in the attached Requisition in relation to the Voids Programme.
 
 Is mise le meas,
 
-C-fareclll
-
 Ciara Farrell,
 Meetings Administrator.
 

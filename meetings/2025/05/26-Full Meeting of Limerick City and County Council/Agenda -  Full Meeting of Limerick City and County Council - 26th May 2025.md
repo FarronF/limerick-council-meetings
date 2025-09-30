@@ -3,12 +3,13 @@
 ---
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhaite Cathrach covntahn Caneachenetone urine
 omhairte Cathwach agus Contae Luumnx
 _ & Contae Luimnigh Ceanncheathra Chorparaideach,
 A-N 2 = - Cé na gCearmnaithe,
 — Limerick City Luimneach
+
 & County Council
+
 Corporate Services,
 Limerick Cty and County Council,
 Corporate Headquarters,

@@ -254,7 +254,6 @@ housing and the very significant population increase in these areas.
 NOTICES OF MOTION
 
 J 2 wmoton sUOMITted on) i micipa Serie
-Kilmallock - Councillors G. Conway (Proposer), P.J. Carey, T. ¢
 R M. Ryan, N. Sto’ 8. T
 
 OF SaePppann
