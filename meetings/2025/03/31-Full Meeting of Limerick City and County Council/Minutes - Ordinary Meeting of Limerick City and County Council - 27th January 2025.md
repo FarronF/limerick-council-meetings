@@ -913,7 +913,7 @@ Officer, Corporate Services, Governance and Customer Services dated 17th January
 
 **Seán Golden**
 
-**Randal Hodkinson”**
+**Randal Hodkinson****”**
 
 (ii)
 
@@ -1215,7 +1215,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Collins (M), the C
 
 approved the attendance of the following Members at Conferences already approved:
 
-**Conference ‘A Practical Guide to Budget 2025 –** **Carlingford, Co. Louth (11th–** **13th** **October,**
+**Conference ‘A Practical Guide to Budget 2025 –** **Carlingford, Co. Louth (11****th****–** **13****th** **October,**
 
 **2024):** Councillors Leddin, O’Hanlon, Galvin, Slattery, Kilcoyne, Foley, Collins (M).
 
@@ -1877,7 +1877,7 @@ Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
 **I will move at the next Meeting that this Council commit to using factual and accurate**
 
-**information, based on credible sources, in this Council’s discussion and debates over the**
+**information, based on credible sources, in this Cou****ncil’s discussion and debates over the**
 
 **length of its term. In making this commitment, this Council affirms its obligation as a Local**
 
@@ -1995,7 +1995,7 @@ Notice of Motion submitted by Councillor S. Benson
 
 **Principles (1999) - to promote respect for human rights by companies with which they do**
 
-**business.The EPP will incorporate widely accepted and precisely formulated international**
+**business.****The EPP will incorporate widely accepted and precisely formulated international**
 
 **standards and explain clearly how the policy will be implemented. The primary aim of the**
 
@@ -2057,7 +2057,7 @@ Notice of Motion submitted by Councillor S. Beasley
 
 **Síochána, considering the absence of an ISPCA Inspector in Limerick, to urge the creation of**
 
-**a dedicated** ***Garda Animal Welfare**Unit*** **in Limerick, to combat the rising incidents of animal**
+**a dedicated** ***Garda Animal Welfare******Unit*** **in Limerick, to combat the rising incidents of animal**
 
 **cruelty and to further address seizure processes related to the impending ban on XL Bully**
 

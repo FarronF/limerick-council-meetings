@@ -3,7 +3,7 @@
 ---
 1
 
-**6th** **February, 2025**
+**6****th** **February, 2025**
 
 **To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
 
@@ -38,17 +38,17 @@ transacted is set out in the appended agenda.
 
 **AGENDA**
 
-**1.Minutes:**
+**1.****Minutes:**
 
 To adopt the draft minutes of the Meeting of the Travel and Transportation Strategic
 
 Policy Committee held on the 23rd April 2024.
 
-**2.Presentation: Hedge cutting policy**
+**2.****Presentation: Hedge cutting policy**
 
 Two Notice of Motions (a) & (b) to be taken as part of Item 2
 
-**a.Notice of Motion submitted by Councillor S. Kiely (referred from September**
+**a.****Notice of Motion submitted by Councillor S. Kiely (referred from September**
 
 **Council Meeting)**
 
@@ -56,7 +56,7 @@ I will move at the next Meeting that this Local Authority examine the possibilit
 
 of a Community Hedge Cutting Grant
 
-**b.Notice of Motion submitted by Councillor J. Pond** **(referred from September**
+**b.****Notice of Motion submitted by Councillor J. Pond** **(referred from September**
 
 **Council Meeting)**
 
@@ -68,7 +68,7 @@ are a danger to all road users, including pedestrians, cyclists and vehicles own
 
 thus preventing serious accidents from occurring on all our roads.
 
-**3.Notice of Motion submitted by Councillor J. O’Donoghue (referred from Adare-**
+**3.****Notice of Motion submitted by Councillor J. O’Donoghue (referred from Adare****-**
 
 **Rathkeale September Municipal Meeting)**
 
@@ -76,7 +76,7 @@ I will move at the next meeting that a plan for verge trimming on a year round b
 
 be implemented by L.C.C.C on all roads under the control of the Local Authority.
 
-**4.Notice of Motion submitted by Councillor P. Doyle (referred from September Metro**
+**4.****Notice of Motion submitted by Councillor P. Doyle (referred from September Metro**
 
 **Meeting)**
 
@@ -92,7 +92,7 @@ increase footfall in William Street and Cruises Street and surrounding areas. Th
 
 cost to this measure is amending signage on the poles with appropriate stickers.
 
-**5.Notice of Motion submitted by Councillor J. Leddin (referred from October Metro**
+**5.****Notice of Motion submitted by Councillor J. Leddin (referred from October Metro**
 
 **Meeting)**
 
@@ -106,7 +106,7 @@ is signed and submitted by residents.
 ---
 3
 
-**6.Notice of Motion submitted by Councillor P. Doyle (referred from October Metro**
+**6.****Notice of Motion submitted by Councillor P. Doyle (referred from October Metro**
 
 **Meeting)**
 
@@ -124,7 +124,7 @@ tickets to their customers in Limerick City centre. A provision for such a schem
 
 should also be included in the Councils 2025 Budget process.
 
-**7.Notice of Motion submitted by Councillor E. Secas (referred from October Metro**
+**7.****Notice of Motion submitted by Councillor E. Secas (referred from October Metro**
 
 **Meeting)**
 
@@ -136,7 +136,7 @@ chair a taskforce to address car parking problems in residential areas around th
 
 University of Limerick.
 
-**8.Question submitted by Councillor E. Secas (referred from September Council**
+**8.****Question submitted by Councillor E. Secas (referred from September Council**
 
 **Meeting)**
 
@@ -150,11 +150,11 @@ hedges/tree branches along public roads, similar to the schemes provided by
 
 Clare/Leitrim/Cork County Councils.
 
-**9.Update on provision of salt to** **Resident’s Associations during extreme weather**
+**9.****Update on provision of salt to** **Resident’s Association****s during extreme weather**
 
 **conditions**
 
-**10.Update on Bus Connects programme.**
+**10.****Update on Bus Connects programme.**
 ---
 4
 ---

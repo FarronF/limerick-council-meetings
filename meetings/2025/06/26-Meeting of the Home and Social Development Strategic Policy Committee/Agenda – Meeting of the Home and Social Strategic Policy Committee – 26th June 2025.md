@@ -39,7 +39,7 @@ for those in exceptional circumstances or where the circumstances of the family 
 
 a drastic change
 
-8. **Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Home**
+8. **Notice of Motion submitted by Councillor S. Hickey-****O’Mara (to be referred to the Home**
 
 **and Social Development Strategic Policy Committee)**
 

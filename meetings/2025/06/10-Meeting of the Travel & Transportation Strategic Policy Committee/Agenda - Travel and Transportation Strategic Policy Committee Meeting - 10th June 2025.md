@@ -3,7 +3,7 @@
 ---
 1
 
-**30th** **May, 2025**
+**30****th** **May, 2025**
 
 **To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
 
@@ -38,25 +38,25 @@ out in the appended agenda.
 
 **AGENDA**
 
-**1.Minutes:**
+**1.****Minutes:**
 
 To adopt the draft minutes of the Meeting of the Travel and Transportation Strategic
 
 Policy Committee held on the 8th April 2025.
 
-**2.Update on Local Link Service** **–** **Anne Gaughan, General Manager for Local Link**
+**2.****Update on Local Link Service** **–** **Anne Gaughan, General Manager for Local Link**
 
 **Limerick and Clare.**
 
-**3.Presentation on the CPO process for Road Schemes** **–** **Ger Carey, Mid West National**
+**3.****Presentation on the CPO process for Road Schemes** **–** **Ger Carey, Mid West National**
 
 **Road Design Office**
 
-**4.Update on provision of salt to Resident Associations during extreme weather**
+**4.****Update on provision of salt to Resident Associations during extreme weather**
 
 **conditions - John Gannon, S.E.**
 
-**5.Notice of Motion submitted by Councillor M. Donoghue (referred from April Metro**
+**5.****Notice of Motion submitted by Councillor M. Donoghue (referred from April Metro**
 
 **Meeting)**
 
@@ -68,7 +68,7 @@ attendees at courses or Active Retirement, where hourly parking discs and reside
 
 parking permits are not appropriate.
 
-**6.Notice of Motion submitted by Councillor C. Slattery (referred from May Metro**
+**6.****Notice of Motion submitted by Councillor C. Slattery (referred from May Metro**
 
 **Meeting)**
 
@@ -78,7 +78,7 @@ to look at providing free parking permits to Health Care Workers who provide hom
 
 support to people who live in the City with parking restrictions outside their homes.
 
-**7.Notice of Motion submitted by Councillor S. Benson (referred from April Metro**
+**7.****Notice of Motion submitted by Councillor S. Benson (referred from April Metro**
 
 **Meeting)**
 
@@ -90,7 +90,7 @@ NTA to provide adequate bus stop signage at all stops and remove all inadequate
 
 signage.
 
-**8.Notice of Motion submitted by Mr. David Tobin, Community/Voluntary Sector**
+**8.****Notice of Motion submitted by Mr. David Tobin, Community/Voluntary Sector**
 
 I will move at the next meeting that the Travel and Transportation Strategic
 
@@ -104,7 +104,7 @@ call for urgent prioritisation and full delivery of the **Rathkeale to Limerick 
 ---
 3
 
-***Note: The full delivery of the Greenway - from Rathkeale to Limerick City - should*
+***Note****: The full delivery of the Greenway - from Rathkeale to Limerick City - should*
 
 *be the primary objective given the substantial economic, social, and tourism*
 
@@ -120,7 +120,7 @@ call for urgent prioritisation and full delivery of the **Rathkeale to Limerick 
 
 *and international benefit from the project in the lead-up to 2027.*
 
-**9.Question submitted by Mr. F. Flaherty, Community/Voluntary Sector**
+**9.****Question submitted by Mr. F. Flaherty, Community/Voluntary Sector**
 
 I will ask at the next meeting can the Roads Design Office provide a detailed update
 

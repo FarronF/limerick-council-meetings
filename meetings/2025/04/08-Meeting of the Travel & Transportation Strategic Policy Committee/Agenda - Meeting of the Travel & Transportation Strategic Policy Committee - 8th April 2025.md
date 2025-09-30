@@ -3,7 +3,7 @@
 ---
 1
 
-**28th** **March, 2025**
+**28****th** **March, 2025**
 
 **To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
 
@@ -13,7 +13,7 @@ You are invited to attend a Meeting of the Travel and Transportation Strategic P
 
 Committee, to be held in the **Council Chamber, Dooradoyle and ONLINE** by MS Teams Video
 
-Conference, on **Tuesday the 8th** **April, 2025** at 3:00 p.m. The business to be transacted is set
+Conference, on **Tuesday the 8****th** **April, 2025** at 3:00 p.m. The business to be transacted is set
 
 out in the appended agenda.
 
@@ -38,13 +38,13 @@ out in the appended agenda.
 
 **AGENDA**
 
-**1.Minutes:**
+**1.****Minutes:**
 
 To adopt the Draft Minutes of the Meeting of the Travel and Transportation Strategic
 
 Policy Committee held on the 19th February 2025.
 
-**2.Notice of Motion submitted by** **Farron Flaherty, Dan O’Neill &** **Seán Golden,**
+**2.****Notice of Motion submitted by** **Farron Flaherty, Dan O’Neill &** **Seán Golden,**
 
 **(Limerick Cycling Campaign, ICTU/SIPTU and Limerick Chamber)** **–**
 
@@ -86,9 +86,9 @@ operational considerations of the new routes, providing valuable data for full-
 
 scale implementation for the full rollout of the BusConnects project.
 
-**3.Limerick City Centre Transport Plan Update:**
+**3.****Limerick City Centre Transport Plan Update:**
 
-**4.Presentation of the Active Travel Interactive Map - Toby Goodwin**
+**4.****Presentation of the Active Travel Interactive Map - Toby Goodwin**
 ---
 3
 ---

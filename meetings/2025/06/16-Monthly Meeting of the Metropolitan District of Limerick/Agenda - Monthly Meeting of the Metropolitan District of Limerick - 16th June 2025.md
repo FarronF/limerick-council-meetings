@@ -74,9 +74,9 @@ v @LimerickCouncil
 ---
 2
 
-**2.Declaration of Interest**
+**2.****Declaration of Interest**
 
-**3.Disposal of Land**
+**3.****Disposal of Land**
 
 To note proposals for the disposal of land as follows:
 
@@ -96,13 +96,13 @@ Limerick.
 
 **QUESTIONS**
 
-**4.Question submitted by Councillor J. Leddin**
+**4.****Question submitted by Councillor J. Leddin**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the housing
 
 development by Peter McVerry Trust on Mallow Street and when completion is expected.
 
-**5.Question submitted by Councillor J. Leddin**
+**5.****Question submitted by Councillor J. Leddin**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick to clarify what progress is
 
@@ -110,7 +110,7 @@ being made with the removal of outdated street and traffic directional signage i
 
 former digital signs and to clean all relevant signage.
 
-**6.Question submitted by Councillor J. Leddin**
+**6.****Question submitted by Councillor J. Leddin**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick what plans are in place
 
@@ -118,13 +118,13 @@ similar to the flowers on our bridges to replant the flower beds on O’Connell 
 
 wash the street furniture and paving.
 
-**7.Question submitted by Councillor S. Beasley**
+**7.****Question submitted by Councillor S. Beasley**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for the total cost for cleaning
 
 up the bonfire debris left after the May bonfires.
 
-**8.Question submitted by Councillor E. Secas**
+**8.****Question submitted by Councillor E. Secas**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick what engagement the
 
@@ -138,7 +138,7 @@ Programme.
 ---
 3
 
-**9.Question submitted by Councillor** **E. O’Donovan**
+**9.****Question submitted by Councillor** **E. O’Donovan**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for the list of the contacts
 
@@ -146,7 +146,7 @@ that took place between the Active Travel team and the Redemptorist Community in
 
 months and the results of the discussions on same.
 
-**10.Question submitted by Councillor** **E. O’Donovan**
+**10.****Question submitted by Councillor** **E. O’Donovan**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 
@@ -154,7 +154,7 @@ Community Liaison Committee as is stipulated in the planning conditions in respe
 
 Cement and for the amount of the community fund that is due to be distributed.
 
-**11.Question submitted by Councillor** **E. O’Donovan**
+**11.****Question submitted by Councillor** **E. O’Donovan**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for a detailed response of
 
@@ -162,7 +162,7 @@ who will be given access to fobs for the retractable bollards that will be place
 
 Summerville Ave/South Circular Road as part of the South Circular Road Active Travel Scheme.
 
-**12.Question submitted by Councillor S. Hickey-O’Mara**
+**12.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for the findings of the
 
@@ -174,7 +174,7 @@ been compiled, can the Council please share an estimated date as to when these f
 
 shared.
 
-**13.Question submitted by Councillor S. Hickey-O’Mara**
+**13.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 I will ask at the next Meeting of Metropolitan District of Limerick for an update on the
 
@@ -190,13 +190,13 @@ been identified for this scheme to date? Have any artists or exhibitions been co
 
 to take part in this scheme to date.
 
-**14.Question submitted by Councillor P. Reale**
+**14.****Question submitted by Councillor P. Reale**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 
 comprehensive safety review of the Parkway Roundabout.
 
-**15.Question submitted by Councillor P. Reale**
+**15.****Question submitted by Councillor P. Reale**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 
@@ -206,7 +206,7 @@ identified to enhance the customer experience.
 ---
 4
 
-**16.Question submitted by Councillor P. Reale**
+**16.****Question submitted by Councillor P. Reale**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for the number of
 
@@ -218,7 +218,7 @@ of practice, and in accordance with Limerick City and County Councils Litter Man
 
 **NOTICES OF MOTION**
 
-**17.Notice of Motion submitted by Councillor J. Leddin**
+**17.****Notice of Motion submitted by Councillor J. Leddin**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this District request
 
@@ -228,7 +228,7 @@ on the streets with a view to increasing street patrols and to consider alternat
 
 measures that will address the problems of begging.
 
-**18.Notice of Motion submitted by Councillor J. Leddin**
+**18.****Notice of Motion submitted by Councillor J. Leddin**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that the Council
 
@@ -236,7 +236,7 @@ reintroduce the street ambassador programme that will greatly enhance visitor ex
 
 city.
 
-**19.Notice of Motion submitted by Councillor S. Benson**
+**19.****Notice of Motion submitted by Councillor S. Benson**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this District write to
 
@@ -244,7 +244,7 @@ the Minister of State, Christopher O’Sullivan to ask for the necessary funding
 
 of hogweed. This is an issue in many different parts of Limerick and bordering counties.
 
-**20.Notice of Motion submitted by Councillor S. Kiely**
+**20.****Notice of Motion submitted by Councillor S. Kiely**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this District write to
 
@@ -254,7 +254,7 @@ the management of patient data, particularly in relation to the registration of 
 
 subsequent issuing of appointments to deceased individuals.
 
-**21.Notice of Motion submitted by Councillor S. Hartigan**
+**21.****Notice of Motion submitted by Councillor S. Hartigan**
 
 I will move at the next meeting of the Metropolitan District of Limerick that we write to Uisce
 
@@ -268,7 +268,7 @@ impacts.
 ---
 5
 
-**22.Notice of Motion submitted by Councillors S. Kiely and E. Secas**
+**22.****Notice of Motion submitted by Councillors S. Kiely and E. Secas**
 
 I will move at the next meeting of the Metropolitan District of Limerick that we formally request
 
@@ -284,7 +284,7 @@ stop has caused significant disruption, especially for vulnerable groups such as
 
 with disabilities, and those without private transport.
 
-**23.Notice of Motion submitted by Councillor S. Beasley**
+**23.****Notice of Motion submitted by Councillor S. Beasley**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
 
@@ -292,7 +292,7 @@ County Council consider developing an annual community bonfire event as an alter
 
 current practice of multiple, often unregulated bonfires during the May tradition.
 
-**24.Notice of Motion submitted by Councillor E. O’Donovan**
+**24.****Notice of Motion submitted by Councillor E. O’Donovan**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this District prioritise
 
@@ -302,7 +302,7 @@ Active Travel Scheme as they are very narrow and dangerous and multiple complain
 
 into the Council on same over many years with no response.
 
-**25.Notice of Motion submitted by Councillor** **E. O’Donovan**
+**25.****Notice of Motion submitted by Councillor** **E. O’Donovan**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this District calls on
 
@@ -312,7 +312,7 @@ Property Refurbishment Grant and Derelict Property Top-up Grant and prioritise f
 
 and those who will have the property as their primary residence for these grants.
 
-**26.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**26.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this District write to
 
@@ -322,7 +322,7 @@ our collective support for the retention, extension, and expansion of the Basic 
 
 (BIA) pilot scheme beyond 2025.
 
-**27.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**27.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 I will move at the next meeting of the Metropolitan District of Limerick that this District work with
 
@@ -334,7 +334,7 @@ the LGBTQIA+ community.
 ---
 6
 
-**28.Notice of Motion submitted by Councillor P. Reale**
+**28.****Notice of Motion submitted by Councillor P. Reale**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this District identifies
 
@@ -348,7 +348,7 @@ bonfire in these identified areas to encourage families and households to dispos
 
 hazardous waste/materials in a safe manner.
 
-**29.Notice of Motion submitted by Councillor P. Reale**
+**29.****Notice of Motion submitted by Councillor P. Reale**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this District writes to
 
@@ -358,7 +358,7 @@ and brief this Council on future resourcing of policing in the Limerick Metropol
 
 lifetime of the current government.
 
-**30.Correspondence**
+**30.****Correspondence**
 
 (Copy of Correspondence Enclosed).
 ---

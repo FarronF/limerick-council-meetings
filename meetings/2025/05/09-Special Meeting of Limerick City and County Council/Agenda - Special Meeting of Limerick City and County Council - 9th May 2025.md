@@ -50,8 +50,6 @@ Vote of Sympathy on the passing of former Mayor of Limerick, Kathleen Leddin,
 
 RIP.
 
-"C Yared
-
 Ciara Farrell,
 Meetings Administrator.
 

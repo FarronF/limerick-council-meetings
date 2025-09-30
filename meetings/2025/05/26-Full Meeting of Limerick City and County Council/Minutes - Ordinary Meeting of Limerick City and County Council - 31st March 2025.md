@@ -875,9 +875,9 @@ Scheme.
 
 **Recommendation**
 
-***“That, the Draft Community Hedge**-Cutting Grant Scheme be presented to the Full***
+***“That, the Draft Community Hedge******-Cutting Grant Scheme be presented to the Full***
 
-***Council Meeting on 31**st**March, 2025, for adoption.”***
+***Council Meeting on 31******st******March, 2025, for adoption.”***
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
@@ -977,7 +977,7 @@ Recommendation from the SPC:
 ---
 13
 
-**“That, the application for accreditation to the World Health Organisation European**
+**“****That, the application for accreditation to the World Health Organisation European**
 
 **Healthy Cities/Counties Network be considered for approval by Limerick City and**
 
@@ -1335,7 +1335,7 @@ to the Meeting and were therefore considered as having been dealt with:
 
 Question submitted by Councillor L. Galvin
 
-***I will ask at the next Meeting*** ***–*** ***since 1**st*** ***February, 2025, it is now illegal to own an XL Bully***
+***I will ask at the next Meeting*** ***–*** ***since 1******st*** ***February, 2025, it is now illegal to own an XL Bully***
 
 ***Dog unless you have a Certificate of Exemption*** ***–*** ***(a) how many XL Bully Dogs were***
 
@@ -2467,11 +2467,11 @@ Notice of Motion submitted by Councillor U. Gavan
 
 ***I will move at the next Meeting that Limerick City and County Council (a) Calls on the***
 
-***Government to enact the Occupied Territories Bill in full**,*** ***and (b) Agrees to fly the Palestinian***
+***Government to enact the Occupied Territories Bill in full******,*** ***and (b) Agrees to fly the Palestinian***
 
-***flag outside Merchant’s Quay as a sign of solidarity with the people of Ga**za, East Jerusalem***
+***flag outside Merchant’s Quay as a sign of solidarity with the people of Ga******za, East Jerusalem***
 
-***and the West Bank**.***  ***Note: (b) Referred to Protocol Committee.***
+***and the West Bank******.***  ***Note: (b) Referred to Protocol Committee.***
 
 The Motion was proposed by Councillor Gavan and seconded by Councillor E.
 

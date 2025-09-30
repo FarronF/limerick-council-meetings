@@ -5,7 +5,7 @@
 
 (Image omitted)
 
-**4th** **March, 2025**
+**4****th** **March, 2025**
 
 **To: The Chairperson and Each Member of the Climate Action, Biodiversity and Environment**
 
@@ -43,7 +43,7 @@ Climate Action.
 
 Administrative Officer, Litter Management.
 
-**4.Notice of Motion submitted by Councillor** **E. O’Donovan**
+**4.****Notice of Motion submitted by Councillor** **E. O’Donovan**
 
 I will move at the next meeting of the Metropolitan District of Limerick that a cost price
 

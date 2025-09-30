@@ -5,7 +5,7 @@
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
 
-**Strategic Policy Committee held on 19th** **February 2025 at 3:00 p.m. in the Council Chamber,**
+**Strategic Policy Committee held on 19****th** **February 2025 at 3:00 p.m. in the Council Chamber,**
 
 **Dooradoyle and ONLINE by MS Teams Video Conference.**
 
@@ -265,7 +265,7 @@ on the 31st March 2025 for adoption.
 
 Two Notice of Motions (a) & (b) were addressed as part of Item 2.
 
-**a)Notice of Motion submitted by Councillor S. Kiely (referred from September Council**
+**a)****Notice of Motion submitted by Councillor S. Kiely (referred from September Council**
 
 **Meeting)**
 
@@ -287,7 +287,7 @@ of roadside hedge/overhanging trees to be cut with a minimum length of road netw
 
 to be incorporated in any application of 5km.
 
-**b)Notice of Motion submitted by Councillor J. Pond** **(referred from September Council**
+**b)****Notice of Motion submitted by Councillor J. Pond** **(referred from September Council**
 
 **Meeting)**
 
@@ -321,7 +321,7 @@ of roadside hedge/overhanging trees to be cut with a minimum length of road netw
 
 to be incorporated in any application of 5km.
 
-**Item 3: Notice of Motion submitted by Councillor J. O’Donoghue (referred from Adare-**
+**Item 3: Notice of Motion submitted by Councillor J. O’Donoghue (referred from Adare****-**
 
 **Rathkeale September Municipal Meeting)**
 

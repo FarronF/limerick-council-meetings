@@ -45,7 +45,6 @@ The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
 mL
-. he “J
 Meetings Administrator.
 
 AGENDA
@@ -72,9 +71,9 @@ v @LimerickCouncil
 ---
 2
 
-**2.Declaration of Interest**
+**2.****Declaration of Interest**
 
-**3.Disposal of Land**
+**3.****Disposal of Land**
 
 To note proposal for the disposal of land as follows:
 
@@ -90,7 +89,7 @@ Limerick.
 
 (Reports Enclosed).
 
-**4.Community Initiative Scheme 2024 - General Municipal Allocation (GMA)**
+**4.****Community Initiative Scheme 2024 - General Municipal Allocation (GMA)**
 
 To consider the amendments to allocations previously approved under the Community Initiative
 
@@ -98,11 +97,11 @@ Scheme 2024 – General Municipal Allocations (GMA)
 
 (Report Enclosed).
 
-**5.Annual Meeting**
+**5.****Annual Meeting**
 
 To agree a date for the Annual Meeting of the Metropolitan District of Limerick.
 
-**6.Planning and Place-Making Directorate**
+**6.****Planning and Place-Making Directorate**
 
 **Taking in Charge of Estates - Declaration of Roads to be Public Roads**
 
@@ -116,13 +115,13 @@ amended) and Section 11 of the Roads Act 1993.
 
 **QUESTIONS**
 
-**7.Question submitted by Councillor S. Kiely**
+**7.****Question submitted by Councillor S. Kiely**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick have Irish Rail paid the
 
 derelict site levies owed to date on the CIE Club and what action is being taken regarding this.
 
-**8.Question submitted by Councillor M. Donoghue**
+**8.****Question submitted by Councillor M. Donoghue**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick what engagement has taken
 
@@ -132,13 +131,13 @@ and refurbishment of these key protected structures will be complete and ready f
 ---
 3
 
-**9.Question submitted by Councillor S. Beasley**
+**9.****Question submitted by Councillor S. Beasley**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick what plans are in place to
 
 increase the number of bins along Plassey walkway along the riverbank due to lack of same.
 
-**10.Question submitted by Councillor C. Slattery**
+**10.****Question submitted by Councillor C. Slattery**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick can bins be put in place along
 
@@ -146,7 +145,7 @@ Bloodmill Road and Childers Road as there is one bin in sight between Roxboro Ro
 
 the new Lidl store on Bloodmill Road.
 
-**11.Question submitted by Councillor C. Slattery**
+**11.****Question submitted by Councillor C. Slattery**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick can the Council advise if an
 
@@ -154,13 +153,13 @@ early detection sign can be placed near the low bridge on the Old Cork Road to w
 
 they are approaching a low bridge. As trucks are getting stuck at this location on a regular basis.
 
-**12.Question submitted by Councillor S. Beasley**
+**12.****Question submitted by Councillor S. Beasley**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for the numbers of children
 
 with disabilities in homeless services.
 
-**13.Question submitted by Councillor E. Secas**
+**13.****Question submitted by Councillor E. Secas**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for the total cost of the
 
@@ -168,7 +167,7 @@ boundary wall for Mount St. Oliver Cemetery and a breakdown of the funding sourc
 
 wall.
 
-**14.Question submitted by Councillor** **E. O’Donovan**
+**14.****Question submitted by Councillor** **E. O’Donovan**
 
 I will ask at the next meeting of the Metropolitan District of Limerick how many people have
 
@@ -176,7 +175,7 @@ applied for the Living City Initiative in the last 5 years; What the approval ra
 
 applicants were successful.
 
-**15.Question submitted by Councillor U. Gavan**
+**15.****Question submitted by Councillor U. Gavan**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick that Limerick City and County
 
@@ -186,7 +185,7 @@ Limerick for the last 2 years and also those landlords who receive payments in r
 
 and RAS schemes.
 
-**16.Question submitted by Councillor M. Donoghue**
+**16.****Question submitted by Councillor M. Donoghue**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick that the Festival & Events
 
@@ -196,7 +195,7 @@ by-line basis.
 ---
 4
 
-**17.Question submitted by Councillor S. Hickey-O’Mara**
+**17.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the setting
 
@@ -204,13 +203,13 @@ up of an online directory of Limerick based artists after the Motion was passed 
 
 Metropolitan Meeting. At what stage is this project at and when is it expected to be launched.
 
-**18.Question submitted by Councillor S. Hickey-O’Mara**
+**18.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick for the full criteria for the
 
 deployment of flood defences at Clancy Strand.
 
-**19.Question submitted by Councillor D. McSweeney**
+**19.****Question submitted by Councillor D. McSweeney**
 
 I will ask at the next meeting of the Metropolitan District of Limerick, following the funding
 
@@ -218,7 +217,7 @@ allocation from TII for the proposed Safety Improvement works from Clarina Villa
 
 for an indicative timeline for the proposed project.
 
-**20.Question submitted by Councillor D. McSweeney**
+**20.****Question submitted by Councillor D. McSweeney**
 
 I will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 
@@ -228,7 +227,7 @@ Part 8 Planning Application for the scheme.
 
 **NOTICES OF MOTION**
 
-**21.Notice of Motion submitted by Councillor M. Donoghue**
+**21.****Notice of Motion submitted by Councillor M. Donoghue**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this Council call on
 
@@ -236,7 +235,7 @@ Fáilte Ireland to put an additional Tourist Information Centre in place in the 
 
 Limerick City (O'Connell Street, Thomas Street, Bedford Row).
 
-**22.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
+**22.****Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
 
 **Development Strategic Policy Committee)**
 
@@ -248,7 +247,7 @@ in exceptional circumstances or where the circumstances of the family have taken
 
 change.
 
-**23.Notice of Motion submitted by Councillor E. O’Donovan**
+**23.****Notice of Motion submitted by Councillor E. O’Donovan**
 
 I will move at the next meeting of the Metropolitan District of Limerick that this Council writes to
 
@@ -260,7 +259,7 @@ Ireland.
 ---
 5
 
-**24.Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Economic**
+**24.****Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Economic**
 
 **Development, Enterprise, Tourism and Planning Strategic Policy Committee)**
 
@@ -274,7 +273,7 @@ new cooperatives, SMEs, social enterprises and community businesses to use vacan
 
 properties in Limerick City.
 
-**25.Notice of Motion submitted by Councillor U. Gavan**
+**25.****Notice of Motion submitted by Councillor U. Gavan**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
 
@@ -282,7 +281,7 @@ County Council engage with the NTA/Bus Eireann about introducing urgently, tap a
 
 on public buses in Limerick.
 
-**26.Notice of Motion submitted by Councillor M. Donoghue (to be referred to the Travel and**
+**26.****Notice of Motion submitted by Councillor M. Donoghue (to be referred to the Travel and**
 
 **Transportation Strategic Policy Committee)**
 
@@ -292,7 +291,7 @@ medium-term parking permits for tradespeople, service providers, attendees at co
 
 Retirement, where hourly parking discs and residential parking permits are not appropriate.
 
-**27.Notice of Motion submitted by Councillor S. Benson (to be referred to the Travel and**
+**27.****Notice of Motion submitted by Councillor S. Benson (to be referred to the Travel and**
 
 **Transportation Strategic Policy Committee)**
 
@@ -302,7 +301,7 @@ an audit of all bus stops in the Metropolitan area and liaise with the NTA to pr
 
 stop signage at all stops and remove all inadequate signage.
 
-**28.Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Travel and**
+**28.****Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Travel and**
 
 **Transportation Strategic Policy Committee)**
 
@@ -312,7 +311,7 @@ a full review of the Broad Street/Charlotte’s Quay junction due to the consist
 
 this junction.
 
-**29.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**29.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this Council:
 
@@ -330,7 +329,7 @@ c.
 
 Put up additional signage in communities.
 
-**30.Correspondence**
+**30.****Correspondence**
 
 (Copy of Correspondence Enclosed).
 ---

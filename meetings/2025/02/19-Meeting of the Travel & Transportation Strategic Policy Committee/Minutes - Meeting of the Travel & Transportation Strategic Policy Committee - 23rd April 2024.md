@@ -5,7 +5,7 @@
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
 
-**Strategic Policy Committee held on 23rd** **April 2024 at 3:00 p.m. in the Council Chamber,**
+**Strategic Policy Committee held on 23****rd** **April 2024 at 3:00 p.m. in the Council Chamber,**
 
 **Merchant’s Quay** **and ONLINE by MS Teams Video Conference.**
 

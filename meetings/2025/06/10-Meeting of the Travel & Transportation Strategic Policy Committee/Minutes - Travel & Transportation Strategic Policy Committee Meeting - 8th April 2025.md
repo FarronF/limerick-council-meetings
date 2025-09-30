@@ -5,7 +5,7 @@
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
 
-**Strategic Policy Committee held on 8th** **April 2025 at 3:00 p.m. in the Council Chamber,**
+**Strategic Policy Committee held on 8****th** **April 2025 at 3:00 p.m. in the Council Chamber,**
 
 **Dooradoyle and ONLINE by MS Teams Video Conference.**
 

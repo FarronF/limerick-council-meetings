@@ -55,9 +55,9 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 ---
 2
 
-**2.Declaration of Interest**
+**2.****Declaration of Interest**
 
-**3.Community Initiative Scheme 2025 - General Municipal Allocation (GMA)**
+**3.****Community Initiative Scheme 2025 - General Municipal Allocation (GMA)**
 
 To consider the approval of allocations under the Community Initiative Scheme 2025 – General
 
@@ -67,7 +67,7 @@ Municipal Allocations (GMA).
 
 **QUESTIONS**
 
-**4.Question submitted by Councillor U. Gavan**
+**4.****Question submitted by Councillor U. Gavan**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick, Limerick has the second-
 
@@ -89,7 +89,7 @@ In the cases litigated in Court relating to personal injury claims in the O Conn
 
 2023 and 2024 was there a finding of underlying cause and if so, what was the finding.
 
-**5.Question submitted by Councillor E. Secas**
+**5.****Question submitted by Councillor E. Secas**
 
 I will ask at the next meeting of the Metropolitan District of Limerick if the Council has actually
 
@@ -99,7 +99,7 @@ September last year and if the €20,000 development levies allocation towards t
 
 has been spent.
 
-**6.Question submitted by Councillor E. Secas**
+**6.****Question submitted by Councillor E. Secas**
 
 I will ask at the next meeting of the Metropolitan District of Limerick if the Council has yet
 
@@ -107,13 +107,13 @@ identified an alternative way to deliver the Kilmurry Columbarium Garden Wall an
 
 timeline for the construction stage.
 
-**7.Question submitted by Councillor E. O’Donovan**
+**7.****Question submitted by Councillor E. O’Donovan**
 
 I will ask at the next meeting of the Metropolitan District of Limerick how many applicants are
 
 currently on the housing waiting list in the Metropolitan area and length of time on the list.
 
-**8.Question submitted by Councillor E. O’Donovan**
+**8.****Question submitted by Councillor E. O’Donovan**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick if this Council has applied
 
@@ -121,7 +121,7 @@ for funding for a bus shelter and seating at bus stop 607891 on the Mulcair Road
 ---
 3
 
-**9.Question submitted by Councillor E. O’Donovan**
+**9.****Question submitted by Councillor E. O’Donovan**
 
 I will ask at the next meeting of the Metropolitan District of Limerick for the number of applicants
 
@@ -129,7 +129,7 @@ for the Historic Structures Fund in 2024 and the number of successful applicants
 
 breakdown of use for residential or community use, and if located in the Metropolitan area.
 
-**10.Question submitted by Councillor C. Slattery**
+**10.****Question submitted by Councillor C. Slattery**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick can the Council advise in a
 
@@ -139,13 +139,13 @@ is it to seize the dogs and place them in a safe environment. Can the Council al
 
 the animal is seized who pays for the animals care and where is the animal placed.
 
-**11.Question submitted by Councillor J. Pond**
+**11.****Question submitted by Councillor J. Pond**
 
 I will ask at the next meeting of the Metropolitan District of Limerick for an update on the Bike
 
 Scheme that was trialled in Annacotty/Castletroy area in the last few years.
 
-**12.Question submitted by Councillor C. Slattery**
+**12.****Question submitted by Councillor C. Slattery**
 
 I will ask at the next meeting of the Metropolitan District of Limerick what the Director of
 
@@ -153,7 +153,7 @@ Housing’s plans are to curtail the completely disproportionate purchasing of n
 
 Limerick City by Approved Housing Bodies and other entities supported by the State.
 
-**13.Question submitted by Councillor S. Hickey-O’Mara**
+**13.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 I will ask at the next meeting of the Metropolitan District of Limerick how many fines for dog
 
@@ -161,7 +161,7 @@ fouling were issued by Limerick Council in the Metropolitan District of Limerick
 
 and how much revenue was collected as a result.
 
-**14.Question submitted by Councillor S. Hickey-O’Mara**
+**14.****Question submitted by Councillor S. Hickey-****O’Ma****ra**
 
 I will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 
@@ -169,7 +169,7 @@ proposed bus shelter planned for the Old Cratloe Road. Is it still proposed to b
 
 Caherdavin Meadows Junction rather than the bus stop’s current location.
 
-**15.Question submitted by Councillor M. Donoghue**
+**15.****Question submitted by Councillor M. Donoghue**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick what steps are typically
 
@@ -177,7 +177,7 @@ taken by Limerick City and County Council to engage with owners of vacant and de
 
 in the Metropolitan area, to bring them back to occupation.
 
-**16.Question submitted by Councillor M. Donoghue**
+**16.****Question submitted by Councillor M. Donoghue**
 
 I will ask at the next Meeting of the Metropolitan District of Limerick what the number of units is
 
@@ -187,7 +187,7 @@ Rentals.
 ---
 4
 
-**17.Question submitted by Councillor S. Kiely**
+**17.****Question submitted by Councillor S. Kiely**
 
 I will ask at the next meeting of the Metropolitan District of Limerick for an update on the progress
 
@@ -195,7 +195,7 @@ with the Columbarium Wall in Mount St. Lawrence.
 
 **NOTICES OF MOTION**
 
-**18.Notice of Motion submitted by Councillor P. Doyle (to be referred to the Economic**
+**18.****Notice of Motion submitted by Councillor P. Doyle (to be referred to the Economic**
 
 **Development, Enterprise, Tourism and Planning Strategic Policy Committee)**
 
@@ -207,7 +207,7 @@ units like one year’s rates exempt for new retail premises and penalties for o
 
 retail premises that have been idle for over two years.
 
-**19.Notice of Motion submitted by Councillor U. Gavan**
+**19.****Notice of Motion submitted by Councillor U. Gavan**
 
 I will move at the next meeting of the Metropolitan District of Limerick that Limerick City and
 
@@ -215,7 +215,7 @@ County Council liaise with Government with a view to establishing a Driving Test
 
 Castletroy/Annacotty to help alleviate the long wait times for tests.
 
-**20.Notice of Motion submitted by Councillor U. Gavan**
+**20.****Notice of Motion submitted by Councillor U. Gavan**
 
 I will move at the next meeting of the Metropolitan District of Limerick that Limerick City and
 
@@ -225,13 +225,13 @@ its housing commitments and to allow the Tenant In Situ scheme to function as wa
 
 established.
 
-**21.Notice of Motion submitted by Councillor C. Slattery**
+**21.****Notice of Motion submitted by Councillor C. Slattery**
 
 I will move at the next meeting of the Metropolitan District of Limerick that this Council give
 
 consideration to the provision of a community park in the Singland/Bloodmill area of Limerick.
 
-**22.Notice of Motion submitted by Councillor C. Slattery (to be referred to the Travel and**
+**22.****Notice of Motion submitted by Councillor C. Slattery (to be referred to the Travel and**
 
 **Transportation Strategic Policy Committee)**
 
@@ -241,7 +241,7 @@ providing free parking permits to Health Care Workers who provide home support t
 
 live in the City with parking restrictions outside their homes.
 
-**23.Notice of Motion submitted by Councillor J. Pond**
+**23.****Notice of Motion submitted by Councillor J. Pond**
 
 I will move at the next meeting of the Metropolitan District of Limerick that Limerick City and
 
@@ -253,7 +253,7 @@ occurring at both Apartment Blocks in Newtown Meadows in Castletroy.
 ---
 5
 
-**24.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**24.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 I will move at the next meeting of the Metropolitan District of Limerick that this Council engage
 
@@ -263,7 +263,7 @@ and the Community Substance Misuse Team, to identify suitable locations for the 
 
 external drop boxes for the safe disposal of drug litter throughout Limerick city.
 
-**25.Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Home and**
+**25.****Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Home and**
 
 **Social Development Strategic Policy Committee)**
 
@@ -273,7 +273,7 @@ inclusion of child maintenance payments as income when calculating rent on local
 
 homes.
 
-**26.Notice of Motion submitted by Councillor M. Donoghue**
+**26.****Notice of Motion submitted by Councillor M. Donoghue**
 
 I will move at the next Meeting of the Metropolitan District of Limerick that this Council write to
 
@@ -283,19 +283,19 @@ taskforce to effectively deal with the current drug problems experienced widely 
 
 Metropolitan District.
 
-**27.Notice of Motion submitted by Councillor S. Kiely**
+**27.****Notice of Motion submitted by Councillor S. Kiely**
 
 I will move at the next meeting of the Metropolitan District of Limerick that we write to the Port
 
 Authority to ask that the two canons at Limerick Docks be removed and returned to the city.
 
-**28.Notice of Motion submitted by Councillor S. Kiely**
+**28.****Notice of Motion submitted by Councillor S. Kiely**
 
 I will move at the next meeting of the Metropolitan District of Limerick that a funding source be
 
 identified for the chapel in Mount St. Lawrence to be restored.
 
-**29.Correspondence**
+**29.****Correspondence**
 
 (Copy of Correspondence Enclosed).
 ---

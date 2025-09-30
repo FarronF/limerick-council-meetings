@@ -209,7 +209,7 @@ help small and local businesses.
 
 **circulated to Members, would be read into the Minutes of the Meeting as follows:**
 
-**“Introduction**
+**“****Introduction**
 ---
 4
 
@@ -261,7 +261,7 @@ objectives and priorities for his term of office.
 
 the 23rd September 2024 to leave the LPT adjustment factor at the 2024 levels for 2025.
 
-***Step 3 - Allocation of the General Municipal/ Metropolitan Allocation (GMA).The Draft*
+***Step 3 - Allocation of the General Municipal/ Metropolitan Allocation (GMA).****The Draft*
 
 *Budgetary Plan was considered at the following meetings:*
 
@@ -507,7 +507,7 @@ figure includes the one-off transfer to the State arising from the Court of Just
 
 European Union ruling in September. ***Excluding the impact of this transfer, as well as the***
 
-***Depar**tment’s estimate of windfall corporate tax receipts, there would be an underlying***
+***Depar******tment’s estimate of windfall corporate tax receipts, there would be an underlying***
 
 ***fiscal deficit of around €6.3 billion (2 per cent of GNI) for this year.***
 
@@ -891,7 +891,7 @@ aligned with the strategic objectives of the *More for Limerick* programme.
 
 **Implementation of the Mayoral Programme**
 
-The implementation of the “**More for Limerick”** Mayoral Programme is designed to deliver
+The implementation of the “**More for Limerick****”** Mayoral Programme is designed to deliver
 
 transformative changes across Limerick over the next five years through a rigorous, multi-
 
@@ -1033,7 +1033,7 @@ key partners and the Southern Regional Assembly.
 
 ***The key objectives of the 2025 Revenue Budget are set out below:***
 
-**1.Housing & Regeneration**
+**1.****Housing & Regeneration**
 
  Progress all avenues to increase housing supply in Limerick
 
@@ -1069,7 +1069,7 @@ Supporting Social Inclusion
 
  Focus on dereliction in the existing housing stock.
 
-**2.Sport & Recreation**
+**2.****Sport & Recreation**
 
  Adoption of a Local Sports Plan for Limerick in conjunction with Sports Ireland
 
@@ -1083,7 +1083,7 @@ highest standards
 
  Support other stakeholders to enhance their facilities
 
-**3.Environment & Climate Change**
+**3.****Environment & Climate Change**
 
  To lead our communities to protect and enhance the natural and built environment for
 
@@ -1099,7 +1099,7 @@ and transitioning to a circular economy
 
 
 
-**4.Planning & Place Making**
+**4.****Planning & Place Making**
 
  To implement the provisions of the new Planning & Development Act 2024
 
@@ -1801,7 +1801,7 @@ on the basis of this allocation is set out in ***Table 4*** below:
 
 **2025 Baseline**
 
-**€19,054,464**
+**€****19,054,464**
 
 **2025 Shortfall (LPT retained locally -2025 Baseline)**
 
@@ -1813,7 +1813,7 @@ on the basis of this allocation is set out in ***Table 4*** below:
 
 **Total LPT Funding to be provided in 2025**
 
-**€19,054,464**
+**€****19,054,464**
 
 **15% increase in LPT rate**
 
@@ -1821,7 +1821,7 @@ on the basis of this allocation is set out in ***Table 4*** below:
 
 **Revised LPT Allocation 2025**
 
-**€21,405,932**
+**€21,405,****932**
 
 **Table 4: LPT Reconciliation 2025**
 
@@ -2615,11 +2615,11 @@ on the basis of the following parameters:
 
  **The support payment aimed specifically at small and medium-sized businesses**
 
-**will be 13.5% of 2025 rates subject to a maximum limit of €1,500.**
+**will be 13****.5% of 2025 rates subject to a maximum limit of €****1,500.**
 
  **Occupiers of formerly Vacant premises would get a 50% Refund of Commercial**
 
-**Rates in the first year of occupation subject to a maximum refund of €10,000.**
+**R****ates in the first year of occupation subject to a maximum refund of €10,000.**
 
 Schedule of amendments to the Budget originally proposed:
 

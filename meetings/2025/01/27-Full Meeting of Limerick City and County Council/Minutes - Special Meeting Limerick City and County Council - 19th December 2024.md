@@ -117,7 +117,7 @@ relation to the filling of subsequent vacancies consequent to the election of Co
 
 Sheehan to Dáil Éireann.
 
-**a)Chair-Designate of the Climate Action, Biodiversity and Environment Strategic Policy**
+**a)****Chair-Designate of the Climate Action, Biodiversity and Environment Strategic Policy**
 
 **Committee**
 
@@ -171,7 +171,7 @@ The Príomh Chomhairleoir declared Councillor Joe Leddin appointed Chair-Designa
 
 of the Climate Action, Biodiversity and Environment Strategic Policy Committee.
 
-**b)Moyross Community Enterprise Centre Limited**
+**b)****Moyross Community Enterprise Centre Limited**
 
 The Príomh Chomhairleoir advised that the Council was required to consider the
 
@@ -207,7 +207,7 @@ Scanlan, Secas, Sheahan, Slattery, Stokes, Talukder, Teefy, Teskey, Ward. **(34)
 ---
 4
 
-**For Councillor Hickey-O’Mara**
+**For Councillor Hickey-****O’Mara**
 
 Councillors Benson, Donoghue, Gavan, Hickey O’Mara, O’Donovan. **(5)**
 

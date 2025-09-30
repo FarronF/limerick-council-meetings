@@ -55,7 +55,7 @@ Limerick City
 
 You are requested to attend a Special Meeting of the Municipal District of Adare-Rathkeale to be
 
-held in Áras Seán Finn, New Line Road, Rathkeale, Co. Limerick, on **Thursday, 20th** **February, 2025**
+held in Áras Seán Finn, New Line Road, Rathkeale, Co. Limerick, on **Thursday, 20****th** **February, 2025**
 
 **at 12.00 p.m.**  The business to be transacted is set out on the appended Agenda.
 

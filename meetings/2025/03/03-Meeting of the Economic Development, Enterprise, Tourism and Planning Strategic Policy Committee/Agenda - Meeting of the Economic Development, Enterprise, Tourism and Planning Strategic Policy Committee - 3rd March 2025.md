@@ -5,7 +5,7 @@
 
 (Image omitted)
 
-**18th** **February, 2025**
+**18****th** **February, 2025**
 
 **To: The Chairperson and Each Member of the Economic Development, Enterprise, Tourism &**
 
@@ -47,7 +47,7 @@ Strategic Policy Committee to be held in **the Council Chamber, Dooradoyle** on 
 
 **Notice of Motion submitted by Councillor J. Leddin (referred from the Meeting of the**
 
-**Metropolitan District held on 20th** **January, 2025 to the Economic Development,**
+**Metropolitan District held on 20****th** **January, 2025 to the Economic Development,**
 
 **Enterprise, Tourism and Planning Strategic Policy Committee)**
 

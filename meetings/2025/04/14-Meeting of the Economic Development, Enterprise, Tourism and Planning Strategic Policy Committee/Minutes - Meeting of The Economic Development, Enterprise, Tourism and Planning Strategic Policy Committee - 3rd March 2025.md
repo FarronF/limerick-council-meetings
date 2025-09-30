@@ -471,7 +471,7 @@ the grants will be circulated to the members.
 
 **Notice of Motion submitted by Councillor J. Leddin (referred from the Meeting of the**
 
-**Metropolitan District held on 20th** **January 2025 to the Economic Development, Enterprise,**
+**Metropolitan District held on 20****th** **January 2025 to the Economic Development, Enterprise,**
 
 **Tourism and Planning Strategic Policy Committee)**
 

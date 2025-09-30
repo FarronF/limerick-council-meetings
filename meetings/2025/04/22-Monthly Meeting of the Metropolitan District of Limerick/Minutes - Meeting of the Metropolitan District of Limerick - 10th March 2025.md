@@ -5,7 +5,7 @@
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
 
-**MONDAY, 10TH** **MARCH, 2025 at 9.45 A.M.**
+**MONDAY, 10****TH** **MARCH, 2025 at 9.45 A.M.**
 
 **PRESENT IN THE CHAIR:** Councillor K. O’Hanlon, Cathaoirleach
 
@@ -45,7 +45,7 @@ presented to him in Strasbourg in his role as President of AILG. He outlined tha
 
 a Friendship Agreement with the equivalent Association from Ukraine in the coming weeks.
 
-**1.Adoption of Minutes**
+**1.****Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
@@ -73,7 +73,7 @@ Briefing would be arranged to discuss the outcome of the review.
 ---
 2
 
-**2.Declaration of Interest**
+**2.****Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
@@ -83,7 +83,7 @@ any declaration of interest in any item due for discussion at the Meeting. No su
 
 declared.
 
-**3.Disposal of Land**
+**3.****Disposal of Land**
 
 (a)
 
@@ -109,7 +109,7 @@ intention to bring a Section 183 Notice to Full Council in this regard, for appr
 
 The report, as circulated, was noted by Members.
 
-**4.Schedule of Municipal District Works for Metropolitan District of Limerick**
+**4.****Schedule of Municipal District Works for Metropolitan District of Limerick**
 
 Circulated, Report of the Director of Services dated 4th March, 2025, setting out the background to
 
@@ -133,7 +133,7 @@ the Schedule of Municipal District Works. It was agreed that, going forward, wor
 
 organised well in advance of drafting the Schedule, to include the Members input.
 
-**5.Housing Directorate**
+**5.****Housing Directorate**
 
 **(a)**
 
@@ -199,7 +199,7 @@ accordance with the provisions of Sections 54 and 55 of the Planning and Develop
 
 **QUESTIONS**
 
-**6.Question submitted by Councillor J. Leddin**
+**6.****Question submitted by Councillor J. Leddin**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick how many social, affordable***
 
@@ -437,7 +437,7 @@ Not known at this time 286 estimate
 
 *Table 1: Overview of Metropolitan District Delivery*
 
-**7.Question submitted by Councillor J. Leddin**
+**7.****Question submitted by Councillor J. Leddin**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what progress is being made***
 
@@ -465,7 +465,7 @@ Council to date and once funding is secured, the project can be progressed furth
 
 Clancourt Ltd.
 
-**8.Question submitted by Councillor J. Leddin**
+**8.****Question submitted by Councillor J. Leddin**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update from the***
 
@@ -479,7 +479,7 @@ of a watermain service at Greenfields, Rosbrien. Once agreed a road pavement rep
 
 surfacing strategy for this area will be determined.
 
-**9.Question submitted by Councillor C. Slattery**
+**9.****Question submitted by Councillor C. Slattery**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can Limerick Council provide***
 
@@ -497,7 +497,7 @@ It is hoped that the developer will complete this work soon and move on to prepa
 
 planning application.
 
-**10.Question submitted by Councillor C. Slattery**
+**10.****Question submitted by Councillor C. Slattery**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can Limerick Council provide***
 
@@ -513,7 +513,7 @@ secured a compound close by. Funders are also on board to facilitate drawdowns. 
 
 completion is targeted for Q4 2026.
 
-**11.Question submitted by Councillor U. Gavan**
+**11.****Question submitted by Councillor U. Gavan**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can Limerick City and County***
 
@@ -531,7 +531,7 @@ part of wider plans for the castle.
 ---
 6
 
-**12.Question submitted by Councillor U. Gavan**
+**12.****Question submitted by Councillor U. Gavan**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what is the status of the***
 
@@ -555,9 +555,9 @@ geographical operating area for the TFI Bike Share scheme. We do not currently h
 
 timeline for the roll out of the expanded scheme.
 
-**13.Question submitted by Councillor U. Gavan**
+**13.****Question submitted by Councillor U. Gavan**
 
-***I will ask at the next**meeting of the Metropolitan District of Limerick, for an update on previous***
+***I will ask at the next******meeting of the Metropolitan District of Limerick, for an update on previous***
 
 ***engagements that took place between Limerick City and County Council, Limerick Animal Welfare***
 
@@ -593,11 +593,11 @@ by the Department of Agriculture, Food and the Marine during 2025, and veterinar
 
 surgeons within the Department will be enforcing the Act when this transfer is complete.
 
-**14.Question submitted by Councillor S. Beasley**
+**14.****Question submitted by Councillor S. Beasley**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, how many over 55's are on***
 
-***the Limerick social housing list that have**a**disability.***
+***the Limerick social housing list that have******a******disability.***
 
 **REPLY**: There are 322 people (identifying as Main Applicant) over 55 with a disability on the social
 
@@ -607,7 +607,7 @@ transfer list.
 ---
 7
 
-**15.Question submitted by Councillor E. Secas**
+**15.****Question submitted by Councillor E. Secas**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick if a site has yet been***
 
@@ -623,7 +623,7 @@ city and county. There is an awareness of the needs raised for the Castletroy ar
 
 will be considered in the development of the strategy.
 
-**16.Question submitted by Councillor E. Secas**
+**16.****Question submitted by Councillor E. Secas**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for a delivery timeline of***
 
@@ -647,7 +647,7 @@ delivery as part of other development plans for the area. There is currently no 
 
 place for the delivery of the project.
 
-**17.Question submitted by Councillor S. Kiely**
+**17.****Question submitted by Councillor S. Kiely**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what process took place to***
 
@@ -703,7 +703,7 @@ of Housing, Local Government and Heritage. The recommendation was agreed by the
 
 Senior Management Team in advance of the letter issuing to the Department.
 
-**18.Question submitted by Councillor S. Kiely**
+**18.****Question submitted by Councillor S. Kiely**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the lighting***
 
@@ -717,7 +717,7 @@ also examining further additional lighting options which are dependent on approv
 
 Irish Rail and funding availability.
 
-**19.Question submitted by Councillor S. Hickey-O’Mara**
+**19.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick if this Council has a specific***
 
@@ -747,7 +747,7 @@ scheduling seizures and engaging with horse owners.  The title of ‘Horse Warde
 
 role set out under the Act.
 
-**20.Question submitted by Councillor S. Hickey-O’Mara**
+**20.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for this Council to please***
 
@@ -763,7 +763,7 @@ Management section.
 ---
 9
 
-**21.Question submitted by Councillor S. Hickey-O’Mara**
+**21.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for a timeline for the***
 
@@ -779,7 +779,7 @@ At present there is no timeline regarding their implementation in the Metropolit
 
 of Limerick.
 
-**22.Question submitted by Councillor D. McSweeney**
+**22.****Question submitted by Councillor D. McSweeney**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
 
@@ -863,7 +863,7 @@ An assessment of this will be undertaken as soon as the Connection Agreement is 
 
 Elected Members will be updated in due course.
 
-**23.Question submitted by Councillor D. McSweeney**
+**23.****Question submitted by Councillor D. McSweeney**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update in relation to***
 
@@ -879,7 +879,7 @@ investigating options with TII to develop Clarina Roundabout under a proposed sp
 
 scheme. We will continue to follow up on this and provide an update once available.
 
-**24.Question submitted by Councillor D. McSweeney**
+**24.****Question submitted by Councillor D. McSweeney**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for a full itemised***
 
@@ -925,7 +925,7 @@ With the permission of the Cathaoirleach, it was agreed to take Item No. 29 next
 ---
 11
 
-**29.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**29.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council urge***
 
@@ -971,7 +971,7 @@ Our experience is that the current Limerick offer addresses the need for a house
 
 service for Limerick, within the library resources available.
 
-**25.Notice of Motion submitted by Councillor J. Leddin**
+**25.****Notice of Motion submitted by Councillor J. Leddin**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Council undertake***
 
@@ -1009,7 +1009,7 @@ needed for the Council owned site under consideration as a potential location fo
 
 centre, in order to assess its suitability.
 
-**26.Notice of Motion submitted by Councillor J. Leddin**
+**26.****Notice of Motion submitted by Councillor J. Leddin**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Council invite the***
 
@@ -1027,7 +1027,7 @@ update to Members on the timescale for delivery of housing on the key sites in t
 
 with the ongoing housing crisis
 
-**27.Notice of Motion submitted by Councillor U. Gavan**
+**27.****Notice of Motion submitted by Councillor U. Gavan**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
 
@@ -1071,7 +1071,7 @@ of an upcoming webinar organised by the Department of Housing, Local Government 
 ---
 13
 
-**28.Notice of Motion submitted by Councillor S. Beasley**
+**28.****Notice of Motion submitted by Councillor S. Beasley**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
 
@@ -1101,7 +1101,7 @@ Following discussions, it was agreed to provide the Elected Members with an upda
 
 outcomes of the Parkway Roundabout review.
 
-**30.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**30.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council ensures***
 
@@ -1173,7 +1173,7 @@ cost of the procedures or to provide the level of post-operative care required. 
 
 the current layout of the building and kennels would not accommodate this type of activity.
 
-**31.Notice of Motion submitted by Councillor E. Secas**
+**31.****Notice of Motion submitted by Councillor E. Secas**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Mayor and the***
 

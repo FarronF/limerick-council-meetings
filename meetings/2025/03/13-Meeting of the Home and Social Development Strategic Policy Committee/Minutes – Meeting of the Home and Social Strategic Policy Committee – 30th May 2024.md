@@ -9,7 +9,7 @@
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic Policy
 
-Committee was held on the **30th** **May 2024** in the Council Chamber, Dooradoyle and via MS Teams. 
+Committee was held on the **30****th** **May 2024** in the Council Chamber, Dooradoyle and via MS Teams. 
 
  
 
@@ -81,7 +81,7 @@ An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed all member
 
 SPC meeting.
 
-**Item 1:  Confirm minutes from meeting held on11th** **April 2024.** 
+**Item 1:  Confirm minutes from meeting held on****11****th** **April 2024.** 
 
  
 
@@ -221,7 +221,7 @@ in the upcoming elections.
 
 Cllr. Collopy thanked Cllr. Keary for sitting as An Cathaoirleach of the Home and Development SPC.
 
-**October SPC meeting date Thursday, 10th** **October 2024.**
+**October SPC meeting date Thursday, 10****th** **October 2024.**
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 

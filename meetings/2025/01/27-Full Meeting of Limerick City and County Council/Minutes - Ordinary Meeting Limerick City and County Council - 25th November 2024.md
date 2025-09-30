@@ -1185,7 +1185,7 @@ It was agreed to write to the Minister for Rural and Community Development.
 
 Notice of Motion submitted by Councillor A. Teskey
 
-**I will move at the next Meeting for a variation to the Limerick Development Plan to add the**
+**I will move at the next Meeting for a variation to the Limerick Devel****opment Plan to add the**
 
 **following to Chapter 11 Development Management Standards, 11.7.2.1 Wind Energy: "In**
 
@@ -1307,7 +1307,7 @@ Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
 ***I will move at the next Meeting that we run a Limerick-wide campaign to highlight the***
 
-***importance of Men’s Mental Health**through engaging with sports organisations, men’s***
+***importance of Men’s Mental Health******through engaging with sports organisations, men’s***
 
 ***sheds, schools, and other organisations to promote connection and a sense of belonging in***
 
@@ -1355,7 +1355,7 @@ the following Emergency Motion and this was agreed:
 
 ***opening the bus lane on O’Connell*** ***Street for the Christmas period, to relieve traffic***
 
-***congestion and potentially encourage more footfall into the city.**”***
+***congestion and potentially encourage more footfall into the city.******”***
 
 The Motion was proposed by Councillor Kiely, seconded by Councillor Butler, and
 
@@ -1587,7 +1587,7 @@ Councillor Teefy, Standing Order No. 4 was suspended in order to complete the ag
 
 Question submitted by Councillor U. Gavan
 
-***I will ask at the next Meeting wha**t are the Mayor’s plans now for the Designated Activity***
+***I will ask at the next Meeting wha******t are the Mayor’s plans now for the Designated Activity***
 
 ***Companies (DACs) following his recent legal advice.***
 

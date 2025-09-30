@@ -9,7 +9,7 @@
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic Policy
 
-Committee was held on the **24th** **April 2025** in the Council Chamber, Dooradoyle and via MS Teams. 
+Committee was held on the **24****th** **April 2025** in the Council Chamber, Dooradoyle and via MS Teams. 
 
  
 
@@ -73,7 +73,7 @@ An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed everyone i
 
 and online.
 
-**Item 1: Confirm minutes from meeting held on13th** **March 2025**
+**Item 1: Confirm minutes from meeting held on****13****th** **March 2025**
 
  
 
@@ -251,7 +251,7 @@ Kathy O’Grady, Administrative Officer, Housing advised that members could cont
 
 advance of the SPC meeting to add items to the agenda.
 
-**Next meeting date Thursday, 26th** **June 2025**
+**Next meeting date Thursday, 26****th** **June 2025**
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 

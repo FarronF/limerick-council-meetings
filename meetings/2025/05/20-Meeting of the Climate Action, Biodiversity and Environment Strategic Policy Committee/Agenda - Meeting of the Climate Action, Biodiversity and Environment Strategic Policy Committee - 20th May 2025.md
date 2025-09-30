@@ -3,7 +3,7 @@
 ---
 1
 
-**6th** **May 2025**
+**6****th** **May 2025**
 
 **To: The Chairperson and Each Member of the Climate Action, Biodiversity and Environment**
 

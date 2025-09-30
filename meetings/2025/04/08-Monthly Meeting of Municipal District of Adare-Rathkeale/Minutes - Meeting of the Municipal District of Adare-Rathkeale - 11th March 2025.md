@@ -5,7 +5,7 @@
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
 
-**LIMERICK AND ONLINE ON TUESDAY, 11TH** **MARCH, 2025 AT 9.30 A.M.**
+**LIMERICK AND ONLINE ON TUESDAY, 11****TH** **MARCH, 2025 AT 9.30 A.M.**
 
 **PRESENT IN THE CHAIR:**
 
@@ -413,7 +413,7 @@ Director General.
 
 **How many applications have been made in the Adare-Rathkeale Municipal Area**
 
-**for Croí Cónaithe grant funding from the 1st** **of January 2024 to the 31st** **of**
+**for Croí Cónaithe grant funding from the 1****st** **of January 2024 to the 31****st** **of**
 
 **December 2024.**
 

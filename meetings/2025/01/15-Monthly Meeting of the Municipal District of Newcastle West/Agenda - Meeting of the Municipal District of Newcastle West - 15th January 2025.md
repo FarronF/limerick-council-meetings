@@ -39,7 +39,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held in Aras
 
-William Smith OBrien, Newcastle West, Co. Limerick on **Wednesday, 15th** **January, 2025, at 10.00**
+William Smith OBrien, Newcastle West, Co. Limerick on **Wednesday, 15****th** **January, 2025, at 10.00**
 
 **a.m.** The business to be transacted is set out on the appended Agenda.
 
@@ -55,7 +55,7 @@ Administrator.
 
 **Minutes**
 
-**(a)** To adopt Minutes of Meeting of the Municipal District of Newcastle West held on **6th**
+**(a)** To adopt Minutes of Meeting of the Municipal District of Newcastle West held on **6****th**
 
 December, 2024.
 

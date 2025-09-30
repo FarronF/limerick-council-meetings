@@ -9,7 +9,7 @@
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic Policy
 
-Committee was held on the **13th** **March 2025** in the Council Chamber, Dooradoyle and via MS
+Committee was held on the **13****th** **March 2025** in the Council Chamber, Dooradoyle and via MS
 
 Teams. 
 
@@ -87,7 +87,7 @@ Director of Housing to the SPC as well as wishing Ms. Caroline Curley best wishe
 
 retirement. He then welcomed all new and current members to the March SPC meeting.
 
-**Item 1: Confirm minutes from meeting held on30th May 2024**
+**Item 1: Confirm minutes from meeting held on****30th May 2024**
 ---
 **Proposed:** Cllr. Adam Teskey
 
@@ -511,7 +511,7 @@ to legal due diligence.
 
 Mr. Kidney in reply to query regarding Adare – that they are currently gathering tender documents.
 
-**April SPC meeting date Thursday, 24th** **April 2025**
+**April SPC meeting date Thursday, 24****th** **April 2025**
 
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting and
 

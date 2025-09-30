@@ -5,7 +5,7 @@
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
 
-**MONDAY, 16TH** **DECEMBER, 2024 at 9.45 A.M.**
+**MONDAY, 16****TH** **DECEMBER, 2024 at 9.45 A.M.**
 
 **PRESENT IN THE CHAIR:** Councillor K. O’Hanlon, Cathaoirleach
 
@@ -45,7 +45,7 @@ Sheehan on his election to Dáil Éireann. Members also paid tribute to the cand
 
 unsuccessful in the Election and commended them for running.
 
-**1.Adoption of Minutes**
+**1.****Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
@@ -83,7 +83,7 @@ The Cathaoirleach stated that a number of Questions and Notices of Motion on the
 
 operational issues, and these should be dealt with at the monthly Local Electoral Area Briefings.
 
-**2.Declaration of Interest**
+**2.****Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
@@ -93,7 +93,7 @@ any declaration of interest in any item due for discussion at the Meeting. No su
 
 declared.
 
-**3.Disposal of Land**
+**3.****Disposal of Land**
 
 Circulated, Report of the Senior Staff Officer, Housing Support Services dated 12th November 2024,
 
@@ -105,7 +105,7 @@ Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-**4.Update on the Limerick City Transport Plan**
+**4.****Update on the Limerick City Transport Plan**
 
 The Senior Engineer, Travel and Transport Strategy gave an update to Members on the Limerick City
 
@@ -177,7 +177,7 @@ It was agreed to include the City Transport Plan as an item on the agenda for th
 
 Area Briefings to allow for more discussion per Area.
 
-**5.Housing Directorate**
+**5.****Housing Directorate**
 
 **(a) Part 8 Procedure – Six No. Housing Units at Mulcair Drive, Rivers, Annacotty, Co. Limerick**
 
@@ -261,7 +261,7 @@ in favour of the Part 8 Procedure – Six No. Housing Units at 52 New Road, Thom
 
 to proceed.
 
-**6.Planning, Environment and Place-Making Directorate**
+**6.****Planning, Environment and Place-Making Directorate**
 
 **(a) Taking in Charge of Estates - Declaration of Roads to be Public Roads**
 
@@ -319,7 +319,7 @@ have done with the proposed design and highlighted how it will significantly rev
 
 **QUESTIONS**
 
-**7.Question submitted by Councillor M. Donoghue**
+**7.****Question submitted by Councillor M. Donoghue**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what plans are in place to***
 
@@ -333,7 +333,7 @@ sought from their consultants after which Regeneration will review refurbishment
 
 re-development options for their operations.
 
-**8.Question submitted by Councillor E. Secas**
+**8.****Question submitted by Councillor E. Secas**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on site***
 
@@ -363,7 +363,7 @@ we are engaging with the property owners in order to obtain necessary permission
 
 out physical assessments of same.
 
-**9.Question submitted by Councillor J. Pond**
+**9.****Question submitted by Councillor J. Pond**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick that following on from***
 
@@ -387,7 +387,7 @@ consideration. This application is currently under review by the Garda Commissio
 
 team. We anticipate receiving the outcome of the application within the next few weeks.
 
-**10.Question submitted by Councillor C. Slattery**
+**10.****Question submitted by Councillor C. Slattery**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can Limerick Council advise***
 
@@ -435,7 +435,7 @@ tenders and the available budget, Limerick City and County Council proceeded wit
 
 3 i.e. 120kg per bin.
 
-**11.Question submitted by Councillor S. Hickey-O’Mara**
+**11.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick if road calming measures***
 
@@ -449,7 +449,7 @@ Woodbine Avenue, Caherdavin Heights with Limerick City and County Council Travel
 
 Transport Operations & Maintenance as part of NTA allocation for 2025.
 
-**12.Question submitted by Councillor S. Hickey-O’Mara**
+**12.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick if the Council has plans to***
 
@@ -469,7 +469,7 @@ Caragh Drive and Sheelin Road, Caherdavin may be considered if deemed a priority
 
 other footpaths in need of refurbishment throughout the Metropolitan North area.
 
-**13.Question submitted by Councillor E. O’Donovan**
+**13.****Question submitted by Councillor E. O’Donovan**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the***
 
@@ -533,7 +533,7 @@ Citizens Information or other charities supported by Council funds for sources o
 
 **NOTICES OF MOTION**
 
-**14.Notice of Motion submitted by Councillor S. Kiely**
+**14.****Notice of Motion submitted by Councillor S. Kiely**
 ---
 8
 
@@ -559,11 +559,11 @@ assessed for appropriateness. Funding will be required to support the installati
 
 approved illumination scheme.
 
-**15.Notice of Motion submitted by Councillor J. Pond**
+**15.****Notice of Motion submitted by Councillor J. Pond**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick, that Limerick City and***
 
-***County Council would write to An Garda Siochana to ask that every effort is made to**ensure that***
+***County Council would write to An Garda Siochana to ask that every effort is made to******ensure that***
 
 ***Chestnut Close in Elm Park and indeed all estates in the area are free from illegally parked***
 
@@ -579,7 +579,7 @@ Members welcomed the Motion and agreed that immediate action is required to rect
 
 the residents living in these areas.
 
-**16.Notice of Motion submitted by Councillor D. McSweeney**
+**16.****Notice of Motion submitted by Councillor D. McSweeney**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that in light of the***
 
@@ -625,7 +625,7 @@ circulated to all Members and a Briefing would be organised for the Members of t
 
 District.
 
-**17.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**17.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council installs***
 
@@ -671,7 +671,7 @@ Henry Street was removed due to the volume of domestic waste left around the bin
 
 review the area again and re-instate the bin if required.
 
-**18.Notice of Motion submitted by Councillor E. O’Donovan**
+**18.****Notice of Motion submitted by Councillor E. O’Donovan**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Planning***
 
@@ -705,7 +705,7 @@ variety of complex cases. It would not be possible to acknowledge, investigate a
 
 to complaints within a 14 day period.
 
-**19.Correspondence**
+**19.****Correspondence**
 
 Correspondence was noted and taken as read.
 

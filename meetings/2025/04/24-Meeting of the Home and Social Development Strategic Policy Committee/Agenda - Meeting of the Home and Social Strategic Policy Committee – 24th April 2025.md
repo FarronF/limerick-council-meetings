@@ -31,9 +31,9 @@ Committee will be held in the Council Chamber, Dooradoyle and online on MS Teams
 
 6. **Notice of Motion submitted by the Municipal District of Adare-Rathkeale** **-**
 
-**Councillors K. Sheahan** **(Proposer},** **B. Collins,** **S. Keary,** **E. O'Brien,** **J.**
+**Councillors K. Sheahan** **(****Pro****p****oser****},** **B. Collins****,** **S. Kea****ry,** **E. O'Brien****,** **J.**
 
-**O'Donoghue,** **A. Teskey**
+**O'Dono****g****hue****,** **A. Teske****y**
 
 *We will move at the next Meeting if a recipient of carers allowance is living with elderly parents who*
 

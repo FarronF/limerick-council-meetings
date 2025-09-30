@@ -5,7 +5,7 @@
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
 
-**MONDAY, 19TH** **MAY, 2025 at 9.45 A.M.**
+**MONDAY, 19****TH** **MAY, 2025 at 9.45 A.M.**
 
 **PRESENT IN THE CHAIR:** Councillor K. O’Hanlon
 
@@ -69,7 +69,7 @@ They emphasised the importance of ensuring accurate information about an event i
 
 the future, to avoid confusion and disappointment.
 
-**1.Adoption of Minutes**
+**1.****Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
@@ -85,7 +85,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-**2.Declaration of Interest**
+**2.****Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
@@ -95,7 +95,7 @@ any declaration of interest in any item due for discussion at the Meeting. No su
 
 declared.
 
-**3.Community Initiative Scheme 2025 - General Municipal Allocation (GMA)**
+**3.****Community Initiative Scheme 2025 - General Municipal Allocation (GMA)**
 
 Circulated, Report of the Director of Service dated 12th May, 2025, setting out the proposals for the
 
@@ -731,7 +731,7 @@ Twilight Thursday
 
 **QUESTIONS**
 
-**4.Question submitted by Councillor U. Gavan**
+**4.****Question submitted by Councillor U. Gavan**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, Limerick has the second-***
 
@@ -769,7 +769,7 @@ The Member Quarterly Management Claims Trend Report for Quarter 4 2024 was circu
 
 part of the reply.
 
-**5.Question submitted by Councillor E. Secas**
+**5.****Question submitted by Councillor E. Secas**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick if the Council has actually***
 
@@ -791,7 +791,7 @@ resources have been provided to the Parks department, the project is now being p
 
 inhouse; the €20,000 funding is still available for the Castleconnell project.
 
-**6.Question submitted by Councillor E. Secas**
+**6.****Question submitted by Councillor E. Secas**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick if the Council has yet***
 
@@ -821,7 +821,7 @@ expected to commence in June/July of this year. The lead in time for the deliver
 
 Columbarian walls is not known at this present moment in time.
 
-**7.Question submitted by Councillor E. O’Donovan**
+**7.****Question submitted by Councillor E. O’Donovan**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick how many applicants are***
 
@@ -855,7 +855,7 @@ Over 15 years
 
 61
 
-**8.Question submitted by Councillor E. O’Donovan**
+**8.****Question submitted by Councillor E. O’Donovan**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick if this Council has applied***
 
@@ -871,7 +871,7 @@ frequency of route, nearest existing shelter, proximity to populous feeders (Sch
 
 hospital, urban Centers etc.
 
-**9.Question submitted by Councillor E. O’Donovan**
+**9.****Question submitted by Councillor E. O’Donovan**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for the number of applicants***
 
@@ -893,7 +893,7 @@ public/community buildings. One of the three successful projects was located in 
 
 Metropolitan area.
 
-**10.Question submitted by Councillor C. Slattery**
+**10.****Question submitted by Councillor C. Slattery**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can the Council advise in a***
 
@@ -901,7 +901,7 @@ Metropolitan area.
 
 ***is it to seize the dogs and place them in a safe environment. Can the Council also advise when***
 
-***the animal is seized who pays for the animals**care and where is the animal placed.***
+***the animal is seized who pays for the animals******care and where is the animal placed.***
 
 **REPLY**: Under the Animal Health and Welfare Act, 2013, the Department of Agriculture, Food and
 
@@ -921,7 +921,7 @@ seized animal as part of legal proceedings following a seizure.
 
 The Council do not seize animals under the Animal Health and Welfare Act.
 
-**11.Question submitted by Councillor J. Pond**
+**11.****Question submitted by Councillor J. Pond**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the Bike***
 
@@ -943,9 +943,9 @@ geographical operating area for the TFI Bike Share scheme. We do not currently h
 
 timeline for the roll out of the expanded scheme.
 
-**12.Question submitted by Councillor C. Slattery**
+**12.****Question submitted by Councillor C. Slattery**
 
-***I will ask a**t the next meeting of the Metropolitan District of Limerick what*** ***the Director of***
+***I will ask a******t the next meeting of the Metropolitan District of Limerick what*** ***the Director of***
 
 ***Housing’s plans are to curtail the completely disproportionate purchasing of new build houses in***
 
@@ -999,7 +999,7 @@ committed to monitoring and managing tenure mix to support a balanced and inclus
 
 housing market.
 
-**13.Question submitted by Councillor S. Hickey-O’Mara**
+**13.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick how many fines for dog***
 
@@ -1043,7 +1043,7 @@ person at the time of the offense. Where member of the public reports an instanc
 
 must be willing to give evidence in court, however many are reluctant to do so.
 
-**14.Question submitted by Councillor S. Hickey-O’Mara**
+**14.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
 
@@ -1063,7 +1063,7 @@ the Section 38 process in Q3 of 2025, with construction also anticipated in Q3 o
 
 subject to NTA approval.
 
-**15.Question submitted by Councillor M. Donoghue**
+**15.****Question submitted by Councillor M. Donoghue**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what steps are typically***
 
@@ -1093,7 +1093,7 @@ occupation as a principal private residence or to make it available to the priva
 
 market.
 
-**16.Question submitted by Councillor M. Donoghue**
+**16.****Question submitted by Councillor M. Donoghue**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what the number of units***
 
@@ -1176,7 +1176,7 @@ The Council remains committed to monitoring and managing tenure mix to support a
 
 inclusive housing market in the city, with the support of Elected Members.
 
-**17.Question submitted by Councillor S. Kiely**
+**17.****Question submitted by Councillor S. Kiely**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
 
@@ -1196,13 +1196,13 @@ It is anticipated that a Part 8 will be lodged by October of this year.
 
 **NOTICES OF MOTION**
 
-**18.Notice of Motion submitted by Councillor P. Doyle (to be referred to the Economic**
+**18.****Notice of Motion submitted by Councillor P. Doyle (to be referred to the Economic**
 
 **Development, Enterprise, Tourism and Planning Strategic Policy Committee)**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that Limerick City and***
 
-***County Council**would introduce measures to incentivise the use of vacant city centre retail***
+***County Council******would introduce measures to incentivise the use of vacant city centre retail***
 
 ***units*** ***like one year’s rates exempt for new retail premises and penalties for owners of vacant***
 
@@ -1214,7 +1214,7 @@ It was agreed to refer this Notice of Motion to the Economic Development, Enterp
 
 Planning Strategic Policy Committee.
 
-**19.Notice of Motion submitted by Councillor U. Gavan**
+**19.****Notice of Motion submitted by Councillor U. Gavan**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that Limerick City and***
 
@@ -1230,7 +1230,7 @@ In proposing the Motion, Councillor Gavan highlighted the long waiting times for
 
 emphasised the urgent need to introduce measures to reduce them.
 
-**20.Notice of Motion submitted by Councillor U. Gavan**
+**20.****Notice of Motion submitted by Councillor U. Gavan**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that Limerick City and***
 
@@ -1250,7 +1250,7 @@ housing, in particular with the reduction in funding for the tenant in situ sche
 
 successful initiative, and with the ongoing housing crisis.
 
-**21.Notice of Motion submitted by Councillor C. Slattery**
+**21.****Notice of Motion submitted by Councillor C. Slattery**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that this Council give***
 
@@ -1284,7 +1284,7 @@ closer to these communities in Singland/Bloodmill.
 ---
 14
 
-**22.Notice of Motion submitted by Councillor C. Slattery (to be referred to the Travel and**
+**22.****Notice of Motion submitted by Councillor C. Slattery (to be referred to the Travel and**
 
 **Transportation Strategic Policy Committee)**
 
@@ -1298,7 +1298,7 @@ It was agreed to refer this Notice of Motion to the Travel and Transportation St
 
 Committee.
 
-**23.Notice of Motion submitted by Councillor J. Pond**
+**23.****Notice of Motion submitted by Councillor J. Pond**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that Limerick City and***
 
@@ -1362,7 +1362,7 @@ Members supported the Motion and highlighted the need for increased Garda resour
 
 area and the provision of CCTV on the Greenway.
 
-**24.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**24.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that this Council engage***
 
@@ -1390,7 +1390,7 @@ Centre Tidy Towns group, could begin mapping areas where drug litter is frequent
 
 identify where additional bins are needed.
 
-**25.Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Home and**
+**25.****Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Home and**
 
 **Social Development Strategic Policy Committee)**
 
@@ -1404,7 +1404,7 @@ It was agreed to refer this Notice of Motion to the Home and Social Development 
 
 Committee.
 
-**26.Notice of Motion submitted by Councillor M. Donoghue**
+**26.****Notice of Motion submitted by Councillor M. Donoghue**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council write to***
 
@@ -1424,7 +1424,7 @@ Metropolitan area and the challenges this causes for businesses and communities.
 
 the importance of a multi-agency approach in addressing these issues.
 
-**27.Notice of Motion submitted by Councillor S. Kiely**
+**27.****Notice of Motion submitted by Councillor S. Kiely**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that we write to the Port***
 ---
@@ -1442,7 +1442,7 @@ was a working dock. She highlighted that the canons should be placed in a more p
 
 to serve as a tourist attraction.
 
-**28.Notice of Motion submitted by Councillor S. Kiely**
+**28.****Notice of Motion submitted by Councillor S. Kiely**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that a funding source be***
 
@@ -1460,7 +1460,7 @@ Members requested that a report on the cost to renovate the chapel would be prep
 
 was agreed.
 
-**29.Correspondence**
+**29.****Correspondence**
 
 Correspondence was noted and taken as read.
 

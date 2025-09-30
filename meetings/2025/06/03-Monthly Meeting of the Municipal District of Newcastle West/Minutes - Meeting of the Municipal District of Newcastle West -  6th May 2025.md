@@ -565,7 +565,7 @@ NOTICES OF MOTION
 
 ***site in Newcastle West town that they could purchase and source funding to construct a***
 
-***multi**-**purpose facility to accommodate (a) Men's shed (b) Snooker club (c) Theatre and***
+***multi******-******purpose facility to accommodate (a) Men's shed (b) Snooker club (c) Theatre and***
 
 ***Arts centre (d) Band practice facility.***
 
@@ -673,7 +673,7 @@ promote Ballinruane Wood, Kilmeedy.
 
 16. Notice of Motion submitted by Councillor J. Sheahan
 
-***I move at the next Meeting that Limerick City and County Council commence Section 38**of***
+***I move at the next Meeting that Limerick City and County Council commence Section 38******of***
 
 ***the Road Traffic Act, 1994, to increase public car parking facilities in the following two***
 

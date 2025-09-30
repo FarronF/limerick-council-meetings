@@ -5,7 +5,7 @@
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
 
-**TUESDAY, 22ND** **APRIL, 2025 at 9.45 A.M.**
+**TUESDAY, 22****ND** **APRIL, 2025 at 9.45 A.M.**
 
 **PRESENT IN THE CHAIR:** Councillor J. Pond
 
@@ -49,7 +49,7 @@ Members extended their congratulations to Ellen Goggin from Crescent College Com
 
 and the Ireland U15 Girls Team on recently winning the Bob Docherty Cup.
 
-**1.Adoption of Minutes**
+**1.****Adoption of Minutes**
 
 Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
@@ -63,7 +63,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-**2.Declaration of Interest**
+**2.****Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
@@ -75,7 +75,7 @@ any declaration of interest in any item due for discussion at the Meeting. No su
 
 declared.
 
-**3.Disposal of Land**
+**3.****Disposal of Land**
 
 (a)
 
@@ -99,7 +99,7 @@ regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-**4.Community Initiative Scheme 2024 - General Municipal Allocation (GMA)**
+**4.****Community Initiative Scheme 2024 - General Municipal Allocation (GMA)**
 
 Circulated, Report of the Administrative Officer, Corporate Services, Governance and Customer
 
@@ -159,13 +159,13 @@ Ann Blake (Artist)
 
 500
 
-**5.Annual Meeting**
+**5.****Annual Meeting**
 
 It was proposed by Councillor Doyle, seconded by Councillor Gavan, and agreed to hold the Annual
 
 Meeting of the Metropolitan District of Limerick at 9.45am on Monday, 23rd June, 2025.
 
-**6.Planning and Place-Making Directorate**
+**6.****Planning and Place-Making Directorate**
 
 **Taking in Charge of Estates - Declaration of Roads to be Public Roads**
 ---
@@ -191,7 +191,7 @@ and Section 11 of the Roads Act, 1993”.
 
 **QUESTIONS**
 
-**7.Question submitted by Councillor S. Kiely**
+**7.****Question submitted by Councillor S. Kiely**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick have Irish Rail paid the***
 
@@ -219,7 +219,7 @@ charged Simple interest on the outstanding Levy at a rate of 1.25% per month/par
 
 month.
 
-**8.Question submitted by Councillor M. Donoghue**
+**8.****Question submitted by Councillor M. Donoghue**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what engagement has taken***
 
@@ -231,7 +231,7 @@ month.
 
 building to progress the development of the site.
 
-**9.Question submitted by Councillor S. Beasley**
+**9.****Question submitted by Councillor S. Beasley**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what plans are in place to***
 
@@ -247,7 +247,7 @@ intersects or runs adjacent to public roads, subject to a suitable location bein
 
 and subject to available resources.
 
-**10.Question submitted by Councillor C. Slattery**
+**10.****Question submitted by Councillor C. Slattery**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can bins be put in place***
 
@@ -267,7 +267,7 @@ to the Kilmallock Roundabout. The Cleansing Supervisor will monitor the route to
 
 if any additional litter bins are required.
 
-**11.Question submitted by Councillor C. Slattery**
+**11.****Question submitted by Councillor C. Slattery**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick can the Council advise if an***
 
@@ -283,7 +283,7 @@ accordance with the statutory requirements.  Irish Rail will also be consulted t
 
 if any further bridge detection signage or measures should be considered.
 
-**12.Question submitted by Councillor S. Beasley**
+**12.****Question submitted by Councillor S. Beasley**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for the numbers of children***
 
@@ -309,7 +309,7 @@ disability then the team will endeavour to provide any necessary available suppo
 
 explore suitable homeless accommodation options.
 
-**13.Question submitted by Councillor E. Secas**
+**13.****Question submitted by Councillor E. Secas**
 ---
 5
 
@@ -329,7 +329,7 @@ The project was funded by €100,000 General Municipal Allocation and the remain
 
 funded from development contributions.
 
-**14.Question submitted by Councillor E. O’Donovan**
+**14.****Question submitted by Councillor E. O’Donovan**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick how many people have***
 
@@ -357,7 +357,7 @@ property’s eligibility or not.
 
 Enquiries for the past 5 years are as follows:
 
-**YEARENQUIRIES**
+**YEAR****ENQUIRIES**
 
 **NO. OF SUCCESSFUL APPLICANTS**
 
@@ -381,7 +381,7 @@ Enquiries for the past 5 years are as follows:
 
 9 no. successful
 
-**15.Question submitted by Councillor U. Gavan**
+**15.****Question submitted by Councillor U. Gavan**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
 
@@ -471,7 +471,7 @@ Council would be precluded from releasing any such personal data relating to spe
 
 landlords.
 
-**16.Question submitted by Councillor M. Donoghue**
+**16.****Question submitted by Councillor M. Donoghue**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick that the Festival & Events***
 
@@ -625,7 +625,7 @@ friendly event. €1,000.00.
 
 **€514,856.15**
 
-**17.Question submitted by Councillor S. Hickey-O’Mara**
+**17.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the setting***
 
@@ -645,7 +645,7 @@ In the interim the Arts Office continues to investigate alternative mechanisms f
 
 creation of such a directory.
 
-**18.Question submitted by Councillor S. Hickey-O’Mara**
+**18.****Question submitted by Councillor S. Hickey-****O’Mara**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for the full criteria for the***
 
@@ -671,7 +671,7 @@ ESB’s generating station at Ardnacrusha and the discharge at Parteen Weir are 
 
 account.
 
-**19.Question submitted by Councillor D. McSweeney**
+**19.****Question submitted by Councillor D. McSweeney**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick, following the funding***
 
@@ -687,7 +687,7 @@ preparation of the tender documents with a view of tendering this scheme in Q2/Q
 
 2025, subject to above.
 
-**20.Question submitted by Councillor D. McSweeney**
+**20.****Question submitted by Councillor D. McSweeney**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
 
@@ -719,7 +719,7 @@ to deliver requirements for a Part 8 application.
 
 **NOTICES OF MOTION**
 
-**21.Notice of Motion submitted by Councillor M. Donoghue**
+**21.****Notice of Motion submitted by Councillor M. Donoghue**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council call on***
 
@@ -741,7 +741,7 @@ Limerick on their future plans for Limerick City.
 ---
 10
 
-**22.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
+**22.****Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
 
 **Development Strategic Policy Committee)**
 
@@ -757,7 +757,7 @@ It was agreed to refer this Notice of Motion to the Home and Social Development 
 
 Committee.
 
-**23.Notice of Motion submitted by Councillor E. O’Donovan**
+**23.****Notice of Motion submitted by Councillor E. O’Donovan**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that this Council writes to***
 
@@ -777,7 +777,7 @@ individuals with adapted vehicles at the Limerick toll and emphasised the need t
 
 technology so that automatic number plate recognition would be in place.
 
-**24.Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Economic**
+**24.****Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Economic**
 
 **Development, Enterprise, Tourism and Planning Strategic Policy Committee)**
 
@@ -795,7 +795,7 @@ It was agreed to refer this Notice of Motion to the Economic Development, Enterp
 
 Planning Strategic Policy Committee.
 
-**25.Notice of Motion submitted by Councillor U. Gavan**
+**25.****Notice of Motion submitted by Councillor U. Gavan**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
 
@@ -817,7 +817,7 @@ public transport. She referred to transport systems across the UK and Europe whe
 
 payment was already in place and highlighted the efficiencies this offered.
 
-**26.Notice of Motion submitted by Councillor M. Donoghue (to be referred to the Travel and**
+**26.****Notice of Motion submitted by Councillor M. Donoghue (to be referred to the Travel and**
 
 **Transportation Strategic Policy Committee)**
 
@@ -831,7 +831,7 @@ It was agreed to refer this Notice of Motion to the Travel and Transportation St
 
 Committee.
 
-**27.Notice of Motion submitted by Councillor S. Benson (to be referred to the Travel and**
+**27.****Notice of Motion submitted by Councillor S. Benson (to be referred to the Travel and**
 
 **Transportation Strategic Policy Committee)**
 
@@ -845,7 +845,7 @@ It was agreed to refer this Notice of Motion to the Travel and Transportation St
 
 Committee.
 
-**28.Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Travel and**
+**28.****Notice of Motion submitted by Councillor S. Hickey-O’Mara (to be referred to the Travel and**
 
 **Transportation Strategic Policy Committee)**
 
@@ -859,7 +859,7 @@ It was agreed to refer this Notice of Motion to the Travel and Transportation St
 
 Committee.
 
-**29.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
+**29.****Notice of Motion submitted by Councillor S. Hickey-O’Mara**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council:***
 
@@ -925,7 +925,7 @@ Following discussions, it was agreed to hold a Workshop for the Members in relat
 
 provision of public bins in Limerick City.
 
-**30.Correspondence**
+**30.****Correspondence**
 
 Members expressed disappointment with the correspondence received from the National
 
