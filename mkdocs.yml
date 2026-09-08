@@ -3,9 +3,9 @@ docs_dir: docs
 
 theme:
   name: mkdocs
-  custom_dir: overrides # Enables custom HTML template overrides
-  font: false
-  features:
-    - navigation.prune
-    - search.suggest
-    - search.highlight
+  custom_dir: overrides
+
+nav:
+  - Home: index.md
+  - Browse Archive: meetings/index.md
+  - Search Portal: search.md
