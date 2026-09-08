@@ -9,3 +9,6 @@ theme:
     - navigation.prune
     - search.suggest
     - search.highlight
+
+hooks:
+  - hooks.py
