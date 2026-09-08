@@ -1,12 +1,6 @@
 site_name: Meeting Minutes & Agendas
 docs_dir: meetings
 
-nav:
-  - Home: index.md
-
-validation:
-  unlisted_pages: ignore
-
 theme:
   name: material
   font: false # Prevents embedding external font styles
