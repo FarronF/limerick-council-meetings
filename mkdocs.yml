@@ -1,5 +1,5 @@
 site_name: Meeting Minutes & Agendas
-docs_dir: meetings
+docs_dir: docs
 
 theme:
   name: mkdocs
