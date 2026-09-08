@@ -6,10 +6,10 @@
   let currentAbortController = null;
 
   const FILTER_CONFIG = [
-    { key: "Year-Month", title: "Year & Month" },
     { key: "Category", title: "Category" },
     { key: "Council Body", title: "Council Body" },
     { key: "Meeting Type", title: "Meeting Type" }
+    { key: "Year-Month", title: "Year & Month" },
   ];
 
   async function init() {
