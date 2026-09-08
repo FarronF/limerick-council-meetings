@@ -1,5 +1,13 @@
 site_name: Meeting Minutes & Agendas
 docs_dir: meetings
 
+# Uses the lightweight built-in theme
 theme:
-  name: material
+  name: mkdocs
+  highlightjs: true
+
+nav:
+  - Home: index.md
+
+validation:
+  unlisted_pages: ignore
