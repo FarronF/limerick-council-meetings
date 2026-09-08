@@ -1,0 +1,5 @@
+site_name: Meeting Minutes & Agendas
+docs_dir: meetings
+
+theme:
+  name: material
