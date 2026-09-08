@@ -15,7 +15,7 @@ hide:
     new PagefindUI({
       element: "#search",
       showSubResults: true,
-      filterOrder: ["Category", "Body", "Meeting Type"],
+      filterOrder: ["Category", "Body", "Meeting Type", "Date"],
       showImages: false
     });
   });
