@@ -1,0 +1,78 @@
+---
+date: 2021-05-24
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-05 (May)</span>
+
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-special-meeting-24.05.2021.pdf)
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+a Comal Cattrach sonata conn at pn
+& Contae Luimnigh . “es :
+
+An Kf ™
+
+Ceanncheathra Chorpardideach,
+Cé na gCeannaithe,
+
+— Limerick City Luimneach
+& County Council
+
+Corporate Services,
+
+Limerick City and County Council,
+Corporate Headquarters,
+Merchants Quay,
+
+Limerick
+
+EIRCODE V94 ENH90
+
+t: +353 (0) 61 557150
+
+f: +353 (0) 61 415 266
+20°" May, 2021.
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+AChomhairleoir, a chara,
+
+The Mayor, Councillor Michael Collins, has called an Online Special Meeting of Limerick City
+and County Council to be held on Monday, 24™ May, 2021, at Spm.
+
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+J
+
+ZO ———— »)
+=e
+
+Laura Flannery, a
+
+Meetings Administrator.
+
+AGENDA
+
+i. Closure of Aer Lingus Cabin Crew Base at Shannon Airport
+
+To discuss the decision of Aer Lingus in relation to the closure of its cabin crew base
+
+in Shannon Airport.
+m customerservices@limerick.le
+@ werwilimerick.ie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+
+Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
+
+
+---

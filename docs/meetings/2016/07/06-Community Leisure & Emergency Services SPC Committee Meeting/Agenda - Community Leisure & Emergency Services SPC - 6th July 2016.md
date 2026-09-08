@@ -1,0 +1,71 @@
+---
+date: 2016-07-06
+council_body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Community, Leisure & Emergency Services SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-07 (July)</span>
+
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20-%206th%20July%202016.pdf)
+
+---
+**LIMERICK CITY & COUNTY COUNCIL**
+
+**Community Leisure & Emergency Services**
+
+**Corporate Headquarters,**
+
+**Merchant’s Quay,**
+
+**Limerick**
+
+**28th** **June, 2016**
+
+**TO: THE CHAIR AND EACH MEMBER OF THE COMMUNITY**
+
+**LEISURE & EMERGENCY SERVICES STRATEGIC POLICY COMMITTEE**
+
+**The next meeting of Limerick City & County Council, Community Leisure &**
+
+**Emergency Services Strategic Policy Committee will be held on Wednesday, 6th** **July,**
+
+**2016 at 2.30pm in the Council Chamber, Dooradoyle Offices, Limerick.**
+
+**AGENDA**
+
+**Item 1**:
+
+Adoption of Minutes of Community, Leisure & Emergency Services Strategic
+
+Policy Committee held on 11th May, 2016 (copy attached).
+
+**Item 2:**
+
+Matters Arising
+
+**Item 3:**
+
+Consideration of Draft Fire and Emergency Operations Plan under Section 26,
+
+Fire Services Act, 1981 & 2003 (copy attached).
+
+**Item 4:**
+
+Presentation and update on Limerick City & County PPN.
+
+**Item 5:**
+
+Any Other Business.
+
+**Signed: F. Foley**
+
+**Chairperson,**
+
+**Community, Leisure & Emergency Services SPC**
+
+**Limerick City & County Council**
+---

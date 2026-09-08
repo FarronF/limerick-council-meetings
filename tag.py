@@ -1,7 +1,9 @@
 import os
 import re
+import datetime
 
-MEETINGS_DIR = "meetings"  # Change if your root directory differs
+# Update to "meetings" if your folder isn't inside docs/
+MEETINGS_DIR = "docs/meetings" if os.path.exists("docs/meetings") else "meetings"
 
 MEETING_BODIES = [
     # --- Municipal Districts ---
@@ -75,7 +77,6 @@ MEETING_BODIES = [
 unmatched_meetings = []
 fallback_days = []
 invalid_paths = []
-already_tagged = []
 io_errors = []
 
 for root, dirs, files in os.walk(MEETINGS_DIR):
@@ -107,6 +108,12 @@ for root, dirs, files in os.walk(MEETINGS_DIR):
 
                 formatted_date = f"{year}-{month}-{day}"
 
+                try:
+                    dt = datetime.datetime.strptime(formatted_date, "%Y-%m-%d")
+                    date_filter_val = dt.strftime("%Y-%m (%B)")
+                except ValueError:
+                    date_filter_val = formatted_date
+
                 # Sanitize folder name for hidden spaces/dashes
                 folder_clean = re.sub(r"[\u200b\u2013\u2014]", "-", day_folder.lower())
 
@@ -126,45 +133,52 @@ for root, dirs, files in os.walk(MEETINGS_DIR):
                         break
 
                 if matched_entity:
-                    body_name = matched_entity["name"]
+                    council_body = matched_entity["name"]
                     category = matched_entity["category"]
                 else:
                     unmatched_meetings.append((filepath, day_folder))
-                    
-                    # Clean generic fallbacks instead of raw folder strings
                     if "district" in folder_clean:
                         category = "Municipal District"
-                        body_name = "Municipal District"
+                        council_body = "Municipal District"
                     elif any(kw in folder_clean for kw in ["spc", "committee", "jpc", "policing"]):
                         category = "Committee"
-                        body_name = "Council Committee"
+                        council_body = "Council Committee"
                     else:
                         category = "Full Council"
-                        body_name = "Limerick City and County Council"
+                        council_body = "Limerick City and County Council"
 
                 # Read content
                 with open(filepath, "r", encoding="utf-8") as f:
                     content = f.read()
 
-                if content.startswith("---"):
-                    already_tagged.append(filepath)
-                    continue
+                # 1. Strip existing YAML frontmatter if present
+                clean_content = re.sub(r"^---\n.*?\n---\n+", "", content, flags=re.DOTALL)
 
-                # Construct YAML frontmatter
-                frontmatter = f"""---
+                # 2. Strip existing Pagefind HTML filter spans if present
+                clean_content = re.sub(
+                    r'<span data-pagefind-filter="[^"]*" style="display:none;">.*?</span>\n?',
+                    "",
+                    clean_content,
+                )
+
+                clean_content = clean_content.lstrip()
+
+                # Construct new Frontmatter + Pagefind HTML Spans
+                file_header = f"""---
 date: {formatted_date}
-body: "{body_name}"
+council_body: "{council_body}"
 category: "{category}"
 meeting_type: "{meeting_type}"
-tags:
-  - "{body_name}"
-  - "{category}"
-  - "{meeting_type}"
 ---
+
+<span data-pagefind-filter="Category" style="display:none;">{category}</span>
+<span data-pagefind-filter="Council Body" style="display:none;">{council_body}</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">{meeting_type}</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">{date_filter_val}</span>
 
 """
                 with open(filepath, "w", encoding="utf-8") as f:
-                    f.write(frontmatter + content)
+                    f.write(file_header + clean_content)
                 print(f"Updated: {filepath}")
 
             except IndexError:
@@ -176,9 +190,8 @@ tags:
 print("\n" + "="*60)
 print("TAGGING PROCESS COMPLETE")
 print("="*60)
-print(f"✅ Already tagged (Skipped): {len(already_tagged)}")
-print(f"⚠️  Unmatched names (Clean Fallback Applied): {len(unmatched_meetings)}")
-print(f"⚠️  Missing day digits (Defaulted to 01): {len(fallback_days)}")
+print(f"⚠️ Unmatched names (Clean Fallback Applied): {len(unmatched_meetings)}")
+print(f"⚠️ Missing day digits (Defaulted to 01): {len(fallback_days)}")
 print(f"❌ Invalid paths: {len(invalid_paths)}")
 print(f"❌ IO Errors: {len(io_errors)}")
 

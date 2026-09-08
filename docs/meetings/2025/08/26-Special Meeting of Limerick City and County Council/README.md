@@ -1,0 +1,26 @@
+---
+date: 2025-08-26
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-08 (August)</span>
+
+# Meeting Details
+
+**Meeting Name:** Special Meeting of Limerick City and County Council
+
+**Date and Time:** 2025-08-26 15:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-of-limerick-city-and-county-council-23)**
+
+Files: 
+
+Agenda - Special Meeting of Limerick City and County Council - 26th August 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-08/agenda-special-meeting-of-limerick-city-and-county-council-26th-august-2025.pdf) - [Extracted text](./Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2026th%20August%202025.md)
+
+Local Property Tax - Local Adjustment Factor 2026 - Special Meeting of Limerick City and County Council - 26th August 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-08/local-property-tax-local-adjustment-factor-2026-special-meeting-of-limerick-city-and-county-council-26th-august-2025.pdf) - Text not extracted
+

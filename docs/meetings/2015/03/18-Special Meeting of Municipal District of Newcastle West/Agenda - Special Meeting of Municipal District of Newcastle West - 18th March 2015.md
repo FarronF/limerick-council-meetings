@@ -1,0 +1,73 @@
+---
+date: 2015-03-18
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2015-03 (March)</span>
+
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_18th_march_2015.pdf)
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
+Comhairle Cathrach agus Contae Luimnigh
+
+a Cé na gCeannaithe.
+. —-_ Luimneach
+Limerick Corporate Services and Change Management.
+CITY & COUNTY Limerick City and County Council
+COUNCIL a Guay
+
+ime
+
+t: +353 (0) 61 407 100
+
+To: The Cathaoirleach and each Member of the Municipal
+
+District of Newcastle West
+
+A Chomhairleoir, a chara,
+
+The Cathaoirleach, Councillor Jerome Scanlan, has called a Special Meeting of the
+Municipal District of Newcastle West to be held at Aras William Smith OBrien,
+Newcastle West, on Wednesday, 18th March, 2015, at 2.30 p.m. to discuss
+allocation of €50,000, from the General Municipal Allocation Fund, to the Regional
+Athletics Facility at Killeline, Newcastle West as set out in the attached Requisiton.
+
+Meetings Administrator.
+
+@ customerservices@limerick.te
+Ceanncheathri Chorpardéideach, Cé na gCeannaithe, Luimneach ;
+Corporate Headquarters, Merchants Quay, Limerick xg GlinetdiGounal
+
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+fais”
+
+ke Ces Ptbett tof I Buaspl
+ABN Uxglar nth RO :
+his. Rind Npite the wl ot
+Site it ‘inet Te erring
+é Spredd Wuche§ }» we
+lwidhe. €S0 2000 fo KE.
+
+Rpm ARhS eetly af
+j .
+
+Verne = Noweeh le Nes”
+
+fe nko
+
+bi Ay 7
+Cie Fyn
+
+
+---

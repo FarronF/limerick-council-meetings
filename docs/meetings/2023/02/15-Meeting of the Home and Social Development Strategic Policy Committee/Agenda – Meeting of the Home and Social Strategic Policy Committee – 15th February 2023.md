@@ -1,0 +1,65 @@
+---
+date: 2023-02-15
+council_body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-02 (February)</span>
+
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Agenda%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2015th%20February%202023_0.pdf)
+
+---
+**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
+
+**STRATEGIC POLICY COMMITTEE**
+
+A meeting of Limerick City and County Council Home and Social Development Strategic Policy
+
+Committee will be held in the Council Chamber, Dooradoyle and online on MS Teams on 15th
+
+February 2023.
+
+**AGENDA**
+
+1. Confirm Minutes of the most recent meeting held on the 14th December 2022
+
+2. Matters arising from the Minutes
+
+3. CENA – Presentation
+
+4. Report from Working Group on Vacancy
+
+5. Scheme of Priority for Affordable Purchase
+
+6. Notice of Motion submitted by Councillor J. Scanlan
+
+*I will move at the next Meeting that a Working Group, inclusive of concerned*
+
+*Councillors, be appointed to resolve the matter of long term vacant Council - owned*
+
+*properties within County Limerick.*
+
+*7.* Question from PPN Linkage Group
+
+Housing for Migrants
+
+8. Updates:
+
+- For Noting - Report to SPC from Housing Disability Strategic Group
+
+-
+
+Housing One Rep Policy
+
+- Circular 09/2022: Guidance documents for Housing Authorities on recent
+
+changes to the Tenant (Incremental) Purchase Scheme 2016
+
+**AOB**
+
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+---

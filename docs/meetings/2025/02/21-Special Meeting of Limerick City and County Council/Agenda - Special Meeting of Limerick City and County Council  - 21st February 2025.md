@@ -1,0 +1,57 @@
+---
+date: 2025-02-21
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-02 (February)</span>
+
+[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
+
+---
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+: Seirbhis{ Corparaideacha,
+_ ——_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+& Contae Luimnigh Ceanncheathni Chorparaideach.
+
+4 ‘ ————————=== Cé na gCearinaithe,
+
+oe Li ick C
+= — meric ity Luimneach
+& County Council ;
+Corporate Services.
+Limerick City and County Council
+Corporate Headquarters,
+Merchants Quay
+Limerick
+EIRCODE V94 EH90
+t: +353 (0) 61 557350
+f: +353 (0) 61 415 266
+14" February, 2025.
+To: The Mayor, Priomh Chomhairleoir and Each Member of Limerick City and County
+Council
+A Chomhairleoir, a chara,
+The Priomh Chomhairleoir, Councillor Dan McSweeney, has called a Special Meeting of
+Limerick City and County Council to be held in the Council Chamber, Dooradoyle, and Online,
+on ns
+The business to be transacted is set out below.
+Is mise le meas,
+Ciara Farrell,
+Meetings Administrator
+AGENDA
+1. Designated Activity Companies
+To receive a detailed update from Mayor John Moran on the three Designated Activity
+Companies that are wholly-owned subsidiaries of Limerick City and County Council.
+customerservices@limerick.ie
+© veww.limerickie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
+
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
+
+---
