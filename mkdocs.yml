@@ -9,12 +9,8 @@ theme:
   custom_dir: overrides
   features:
     - navigation.path # Enables clickable breadcrumb trails above titles
-    - navigation.prune # Optimizes large nav trees
     - search.suggest
     - search.highlight
-
-plugins:
-  - awesome-pages
 
 nav:
   - Home: index.md
