@@ -5,7 +5,10 @@ theme:
   name: mkdocs
   custom_dir: overrides
 
+plugins:
+  - awesome-pages
+
 nav:
   - Home: index.md
-  - Browse Archive: meetings/index.md
+  - Browse Archive: meetings
   - Search Portal: search.md
