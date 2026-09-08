@@ -2,7 +2,7 @@ site_name: Meeting Minutes & Agendas
 docs_dir: meetings
 
 theme:
-  name: material
+  name: mkdocs
   custom_dir: overrides # Enables custom HTML template overrides
   font: false
   features:
