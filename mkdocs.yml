@@ -1,7 +1,16 @@
 site_name: Meeting Minutes & Agendas
 docs_dir: meetings
 
-# Uses the lightweight built-in theme
+nav:
+  - Home: index.md
+
+validation:
+  unlisted_pages: ignore
+
 theme:
-  name: mkdocs
-  highlightjs: true
+  name: material
+  font: false # Prevents embedding external font styles
+  features:
+    - navigation.prune # CRITICAL: Strips full navigation tree from individual page HTML
+    - search.suggest
+    - search.highlight
