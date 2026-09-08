@@ -2,7 +2,7 @@ name: Deploy Search Site
 
 on:
   push:
-    branches: [test-search-portal]
+    branches: [mkdocs]
 
 permissions:
   contents: read
