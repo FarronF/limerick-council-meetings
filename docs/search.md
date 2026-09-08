@@ -21,25 +21,34 @@ hide:
   .pf-filter-group {
     border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
     border-radius: 6px;
-    padding: 0.85rem;
     margin-bottom: 1rem;
     background: var(--md-default-bg-color, #fff);
+    overflow: hidden;
   }
-  
-  .pf-filter-header {
+
+  .pf-filter-group details {
+    width: 100%;
+  }
+
+  .pf-filter-group summary {
     font-weight: bold;
-    margin-bottom: 0.5rem;
-    padding-bottom: 0.3rem;
+    padding: 0.85rem;
+    cursor: pointer;
+    user-select: none;
+    background: var(--md-default-bg-color, #fff);
+    border-bottom: 1px solid transparent;
+    transition: background 0.2s;
+  }
+
+  .pf-filter-group details[open] summary {
     border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    background: var(--md-code-bg-color, rgba(0,0,0,0.02));
   }
 
   .pf-filter-list {
     max-height: 220px;
     overflow-y: auto;
-    padding-right: 0.3rem;
+    padding: 0.5rem 0.85rem 0.85rem 0.85rem;
   }
 
   .pf-option {
@@ -49,6 +58,7 @@ hide:
     margin: 0.35rem 0;
     cursor: pointer;
     line-height: 1.3;
+    transition: opacity 0.2s;
   }
 
   .pf-option input {
@@ -153,13 +163,14 @@ hide:
 
   const FILTER_CONFIG = [
     { key: "Year-Month", title: "Year & Month" },
+    { key: "Category", title: "Category" },
     { key: "Council Body", title: "Council Body" },
     { key: "Meeting Type", title: "Meeting Type" }
   ];
 
   async function init() {
     try {
-      // Import the core Pagefind JS API engine relative to /search/ index location
+      // Import Pagefind core engine dynamically from compiled site outputs
       pagefind = await import("../pagefind/pagefind.js");
       await pagefind.init();
 
@@ -189,20 +200,23 @@ hide:
       const groupDiv = document.createElement('div');
       groupDiv.className = 'pf-filter-group';
 
-      const header = document.createElement('div');
-      header.className = 'pf-filter-header';
-      header.innerText = cfg.title;
-      groupDiv.appendChild(header);
+      const details = document.createElement('details');
+      details.open = true;
+
+      const summary = document.createElement('summary');
+      summary.innerText = cfg.title;
+      details.appendChild(summary);
 
       const listDiv = document.createElement('div');
       listDiv.className = 'pf-filter-list';
 
-      // Sort entries alphabetically or numerically
       const entries = Object.entries(filters[catKey]).sort((a, b) => a[0].localeCompare(b[0]));
 
       entries.forEach(([val, count]) => {
         const label = document.createElement('label');
         label.className = 'pf-option';
+        label.dataset.cat = catKey;
+        label.dataset.val = val;
         label.innerHTML = `
           <input type="checkbox" name="${catKey}" value="${val.replace(/"/g, '&quot;')}">
           <span>${val}</span>
@@ -211,8 +225,36 @@ hide:
         listDiv.appendChild(label);
       });
 
-      groupDiv.appendChild(listDiv);
+      details.appendChild(listDiv);
+      groupDiv.appendChild(details);
       container.appendChild(groupDiv);
+    });
+  }
+
+  function updateFilterCounts(dynamicFilters) {
+    if (!dynamicFilters) return;
+
+    FILTER_CONFIG.forEach(cfg => {
+      const catKey = cfg.key;
+      const categoryCounts = dynamicFilters[catKey] || {};
+
+      document.querySelectorAll(`.pf-option[data-cat="${catKey}"]`).forEach(label => {
+        const val = label.dataset.val;
+        const count = categoryCounts[val] || 0;
+        const countSpan = label.querySelector('.pf-count');
+        const checkbox = label.querySelector('input');
+
+        if (countSpan) {
+          countSpan.innerText = `(${count})`;
+        }
+
+        // Dim zero-count options while keeping selected ones visible
+        if (count === 0 && !checkbox.checked) {
+          label.style.opacity = '0.35';
+        } else {
+          label.style.opacity = '1';
+        }
+      });
     });
   }
 
@@ -221,7 +263,7 @@ hide:
     const selectedFilters = {};
     let totalActiveFilters = 0;
 
-    // Build the query filter payload using arrays for multi-select OR logic
+    // Collect checked values: arrays map to OR within a category, separate keys map to AND
     document.querySelectorAll('#pf-filters-container input[type="checkbox"]:checked').forEach(cb => {
       const cat = cb.name;
       if (!selectedFilters[cat]) {
@@ -231,13 +273,15 @@ hide:
       totalActiveFilters++;
     });
 
-    // Toggle "Clear all" button visibility
     document.getElementById('pf-clear-all').style.display = totalActiveFilters > 0 ? 'inline' : 'none';
 
-    // Execute search through core API
     const response = await pagefind.search(query || null, { filters: selectedFilters });
     allResults = response.results;
     currentRenderCount = 20;
+
+    if (response.filters) {
+      updateFilterCounts(response.filters);
+    }
 
     document.getElementById('pf-stats').innerText = `${allResults.length} meeting${allResults.length === 1 ? '' : 's'} found`;
 
