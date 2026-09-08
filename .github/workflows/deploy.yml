@@ -31,9 +31,11 @@ jobs:
         with:
           node-version: 20
 
-      - run: pip install mkdocs-material
+      - name: Install Python Dependencies
+        run: pip install mkdocs mkdocs-awesome-pages-plugin
 
-      - run: mkdocs build
+      - name: Build MkDocs Site
+        run: mkdocs build
 
       - name: Build Pagefind Search Index
         run: npx pagefind --site site
