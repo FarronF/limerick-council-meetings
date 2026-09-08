@@ -1,3 +1,14 @@
+---
+date: 2025-07-21
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-july-2025.pdf)
 
 ---

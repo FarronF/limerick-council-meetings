@@ -1,3 +1,14 @@
+---
+date: 2021-05-24
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-special-meeting-24.05.2021.pdf)
 
 ---

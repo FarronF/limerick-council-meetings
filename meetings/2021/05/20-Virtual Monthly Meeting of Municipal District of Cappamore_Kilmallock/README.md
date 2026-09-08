@@ -1,3 +1,14 @@
+---
+date: 2021-05-20
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Monthly Meeting of Municipal District of Cappamore/Kilmallock

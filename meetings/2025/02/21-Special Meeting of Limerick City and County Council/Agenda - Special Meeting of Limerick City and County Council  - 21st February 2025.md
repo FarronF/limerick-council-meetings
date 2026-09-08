@@ -1,3 +1,14 @@
+---
+date: 2025-02-21
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
 
 ---

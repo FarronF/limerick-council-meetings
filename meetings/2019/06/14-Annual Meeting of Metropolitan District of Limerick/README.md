@@ -1,3 +1,14 @@
+---
+date: 2019-06-14
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Annual"
+---
+
 # Meeting Details
 
 **Meeting Name:** Annual Meeting of Metropolitan District of Limerick

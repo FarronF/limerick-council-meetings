@@ -1,3 +1,14 @@
+---
+date: 2022-06-14
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-14th-June-2022.pdf)
 
 ---

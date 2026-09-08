@@ -1,3 +1,14 @@
+---
+date: 2018-06-11
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Agenda%20of%20SPC%2011th%20of%20June%202018.pdf)
 
 ---

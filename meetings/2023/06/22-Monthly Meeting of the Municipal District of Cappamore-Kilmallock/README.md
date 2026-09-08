@@ -1,3 +1,14 @@
+---
+date: 2023-06-22
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Monthly Meeting of the Municipal District of Cappamore-Kilmallock

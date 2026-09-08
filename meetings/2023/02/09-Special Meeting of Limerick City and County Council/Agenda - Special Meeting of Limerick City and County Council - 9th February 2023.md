@@ -1,3 +1,14 @@
+---
+date: 2023-02-09
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Agenda%20Special%20Meeting%2009.02.2023.pdf)
 
 ---

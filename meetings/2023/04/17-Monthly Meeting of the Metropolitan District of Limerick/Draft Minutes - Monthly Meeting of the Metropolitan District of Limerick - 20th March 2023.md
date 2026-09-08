@@ -1,3 +1,14 @@
+---
+date: 2023-04-17
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2020th%20March%202023.pdf)
 
 ---

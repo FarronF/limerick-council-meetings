@@ -1,3 +1,14 @@
+---
+date: 2025-12-04
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-home-and-social-development-strategic-policy-committee-4th-december-2025.pdf)
 
 ---

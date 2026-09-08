@@ -1,3 +1,14 @@
+---
+date: 2021-10-18
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Adjourned Special Meeting of the Metropolitan District of Limerick to discuss the Regeneration Programme

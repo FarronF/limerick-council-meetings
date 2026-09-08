@@ -1,3 +1,14 @@
+---
+date: 2024-08-26
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Ordinary Meeting of Limerick City and County Council

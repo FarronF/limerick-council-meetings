@@ -1,3 +1,14 @@
+---
+date: 2020-02-05
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Municipal District of Newcastle West Joint Policing Sub Committee Meeting

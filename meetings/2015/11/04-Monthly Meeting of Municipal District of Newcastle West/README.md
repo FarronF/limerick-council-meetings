@@ -1,3 +1,14 @@
+---
+date: 2015-11-04
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Monthly Meeting of Municipal District of Newcastle West

@@ -1,3 +1,14 @@
+---
+date: 2021-02-22
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Special"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/agenda-of-spc-mtg-22nd-feb-20211.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2021-11-16
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-16th-november-2021.pdf)
 
 ---

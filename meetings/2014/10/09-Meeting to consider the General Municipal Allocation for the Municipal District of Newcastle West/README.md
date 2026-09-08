@@ -1,3 +1,14 @@
+---
+date: 2014-10-09
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to consider the General Municipal Allocation for the Municipal District of Newcastle West

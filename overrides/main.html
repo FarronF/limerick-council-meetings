@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <article data-pagefind-body>
+    {% if page and page.meta %}
+      {% if page.meta.category %}
+        <span data-pagefind-filter="Category" style="display:none;">{{ page.meta.category }}</span>
+      {% endif %}
+      {% if page.meta.body %}
+        <span data-pagefind-filter="Body" style="display:none;">{{ page.meta.body }}</span>
+      {% endif %}
+      {% if page.meta.meeting_type %}
+        <span data-pagefind-filter="Meeting Type" style="display:none;">{{ page.meta.meeting_type }}</span>
+      {% endif %}
+      {% if page.meta.date %}
+        <time data-pagefind-meta="date" style="display:none;">{{ page.meta.date }}</time>
+      {% endif %}
+    {% endif %}
+
+    {{ super() }}
+  </article>
+{% endblock %}

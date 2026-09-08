@@ -1,3 +1,14 @@
+---
+date: 2021-10-11
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-of-spc-mtg-11th-oct.-2021.pdf)
 
 ---

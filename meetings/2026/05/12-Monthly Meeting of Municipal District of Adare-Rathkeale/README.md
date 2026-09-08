@@ -1,3 +1,14 @@
+---
+date: 2026-05-12
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Monthly Meeting of Municipal District of Adare-Rathkeale

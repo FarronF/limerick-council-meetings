@@ -1,3 +1,14 @@
+---
+date: 2022-12-14
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2019th%20October%202022.pdf)
 
 ---

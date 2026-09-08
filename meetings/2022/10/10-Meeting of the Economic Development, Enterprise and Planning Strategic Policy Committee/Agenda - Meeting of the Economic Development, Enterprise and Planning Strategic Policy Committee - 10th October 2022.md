@@ -1,3 +1,14 @@
+---
+date: 2022-10-10
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20SPC%20Mtg%20%20-%2010th%20Oct%202022.pdf)
 
 ---

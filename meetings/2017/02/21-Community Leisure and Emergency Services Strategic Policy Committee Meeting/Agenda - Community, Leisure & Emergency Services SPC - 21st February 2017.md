@@ -1,3 +1,14 @@
+---
+date: 2017-02-21
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_21st_feb_2017.pdf)
 
 ---

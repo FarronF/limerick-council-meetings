@@ -1,3 +1,14 @@
+---
+date: 2025-05-14
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/20250312-clahc-spc-minutes-signed.pdf)
 
 ---

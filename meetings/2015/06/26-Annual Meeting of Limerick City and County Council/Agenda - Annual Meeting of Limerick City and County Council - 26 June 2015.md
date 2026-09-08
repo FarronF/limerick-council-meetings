@@ -1,3 +1,14 @@
+---
+date: 2015-06-26
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Annual"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2026%20June%202015.pdf)
 
 ---

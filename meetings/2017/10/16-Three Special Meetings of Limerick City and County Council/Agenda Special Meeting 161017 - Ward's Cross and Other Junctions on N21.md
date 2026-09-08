@@ -1,3 +1,14 @@
+---
+date: 2017-10-16
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/2%20Agenda%20Special%20Meeting%20161017%20-%20Ward%27s%20Cross%20and%20Other%20Junctions%20on%20N21.pdf)
 
 ---

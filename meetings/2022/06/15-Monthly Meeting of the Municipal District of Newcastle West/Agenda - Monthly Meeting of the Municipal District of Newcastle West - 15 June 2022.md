@@ -1,3 +1,14 @@
+---
+date: 2022-06-15
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-15-06-2022.pdf)
 
 ---

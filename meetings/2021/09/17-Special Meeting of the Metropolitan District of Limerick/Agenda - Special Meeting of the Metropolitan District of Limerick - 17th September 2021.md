@@ -1,3 +1,14 @@
+---
+date: 2021-09-17
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-special-meeting-of-metropolitan-district-of-limerick-17.09.2021-deferred-from-15.09.2021.pdf)
 
 ---

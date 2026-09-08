@@ -1,3 +1,14 @@
+---
+date: 2018-09-18
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20for%20Presentations%20by%20Applicants%20-%20Presidential%20Election.pdf)
 
 ---

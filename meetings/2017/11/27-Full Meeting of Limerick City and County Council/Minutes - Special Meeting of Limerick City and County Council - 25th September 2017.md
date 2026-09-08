@@ -1,3 +1,14 @@
+---
+date: 2017-11-27
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20%28a%29%20Minutes%20Special%20Meeting%20250917%20-%20Knockfierna.pdf)
 
 ---

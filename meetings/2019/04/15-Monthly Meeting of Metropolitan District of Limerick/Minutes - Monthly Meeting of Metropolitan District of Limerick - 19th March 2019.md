@@ -1,3 +1,14 @@
+---
+date: 2019-04-15
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Minutes%2019th%20March%202019.pdf)
 
 ---

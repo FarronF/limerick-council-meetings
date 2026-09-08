@@ -1,3 +1,14 @@
+---
+date: 2026-06-30
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Annual"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-annual-meeting-of-limerick-city-and-county-council-30th-june-2026.pdf)
 
 ---

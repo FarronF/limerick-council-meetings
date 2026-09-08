@@ -1,3 +1,14 @@
+---
+date: 2017-06-23
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Annual%20Meeting%20of%20Metropolitan%20District%2023rd%20June%202017.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2015-12-10
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Municipal District of Adare-Rathkeale

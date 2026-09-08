@@ -1,3 +1,14 @@
+---
+date: 2016-09-19
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_19th_september_2016.pdf)
 
 ---

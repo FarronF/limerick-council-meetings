@@ -1,3 +1,14 @@
+---
+date: 2024-06-28
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/agenda-annual-meeting-of-metropolitan-district-28th-june-2024.pdf)
 
 ---

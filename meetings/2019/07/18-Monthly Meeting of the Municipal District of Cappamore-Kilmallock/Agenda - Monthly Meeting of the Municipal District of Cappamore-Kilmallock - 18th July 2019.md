@@ -1,3 +1,14 @@
+---
+date: 2019-07-18
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20Agenda%20July%202019%20Capp%20KIL%20MD%20Meeting.pdf)
 
 ---

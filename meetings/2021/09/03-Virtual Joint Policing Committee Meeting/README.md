@@ -1,3 +1,14 @@
+---
+date: 2021-09-03
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Joint Policing Committee Meeting

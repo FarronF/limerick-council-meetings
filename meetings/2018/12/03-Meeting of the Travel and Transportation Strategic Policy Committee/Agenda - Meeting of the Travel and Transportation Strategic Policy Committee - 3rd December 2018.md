@@ -1,3 +1,14 @@
+---
+date: 2018-12-03
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20T%26T%20SPC%203.12.18.pdf)
 
 ---

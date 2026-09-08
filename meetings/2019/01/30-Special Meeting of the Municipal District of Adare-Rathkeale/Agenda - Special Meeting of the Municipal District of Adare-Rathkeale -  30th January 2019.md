@@ -1,3 +1,14 @@
+---
+date: 2019-01-30
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%2030th%20January%2C%202019.pdf)
 
 ---

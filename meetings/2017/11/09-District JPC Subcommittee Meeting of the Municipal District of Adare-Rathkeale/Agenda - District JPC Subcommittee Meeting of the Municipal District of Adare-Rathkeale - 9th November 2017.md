@@ -1,3 +1,14 @@
+---
+date: 2017-11-09
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Agenda%20JPC%20District%20Subcommittee%20Meeting%20%281%29.pdf)
 
 ---

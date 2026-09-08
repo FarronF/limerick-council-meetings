@@ -1,3 +1,14 @@
+---
+date: 2026-07-22
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-special-meeting-of-the-metropolitan-district-of-limerick-10th-july-2026.pdf)
 
 ---

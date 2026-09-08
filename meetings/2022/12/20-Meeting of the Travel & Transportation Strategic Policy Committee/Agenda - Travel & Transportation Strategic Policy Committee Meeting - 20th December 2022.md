@@ -1,3 +1,14 @@
+---
+date: 2022-12-20
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20Travel%20%26%20Transportation%20SPC%20Meeting%20-%2020.12.22_0.pdf)
 
 ---

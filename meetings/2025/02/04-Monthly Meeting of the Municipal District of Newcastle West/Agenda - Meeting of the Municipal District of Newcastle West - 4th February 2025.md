@@ -1,3 +1,14 @@
+---
+date: 2025-02-04
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/00-2025-02-04-agenda.pdf)
 
 ---

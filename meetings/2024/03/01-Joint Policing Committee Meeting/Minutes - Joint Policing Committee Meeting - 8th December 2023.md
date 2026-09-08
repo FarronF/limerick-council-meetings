@@ -1,3 +1,14 @@
+---
+date: 2024-03-01
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/minutes-joint-policing-committee-meeting-8th-december-2023.pdf)
 
 ---

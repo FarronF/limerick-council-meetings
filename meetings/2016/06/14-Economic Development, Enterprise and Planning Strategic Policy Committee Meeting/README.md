@@ -1,3 +1,14 @@
+---
+date: 2016-06-14
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Economic Development, Enterprise and Planning Strategic Policy Committee Meeting

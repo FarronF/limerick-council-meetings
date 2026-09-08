@@ -1,3 +1,14 @@
+---
+date: 2023-05-26
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Special-Meeting-of-Municipal-District-of-Adare-Rathkeale-26th%20May%202023.pdf)
 
 ---

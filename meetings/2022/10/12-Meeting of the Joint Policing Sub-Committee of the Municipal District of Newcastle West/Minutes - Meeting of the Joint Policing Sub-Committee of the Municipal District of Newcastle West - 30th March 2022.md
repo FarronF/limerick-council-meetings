@@ -1,3 +1,14 @@
+---
+date: 2022-10-12
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%202022-03-30%20Minutes%20JPC%20Subcommittee.pdf)
 
 ---

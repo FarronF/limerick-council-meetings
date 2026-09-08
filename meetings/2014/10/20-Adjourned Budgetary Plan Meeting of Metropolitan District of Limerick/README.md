@@ -1,3 +1,14 @@
+---
+date: 2014-10-20
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Adjourned Budgetary Plan Meeting of Metropolitan District of Limerick

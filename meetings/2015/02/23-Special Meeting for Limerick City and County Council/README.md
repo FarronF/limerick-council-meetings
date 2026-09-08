@@ -1,3 +1,14 @@
+---
+date: 2015-02-23
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting for Limerick City and County Council

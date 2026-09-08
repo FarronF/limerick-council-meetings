@@ -1,3 +1,14 @@
+---
+date: 2020-12-15
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/agenda-meeting-of-the-travel-and-transportation-spc-15th-dec-2020.pdf)
 
 ---

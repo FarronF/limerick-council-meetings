@@ -1,3 +1,14 @@
+---
+date: 2016-07-13
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of Municipal District of Newcastle West

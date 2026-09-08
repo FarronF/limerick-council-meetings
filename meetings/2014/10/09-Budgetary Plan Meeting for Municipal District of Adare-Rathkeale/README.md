@@ -1,3 +1,14 @@
+---
+date: 2014-10-09
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Budgetary Plan Meeting for Municipal District of Adare-Rathkeale

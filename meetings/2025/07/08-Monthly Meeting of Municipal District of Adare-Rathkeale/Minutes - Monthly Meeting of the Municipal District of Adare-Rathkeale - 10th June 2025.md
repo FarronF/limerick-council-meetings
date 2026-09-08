@@ -1,3 +1,14 @@
+---
+date: 2025-07-08
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-draft-minutes-of-monthly-meeting-10th-june-2025-2_0.pdf)
 
 ---

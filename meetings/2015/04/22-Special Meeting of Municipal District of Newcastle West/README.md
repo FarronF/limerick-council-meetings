@@ -1,3 +1,14 @@
+---
+date: 2015-04-22
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting of Municipal District of Newcastle West

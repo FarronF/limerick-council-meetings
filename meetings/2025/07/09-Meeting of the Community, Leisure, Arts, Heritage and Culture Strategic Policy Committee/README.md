@@ -1,3 +1,14 @@
+---
+date: 2025-07-09
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee

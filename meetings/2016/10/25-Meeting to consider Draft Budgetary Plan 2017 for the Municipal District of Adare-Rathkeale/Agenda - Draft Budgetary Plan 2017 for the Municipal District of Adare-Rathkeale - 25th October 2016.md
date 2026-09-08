@@ -1,3 +1,14 @@
+---
+date: 2016-10-25
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_draft_budgetary_plan_2017_for_the_municipal_district_of_adare-rathkeale_-_25th_october_2016.pdf)
 
 ---

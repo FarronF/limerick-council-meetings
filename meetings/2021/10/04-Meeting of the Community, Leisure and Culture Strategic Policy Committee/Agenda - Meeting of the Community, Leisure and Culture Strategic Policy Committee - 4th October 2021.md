@@ -1,3 +1,14 @@
+---
+date: 2021-10-04
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/211004-agenda.pdf)
 
 ---

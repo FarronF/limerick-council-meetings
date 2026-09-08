@@ -1,3 +1,14 @@
+---
+date: 2017-11-09
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Agenda%209th%20Nov%20%202017.pdf)
 
 ---

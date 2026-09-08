@@ -1,3 +1,14 @@
+---
+date: 2020-09-08
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-8th-september-2020.pdf)
 
 ---

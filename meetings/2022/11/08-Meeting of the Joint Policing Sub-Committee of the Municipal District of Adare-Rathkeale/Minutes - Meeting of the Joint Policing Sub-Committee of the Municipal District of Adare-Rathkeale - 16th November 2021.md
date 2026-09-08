@@ -1,3 +1,14 @@
+---
+date: 2022-11-08
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Minutes%20JPC%2016th%20November%202021.pdf)
 
 ---

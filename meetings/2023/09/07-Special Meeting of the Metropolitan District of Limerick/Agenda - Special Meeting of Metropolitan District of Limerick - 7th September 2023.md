@@ -1,3 +1,14 @@
+---
+date: 2023-09-07
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-Metropolitan-District-of-Limerick-7th-September-2023.pdf)
 
 ---

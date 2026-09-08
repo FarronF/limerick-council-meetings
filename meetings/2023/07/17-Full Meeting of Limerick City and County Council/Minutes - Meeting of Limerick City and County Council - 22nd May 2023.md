@@ -1,3 +1,14 @@
+---
+date: 2023-07-17
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-b-Minutes-Meeting-of-Limerick-City-and-County-Council-22nd-May-2023.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2023-04-24
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2013th%20Feb%202023.pdf)
 
 ---

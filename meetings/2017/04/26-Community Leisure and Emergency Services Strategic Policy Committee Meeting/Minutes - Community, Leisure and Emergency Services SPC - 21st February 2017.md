@@ -1,3 +1,14 @@
+---
+date: 2017-04-26
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/CLES%20SPC%20Minutes%20210217.pdf)
 
 ---

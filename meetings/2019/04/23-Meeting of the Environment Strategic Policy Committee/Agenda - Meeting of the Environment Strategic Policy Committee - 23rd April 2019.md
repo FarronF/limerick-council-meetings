@@ -1,3 +1,14 @@
+---
+date: 2019-04-23
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda-23rd-April-2019-Environment-SPC-Meeting.pdf)
 
 ---

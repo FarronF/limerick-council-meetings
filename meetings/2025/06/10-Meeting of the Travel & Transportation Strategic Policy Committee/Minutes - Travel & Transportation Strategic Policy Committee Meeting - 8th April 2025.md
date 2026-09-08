@@ -1,3 +1,14 @@
+---
+date: 2025-06-10
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-of-the-travel-transportation-spc-meeting-08.04.25.pdf)
 
 ---

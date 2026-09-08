@@ -1,3 +1,14 @@
+---
+date: 2025-05-26
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-special-meeting-of-limerick-city-and-county-council-9th-may-2025.pdf)
 
 ---

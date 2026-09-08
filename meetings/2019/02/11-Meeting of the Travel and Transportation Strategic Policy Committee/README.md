@@ -1,3 +1,14 @@
+---
+date: 2019-02-11
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Travel and Transportation Strategic Policy Committee

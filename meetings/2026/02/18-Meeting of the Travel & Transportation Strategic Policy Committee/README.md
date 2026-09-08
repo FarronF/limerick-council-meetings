@@ -1,3 +1,14 @@
+---
+date: 2026-02-18
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Travel & Transportation Strategic Policy Committee

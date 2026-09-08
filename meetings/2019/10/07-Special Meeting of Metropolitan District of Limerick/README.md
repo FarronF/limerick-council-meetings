@@ -1,3 +1,14 @@
+---
+date: 2019-10-07
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting of Metropolitan District of Limerick

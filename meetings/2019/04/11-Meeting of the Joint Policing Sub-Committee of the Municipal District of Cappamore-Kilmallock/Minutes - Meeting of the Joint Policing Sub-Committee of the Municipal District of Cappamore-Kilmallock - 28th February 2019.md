@@ -1,3 +1,14 @@
+---
+date: 2019-04-11
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%20Minutes%2028th%20February%202019%20JPC%20Sub-Committee%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
 ---

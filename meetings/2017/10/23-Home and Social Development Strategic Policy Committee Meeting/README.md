@@ -1,3 +1,14 @@
+---
+date: 2017-10-23
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Home and Social Development Strategic Policy Committee Meeting

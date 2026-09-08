@@ -1,3 +1,14 @@
+---
+date: 2017-06-26
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Environment%20SPC%20Meeting%2026th%20June%202017.pdf)
 
 ---

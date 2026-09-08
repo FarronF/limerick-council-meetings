@@ -1,3 +1,14 @@
+---
+date: 2024-07-18
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/04-minutes-of-special-meeting-on-athenacey-graveyard_0.pdf)
 
 ---

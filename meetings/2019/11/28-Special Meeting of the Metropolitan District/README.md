@@ -1,3 +1,14 @@
+---
+date: 2019-11-28
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting of the Metropolitan District

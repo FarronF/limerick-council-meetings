@@ -1,3 +1,14 @@
+---
+date: 2020-06-22
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-for-spc-meeting-22.06.2020.docx.pdf)
 
 ---

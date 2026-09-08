@@ -1,3 +1,14 @@
+---
+date: 2017-05-15
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%2015th%20May%202017.pdf)
 
 ---

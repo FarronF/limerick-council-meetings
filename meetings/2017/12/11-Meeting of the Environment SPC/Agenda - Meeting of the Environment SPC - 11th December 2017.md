@@ -1,3 +1,14 @@
+---
+date: 2017-12-11
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/11th%20December%202017%20Notice%20and%20Agenda%20Env%20SPC.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2022-04-27
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Travel and Transportation Strategic Policy Committee

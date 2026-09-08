@@ -1,3 +1,14 @@
+---
+date: 2021-06-08
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/20210608-agenda-cabe-spc-june.pdf)
 
 ---

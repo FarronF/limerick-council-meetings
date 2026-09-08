@@ -1,3 +1,14 @@
+---
+date: 2017-06-19
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Supplementary%20Agenda%2019th%20June%252c%202017.pdf)
 
 ---

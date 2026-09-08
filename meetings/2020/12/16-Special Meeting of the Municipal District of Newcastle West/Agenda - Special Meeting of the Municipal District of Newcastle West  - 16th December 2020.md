@@ -1,3 +1,14 @@
+---
+date: 2020-12-16
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-2020-12-16-agenda-.pdf)
 
 ---

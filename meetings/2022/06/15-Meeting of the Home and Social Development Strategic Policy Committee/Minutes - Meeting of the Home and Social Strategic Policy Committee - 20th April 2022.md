@@ -1,3 +1,14 @@
+---
+date: 2022-06-15
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/22-04-20-Final-minutes-of-Home-and-Social-Development-SPC-Apr-meeting.pdf)
 
 ---

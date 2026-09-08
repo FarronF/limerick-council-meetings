@@ -1,3 +1,14 @@
+---
+date: 2014-12-15
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Monthly Meeting of Metropolitan District of Limerick

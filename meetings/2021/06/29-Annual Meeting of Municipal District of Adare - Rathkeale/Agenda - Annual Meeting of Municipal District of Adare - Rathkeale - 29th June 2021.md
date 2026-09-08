@@ -1,3 +1,14 @@
+---
+date: 2021-06-29
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-29th-june-2021_1.pdf)
 
 ---

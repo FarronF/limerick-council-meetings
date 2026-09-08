@@ -1,3 +1,14 @@
+---
+date: 2016-06-29
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastlewest%20-%2029th%20June%202016.pdf)
 
 ---

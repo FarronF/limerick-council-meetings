@@ -1,3 +1,14 @@
+---
+date: 2014-10-09
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_of_adare_-_rathkeale_-_agenda_to_consider_the_general_municipal_allocation_-_9th_october_2014.pdf)
 
 ---

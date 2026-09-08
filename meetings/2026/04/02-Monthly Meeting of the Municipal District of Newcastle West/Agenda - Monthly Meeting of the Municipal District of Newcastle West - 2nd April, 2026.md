@@ -1,3 +1,14 @@
+---
+date: 2026-04-02
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/00-2026-04-02-agenda-april.pdf)
 
 ---

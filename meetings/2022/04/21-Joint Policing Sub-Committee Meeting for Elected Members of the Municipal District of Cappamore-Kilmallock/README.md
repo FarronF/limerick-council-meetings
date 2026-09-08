@@ -1,3 +1,14 @@
+---
+date: 2022-04-21
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock

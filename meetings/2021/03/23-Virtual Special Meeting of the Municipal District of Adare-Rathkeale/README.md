@@ -1,3 +1,14 @@
+---
+date: 2021-03-23
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Special Meeting of the Municipal District of Adare-Rathkeale

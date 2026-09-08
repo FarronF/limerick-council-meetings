@@ -1,3 +1,14 @@
+---
+date: 2022-04-27
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/agenda-travel-transportation-spc-meeting-27th-april-2022.pdf)
 
 ---

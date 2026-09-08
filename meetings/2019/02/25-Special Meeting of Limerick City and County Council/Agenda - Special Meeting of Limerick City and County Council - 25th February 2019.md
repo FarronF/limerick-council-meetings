@@ -1,3 +1,14 @@
+---
+date: 2019-02-25
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%20Special%20Meeting%2025.02.2019.pdf)
 
 ---

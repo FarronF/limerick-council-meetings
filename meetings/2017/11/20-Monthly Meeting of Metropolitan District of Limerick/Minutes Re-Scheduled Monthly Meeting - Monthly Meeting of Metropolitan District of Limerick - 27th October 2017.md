@@ -1,3 +1,14 @@
+---
+date: 2017-11-20
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%28a%29%20Minutes%20Re-Scheduled%20Monthly%20Meeting%2027th%20October%202017.pdf)
 
 ---

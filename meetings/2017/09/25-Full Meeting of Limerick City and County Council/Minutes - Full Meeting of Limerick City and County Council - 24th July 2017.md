@@ -1,3 +1,14 @@
+---
+date: 2017-09-25
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20Minutes%20of%20July%20Meeting%20240717.pdf)
 
 ---

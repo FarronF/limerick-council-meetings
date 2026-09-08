@@ -1,3 +1,14 @@
+---
+date: 2021-03-23
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-23rd-march-2021-1.pdf)
 
 ---

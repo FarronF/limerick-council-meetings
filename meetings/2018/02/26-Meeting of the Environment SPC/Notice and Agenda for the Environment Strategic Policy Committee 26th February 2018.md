@@ -1,3 +1,14 @@
+---
+date: 2018-02-26
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/26th%20February%202018-%20Updated%20Agenda%20Environment%20Strategic%20Policy%20Committee%20%281%29.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2021-12-13
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee

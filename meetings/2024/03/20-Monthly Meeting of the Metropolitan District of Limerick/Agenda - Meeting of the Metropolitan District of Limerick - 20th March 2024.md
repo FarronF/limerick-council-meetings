@@ -1,3 +1,14 @@
+---
+date: 2024-03-20
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-the-metropolitan-district-of-limerick-20th-march-2024.pdf)
 
 ---

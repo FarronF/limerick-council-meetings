@@ -1,3 +1,14 @@
+---
+date: 2015-10-19
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to consider Draft Budgetary Plan 2016 for the Members of the Metropolitan District of Limerick

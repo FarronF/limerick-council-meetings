@@ -1,3 +1,14 @@
+---
+date: 2021-02-15
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Adjourned Meeting of the Economic Development, Enterprise & Planning SPC

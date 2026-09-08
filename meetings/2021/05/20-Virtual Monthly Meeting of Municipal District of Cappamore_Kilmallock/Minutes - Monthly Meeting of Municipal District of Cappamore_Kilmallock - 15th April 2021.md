@@ -1,3 +1,14 @@
+---
+date: 2021-05-20
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/2.-minutes-of-15th-april-md-meeting.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2023-06-08
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Minutes%E2%80%93Meeting-of-the-Home-and-Social-Strategic-Policy-Committee%E2%80%9312th-April-2023.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2025-07-02
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-b-2025-06-03-agm-minutes.pdf)
 
 ---

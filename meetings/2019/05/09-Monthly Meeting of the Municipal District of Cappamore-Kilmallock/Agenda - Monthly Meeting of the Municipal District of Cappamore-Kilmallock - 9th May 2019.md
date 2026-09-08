@@ -1,3 +1,14 @@
+---
+date: 2019-05-09
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%20Agenda%20MD%20Meeting%209th%20May%202019..pdf)
 
 ---

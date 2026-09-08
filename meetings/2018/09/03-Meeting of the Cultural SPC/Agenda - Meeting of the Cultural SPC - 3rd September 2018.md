@@ -1,3 +1,14 @@
+---
+date: 2018-09-03
+body: "Cultural SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Cultural SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20Cultural%20SPC%203rd%20September%202018.pdf)
 
 ---

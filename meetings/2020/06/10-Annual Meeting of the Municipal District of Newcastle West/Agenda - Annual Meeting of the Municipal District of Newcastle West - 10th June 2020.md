@@ -1,3 +1,14 @@
+---
+date: 2020-06-10
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-06-10-agenda-agm.pdf)
 
 ---

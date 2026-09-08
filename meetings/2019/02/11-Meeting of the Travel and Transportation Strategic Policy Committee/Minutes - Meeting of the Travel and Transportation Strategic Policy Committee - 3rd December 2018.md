@@ -1,3 +1,14 @@
+---
+date: 2019-02-11
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Draft%20Minutes%20Travel%20and%20Transportation%20Meeting%20-%203rd%20Dec%202018.pdf)
 
 ---

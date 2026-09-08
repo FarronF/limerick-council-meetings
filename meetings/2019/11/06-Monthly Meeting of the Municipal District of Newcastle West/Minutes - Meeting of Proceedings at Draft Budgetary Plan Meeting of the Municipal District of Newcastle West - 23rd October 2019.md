@@ -1,3 +1,14 @@
+---
+date: 2019-11-06
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28b%29-2019-10-23%20Minutes-Draft-Budgetary-Plan-Meeting.pdf)
 
 ---

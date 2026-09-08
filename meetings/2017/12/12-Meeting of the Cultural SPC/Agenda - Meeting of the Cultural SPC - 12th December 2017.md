@@ -1,3 +1,14 @@
+---
+date: 2017-12-12
+body: "Cultural SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Cultural SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Agenda%20Cultural%20SPC%2012th%20December%202017.pdf)
 
 ---

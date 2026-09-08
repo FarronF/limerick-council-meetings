@@ -1,3 +1,14 @@
+---
+date: 2023-06-20
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Minutes-Meeting-of-the-Travel-and-Transportation-Strategic-Policy-Committee-18th-April-2023.pdf)
 
 ---

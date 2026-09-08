@@ -1,3 +1,14 @@
+---
+date: 2019-11-28
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00-Agenda-Special-Meeting-Metropolitan-District-28th-November-2019.pdf)
 
 ---

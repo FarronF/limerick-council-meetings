@@ -1,3 +1,14 @@
+---
+date: 2017-11-09
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28c%29%20Minutes%20Budgetary%20Plan%202018%2026th%20October%2C%202017.pdf)
 
 ---

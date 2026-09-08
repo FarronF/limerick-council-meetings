@@ -1,3 +1,14 @@
+---
+date: 2021-10-06
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-2021-09-15-minutes-september.pdf)
 
 ---

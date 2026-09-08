@@ -1,3 +1,14 @@
+---
+date: 2021-04-13
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210413-agenda-cabe-spc-april-1.pdf)
 
 ---

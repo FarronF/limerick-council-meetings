@@ -1,3 +1,14 @@
+---
+date: 2014-06-20
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/limerick_city_and_county_council_agenda_-_20_june_2014.pdf)
 
 ---

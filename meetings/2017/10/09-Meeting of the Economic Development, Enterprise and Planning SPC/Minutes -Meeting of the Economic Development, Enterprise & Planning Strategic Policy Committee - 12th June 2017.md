@@ -1,3 +1,14 @@
+---
+date: 2017-10-09
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20%26%20Planning%20Strategic%20Policy%20Committee%20%20-%2012th%20June%202017.pdf)
 
 ---

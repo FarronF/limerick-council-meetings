@@ -1,3 +1,14 @@
+---
+date: 2017-06-12
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Travel and Transportation Strategic Policy Committee Meeting

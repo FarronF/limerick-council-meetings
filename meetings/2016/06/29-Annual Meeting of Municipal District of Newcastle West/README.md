@@ -1,3 +1,14 @@
+---
+date: 2016-06-29
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 # Meeting Details
 
 **Meeting Name:** Annual Meeting of Municipal District of Newcastle West

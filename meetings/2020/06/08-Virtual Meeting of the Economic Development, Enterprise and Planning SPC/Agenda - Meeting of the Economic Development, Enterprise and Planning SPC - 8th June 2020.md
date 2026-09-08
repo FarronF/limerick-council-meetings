@@ -1,3 +1,14 @@
+---
+date: 2020-06-08
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-of-spc-mtg-8th-june-2020.pdf)
 
 ---

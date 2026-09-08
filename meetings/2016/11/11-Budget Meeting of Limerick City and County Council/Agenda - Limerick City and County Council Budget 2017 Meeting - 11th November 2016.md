@@ -1,3 +1,14 @@
+---
+date: 2016-11-11
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_limerick_city_and_county_council_budget_2017_meeting_-_11th_november_2016.pdf)
 
 ---

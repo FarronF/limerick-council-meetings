@@ -1,3 +1,14 @@
+---
+date: 2022-07-12
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Adjourned Meeting of Travel and Transportation Strategic Policy Committee

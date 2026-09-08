@@ -1,3 +1,14 @@
+---
+date: 2025-06-03
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-a-2025-06-03-minutes-june.pdf)
 
 ---

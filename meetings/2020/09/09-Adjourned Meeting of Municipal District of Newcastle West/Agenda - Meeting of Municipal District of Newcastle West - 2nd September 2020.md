@@ -1,3 +1,14 @@
+---
+date: 2020-09-09
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-ii-2020-09-02-agenda.pdf)
 
 ---

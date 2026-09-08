@@ -3,8 +3,9 @@ docs_dir: meetings
 
 theme:
   name: material
-  font: false # Prevents embedding external font styles
+  custom_dir: overrides # Enables custom HTML template overrides
+  font: false
   features:
-    - navigation.prune # CRITICAL: Strips full navigation tree from individual page HTML
+    - navigation.prune
     - search.suggest
     - search.highlight

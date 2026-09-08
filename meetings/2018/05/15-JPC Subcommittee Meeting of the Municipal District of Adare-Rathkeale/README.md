@@ -1,3 +1,14 @@
+---
+date: 2018-05-15
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** JPC Subcommittee Meeting of the Municipal District of Adare-Rathkeale

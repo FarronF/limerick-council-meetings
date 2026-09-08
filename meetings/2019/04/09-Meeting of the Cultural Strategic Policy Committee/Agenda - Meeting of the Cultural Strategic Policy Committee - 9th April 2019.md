@@ -1,3 +1,14 @@
+---
+date: 2019-04-09
+body: "Cultural SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Cultural SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda%20Cultural%20SPC%209th%20April%202019.pdf)
 
 ---

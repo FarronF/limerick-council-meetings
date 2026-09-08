@@ -1,3 +1,14 @@
+---
+date: 2014-09-22
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/10%20updated_minutes_of_special_meeting_of_limerick_city_and_county_council_-_friday_29th_august_2014.pdf)
 
 ---

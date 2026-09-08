@@ -1,3 +1,14 @@
+---
+date: 2026-05-13
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Adjourned Monthly Meeting of the Municipal District of Newcastle West

@@ -1,3 +1,14 @@
+---
+date: 2020-10-01
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-agenda-special-meeting.pdf)
 
 ---

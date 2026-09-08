@@ -1,3 +1,14 @@
+---
+date: 2019-04-08
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda%20of%20SPC%20Mtg%20%20-%208th%20April%202019.pdf)
 
 ---

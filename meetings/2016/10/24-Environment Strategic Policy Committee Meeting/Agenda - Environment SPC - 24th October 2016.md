@@ -1,3 +1,14 @@
+---
+date: 2016-10-24
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_environment_spc_-_24th_october_2016.pdf)
 
 ---

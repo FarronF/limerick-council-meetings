@@ -1,3 +1,14 @@
+---
+date: 2024-03-21
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
 
 ---

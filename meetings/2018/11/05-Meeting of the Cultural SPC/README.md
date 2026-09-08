@@ -1,3 +1,14 @@
+---
+date: 2018-11-05
+body: "Cultural SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Cultural SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Cultural SPC

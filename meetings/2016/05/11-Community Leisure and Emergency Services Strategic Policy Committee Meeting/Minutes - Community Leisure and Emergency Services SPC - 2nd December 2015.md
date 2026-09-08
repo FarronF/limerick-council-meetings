@@ -1,3 +1,14 @@
+---
+date: 2016-05-11
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%20Leisure%20and%20Emergency%20Services%20SPC%20-%202nd%20December%202015.pdf)
 
 ---

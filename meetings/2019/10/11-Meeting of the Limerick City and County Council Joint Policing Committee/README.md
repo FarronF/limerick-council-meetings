@@ -1,3 +1,14 @@
+---
+date: 2019-10-11
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Limerick City and County Council Joint Policing Committee

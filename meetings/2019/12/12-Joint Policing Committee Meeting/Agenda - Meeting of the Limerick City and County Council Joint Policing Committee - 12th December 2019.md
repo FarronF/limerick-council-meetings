@@ -1,3 +1,14 @@
+---
+date: 2019-12-12
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Amended%20Agenda%20JPC%20Meeting%2012th%20Dec%2019%20v3.pdf)
 
 ---

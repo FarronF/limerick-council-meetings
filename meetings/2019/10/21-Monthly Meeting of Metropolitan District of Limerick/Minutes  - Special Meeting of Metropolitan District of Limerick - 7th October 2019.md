@@ -1,3 +1,14 @@
+---
+date: 2019-10-21
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%28c%29%20Minutes%20Special%20Meeting%207th%20October%202019.pdf)
 
 ---

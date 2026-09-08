@@ -1,3 +1,14 @@
+---
+date: 2018-05-09
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%202018-05-09%20Agenda.pdf)
 
 ---

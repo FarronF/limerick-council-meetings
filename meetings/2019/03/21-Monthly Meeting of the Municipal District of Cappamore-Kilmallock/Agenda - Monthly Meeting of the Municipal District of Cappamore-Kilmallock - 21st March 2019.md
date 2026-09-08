@@ -1,3 +1,14 @@
+---
+date: 2019-03-21
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20Agenda%20MD%20Meeting%2021st%20March%202019.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2014-09-09
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20municipal_district_adare-rathkeale_-_minutes_of_meeting_8th_july_2014.pdf)
 
 ---

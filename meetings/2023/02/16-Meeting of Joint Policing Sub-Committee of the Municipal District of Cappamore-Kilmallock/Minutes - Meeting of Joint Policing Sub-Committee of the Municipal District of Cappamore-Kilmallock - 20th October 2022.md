@@ -1,3 +1,14 @@
+---
+date: 2023-02-16
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Meeting%20of%20Joint%20Policing%20Sub-Committee%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20October%202022.pdf)
 
 ---

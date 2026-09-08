@@ -1,3 +1,14 @@
+---
+date: 2015-10-19
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20to%20consider%20Draft%20Budgetary%20Plan%202016%20for%20Metropolitan%20District%20of%20Limerick.pdf)
 
 ---

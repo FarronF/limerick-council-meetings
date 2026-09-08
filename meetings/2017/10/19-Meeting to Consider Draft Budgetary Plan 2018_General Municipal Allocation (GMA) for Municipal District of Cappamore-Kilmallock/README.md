@@ -1,3 +1,14 @@
+---
+date: 2017-10-19
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to Consider Draft Budgetary Plan 2018/General Municipal Allocation (GMA) for Municipal District of Cappamore-Kilmallock

@@ -1,3 +1,14 @@
+---
+date: 2022-11-28
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Full Meeting of Limerick City and County Council

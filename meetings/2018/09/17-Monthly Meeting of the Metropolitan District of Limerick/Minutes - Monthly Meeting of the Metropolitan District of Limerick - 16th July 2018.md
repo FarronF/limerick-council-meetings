@@ -1,3 +1,14 @@
+---
+date: 2018-09-17
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20Minutes%2016th%20July%202018.pdf)
 
 ---

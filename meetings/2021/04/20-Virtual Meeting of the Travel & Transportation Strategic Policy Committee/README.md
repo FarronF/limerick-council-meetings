@@ -1,3 +1,14 @@
+---
+date: 2021-04-20
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Meeting of the Travel & Transportation Strategic Policy Committee

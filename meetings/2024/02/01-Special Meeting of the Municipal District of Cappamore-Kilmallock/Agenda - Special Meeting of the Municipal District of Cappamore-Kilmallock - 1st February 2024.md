@@ -1,3 +1,14 @@
+---
+date: 2024-02-01
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-1st-february-2024.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2020-02-17
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/minutes-of-spc-9th-dec-2019.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2019-12-16
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00%20Agenda%2016th%20December%202019.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2018-12-10
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/Agenda%2010.12.2018%20-%20Revised.pdf)
 
 ---

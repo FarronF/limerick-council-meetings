@@ -1,3 +1,14 @@
+---
+date: 2022-06-10
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda%20JPC%20Meeting%203rd%20June%2C%202022.pdf)
 
 ---

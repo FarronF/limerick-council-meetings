@@ -1,3 +1,14 @@
+---
+date: 2026-03-23
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-special-meeting-of-limerick-city-and-county-council-23rd-march-2026.pdf)
 
 ---

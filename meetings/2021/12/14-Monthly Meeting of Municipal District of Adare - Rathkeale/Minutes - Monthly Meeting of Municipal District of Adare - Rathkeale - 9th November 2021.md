@@ -1,3 +1,14 @@
+---
+date: 2021-12-14
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01-minutes-of-monthly-meeting-9th-november-2021.pdf)
 
 ---

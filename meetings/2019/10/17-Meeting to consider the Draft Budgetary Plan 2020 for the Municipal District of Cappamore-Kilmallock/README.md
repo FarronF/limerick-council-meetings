@@ -1,3 +1,14 @@
+---
+date: 2019-10-17
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Cappamore-Kilmallock

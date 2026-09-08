@@ -1,3 +1,14 @@
+---
+date: 2022-01-20
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-agenda-for-january-2022-jpc-sub-committee-meeting.pdf)
 
 ---

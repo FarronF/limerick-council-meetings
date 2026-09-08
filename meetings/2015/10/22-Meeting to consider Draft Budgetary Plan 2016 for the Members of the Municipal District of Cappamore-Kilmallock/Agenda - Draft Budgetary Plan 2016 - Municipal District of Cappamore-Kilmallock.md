@@ -1,3 +1,14 @@
+---
+date: 2015-10-22
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Draft%20Budgetary%20Plan%202016%20-%20Municipal%20District%20of%20Cappamore-Kilmallock.pdf)
 
 ---

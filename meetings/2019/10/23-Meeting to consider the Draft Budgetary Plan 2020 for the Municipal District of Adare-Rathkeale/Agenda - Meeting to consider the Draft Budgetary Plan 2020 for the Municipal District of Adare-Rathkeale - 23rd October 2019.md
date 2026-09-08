@@ -1,3 +1,14 @@
+---
+date: 2019-10-23
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%2023rd%20October%2C%202019_0.pdf)
 
 ---

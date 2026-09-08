@@ -1,3 +1,14 @@
+---
+date: 2022-05-25
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%202022-05-25%20Agenda.pdf)
 
 ---

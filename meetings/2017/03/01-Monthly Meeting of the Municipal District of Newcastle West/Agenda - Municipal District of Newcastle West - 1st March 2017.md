@@ -1,3 +1,14 @@
+---
+date: 2017-03-01
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-03-01_agenda_march_meeting_municipal_district_newcaselt_west.pdf)
 
 ---

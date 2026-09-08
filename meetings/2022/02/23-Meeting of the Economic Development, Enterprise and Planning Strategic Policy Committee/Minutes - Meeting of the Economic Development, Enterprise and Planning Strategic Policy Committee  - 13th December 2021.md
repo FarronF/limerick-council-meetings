@@ -1,3 +1,14 @@
+---
+date: 2022-02-23
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/minutes-of-spc-mtg-13th-december-2021_0.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2017-02-20
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_20th_february2c_2017.pdf)
 
 ---

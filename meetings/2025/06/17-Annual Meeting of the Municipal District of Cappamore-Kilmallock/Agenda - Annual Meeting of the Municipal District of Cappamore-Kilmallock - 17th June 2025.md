@@ -1,3 +1,14 @@
+---
+date: 2025-06-17
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-june-2025.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2022-01-11
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-11th-january-2022.pdf)
 
 ---

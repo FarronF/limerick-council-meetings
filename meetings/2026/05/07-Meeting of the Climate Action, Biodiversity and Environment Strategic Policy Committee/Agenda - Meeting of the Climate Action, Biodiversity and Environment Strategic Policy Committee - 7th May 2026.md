@@ -1,3 +1,14 @@
+---
+date: 2026-05-07
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-7th-may-2026.pdf)
 
 ---

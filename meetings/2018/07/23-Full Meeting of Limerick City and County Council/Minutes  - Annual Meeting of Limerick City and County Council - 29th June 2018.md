@@ -1,3 +1,14 @@
+---
+date: 2018-07-23
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20%28c%29%20Minutes%20Annual%20Meeting%20290618.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2016-11-28
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_special_meeting_of_limerick_city_and_county_council_-_28th_november.pdf)
 
 ---

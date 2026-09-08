@@ -1,3 +1,14 @@
+---
+date: 2019-12-02
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Agenda%20-%202nd%20Dec%202019%20Climate%20Action%2C%20Biodiversity%20Env%20SPC%20Meeting.pdf)
 
 ---

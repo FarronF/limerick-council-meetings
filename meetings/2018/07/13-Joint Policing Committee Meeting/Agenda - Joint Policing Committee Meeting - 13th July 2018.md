@@ -1,3 +1,14 @@
+---
+date: 2018-07-13
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Agenda%20JPC%20Meeting%2013th%20July%202018.pdf)
 
 ---

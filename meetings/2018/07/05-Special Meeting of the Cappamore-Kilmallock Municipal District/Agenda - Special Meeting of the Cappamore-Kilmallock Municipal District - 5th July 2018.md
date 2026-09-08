@@ -1,3 +1,14 @@
+---
+date: 2018-07-05
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Special%20Meeting%205th%20July.pdf)
 
 ---

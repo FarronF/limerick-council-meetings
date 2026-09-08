@@ -1,3 +1,14 @@
+---
+date: 2025-11-24
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-ordinary-meeting-of-limerick-city-and-county-council-24th-november-2025.pdf)
 
 ---

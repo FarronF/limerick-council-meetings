@@ -1,3 +1,14 @@
+---
+date: 2016-12-15
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_17th_november_2016_1.pdf)
 
 ---

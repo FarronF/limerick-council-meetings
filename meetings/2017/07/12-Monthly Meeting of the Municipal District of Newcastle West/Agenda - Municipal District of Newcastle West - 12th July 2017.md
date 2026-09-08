@@ -1,3 +1,14 @@
+---
+date: 2017-07-12
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%202017-07-12%20Agenda%20July%20Meeting.pdf)
 
 ---

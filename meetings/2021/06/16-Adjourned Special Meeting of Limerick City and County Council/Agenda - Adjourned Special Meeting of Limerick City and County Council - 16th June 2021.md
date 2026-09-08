@@ -1,3 +1,14 @@
+---
+date: 2021-06-16
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-adjourned-special-meeting-16.02.2021.pdf)
 
 ---

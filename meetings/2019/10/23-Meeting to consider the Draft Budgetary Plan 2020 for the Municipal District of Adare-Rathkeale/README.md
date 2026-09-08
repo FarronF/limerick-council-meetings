@@ -1,3 +1,14 @@
+---
+date: 2019-10-23
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale

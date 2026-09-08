@@ -1,3 +1,14 @@
+---
+date: 2017-12-12
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of Municipal District of Cappamore-Kilmallock

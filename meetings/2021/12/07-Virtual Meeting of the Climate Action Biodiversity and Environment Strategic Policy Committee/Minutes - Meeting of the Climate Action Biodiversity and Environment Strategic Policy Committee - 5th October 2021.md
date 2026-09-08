@@ -1,3 +1,14 @@
+---
+date: 2021-12-07
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20211005-cabe-spc-minutes.pdf)
 
 ---

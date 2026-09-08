@@ -1,3 +1,14 @@
+---
+date: 2021-06-21
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-meeting-of-metropolitan-district-of-limerick-21.06.2021.pdf)
 
 ---

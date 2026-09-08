@@ -1,3 +1,14 @@
+---
+date: 2026-04-14
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-10th-march-2026_0.pdf)
 
 ---

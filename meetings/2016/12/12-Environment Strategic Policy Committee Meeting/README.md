@@ -1,3 +1,14 @@
+---
+date: 2016-12-12
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Environment Strategic Policy Committee Meeting

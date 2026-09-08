@@ -1,3 +1,14 @@
+---
+date: 2018-01-16
+body: "Cultural SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Cultural SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Item%201%20Minutes%20of%20Cultural%20SPC%20meeting%20held%2012th%20December%202017.pdf)
 
 ---

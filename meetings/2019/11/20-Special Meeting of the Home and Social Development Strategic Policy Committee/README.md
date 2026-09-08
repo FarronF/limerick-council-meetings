@@ -1,3 +1,14 @@
+---
+date: 2019-11-20
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Special"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting of the Home and Social Development Strategic Policy Committee

@@ -1,3 +1,14 @@
+---
+date: 2022-10-26
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to consider the Draft Budgetary Plan 2023 for the Municipal District of Newcastle West

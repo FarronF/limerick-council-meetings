@@ -1,3 +1,14 @@
+---
+date: 2021-04-21
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Meeting of the Home and Social Development Strategic Policy Committee

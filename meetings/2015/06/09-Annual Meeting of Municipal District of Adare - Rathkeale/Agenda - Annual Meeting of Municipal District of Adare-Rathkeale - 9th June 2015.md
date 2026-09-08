@@ -1,3 +1,14 @@
+---
+date: 2015-06-09
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20June%202015.pdf)
 
 ---

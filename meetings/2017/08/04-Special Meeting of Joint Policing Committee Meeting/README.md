@@ -1,3 +1,14 @@
+---
+date: 2017-08-04
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Special"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting of Joint Policing Committee Meeting

@@ -1,3 +1,14 @@
+---
+date: 2026-07-10
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-special-meeting-of-the-metropolitan-district-of-limerick-10th-july-2026.pdf)
 
 ---

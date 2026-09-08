@@ -1,3 +1,14 @@
+---
+date: 2022-03-04
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20JPC%20Meeting%20held%20on%2017th%20Dec%202021.pdf)
 
 ---

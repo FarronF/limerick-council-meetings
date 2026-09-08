@@ -1,3 +1,14 @@
+---
+date: 2021-03-18
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-agenda-18th-march-md-meeting-final.pdf)
 
 ---

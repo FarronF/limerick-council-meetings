@@ -1,3 +1,14 @@
+---
+date: 2022-09-13
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Minutes%20of%20Monthly%20Meeting%2012th%20July%2C%202022_0.pdf)
 
 ---

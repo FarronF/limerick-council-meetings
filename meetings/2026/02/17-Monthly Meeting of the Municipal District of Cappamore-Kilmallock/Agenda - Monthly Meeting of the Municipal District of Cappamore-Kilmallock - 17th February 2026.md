@@ -1,3 +1,14 @@
+---
+date: 2026-02-17
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-february-2026.pdf)
 
 ---

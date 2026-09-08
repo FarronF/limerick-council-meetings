@@ -1,3 +1,14 @@
+---
+date: 2024-03-20
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-draft-minutes-meeting-of-the-metropolitan-district-of-limerick-19th-february-2024.pdf)
 
 ---

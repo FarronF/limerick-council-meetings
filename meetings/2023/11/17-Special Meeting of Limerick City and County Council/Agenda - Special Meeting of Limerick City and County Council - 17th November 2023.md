@@ -1,3 +1,14 @@
+---
+date: 2023-11-17
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-17th-November-2023.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2020-01-14
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00%20Agenda%2014th%20January%2C%202020.pdf)
 
 ---

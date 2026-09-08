@@ -1,3 +1,14 @@
+---
+date: 2022-07-12
+body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Travel & Transportation SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Agenda-Travel-and-Transportation-Adjourned-SPC-Meeting-12th-July-2022.pdf)
 
 ---

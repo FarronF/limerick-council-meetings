@@ -1,3 +1,14 @@
+---
+date: 2024-07-08
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-annual-general-meeting-of-limerick-city-and-county-council-21st-june-2024.pdf)
 
 ---

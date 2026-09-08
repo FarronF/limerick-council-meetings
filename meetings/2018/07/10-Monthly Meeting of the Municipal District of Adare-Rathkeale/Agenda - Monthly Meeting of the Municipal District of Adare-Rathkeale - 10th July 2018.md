@@ -1,3 +1,14 @@
+---
+date: 2018-07-10
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%2010th%20July%252c%202018%20v2.pdf)
 
 ---

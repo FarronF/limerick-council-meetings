@@ -1,3 +1,14 @@
+---
+date: 2018-06-26
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28a%29%20Minutes%208th%20May%202018.pdf)
 
 ---

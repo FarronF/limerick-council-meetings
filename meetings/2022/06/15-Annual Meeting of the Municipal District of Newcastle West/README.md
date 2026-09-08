@@ -1,3 +1,14 @@
+---
+date: 2022-06-15
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 # Meeting Details
 
 **Meeting Name:** Annual Meeting of the Municipal District of Newcastle West

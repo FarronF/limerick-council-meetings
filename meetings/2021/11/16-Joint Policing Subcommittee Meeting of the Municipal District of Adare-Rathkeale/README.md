@@ -1,3 +1,14 @@
+---
+date: 2021-11-16
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Joint Policing Subcommittee Meeting of the Municipal District of Adare-Rathkeale

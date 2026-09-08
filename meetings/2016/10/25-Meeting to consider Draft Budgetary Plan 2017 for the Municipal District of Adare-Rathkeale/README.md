@@ -1,3 +1,14 @@
+---
+date: 2016-10-25
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to consider Draft Budgetary Plan 2017 for the Municipal District of Adare-Rathkeale

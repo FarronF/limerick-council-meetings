@@ -1,3 +1,14 @@
+---
+date: 2020-10-19
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-meeting-of-metropolitan-district-19th-october-2020.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2024-02-21
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting of the Municipal District of Cappamore-Kilmallock

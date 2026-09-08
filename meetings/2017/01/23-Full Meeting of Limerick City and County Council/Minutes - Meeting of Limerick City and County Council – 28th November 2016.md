@@ -1,3 +1,14 @@
+---
+date: 2017-01-23
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_ordinary_meeting_281116.pdf)
 
 ---

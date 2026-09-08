@@ -1,3 +1,14 @@
+---
+date: 2025-03-11
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee

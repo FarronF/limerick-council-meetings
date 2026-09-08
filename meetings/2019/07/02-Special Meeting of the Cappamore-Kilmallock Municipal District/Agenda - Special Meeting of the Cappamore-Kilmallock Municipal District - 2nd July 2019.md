@@ -1,3 +1,14 @@
+---
+date: 2019-07-02
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20Special%20Meeting%20Capparmore%20Kilmallock%202nd%20July%202019.pdf)
 
 ---

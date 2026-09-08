@@ -1,3 +1,14 @@
+---
+date: 2024-07-22
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-special-meeting-22.07.2024-at-2.30-pm_0.pdf)
 
 ---

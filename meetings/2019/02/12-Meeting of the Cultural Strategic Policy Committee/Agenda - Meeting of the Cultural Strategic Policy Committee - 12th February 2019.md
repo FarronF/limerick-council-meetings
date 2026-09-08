@@ -1,3 +1,14 @@
+---
+date: 2019-02-12
+body: "Cultural SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Cultural SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Agenda%20Cultural%20SPC%2012th%20Feb%202019.pdf)
 
 ---

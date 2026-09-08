@@ -1,3 +1,14 @@
+---
+date: 2023-07-10
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-10th-July-2023.pdf)
 
 ---

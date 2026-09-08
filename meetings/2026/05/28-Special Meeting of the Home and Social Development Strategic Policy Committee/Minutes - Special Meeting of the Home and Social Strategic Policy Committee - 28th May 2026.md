@@ -1,3 +1,14 @@
+---
+date: 2026-05-28
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Special"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-special-meeting-of-the-home-and-social-strategic-policy-committee-28th-may-2026.pdf)
 
 ---

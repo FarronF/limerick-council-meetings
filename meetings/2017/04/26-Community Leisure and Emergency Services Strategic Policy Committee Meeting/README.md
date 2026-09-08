@@ -1,3 +1,14 @@
+---
+date: 2017-04-26
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Community Leisure and Emergency Services Strategic Policy Committee Meeting

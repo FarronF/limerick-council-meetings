@@ -1,3 +1,14 @@
+---
+date: 2021-01-25
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/01-b-minutes-council-meeting-03.12.2020.pdf)
 
 ---

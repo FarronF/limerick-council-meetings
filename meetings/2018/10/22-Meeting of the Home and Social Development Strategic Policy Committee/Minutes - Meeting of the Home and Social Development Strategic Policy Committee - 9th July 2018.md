@@ -1,3 +1,14 @@
+---
+date: 2018-10-22
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%20of%20meeting%2009.07.18.pdf)
 
 ---

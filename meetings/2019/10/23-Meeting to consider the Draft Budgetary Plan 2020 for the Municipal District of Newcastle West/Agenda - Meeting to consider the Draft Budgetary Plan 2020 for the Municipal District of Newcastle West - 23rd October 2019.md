@@ -1,3 +1,14 @@
+---
+date: 2019-10-23
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%202019-10-23%20Agenda%20Draft%20Budget%20Plan%202020.pdf)
 
 ---

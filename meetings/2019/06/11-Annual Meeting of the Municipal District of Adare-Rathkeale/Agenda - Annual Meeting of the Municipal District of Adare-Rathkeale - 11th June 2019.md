@@ -1,3 +1,14 @@
+---
+date: 2019-06-11
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%20Agenda%2011th%20June%2C%202019.pdf)
 
 ---

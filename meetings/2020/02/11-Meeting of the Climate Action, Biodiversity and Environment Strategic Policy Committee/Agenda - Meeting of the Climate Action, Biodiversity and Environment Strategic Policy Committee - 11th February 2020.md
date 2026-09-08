@@ -1,3 +1,14 @@
+---
+date: 2020-02-11
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-11th-february-2020-climate-action-biodiversity-env-spc-meeting.pdf)
 
 ---

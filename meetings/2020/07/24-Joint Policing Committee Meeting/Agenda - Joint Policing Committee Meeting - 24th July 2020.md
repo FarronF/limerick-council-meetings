@@ -1,3 +1,14 @@
+---
+date: 2020-07-24
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/jpc-agenda-24th-july-2020.pdf)
 
 ---

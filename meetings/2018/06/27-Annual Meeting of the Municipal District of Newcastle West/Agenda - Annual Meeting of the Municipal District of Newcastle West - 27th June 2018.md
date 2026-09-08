@@ -1,3 +1,14 @@
+---
+date: 2018-06-27
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%202018-06-27%20Agenda%20Annual%20Meeting%20NCW.pdf)
 
 ---

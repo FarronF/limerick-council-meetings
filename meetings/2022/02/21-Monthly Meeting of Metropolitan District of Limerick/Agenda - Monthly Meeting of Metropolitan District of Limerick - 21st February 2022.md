@@ -1,3 +1,14 @@
+---
+date: 2022-02-21
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-february-2022.pdf)
 
 ---

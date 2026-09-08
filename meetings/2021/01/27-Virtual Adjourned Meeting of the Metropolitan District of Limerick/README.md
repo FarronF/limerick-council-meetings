@@ -1,3 +1,14 @@
+---
+date: 2021-01-27
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Adjourned Meeting of the Metropolitan District of Limerick

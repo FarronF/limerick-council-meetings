@@ -1,3 +1,14 @@
+---
+date: 2017-10-16
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Three Special Meetings of Limerick City and County Council

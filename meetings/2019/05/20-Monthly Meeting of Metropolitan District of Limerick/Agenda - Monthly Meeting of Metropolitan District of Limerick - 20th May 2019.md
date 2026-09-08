@@ -1,3 +1,14 @@
+---
+date: 2019-05-20
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/Agenda%2020th%20May%202019.pdf)
 
 ---

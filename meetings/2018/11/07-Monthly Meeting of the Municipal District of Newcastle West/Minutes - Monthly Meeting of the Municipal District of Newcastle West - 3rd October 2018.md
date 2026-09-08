@@ -1,3 +1,14 @@
+---
+date: 2018-11-07
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28a%29%202018-10-03%20Minutes%20October.pdf)
 
 ---

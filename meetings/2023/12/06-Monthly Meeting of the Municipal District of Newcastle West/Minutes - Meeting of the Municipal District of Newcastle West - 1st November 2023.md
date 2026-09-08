@@ -1,3 +1,14 @@
+---
+date: 2023-12-06
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-1st-november-2023.pdf)
 
 ---

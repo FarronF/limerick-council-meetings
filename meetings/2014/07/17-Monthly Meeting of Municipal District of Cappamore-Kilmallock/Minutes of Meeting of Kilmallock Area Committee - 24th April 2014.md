@@ -1,3 +1,14 @@
+---
+date: 2014-07-17
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_meeting_of_kilmallock_area_committee_-_24_april_2014.pdf)
 
 ---

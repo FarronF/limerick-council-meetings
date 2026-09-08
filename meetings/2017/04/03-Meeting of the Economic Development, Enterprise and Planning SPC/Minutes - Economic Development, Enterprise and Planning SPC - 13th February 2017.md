@@ -1,3 +1,14 @@
+---
+date: 2017-04-03
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_economic_development_enterprise_and_planning_spc_-_13th_february_2017.pdf)
 
 ---

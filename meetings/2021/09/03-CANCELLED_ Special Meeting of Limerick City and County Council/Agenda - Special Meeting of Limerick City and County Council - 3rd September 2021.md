@@ -1,3 +1,14 @@
+---
+date: 2021-09-03
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-08/agenda-and-requisition-special-meeting-03.09.2021.pdf)
 
 ---

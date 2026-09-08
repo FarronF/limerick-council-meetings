@@ -1,3 +1,14 @@
+---
+date: 2019-03-06
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%202018-12-05%20Mins%20JPC%20Subcommittee.pdf)
 
 ---

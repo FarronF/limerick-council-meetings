@@ -1,3 +1,14 @@
+---
+date: 2022-05-16
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Draft%20Minutes%20Monthly%20Meeting%2019th%20April%202022.pdf)
 
 ---

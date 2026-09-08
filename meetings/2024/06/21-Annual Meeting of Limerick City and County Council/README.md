@@ -1,3 +1,14 @@
+---
+date: 2024-06-21
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Annual"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Annual"
+---
+
 # Meeting Details
 
 **Meeting Name:** Annual Meeting of Limerick City and County Council

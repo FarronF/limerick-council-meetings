@@ -1,3 +1,14 @@
+---
+date: 2019-11-15
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Budget%20Meeting%2015.11.19.pdf)
 
 ---

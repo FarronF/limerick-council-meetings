@@ -1,3 +1,14 @@
+---
+date: 2019-06-07
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Annual"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%207th%20June%202019.pdf)
 
 ---

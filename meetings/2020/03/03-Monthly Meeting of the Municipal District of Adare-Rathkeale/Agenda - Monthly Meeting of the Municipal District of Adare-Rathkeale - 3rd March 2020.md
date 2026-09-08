@@ -1,3 +1,14 @@
+---
+date: 2020-03-03
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-3rd-march-2020.pdf)
 
 ---

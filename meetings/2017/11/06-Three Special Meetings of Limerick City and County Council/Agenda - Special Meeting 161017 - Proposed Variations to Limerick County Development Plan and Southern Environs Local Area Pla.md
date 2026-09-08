@@ -1,3 +1,14 @@
+---
+date: 2017-11-06
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/4%20Agenda%20-%20Special%20Meeting%20161017%20-%20Proposed%20Variations%20to%20Limerick%20County%20Development%20Plan%20and%20Southern%20Environs%20Local%20Area%20Plan.pdf)
 
 ---

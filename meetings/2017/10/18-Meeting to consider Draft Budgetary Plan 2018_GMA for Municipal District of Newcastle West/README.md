@@ -1,3 +1,14 @@
+---
+date: 2017-10-18
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to consider Draft Budgetary Plan 2018/GMA for Municipal District of Newcastle West

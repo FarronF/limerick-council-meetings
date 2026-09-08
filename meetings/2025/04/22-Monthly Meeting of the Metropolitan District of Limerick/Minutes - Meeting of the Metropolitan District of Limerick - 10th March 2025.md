@@ -1,3 +1,14 @@
+---
+date: 2025-04-22
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-metropolitan-district-of-limerick-10th-march-2025.pdf)
 
 ---

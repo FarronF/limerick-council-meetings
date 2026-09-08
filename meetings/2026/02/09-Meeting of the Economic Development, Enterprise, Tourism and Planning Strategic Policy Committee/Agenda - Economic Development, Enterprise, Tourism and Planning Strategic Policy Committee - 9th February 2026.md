@@ -1,3 +1,14 @@
+---
+date: 2026-02-09
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/09.02.2026-economic-development-enterprise-tourism-and-planning-spc-agenda.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2014-06-10
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Annual"
+---
+
 # Meeting Details
 
 **Meeting Name:** Inaugural Annual Meeting of Municipal District of Adare-Rathkeale

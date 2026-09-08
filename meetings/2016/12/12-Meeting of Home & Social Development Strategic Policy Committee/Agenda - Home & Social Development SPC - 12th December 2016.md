@@ -1,3 +1,14 @@
+---
+date: 2016-12-12
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_home_social_development_spc_-_12th_december_2016.pdf)
 
 ---

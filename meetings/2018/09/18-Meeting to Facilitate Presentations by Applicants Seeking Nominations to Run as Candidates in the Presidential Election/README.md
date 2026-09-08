@@ -1,3 +1,14 @@
+---
+date: 2018-09-18
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting to Facilitate Presentations by Applicants Seeking Nominations to Run as Candidates in the Presidential Election

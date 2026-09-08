@@ -1,3 +1,14 @@
+---
+date: 2020-09-21
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01b-draft-minutes-monthly-meeting-20th-july-2020.pdf)
 
 ---

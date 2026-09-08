@@ -1,3 +1,14 @@
+---
+date: 2020-07-03
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Special"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/spc-meeting-agenda-july-2020-.pdf)
 
 ---

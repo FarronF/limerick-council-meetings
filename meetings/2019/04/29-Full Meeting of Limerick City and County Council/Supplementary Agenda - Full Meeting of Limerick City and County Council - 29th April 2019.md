@@ -1,3 +1,14 @@
+---
+date: 2019-04-29
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%28b%29%20Supplementary%20Agenda.pdf)
 
 ---

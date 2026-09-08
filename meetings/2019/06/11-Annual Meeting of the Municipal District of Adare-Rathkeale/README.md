@@ -1,3 +1,14 @@
+---
+date: 2019-06-11
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Annual"
+---
+
 # Meeting Details
 
 **Meeting Name:** Annual Meeting of the Municipal District of Adare-Rathkeale

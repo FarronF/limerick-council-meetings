@@ -1,3 +1,14 @@
+---
+date: 2018-11-21
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/02%20Minutes%20JPC%20Meeting%2021st%20Nov%202018.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2025-07-10
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-minutes-of-annual-meeting-17th-june-2025.pdf)
 
 ---

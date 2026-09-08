@@ -1,3 +1,14 @@
+---
+date: 2021-01-27
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-adjourned-meeting-27th-january-2021.pdf)
 
 ---

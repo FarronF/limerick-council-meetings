@@ -1,3 +1,14 @@
+---
+date: 2026-06-19
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-annual-meeting-of-the-municipal-district-of-newcastle-west-19th-june-2026.pdf)
 
 ---

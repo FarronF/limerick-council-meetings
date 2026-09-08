@@ -1,3 +1,14 @@
+---
+date: 2020-06-09
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020-annual.pdf)
 
 ---

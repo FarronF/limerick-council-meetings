@@ -1,3 +1,14 @@
+---
+date: 2016-07-15
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Special"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Economic%20Development%2C%20Enterprise%20and%20Planning%20SPC%20-%2015th%20July%202016.pdf)
 
 ---

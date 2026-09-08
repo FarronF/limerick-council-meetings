@@ -1,3 +1,14 @@
+---
+date: 2020-07-07
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-b-minutes-of-annual-meeting-9th-june-2020.pdf)
 
 ---

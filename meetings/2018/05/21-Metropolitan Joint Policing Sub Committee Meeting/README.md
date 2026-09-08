@@ -1,3 +1,14 @@
+---
+date: 2018-05-21
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Metropolitan Joint Policing Sub Committee Meeting

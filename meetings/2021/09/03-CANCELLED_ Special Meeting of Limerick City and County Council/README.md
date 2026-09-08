@@ -1,3 +1,14 @@
+---
+date: 2021-09-03
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** CANCELLED: Special Meeting of Limerick City and County Council

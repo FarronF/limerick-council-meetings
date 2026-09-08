@@ -1,3 +1,14 @@
+---
+date: 2020-09-04
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-08/00-agenda-special-meeting-4th-september-2020.pdf)
 
 ---

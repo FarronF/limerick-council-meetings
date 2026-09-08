@@ -1,3 +1,14 @@
+---
+date: 2024-09-03
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-08/00-agenda-3rd-september-2024.pdf)
 
 ---

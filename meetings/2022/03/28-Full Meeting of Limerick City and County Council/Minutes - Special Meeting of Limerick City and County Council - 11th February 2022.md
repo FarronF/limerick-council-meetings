@@ -1,3 +1,14 @@
+---
+date: 2022-03-28
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-b-minutes-special-meeting-11th-february-2022.pdf)
 
 ---

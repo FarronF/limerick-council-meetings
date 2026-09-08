@@ -1,3 +1,14 @@
+---
+date: 2015-11-04
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Adjourned Draft Budgetary Plan Meeting for the Municipal District of Adare-Rathkeale

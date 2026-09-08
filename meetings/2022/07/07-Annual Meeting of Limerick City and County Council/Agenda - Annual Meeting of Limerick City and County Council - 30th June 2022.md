@@ -1,3 +1,14 @@
+---
+date: 2022-07-07
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Annual"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda%20-%20Annual%20Meeting%2030.06.2022.pdf)
 
 ---

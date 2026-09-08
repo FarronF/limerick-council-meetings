@@ -1,3 +1,14 @@
+---
+date: 2015-02-19
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02-minutes_of_special_meeting_08.01.2015.pdf)
 
 ---

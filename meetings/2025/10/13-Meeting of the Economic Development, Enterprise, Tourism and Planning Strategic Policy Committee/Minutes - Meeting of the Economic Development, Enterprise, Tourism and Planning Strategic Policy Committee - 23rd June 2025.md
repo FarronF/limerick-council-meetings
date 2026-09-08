@@ -1,3 +1,14 @@
+---
+date: 2025-10-13
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-23rd-june-2025.pdf)
 
 ---

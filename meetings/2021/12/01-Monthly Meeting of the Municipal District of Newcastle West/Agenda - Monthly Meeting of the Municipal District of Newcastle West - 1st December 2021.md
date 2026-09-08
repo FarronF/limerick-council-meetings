@@ -1,3 +1,14 @@
+---
+date: 2021-12-01
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-2021-12-01-agenda-december-.pdf)
 
 ---

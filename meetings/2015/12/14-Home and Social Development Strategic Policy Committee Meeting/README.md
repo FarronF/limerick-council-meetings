@@ -1,3 +1,14 @@
+---
+date: 2015-12-14
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Home and Social Development Strategic Policy Committee Meeting

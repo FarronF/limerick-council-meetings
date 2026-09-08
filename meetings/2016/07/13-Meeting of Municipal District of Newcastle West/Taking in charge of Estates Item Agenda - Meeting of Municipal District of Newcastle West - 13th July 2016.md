@@ -1,3 +1,14 @@
+---
+date: 2016-07-13
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Taking%20in%20charge%20of%20Estates%20Item%20Agenda%20-%20Meeting%20of%20Municipal%20District%20of.pdf)
 
 ---

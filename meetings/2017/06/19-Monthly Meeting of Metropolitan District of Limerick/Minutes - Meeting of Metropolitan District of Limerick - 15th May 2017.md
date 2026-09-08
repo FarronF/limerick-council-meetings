@@ -1,3 +1,14 @@
+---
+date: 2017-06-19
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20May%202017.pdf)
 
 ---

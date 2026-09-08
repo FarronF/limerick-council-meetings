@@ -1,3 +1,14 @@
+---
+date: 2021-10-18
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02a-draft-minutes-special-meeting-17th-september-2021.pdf)
 
 ---

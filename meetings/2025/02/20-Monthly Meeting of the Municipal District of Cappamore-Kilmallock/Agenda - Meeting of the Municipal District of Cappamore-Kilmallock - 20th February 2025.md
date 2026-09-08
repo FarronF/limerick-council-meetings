@@ -1,3 +1,14 @@
+---
+date: 2025-02-20
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/01-agenda-ck-md-meeting-20th-feb-2025.pdf)
 
 ---

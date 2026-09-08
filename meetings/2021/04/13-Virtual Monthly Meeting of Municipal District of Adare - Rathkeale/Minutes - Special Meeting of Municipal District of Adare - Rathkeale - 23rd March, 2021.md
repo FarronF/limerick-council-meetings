@@ -1,3 +1,14 @@
+---
+date: 2021-04-13
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-b-minutes-of-special-meeting-23rd-march-2021.pdf)
 
 ---

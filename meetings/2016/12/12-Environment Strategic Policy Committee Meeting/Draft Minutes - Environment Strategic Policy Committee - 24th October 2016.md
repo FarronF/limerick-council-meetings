@@ -1,3 +1,14 @@
+---
+date: 2016-12-12
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/draft_minutes_-_environment_strategic_policy_committee_-_24_october_2016.pdf)
 
 ---

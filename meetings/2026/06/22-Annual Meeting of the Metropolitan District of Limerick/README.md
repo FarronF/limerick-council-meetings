@@ -1,3 +1,14 @@
+---
+date: 2026-06-22
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Annual"
+---
+
 # Meeting Details
 
 **Meeting Name:** Annual Meeting of the Metropolitan District of Limerick

@@ -1,3 +1,14 @@
+---
+date: 2016-09-20
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_meeting_held_15th_april_2016.pdf)
 
 ---

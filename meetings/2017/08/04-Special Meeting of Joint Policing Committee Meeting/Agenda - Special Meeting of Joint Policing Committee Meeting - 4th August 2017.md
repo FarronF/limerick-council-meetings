@@ -1,3 +1,14 @@
+---
+date: 2017-08-04
+body: "Joint Policing Committee"
+category: "Committee"
+meeting_type: "Special"
+tags:
+  - "Joint Policing Committee"
+  - "Committee"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda.pdf)
 
 ---

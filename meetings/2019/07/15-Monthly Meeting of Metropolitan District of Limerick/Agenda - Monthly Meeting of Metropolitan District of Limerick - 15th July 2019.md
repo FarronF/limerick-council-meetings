@@ -1,3 +1,14 @@
+---
+date: 2019-07-15
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%2015th%20July%202019.pdf)
 
 ---

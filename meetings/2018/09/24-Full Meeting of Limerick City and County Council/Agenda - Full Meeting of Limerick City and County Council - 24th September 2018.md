@@ -1,3 +1,14 @@
+---
+date: 2018-09-24
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20September%20Meeting%20240918.pdf)
 
 ---

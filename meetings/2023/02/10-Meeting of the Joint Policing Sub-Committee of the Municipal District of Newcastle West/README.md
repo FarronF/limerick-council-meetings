@@ -1,3 +1,14 @@
+---
+date: 2023-02-10
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West

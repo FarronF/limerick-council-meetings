@@ -1,3 +1,14 @@
+---
+date: 2023-02-10
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%202023-02-10%20Agenda%20-%20Meeting%20of%20the%20Joint%20Policing%20Sub-Committee%20of%20the%20Municipal%20District%20of%20Newcastle%20West-10th%20February%2023.pdf)
 
 ---

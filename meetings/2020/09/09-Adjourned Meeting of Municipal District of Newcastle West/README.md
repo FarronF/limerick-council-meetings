@@ -1,3 +1,14 @@
+---
+date: 2020-09-09
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Adjourned Meeting of Municipal District of Newcastle West

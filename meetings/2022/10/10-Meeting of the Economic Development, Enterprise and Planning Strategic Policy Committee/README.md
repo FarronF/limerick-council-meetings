@@ -1,3 +1,14 @@
+---
+date: 2022-10-10
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee

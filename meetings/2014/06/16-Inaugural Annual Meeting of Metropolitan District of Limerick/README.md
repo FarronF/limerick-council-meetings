@@ -1,3 +1,14 @@
+---
+date: 2014-06-16
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Annual"
+---
+
 # Meeting Details
 
 **Meeting Name:** Inaugural Annual Meeting of Metropolitan District of Limerick

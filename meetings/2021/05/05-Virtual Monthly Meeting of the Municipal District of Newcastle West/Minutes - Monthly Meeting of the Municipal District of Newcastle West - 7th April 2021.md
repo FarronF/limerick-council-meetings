@@ -1,3 +1,14 @@
+---
+date: 2021-05-05
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-2021-04-07-minutes-april.pdf)
 
 ---

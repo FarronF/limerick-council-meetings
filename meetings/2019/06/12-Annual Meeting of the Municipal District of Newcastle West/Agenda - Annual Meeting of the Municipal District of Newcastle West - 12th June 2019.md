@@ -1,3 +1,14 @@
+---
+date: 2019-06-12
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%202019-06-12%20Agenda.pdf)
 
 ---

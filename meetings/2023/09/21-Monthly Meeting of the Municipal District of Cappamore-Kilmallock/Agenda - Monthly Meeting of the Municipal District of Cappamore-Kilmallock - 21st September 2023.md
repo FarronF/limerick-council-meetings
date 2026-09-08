@@ -1,3 +1,14 @@
+---
+date: 2023-09-21
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/1-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-21st-September-2023.pdf)
 
 ---

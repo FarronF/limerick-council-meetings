@@ -1,3 +1,14 @@
+---
+date: 2018-07-23
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%20July%20Meeting%20of%20Council.pdf)
 
 ---

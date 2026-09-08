@@ -1,3 +1,14 @@
+---
+date: 2014-11-17
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_adjourned_draft_budgetary_plan_meeting.pdf)
 
 ---

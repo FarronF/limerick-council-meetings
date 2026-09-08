@@ -1,3 +1,14 @@
+---
+date: 2019-10-29
+body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Home & Social Development SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20for%20SPC%20Meeting%2029.10.2019.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2020-02-05
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-2020-01-08-minutes-january.pdf)
 
 ---

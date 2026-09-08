@@ -1,3 +1,14 @@
+---
+date: 2021-07-08
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-8th-july-2021.pdf)
 
 ---

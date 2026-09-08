@@ -1,3 +1,14 @@
+---
+date: 2020-07-13
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/agenda-special-meeting-13-07-2020.pdf)
 
 ---

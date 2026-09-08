@@ -1,3 +1,14 @@
+---
+date: 2022-11-25
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Statutory Budget Meeting of Limerick City and County Council

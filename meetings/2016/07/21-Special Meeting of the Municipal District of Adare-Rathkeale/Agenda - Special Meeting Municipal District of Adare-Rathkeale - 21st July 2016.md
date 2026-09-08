@@ -1,3 +1,14 @@
+---
+date: 2016-07-21
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%202.pdf)
 
 ---

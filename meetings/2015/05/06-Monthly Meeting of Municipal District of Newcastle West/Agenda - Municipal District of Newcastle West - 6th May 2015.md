@@ -1,3 +1,14 @@
+---
+date: 2015-05-06
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda_may_meeting_of_newcastle_west.pdf)
 
 ---

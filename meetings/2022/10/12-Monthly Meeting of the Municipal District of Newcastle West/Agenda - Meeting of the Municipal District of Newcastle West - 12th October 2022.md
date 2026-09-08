@@ -1,3 +1,14 @@
+---
+date: 2022-10-12
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%202022-10-12%20Agenda%20October.pdf)
 
 ---

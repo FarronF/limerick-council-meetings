@@ -1,3 +1,14 @@
+---
+date: 2020-06-26
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-b-minutes-ordinary-meeting-27.01.2020.pdf)
 
 ---

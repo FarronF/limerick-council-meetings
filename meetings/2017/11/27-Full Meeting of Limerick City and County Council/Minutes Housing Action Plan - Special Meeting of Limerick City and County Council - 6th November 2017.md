@@ -1,3 +1,14 @@
+---
+date: 2017-11-27
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28d%29%20Minutes%20Housing%20Action%20Plan%20061117.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2020-12-10
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-agenda-for-dec-2020-jpc-sub-committee-mtg.pdf)
 
 ---

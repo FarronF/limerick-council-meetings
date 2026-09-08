@@ -1,3 +1,14 @@
+---
+date: 2024-01-31
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
 
 ---

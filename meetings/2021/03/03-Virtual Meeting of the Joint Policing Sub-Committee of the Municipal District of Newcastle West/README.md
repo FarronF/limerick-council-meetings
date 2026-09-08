@@ -1,3 +1,14 @@
+---
+date: 2021-03-03
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West

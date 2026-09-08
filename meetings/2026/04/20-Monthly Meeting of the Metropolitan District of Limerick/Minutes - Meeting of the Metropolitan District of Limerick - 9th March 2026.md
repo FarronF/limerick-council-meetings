@@ -1,3 +1,14 @@
+---
+date: 2026-04-20
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-metropolitan-district-of-limerick-9th-march-2026.pdf)
 
 ---

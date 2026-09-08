@@ -1,3 +1,14 @@
+---
+date: 2022-07-11
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28b%29-Minutes-Special-Meeting-02-06-2022.pdf)
 
 ---

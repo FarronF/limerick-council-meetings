@@ -1,3 +1,14 @@
+---
+date: 2024-03-25
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-special-meeting-of-limerick-city-and-county-council-26.02.2024-2pm.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2021-11-08
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/agenda-special-meeting-of-the-metropolitan-district-of-limerick-8th-november-2021.pdf)
 
 ---

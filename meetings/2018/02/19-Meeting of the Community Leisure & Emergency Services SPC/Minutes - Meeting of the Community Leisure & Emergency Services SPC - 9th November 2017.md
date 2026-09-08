@@ -1,3 +1,14 @@
+---
+date: 2018-02-19
+body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Community, Leisure & Emergency Services SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20meeting%2009.11.17.pdf)
 
 ---

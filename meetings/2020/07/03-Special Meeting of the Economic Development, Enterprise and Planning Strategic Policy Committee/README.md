@@ -1,3 +1,14 @@
+---
+date: 2020-07-03
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Special"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Special"
+---
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee

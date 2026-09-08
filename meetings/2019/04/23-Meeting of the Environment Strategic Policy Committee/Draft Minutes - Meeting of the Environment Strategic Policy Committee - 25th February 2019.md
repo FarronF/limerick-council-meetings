@@ -1,3 +1,14 @@
+---
+date: 2019-04-23
+body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Environment SPC"
+  - "Committee"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Draft-Minutes-of-the-Environment-Strategic-Policy-Committee-Meeting-25-Feb-2019.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2019-12-12
+body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Cappamore-Kilmallock"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01-Agenda-MD-Meeting-12th-Dec-2019.pdf)
 
 ---

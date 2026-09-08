@@ -1,3 +1,14 @@
+---
+date: 2015-01-26
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_for_limerick_city_county_council_-_26th_january_2015_0.pdf)
 
 ---

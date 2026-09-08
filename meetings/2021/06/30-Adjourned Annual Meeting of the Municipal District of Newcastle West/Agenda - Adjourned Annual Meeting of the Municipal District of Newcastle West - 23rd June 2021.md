@@ -1,3 +1,14 @@
+---
+date: 2021-06-30
+body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+tags:
+  - "Newcastle West"
+  - "Municipal District"
+  - "Annual"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-2021-06-30-agenda-adj-agm.pdf)
 
 ---

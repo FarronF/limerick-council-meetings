@@ -1,3 +1,14 @@
+---
+date: 2020-06-30
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Special"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-special-meeting-30.06.2020_1.pdf)
 
 ---

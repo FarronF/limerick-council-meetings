@@ -1,3 +1,14 @@
+---
+date: 2015-11-10
+body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Adare-Rathkeale"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Draft%20Budgetary%20Plan%202016%20-%20General%20Municipal%20Allocation%20-%2020th%20October%202015.pdf)
 
 ---

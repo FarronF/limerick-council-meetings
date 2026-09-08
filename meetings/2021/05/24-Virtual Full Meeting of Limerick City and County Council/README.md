@@ -1,3 +1,14 @@
+---
+date: 2021-05-24
+body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+tags:
+  - "Limerick City and County Council"
+  - "Full Council"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Virtual Full Meeting of Limerick City and County Council

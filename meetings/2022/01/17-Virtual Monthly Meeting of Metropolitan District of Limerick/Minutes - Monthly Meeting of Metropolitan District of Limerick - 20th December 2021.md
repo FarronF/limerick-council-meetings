@@ -1,3 +1,14 @@
+---
+date: 2022-01-17
+body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+tags:
+  - "Metropolitan District"
+  - "Municipal District"
+  - "Regular"
+---
+
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-draft-minutes-monthly-meeting-20th-december-2021.pdf)
 
 ---

@@ -1,3 +1,14 @@
+---
+date: 2026-04-13
+body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+tags:
+  - "Economic Development & Planning SPC"
+  - "Committee"
+  - "Regular"
+---
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee
