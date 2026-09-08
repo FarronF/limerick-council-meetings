@@ -199,5 +199,5 @@
     runSearch();
   }
 
-  window.addEventListener('DOMContentLoaded', init);
+  init();
 </script>
