@@ -2,7 +2,7 @@ site_name: Meeting Minutes & Agendas
 docs_dir: docs
 
 theme:
-  name: material
+  name: mkdocs
 
 plugins:
   - search
