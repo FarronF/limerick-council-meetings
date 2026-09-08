@@ -264,13 +264,10 @@ hide:
     });
   }
 
+  let searchSequence = 0;
+
   async function runSearch(isFilterChange = false) {
-    // Cancel any pending search operation
-    if (currentAbortController) {
-      currentAbortController.abort();
-    }
-    currentAbortController = new AbortController();
-    const signal = currentAbortController.signal;
+    const currentSequence = ++searchSequence;
 
     const query = document.getElementById('pf-input').value.trim();
     const selectedFilters = {};
@@ -288,14 +285,13 @@ hide:
     document.getElementById('pf-clear-all').style.display = totalActiveFilters > 0 ? 'inline' : 'none';
 
     try {
-      // Pass the abort signal into pagefind search options
+      // Pagefind search call without the invalid signal parameter
       const response = await pagefind.search(query || null, { 
-        filters: selectedFilters,
-        signal: signal 
+        filters: selectedFilters
       });
 
-      // If aborted, exit early silently
-      if (signal.aborted) return;
+      // If a newer search started while we were waiting, discard these results
+      if (currentSequence !== searchSequence) return;
 
       allResults = response.results;
       currentRenderCount = 20;
@@ -308,9 +304,7 @@ hide:
 
       renderResultsSlice();
     } catch (err) {
-      if (err.name !== 'AbortError') {
-        console.error(err);
-      }
+      console.error(err);
     }
   }
 
