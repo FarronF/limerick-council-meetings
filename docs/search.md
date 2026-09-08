@@ -270,27 +270,36 @@ hide:
     const currentSequence = ++searchSequence;
 
     const query = document.getElementById('pf-input').value.trim();
-    const selectedFilters = {};
+    const rawFilters = {};
     let totalActiveFilters = 0;
 
+    // Collect checked inputs into arrays per category
     document.querySelectorAll('#pf-filters-container input[type="checkbox"]:checked').forEach(cb => {
       const cat = cb.name;
-      if (!selectedFilters[cat]) {
-        selectedFilters[cat] = [];
+      if (!rawFilters[cat]) {
+        rawFilters[cat] = [];
       }
-      selectedFilters[cat].push(cb.value);
+      rawFilters[cat].push(cb.value);
       totalActiveFilters++;
     });
 
     document.getElementById('pf-clear-all').style.display = totalActiveFilters > 0 ? 'inline' : 'none';
 
+    // Format filters: multiple items in a category use { any: [...] } for OR logic
+    const formattedFilters = {};
+    for (const [cat, values] of Object.entries(rawFilters)) {
+      if (values.length > 1) {
+        formattedFilters[cat] = { any: values };
+      } else {
+        formattedFilters[cat] = values[0];
+      }
+    }
+
     try {
-      // Pagefind search call without the invalid signal parameter
       const response = await pagefind.search(query || null, { 
-        filters: selectedFilters
+        filters: formattedFilters
       });
 
-      // If a newer search started while we were waiting, discard these results
       if (currentSequence !== searchSequence) return;
 
       allResults = response.results;
