@@ -5,9 +5,3 @@ docs_dir: meetings
 theme:
   name: mkdocs
   highlightjs: true
-
-nav:
-  - Home: index.md
-
-validation:
-  unlisted_pages: ignore
