@@ -1,16 +1,14 @@
 site_name: Meeting Minutes & Agendas
 docs_dir: docs
 
-# theme:
-#   name: mkdocs
-#   custom_dir: overrides
 theme:
-  name: material
-  custom_dir: overrides
-  features:
-    - navigation.path # Enables clickable breadcrumb trails above titles
-    - search.suggest
-    - search.highlight
+  name: mkdocs
+
+plugins:
+  - search
+  - mkdocs-breadcrumbs-plugin:
+      delimiter: ' > '
+      use_page_titles: true
 
 nav:
   - Home: index.md
