@@ -1,0 +1,16 @@
+# 2018 — 06 - June
+
+* 📁 [07 A Special Meeting Of The Metropolitan District Of Limerick, To Pass A Vote Of Sympathy On The Death Of Former Councillor, Seamus Houlihan Rip](07-A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP/README.md)
+* 📁 [11 Meeting Of The Economic Development, Enterprise And Planning Spc](11-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
+* 📁 [13 Special Meeting Of Limerick City And County Council](13-Special Meeting of Limerick City and County Council/README.md)
+* 📁 [15 Monthly Meeting Of The Municipal District Of Newcastle West](15-Monthly Meeting of the Municipal District of Newcastle West/README.md)
+* 📁 [18 Meeting Of The Community Leisure & Emergency Services Spc](18-Meeting of the Community Leisure & Emergency Services SPC/README.md)
+* 📁 [18 Monthly Meeting Of Metropolitan District Of Limerick](18-Monthly Meeting of Metropolitan District of Limerick/README.md)
+* 📁 [25 Annual Meeting Of The Metropolitan District Of Limerick 2018](25-Annual Meeting of the Metropolitan District of Limerick 2018/README.md)
+* 📁 [25 Meeting Of The Environment Spc](25-Meeting of the Environment SPC/README.md)
+* 📁 [26 Annual Meeting Of The Municipal District Of Adare Rathkeale](26-Annual Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [26 Monthly Meeting Of The Municipal District Of Adare Rathkeale](26-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [27 Annual Meeting Of The Municipal District Of Newcastle West](27-Annual Meeting of the Municipal District of Newcastle West/README.md)
+* 📁 [28 Annual Meeting Of The Municipal District Of Cappamore Kilmallock](28-Annual Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [28 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](28-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [29 Annual Meeting Of Limerick City And County Council](29-Annual Meeting of Limerick City and County Council/README.md)

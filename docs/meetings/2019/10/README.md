@@ -1,0 +1,17 @@
+# 2019 — 10 - October
+
+* 📁 [07 Special Meeting Of Metropolitan District Of Limerick](07-Special Meeting of Metropolitan District of Limerick/README.md)
+* 📁 [08 Monthly Meeting Of The Municipal District Of Adare Rathkeale](08-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [09 Monthly Meeting Of The Municipal District Of Newcastle West](09-Monthly Meeting of the Municipal District of Newcastle West/README.md)
+* 📁 [09 Municipal District Of Newcastle West Joint Policing Sub Committee Meeting](09-Municipal District of Newcastle West Joint Policing Sub Committee Meeting/README.md)
+* 📁 [11 Meeting Of The Limerick City And County Council Joint Policing Committee](11-Meeting of the Limerick City and County Council Joint Policing Committee/README.md)
+* 📁 [15 Meeting Of The Travel And Transportation Strategic Policy Committee](15-Meeting of the Travel and Transportation Strategic Policy Committee/README.md)
+* 📁 [16 Meeting Of The Economic Development, Enterprise And Planning Spc](16-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
+* 📁 [17 Meeting To Consider The Draft Budgetary Plan 2020 For The Municipal District Of Cappamore Kilmallock](17-Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [17 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](17-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [18 Meeting To Consider The Draft Budgetary Plan 2020 For The Metropolitan District Of Limerick](18-Meeting to consider the Draft Budgetary Plan 2020 for the Metropolitan District of Limerick/README.md)
+* 📁 [21 Monthly Meeting Of Metropolitan District Of Limerick](21-Monthly Meeting of Metropolitan District of Limerick/README.md)
+* 📁 [22 Meeting Of The Climate Action, Biodiversity And Environment Strategic Policy Committee](22-Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee/README.md)
+* 📁 [23 Meeting To Consider The Draft Budgetary Plan 2020 For The Municipal District Of Adare Rathkeale](23-Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [23 Meeting To Consider The Draft Budgetary Plan 2020 For The Municipal District Of Newcastle West](23-Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Newcastle West/README.md)
+* 📁 [29 Meeting Of The Home And Social Development Strategic Policy Committee](29-Meeting of the Home and Social Development Strategic Policy Committee/README.md)

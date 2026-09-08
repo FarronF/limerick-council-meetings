@@ -1,0 +1,16 @@
+# 2020 — 06 - June
+
+* 📁 [08 Virtual Meeting Of The Economic Development, Enterprise And Planning Spc](08-Virtual Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
+* 📁 [09 Annual Meeting Of The Municipal District Of Adare Rathkeale](09-Annual Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [09 Monthly Meeting Of The Municipal District Of Adare Rathkeale](09-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [10 Annual Meeting Of The Municipal District Of Newcastle West](10-Annual Meeting of the Municipal District of Newcastle West/README.md)
+* 📁 [10 Monthly Meeting Of The Municipal District Of Newcastle West](10-Monthly Meeting of the Municipal District of Newcastle West/README.md)
+* 📁 [10 Special Meeting (Quorum Only) Of Limerick City And County Council](10-Special Meeting (Quorum Only) of Limerick City and County Council/README.md)
+* 📁 [15 Annual Meeting Of The Metropolitan District Of Limerick](15-Annual Meeting of the Metropolitan District of Limerick/README.md)
+* 📁 [15 Monthly Meeting Of Metropolitan District Of Limerick](15-Monthly Meeting of Metropolitan District of Limerick/README.md)
+* 📁 [22 Virtual Meeting Of The Home And Social Development Strategic Policy Committee](22-Virtual Meeting of the Home and Social Development Strategic Policy Committee/README.md)
+* 📁 [23 Annual Meeting Of The Cappamore Kilmallock Municipal District](23-Annual Meeting of the Cappamore Kilmallock Municipal District/README.md)
+* 📁 [23 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](23-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [26 Full Meeting Of Limerick City And County Council](26-Full Meeting of Limerick City and County Council/README.md)
+* 📁 [30 Annual Meeting Of Limerick City And County Council](30-Annual Meeting of Limerick City and County Council/README.md)
+* 📁 [30 Special Meeting Of Limerick City And County Council](30-Special Meeting of Limerick City and County Council/README.md)

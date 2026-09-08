@@ -1,0 +1,15 @@
+# 2016 — 06 - June
+
+* 📁 [01 Annual Meeting Of The Municipal District Of Adare Rathkeale](01-Annual Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [01 Meeting Of Municipal District Of Newcastle West](01-Meeting of Municipal District of Newcastle West/README.md)
+* 📁 [01 Monthly Meeting Of The Municipal District Of Adare Rathkeale](01-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [02 Meeting Of The Strategic Policy Committee For Travel And Transportation](02-Meeting of the Strategic Policy Committee for Travel and Transportation/README.md)
+* 📁 [03 Meeting Of The Strategic Policy Committee For Environment](03-Meeting of the Strategic Policy Committee for Environment/README.md)
+* 📁 [14 Economic Development, Enterprise And Planning Strategic Policy Committee Meeting](14-Economic Development, Enterprise and Planning Strategic Policy Committee Meeting/README.md)
+* 📁 [20 Monthly Meeting Of Metropolitan District Of Limerick](20-Monthly Meeting of Metropolitan District of Limerick/README.md)
+* 📁 [20 Special Meeting Of Limerick City And County Council](20-Special Meeting of Limerick City and County Council/README.md)
+* 📁 [23 Annual Meeting Of Municipal District Of Cappamore Kilmallock](23-Annual Meeting of Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [23 Monthly Meeting Of Municipal District Of Cappamore Kilmallock](23-Monthly Meeting of Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [24 Annual Meeting Of The Metropolitan District Of Limerick](24-Annual Meeting of the Metropolitan District of Limerick/README.md)
+* 📁 [27 Annual Meeting Of Limerick City And County Council](27-Annual Meeting of Limerick City and County Council/README.md)
+* 📁 [29 Annual Meeting Of Municipal District Of Newcastle West](29-Annual Meeting of Municipal District of Newcastle West/README.md)

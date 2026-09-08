@@ -1,0 +1,16 @@
+# 2018 — 10 - October
+
+* 📁 [03 Monthly Meeting Of The Municipal District Of Newcastle West](03-Monthly Meeting of the Municipal District of Newcastle West/README.md)
+* 📁 [08 Meeting Of The Economic Development, Enterprise And Planning Spc](08-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
+* 📁 [08 Meeting Of The Travel And Transportation Strategic Policy Committee](08-Meeting of the Travel and Transportation Strategic Policy Committee/README.md)
+* 📁 [15 Meeting Of The Community Leisure And Emergency Services Strategic Policy Committee](15-Meeting of the Community Leisure and Emergency Services Strategic Policy Committee/README.md)
+* 📁 [15 Meeting To Consider The Draft Budgetary Plan 2019 For The Metropolitan District Of Limerick](15-Meeting to consider the Draft Budgetary Plan 2019 for the Metropolitan District of Limerick/README.md)
+* 📁 [15 Monthly Meeting Of Metropolitan District Of Limerick](15-Monthly Meeting of Metropolitan District of Limerick/README.md)
+* 📁 [16 Meeting To Consider The Draft Budgetary Plan 2019 For The Municipal District Of Adare Rathkeale](16-Meeting to consider the Draft Budgetary Plan 2019 for the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [16 Monthly Meeting Of The Municipal District Of Adare Rathkeale](16-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [16 Special Meeting Of The Municipal District Of Adare Rathkeale](16-Special Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* 📁 [18 Meeting To Consider Draft Budgetary Plan 2019 For The Municipal District Of Cappamore Kilmallock](18-Meeting to consider Draft Budgetary Plan 2019 for the Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [18 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](18-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
+* 📁 [19 Meeting To Consider The Draft Budgetary Plan 2019 For The Municipal District Of Newcastle West](19-Meeting to consider the Draft Budgetary Plan 2019 for the Municipal District of Newcastle West/README.md)
+* 📁 [22 Meeting Of The Environment Strategic Policy Committee](22-Meeting of the Environment Strategic Policy Committee/README.md)
+* 📁 [22 Meeting Of The Home And Social Development Strategic Policy Committee](22-Meeting of the Home and Social Development Strategic Policy Committee/README.md)
