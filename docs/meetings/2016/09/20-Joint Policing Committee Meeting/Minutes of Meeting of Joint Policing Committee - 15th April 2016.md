@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Joint Policing Committee</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2016-09 (September)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-09</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_meeting_held_15th_april_2016.pdf)
 

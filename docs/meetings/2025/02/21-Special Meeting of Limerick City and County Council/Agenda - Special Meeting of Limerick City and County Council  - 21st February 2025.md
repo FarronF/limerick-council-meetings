@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2025-02 (February)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
 

@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2017-02 (February)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-02</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_16th_february2c_2017.pdf)
 

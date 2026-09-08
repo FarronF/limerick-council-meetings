@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2026-07 (July)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-1st-july-2026_0.pdf)
 

@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2017-05 (May)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01%202017-04-12%20Minutes%20April%20Meeting%20Municipal%20District%20%20Newcastle%20West%20.pdf)
 

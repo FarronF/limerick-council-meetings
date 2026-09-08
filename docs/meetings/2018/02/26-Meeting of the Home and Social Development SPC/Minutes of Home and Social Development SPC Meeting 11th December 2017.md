@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2018-02 (February)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20Home%20and%20Social%20Development%20SPC%20Meeting%2011.12.17.pdf)
 

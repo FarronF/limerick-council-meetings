@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2019-04 (April)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
 # Meeting Details
 

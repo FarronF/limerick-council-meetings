@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2014-06 (June)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/limerick_city_and_county_council_agenda_-_20_june_2014.pdf)
 

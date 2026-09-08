@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2017-02 (February)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-02</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_270217.pdf)
 

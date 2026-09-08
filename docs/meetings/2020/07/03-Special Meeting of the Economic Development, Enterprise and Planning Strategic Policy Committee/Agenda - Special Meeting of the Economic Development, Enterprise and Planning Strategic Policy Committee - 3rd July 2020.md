@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2020-07 (July)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/spc-meeting-agenda-july-2020-.pdf)
 

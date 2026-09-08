@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2023-02 (February)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2012th%20December%202022.pdf)
 

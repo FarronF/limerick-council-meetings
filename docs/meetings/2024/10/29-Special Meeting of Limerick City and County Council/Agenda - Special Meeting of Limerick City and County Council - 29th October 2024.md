@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2024-10 (October)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/00-agenda-and-requisition-special-meeting-29.10.2024.pdf)
 

@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2016-04 (April)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Home%20%26%20Social%20Development%20SPC%20-%2011th%20April%202016.pdf)
 

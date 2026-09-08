@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Joint Policing Committee</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2023-09 (September)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-Joint-Policing-Committee-22nd-September-2023.pdf)
 

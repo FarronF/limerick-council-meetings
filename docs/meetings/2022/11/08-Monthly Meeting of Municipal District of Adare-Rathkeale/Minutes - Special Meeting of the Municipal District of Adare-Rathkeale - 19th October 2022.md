@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2022-11 (November)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28b%29%20Minutes%20of%20Special%20Meeting%2019th%20October%2C%202022.pdf)
 

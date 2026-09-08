@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2014-10 (October)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/metropolitan_district_of_limerick_-_minutes_of_meeting_-_15th_september_2014.pdf)
 

@@ -8,7 +8,7 @@ meeting_type: "Annual"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2017-06 (June)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%2015th%20June%252c%202017.pdf)
 

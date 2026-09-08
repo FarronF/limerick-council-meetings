@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cultural SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2018-11 (November)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%20-%20Meeting%20of%20the%20Cultural%20SPC%20-%205th%20November%202018.pdf)
 

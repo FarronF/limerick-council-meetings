@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2023-09 (September)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-4th-September-2023.pdf)
 

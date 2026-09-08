@@ -110,7 +110,7 @@ for root, dirs, files in os.walk(MEETINGS_DIR):
 
                 try:
                     dt = datetime.datetime.strptime(formatted_date, "%Y-%m-%d")
-                    date_filter_val = dt.strftime("%Y-%m (%B)")
+                    date_filter_val = dt.strftime("%Y-%m")
                 except ValueError:
                     date_filter_val = formatted_date
 

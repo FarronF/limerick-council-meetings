@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2018-03 (March)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-20%20Agenda%20Special%20Meeting%20on%20Roads%20issues.pdf)
 

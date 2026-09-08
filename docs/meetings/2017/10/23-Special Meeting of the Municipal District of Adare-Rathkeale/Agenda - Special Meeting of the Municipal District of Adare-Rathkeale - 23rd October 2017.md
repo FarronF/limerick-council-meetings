@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2017-10 (October)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2023rd%20October%202017.pdf)
 

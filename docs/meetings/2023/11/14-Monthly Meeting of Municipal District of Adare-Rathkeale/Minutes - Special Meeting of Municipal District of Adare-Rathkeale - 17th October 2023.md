@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2023-11 (November)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-b-Minutes-Special-Meeting-of-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
 

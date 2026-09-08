@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2022-09 (September)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Draft%20Minutes%20Monthly%20Meeting%2020th%20July%202022.pdf)
 

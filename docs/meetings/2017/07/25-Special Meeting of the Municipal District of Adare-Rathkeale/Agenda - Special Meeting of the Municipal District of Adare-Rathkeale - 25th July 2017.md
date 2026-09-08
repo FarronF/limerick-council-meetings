@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2017-07 (July)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%2025th%20July%252c%202017%20%281%29.pdf)
 

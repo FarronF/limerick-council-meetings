@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2022-09 (September)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/07%20Signed%20Agenda%20Cover%20Letter_Part%208%20for%20Cappamore%20Fire%20Station%20Refurbishment.pdf)
 

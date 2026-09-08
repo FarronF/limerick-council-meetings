@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2025-04 (April)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-travel-transportation-spc-meeting-19th-february-2025.pdf)
 

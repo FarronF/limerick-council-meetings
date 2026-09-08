@@ -8,7 +8,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2018-12 (December)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/Draft%20Minutes%20of%20the%20Environment%20Strategic%20Policy%20Committee%20-%2022nd%20Oct%202018.pdf)
 

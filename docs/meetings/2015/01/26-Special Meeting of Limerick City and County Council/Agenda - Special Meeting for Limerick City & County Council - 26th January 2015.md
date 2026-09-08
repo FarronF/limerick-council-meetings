@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2015-01 (January)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_for_limerick_city_county_council_-_26th_january_2015_0.pdf)
 

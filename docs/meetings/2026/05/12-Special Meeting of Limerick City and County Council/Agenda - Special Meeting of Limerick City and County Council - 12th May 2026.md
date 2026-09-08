@@ -8,7 +8,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2026-05 (May)</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-special-meeting-of-limerick-city-and-county-council-12th-may-2026.pdf)
 
