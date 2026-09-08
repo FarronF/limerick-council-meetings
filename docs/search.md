@@ -8,8 +8,8 @@
   const FILTER_CONFIG = [
     { key: "Category", title: "Category" },
     { key: "Council Body", title: "Council Body" },
-    { key: "Meeting Type", title: "Meeting Type" }
-    { key: "Year-Month", title: "Year & Month" },
+    { key: "Meeting Type", title: "Meeting Type" },
+    { key: "Year-Month", title: "Year & Month" }
   ];
 
   async function init() {
