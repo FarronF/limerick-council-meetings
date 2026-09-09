@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
+<span data-pagefind-meta="date" style="display:none;">2015-03-16</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_metropolitan_district_of_limerick_-_16th_february_2015.pdf)
 

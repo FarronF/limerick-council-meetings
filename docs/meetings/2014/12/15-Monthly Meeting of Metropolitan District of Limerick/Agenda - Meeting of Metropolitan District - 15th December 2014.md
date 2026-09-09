@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
+<span data-pagefind-meta="date" style="display:none;">2014-12-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_15_december_2014_0.pdf)
 

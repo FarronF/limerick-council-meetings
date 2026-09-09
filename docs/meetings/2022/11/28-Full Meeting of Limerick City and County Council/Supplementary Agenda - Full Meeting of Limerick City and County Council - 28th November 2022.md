@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
+<span data-pagefind-meta="date" style="display:none;">2022-11-28</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Supplementary%20Agenda%20Council%20Meeting%2028.11.2022.pdf)
 

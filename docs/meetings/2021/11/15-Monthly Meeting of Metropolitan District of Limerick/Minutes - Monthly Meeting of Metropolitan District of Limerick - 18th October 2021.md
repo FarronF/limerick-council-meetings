@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
+<span data-pagefind-meta="date" style="display:none;">2021-11-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01a-draft-minutes-monthly-meeting-18th-october-2021.pdf)
 

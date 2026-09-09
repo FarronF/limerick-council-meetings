@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
+<span data-pagefind-meta="date" style="display:none;">2017-06-23</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Annual%20Meeting%20of%20Metropolitan%20District%2023rd%20June%202017.pdf)
 

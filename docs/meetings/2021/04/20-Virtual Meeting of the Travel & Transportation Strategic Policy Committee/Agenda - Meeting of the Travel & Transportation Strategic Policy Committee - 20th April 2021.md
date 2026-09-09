@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
+<span data-pagefind-meta="date" style="display:none;">2021-04-20</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210401-agenda-travel-transportation-spc-meeting-20.04.21.pdf)
 

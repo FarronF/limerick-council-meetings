@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
+<span data-pagefind-meta="date" style="display:none;">2017-11-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/4%20Agenda%20-%20Special%20Meeting%20161017%20-%20Proposed%20Variations%20to%20Limerick%20County%20Development%20Plan%20and%20Southern%20Environs%20Local%20Area%20Plan.pdf)
 

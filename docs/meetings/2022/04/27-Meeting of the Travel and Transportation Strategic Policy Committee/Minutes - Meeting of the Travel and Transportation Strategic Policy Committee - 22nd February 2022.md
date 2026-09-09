@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
+<span data-pagefind-meta="date" style="display:none;">2022-04-27</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/Minutes%20of%20Travel%20%26%20Transportation%20Meeting%2022.02.22.pdf)
 

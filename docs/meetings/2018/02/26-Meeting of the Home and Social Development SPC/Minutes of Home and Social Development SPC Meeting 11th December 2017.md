@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
+<span data-pagefind-meta="date" style="display:none;">2018-02-26</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20Home%20and%20Social%20Development%20SPC%20Meeting%2011.12.17.pdf)
 

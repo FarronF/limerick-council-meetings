@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
+<span data-pagefind-meta="date" style="display:none;">2022-09-26</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/10%20%28ii%29%20S.%2085%20Agreement%20-%20Minutes%20Mtg%20Clare%20Co%20Co.pdf)
 

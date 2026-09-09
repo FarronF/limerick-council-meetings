@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
+<span data-pagefind-meta="date" style="display:none;">2024-09-03</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-08/00-agenda-3rd-september-2024.pdf)
 

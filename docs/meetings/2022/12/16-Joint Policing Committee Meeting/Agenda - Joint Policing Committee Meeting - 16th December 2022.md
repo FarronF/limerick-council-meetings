@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
+<span data-pagefind-meta="date" style="display:none;">2022-12-16</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Agenda%20JPC%20Meeting%2016th%20December%202022.pdf)
 

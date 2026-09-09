@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
+<span data-pagefind-meta="date" style="display:none;">2019-09-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%202019-07-03%20Minutes%20July.pdf)
 

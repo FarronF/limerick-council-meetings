@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
+<span data-pagefind-meta="date" style="display:none;">2019-04-29</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%28b%29%20Supplementary%20Agenda.pdf)
 

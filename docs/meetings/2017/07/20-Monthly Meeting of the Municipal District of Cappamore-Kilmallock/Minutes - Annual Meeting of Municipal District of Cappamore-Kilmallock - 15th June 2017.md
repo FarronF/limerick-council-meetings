@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
+<span data-pagefind-meta="date" style="display:none;">2017-07-20</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28ii%29%20Minutes%20Annual%20Meeting%20150617.pdf)
 

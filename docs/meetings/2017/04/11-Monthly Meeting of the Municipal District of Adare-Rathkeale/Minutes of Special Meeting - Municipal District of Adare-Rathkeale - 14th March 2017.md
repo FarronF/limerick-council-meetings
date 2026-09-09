@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
+<span data-pagefind-meta="date" style="display:none;">2017-04-11</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_special_meeting_-_municipal_district_of_adare-rathkeale_-_14th_march_2017.pdf)
 

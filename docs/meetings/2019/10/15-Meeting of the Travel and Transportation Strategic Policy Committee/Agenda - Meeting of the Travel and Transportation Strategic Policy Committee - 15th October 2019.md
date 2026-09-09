@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
+<span data-pagefind-meta="date" style="display:none;">2019-10-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%2015.10.19%20-%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.docx.pdf)
 

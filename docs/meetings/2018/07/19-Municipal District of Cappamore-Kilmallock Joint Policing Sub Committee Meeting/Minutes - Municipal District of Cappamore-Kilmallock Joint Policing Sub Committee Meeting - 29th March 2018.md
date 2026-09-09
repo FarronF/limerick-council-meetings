@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
+<span data-pagefind-meta="date" style="display:none;">2018-07-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/02%20Minutes%20Joint%20Policing%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2029thMar2018.pdf)
 

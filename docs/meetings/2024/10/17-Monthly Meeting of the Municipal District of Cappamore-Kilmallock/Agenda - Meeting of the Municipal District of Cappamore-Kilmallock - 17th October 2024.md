@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
+<span data-pagefind-meta="date" style="display:none;">2024-10-17</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-october-2024.pdf)
 

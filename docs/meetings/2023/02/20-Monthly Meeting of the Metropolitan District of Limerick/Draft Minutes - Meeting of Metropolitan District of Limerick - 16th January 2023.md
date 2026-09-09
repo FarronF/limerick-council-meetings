@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
+<span data-pagefind-meta="date" style="display:none;">2023-02-20</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20January%202023.pdf)
 

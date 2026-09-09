@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
+<span data-pagefind-meta="date" style="display:none;">2017-11-08</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%202017-10-04%20Minutes%20Monthly%20Meeeting%20Newcastle%20West.pdf)
 

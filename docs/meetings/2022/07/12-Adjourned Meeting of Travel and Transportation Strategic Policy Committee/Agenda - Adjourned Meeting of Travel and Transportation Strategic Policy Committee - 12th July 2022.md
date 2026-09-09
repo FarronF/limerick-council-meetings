@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
+<span data-pagefind-meta="date" style="display:none;">2022-07-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Agenda-Travel-and-Transportation-Adjourned-SPC-Meeting-12th-July-2022.pdf)
 

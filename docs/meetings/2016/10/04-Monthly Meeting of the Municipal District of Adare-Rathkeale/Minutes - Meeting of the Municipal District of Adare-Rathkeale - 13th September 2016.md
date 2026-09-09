@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
+<span data-pagefind-meta="date" style="display:none;">2016-10-04</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_minutes_13th_september2c_2016.pdf)
 

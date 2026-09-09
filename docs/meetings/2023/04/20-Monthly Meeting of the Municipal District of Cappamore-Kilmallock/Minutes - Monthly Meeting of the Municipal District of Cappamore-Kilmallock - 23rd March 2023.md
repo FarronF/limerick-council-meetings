@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
+<span data-pagefind-meta="date" style="display:none;">2023-04-20</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-April-2023.pdf)
 

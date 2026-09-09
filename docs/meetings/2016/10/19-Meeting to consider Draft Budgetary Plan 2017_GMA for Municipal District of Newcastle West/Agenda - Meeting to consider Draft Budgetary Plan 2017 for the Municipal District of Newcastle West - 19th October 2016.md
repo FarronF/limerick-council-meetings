@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
+<span data-pagefind-meta="date" style="display:none;">2016-10-19</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_meeting_to_consider_draft_budgetary_plan_2017_for_the_municipal_district_of_newcastle_west_-_19th_october_2016.pdf)
 

@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
+<span data-pagefind-meta="date" style="display:none;">2019-02-28</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Minutes%20JPC%20Sub%20Committee%20Meeting%2021st%20November%202018.pdf)
 

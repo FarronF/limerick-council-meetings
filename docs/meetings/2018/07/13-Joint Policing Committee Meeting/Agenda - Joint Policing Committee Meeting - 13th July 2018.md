@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
+<span data-pagefind-meta="date" style="display:none;">2018-07-13</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Agenda%20JPC%20Meeting%2013th%20July%202018.pdf)
 

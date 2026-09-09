@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
+<span data-pagefind-meta="date" style="display:none;">2019-02-25</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Agenda%20of%20Home%20and%20Social%20Development%20SPC%2025th%20February%202019.pdf)
 

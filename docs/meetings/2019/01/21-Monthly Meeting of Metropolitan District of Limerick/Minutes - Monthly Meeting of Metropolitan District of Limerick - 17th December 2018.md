@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
+<span data-pagefind-meta="date" style="display:none;">2019-01-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20Draft%20%20Minutes%2017th%20December%202018.pdf)
 

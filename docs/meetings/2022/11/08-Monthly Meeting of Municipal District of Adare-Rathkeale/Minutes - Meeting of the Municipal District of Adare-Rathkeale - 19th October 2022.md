@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
+<span data-pagefind-meta="date" style="display:none;">2022-11-08</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%2019th%20October%2C%202022.pdf)
 

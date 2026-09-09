@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
+<span data-pagefind-meta="date" style="display:none;">2019-11-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28b%29%20Minutes%20of%20Draft%20Budgetary%20Plan%202020%20Meeting%2023rd%20October%2C%202019.pdf)
 

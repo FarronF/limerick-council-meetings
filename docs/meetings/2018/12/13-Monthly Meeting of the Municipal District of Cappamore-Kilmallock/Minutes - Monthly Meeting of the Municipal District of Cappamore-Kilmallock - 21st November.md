@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
+<span data-pagefind-meta="date" style="display:none;">2018-12-13</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/02%20Minutes%20Nov%20Meeting%20Municipal%20District%20Capp-Kil.pdf)
 

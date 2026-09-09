@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
+<span data-pagefind-meta="date" style="display:none;">2022-09-26</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28c%29%20Minutes%20Ordinary%20Meeting%2011.07.2022.pdf)
 

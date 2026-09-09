@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
+<span data-pagefind-meta="date" style="display:none;">2018-09-20</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03%20MD%20Agenda%20for%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock.pdf)
 

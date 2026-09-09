@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
+<span data-pagefind-meta="date" style="display:none;">2018-12-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%202018-12-05%20Agenda%20Newcastle%20West%20JPC%20Subcommittee%20Meeting.pdf)
 

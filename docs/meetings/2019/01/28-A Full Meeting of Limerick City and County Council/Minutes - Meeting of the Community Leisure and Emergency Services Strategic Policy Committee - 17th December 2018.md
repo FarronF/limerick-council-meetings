@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
+<span data-pagefind-meta="date" style="display:none;">2019-01-28</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/03%20%28c%29%20%28v%29%20Community%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee.pdf)
 

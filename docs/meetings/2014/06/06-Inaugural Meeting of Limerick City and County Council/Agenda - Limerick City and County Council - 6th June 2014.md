@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
+<span data-pagefind-meta="date" style="display:none;">2014-06-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_-_limerick_city_and_county_council_-_6th_june_2014.pdf)
 

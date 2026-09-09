@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
+<span data-pagefind-meta="date" style="display:none;">2025-07-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-july-2025.pdf)
 

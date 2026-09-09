@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
+<span data-pagefind-meta="date" style="display:none;">2020-11-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/03-minutes-monthly-md-meeting-15-10-20.pdf)
 

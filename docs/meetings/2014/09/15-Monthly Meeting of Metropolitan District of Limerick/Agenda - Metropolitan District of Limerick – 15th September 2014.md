@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
+<span data-pagefind-meta="date" style="display:none;">2014-09-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20metropolitan_district_of_limerick_-_agenda_15_september_2014.pdf)
 

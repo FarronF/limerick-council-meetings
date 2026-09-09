@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
+<span data-pagefind-meta="date" style="display:none;">2019-10-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20Special%20Meeting%20of%20Metropolitan%20District%20-%20Monday%2007.10.19.pdf)
 

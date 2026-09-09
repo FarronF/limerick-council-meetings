@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
+<span data-pagefind-meta="date" style="display:none;">2017-04-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00_agenda_18th_april2c_2017.pdf)
 

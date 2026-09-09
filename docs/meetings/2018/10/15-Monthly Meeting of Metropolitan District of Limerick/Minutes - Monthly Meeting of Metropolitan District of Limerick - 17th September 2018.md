@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
+<span data-pagefind-meta="date" style="display:none;">2018-10-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01a%20Minutes%2017th%20September%202018.pdf)
 

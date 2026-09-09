@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
+<span data-pagefind-meta="date" style="display:none;">2016-06-03</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Notice%20and%20Agenda%20-%20Environment%20SPC%203rd%20June%202016.pdf)
 

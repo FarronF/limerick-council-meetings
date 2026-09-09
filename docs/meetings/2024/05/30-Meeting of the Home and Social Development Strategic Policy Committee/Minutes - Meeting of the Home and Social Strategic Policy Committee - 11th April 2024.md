@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
+<span data-pagefind-meta="date" style="display:none;">2024-05-30</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/minutes-meeting-of-the-home-and-social-strategic-policy-committee-11th-april-2024.pdf)
 

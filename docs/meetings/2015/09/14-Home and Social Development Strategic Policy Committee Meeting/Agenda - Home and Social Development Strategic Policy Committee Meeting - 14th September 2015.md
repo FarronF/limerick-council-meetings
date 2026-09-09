@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
+<span data-pagefind-meta="date" style="display:none;">2015-09-14</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Home%20and%20Social%20Development%20Strategic%20Policy%20Committee%20Meeting%20-%2014th%20September%202015.pdf)
 

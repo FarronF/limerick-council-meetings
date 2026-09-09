@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
+<span data-pagefind-meta="date" style="display:none;">2022-09-26</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%20Council%20Meeting%2026.09.2022.pdf)
 

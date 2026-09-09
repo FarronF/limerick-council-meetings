@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
+<span data-pagefind-meta="date" style="display:none;">2016-07-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Economic%20Development%2C%20Enterprise%20and%20Planning%20SPC%20-%2015th%20July%202016.pdf)
 

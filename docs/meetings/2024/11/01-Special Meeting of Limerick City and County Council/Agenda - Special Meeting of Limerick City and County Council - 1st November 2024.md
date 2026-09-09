@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
+<span data-pagefind-meta="date" style="display:none;">2024-11-01</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-special-meeting-of-limerick-city-and-county-council-1st-november-2024.pdf)
 

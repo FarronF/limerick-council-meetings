@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
+<span data-pagefind-meta="date" style="display:none;">2017-09-28</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20%28i%29%20Agenda%20Adjourned%20September%20Meeting.pdf)
 

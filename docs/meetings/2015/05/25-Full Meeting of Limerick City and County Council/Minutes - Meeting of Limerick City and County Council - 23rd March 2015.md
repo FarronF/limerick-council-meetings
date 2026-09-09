@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
+<span data-pagefind-meta="date" style="display:none;">2015-05-25</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20March%202015.pdf)
 

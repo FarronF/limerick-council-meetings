@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
+<span data-pagefind-meta="date" style="display:none;">2026-02-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-home-and-social-strategic-policy-committee-12th-february-2026.pdf)
 

@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
+<span data-pagefind-meta="date" style="display:none;">2024-05-14</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-a-draft-minutes-special-meeting-of-municipal-district-of-adare-rathkeale-8th-april-2024.pdf)
 

@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
+<span data-pagefind-meta="date" style="display:none;">2021-03-26</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-08/Agenda%20Special%20Meeting%2026.03.2021_0.pdf)
 

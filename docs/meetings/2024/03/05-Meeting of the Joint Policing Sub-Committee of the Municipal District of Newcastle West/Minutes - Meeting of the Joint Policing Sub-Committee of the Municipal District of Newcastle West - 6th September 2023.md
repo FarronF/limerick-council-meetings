@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
+<span data-pagefind-meta="date" style="display:none;">2024-03-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-minutes-meeting-of-the-joint-policing-sub-committee-of-the-municipal-district-of-newcastle-west-6th-september-2023.pdf)
 

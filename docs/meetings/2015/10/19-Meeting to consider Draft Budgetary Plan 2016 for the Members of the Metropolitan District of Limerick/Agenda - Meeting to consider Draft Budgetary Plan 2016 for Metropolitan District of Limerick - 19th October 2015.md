@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
+<span data-pagefind-meta="date" style="display:none;">2015-10-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20to%20consider%20Draft%20Budgetary%20Plan%202016%20for%20Metropolitan%20District%20of%20Limerick.pdf)
 

@@ -12,6 +12,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
+<span data-pagefind-meta="date" style="display:none;">2023-02-10</span>
 
 # Meeting Details
 

@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
+<span data-pagefind-meta="date" style="display:none;">2017-04-03</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_economic_development_enterprise_and_planning_spc_-_13th_february_2017.pdf)
 

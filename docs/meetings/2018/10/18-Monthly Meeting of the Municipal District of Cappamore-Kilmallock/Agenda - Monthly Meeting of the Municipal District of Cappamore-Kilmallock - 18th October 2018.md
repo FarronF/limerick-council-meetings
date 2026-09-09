@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
+<span data-pagefind-meta="date" style="display:none;">2018-10-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/02%20Agenda%20Municipal%20District%20Meeting.pdf)
 

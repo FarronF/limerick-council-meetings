@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
+<span data-pagefind-meta="date" style="display:none;">2025-10-13</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-13th-october-2025.pdf)
 

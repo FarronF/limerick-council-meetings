@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
+<span data-pagefind-meta="date" style="display:none;">2014-07-17</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_proceedings_at_inaugural_annual_meeting_of_municipal_district_of_cappamore-kilmallock_-_thursday_12_june.pdf)
 

@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
+<span data-pagefind-meta="date" style="display:none;">2018-03-26</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%20March%20Meeting%20260318.pdf)
 

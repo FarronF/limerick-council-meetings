@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
+<span data-pagefind-meta="date" style="display:none;">2023-01-23</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20%28a%29%20Minutes%20Budget%20Meeting%2025.11.2022.pdf)
 

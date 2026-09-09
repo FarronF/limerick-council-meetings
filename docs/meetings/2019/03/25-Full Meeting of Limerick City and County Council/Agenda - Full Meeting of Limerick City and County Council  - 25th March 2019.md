@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
+<span data-pagefind-meta="date" style="display:none;">2019-03-25</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%20-%20Meeting%20of%20Council%20-%2025th%20March%202019.pdf)
 

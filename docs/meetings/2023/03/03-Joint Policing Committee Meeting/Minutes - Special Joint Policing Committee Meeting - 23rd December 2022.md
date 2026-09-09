@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
+<span data-pagefind-meta="date" style="display:none;">2023-03-03</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Special%20Joint%20Policing%20Committee%20Meeting%20-%2023rd%20December%202022.pdf)
 

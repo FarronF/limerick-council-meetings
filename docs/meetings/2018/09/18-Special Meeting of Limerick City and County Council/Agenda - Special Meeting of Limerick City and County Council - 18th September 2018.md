@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
+<span data-pagefind-meta="date" style="display:none;">2018-09-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20-%20Special%20Meeting%20180918.pdf)
 

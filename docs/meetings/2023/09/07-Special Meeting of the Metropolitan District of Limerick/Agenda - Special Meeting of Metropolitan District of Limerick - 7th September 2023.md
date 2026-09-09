@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
+<span data-pagefind-meta="date" style="display:none;">2023-09-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-Metropolitan-District-of-Limerick-7th-September-2023.pdf)
 

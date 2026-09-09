@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
+<span data-pagefind-meta="date" style="display:none;">2022-02-22</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20220114-agenda-travel-transportation-spc-meeting-22.02.22.pdf)
 

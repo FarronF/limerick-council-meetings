@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
+<span data-pagefind-meta="date" style="display:none;">2018-11-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01b%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%202018.pdf)
 

@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
+<span data-pagefind-meta="date" style="display:none;">2023-10-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Minutes-Meeting-of-the-Home-and-Social-Strategic-Policy-Committee-8th-June-2023.pdf)
 

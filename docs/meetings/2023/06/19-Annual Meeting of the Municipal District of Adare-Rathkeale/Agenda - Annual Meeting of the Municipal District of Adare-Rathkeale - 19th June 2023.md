@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
+<span data-pagefind-meta="date" style="display:none;">2023-06-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Annual-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-19th-June-2023.pdf)
 

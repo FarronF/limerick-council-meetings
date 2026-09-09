@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
+<span data-pagefind-meta="date" style="display:none;">2022-09-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/02%20Minutes%20of%2014th%20July%20%20Municipal%20District%20Meeting.pdf)
 

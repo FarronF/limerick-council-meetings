@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
+<span data-pagefind-meta="date" style="display:none;">2019-02-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/11th%20Feb%202019%20-%20Agenda%20Travel%20%26%20Transportation%20Strategic%20Policy%20Meeting.pdf)
 

@@ -12,6 +12,7 @@ file_type: "Minutes"
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
+<span data-pagefind-meta="date" style="display:none;">2014-07-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_inaugural_annual_meeting_of_the_metropolitan_district_of_limerick_-_16_june_2014.pdf)
 

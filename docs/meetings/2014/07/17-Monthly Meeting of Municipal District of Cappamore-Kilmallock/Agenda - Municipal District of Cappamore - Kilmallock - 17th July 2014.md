@@ -12,6 +12,7 @@ file_type: "Agenda"
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
+<span data-pagefind-meta="date" style="display:none;">2014-07-17</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/meeting_of_the_municipal_district_of_cappamore-kilmallock_-_agenda_17_july_2014.pdf)
 
