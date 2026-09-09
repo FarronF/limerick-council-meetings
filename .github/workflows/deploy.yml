@@ -41,7 +41,7 @@ jobs:
         run: mkdocs build
 
       - name: Build Pagefind Search Index
-        run: npx pagefind --site site
+        run: npx pagefind --site site --glob "meetings/*/*/*/**/*.html"
 
       - uses: actions/upload-pages-artifact@v3
         with:
