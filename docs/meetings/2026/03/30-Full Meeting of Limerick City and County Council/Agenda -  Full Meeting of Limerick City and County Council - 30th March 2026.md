@@ -1,6 +1,5 @@
 ---
 date: 2026-03-30
-year: "2026"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"

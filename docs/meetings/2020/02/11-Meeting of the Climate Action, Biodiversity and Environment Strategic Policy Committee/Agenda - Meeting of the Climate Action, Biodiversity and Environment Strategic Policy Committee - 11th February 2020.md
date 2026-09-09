@@ -1,6 +1,5 @@
 ---
 date: 2020-02-11
-year: "2020"
 council_body: "Environment SPC"
 category: "Committee"
 meeting_type: "Regular"

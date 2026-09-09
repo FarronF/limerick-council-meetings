@@ -1,6 +1,5 @@
 ---
 date: 2022-04-06
-year: "2022"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Regular"

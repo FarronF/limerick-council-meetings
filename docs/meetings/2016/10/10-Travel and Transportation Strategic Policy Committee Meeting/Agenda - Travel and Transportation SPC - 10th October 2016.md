@@ -1,6 +1,5 @@
 ---
 date: 2016-10-10
-year: "2016"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"

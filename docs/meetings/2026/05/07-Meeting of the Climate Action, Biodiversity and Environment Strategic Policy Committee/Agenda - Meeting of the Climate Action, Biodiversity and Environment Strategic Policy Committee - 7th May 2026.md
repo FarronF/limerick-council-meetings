@@ -1,6 +1,5 @@
 ---
 date: 2026-05-07
-year: "2026"
 council_body: "Environment SPC"
 category: "Committee"
 meeting_type: "Regular"

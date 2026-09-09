@@ -1,6 +1,5 @@
 ---
 date: 2016-06-24
-year: "2016"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Annual"

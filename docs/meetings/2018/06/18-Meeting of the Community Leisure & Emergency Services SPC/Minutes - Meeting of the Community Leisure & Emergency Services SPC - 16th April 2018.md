@@ -1,6 +1,5 @@
 ---
 date: 2018-06-18
-year: "2018"
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
 meeting_type: "Regular"

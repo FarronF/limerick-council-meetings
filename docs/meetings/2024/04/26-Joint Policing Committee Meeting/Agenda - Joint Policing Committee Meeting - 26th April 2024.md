@@ -1,6 +1,5 @@
 ---
 date: 2024-04-26
-year: "2024"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"

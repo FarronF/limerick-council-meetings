@@ -1,6 +1,5 @@
 ---
 date: 2025-03-10
-year: "2025"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

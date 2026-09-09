@@ -1,6 +1,5 @@
 ---
 date: 2019-10-23
-year: "2019"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Regular"

@@ -1,6 +1,5 @@
 ---
 date: 2021-09-20
-year: "2021"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

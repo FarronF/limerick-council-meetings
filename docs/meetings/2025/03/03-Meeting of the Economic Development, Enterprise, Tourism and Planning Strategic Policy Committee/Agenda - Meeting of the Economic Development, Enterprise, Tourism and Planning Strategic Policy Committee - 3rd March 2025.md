@@ -1,6 +1,5 @@
 ---
 date: 2025-03-03
-year: "2025"
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
 meeting_type: "Regular"

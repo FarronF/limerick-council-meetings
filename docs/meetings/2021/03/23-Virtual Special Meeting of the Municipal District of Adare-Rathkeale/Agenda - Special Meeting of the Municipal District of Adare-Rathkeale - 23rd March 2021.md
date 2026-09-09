@@ -1,6 +1,5 @@
 ---
 date: 2021-03-23
-year: "2021"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Special"

@@ -1,6 +1,5 @@
 ---
 date: 2017-12-12
-year: "2017"
 council_body: "Cultural SPC"
 category: "Committee"
 meeting_type: "Regular"

@@ -1,6 +1,5 @@
 ---
 date: 2023-06-20
-year: "2023"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"

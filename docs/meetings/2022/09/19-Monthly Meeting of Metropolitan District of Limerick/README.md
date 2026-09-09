@@ -1,6 +1,5 @@
 ---
 date: 2022-09-19
-year: "2022"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

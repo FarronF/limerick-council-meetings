@@ -1,6 +1,5 @@
 ---
 date: 2023-05-03
-year: "2023"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Regular"

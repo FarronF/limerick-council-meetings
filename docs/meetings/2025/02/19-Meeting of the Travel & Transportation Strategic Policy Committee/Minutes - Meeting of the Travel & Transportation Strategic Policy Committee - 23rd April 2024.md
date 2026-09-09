@@ -1,6 +1,5 @@
 ---
 date: 2025-02-19
-year: "2025"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"

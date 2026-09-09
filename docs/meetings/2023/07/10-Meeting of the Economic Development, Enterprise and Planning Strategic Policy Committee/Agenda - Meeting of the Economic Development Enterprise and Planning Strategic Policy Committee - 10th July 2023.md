@@ -1,6 +1,5 @@
 ---
 date: 2023-07-10
-year: "2023"
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
 meeting_type: "Regular"

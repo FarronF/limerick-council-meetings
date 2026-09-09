@@ -1,6 +1,5 @@
 ---
 date: 2015-09-16
-year: "2015"
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
 meeting_type: "Regular"

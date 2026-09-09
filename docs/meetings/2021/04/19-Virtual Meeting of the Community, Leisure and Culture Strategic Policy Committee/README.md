@@ -1,6 +1,5 @@
 ---
 date: 2021-04-19
-year: "2021"
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
 meeting_type: "Regular"

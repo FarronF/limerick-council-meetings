@@ -1,6 +1,5 @@
 ---
 date: 2023-04-17
-year: "2023"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

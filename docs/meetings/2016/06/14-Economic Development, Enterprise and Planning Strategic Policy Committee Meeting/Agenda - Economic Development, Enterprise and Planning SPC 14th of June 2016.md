@@ -1,6 +1,5 @@
 ---
 date: 2016-06-14
-year: "2016"
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
 meeting_type: "Regular"

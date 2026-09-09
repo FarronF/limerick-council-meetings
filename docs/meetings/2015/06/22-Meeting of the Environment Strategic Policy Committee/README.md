@@ -1,6 +1,5 @@
 ---
 date: 2015-06-22
-year: "2015"
 council_body: "Environment SPC"
 category: "Committee"
 meeting_type: "Regular"

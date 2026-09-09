@@ -1,6 +1,5 @@
 ---
 date: 2017-11-20
-year: "2017"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

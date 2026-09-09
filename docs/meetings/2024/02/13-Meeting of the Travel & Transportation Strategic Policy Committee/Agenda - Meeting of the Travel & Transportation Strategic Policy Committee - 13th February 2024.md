@@ -1,6 +1,5 @@
 ---
 date: 2024-02-13
-year: "2024"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"

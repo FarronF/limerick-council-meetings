@@ -1,6 +1,5 @@
 ---
 date: 2020-06-30
-year: "2020"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Annual"

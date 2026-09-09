@@ -1,6 +1,5 @@
 ---
 date: 2024-02-19
-year: "2024"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

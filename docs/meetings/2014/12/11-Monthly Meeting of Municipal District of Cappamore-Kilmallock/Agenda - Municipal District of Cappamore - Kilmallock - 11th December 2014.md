@@ -1,6 +1,5 @@
 ---
 date: 2014-12-11
-year: "2014"
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Regular"

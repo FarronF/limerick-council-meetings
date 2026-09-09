@@ -1,6 +1,5 @@
 ---
 date: 2014-11-05
-year: "2014"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Regular"

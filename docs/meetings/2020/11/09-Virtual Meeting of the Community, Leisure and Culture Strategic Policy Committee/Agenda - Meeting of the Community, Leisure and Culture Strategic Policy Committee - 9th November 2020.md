@@ -1,6 +1,5 @@
 ---
 date: 2020-11-09
-year: "2020"
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
 meeting_type: "Regular"

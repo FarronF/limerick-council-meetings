@@ -1,6 +1,5 @@
 ---
 date: 2023-04-12
-year: "2023"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Regular"

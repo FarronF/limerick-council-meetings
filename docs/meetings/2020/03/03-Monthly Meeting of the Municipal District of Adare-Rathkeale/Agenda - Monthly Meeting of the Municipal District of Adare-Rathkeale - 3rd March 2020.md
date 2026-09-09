@@ -1,6 +1,5 @@
 ---
 date: 2020-03-03
-year: "2020"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Regular"

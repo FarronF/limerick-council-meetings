@@ -1,6 +1,5 @@
 ---
 date: 2026-06-10
-year: "2026"
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
 meeting_type: "Regular"

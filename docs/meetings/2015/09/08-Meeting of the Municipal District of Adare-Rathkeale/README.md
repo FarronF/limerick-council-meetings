@@ -1,6 +1,5 @@
 ---
 date: 2015-09-08
-year: "2015"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Regular"

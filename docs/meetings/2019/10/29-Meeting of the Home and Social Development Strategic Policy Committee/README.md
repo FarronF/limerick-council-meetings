@@ -1,6 +1,5 @@
 ---
 date: 2019-10-29
-year: "2019"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Regular"

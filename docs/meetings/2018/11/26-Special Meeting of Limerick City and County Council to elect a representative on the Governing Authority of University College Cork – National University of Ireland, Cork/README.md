@@ -1,6 +1,5 @@
 ---
 date: 2018-11-26
-year: "2018"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Special"

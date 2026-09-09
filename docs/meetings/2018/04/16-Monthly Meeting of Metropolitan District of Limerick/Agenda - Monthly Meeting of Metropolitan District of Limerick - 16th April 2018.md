@@ -1,6 +1,5 @@
 ---
 date: 2018-04-16
-year: "2018"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

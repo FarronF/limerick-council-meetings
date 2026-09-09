@@ -1,6 +1,5 @@
 ---
 date: 2021-02-16
-year: "2021"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"

@@ -1,6 +1,5 @@
 ---
 date: 2017-09-25
-year: "2017"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"

@@ -1,6 +1,5 @@
 ---
 date: 2015-08-05
-year: "2015"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Special"

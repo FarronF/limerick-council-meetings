@@ -1,6 +1,5 @@
 ---
 date: 2021-12-17
-year: "2021"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"

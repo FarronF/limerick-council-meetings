@@ -1,6 +1,5 @@
 ---
 date: 2023-07-20
-year: "2023"
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Regular"

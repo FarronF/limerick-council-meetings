@@ -1,6 +1,5 @@
 ---
 date: 2022-04-04
-year: "2022"
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
 meeting_type: "Regular"

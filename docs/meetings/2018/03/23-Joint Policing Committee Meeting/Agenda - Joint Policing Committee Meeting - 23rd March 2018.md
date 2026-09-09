@@ -1,6 +1,5 @@
 ---
 date: 2018-03-23
-year: "2018"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"

@@ -1,6 +1,5 @@
 ---
 date: 2019-05-20
-year: "2019"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

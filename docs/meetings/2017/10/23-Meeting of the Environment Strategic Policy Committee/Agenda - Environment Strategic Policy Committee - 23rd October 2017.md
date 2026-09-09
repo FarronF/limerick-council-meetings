@@ -1,6 +1,5 @@
 ---
 date: 2017-10-23
-year: "2017"
 council_body: "Environment SPC"
 category: "Committee"
 meeting_type: "Regular"

@@ -1,6 +1,5 @@
 ---
 date: 2023-05-22
-year: "2023"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"

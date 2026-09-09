@@ -1,6 +1,5 @@
 ---
 date: 2018-10-08
-year: "2018"
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
 meeting_type: "Regular"

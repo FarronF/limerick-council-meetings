@@ -1,6 +1,5 @@
 ---
 date: 2021-05-24
-year: "2021"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Special"

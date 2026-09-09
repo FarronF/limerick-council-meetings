@@ -1,6 +1,5 @@
 ---
 date: 2014-12-15
-year: "2014"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

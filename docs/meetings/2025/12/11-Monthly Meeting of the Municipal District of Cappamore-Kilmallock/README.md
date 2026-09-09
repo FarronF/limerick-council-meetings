@@ -1,6 +1,5 @@
 ---
 date: 2025-12-11
-year: "2025"
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Regular"

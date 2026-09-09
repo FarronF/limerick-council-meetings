@@ -1,6 +1,5 @@
 ---
 date: 2022-12-06
-year: "2022"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Special"

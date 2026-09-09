@@ -1,6 +1,5 @@
 ---
 date: 2025-10-15
-year: "2025"
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
 meeting_type: "Regular"

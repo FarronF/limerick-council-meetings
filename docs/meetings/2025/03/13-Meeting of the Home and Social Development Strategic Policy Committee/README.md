@@ -1,6 +1,5 @@
 ---
 date: 2025-03-13
-year: "2025"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Regular"

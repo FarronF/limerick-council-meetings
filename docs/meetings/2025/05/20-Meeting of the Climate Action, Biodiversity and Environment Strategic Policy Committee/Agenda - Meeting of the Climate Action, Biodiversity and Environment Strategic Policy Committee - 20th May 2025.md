@@ -1,6 +1,5 @@
 ---
 date: 2025-05-20
-year: "2025"
 council_body: "Environment SPC"
 category: "Committee"
 meeting_type: "Regular"

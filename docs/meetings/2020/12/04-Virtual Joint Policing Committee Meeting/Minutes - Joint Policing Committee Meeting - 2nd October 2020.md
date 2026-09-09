@@ -1,6 +1,5 @@
 ---
 date: 2020-12-04
-year: "2020"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"

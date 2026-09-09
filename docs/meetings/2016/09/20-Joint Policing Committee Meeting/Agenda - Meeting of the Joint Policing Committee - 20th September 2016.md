@@ -1,6 +1,5 @@
 ---
 date: 2016-09-20
-year: "2016"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"

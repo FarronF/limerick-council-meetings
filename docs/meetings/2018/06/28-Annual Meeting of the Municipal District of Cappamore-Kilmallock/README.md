@@ -1,6 +1,5 @@
 ---
 date: 2018-06-28
-year: "2018"
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Annual"

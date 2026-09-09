@@ -1,6 +1,5 @@
 ---
 date: 2025-09-03
-year: "2025"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Regular"

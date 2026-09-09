@@ -1,6 +1,5 @@
 ---
 date: 2016-06-29
-year: "2016"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Annual"

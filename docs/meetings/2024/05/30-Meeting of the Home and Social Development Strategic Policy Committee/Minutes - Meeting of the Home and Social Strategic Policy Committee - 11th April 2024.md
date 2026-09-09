@@ -1,6 +1,5 @@
 ---
 date: 2024-05-30
-year: "2024"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Regular"

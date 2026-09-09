@@ -1,6 +1,5 @@
 ---
 date: 2023-06-02
-year: "2023"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"

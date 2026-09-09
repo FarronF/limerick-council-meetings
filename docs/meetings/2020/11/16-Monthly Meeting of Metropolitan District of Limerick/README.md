@@ -1,6 +1,5 @@
 ---
 date: 2020-11-16
-year: "2020"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"

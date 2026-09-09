@@ -1,6 +1,5 @@
 ---
 date: 2018-04-09
-year: "2018"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"

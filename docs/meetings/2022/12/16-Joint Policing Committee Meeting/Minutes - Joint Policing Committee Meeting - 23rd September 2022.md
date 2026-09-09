@@ -1,6 +1,5 @@
 ---
 date: 2022-12-16
-year: "2022"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"

@@ -1,6 +1,5 @@
 ---
 date: 2021-07-08
-year: "2021"
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Special"

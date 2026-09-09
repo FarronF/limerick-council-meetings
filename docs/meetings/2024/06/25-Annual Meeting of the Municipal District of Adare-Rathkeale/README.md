@@ -1,6 +1,5 @@
 ---
 date: 2024-06-25
-year: "2024"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Annual"

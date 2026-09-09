@@ -1,6 +1,5 @@
 ---
 date: 2022-02-22
-year: "2022"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"

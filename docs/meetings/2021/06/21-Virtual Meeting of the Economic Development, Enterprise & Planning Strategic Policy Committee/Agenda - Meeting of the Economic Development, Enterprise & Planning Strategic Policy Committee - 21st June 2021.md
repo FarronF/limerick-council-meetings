@@ -1,6 +1,5 @@
 ---
 date: 2021-06-21
-year: "2021"
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
 meeting_type: "Regular"

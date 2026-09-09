@@ -1,6 +1,5 @@
 ---
 date: 2026-05-28
-year: "2026"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Special"

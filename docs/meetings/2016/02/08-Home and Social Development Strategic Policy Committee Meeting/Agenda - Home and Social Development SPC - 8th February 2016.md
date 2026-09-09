@@ -1,6 +1,5 @@
 ---
 date: 2016-02-08
-year: "2016"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Regular"

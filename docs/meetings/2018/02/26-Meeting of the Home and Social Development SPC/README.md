@@ -1,6 +1,5 @@
 ---
 date: 2018-02-26
-year: "2018"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Regular"

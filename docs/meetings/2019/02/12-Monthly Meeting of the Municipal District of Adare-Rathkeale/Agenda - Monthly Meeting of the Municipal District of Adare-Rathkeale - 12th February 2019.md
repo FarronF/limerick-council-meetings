@@ -1,6 +1,5 @@
 ---
 date: 2019-02-12
-year: "2019"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Regular"

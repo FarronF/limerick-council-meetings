@@ -1,6 +1,5 @@
 ---
 date: 2020-06-08
-year: "2020"
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
 meeting_type: "Regular"

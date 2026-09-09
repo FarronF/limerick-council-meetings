@@ -1,6 +1,5 @@
 ---
 date: 2020-02-24
-year: "2020"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Regular"

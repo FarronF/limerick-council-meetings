@@ -1,6 +1,5 @@
 ---
 date: 2026-03-09
-year: "2026"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"
