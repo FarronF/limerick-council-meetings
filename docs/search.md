@@ -439,18 +439,11 @@
       card.className = 'pf-result-card';
       
       const title = item.meta?.title || item.url.split('/').pop().replace('.html', '');
-      
-      // Extract metadata & filters for display
-      const dateVal = item.filters?.["Year-Month"]?.[0] || item.filters?.["Year"]?.[0] || item.meta?.date || '';
-      const category = item.filters?.["Category"]?.[0] || '';
-      const councilBody = item.filters?.["Council Body"]?.[0] || '';
-      const fileType = item.filters?.["File Type"]?.[0] || '';
+      const fullDate = item.meta?.date || '';
 
       card.innerHTML = `
         <h3 style="margin-bottom: 0.2rem;"><a href="${item.url}">${title}</a></h3>
-        <div style="font-size: 0.82rem; opacity: 0.75; margin-bottom: 0.6rem; display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
-          ${dateVal ? `<span><strong>${dateVal}</strong></span>` : ''}
-        </div>
+        ${fullDate ? `<div style="font-size: 0.82rem; opacity: 0.75; margin-bottom: 0.6rem;">Uploaded: <strong>${fullDate}</strong></div>` : ''}
         <p style="margin:0; font-size: 0.9em; line-height: 1.4;">${item.excerpt}</p>
       `;
       container.appendChild(card);
