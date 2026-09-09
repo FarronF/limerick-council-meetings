@@ -1,5 +1,6 @@
 ---
 date: 2023-06-19
+year: "2023"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Annual"
@@ -8,6 +9,7 @@ meeting_type: "Annual"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Annual-Meeting-of-the-Metropolitan-District-of-Limerick-19th-June-2023.pdf)

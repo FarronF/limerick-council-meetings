@@ -1,5 +1,6 @@
 ---
 date: 2020-12-02
+year: "2020"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-2020-12-02-agenda.pdf)

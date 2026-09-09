@@ -1,5 +1,6 @@
 ---
 date: 2020-06-15
+year: "2020"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Annual"
@@ -8,6 +9,7 @@ meeting_type: "Annual"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
 # Meeting Details

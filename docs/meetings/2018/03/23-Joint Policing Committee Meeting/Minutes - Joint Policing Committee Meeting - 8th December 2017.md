@@ -1,5 +1,6 @@
 ---
 date: 2018-03-23
+year: "2018"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Joint Policing Committee</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/mintues-limerick-joint-policing-committee-8th-december-2017.pdf)

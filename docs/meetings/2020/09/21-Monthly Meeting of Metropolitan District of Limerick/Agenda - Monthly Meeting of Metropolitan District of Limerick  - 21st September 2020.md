@@ -1,5 +1,6 @@
 ---
 date: 2020-09-21
+year: "2020"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-monthly-meeting-21st-september-2020.pdf)

@@ -1,5 +1,6 @@
 ---
 date: 2017-04-03
+year: "2017"
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_econimic_development_enterprise_and_planning_spc_-_3rd_april_2017.pdf)

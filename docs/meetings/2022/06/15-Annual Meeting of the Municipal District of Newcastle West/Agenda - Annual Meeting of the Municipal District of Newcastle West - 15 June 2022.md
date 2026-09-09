@@ -1,5 +1,6 @@
 ---
 date: 2022-06-15
+year: "2022"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Annual"
@@ -8,6 +9,7 @@ meeting_type: "Annual"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-AGM-15-06-2022.pdf)

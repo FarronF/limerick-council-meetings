@@ -1,5 +1,6 @@
 ---
 date: 2018-06-25
+year: "2018"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Annual"
@@ -8,6 +9,7 @@ meeting_type: "Annual"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Agenda%20Annual%20Meeting%2025th%20June%202018.pdf)

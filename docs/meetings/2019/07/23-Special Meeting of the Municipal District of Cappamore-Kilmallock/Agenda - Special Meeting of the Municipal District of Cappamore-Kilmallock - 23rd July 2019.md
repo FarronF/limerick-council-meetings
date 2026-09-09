@@ -1,5 +1,6 @@
 ---
 date: 2019-07-23
+year: "2019"
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Special"
@@ -8,6 +9,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20Agenda%20Special%20Meeting%20Kilmallock%20Local%20Area%20Plan.pdf)

@@ -1,5 +1,6 @@
 ---
 date: 2019-09-23
+year: "2019"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Minutes%20Ordinary%20Meeting%2008.07.2019.pdf)

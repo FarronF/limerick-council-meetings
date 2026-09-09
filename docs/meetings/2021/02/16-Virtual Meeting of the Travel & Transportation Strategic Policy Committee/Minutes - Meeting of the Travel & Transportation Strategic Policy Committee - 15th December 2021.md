@@ -1,5 +1,6 @@
 ---
 date: 2021-02-16
+year: "2021"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/minutes-travel-transportation-spc-meeting-15th-dec-2020.pdf)

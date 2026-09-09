@@ -1,5 +1,6 @@
 ---
 date: 2018-05-14
+year: "2018"
 council_body: "Cultural SPC"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cultural SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/Agenda%20Cultural%20SPC%2014th%20May%202018%20V2.pdf)

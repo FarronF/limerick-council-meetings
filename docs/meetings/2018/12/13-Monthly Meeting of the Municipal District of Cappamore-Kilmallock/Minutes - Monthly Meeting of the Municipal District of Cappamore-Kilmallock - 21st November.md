@@ -1,5 +1,6 @@
 ---
 date: 2018-12-13
+year: "2018"
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/02%20Minutes%20Nov%20Meeting%20Municipal%20District%20Capp-Kil.pdf)

@@ -1,5 +1,6 @@
 ---
 date: 2017-02-01
+year: "2017"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-02</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_february_meeting_municipal_district_of_newcastle_west_010217.pdf)

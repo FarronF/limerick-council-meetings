@@ -1,5 +1,6 @@
 ---
 date: 2023-03-03
+year: "2023"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Joint Policing Committee</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Joint%20Policing%20Committee%20Meeting%20-%2016th%20December%202022.pdf)

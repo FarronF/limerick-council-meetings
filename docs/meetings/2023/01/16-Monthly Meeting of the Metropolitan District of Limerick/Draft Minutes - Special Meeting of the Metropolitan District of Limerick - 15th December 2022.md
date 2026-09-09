@@ -1,5 +1,6 @@
 ---
 date: 2023-01-16
+year: "2023"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%28b%29%20Draft%20Minutes%20-%20Special%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2015th%20December%202022.pdf)

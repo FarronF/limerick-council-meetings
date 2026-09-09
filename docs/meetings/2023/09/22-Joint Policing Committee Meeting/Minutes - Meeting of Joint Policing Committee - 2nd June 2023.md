@@ -1,5 +1,6 @@
 ---
 date: 2023-09-22
+year: "2023"
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Joint Policing Committee</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Meeting-of-Joint-Policing-Committee-2nd-June-2023.pdf)

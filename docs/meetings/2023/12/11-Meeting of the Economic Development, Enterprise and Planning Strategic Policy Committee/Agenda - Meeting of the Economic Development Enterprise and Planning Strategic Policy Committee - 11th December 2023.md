@@ -1,5 +1,6 @@
 ---
 date: 2023-12-11
+year: "2023"
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-committee-11th-december-2023.pdf)
