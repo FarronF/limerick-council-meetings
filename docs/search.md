@@ -28,6 +28,7 @@ hide:
 
   .pf-filter-group details {
     width: 100%;
+    margin: 0;
   }
 
   .pf-filter-group summary {
@@ -165,9 +166,10 @@ hide:
   const FILTER_CONFIG = [
     { key: "Category", title: "Category" },
     { key: "Council Body", title: "Council Body" },
-    { key: "Meeting Type", title: "Meeting Type" },
     { key: "Year", title: "Year" },
-    { key: "Year-Month", title: "Year & Month" }
+    { key: "Year-Month", title: "Year & Month" },
+    { key: "File Type", title: "File Type" },
+    { key: "Meeting Type", title: "Meeting Type" }
   ];
 
   async function init() {
