@@ -329,9 +329,9 @@ hide:
       if (currentSequence !== searchSequence) return;
 
       allResults = response.results;
-      if (currentRenderCount <= 20) {
-        currentRenderCount = 20;
-      }
+      
+      // RESET render count here so new searches always start fresh from the first batch
+      currentRenderCount = 20;
 
       document.getElementById('pf-stats').innerText = `${allResults.length} meeting${allResults.length === 1 ? '' : 's'} found`;
       renderResultsSlice();
