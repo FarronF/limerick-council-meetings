@@ -238,32 +238,6 @@ hide:
     });
   }
 
-  function updateFilterCounts(dynamicFilters) {
-    if (!dynamicFilters) return;
-
-    FILTER_CONFIG.forEach(cfg => {
-      const catKey = cfg.key;
-      const categoryCounts = dynamicFilters[catKey] || {};
-
-      document.querySelectorAll(`.pf-option[data-cat="${catKey}"]`).forEach(label => {
-        const val = label.dataset.val;
-        const count = categoryCounts[val] || 0;
-        const countSpan = label.querySelector('.pf-count');
-        const checkbox = label.querySelector('input');
-
-        if (countSpan) {
-          countSpan.innerText = `(${count})`;
-        }
-
-        if (count === 0 && !checkbox.checked) {
-          label.style.opacity = '0.35';
-        } else {
-          label.style.opacity = '1';
-        }
-      });
-    });
-  }
-
   let searchSequence = 0;
 
   async function runSearch(isFilterChange = false) {
@@ -285,36 +259,87 @@ hide:
 
     document.getElementById('pf-clear-all').style.display = totalActiveFilters > 0 ? 'inline' : 'none';
 
-    // Format filters: multiple items in a category use { any: [...] } for OR logic
-    const formattedFilters = {};
-    for (const [cat, values] of Object.entries(rawFilters)) {
-      if (values.length > 1) {
-        formattedFilters[cat] = { any: values };
-      } else {
-        formattedFilters[cat] = values[0];
+    // Helper to format category arrays into Pagefind's { any: [...] } or single string
+    const formatFiltersObj = (filtersMap) => {
+      const formatted = {};
+      for (const [cat, values] of Object.entries(filtersMap)) {
+        if (values.length > 0) {
+          formatted[cat] = values.length > 1 ? { any: values } : values[0];
+        }
       }
-    }
+      return formatted;
+    };
+
+    const mainFormattedFilters = formatFiltersObj(rawFilters);
 
     try {
+      // 1. Run main search for the result items list
       const response = await pagefind.search(query || null, { 
-        filters: formattedFilters
+        filters: mainFormattedFilters
       });
 
       if (currentSequence !== searchSequence) return;
 
       allResults = response.results;
-      currentRenderCount = 20;
-
-      if (response.filters) {
-        updateFilterCounts(response.filters);
+      if (currentRenderCount <= 20) {
+        currentRenderCount = 20;
       }
 
       document.getElementById('pf-stats').innerText = `${allResults.length} meeting${allResults.length === 1 ? '' : 's'} found`;
-
       renderResultsSlice();
+
+      // 2. Run faceted queries per category to get independent counts
+      const facetedFilters = {};
+      for (const cfg of FILTER_CONFIG) {
+        const catKey = cfg.key;
+        // Build a filter set excluding the current category
+        const siblingFilters = { ...rawFilters };
+        delete siblingFilters[catKey];
+        
+        const facetQueryResponse = await pagefind.search(query || null, {
+          filters: formatFiltersObj(siblingFilters)
+        });
+
+        if (currentSequence !== searchSequence) return;
+        if (facetQueryResponse.filters && facetQueryResponse.filters[catKey]) {
+          facetedFilters[catKey] = facetQueryResponse.filters[catKey];
+        }
+      }
+
+      // Update the UI counts using our independent facet results
+      updateFilterCounts(facetedFilters, rawFilters);
+
     } catch (err) {
       console.error(err);
     }
+  }
+
+  function updateFilterCounts(dynamicFilters, activeRawFilters) {
+    if (!dynamicFilters) return;
+
+    FILTER_CONFIG.forEach(cfg => {
+      const catKey = cfg.key;
+      const categoryCounts = dynamicFilters[catKey] || {};
+      const activeCatValues = activeRawFilters[catKey] || [];
+
+      document.querySelectorAll(`.pf-option[data-cat="${catKey}"]`).forEach(label => {
+        const val = label.dataset.val;
+        const count = categoryCounts[val] || 0;
+        const countSpan = label.querySelector('.pf-count');
+        const checkbox = label.querySelector('input');
+
+        if (countSpan) {
+          countSpan.innerText = `(${count})`;
+        }
+
+        // Only dim options if they have zero matches AND aren't currently checked
+        if (count === 0 && !checkbox.checked) {
+          label.style.opacity = '0.35';
+        } else {
+          label.style.opacity = '1';
+        }
+      });
+    });
   }
 
   async function renderResultsSlice() {
