@@ -1,0 +1,8 @@
+{
+    "site": "site",
+    "glob": "meetings/*/*/*/**/*.html",
+    "ranking": {
+        "termSimilarity": 2.0,
+        "termFrequency": 0.0
+    }
+}
