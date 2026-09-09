@@ -3,14 +3,14 @@ date: 2023-06-22
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Annual"
-file_type: "Agenda"
+file_type: "Unknown"
 ---
 
 
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
-<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="File Type" style="display:none;">Unknown</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 

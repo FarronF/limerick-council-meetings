@@ -3,14 +3,14 @@ date: 2023-11-27
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"
-file_type: "Agenda"
+file_type: "Unknown"
 ---
 
 
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="File Type" style="display:none;">Unknown</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 

@@ -74,6 +74,7 @@ hide:
 
   .pf-main {
     flex-grow: 1;
+    min-width: 0;
   }
 
   .pf-search-box {
@@ -135,17 +136,50 @@ hide:
     cursor: pointer;
     text-align: center;
   }
+
+  /* --- RESPONSIVE BREAKPOINT (728px) --- */
+  @media screen and (max-width: 728px) {
+    .pf-container {
+      flex-direction: column;
+    }
+    .pf-sidebar {
+      width: 100%;
+    }
+    .pf-mobile-filter-wrapper {
+      border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+      border-radius: 6px;
+      background: var(--md-default-bg-color, #fff);
+      margin-bottom: 1rem;
+      overflow: hidden;
+    }
+    .pf-mobile-filter-wrapper summary {
+      font-weight: bold;
+      padding: 0.85rem 1rem;
+      cursor: pointer;
+      user-select: none;
+      background: var(--md-code-bg-color, rgba(0,0,0,0.02));
+    }
+    .pf-mobile-filter-inner {
+      padding: 0.5rem 1rem 1rem 1rem;
+    }
+  }
 </style>
 
 <input type="text" id="pf-input" class="pf-search-box" placeholder="Search council meetings by keyword, topic, or motion...">
 
 <div class="pf-container">
+  <!-- Sidebar wrapped in a mobile-responsive accordion toggle wrapper -->
   <div class="pf-sidebar">
-    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
-      <strong style="font-size:1rem;">Filters</strong>
-      <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all</button>
-    </div>
-    <div id="pf-filters-container">Loading filters...</div>
+    <details class="pf-mobile-filter-wrapper">
+      <summary>Filters & Facets</summary>
+      <div class="pf-mobile-filter-inner">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+          <strong style="font-size:1rem;">Refine Search</strong>
+          <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all</button>
+        </div>
+        <div id="pf-filters-container">Loading filters...</div>
+      </div>
+    </details>
   </div>
 
   <div class="pf-main">
@@ -222,7 +256,6 @@ hide:
       const entries = Object.entries(filters[catKey]);
 
       if (catKey === "Council Body") {
-        // Define exact categories and order groups
         const fullCouncilItems = [];
         const municipalItems = [];
         const committeeItems = [];
@@ -240,12 +273,10 @@ hide:
           }
         });
 
-        // Sort sub-lists alphabetically
         fullCouncilItems.sort((a, b) => a[0].localeCompare(b[0]));
         municipalItems.sort((a, b) => a[0].localeCompare(b[0]));
         committeeItems.sort((a, b) => a[0].localeCompare(b[0]));
 
-        // Helper to append section header and items
         const appendSection = (title, items) => {
           if (items.length === 0) return;
           const header = document.createElement('div');
@@ -263,7 +294,6 @@ hide:
         appendSection("Committees", committeeItems);
 
       } else {
-        // Standard alphabetical sorting for all other facets
         entries.sort((a, b) => a[0].localeCompare(b[0]));
         entries.forEach(([val, count]) => {
           listDiv.appendChild(createCheckboxLabel(catKey, val, count));
@@ -293,6 +323,10 @@ hide:
 
   async function runSearch(isFilterChange = false) {
     const currentSequence = ++searchSequence;
+
+    document.getElementById('pf-stats').innerText = "Searching...";
+    document.getElementById('pf-results').innerHTML = '<p style="padding: 1rem; opacity: 0.7;">Searching...</p>';
+    document.getElementById('pf-load-more-btn').style.display = 'none';
 
     const query = document.getElementById('pf-input').value.trim();
     const rawFilters = {};
@@ -329,8 +363,6 @@ hide:
       if (currentSequence !== searchSequence) return;
 
       allResults = response.results;
-      
-      // RESET render count here so new searches always start fresh from the first batch
       currentRenderCount = 20;
 
       document.getElementById('pf-stats').innerText = `${allResults.length} meeting${allResults.length === 1 ? '' : 's'} found`;
@@ -356,6 +388,8 @@ hide:
 
     } catch (err) {
       console.error(err);
+      document.getElementById('pf-stats').innerText = "Error executing search.";
+      document.getElementById('pf-results').innerHTML = '<p style="padding: 1rem; color: red;">Failed to fetch results.</p>';
     }
   }
 

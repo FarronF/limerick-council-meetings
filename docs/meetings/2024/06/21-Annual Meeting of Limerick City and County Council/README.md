@@ -3,14 +3,14 @@ date: 2024-06-21
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Annual"
-file_type: "Agenda"
+file_type: "Unknown"
 ---
 
 
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
-<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="File Type" style="display:none;">Unknown</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-06</span>
 
