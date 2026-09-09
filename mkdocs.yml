@@ -6,12 +6,16 @@ theme:
   name: material
 
 plugins:
-  - search
+  - search: false
   - mkdocs-breadcrumbs-plugin:
       delimiter: ' > '
       log_level: 'WARNING'
       generate_home_index: false
       use_page_titles: false
+
+markdown_extensions:
+  - toc:
+      toc_depth: 0 # Globally disables the generation of table of contents sidebars
 
 nav:
   - Home: index.md
