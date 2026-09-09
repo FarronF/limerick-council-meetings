@@ -1,19 +1,3 @@
----
-date: 2021-04-19
-council_body: "Community, Leisure & Emergency Services SPC"
-category: "Committee"
-meeting_type: "Regular"
-file_type: "Unknown"
----
-
-
-<span data-pagefind-filter="Category" style="display:none;">Committee</span>
-<span data-pagefind-filter="Council Body" style="display:none;">Community, Leisure & Emergency Services SPC</span>
-<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="File Type" style="display:none;">Unknown</span>
-<span data-pagefind-filter="Year" style="display:none;">2021</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
-
 # Meeting Details
 
 **Meeting Name:** Virtual Meeting of the Community, Leisure and Culture Strategic Policy Committee

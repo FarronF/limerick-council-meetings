@@ -1,19 +1,3 @@
----
-date: 2025-02-11
-council_body: "Adare-Rathkeale"
-category: "Municipal District"
-meeting_type: "Regular"
-file_type: "Unknown"
----
-
-
-<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
-<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
-<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="File Type" style="display:none;">Unknown</span>
-<span data-pagefind-filter="Year" style="display:none;">2025</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
-
 # Meeting Details
 
 **Meeting Name:** Monthly Meeting of Municipal District of Adare-Rathkeale

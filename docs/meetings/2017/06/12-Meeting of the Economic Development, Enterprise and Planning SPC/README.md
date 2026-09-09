@@ -1,19 +1,3 @@
----
-date: 2017-06-12
-council_body: "Economic Development & Planning SPC"
-category: "Committee"
-meeting_type: "Regular"
-file_type: "Unknown"
----
-
-
-<span data-pagefind-filter="Category" style="display:none;">Committee</span>
-<span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
-<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
-<span data-pagefind-filter="File Type" style="display:none;">Unknown</span>
-<span data-pagefind-filter="Year" style="display:none;">2017</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
-
 # Meeting Details
 
 **Meeting Name:** Meeting of the Economic Development, Enterprise and Planning SPC

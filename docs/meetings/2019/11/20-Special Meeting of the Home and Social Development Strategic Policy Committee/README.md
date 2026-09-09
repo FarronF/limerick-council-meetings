@@ -1,19 +1,3 @@
----
-date: 2019-11-20
-council_body: "Home & Social Development SPC"
-category: "Committee"
-meeting_type: "Special"
-file_type: "Unknown"
----
-
-
-<span data-pagefind-filter="Category" style="display:none;">Committee</span>
-<span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
-<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
-<span data-pagefind-filter="File Type" style="display:none;">Unknown</span>
-<span data-pagefind-filter="Year" style="display:none;">2019</span>
-<span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
-
 # Meeting Details
 
 **Meeting Name:** Special Meeting of the Home and Social Development Strategic Policy Committee
