@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Statutory Budget Meeting of Limerick City and County Council - 17th November 2017"
 date: 2017-11-17
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Statutory Budget Meeting of Limerick City and County Council - 17th November 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-11-17</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
-<span data-pagefind-meta="date" style="display:none;">2017-11-17</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Budget%20Meeting%20171117.pdf)
 

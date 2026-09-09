@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Adjourned Meeting of the Municipal District of Newcastle West - 13th May 2026"
 date: 2026-05-13
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Adjourned Meeting of the Municipal District of Newcastle West - 13th May 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-05-13</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
-<span data-pagefind-meta="date" style="display:none;">2026-05-13</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-adjourned-meeting-of-the-municipal-district-of-newcastle-west-13th-may-2026.pdf)
 

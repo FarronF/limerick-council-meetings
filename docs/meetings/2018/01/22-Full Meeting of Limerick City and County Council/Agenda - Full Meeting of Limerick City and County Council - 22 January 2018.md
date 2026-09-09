@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Full Meeting of Limerick City and County Council - 22 January 2018"
 date: 2018-01-22
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Full Meeting of Limerick City and County Council - 22 January 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-01-22</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
-<span data-pagefind-meta="date" style="display:none;">2018-01-22</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20January%20Council%20Meeting%20220118.pdf)
 

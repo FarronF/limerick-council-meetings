@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 23rd November 2016"
 date: 2016-11-23
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 23rd November 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-11-23</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-11</span>
-<span data-pagefind-meta="date" style="display:none;">2016-11-23</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_special_meeting_of_the_municipal_district_of_adare-rathkeale_-_23rd_november_2016.pdf)
 

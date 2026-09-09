@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Municipal District of Adare-Rathkeale - 13th December 2016"
 date: 2016-12-13
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Municipal District of Adare-Rathkeale - 13th December 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-12-13</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-12</span>
-<span data-pagefind-meta="date" style="display:none;">2016-12-13</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_13th_december2c_2016.pdf)
 

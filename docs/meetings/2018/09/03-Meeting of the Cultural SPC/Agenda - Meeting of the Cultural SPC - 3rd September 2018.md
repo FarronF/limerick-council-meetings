@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Cultural SPC - 3rd September 2018"
 date: 2018-09-03
 council_body: "Cultural SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Cultural SPC - 3rd September 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-09-03</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cultural SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
-<span data-pagefind-meta="date" style="display:none;">2018-09-03</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20Cultural%20SPC%203rd%20September%202018.pdf)
 

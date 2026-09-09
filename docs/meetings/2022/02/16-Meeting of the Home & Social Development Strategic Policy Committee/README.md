@@ -1,4 +1,5 @@
 ---
+title: "README"
 date: 2022-02-16
 council_body: "Home & Social Development SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="date" style="display:none;">2022-02-16</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
-<span data-pagefind-meta="date" style="display:none;">2022-02-16</span>
 
 # Meeting Details
 

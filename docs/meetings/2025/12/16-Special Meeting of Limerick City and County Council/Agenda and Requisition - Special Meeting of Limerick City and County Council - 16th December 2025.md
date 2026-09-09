@@ -1,4 +1,5 @@
 ---
+title: "Agenda and Requisition - Special Meeting of Limerick City and County Council - 16th December 2025"
 date: 2025-12-16
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda and Requisition - Special Meeting of Limerick City and County Council - 16th December 2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-12-16</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
-<span data-pagefind-meta="date" style="display:none;">2025-12-16</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-and-requisition-special-meeting-of-limerick-city-and-county-council-16th-december-2025.pdf)
 

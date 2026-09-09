@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Draft Budgetary Plan 2017 Newcastle West - 19th October 2016"
 date: 2016-11-09
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Draft Budgetary Plan 2017 Newcastle West - 19th October 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-11-09</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-11</span>
-<span data-pagefind-meta="date" style="display:none;">2016-11-09</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_draft_budgetary_plan_2017_newcastle_west_191016.pdf)
 

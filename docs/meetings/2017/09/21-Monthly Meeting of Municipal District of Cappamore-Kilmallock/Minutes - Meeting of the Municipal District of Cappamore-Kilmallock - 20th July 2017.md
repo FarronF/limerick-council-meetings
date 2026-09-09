@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th July 2017"
 date: 2017-09-21
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th July 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-09-21</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
-<span data-pagefind-meta="date" style="display:none;">2017-09-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%28i%29%20Minutes%20Meeting%20200717.pdf)
 

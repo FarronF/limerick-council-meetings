@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 21st October 2021"
 date: 2021-10-21
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 21st October 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-10-21</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
-<span data-pagefind-meta="date" style="display:none;">2021-10-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-21st-october-md-meeting.pdf)
 

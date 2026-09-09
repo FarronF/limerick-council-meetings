@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Draft Budgetary Plan Meeting for the Metropolitan District of Limerick - 15th October 2018"
 date: 2018-11-19
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Draft Budgetary Plan Meeting for the Metropolitan District of Limerick - 15th October 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-11-19</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
-<span data-pagefind-meta="date" style="display:none;">2018-11-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01b%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%202018.pdf)
 

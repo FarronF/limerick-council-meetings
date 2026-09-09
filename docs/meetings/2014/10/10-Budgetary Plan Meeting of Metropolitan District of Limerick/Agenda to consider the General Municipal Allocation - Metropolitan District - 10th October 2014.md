@@ -1,4 +1,5 @@
 ---
+title: "Agenda to consider the General Municipal Allocation - Metropolitan District - 10th October 2014"
 date: 2014-10-10
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda to consider the General Municipal Allocation - Metropolitan District - 10th October 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-10-10</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
-<span data-pagefind-meta="date" style="display:none;">2014-10-10</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/general_municipal_allocation.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Annual Meeting of Metropolitan District of Limerick - 20 June 2022"
 date: 2022-06-20
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Annual"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of Metropolitan District of Limerick - 20 June 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-06-20</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
-<span data-pagefind-meta="date" style="display:none;">2022-06-20</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Annual-Meeting-of-Metropolitan-District-of-Limerick-20th-June-2022.pdf)
 

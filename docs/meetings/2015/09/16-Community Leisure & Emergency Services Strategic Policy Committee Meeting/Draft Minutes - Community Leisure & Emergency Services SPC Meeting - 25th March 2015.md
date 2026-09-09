@@ -1,4 +1,5 @@
 ---
+title: "Draft Minutes - Community Leisure & Emergency Services SPC Meeting - 25th March 2015"
 date: 2015-09-16
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Draft Minutes - Community Leisure & Emergency Services SPC Meeting - 25th March 2015</span>
+<span data-pagefind-meta="date" style="display:none;">2015-09-16</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Community, Leisure & Emergency Services SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
-<span data-pagefind-meta="date" style="display:none;">2015-09-16</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20Meeting%20-%2025th%20March%202015.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting of Metropolitan District of Limerick - 21st July 2014"
 date: 2014-07-21
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Metropolitan District of Limerick - 21st July 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-07-21</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
-<span data-pagefind-meta="date" style="display:none;">2014-07-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_of_special_meeting_of_the_metropolitan_district_of_limerick_-_21_july_2014.pdf)
 

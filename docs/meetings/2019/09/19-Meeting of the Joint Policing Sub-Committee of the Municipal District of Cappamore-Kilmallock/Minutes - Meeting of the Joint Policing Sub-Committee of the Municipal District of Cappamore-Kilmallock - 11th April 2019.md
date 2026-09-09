@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 11th April 2019"
 date: 2019-09-19
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 11th April 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-09-19</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
-<span data-pagefind-meta="date" style="display:none;">2019-09-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%20JPC%20Meeting%2011%204%2019.pdf)
 

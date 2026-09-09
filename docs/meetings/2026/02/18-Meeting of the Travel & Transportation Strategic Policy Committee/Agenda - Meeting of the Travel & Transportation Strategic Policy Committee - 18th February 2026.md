@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 18th February 2026"
 date: 2026-02-18
 council_body: "Travel & Transportation SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 18th February 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-02-18</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
-<span data-pagefind-meta="date" style="display:none;">2026-02-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-18th-february-2026.pdf)
 

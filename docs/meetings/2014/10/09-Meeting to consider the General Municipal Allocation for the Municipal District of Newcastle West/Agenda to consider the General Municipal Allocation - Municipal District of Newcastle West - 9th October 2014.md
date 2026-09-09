@@ -1,4 +1,5 @@
 ---
+title: "Agenda to consider the General Municipal Allocation - Municipal District of Newcastle West - 9th October 2014"
 date: 2014-10-09
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda to consider the General Municipal Allocation - Municipal District of Newcastle West - 9th October 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-10-09</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
-<span data-pagefind-meta="date" style="display:none;">2014-10-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_agenda_to_consider_the_general_municipal_allocation_9th_october_2014.pdf)
 

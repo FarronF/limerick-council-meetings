@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Full Meeting of Limerick City and County Council - 25th November 2019"
 date: 2020-01-27
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Full Meeting of Limerick City and County Council - 25th November 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2020-01-27</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
-<span data-pagefind-meta="date" style="display:none;">2020-01-27</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01-minutes-november-council-meeting-25.11.19.pdf)
 

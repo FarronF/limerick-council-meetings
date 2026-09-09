@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 9th April 2018"
 date: 2018-06-11
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 9th April 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-06-11</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
-<span data-pagefind-meta="date" style="display:none;">2018-06-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Minutes%20of%20SPC%209th%20April%202018.pdf)
 

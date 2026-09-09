@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting of the Metropolitan District of Limerick - 4th September 2020"
 date: 2020-09-04
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Metropolitan District of Limerick - 4th September 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-09-04</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
-<span data-pagefind-meta="date" style="display:none;">2020-09-04</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-08/00-agenda-special-meeting-4th-september-2020.pdf)
 

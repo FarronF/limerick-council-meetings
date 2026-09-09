@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 9th October 2019"
 date: 2020-02-05
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 9th October 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2020-02-05</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
-<span data-pagefind-meta="date" style="display:none;">2020-02-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-2019-10-09-minutes-jpc-subcommittee.pdf)
 

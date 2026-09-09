@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Joint Policing Subcommittee Meeting of the Municipal District of Adare-Rathkeale - 16th November 2021"
 date: 2021-11-16
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Joint Policing Subcommittee Meeting of the Municipal District of Adare-Rathkeale - 16th November 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-11-16</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
-<span data-pagefind-meta="date" style="display:none;">2021-11-16</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-16th-november-2021.pdf)
 

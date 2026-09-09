@@ -1,4 +1,5 @@
 ---
+title: "Minutes  - Annual Meeting of Metropolitan District of Limerick -  14th June 2019"
 date: 2019-07-15
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes  - Annual Meeting of Metropolitan District of Limerick -  14th June 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-07-15</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
-<span data-pagefind-meta="date" style="display:none;">2019-07-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2014th%20June%202019.pdf)
 

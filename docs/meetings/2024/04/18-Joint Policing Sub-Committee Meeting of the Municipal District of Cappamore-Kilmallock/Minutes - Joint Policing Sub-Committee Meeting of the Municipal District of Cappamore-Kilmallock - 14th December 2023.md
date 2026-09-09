@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 14th December 2023"
 date: 2024-04-18
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 14th December 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2024-04-18</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
-<span data-pagefind-meta="date" style="display:none;">2024-04-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/02-minutes-joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
 

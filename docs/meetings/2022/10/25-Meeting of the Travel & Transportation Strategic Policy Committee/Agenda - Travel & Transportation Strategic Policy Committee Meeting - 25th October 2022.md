@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Travel & Transportation Strategic Policy Committee Meeting - 25th October 2022"
 date: 2022-10-25
 council_body: "Travel & Transportation SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Travel & Transportation Strategic Policy Committee Meeting - 25th October 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-10-25</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
-<span data-pagefind-meta="date" style="display:none;">2022-10-25</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20Travel%20%26%20Transportation%20SPC%20Meeting%20-%2025.10.22.pdf)
 

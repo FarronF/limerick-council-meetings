@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 12th April 2019"
 date: 2019-04-12
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 12th April 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-04-12</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
-<span data-pagefind-meta="date" style="display:none;">2019-04-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%2012th%20April%2C%202019.pdf)
 

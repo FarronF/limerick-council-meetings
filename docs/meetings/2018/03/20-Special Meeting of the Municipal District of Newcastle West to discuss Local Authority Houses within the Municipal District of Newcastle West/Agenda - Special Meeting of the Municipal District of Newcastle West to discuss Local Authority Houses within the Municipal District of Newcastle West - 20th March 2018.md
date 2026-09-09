@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting of the Municipal District of Newcastle West to discuss Local Authority Houses within the Municipal District of Newcastle West - 20th March 2018"
 date: 2018-03-20
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Municipal District of Newcastle West to discuss Local Authority Houses within the Municipal District of Newcastle West - 20th March 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-03-20</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
-<span data-pagefind-meta="date" style="display:none;">2018-03-20</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-20%20B%20-%20Agenda%20Special%20Meeting%20on%20LA%20houses.pdf)
 

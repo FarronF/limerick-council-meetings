@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Special Housing Meeting of the Municipal District of Newcastle West - 20th March"
 date: 2018-04-11
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Special Housing Meeting of the Municipal District of Newcastle West - 20th March</span>
+<span data-pagefind-meta="date" style="display:none;">2018-04-11</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
-<span data-pagefind-meta="date" style="display:none;">2018-04-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01d%202018-03-20%20Minutes%20Special%20Meeting%20on%20Housing%20Issues%20Municipal%20District%20of%20Newcastle%20West.pdf)
 

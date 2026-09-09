@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of Travel and Transportation Strategic Policy Committee - 27th April 2022"
 date: 2022-07-12
 council_body: "Travel & Transportation SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of Travel and Transportation Strategic Policy Committee - 27th April 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-07-12</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
-<span data-pagefind-meta="date" style="display:none;">2022-07-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Minutes%20of%20%20T%26T%20SPC%20Meeting%2027.04.22_0.pdf)
 

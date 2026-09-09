@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of Municipal District of Newcastle West - 11th January 2017"
 date: 2017-01-11
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of Municipal District of Newcastle West - 11th January 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-01-11</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-01</span>
-<span data-pagefind-meta="date" style="display:none;">2017-01-11</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_january_meeting_of_municipal_district_of_newcastle_west.pdf)
 

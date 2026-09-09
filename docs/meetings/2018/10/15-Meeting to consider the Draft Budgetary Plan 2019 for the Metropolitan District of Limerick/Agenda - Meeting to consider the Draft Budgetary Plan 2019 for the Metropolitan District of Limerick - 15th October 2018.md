@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Metropolitan District of Limerick - 15th October 2018"
 date: 2018-10-15
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Metropolitan District of Limerick - 15th October 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-10-15</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
-<span data-pagefind-meta="date" style="display:none;">2018-10-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%2C%202018.pdf)
 

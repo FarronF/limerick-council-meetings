@@ -1,4 +1,5 @@
 ---
+title: "README"
 date: 2021-02-22
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Meeting Overview"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="date" style="display:none;">2021-02-22</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
-<span data-pagefind-meta="date" style="display:none;">2021-02-22</span>
 
 # Meeting Details
 

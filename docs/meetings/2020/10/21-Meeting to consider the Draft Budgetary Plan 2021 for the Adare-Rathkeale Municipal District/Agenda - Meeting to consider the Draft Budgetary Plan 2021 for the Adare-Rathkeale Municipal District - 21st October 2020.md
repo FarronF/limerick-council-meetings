@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Adare-Rathkeale Municipal District - 21st October 2020"
 date: 2020-10-21
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Adare-Rathkeale Municipal District - 21st October 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-10-21</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
-<span data-pagefind-meta="date" style="display:none;">2020-10-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-21st-october-2020.pdf)
 

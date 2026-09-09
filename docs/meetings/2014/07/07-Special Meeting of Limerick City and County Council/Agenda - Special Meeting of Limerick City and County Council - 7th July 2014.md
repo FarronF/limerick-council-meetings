@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting of Limerick City and County Council - 7th July 2014"
 date: 2014-07-07
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 7th July 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-07-07</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
-<span data-pagefind-meta="date" style="display:none;">2014-07-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/special_meeting_of_limerick_city_and_county_council_-_agenda_07_july_2014.pdf)
 

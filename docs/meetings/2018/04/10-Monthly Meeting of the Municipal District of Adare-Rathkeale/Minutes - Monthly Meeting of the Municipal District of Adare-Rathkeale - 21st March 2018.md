@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 21st March 2018"
 date: 2018-04-10
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 21st March 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-04-10</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
-<span data-pagefind-meta="date" style="display:none;">2018-04-10</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%2021st%20March%202018.pdf)
 

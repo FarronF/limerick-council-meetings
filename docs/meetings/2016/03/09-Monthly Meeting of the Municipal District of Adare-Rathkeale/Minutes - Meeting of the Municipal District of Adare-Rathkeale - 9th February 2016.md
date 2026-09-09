@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Municipal District of Adare-Rathkeale - 9th February 2016"
 date: 2016-03-09
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Municipal District of Adare-Rathkeale - 9th February 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-03-09</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
-<span data-pagefind-meta="date" style="display:none;">2016-03-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20February%202016.pdf)
 

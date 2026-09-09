@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st March 2024"
 date: 2024-03-21
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st March 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-03-21</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
-<span data-pagefind-meta="date" style="display:none;">2024-03-21</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-march-2024.pdf)
 

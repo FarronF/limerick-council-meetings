@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Municipal District Newcastle West - 11th June 2014"
 date: 2014-06-11
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Annual"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Municipal District Newcastle West - 11th June 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-06-11</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
-<span data-pagefind-meta="date" style="display:none;">2014-06-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_ncw_-_meeting_11-06-14_0.pdf)
 

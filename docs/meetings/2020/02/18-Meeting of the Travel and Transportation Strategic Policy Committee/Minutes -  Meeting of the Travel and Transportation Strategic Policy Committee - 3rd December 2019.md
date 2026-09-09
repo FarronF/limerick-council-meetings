@@ -1,4 +1,5 @@
 ---
+title: "Minutes -  Meeting of the Travel and Transportation Strategic Policy Committee - 3rd December 2019"
 date: 2020-02-18
 council_body: "Travel & Transportation SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes -  Meeting of the Travel and Transportation Strategic Policy Committee - 3rd December 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2020-02-18</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
-<span data-pagefind-meta="date" style="display:none;">2020-02-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/draft-minutes-travel-transportation-spc-meeting-3.12.19.pdf)
 

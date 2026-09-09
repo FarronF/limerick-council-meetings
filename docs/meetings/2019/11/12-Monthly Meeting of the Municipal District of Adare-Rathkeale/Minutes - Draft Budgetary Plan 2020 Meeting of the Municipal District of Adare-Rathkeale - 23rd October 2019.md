@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Draft Budgetary Plan 2020 Meeting of the Municipal District of Adare-Rathkeale - 23rd October 2019"
 date: 2019-11-12
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Draft Budgetary Plan 2020 Meeting of the Municipal District of Adare-Rathkeale - 23rd October 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-11-12</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
-<span data-pagefind-meta="date" style="display:none;">2019-11-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28b%29%20Minutes%20of%20Draft%20Budgetary%20Plan%202020%20Meeting%2023rd%20October%2C%202019.pdf)
 

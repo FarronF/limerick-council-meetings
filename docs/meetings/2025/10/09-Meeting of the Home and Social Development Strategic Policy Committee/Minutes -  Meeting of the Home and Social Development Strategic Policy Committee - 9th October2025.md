@@ -1,4 +1,5 @@
 ---
+title: "Minutes -  Meeting of the Home and Social Development Strategic Policy Committee - 9th October2025"
 date: 2025-10-09
 council_body: "Home & Social Development SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes -  Meeting of the Home and Social Development Strategic Policy Committee - 9th October2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-10-09</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
-<span data-pagefind-meta="date" style="display:none;">2025-10-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-home-and-social-strategic-policy-committee-9th-october-2025.pdf)
 

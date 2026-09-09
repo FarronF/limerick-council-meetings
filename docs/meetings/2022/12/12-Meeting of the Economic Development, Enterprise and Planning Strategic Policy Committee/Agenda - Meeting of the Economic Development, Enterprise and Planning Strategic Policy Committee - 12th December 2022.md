@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 12th December 2022"
 date: 2022-12-12
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 12th December 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-12-12</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
-<span data-pagefind-meta="date" style="display:none;">2022-12-12</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda-Economic-Development-Enterprise-Planning-SPC-Meeting-12th-December-22.pdf)
 

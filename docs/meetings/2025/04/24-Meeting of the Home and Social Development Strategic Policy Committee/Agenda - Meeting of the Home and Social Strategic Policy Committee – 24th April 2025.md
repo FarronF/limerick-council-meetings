@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Home and Social Strategic Policy Committee – 24th April 2025"
 date: 2025-04-24
 council_body: "Home & Social Development SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Home and Social Strategic Policy Committee – 24th April 2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-04-24</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
-<span data-pagefind-meta="date" style="display:none;">2025-04-24</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-home-and-social-strategic-policy-committee-24th-april-2025.pdf)
 

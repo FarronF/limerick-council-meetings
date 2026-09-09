@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 18th September 2014"
 date: 2014-09-18
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 18th September 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-09-18</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
-<span data-pagefind-meta="date" style="display:none;">2014-09-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20meeting_of_the_municipal_district_of_cappamore-kilmallock_-_agenda_18_september_2014.pdf)
 

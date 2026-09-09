@@ -1,4 +1,5 @@
 ---
+title: "Draft Minutes - Special Meeting of Limerick City and County Council - 21st October 2022"
 date: 2022-11-28
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Draft Minutes - Special Meeting of Limerick City and County Council - 21st October 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-11-28</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
-<span data-pagefind-meta="date" style="display:none;">2022-11-28</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28c%29%20Draft%20Minutes%20Special%20Meeting%2021.10.2022%20%28Land%20Tax%29.pdf)
 

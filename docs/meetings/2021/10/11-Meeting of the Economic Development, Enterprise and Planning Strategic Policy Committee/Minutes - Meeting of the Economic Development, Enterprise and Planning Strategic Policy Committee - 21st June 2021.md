@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 21st June 2021"
 date: 2021-10-11
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 21st June 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-10-11</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
-<span data-pagefind-meta="date" style="display:none;">2021-10-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/item-1-minutes-of-spc-21st-june-2021.pdf)
 

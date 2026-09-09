@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Full Meeting of Limerick City and County Council - 28th March 2022"
 date: 2022-03-28
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Full Meeting of Limerick City and County Council - 28th March 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-03-28</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
-<span data-pagefind-meta="date" style="display:none;">2022-03-28</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-council-meeting-28.03.2022.pdf)
 

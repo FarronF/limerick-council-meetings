@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of Municipal District of Newcastle West - 4th October 2017"
 date: 2017-11-08
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of Municipal District of Newcastle West - 4th October 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-11-08</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
-<span data-pagefind-meta="date" style="display:none;">2017-11-08</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%202017-10-04%20Minutes%20Monthly%20Meeeting%20Newcastle%20West.pdf)
 

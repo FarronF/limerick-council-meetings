@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 18th June 2018"
 date: 2018-10-15
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 18th June 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-10-15</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Community, Leisure & Emergency Services SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
-<span data-pagefind-meta="date" style="display:none;">2018-10-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Item%201%20%20Minutes%20of%20Meeting%2018%20June%202018.pdf)
 

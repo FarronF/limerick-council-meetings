@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 12th April 2019"
 date: 2019-05-14
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 12th April 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-05-14</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
-<span data-pagefind-meta="date" style="display:none;">2019-05-14</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28c%29%20Minutes%2012th%20April%2C%202019.pdf)
 

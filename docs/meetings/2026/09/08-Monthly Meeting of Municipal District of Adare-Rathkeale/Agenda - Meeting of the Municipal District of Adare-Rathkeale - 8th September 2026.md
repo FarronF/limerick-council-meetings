@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th September 2026"
 date: 2026-09-08
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th September 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-09-08</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-09</span>
-<span data-pagefind-meta="date" style="display:none;">2026-09-08</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-09/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-8th-september-2026.pdf)
 

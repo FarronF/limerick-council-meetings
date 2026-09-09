@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 11th April 2022"
 date: 2022-04-11
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 11th April 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-04-11</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
-<span data-pagefind-meta="date" style="display:none;">2022-04-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/agenda-of-spc-mtg-11-april-22.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 10th December 2020"
 date: 2020-12-10
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 10th December 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-12-10</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
-<span data-pagefind-meta="date" style="display:none;">2020-12-10</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-agenda-for-dec-2020-jpc-sub-committee-mtg.pdf)
 

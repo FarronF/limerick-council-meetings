@@ -1,4 +1,5 @@
 ---
+title: "Draft Minutes - Meeting of the Metropolitan District of Limerick - 10th July 2023"
 date: 2023-09-18
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Draft Minutes - Meeting of the Metropolitan District of Limerick - 10th July 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-09-18</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
-<span data-pagefind-meta="date" style="display:none;">2023-09-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Draft-Minutes-Meeting-of-the-Metropolitan-District-of-Limerick-10th-July-2023.pdf)
 

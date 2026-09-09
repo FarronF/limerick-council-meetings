@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting of Metropolitan District of Limerick - 5th May 2023"
 date: 2023-05-05
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Metropolitan District of Limerick - 5th May 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-05-05</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
-<span data-pagefind-meta="date" style="display:none;">2023-05-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%20Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%205th%20May%202023.pdf)
 

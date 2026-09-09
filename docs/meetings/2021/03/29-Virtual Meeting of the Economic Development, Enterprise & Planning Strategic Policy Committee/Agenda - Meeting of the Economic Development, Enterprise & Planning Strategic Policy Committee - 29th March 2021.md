@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 29th March 2021"
 date: 2021-03-29
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 29th March 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-03-29</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
-<span data-pagefind-meta="date" style="display:none;">2021-03-29</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-of-spc-mtg-march-2021.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 17th February 2020"
 date: 2020-02-17
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 17th February 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-02-17</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
-<span data-pagefind-meta="date" style="display:none;">2020-02-17</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-of-spc-mtg-17th-feb-2020.pdf)
 

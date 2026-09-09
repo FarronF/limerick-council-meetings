@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 18th April 2023"
 date: 2023-04-18
 council_body: "Travel & Transportation SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 18th April 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-04-18</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
-<span data-pagefind-meta="date" style="display:none;">2023-04-18</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Agenda%20-%20Meeting%20of%20the%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20-%2018th%20April%202023.pdf)
 

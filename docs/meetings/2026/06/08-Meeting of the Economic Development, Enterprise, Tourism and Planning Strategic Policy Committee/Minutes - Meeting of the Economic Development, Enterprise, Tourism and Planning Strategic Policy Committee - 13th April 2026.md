@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 13th April 2026"
 date: 2026-06-08
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 13th April 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-06-08</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
-<span data-pagefind-meta="date" style="display:none;">2026-06-08</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-13th-april-2026.pdf)
 

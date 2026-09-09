@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Cultural SPC - 5th November 2018"
 date: 2018-11-05
 council_body: "Cultural SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Cultural SPC - 5th November 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-11-05</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cultural SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
-<span data-pagefind-meta="date" style="display:none;">2018-11-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%20-%20Meeting%20of%20the%20Cultural%20SPC%20-%205th%20November%202018.pdf)
 

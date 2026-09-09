@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Monthly Meeting of the Cappamore-Kilmallock Municipal District - 17th February 2026"
 date: 2026-03-19
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Monthly Meeting of the Cappamore-Kilmallock Municipal District - 17th February 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-03-19</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
-<span data-pagefind-meta="date" style="display:none;">2026-03-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-monthly-meeting-of-the-cappamore-kilmallock-municipal-district-17th-february-2026.pdf)
 

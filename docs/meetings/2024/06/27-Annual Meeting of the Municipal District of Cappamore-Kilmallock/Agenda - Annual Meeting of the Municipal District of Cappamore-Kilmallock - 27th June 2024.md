@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 27th June 2024"
 date: 2024-06-27
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Annual"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 27th June 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-06-27</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-06</span>
-<span data-pagefind-meta="date" style="display:none;">2024-06-27</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/01-agenda-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-27th-june-2024.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting for the Elected Members of the Municipal District of Cappamore-Kilmallock - 29th February 2024"
 date: 2024-02-29
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting for the Elected Members of the Municipal District of Cappamore-Kilmallock - 29th February 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-02-29</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
-<span data-pagefind-meta="date" style="display:none;">2024-02-29</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-for-the-elected-members-of-the-municipal-district-of-cappamore-kilmallock-29th-february-2024.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Minutes of Special Meeting of Limerick City & County Council - 15th December 2014"
 date: 2015-01-26
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes of Special Meeting of Limerick City & County Council - 15th December 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2015-01-26</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
-<span data-pagefind-meta="date" style="display:none;">2015-01-26</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_special_meeting_of_limerick_city_county_council_-_15th_december_2014.pdf)
 

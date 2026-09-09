@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Budget Meeting of Limerick City and County Council - 11th November 2016"
 date: 2016-11-28
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Budget Meeting of Limerick City and County Council - 11th November 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-11-28</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-11</span>
-<span data-pagefind-meta="date" style="display:none;">2016-11-28</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_budget_meeting_111116.pdf)
 

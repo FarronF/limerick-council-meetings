@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 11th March 2025"
 date: 2025-03-11
 council_body: "Environment SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 11th March 2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-03-11</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
-<span data-pagefind-meta="date" style="display:none;">2025-03-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-11th-march-2025.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 6th March 2019"
 date: 2019-03-06
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 6th March 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-03-06</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
-<span data-pagefind-meta="date" style="display:none;">2019-03-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%202019-03-06%20Agenda%20JPC%20Subcommittee%20Meeting%20March%202019.pdf)
 

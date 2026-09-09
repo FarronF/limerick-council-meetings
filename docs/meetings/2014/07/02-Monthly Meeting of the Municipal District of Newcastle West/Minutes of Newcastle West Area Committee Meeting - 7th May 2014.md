@@ -1,4 +1,5 @@
 ---
+title: "Minutes of Newcastle West Area Committee Meeting - 7th May 2014"
 date: 2014-07-02
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes of Newcastle West Area Committee Meeting - 7th May 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-07-02</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
-<span data-pagefind-meta="date" style="display:none;">2014-07-02</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_newcastle_west_area_committee_meeting_-_07_may_2014.pdf)
 

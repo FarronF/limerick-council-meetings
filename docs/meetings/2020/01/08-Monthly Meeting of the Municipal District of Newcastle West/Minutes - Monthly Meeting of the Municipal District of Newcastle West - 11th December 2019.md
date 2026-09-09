@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Monthly Meeting of the Municipal District of Newcastle West - 11th December 2019"
 date: 2020-01-08
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Monthly Meeting of the Municipal District of Newcastle West - 11th December 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2020-01-08</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
-<span data-pagefind-meta="date" style="display:none;">2020-01-08</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%202019-12-11%20Minutes%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
 

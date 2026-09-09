@@ -1,4 +1,5 @@
 ---
+title: "README"
 date: 2019-06-13
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Annual"
 file_type: "Meeting Overview"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="date" style="display:none;">2019-06-13</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
 <span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
-<span data-pagefind-meta="date" style="display:none;">2019-06-13</span>
 
 # Meeting Details
 

@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 23rd April 2024"
 date: 2025-02-19
 council_body: "Travel & Transportation SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 23rd April 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2025-02-19</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
-<span data-pagefind-meta="date" style="display:none;">2025-02-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-23rd-april-2024.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Home and Social Development SPC - 22nd October 2020"
 date: 2020-10-22
 council_body: "Home & Social Development SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Home and Social Development SPC - 22nd October 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-10-22</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
-<span data-pagefind-meta="date" style="display:none;">2020-10-22</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/agenda-spc-meeting-22-oct-2020.pdf)
 

@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Special Meeting of the Metropolitan District of Limerick - 20th June 2019"
 date: 2019-06-20
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Special"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Metropolitan District of Limerick - 20th June 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-06-20</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
-<span data-pagefind-meta="date" style="display:none;">2019-06-20</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20June%2C%202019.pdf)
 

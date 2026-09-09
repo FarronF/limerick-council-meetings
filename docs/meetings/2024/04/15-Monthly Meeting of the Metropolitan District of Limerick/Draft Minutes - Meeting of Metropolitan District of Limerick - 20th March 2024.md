@@ -1,4 +1,5 @@
 ---
+title: "Draft Minutes - Meeting of Metropolitan District of Limerick - 20th March 2024"
 date: 2024-04-15
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Draft Minutes - Meeting of Metropolitan District of Limerick - 20th March 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-04-15</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
-<span data-pagefind-meta="date" style="display:none;">2024-04-15</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-draft-minutes-meeting-of-metropolitan-district-of-limerick-20th-march-2024.pdf)
 

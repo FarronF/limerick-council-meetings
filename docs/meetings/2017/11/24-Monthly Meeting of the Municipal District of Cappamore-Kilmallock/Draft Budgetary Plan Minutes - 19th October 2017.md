@@ -1,4 +1,5 @@
 ---
+title: "Draft Budgetary Plan Minutes - 19th October 2017"
 date: 2017-11-24
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Draft Budgetary Plan Minutes - 19th October 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-11-24</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
-<span data-pagefind-meta="date" style="display:none;">2017-11-24</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Cappamore%20Kilmallock%20Draft%20Budgetary%20Plan%20Minutes%202017%20%281%29.pdf)
 

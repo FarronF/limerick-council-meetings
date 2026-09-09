@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Environment Strategic Policy Committee - 22nd October 2018"
 date: 2018-10-22
 council_body: "Environment SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Environment Strategic Policy Committee - 22nd October 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-10-22</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
-<span data-pagefind-meta="date" style="display:none;">2018-10-22</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/22nd%20October%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee%202_0.pdf)
 

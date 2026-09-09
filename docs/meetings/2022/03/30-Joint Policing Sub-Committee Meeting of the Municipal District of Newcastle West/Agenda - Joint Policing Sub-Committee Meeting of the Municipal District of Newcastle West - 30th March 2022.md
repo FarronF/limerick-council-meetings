@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Newcastle West - 30th March 2022"
 date: 2022-03-30
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Newcastle West - 30th March 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-03-30</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
-<span data-pagefind-meta="date" style="display:none;">2022-03-30</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-2022-03-30-agenda-jpc-subcommittee-meeting-march-2022.pdf)
 

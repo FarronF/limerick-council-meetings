@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 2nd December 2019"
 date: 2019-12-02
 council_body: "Environment SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 2nd December 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-12-02</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
-<span data-pagefind-meta="date" style="display:none;">2019-12-02</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Agenda%20-%202nd%20Dec%202019%20Climate%20Action%2C%20Biodiversity%20Env%20SPC%20Meeting.pdf)
 

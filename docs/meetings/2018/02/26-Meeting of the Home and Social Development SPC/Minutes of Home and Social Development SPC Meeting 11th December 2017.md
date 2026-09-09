@@ -1,4 +1,5 @@
 ---
+title: "Minutes of Home and Social Development SPC Meeting 11th December 2017"
 date: 2018-02-26
 council_body: "Home & Social Development SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes of Home and Social Development SPC Meeting 11th December 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2018-02-26</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
-<span data-pagefind-meta="date" style="display:none;">2018-02-26</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20Home%20and%20Social%20Development%20SPC%20Meeting%2011.12.17.pdf)
 

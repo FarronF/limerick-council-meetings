@@ -1,4 +1,5 @@
 ---
+title: "Minutes - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 17th December 2018"
 date: 2019-01-28
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Minutes - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 17th December 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2019-01-28</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
-<span data-pagefind-meta="date" style="display:none;">2019-01-28</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/03%20%28c%29%20%28v%29%20Community%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee.pdf)
 

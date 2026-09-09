@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of the Community Leisure & Emergency Services SPC - 16th April 2018"
 date: 2018-04-16
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Community Leisure & Emergency Services SPC - 16th April 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-04-16</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Community, Leisure & Emergency Services SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
-<span data-pagefind-meta="date" style="display:none;">2018-04-16</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Agenda%2016th%20April%202018.pdf)
 

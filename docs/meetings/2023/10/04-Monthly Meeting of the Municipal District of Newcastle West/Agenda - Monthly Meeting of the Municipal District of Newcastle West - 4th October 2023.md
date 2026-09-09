@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th October 2023"
 date: 2023-10-04
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th October 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-10-04</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
-<span data-pagefind-meta="date" style="display:none;">2023-10-04</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-4th-October-2023.pdf)
 

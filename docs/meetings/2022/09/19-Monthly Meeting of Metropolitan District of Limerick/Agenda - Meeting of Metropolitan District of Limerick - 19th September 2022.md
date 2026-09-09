@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Meeting of Metropolitan District of Limerick - 19th September 2022"
 date: 2022-09-19
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of Metropolitan District of Limerick - 19th September 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-09-19</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
-<span data-pagefind-meta="date" style="display:none;">2022-09-19</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20September%202022.pdf)
 

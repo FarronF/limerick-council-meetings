@@ -1,4 +1,5 @@
 ---
+title: "Agenda - Municipal District of Newcastle West - 2nd December 2015"
 date: 2015-12-02
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -6,13 +7,14 @@ meeting_type: "Regular"
 file_type: "Agenda"
 ---
 
+<span data-pagefind-meta="title" style="display:none;">Agenda - Municipal District of Newcastle West - 2nd December 2015</span>
+<span data-pagefind-meta="date" style="display:none;">2015-12-02</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
 <span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
-<span data-pagefind-meta="date" style="display:none;">2015-12-02</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202015.pdf)
 
