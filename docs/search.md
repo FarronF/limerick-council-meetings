@@ -1,10 +1,3 @@
----
-hide:
-  - toc
----
-
-# Search Council Meetings
-
 <style>
   .pf-container {
     display: flex;
@@ -18,6 +11,11 @@ hide:
     font-size: 0.88rem;
   }
   
+  /* Desktop: Hide summary so it's a permanent, static sidebar */
+  .pf-mobile-filter-wrapper summary {
+    display: none;
+  }
+
   .pf-filter-group {
     border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
     border-radius: 6px;
@@ -137,7 +135,7 @@ hide:
     text-align: center;
   }
 
-  /* --- RESPONSIVE BREAKPOINT (728px) --- */
+  /* --- MOBILE BREAKPOINT (<= 728px) --- */
   @media screen and (max-width: 728px) {
     .pf-container {
       flex-direction: column;
@@ -153,6 +151,7 @@ hide:
       overflow: hidden;
     }
     .pf-mobile-filter-wrapper summary {
+      display: block; /* Show accordion toggle only on mobile */
       font-weight: bold;
       padding: 0.85rem 1rem;
       cursor: pointer;
@@ -168,10 +167,9 @@ hide:
 <input type="text" id="pf-input" class="pf-search-box" placeholder="Search council meetings by keyword, topic, or motion...">
 
 <div class="pf-container">
-  <!-- Sidebar wrapped in a mobile-responsive accordion toggle wrapper -->
   <div class="pf-sidebar">
-    <details class="pf-mobile-filter-wrapper">
-      <summary>Filters & Facets</summary>
+    <details class="pf-mobile-filter-wrapper" open>
+      <summary>Filters</summary>
       <div class="pf-mobile-filter-inner">
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
           <strong style="font-size:1rem;">Refine Search</strong>
