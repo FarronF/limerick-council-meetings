@@ -1,5 +1,6 @@
 ---
 date: 2025-09-22
+year: "2025"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/supplementary-agenda-council-meeting-22.09.2025.pdf)

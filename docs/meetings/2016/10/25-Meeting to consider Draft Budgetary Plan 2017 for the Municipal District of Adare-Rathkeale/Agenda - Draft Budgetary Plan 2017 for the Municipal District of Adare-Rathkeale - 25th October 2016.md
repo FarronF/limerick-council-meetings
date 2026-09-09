@@ -1,5 +1,6 @@
 ---
 date: 2016-10-25
+year: "2016"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_draft_budgetary_plan_2017_for_the_municipal_district_of_adare-rathkeale_-_25th_october_2016.pdf)

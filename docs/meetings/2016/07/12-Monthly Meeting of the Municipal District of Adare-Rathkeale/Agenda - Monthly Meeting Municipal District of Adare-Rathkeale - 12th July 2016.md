@@ -1,5 +1,6 @@
 ---
 date: 2016-07-12
+year: "2016"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20July%202016_0.pdf)

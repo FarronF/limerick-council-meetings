@@ -1,5 +1,6 @@
 ---
 date: 2015-05-13
+year: "2015"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Special"
@@ -8,6 +9,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
 # Meeting Details

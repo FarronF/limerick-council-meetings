@@ -1,5 +1,6 @@
 ---
 date: 2015-01-08
+year: "2015"
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Special"
@@ -8,6 +9,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_8th_january_2015_0.pdf)

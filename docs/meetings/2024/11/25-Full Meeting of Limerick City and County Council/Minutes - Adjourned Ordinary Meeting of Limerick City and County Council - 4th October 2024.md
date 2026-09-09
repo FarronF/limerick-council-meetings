@@ -1,5 +1,6 @@
 ---
 date: 2024-11-25
+year: "2024"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-b-minutes-adjourned-ordinary-meeting-limerick-city-and-county-council-04.10.2024.pdf)

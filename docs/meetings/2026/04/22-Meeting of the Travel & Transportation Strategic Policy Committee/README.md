@@ -1,5 +1,6 @@
 ---
 date: 2026-04-22
+year: "2026"
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
 # Meeting Details

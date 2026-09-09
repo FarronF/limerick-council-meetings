@@ -1,5 +1,6 @@
 ---
 date: 2015-11-10
+year: "2015"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Adjourned%20Draft%20Budgetary%20Plan%202016%20-%20General%20Municipal%20Allocation%20-%204th%20November%202015.pdf)

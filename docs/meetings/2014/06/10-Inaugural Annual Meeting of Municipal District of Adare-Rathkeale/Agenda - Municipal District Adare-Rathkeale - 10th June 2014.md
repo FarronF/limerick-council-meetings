@@ -1,5 +1,6 @@
 ---
 date: 2014-06-10
+year: "2014"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Annual"
@@ -8,6 +9,7 @@ meeting_type: "Annual"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_adare-rathkeale_-_agenda_10_june_2014_0.pdf)

@@ -1,5 +1,6 @@
 ---
 date: 2015-09-28
+year: "2015"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2029th%20July%202015.pdf)

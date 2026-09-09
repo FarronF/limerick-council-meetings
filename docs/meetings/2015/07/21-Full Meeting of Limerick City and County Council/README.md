@@ -1,5 +1,6 @@
 ---
 date: 2015-07-21
+year: "2015"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
 # Meeting Details

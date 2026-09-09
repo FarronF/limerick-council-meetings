@@ -1,5 +1,6 @@
 ---
 date: 2015-04-15
+year: "2015"
 council_body: "Limerick City and County Council"
 category: "Full Council"
 meeting_type: "Special"
@@ -8,6 +9,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_15th_april_2015.pdf)

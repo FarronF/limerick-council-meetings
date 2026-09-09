@@ -1,5 +1,6 @@
 ---
 date: 2016-09-19
+year: "2016"
 council_body: "Metropolitan District"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-09</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_19th_september_2016.pdf)

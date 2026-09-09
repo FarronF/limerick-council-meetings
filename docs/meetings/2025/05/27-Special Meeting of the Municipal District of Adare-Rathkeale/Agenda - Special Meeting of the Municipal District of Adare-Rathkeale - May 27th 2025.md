@@ -1,5 +1,6 @@
 ---
 date: 2025-05-27
+year: "2025"
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
 meeting_type: "Special"
@@ -8,6 +9,7 @@ meeting_type: "Special"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/00-agenda-27th-may-2025.pdf)

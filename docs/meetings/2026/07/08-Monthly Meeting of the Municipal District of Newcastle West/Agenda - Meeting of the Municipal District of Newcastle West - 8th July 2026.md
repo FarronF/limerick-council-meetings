@@ -1,5 +1,6 @@
 ---
 date: 2026-07-08
+year: "2026"
 council_body: "Newcastle West"
 category: "Municipal District"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
 [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-meeting-of-the-municipal-district-of-newcastle-west-8th-july-2026.pdf)

@@ -1,5 +1,6 @@
 ---
 date: 2016-10-24
+year: "2016"
 council_body: "Home & Social Development SPC"
 category: "Committee"
 meeting_type: "Regular"
@@ -8,6 +9,7 @@ meeting_type: "Regular"
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
 
 [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_home_and_social_development_spc_-_24th_october_2016.pdf)
