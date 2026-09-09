@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2025 — 03 - March
 
 * 📁 [03 Meeting Of The Economic Development, Enterprise, Tourism And Planning Strategic Policy Committee](03-Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee/README.md)

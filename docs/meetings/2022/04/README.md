@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2022 — 04 - April
 
 * 📁 [04 Meeting Of The Community, Leisure And Culture Strategic Policy Committee](04-Meeting of the Community, Leisure and Culture Strategic Policy Committee/README.md)

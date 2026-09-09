@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2024 — 09 - September
 
 * 📁 [03 Monthly Meeting Of Municipal District Of Adare Rathkeale](03-Monthly Meeting of Municipal District of Adare-Rathkeale/README.md)

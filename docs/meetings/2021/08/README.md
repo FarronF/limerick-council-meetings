@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2021 — 08 - August
 
 * 📁 [05 Adjourned Meeting Of The Metropolitan District Of Limerick](05-Adjourned Meeting of the Metropolitan District of Limerick/README.md)

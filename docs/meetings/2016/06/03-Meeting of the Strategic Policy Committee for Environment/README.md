@@ -1,3 +1,18 @@
+---
+date: 2016-06-03
+council_body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Strategic Policy Committee for Environment

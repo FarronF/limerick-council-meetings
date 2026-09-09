@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 04 - April
 
 * 📁 [09 Meeting Of The Economic Development, Enterprise And Planning Spc](09-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)

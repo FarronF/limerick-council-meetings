@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2020 — 10 - October
 
 * 📁 [01 Special Meeting Of The Municipal District Of Cappamore Kilmallock](01-Special Meeting of the Municipal District of Cappamore-Kilmallock/README.md)

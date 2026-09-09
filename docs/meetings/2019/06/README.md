@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2019 — 06 - June
 
 * 📁 [07 Annual Meeting Of Limerick City And County Council](07-Annual Meeting of Limerick City and County Council/README.md)

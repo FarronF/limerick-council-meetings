@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2025 — 06 - June
 
 * 📁 [03 Annual Meeting Of The Municipal District Of Newcastle West](03-Annual Meeting of the Municipal District of Newcastle West/README.md)

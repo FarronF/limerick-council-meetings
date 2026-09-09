@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2024 — 06 - June
 
 * 📁 [21 Annual Meeting Of Limerick City And County Council](21-Annual Meeting of Limerick City and County Council/README.md)

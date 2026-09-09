@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2019 — 11 - November
 
 * 📁 [06 Monthly Meeting Of The Municipal District Of Newcastle West](06-Monthly Meeting of the Municipal District of Newcastle West/README.md)

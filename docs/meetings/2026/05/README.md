@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2026 — 05 - May
 
 * 📁 [07 Meeting Of The Climate Action, Biodiversity And Environment Strategic Policy Committee](07-Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee/README.md)

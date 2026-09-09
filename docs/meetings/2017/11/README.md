@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2017 — 11 - November
 
 * 📁 [06 Three Special Meetings Of Limerick City And County Council](06-Three Special Meetings of Limerick City and County Council/README.md)

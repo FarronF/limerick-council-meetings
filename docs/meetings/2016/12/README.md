@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2016 — 12 - December
 
 * 📁 [05 Travel And Transportation Strategic Policy Committee Meeting](05-Travel and Transportation Strategic Policy Committee Meeting/README.md)

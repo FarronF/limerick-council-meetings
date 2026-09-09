@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2019 — 10 - October
 
 * 📁 [07 Special Meeting Of Metropolitan District Of Limerick](07-Special Meeting of Metropolitan District of Limerick/README.md)

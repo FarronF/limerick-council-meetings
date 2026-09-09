@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2025 — 01 - January
 
 * 📁 [03 Special Meeting Of Limerick City And County Council](03-Special Meeting of Limerick City and County Council/README.md)

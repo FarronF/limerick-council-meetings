@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 12 - December
 
 * 📁 [03 Meeting Of The Economic Development, Enterprise And Planning Spc](03-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)

@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2020 — 06 - June
 
 * 📁 [08 Virtual Meeting Of The Economic Development, Enterprise And Planning Spc](08-Virtual Meeting of the Economic Development, Enterprise and Planning SPC/README.md)

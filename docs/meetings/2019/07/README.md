@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2019 — 07 - July
 
 * 📁 [02 Special Meeting Of The Cappamore Kilmallock Municipal District](02-Special Meeting of the Cappamore-Kilmallock Municipal District/README.md)

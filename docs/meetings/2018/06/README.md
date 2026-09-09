@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 06 - June
 
 * 📁 [07 A Special Meeting Of The Metropolitan District Of Limerick, To Pass A Vote Of Sympathy On The Death Of Former Councillor, Seamus Houlihan Rip](07-A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP/README.md)

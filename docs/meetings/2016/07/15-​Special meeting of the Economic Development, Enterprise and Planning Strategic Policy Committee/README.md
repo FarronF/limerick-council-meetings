@@ -1,3 +1,18 @@
+---
+date: 2016-07-15
+council_body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Special"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
+
 # Meeting Details
 
 **Meeting Name:** ​Special meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee

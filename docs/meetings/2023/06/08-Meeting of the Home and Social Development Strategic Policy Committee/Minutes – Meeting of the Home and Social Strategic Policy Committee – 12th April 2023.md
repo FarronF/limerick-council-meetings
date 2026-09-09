@@ -6,7 +6,6 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
-
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>

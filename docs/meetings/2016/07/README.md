@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2016 — 07 - July
 
 * 📁 [06 Community Leisure & Emergency Services Spc Committee Meeting](06-Community Leisure & Emergency Services SPC Committee Meeting/README.md)

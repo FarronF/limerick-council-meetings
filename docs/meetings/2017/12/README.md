@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2017 — 12 - December
 
 * 📁 [04 Special Meeting Of Limerick City And County Council To Consider The Issues Paper For The Regional And Spatial Economic Strategy For The Southern Region](04-Special Meeting of Limerick City and County Council to consider the Issues Paper for the Regional and Spatial Economic Strategy for the Southern Region/README.md)

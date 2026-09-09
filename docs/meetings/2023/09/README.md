@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2023 — 09 - September
 
 * 📁 [04 Special Meeting Of The Municipal District Of Adare Rathkeale](04-Special Meeting of the Municipal District of Adare-Rathkeale/README.md)

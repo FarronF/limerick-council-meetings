@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2019 — 12 - December
 
 * 📁 [02 Meeting Of The Climate Action, Biodiversity And Environment Strategic Policy Committee](02-Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee/README.md)

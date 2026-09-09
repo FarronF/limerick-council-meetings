@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2017 — 07 - July
 
 * 📁 [11 Monthly Meeting Of The Municipal District Of Adare Rathkeale](11-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)

@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2021 — 09 - September
 
 * 📁 [03 Cancelled_ Special Meeting Of Limerick City And County Council](03-CANCELLED_ Special Meeting of Limerick City and County Council/README.md)

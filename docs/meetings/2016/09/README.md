@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2016 — 09 - September
 
 * 📁 [07 Meeting Of Municipal District Of Newcastle West](07-Meeting of Municipal District of Newcastle West/README.md)

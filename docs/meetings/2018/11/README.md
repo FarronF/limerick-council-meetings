@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 11 - November
 
 * 📁 [02 Special Meeting Of The Municipal District Of Adare Rathkeale](02-Special Meeting of the Municipal District of Adare-Rathkeale/README.md)

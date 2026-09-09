@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2015 — 11 - November
 
 * 📁 [04 Adjourned Draft Budgetary Plan Meeting For The Municipal District Of Adare Rathkeale](04-Adjourned Draft Budgetary Plan Meeting for the Municipal District of Adare-Rathkeale/README.md)

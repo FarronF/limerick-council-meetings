@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2023 — 07 - July
 
 * 📁 [10 Meeting Of The Economic Development, Enterprise And Planning Strategic Policy Committee](10-Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee/README.md)

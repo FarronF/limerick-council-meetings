@@ -6,7 +6,6 @@ meeting_type: "Regular"
 file_type: "Minutes"
 ---
 
-
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>

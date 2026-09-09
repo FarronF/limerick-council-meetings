@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2021 — 01 - January
 
 * 📁 [18 Virtual Monthly Meeting Of Metropolitan District Of Limerick](18-Virtual Monthly Meeting of Metropolitan District of Limerick/README.md)

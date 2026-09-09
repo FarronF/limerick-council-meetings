@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2017 — 09 - September
 
 * 📁 [05 Special Meeting In Committee Of The Municipal District Of Adare Rathkeale](05-Special Meeting In Committee of the Municipal District of Adare-Rathkeale/README.md)

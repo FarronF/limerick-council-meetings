@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2016 — 06 - June
 
 * 📁 [01 Annual Meeting Of The Municipal District Of Adare Rathkeale](01-Annual Meeting of the Municipal District of Adare-Rathkeale/README.md)

@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2022 — 10 - October
 
 * 📁 [03 Meeting Of The Community, Leisure And Culture Strategic Policy Committee](03-Meeting of the Community, Leisure and Culture Strategic Policy Committee/README.md)

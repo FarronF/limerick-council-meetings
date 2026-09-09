@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2021 — 11 - November
 
 * 📁 [02 Special Meeting Of Limerick City And County Council](02-Special Meeting of Limerick City and County Council/README.md)

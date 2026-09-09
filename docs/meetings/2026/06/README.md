@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2026 — 06 - June
 
 * 📁 [08 Meeting Of The Economic Development, Enterprise, Tourism And Planning Strategic Policy Committee](08-Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee/README.md)

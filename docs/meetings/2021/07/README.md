@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2021 — 07 - July
 
 * 📁 [05 Full Meeting Of Limerick City And County Council](05-Full Meeting of Limerick City and County Council/README.md)

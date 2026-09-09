@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2016 — 02 - February
 
 * 📁 [05 Special Meeting Of Limerick City And County Council](05-Special Meeting of Limerick City and County Council/README.md)

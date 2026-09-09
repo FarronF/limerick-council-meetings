@@ -1,3 +1,18 @@
+---
+date: 2018-04-10
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
+
 # Meeting Details
 
 **Meeting Name:** Special Meeting of Limerick City and County Council to discuss Proposed Variation No. 6 to the Limerick County Development Plan 2010-2016 (as extended) to incorporate Changes to Chapter 8 - Transport and Infrastructure Section

@@ -1,3 +1,18 @@
+---
+date: 2026-06-18
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Annual"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2026</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
+
 # Meeting Details
 
 **Meeting Name:** Annual Meeting of the Cappamore-Kilmallock Municipal District

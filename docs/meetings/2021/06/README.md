@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2021 — 06 - June
 
 * 📁 [02 Virtual Monthly Meeting Of The Municipal District Of Newcastle West](02-Virtual Monthly Meeting of the Municipal District of Newcastle West/README.md)

@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2020 — 01 - January
 
 * 📁 [08 Monthly Meeting Of The Municipal District Of Newcastle West](08-Monthly Meeting of the Municipal District of Newcastle West/README.md)

@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2015 — 12 - December
 
 * 📁 [02 Community, Leisure And Emergency Services Strategic Policy Committee Meeting](02-Community, Leisure and Emergency Services Strategic Policy Committee Meeting/README.md)

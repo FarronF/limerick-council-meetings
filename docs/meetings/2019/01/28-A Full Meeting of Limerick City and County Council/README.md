@@ -1,3 +1,18 @@
+---
+date: 2019-01-28
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
+
 # Meeting Details
 
 **Meeting Name:** A Full Meeting of Limerick City and County Council

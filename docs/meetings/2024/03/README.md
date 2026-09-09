@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2024 — 03 - March
 
 * 📁 [01 Joint Policing Committee Meeting](01-Joint Policing Committee Meeting/README.md)

@@ -1,3 +1,18 @@
+---
+date: 2025-06-26
+council_body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2025</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
+
 # Meeting Details
 
 **Meeting Name:** Meeting of the Home and Social Development Strategic Policy Committee

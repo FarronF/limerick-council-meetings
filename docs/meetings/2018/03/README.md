@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 03 - March
 
 * 📁 [05 Meeting Of The Cultural Spc](05-Meeting of the Cultural SPC/README.md)

@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2023 — 06 - June
 
 * 📁 [02 Joint Policing Committee Meeting](02-Joint Policing Committee Meeting/README.md)

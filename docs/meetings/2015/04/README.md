@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2015 — 04 - April
 
 * 📁 [01 Monthly Meeting Of Municipal District Of Newcastle West](01-Monthly Meeting of Municipal District of Newcastle West/README.md)

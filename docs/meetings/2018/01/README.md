@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 01 - January
 
 * 📁 [08 Special Meeting Of Limerick City And County Council To Discuss The Proposed Exit To Adare From The Proposed New Limerick_Foynes Road](08-Special Meeting of Limerick City and County Council to discuss the proposed exit to Adare from the proposed new Limerick_Foynes Road/README.md)

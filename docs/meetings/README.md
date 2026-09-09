@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # Council Meetings Archive
 
 Select a year to browse records:

@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2017 — 08 - August
 
 * 📁 [04 Special Meeting Of Joint Policing Committee Meeting](04-Special Meeting of Joint Policing Committee Meeting/README.md)

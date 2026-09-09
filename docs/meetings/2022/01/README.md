@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2022 — 01 - January
 
 * 📁 [11 Virtual Monthly Meeting Of Municipal District Of Adare Rathkeale](11-Virtual Monthly Meeting of Municipal District of Adare-Rathkeale/README.md)
