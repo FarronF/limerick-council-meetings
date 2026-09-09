@@ -3,11 +3,14 @@ date: 2021-06-04
 council_body: "Joint Policing Committee"
 category: "Committee"
 meeting_type: "Regular"
+file_type: "Minutes"
 ---
+
 
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Joint Policing Committee</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 

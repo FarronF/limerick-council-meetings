@@ -3,11 +3,14 @@ date: 2021-09-16
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
 meeting_type: "Regular"
+file_type: "Minutes"
 ---
+
 
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 

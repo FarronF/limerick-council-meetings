@@ -3,11 +3,14 @@ date: 2023-02-21
 council_body: "Travel & Transportation SPC"
 category: "Committee"
 meeting_type: "Regular"
+file_type: "Minutes"
 ---
+
 
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
 <span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
