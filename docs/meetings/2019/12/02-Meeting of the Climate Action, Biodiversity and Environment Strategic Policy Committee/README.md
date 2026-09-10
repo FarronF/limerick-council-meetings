@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee
-
-**Date and Time:** 2019-12-02 14:00:00
+# Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-climate-action-biodiversity-and-environment-strategic-policy-committee-1)**
 

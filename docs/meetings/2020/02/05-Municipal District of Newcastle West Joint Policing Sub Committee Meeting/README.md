@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-# Meeting Details
-
-**Meeting Name:** Municipal District of Newcastle West Joint Policing Sub Committee Meeting
-
-**Date and Time:** 2020-02-05 11:45:00
+# Municipal District of Newcastle West Joint Policing Sub Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/municipal-district-newcastle-west-joint-policing-sub-committee-meeting-4)**
 

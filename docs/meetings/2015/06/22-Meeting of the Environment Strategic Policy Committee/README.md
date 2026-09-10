@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Environment Strategic Policy Committee
-
-**Date and Time:** 2015-06-22 11:30:00
+# Meeting of the Environment Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-environment-strategic-policy-committee)**
 

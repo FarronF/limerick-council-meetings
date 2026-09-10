@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Home and Social Development SPC Meeting
-
-**Date and Time:** 2016-10-24 15:30:00
+# Home and Social Development SPC Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/home-and-social-development-spc-meeting)**
 

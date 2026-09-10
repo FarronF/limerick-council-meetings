@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Annual Meeting of the Municipal District of Cappamore-Kilmallock
-
-**Date and Time:** 2019-06-13 15:30:00
+# Annual Meeting of the Municipal District of Cappamore-Kilmallock
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-cappamore-kilmallock-3)**
 

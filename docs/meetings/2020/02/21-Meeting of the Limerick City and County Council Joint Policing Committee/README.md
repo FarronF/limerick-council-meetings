@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Limerick City and County Council Joint Policing Committee
-
-**Date and Time:** 2020-02-21 10:00:00
+# Meeting of the Limerick City and County Council Joint Policing Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-limerick-city-and-county-council-joint-policing-committee-1)**
 

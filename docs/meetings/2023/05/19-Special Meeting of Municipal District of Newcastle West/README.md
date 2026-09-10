@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting of Municipal District of Newcastle West
-
-**Date and Time:** 2023-05-19 10:00:00
+# Special Meeting of Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-of-municipal-district-of-newcastle-west)**
 

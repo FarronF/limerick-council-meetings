@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-# Meeting Details
-
-**Meeting Name:** Adjourned September Meeting of Limerick City and County Council
-
-**Date and Time:** 2017-09-28 15:00:00
+# Adjourned September Meeting of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-september-meeting-limerick-city-and-county-council)**
 

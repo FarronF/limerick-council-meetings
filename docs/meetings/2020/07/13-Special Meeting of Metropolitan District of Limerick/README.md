@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting of Metropolitan District of Limerick
-
-**Date and Time:** 2020-07-13 11:00:00
+# Special Meeting of Metropolitan District of Limerick
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-metropolitan-district-limerick-4)**
 

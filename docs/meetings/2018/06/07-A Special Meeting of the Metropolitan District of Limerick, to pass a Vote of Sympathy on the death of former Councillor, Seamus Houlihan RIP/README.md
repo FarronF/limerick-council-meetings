@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-# Meeting Details
-
-**Meeting Name:** A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP
-
-**Date and Time:** 2018-06-07 10:00:00
+# A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-metropolitan-district-limerick-pass-vote-sympathy-death-former)**
 

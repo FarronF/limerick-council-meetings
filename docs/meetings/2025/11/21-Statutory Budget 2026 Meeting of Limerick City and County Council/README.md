@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-# Meeting Details
-
-**Meeting Name:** Statutory Budget 2026 Meeting of Limerick City and County Council
-
-**Date and Time:** 2025-11-21 10:00:00
+# Statutory Budget 2026 Meeting of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/statutory-budget-2026-meeting-of-limerick-city-and-county-council)**
 

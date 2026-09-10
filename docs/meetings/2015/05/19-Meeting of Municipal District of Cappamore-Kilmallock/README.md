@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of Municipal District of Cappamore-Kilmallock
-
-**Date and Time:** 2015-05-19 15:30:00
+# Meeting of Municipal District of Cappamore-Kilmallock
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-municipal-district-cappamore-kilmallock-1)**
 

@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Cultural SPC
-
-**Date and Time:** 2017-12-12 15:00:00
+# Meeting of the Cultural SPC
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-cultural-spc)**
 

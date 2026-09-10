@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-02</span>
 
-# Meeting Details
-
-**Meeting Name:** Environment Strategic Policy Committee Meeting
-
-**Date and Time:** 2017-02-27 10:00:00
+# Environment Strategic Policy Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/environment-strategic-policy-committee-meeting)**
 

@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-# Meeting Details
-
-**Meeting Name:** Community Leisure and Emergency Services Strategic Policy Committee Meeting
-
-**Date and Time:** 2016-05-11 14:30:00
+# Community Leisure and Emergency Services Strategic Policy Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/community-leisure-and-emergency-services-strategic-policy-committee-meeting-5)**
 

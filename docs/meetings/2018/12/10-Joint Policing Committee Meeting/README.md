@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-# Meeting Details
-
-**Meeting Name:** Joint Policing Committee Meeting
-
-**Date and Time:** 2018-12-10 19:00:00
+# Joint Policing Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-6)**
 

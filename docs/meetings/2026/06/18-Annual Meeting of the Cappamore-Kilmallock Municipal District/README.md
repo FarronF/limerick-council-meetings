@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Annual Meeting of the Cappamore-Kilmallock Municipal District
-
-**Date and Time:** 2026-06-18 14:00:00
+# Annual Meeting of the Cappamore-Kilmallock Municipal District
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-of-the-cappamore-kilmallock-municipal-district)**
 

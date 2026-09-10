@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Budgetary Plan Meeting for Municipal District of Adare-Rathkeale
-
-**Date and Time:** 2014-10-09 09:00:00
+# Budgetary Plan Meeting for Municipal District of Adare-Rathkeale
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/budgetary-plan-meeting-municipal-district-adare-rathkeale)**
 

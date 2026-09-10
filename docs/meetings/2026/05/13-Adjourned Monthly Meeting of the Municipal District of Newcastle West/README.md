@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-# Meeting Details
-
-**Meeting Name:** Adjourned Monthly Meeting of the Municipal District of Newcastle West
-
-**Date and Time:** 2026-05-13 10:00:00
+# Adjourned Monthly Meeting of the Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-monthly-meeting-of-the-municipal-district-of-newcastle-west)**
 

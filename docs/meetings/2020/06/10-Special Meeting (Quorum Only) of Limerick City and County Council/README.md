@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting (Quorum Only) of Limerick City and County Council
-
-**Date and Time:** 2020-06-10 14:30:00
+# Special Meeting (Quorum Only) of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-quorum-only-limerick-city-and-county-council)**
 

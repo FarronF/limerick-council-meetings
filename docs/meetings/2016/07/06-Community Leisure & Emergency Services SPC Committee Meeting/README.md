@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-# Meeting Details
-
-**Meeting Name:** Community Leisure & Emergency Services SPC Committee Meeting
-
-**Date and Time:** 2016-07-06 14:30:00
+# Community Leisure & Emergency Services SPC Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/community-leisure-emergency-services-spc-committee-meeting)**
 

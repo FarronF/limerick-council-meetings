@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting of the Municipal District of Adare-Rathkeale
-
-**Date and Time:** 2018-09-03 17:30:00
+# Special Meeting of the Municipal District of Adare-Rathkeale
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-adare-rathkeale-11)**
 

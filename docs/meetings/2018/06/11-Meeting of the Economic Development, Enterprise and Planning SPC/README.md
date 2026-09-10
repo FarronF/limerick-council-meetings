@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Economic Development, Enterprise and Planning SPC
-
-**Date and Time:** 2018-06-11 14:00:00
+# Meeting of the Economic Development, Enterprise and Planning SPC
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-and-planning-spc-8)**
 

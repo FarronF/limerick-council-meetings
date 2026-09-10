@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting to consider Draft Budgetary Plan 2017/GMA for Municipal District of Newcastle West
-
-**Date and Time:** 2016-10-19 11:00:00
+# Meeting to consider Draft Budgetary Plan 2017/GMA for Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2017-gma-municipal-district-newcastle-west)**
 

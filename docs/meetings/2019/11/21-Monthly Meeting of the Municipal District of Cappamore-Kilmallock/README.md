@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-# Meeting Details
-
-**Meeting Name:** Monthly Meeting of the Municipal District of Cappamore-Kilmallock
-
-**Date and Time:** 2019-11-21 15:00:00
+# Monthly Meeting of the Municipal District of Cappamore-Kilmallock
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-54)**
 

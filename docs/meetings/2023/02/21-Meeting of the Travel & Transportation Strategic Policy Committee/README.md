@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Travel & Transportation Strategic Policy Committee
-
-**Date and Time:** 2023-02-21 15:30:00
+# Meeting of the Travel & Transportation Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-travel-transportation-strategic-policy-committee)**
 

@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-# Meeting Details
-
-**Meeting Name:** Adjourned Meeting of the Metropolitan District of Limerick
-
-**Date and Time:** 2019-09-30 14:00:00
+# Adjourned Meeting of the Metropolitan District of Limerick
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-meeting-metropolitan-district-limerick-0)**
 

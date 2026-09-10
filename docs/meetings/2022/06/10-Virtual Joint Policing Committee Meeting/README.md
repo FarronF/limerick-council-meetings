@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Joint Policing Committee Meeting
-
-**Date and Time:** 2022-06-10 09:00:00
+# Virtual Joint Policing Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/virtual-joint-policing-committee-meeting-1)**
 

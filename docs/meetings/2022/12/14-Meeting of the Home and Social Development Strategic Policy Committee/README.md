@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Home and Social Development Strategic Policy Committee
-
-**Date and Time:** 2022-12-14 15:00:00
+# Meeting of the Home and Social Development Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-home-and-social-development-strategic-policy-committee-12)**
 

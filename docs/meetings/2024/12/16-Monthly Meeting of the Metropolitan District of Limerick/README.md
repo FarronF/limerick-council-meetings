@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-12</span>
 
-# Meeting Details
-
-**Meeting Name:** Monthly Meeting of the Metropolitan District of Limerick
-
-**Date and Time:** 2024-12-16 09:45:00
+# Monthly Meeting of the Metropolitan District of Limerick
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick-18)**
 

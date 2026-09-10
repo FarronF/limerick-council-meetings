@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of Municipal District of Newcastle West
-
-**Date and Time:** 2016-04-06 10:00:00
+# Meeting of Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-municipal-district-newcastle-west-6)**
 

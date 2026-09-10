@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Special Meeting of the Metropolitan District of Limerick
-
-**Date and Time:** 2023-05-05 12:30:00
+# Virtual Special Meeting of the Metropolitan District of Limerick
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/virtual-special-meeting-of-the-metropolitan-district-of-limerick)**
 

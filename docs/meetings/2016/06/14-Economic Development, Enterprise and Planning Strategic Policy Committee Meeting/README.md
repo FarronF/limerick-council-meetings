@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Economic Development, Enterprise and Planning Strategic Policy Committee Meeting
-
-**Date and Time:** 2016-06-14 14:00:00
+# Economic Development, Enterprise and Planning Strategic Policy Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/economic-development-enterprise-and-planning-strategic-policy-committee-meeting-1)**
 

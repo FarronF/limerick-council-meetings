@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Meeting of the Home and Social Development SPC
-
-**Date and Time:** 2020-09-22 14:00:00
+# Virtual Meeting of the Home and Social Development SPC
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/private-meeting-home-and-social-development-spc)**
 

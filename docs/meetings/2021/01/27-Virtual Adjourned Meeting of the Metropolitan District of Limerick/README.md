@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-01</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Adjourned Meeting of the Metropolitan District of Limerick
-
-**Date and Time:** 2021-01-27 10:00:00
+# Virtual Adjourned Meeting of the Metropolitan District of Limerick
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-meeting-metropolitan-district-limerick-1)**
 

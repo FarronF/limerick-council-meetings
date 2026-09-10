@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting to consider the Draft Budgetary Plan 2021 for the Cappamore-Kilmallock Municipal District
-
-**Date and Time:** 2020-10-15 15:30:00
+# Meeting to consider the Draft Budgetary Plan 2021 for the Cappamore-Kilmallock Municipal District
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2021-cappamore-kilmallock-municipal-district)**
 

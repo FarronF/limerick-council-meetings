@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Monthly Meeting of Municipal District of Adare - Rathkeale
-
-**Date and Time:** 2021-05-11 09:30:00
+# Virtual Monthly Meeting of Municipal District of Adare - Rathkeale
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-adare-rathkeale-68)**
 

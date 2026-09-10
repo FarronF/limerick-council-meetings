@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-# Meeting Details
-
-**Meeting Name:** Monthly Meeting of Municipal District of Cappamore/Kilmallock
-
-**Date and Time:** 2021-07-15 15:30:00
+# Monthly Meeting of Municipal District of Cappamore/Kilmallock
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-72)**
 

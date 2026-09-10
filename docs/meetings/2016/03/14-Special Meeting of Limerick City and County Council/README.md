@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting of Limerick City and County Council
-
-**Date and Time:** 2016-03-14 13:30:00
+# Special Meeting of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-22)**
 

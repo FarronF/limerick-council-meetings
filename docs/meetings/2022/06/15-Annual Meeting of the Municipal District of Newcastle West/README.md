@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Annual Meeting of the Municipal District of Newcastle West
-
-**Date and Time:** 2022-06-15 12:00:00
+# Annual Meeting of the Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-newcastle-west-6)**
 

@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting of the Municipal District of Newcastle West
-
-**Date and Time:** 2020-12-16 10:00:00
+# Special Meeting of the Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west-6)**
 

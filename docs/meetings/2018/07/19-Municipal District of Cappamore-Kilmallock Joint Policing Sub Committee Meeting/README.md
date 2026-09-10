@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-# Meeting Details
-
-**Meeting Name:** Municipal District of Cappamore-Kilmallock Joint Policing Sub Committee Meeting
-
-**Date and Time:** 2018-07-19 15:00:00
+# Municipal District of Cappamore-Kilmallock Joint Policing Sub Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/municipal-district-cappamore-kilmallock-joint-policing-sub-committee-meeting-0)**
 

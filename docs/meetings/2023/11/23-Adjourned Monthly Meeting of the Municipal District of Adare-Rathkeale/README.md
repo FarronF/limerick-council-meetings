@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-# Meeting Details
-
-**Meeting Name:** Adjourned Monthly Meeting of the Municipal District of Adare-Rathkeale
-
-**Date and Time:** 2023-11-23 09:30:00
+# Adjourned Monthly Meeting of the Municipal District of Adare-Rathkeale
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-monthly-meeting-of-the-municipal-district-of-adare-rathkeale)**
 

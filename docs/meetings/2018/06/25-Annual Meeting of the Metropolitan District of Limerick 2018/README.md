@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Annual Meeting of the Metropolitan District of Limerick 2018
-
-**Date and Time:** 2018-06-25 10:00:00
+# Annual Meeting of the Metropolitan District of Limerick 2018
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-metropolitan-district-limerick-2018)**
 

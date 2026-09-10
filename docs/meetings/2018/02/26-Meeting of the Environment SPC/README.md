@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Environment SPC
-
-**Date and Time:** 2018-02-26 10:00:00
+# Meeting of the Environment SPC
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-environment-spc-0)**
 

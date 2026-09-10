@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock
-
-**Date and Time:** 2022-01-20 14:30:00
+# Virtual Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-sub-committee-meeting-elected-members-municipal-district-4)**
 

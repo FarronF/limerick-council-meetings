@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Inaugural Annual Meeting of Metropolitan District of Limerick
-
-**Date and Time:** 2014-06-16 10:00:00
+# Inaugural Annual Meeting of Metropolitan District of Limerick
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/inaugural-annual-meeting-metropolitan-district-limerick)**
 

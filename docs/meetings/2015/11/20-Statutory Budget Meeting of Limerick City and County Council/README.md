@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-# Meeting Details
-
-**Meeting Name:** Statutory Budget Meeting of Limerick City and County Council
-
-**Date and Time:** 2015-11-20 10:00:00
+# Statutory Budget Meeting of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/statutory-budget-meeting-limerick-city-and-county-council)**
 

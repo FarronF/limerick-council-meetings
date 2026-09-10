@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee
-
-**Date and Time:** 2025-04-14 14:15:00
+# Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-2)**
 

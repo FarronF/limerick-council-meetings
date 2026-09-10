@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting of the Metropolitan District of Limerick
-
-**Date and Time:** 2022-11-10 12:00:00
+# Special Meeting of the Metropolitan District of Limerick
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-metropolitan-district-limerick-9)**
 

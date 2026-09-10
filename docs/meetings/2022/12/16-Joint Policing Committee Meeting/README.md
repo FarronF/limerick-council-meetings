@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-# Meeting Details
-
-**Meeting Name:** Joint Policing Committee Meeting
-
-**Date and Time:** 2022-12-16 10:00:00
+# Joint Policing Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-16)**
 

@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Adjourned Special Meeting of Limerick City and County Council
-
-**Date and Time:** 2021-06-16 09:00:00
+# Adjourned Special Meeting of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-special-meeting-limerick-city-and-county-council)**
 

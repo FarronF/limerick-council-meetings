@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-# Meeting Details
-
-**Meeting Name:** Adjourned Draft Budgetary Plan Meeting for the Municipal District of Adare-Rathkeale
-
-**Date and Time:** 2015-11-04 10:30:00
+# Adjourned Draft Budgetary Plan Meeting for the Municipal District of Adare-Rathkeale
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-draft-budgetary-plan-meeting-municipal-district-adare-rathkeale)**
 

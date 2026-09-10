@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting of the Metropolitan District
-
-**Date and Time:** 2019-11-28 10:00:00
+# Special Meeting of the Metropolitan District
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-metropolitan-district)**
 

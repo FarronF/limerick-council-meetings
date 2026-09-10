@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Special Meeting of Limerick City and County Council
-
-**Date and Time:** 2022-05-10 09:30:00
+# Virtual Special Meeting of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-52)**
 

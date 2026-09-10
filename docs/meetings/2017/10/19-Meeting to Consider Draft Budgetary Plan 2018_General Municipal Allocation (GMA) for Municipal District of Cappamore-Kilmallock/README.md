@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting to Consider Draft Budgetary Plan 2018/General Municipal Allocation (GMA) for Municipal District of Cappamore-Kilmallock
-
-**Date and Time:** 2017-10-19 17:00:00
+# Meeting to Consider Draft Budgetary Plan 2018/General Municipal Allocation (GMA) for Municipal District of Cappamore-Kilmallock
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2018-general-municipal-allocation-gma)**
 

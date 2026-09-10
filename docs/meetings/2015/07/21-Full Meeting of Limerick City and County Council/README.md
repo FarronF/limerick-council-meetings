@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-# Meeting Details
-
-**Meeting Name:** Full Meeting of Limerick City and County Council
-
-**Date and Time:** 2015-07-21 15:00:00
+# Full Meeting of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council-12)**
 

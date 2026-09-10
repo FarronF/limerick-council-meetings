@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Meeting of the Community, Leisure and Culture Strategic Policy Committee
-
-**Date and Time:** 2021-04-19 15:00:00
+# Virtual Meeting of the Community, Leisure and Culture Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-community-leisure-and-culture-strategic-policy-committee-6)**
 

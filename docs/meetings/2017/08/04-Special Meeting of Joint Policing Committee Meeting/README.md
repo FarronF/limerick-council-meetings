@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-08</span>
 
-# Meeting Details
-
-**Meeting Name:** Special Meeting of Joint Policing Committee Meeting
-
-**Date and Time:** 2017-08-04 14:00:00
+# Special Meeting of Joint Policing Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-joint-policing-committee-meeting)**
 

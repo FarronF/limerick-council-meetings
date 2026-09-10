@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee
-
-**Date and Time:** 2026-06-10 15:00:00
+# Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-6)**
 

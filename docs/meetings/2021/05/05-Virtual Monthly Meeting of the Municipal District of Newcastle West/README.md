@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Monthly Meeting of the Municipal District of Newcastle West
-
-**Date and Time:** 2021-05-05 10:00:00
+# Virtual Monthly Meeting of the Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-61)**
 

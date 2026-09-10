@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Travel and Transportation Strategic Policy Committee Meeting
-
-**Date and Time:** 2017-06-12 10:00:00
+# Travel and Transportation Strategic Policy Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/travel-and-transportation-strategic-policy-committee-meeting-5)**
 

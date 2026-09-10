@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-# Meeting Details
-
-**Meeting Name:** Joint Policing Committee Meeting
-
-**Date and Time:** 2023-09-22 10:00:00
+# Joint Policing Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-committee-meeting-19)**
 

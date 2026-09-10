@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Adjourned Meeting of the Economic Development, Enterprise & Planning SPC
-
-**Date and Time:** 2021-02-15 14:00:00
+# Virtual Adjourned Meeting of the Economic Development, Enterprise & Planning SPC
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-planning-spc-1)**
 

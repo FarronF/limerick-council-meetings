@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Cultural Strategic Policy Committee
-
-**Date and Time:** 2019-04-09 15:00:00
+# Meeting of the Cultural Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-cultural-strategic-policy-committee-0)**
 

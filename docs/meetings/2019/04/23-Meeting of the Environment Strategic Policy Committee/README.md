@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Environment Strategic Policy Committee
-
-**Date and Time:** 2019-04-23 10:00:00
+# Meeting of the Environment Strategic Policy Committee
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-environment-strategic-policy-committee-4)**
 

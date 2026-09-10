@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Adjourned Annual Meeting of the Municipal District of Newcastle West
-
-**Date and Time:** 2021-06-30 12:30:00
+# Adjourned Annual Meeting of the Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-annual-meeting-municipal-district-newcastle-west)**
 

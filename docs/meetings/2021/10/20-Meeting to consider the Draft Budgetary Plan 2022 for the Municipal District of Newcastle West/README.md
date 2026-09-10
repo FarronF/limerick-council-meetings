@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting to consider the Draft Budgetary Plan 2022 for the Municipal District of Newcastle West
-
-**Date and Time:** 2021-10-20 11:00:00
+# Meeting to consider the Draft Budgetary Plan 2022 for the Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2022-municipal-district-newcastle-west)**
 

@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Adjourned Budgetary Plan Meeting of Metropolitan District of Limerick
-
-**Date and Time:** 2014-10-20 12:15:00
+# Adjourned Budgetary Plan Meeting of Metropolitan District of Limerick
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-budgetary-plan-meeting-metropolitan-district-limerick)**
 

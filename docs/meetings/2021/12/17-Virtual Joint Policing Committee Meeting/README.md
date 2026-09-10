@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-# Meeting Details
-
-**Meeting Name:** Virtual Joint Policing Committee Meeting
-
-**Date and Time:** 2021-12-17 10:00:00
+# Virtual Joint Policing Committee Meeting
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/virtual-joint-policing-committee-meeting-0)**
 

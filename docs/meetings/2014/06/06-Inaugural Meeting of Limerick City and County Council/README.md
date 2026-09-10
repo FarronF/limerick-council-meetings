@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
 
-# Meeting Details
-
-**Meeting Name:** Inaugural Meeting of Limerick City and County Council
-
-**Date and Time:** 2014-06-06 14:30:00
+# Inaugural Meeting of Limerick City and County Council
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/inaugural-meeting-limerick-city-and-county-council)**
 

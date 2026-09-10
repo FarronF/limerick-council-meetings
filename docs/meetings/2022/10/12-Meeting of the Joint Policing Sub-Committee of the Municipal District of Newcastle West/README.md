@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West
-
-**Date and Time:** 2022-10-12 12:00:00
+# Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-joint-policing-sub-committee-municipal-district-newcastle-west-0)**
 

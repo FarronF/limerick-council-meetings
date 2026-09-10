@@ -16,11 +16,7 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-# Meeting Details
-
-**Meeting Name:** Meeting to consider the Draft Budgetary Plan 2019 for the Municipal District of Adare-Rathkeale
-
-**Date and Time:** 2018-10-16 19:00:00
+# Meeting to consider the Draft Budgetary Plan 2019 for the Municipal District of Adare-Rathkeale
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2019-municipal-district-adare-rathkeale)**
 
