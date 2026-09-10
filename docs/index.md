@@ -18,6 +18,14 @@
     font-size: 0.88rem;
   }
 
+  /* Desktop Header for Filters Panel */
+  .pf-sidebar-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 0 0 0.75rem 0;
+    color: var(--md-default-fg-color, #333);
+  }
+
   /* Material Details / Accordion Base Styling */
   .pf-sidebar details {
     border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
@@ -45,7 +53,7 @@
     border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
   }
 
-  /* Main Filter Shell Accordion Toggle - Hidden on Desktop */
+  /* Hide mobile summary toggle on desktop viewports */
   .pf-main-filter-wrapper > summary {
     display: none;
   }
@@ -54,7 +62,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.5rem 0.2rem 0.75rem 0.2rem;
+    margin-bottom: 0.5rem;
   }
 
   .pf-filter-list {
@@ -156,7 +164,12 @@
       width: 100%;
     }
     
-    /* Reveal the primary mobile accordion summary */
+    /* Hide the static desktop title on mobile */
+    .pf-sidebar-title {
+      display: none;
+    }
+
+    /* Convert outer shell into an accordion button on mobile */
     .pf-main-filter-wrapper > summary {
       display: block;
       font-size: 1rem;
@@ -177,16 +190,20 @@
 
 <div class="pf-container">
   <div class="pf-sidebar">
-    <!-- Primary Shell Accordion for Mobile -->
+    <!-- Static Header for Desktop Viewports -->
+    <div class="pf-filter-header-bar">
+      <h2 class="pf-sidebar-title">Filters</h2>
+      <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all filters</button>
+    </div>
+
+    <!-- Accordion Shell for Mobile Viewports -->
     <details class="pf-main-filter-wrapper" id="pf-mobile-wrapper" open>
       <summary>Filters</summary>
       <div class="pf-main-filter-inner">
-        <div class="pf-filter-header-bar">
-          <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all filters</button>
-        </div>
         <div id="pf-filters-container">Loading filters...</div>
       </div>
     </details>
+
   </div>
 
   <div class="pf-main">
@@ -235,12 +252,12 @@
       document.getElementById('pf-clear-all').addEventListener('click', clearAllFilters);
       document.getElementById('pf-load-more-btn').addEventListener('click', loadMoreResults);
 
-      // Media query listener to ensure desktop view remains open when resizing
+      // Keep mobile wrapper expanded if browser switches to desktop view
       const mediaQuery = window.matchMedia('(max-width: 768px)');
       const handleViewportChange = (e) => {
         const mobileWrapper = document.getElementById('pf-mobile-wrapper');
         if (!e.matches) {
-          mobileWrapper.open = true; // Auto-expand when returning to desktop
+          mobileWrapper.open = true;
         }
       };
       mediaQuery.addEventListener('change', handleViewportChange);
@@ -262,7 +279,7 @@
 
       const details = document.createElement('details');
       details.className = 'pf-filter-group';
-      details.open = true; // Individual filter categories accordion open by default
+      details.open = true;
 
       const summary = document.createElement('summary');
       summary.innerText = cfg.title;
