@@ -199,31 +199,6 @@
 <hr style="margin: 3rem 0 2rem 0; opacity: 0.2;">
 
 <footer style="font-size: 0.9rem; line-height: 1.6; opacity: 0.85; margin-bottom: 2rem;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
-    <div>
-      <h4 style="margin-bottom: 0.5rem;">Why This Project Exists</h4>
-      <p style="margin: 0;">
-        Navigating council records via the official portal requires clicking through month-by-month calendars and opening individual PDFs. This independent archive extracts and indexes that text to make local government decision-making transparent and instantly searchable.
-      </p>
-    </div>
-    
-    <div>
-      <h4 style="margin-bottom: 0.5rem;">Accessibility & Scanned Data</h4>
-      <p style="margin: 0;">
-        The council regularly uploads scanned image-based PDFs, creating barriers for search engines and screen readers. Text on this site is extracted via OCR (Optical Character Recognition) to make these public records accessible to everyone.
-      </p>
-    </div>
-  </div>
-
-  <div style="margin-top: 1.5rem; border-top: 1px solid rgba(0,0,0,0.1); padding-top: 1rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
-    <div>
-      <a href="https://github.com/FarronF/limerick-council-tools" target="_blank" rel="noopener">GitHub Repository</a> | 
-      <a href="https://ko-fi.com/farronf" target="_blank" rel="noopener">Support on Ko-Fi</a>
-    </div>
-    <div>
-      Data sourced from <a href="https://www.limerick.ie/council/your-council/meetings" target="_blank" rel="noopener">limerick.ie</a>
-    </div>
-  </div>
 </footer>
 
 <script type="module">
@@ -243,7 +218,7 @@
 
   async function init() {
     try {
-      pagefind = await import("../pagefind/pagefind.js");
+      pagefind = await import(new URL('pagefind/pagefind.js', document.baseURI).href);
       await pagefind.init();
 
       const availableFilters = await pagefind.filters();
