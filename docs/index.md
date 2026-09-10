@@ -188,8 +188,8 @@
     top: unset;
   }
 
-  .pf-sidebar-title {
-    margin: unset;
+  .pf-sidebar-title h2 {
+    margin: unset !important;
   }
 </style>
 
