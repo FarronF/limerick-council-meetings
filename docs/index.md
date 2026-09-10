@@ -195,6 +195,10 @@
   .pf-main-filter-wrapper {
     margin-top: unset;
   }
+
+  .md-main__inner {
+    max-width: unset;
+  }
 </style>
 
 <input type="text" id="pf-input" class="pf-search-box" placeholder="Search council meetings by keyword, topic, or motion...">
