@@ -1,1 +1,503 @@
-# Test
+<header style="margin-bottom: 1.5rem;">
+  <h1 style="margin-bottom: 0.5rem; font-size: 2rem;">Limerick Council Meetings Archive</h1>
+  <p style="font-size: 1.05rem; line-height: 1.5; opacity: 0.9; margin: 0;">
+    Search text and records from all publicly available Limerick City and County Council agendas, minutes, and documents across multiple years.
+  </p>
+</header>
+
+<style>
+  .pf-container {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }
+  
+  .pf-sidebar {
+    width: 280px;
+    flex-shrink: 0;
+    font-size: 0.88rem;
+  }
+  
+  /* Desktop: Hide summary so it's a permanent, static sidebar */
+  .pf-mobile-filter-wrapper summary {
+    display: none;
+  }
+
+  .pf-filter-group {
+    border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    background: var(--md-default-bg-color, #fff);
+    overflow: hidden;
+  }
+
+  .pf-filter-group details {
+    width: 100%;
+    margin: 0;
+  }
+
+  .pf-filter-group summary {
+    font-weight: bold;
+    padding: 0.85rem;
+    cursor: pointer;
+    user-select: none;
+    background: var(--md-default-bg-color, #fff);
+    border-bottom: 1px solid transparent;
+    transition: background 0.2s;
+  }
+
+  .pf-filter-group details[open] summary {
+    border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
+    background: var(--md-code-bg-color, rgba(0,0,0,0.02));
+  }
+
+  .pf-filter-list {
+    max-height: 220px;
+    overflow-y: auto;
+    padding: 0.5rem 0.85rem 0.85rem 0.85rem;
+  }
+
+  .pf-option {
+    display: flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    margin: 0.35rem 0;
+    cursor: pointer;
+    line-height: 1.3;
+    transition: opacity 0.2s;
+  }
+
+  .pf-option input {
+    cursor: pointer;
+  }
+
+  .pf-count {
+    opacity: 0.6;
+    font-size: 0.8em;
+    margin-left: auto;
+  }
+
+  .pf-main {
+    flex-grow: 1;
+    min-width: 0;
+  }
+
+  .pf-search-box {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    background: var(--md-default-bg-color, #fff);
+    color: var(--md-default-fg-color, #000);
+  }
+
+  .pf-meta-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+  }
+
+  .pf-clear-btn {
+    background: none;
+    border: none;
+    color: var(--md-typeset-a-color, #0056b3);
+    cursor: pointer;
+    text-decoration: underline;
+    padding: 0;
+    font-size: 0.85rem;
+  }
+
+  .pf-result-card {
+    padding: 1rem;
+    border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+    border-radius: 6px;
+    margin-bottom: 0.85rem;
+    background: var(--md-default-bg-color, #fff);
+  }
+
+  .pf-result-card h3 {
+    margin: 0 0 0.4rem 0;
+    font-size: 1.1rem;
+  }
+
+  .pf-result-card mark {
+    background-color: rgba(255, 235, 59, 0.4);
+    font-weight: bold;
+    padding: 0 2px;
+  }
+
+  .pf-load-more {
+    display: block;
+    width: 100%;
+    padding: 0.6rem;
+    margin-top: 1rem;
+    background: var(--md-default-fg-color--lightest, #f0f0f0);
+    border: 1px solid var(--md-default-fg-color--light, #ccc);
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  /* --- MOBILE BREAKPOINT (<= 728px) --- */
+  @media screen and (max-width: 728px) {
+    .pf-container {
+      flex-direction: column;
+    }
+    .pf-sidebar {
+      width: 100%;
+    }
+    .pf-mobile-filter-wrapper {
+      border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+      border-radius: 6px;
+      background: var(--md-default-bg-color, #fff);
+      margin-bottom: 1rem;
+      overflow: hidden;
+    }
+    .pf-mobile-filter-wrapper summary {
+      display: block; /* Show accordion toggle only on mobile */
+      font-weight: bold;
+      padding: 0.85rem 1rem;
+      cursor: pointer;
+      user-select: none;
+      background: var(--md-code-bg-color, rgba(0,0,0,0.02));
+    }
+    .pf-mobile-filter-inner {
+      padding: 0.5rem 1rem 1rem 1rem;
+    }
+  }
+</style>
+
+<input type="text" id="pf-input" class="pf-search-box" placeholder="Search council meetings by keyword, topic, or motion...">
+
+<div class="pf-container">
+  <div class="pf-sidebar">
+    <details class="pf-mobile-filter-wrapper" open>
+      <summary>Filters</summary>
+      <div class="pf-mobile-filter-inner">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+          <strong style="font-size:1rem;">Refine Search</strong>
+          <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all</button>
+        </div>
+        <div id="pf-filters-container">Loading filters...</div>
+      </div>
+    </details>
+  </div>
+
+  <div class="pf-main">
+    <div class="pf-meta-bar">
+      <span id="pf-stats">Initializing index...</span>
+    </div>
+    <div id="pf-results"></div>
+    <button id="pf-load-more-btn" class="pf-load-more" style="display:none;">Load More Results</button>
+  </div>
+</div>
+
+<hr style="margin: 3rem 0 2rem 0; opacity: 0.2;">
+
+<footer style="font-size: 0.9rem; line-height: 1.6; opacity: 0.85; margin-bottom: 2rem;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+    <div>
+      <h4 style="margin-bottom: 0.5rem;">Why This Project Exists</h4>
+      <p style="margin: 0;">
+        Navigating council records via the official portal requires clicking through month-by-month calendars and opening individual PDFs. This independent archive extracts and indexes that text to make local government decision-making transparent and instantly searchable.
+      </p>
+    </div>
+    
+    <div>
+      <h4 style="margin-bottom: 0.5rem;">Accessibility & Scanned Data</h4>
+      <p style="margin: 0;">
+        The council regularly uploads scanned image-based PDFs, creating barriers for search engines and screen readers. Text on this site is extracted via OCR (Optical Character Recognition) to make these public records accessible to everyone.
+      </p>
+    </div>
+  </div>
+
+  <div style="margin-top: 1.5rem; border-top: 1px solid rgba(0,0,0,0.1); padding-top: 1rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <a href="https://github.com/FarronF/limerick-council-tools" target="_blank" rel="noopener">GitHub Repository</a> | 
+      <a href="https://ko-fi.com/farronf" target="_blank" rel="noopener">Support on Ko-Fi</a>
+    </div>
+    <div>
+      Data sourced from <a href="https://www.limerick.ie/council/your-council/meetings" target="_blank" rel="noopener">limerick.ie</a>
+    </div>
+  </div>
+</footer>
+
+<script type="module">
+  let pagefind;
+  let allResults = [];
+  let currentRenderCount = 20;
+  let debounceTimer = null;
+
+  const FILTER_CONFIG = [
+    { key: "Category", title: "Category" },
+    { key: "Council Body", title: "Council Body" },
+    { key: "Year", title: "Year" },
+    { key: "Year-Month", title: "Year & Month" },
+    { key: "File Type", title: "File Type" },
+    { key: "Meeting Type", title: "Meeting Type" }
+  ];
+
+  async function init() {
+    try {
+      pagefind = await import("../pagefind/pagefind.js");
+      await pagefind.init();
+
+      const availableFilters = await pagefind.filters();
+      renderFilterSidebar(availableFilters);
+
+      // Debounced input listener
+      document.getElementById('pf-input').addEventListener('input', () => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => runSearch(), 250);
+      });
+
+      // Immediate trigger for filters/checkboxes
+      document.getElementById('pf-filters-container').addEventListener('change', () => runSearch(true));
+      document.getElementById('pf-clear-all').addEventListener('click', clearAllFilters);
+      document.getElementById('pf-load-more-btn').addEventListener('click', loadMoreResults);
+
+      await runSearch();
+    } catch (err) {
+      document.getElementById('pf-stats').innerText = "Failed to load Pagefind search index.";
+      console.error(err);
+    }
+  }
+
+  function renderFilterSidebar(filters) {
+    const container = document.getElementById('pf-filters-container');
+    container.innerHTML = '';
+
+    FILTER_CONFIG.forEach(cfg => {
+      const catKey = cfg.key;
+      if (!filters[catKey]) return;
+
+      const groupDiv = document.createElement('div');
+      groupDiv.className = 'pf-filter-group';
+
+      const details = document.createElement('details');
+      details.open = true;
+
+      const summary = document.createElement('summary');
+      summary.innerText = cfg.title;
+      details.appendChild(summary);
+
+      const listDiv = document.createElement('div');
+      listDiv.className = 'pf-filter-list';
+
+      const entries = Object.entries(filters[catKey]);
+
+      if (catKey === "Council Body") {
+        const fullCouncilItems = [];
+        const municipalItems = [];
+        const committeeItems = [];
+
+        entries.forEach(([val, count]) => {
+          if (val === "Limerick City and County Council") {
+            fullCouncilItems.push([val, count]);
+          } else if (
+            val.includes("District") || 
+            ["Adare-Rathkeale", "Newcastle West", "Cappamore-Kilmallock"].includes(val)
+          ) {
+            municipalItems.push([val, count]);
+          } else {
+            committeeItems.push([val, count]);
+          }
+        });
+
+        fullCouncilItems.sort((a, b) => a[0].localeCompare(b[0]));
+        municipalItems.sort((a, b) => a[0].localeCompare(b[0]));
+        committeeItems.sort((a, b) => a[0].localeCompare(b[0]));
+
+        const appendSection = (title, items) => {
+          if (items.length === 0) return;
+          const header = document.createElement('div');
+          header.style.cssText = "font-size: 0.75rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.5; margin: 0.6rem 0 0.2rem 0;";
+          header.innerText = title;
+          listDiv.appendChild(header);
+
+          items.forEach(([val, count]) => {
+            listDiv.appendChild(createCheckboxLabel(catKey, val, count));
+          });
+        };
+
+        appendSection("Full Council", fullCouncilItems);
+        appendSection("Municipal Districts", municipalItems);
+        appendSection("Committees", committeeItems);
+
+      } else {
+        entries.sort((a, b) => a[0].localeCompare(b[0]));
+        entries.forEach(([val, count]) => {
+          listDiv.appendChild(createCheckboxLabel(catKey, val, count));
+        });
+      }
+
+      details.appendChild(listDiv);
+      groupDiv.appendChild(details);
+      container.appendChild(groupDiv);
+    });
+  }
+
+  function createCheckboxLabel(catKey, val, count) {
+    const label = document.createElement('label');
+    label.className = 'pf-option';
+    label.dataset.cat = catKey;
+    label.dataset.val = val;
+    label.innerHTML = `
+      <input type="checkbox" name="${catKey}" value="${val.replace(/"/g, '&quot;')}">
+      <span>${val}</span>
+      <span class="pf-count">(${count})</span>
+    `;
+    return label;
+  }
+
+  let searchSequence = 0;
+
+  async function runSearch(isFilterChange = false) {
+    const currentSequence = ++searchSequence;
+
+    document.getElementById('pf-stats').innerText = "Searching...";
+    document.getElementById('pf-results').innerHTML = '<p style="padding: 1rem; opacity: 0.7;">Searching...</p>';
+    document.getElementById('pf-load-more-btn').style.display = 'none';
+
+    const query = document.getElementById('pf-input').value.trim();
+    const rawFilters = {};
+    let totalActiveFilters = 0;
+
+    document.querySelectorAll('#pf-filters-container input[type="checkbox"]:checked').forEach(cb => {
+      const cat = cb.name;
+      if (!rawFilters[cat]) {
+        rawFilters[cat] = [];
+      }
+      rawFilters[cat].push(cb.value);
+      totalActiveFilters++;
+    });
+
+    document.getElementById('pf-clear-all').style.display = totalActiveFilters > 0 ? 'inline' : 'none';
+
+    const formatFiltersObj = (filtersMap) => {
+      const formatted = {};
+      for (const [cat, values] of Object.entries(filtersMap)) {
+        if (values.length > 0) {
+          formatted[cat] = values.length > 1 ? { any: values } : values[0];
+        }
+      }
+      return formatted;
+    };
+
+    const mainFormattedFilters = formatFiltersObj(rawFilters);
+
+    try {
+      const response = await pagefind.search(query || null, { 
+        filters: mainFormattedFilters
+      });
+
+      if (currentSequence !== searchSequence) return;
+
+      allResults = response.results;
+      currentRenderCount = 20;
+
+      document.getElementById('pf-stats').innerText = `${allResults.length} meeting${allResults.length === 1 ? '' : 's'} found`;
+      renderResultsSlice();
+
+      const facetedFilters = {};
+      for (const cfg of FILTER_CONFIG) {
+        const catKey = cfg.key;
+        const siblingFilters = { ...rawFilters };
+        delete siblingFilters[catKey];
+        
+        const facetQueryResponse = await pagefind.search(query || null, {
+          filters: formatFiltersObj(siblingFilters)
+        });
+
+        if (currentSequence !== searchSequence) return;
+        if (facetQueryResponse.filters && facetQueryResponse.filters[catKey]) {
+          facetedFilters[catKey] = facetQueryResponse.filters[catKey];
+        }
+      }
+
+      updateFilterCounts(facetedFilters, rawFilters);
+
+    } catch (err) {
+      console.error(err);
+      document.getElementById('pf-stats').innerText = "Error executing search.";
+      document.getElementById('pf-results').innerHTML = '<p style="padding: 1rem; color: red;">Failed to fetch results.</p>';
+    }
+  }
+
+  function updateFilterCounts(dynamicFilters, activeRawFilters) {
+    if (!dynamicFilters) return;
+
+    FILTER_CONFIG.forEach(cfg => {
+      const catKey = cfg.key;
+      const categoryCounts = dynamicFilters[catKey] || {};
+
+      document.querySelectorAll(`.pf-option[data-cat="${catKey}"]`).forEach(label => {
+        const val = label.dataset.val;
+        const count = categoryCounts[val] || 0;
+        const countSpan = label.querySelector('.pf-count');
+        const checkbox = label.querySelector('input');
+
+        if (countSpan) {
+          countSpan.innerText = `(${count})`;
+        }
+
+        if (count === 0 && !checkbox.checked) {
+          label.style.opacity = '0.35';
+        } else {
+          label.style.opacity = '1';
+        }
+      });
+    });
+  }
+
+  async function renderResultsSlice() {
+    const container = document.getElementById('pf-results');
+    const loadMoreBtn = document.getElementById('pf-load-more-btn');
+
+    if (currentRenderCount <= 20) {
+      container.innerHTML = '';
+    }
+
+    if (allResults.length === 0) {
+      container.innerHTML = '<p style="padding: 1rem; opacity: 0.7;">No matching council meetings found.</p>';
+      loadMoreBtn.style.display = 'none';
+      return;
+    }
+
+    const batch = allResults.slice(currentRenderCount - 20, currentRenderCount);
+    const loadedData = await Promise.all(batch.map(item => item.data()));
+
+    loadedData.forEach(item => {
+      const card = document.createElement('div');
+      card.className = 'pf-result-card';
+      
+      const title = item.meta?.title || item.url.split('/').pop().replace('.html', '');
+      const fullDate = item.meta?.date || '';
+
+      card.innerHTML = `
+        <h3 style="margin-bottom: 0.2rem;"><a href="${item.url}">${title}</a></h3>
+        ${fullDate ? `<div style="font-size: 0.82rem; opacity: 0.75; margin-bottom: 0.6rem;">Uploaded: <strong>${fullDate}</strong></div>` : ''}
+        <p style="margin:0; font-size: 0.9em; line-height: 1.4;">${item.excerpt}</p>
+      `;
+      container.appendChild(card);
+    });
+
+    loadMoreBtn.style.display = allResults.length > currentRenderCount ? 'block' : 'none';
+  }
+
+  function loadMoreResults() {
+    currentRenderCount += 20;
+    renderResultsSlice();
+  }
+
+  function clearAllFilters() {
+    document.querySelectorAll('#pf-filters-container input[type="checkbox"]').forEach(cb => cb.checked = false);
+    runSearch();
+  }
+
+  init();
+</script>
