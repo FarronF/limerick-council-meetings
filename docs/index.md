@@ -17,62 +17,63 @@
     flex-shrink: 0;
     font-size: 0.88rem;
   }
-  
-  /* Desktop: Hide summary so it's a permanent, static sidebar */
-  .pf-mobile-filter-wrapper summary {
-    display: none;
-  }
 
-  .pf-filter-group {
+  /* Material Details / Accordion Base Styling */
+  .pf-sidebar details {
     border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
-    border-radius: 6px;
-    margin-bottom: 1rem;
+    border-radius: 4px;
+    margin-bottom: 0.75rem;
     background: var(--md-default-bg-color, #fff);
     overflow: hidden;
   }
 
-  .pf-filter-group details {
-    width: 100%;
-    margin: 0;
-  }
-
-  .pf-filter-group summary {
-    font-weight: bold;
-    padding: 0.85rem;
+  .pf-sidebar summary {
+    font-weight: 600;
+    padding: 0.75rem 1rem;
     cursor: pointer;
     user-select: none;
-    background: var(--md-default-bg-color, #fff);
-    border-bottom: 1px solid transparent;
-    transition: background 0.2s;
+    background: var(--md-code-bg-color, rgba(0,0,0,0.02));
+    color: var(--md-default-fg-color, #333);
+    transition: background 0.2s, color 0.2s;
   }
 
-  .pf-filter-group details[open] summary {
+  .pf-sidebar summary:hover {
+    background: var(--md-accent-fg-color--transparent, rgba(0,0,0,0.05));
+  }
+
+  .pf-sidebar details[open] > summary {
     border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
-    background: var(--md-code-bg-color, rgba(0,0,0,0.02));
+  }
+
+  /* Main Filter Shell Accordion Toggle - Hidden on Desktop */
+  .pf-main-filter-wrapper > summary {
+    display: none;
+  }
+
+  .pf-filter-header-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0.2rem 0.75rem 0.2rem;
   }
 
   .pf-filter-list {
     max-height: 220px;
     overflow-y: auto;
-    padding: 0.5rem 0.85rem 0.85rem 0.85rem;
+    padding: 0.5rem 0.85rem;
   }
 
   .pf-option {
     display: flex;
     align-items: baseline;
-    gap: 0.4rem;
-    margin: 0.35rem 0;
+    gap: 0.5rem;
+    margin: 0.4rem 0;
     cursor: pointer;
     line-height: 1.3;
-    transition: opacity 0.2s;
-  }
-
-  .pf-option input {
-    cursor: pointer;
   }
 
   .pf-count {
-    opacity: 0.6;
+    opacity: 0.65;
     font-size: 0.8em;
     margin-left: auto;
   }
@@ -87,10 +88,11 @@
     padding: 0.75rem 1rem;
     font-size: 1rem;
     border: 1px solid var(--md-default-fg-color--lightest, #ccc);
-    border-radius: 6px;
+    border-radius: 4px;
     margin-bottom: 1rem;
     background: var(--md-default-bg-color, #fff);
     color: var(--md-default-fg-color, #000);
+    box-shadow: var(--md-shadow-z1, 0 1px 3px rgba(0,0,0,0.12));
   }
 
   .pf-meta-bar {
@@ -112,11 +114,12 @@
   }
 
   .pf-result-card {
-    padding: 1rem;
+    padding: 1.2rem;
     border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
-    border-radius: 6px;
-    margin-bottom: 0.85rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
     background: var(--md-default-bg-color, #fff);
+    box-shadow: var(--md-shadow-z1, 0 1px 2px rgba(0,0,0,0.05));
   }
 
   .pf-result-card h3 {
@@ -125,7 +128,7 @@
   }
 
   .pf-result-card mark {
-    background-color: rgba(255, 235, 59, 0.4);
+    background-color: var(--md-accent-fg-color--transparent, rgba(255, 235, 59, 0.4));
     font-weight: bold;
     padding: 0 2px;
   }
@@ -133,40 +136,39 @@
   .pf-load-more {
     display: block;
     width: 100%;
-    padding: 0.6rem;
+    padding: 0.75rem;
     margin-top: 1rem;
-    background: var(--md-default-fg-color--lightest, #f0f0f0);
-    border: 1px solid var(--md-default-fg-color--light, #ccc);
+    background: var(--md-primary-fg-color, #205493);
+    color: var(--md-primary-bg-color, #fff);
+    border: none;
     border-radius: 4px;
     cursor: pointer;
     text-align: center;
+    font-weight: 600;
   }
 
-  /* --- MOBILE BREAKPOINT (<= 728px) --- */
-  @media screen and (max-width: 728px) {
+  /* --- MOBILE RESPONSIVE BEHAVIOR (<= 768px) --- */
+  @media screen and (max-width: 768px) {
     .pf-container {
       flex-direction: column;
     }
     .pf-sidebar {
       width: 100%;
     }
-    .pf-mobile-filter-wrapper {
-      border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
-      border-radius: 6px;
-      background: var(--md-default-bg-color, #fff);
+    
+    /* Reveal the primary mobile accordion summary */
+    .pf-main-filter-wrapper > summary {
+      display: block;
+      font-size: 1rem;
+      border-radius: 4px;
+    }
+
+    .pf-main-filter-wrapper {
       margin-bottom: 1rem;
-      overflow: hidden;
     }
-    .pf-mobile-filter-wrapper summary {
-      display: block; /* Show accordion toggle only on mobile */
-      font-weight: bold;
-      padding: 0.85rem 1rem;
-      cursor: pointer;
-      user-select: none;
-      background: var(--md-code-bg-color, rgba(0,0,0,0.02));
-    }
-    .pf-mobile-filter-inner {
-      padding: 0.5rem 1rem 1rem 1rem;
+
+    .pf-main-filter-inner {
+      padding: 0.75rem 0.5rem 0.25rem 0.5rem;
     }
   }
 </style>
@@ -175,12 +177,12 @@
 
 <div class="pf-container">
   <div class="pf-sidebar">
-    <details class="pf-mobile-filter-wrapper" open>
+    <!-- Primary Shell Accordion for Mobile -->
+    <details class="pf-main-filter-wrapper" id="pf-mobile-wrapper" open>
       <summary>Filters</summary>
-      <div class="pf-mobile-filter-inner">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
-          <strong style="font-size:1rem;">Refine Search</strong>
-          <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all</button>
+      <div class="pf-main-filter-inner">
+        <div class="pf-filter-header-bar">
+          <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all filters</button>
         </div>
         <div id="pf-filters-container">Loading filters...</div>
       </div>
@@ -224,16 +226,24 @@
       const availableFilters = await pagefind.filters();
       renderFilterSidebar(availableFilters);
 
-      // Debounced input listener
       document.getElementById('pf-input').addEventListener('input', () => {
         clearTimeout(debounceTimer);
         debounceTimer = setTimeout(() => runSearch(), 250);
       });
 
-      // Immediate trigger for filters/checkboxes
       document.getElementById('pf-filters-container').addEventListener('change', () => runSearch(true));
       document.getElementById('pf-clear-all').addEventListener('click', clearAllFilters);
       document.getElementById('pf-load-more-btn').addEventListener('click', loadMoreResults);
+
+      // Media query listener to ensure desktop view remains open when resizing
+      const mediaQuery = window.matchMedia('(max-width: 768px)');
+      const handleViewportChange = (e) => {
+        const mobileWrapper = document.getElementById('pf-mobile-wrapper');
+        if (!e.matches) {
+          mobileWrapper.open = true; // Auto-expand when returning to desktop
+        }
+      };
+      mediaQuery.addEventListener('change', handleViewportChange);
 
       await runSearch();
     } catch (err) {
@@ -250,11 +260,9 @@
       const catKey = cfg.key;
       if (!filters[catKey]) return;
 
-      const groupDiv = document.createElement('div');
-      groupDiv.className = 'pf-filter-group';
-
       const details = document.createElement('details');
-      details.open = true;
+      details.className = 'pf-filter-group';
+      details.open = true; // Individual filter categories accordion open by default
 
       const summary = document.createElement('summary');
       summary.innerText = cfg.title;
@@ -290,7 +298,7 @@
         const appendSection = (title, items) => {
           if (items.length === 0) return;
           const header = document.createElement('div');
-          header.style.cssText = "font-size: 0.75rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.5; margin: 0.6rem 0 0.2rem 0;";
+          header.style.cssText = "font-size: 0.75rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.6; margin: 0.6rem 0 0.2rem 0;";
           header.innerText = title;
           listDiv.appendChild(header);
 
@@ -311,8 +319,7 @@
       }
 
       details.appendChild(listDiv);
-      groupDiv.appendChild(details);
-      container.appendChild(groupDiv);
+      container.appendChild(details);
     });
   }
 
