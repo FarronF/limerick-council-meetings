@@ -189,7 +189,8 @@
   }
 
   .pf-sidebar-title h2 {
-    margin: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
 
   .pf-main-filter-wrapper {
