@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Meeting of the Joint Policing Subcommittee for the Municipal District of Adare-Rathkeale"
 date: 2018-11-08
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Meeting of the Joint Policing Subcommittee for the Municipal District of Adare-Rathkeale</span>
 <span data-pagefind-meta="date" style="display:none;">2018-11-08</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
 # Meeting of the Joint Policing Subcommittee for the Municipal District of Adare-Rathkeale
+
+**Date and Time:** 2018-11-08 16:30:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-joint-policing-subcommittee-municipal-district-adare-rathkeale)**
 

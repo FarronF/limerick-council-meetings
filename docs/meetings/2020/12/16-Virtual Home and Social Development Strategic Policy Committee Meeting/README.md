@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Virtual Home and Social Development Strategic Policy Committee Meeting"
 date: 2020-12-16
 council_body: "Home & Social Development SPC"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Virtual Home and Social Development Strategic Policy Committee Meeting</span>
 <span data-pagefind-meta="date" style="display:none;">2020-12-16</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
 # Virtual Home and Social Development Strategic Policy Committee Meeting
+
+**Date and Time:** 2020-12-16 15:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/home-and-social-development-strategic-policy-committee-meeting-7)**
 

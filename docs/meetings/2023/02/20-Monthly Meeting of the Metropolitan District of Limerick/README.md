@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Monthly Meeting of the Metropolitan District of Limerick"
 date: 2023-02-20
 council_body: "Metropolitan District"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Monthly Meeting of the Metropolitan District of Limerick</span>
 <span data-pagefind-meta="date" style="display:none;">2023-02-20</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
 # Monthly Meeting of the Metropolitan District of Limerick
+
+**Date and Time:** 2023-02-20 09:45:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-metropolitan-district-of-limerick)**
 

@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Monthly Meeting of Municipal District of Cappamore-Kilmallock"
 date: 2017-09-21
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Monthly Meeting of Municipal District of Cappamore-Kilmallock</span>
 <span data-pagefind-meta="date" style="display:none;">2017-09-21</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
 # Monthly Meeting of Municipal District of Cappamore-Kilmallock
+
+**Date and Time:** 2017-09-21 15:30:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-30)**
 

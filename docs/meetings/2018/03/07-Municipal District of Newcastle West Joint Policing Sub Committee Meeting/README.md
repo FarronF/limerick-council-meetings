@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Municipal District of Newcastle West Joint Policing Sub Committee Meeting"
 date: 2018-03-07
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Municipal District of Newcastle West Joint Policing Sub Committee Meeting</span>
 <span data-pagefind-meta="date" style="display:none;">2018-03-07</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
 # Municipal District of Newcastle West Joint Policing Sub Committee Meeting
+
+**Date and Time:** 2018-03-07 09:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/municipal-district-newcastle-west-joint-policing-sub-committee-meeting)**
 

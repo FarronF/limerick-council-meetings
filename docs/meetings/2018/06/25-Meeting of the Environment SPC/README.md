@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Meeting of the Environment SPC"
 date: 2018-06-25
 council_body: "Environment SPC"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Meeting of the Environment SPC</span>
 <span data-pagefind-meta="date" style="display:none;">2018-06-25</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
 # Meeting of the Environment SPC
+
+**Date and Time:** 2018-06-25 14:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-environment-spc-1)**
 

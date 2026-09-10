@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Community Leisure & Emergency Services Strategic Policy Committee Meeting"
 date: 2015-09-16
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Community Leisure & Emergency Services Strategic Policy Committee Meeting</span>
 <span data-pagefind-meta="date" style="display:none;">2015-09-16</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Community, Leisure & Emergency Services SPC</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
 # Community Leisure & Emergency Services Strategic Policy Committee Meeting
+
+**Date and Time:** 2015-09-16 14:30:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/community-leisure-emergency-services-strategic-policy-committee-meeting-0)**
 

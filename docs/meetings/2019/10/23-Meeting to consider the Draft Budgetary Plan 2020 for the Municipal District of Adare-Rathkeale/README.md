@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale"
 date: 2019-10-23
 council_body: "Adare-Rathkeale"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale</span>
 <span data-pagefind-meta="date" style="display:none;">2019-10-23</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
 # Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale
+
+**Date and Time:** 2019-10-23 14:45:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-consider-draft-budgetary-plan-2020-municipal-district-adare-rathkeale)**
 

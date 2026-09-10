@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Virtual Monthly Meeting of the Municipal District of Newcastle West"
 date: 2021-05-05
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Virtual Monthly Meeting of the Municipal District of Newcastle West</span>
 <span data-pagefind-meta="date" style="display:none;">2021-05-05</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
 # Virtual Monthly Meeting of the Municipal District of Newcastle West
+
+**Date and Time:** 2021-05-05 10:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-61)**
 

@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Annual Meeting of the Municipal District of Newcastle West"
 date: 2020-06-10
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Annual"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Annual Meeting of the Municipal District of Newcastle West</span>
 <span data-pagefind-meta="date" style="display:none;">2020-06-10</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
 # Annual Meeting of the Municipal District of Newcastle West
+
+**Date and Time:** 2020-06-10 11:30:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-municipal-district-newcastle-west-4)**
 

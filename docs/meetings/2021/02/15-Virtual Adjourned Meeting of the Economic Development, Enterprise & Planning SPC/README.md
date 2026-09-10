@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Virtual Adjourned Meeting of the Economic Development, Enterprise & Planning SPC"
 date: 2021-02-15
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Virtual Adjourned Meeting of the Economic Development, Enterprise & Planning SPC</span>
 <span data-pagefind-meta="date" style="display:none;">2021-02-15</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
 # Virtual Adjourned Meeting of the Economic Development, Enterprise & Planning SPC
+
+**Date and Time:** 2021-02-15 14:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-economic-development-enterprise-planning-spc-1)**
 

@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Special Meeting of Limerick City and County Council to consider the Issues Paper for the Regional and Spatial Economic Strategy for the Southern Region"
 date: 2017-12-04
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -7,7 +7,7 @@ meeting_type: "Special"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Special Meeting of Limerick City and County Council to consider the Issues Paper for the Regional and Spatial Economic Strategy for the Southern Region</span>
 <span data-pagefind-meta="date" style="display:none;">2017-12-04</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
 # Special Meeting of Limerick City and County Council to consider the Issues Paper for the Regional and Spatial Economic Strategy for the Southern Region
+
+**Date and Time:** 2017-12-04 16:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-consider-issues-paper-regional)**
 

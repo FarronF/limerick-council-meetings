@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Virtual Meeting of the Home and Social Development SPC"
 date: 2020-09-22
 council_body: "Home & Social Development SPC"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Virtual Meeting of the Home and Social Development SPC</span>
 <span data-pagefind-meta="date" style="display:none;">2020-09-22</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
 # Virtual Meeting of the Home and Social Development SPC
+
+**Date and Time:** 2020-09-22 14:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/private-meeting-home-and-social-development-spc)**
 

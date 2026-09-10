@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Special Meeting of Joint Policing Committee Meeting"
 date: 2017-08-04
 council_body: "Joint Policing Committee"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Special"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Special Meeting of Joint Policing Committee Meeting</span>
 <span data-pagefind-meta="date" style="display:none;">2017-08-04</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Joint Policing Committee</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-08</span>
 
 # Special Meeting of Joint Policing Committee Meeting
+
+**Date and Time:** 2017-08-04 14:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-joint-policing-committee-meeting)**
 

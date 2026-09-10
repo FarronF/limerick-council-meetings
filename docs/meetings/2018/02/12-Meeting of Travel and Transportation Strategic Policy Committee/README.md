@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Meeting of Travel and Transportation Strategic Policy Committee"
 date: 2018-02-12
 council_body: "Travel & Transportation SPC"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Meeting of Travel and Transportation Strategic Policy Committee</span>
 <span data-pagefind-meta="date" style="display:none;">2018-02-12</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
 # Meeting of Travel and Transportation Strategic Policy Committee
+
+**Date and Time:** 2018-02-12 10:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-travel-and-transportation-strategic-policy-committee)**
 

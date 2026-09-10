@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District"
 date: 2020-09-17
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District</span>
 <span data-pagefind-meta="date" style="display:none;">2020-09-17</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
 # Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District
+
+**Date and Time:** 2020-09-17 15:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/joint-policing-sub-committee-meeting-elected-members-cappamore-kilmallock-0)**
 

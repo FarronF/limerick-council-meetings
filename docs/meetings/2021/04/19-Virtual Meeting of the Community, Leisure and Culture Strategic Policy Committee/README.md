@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Virtual Meeting of the Community, Leisure and Culture Strategic Policy Committee"
 date: 2021-04-19
 council_body: "Community, Leisure & Emergency Services SPC"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Virtual Meeting of the Community, Leisure and Culture Strategic Policy Committee</span>
 <span data-pagefind-meta="date" style="display:none;">2021-04-19</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Community, Leisure & Emergency Services SPC</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
 # Virtual Meeting of the Community, Leisure and Culture Strategic Policy Committee
+
+**Date and Time:** 2021-04-19 15:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-community-leisure-and-culture-strategic-policy-committee-6)**
 

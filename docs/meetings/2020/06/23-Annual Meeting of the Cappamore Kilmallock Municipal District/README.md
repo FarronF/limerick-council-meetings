@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Annual Meeting of the Cappamore Kilmallock Municipal District"
 date: 2020-06-23
 council_body: "Cappamore-Kilmallock"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Annual"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Annual Meeting of the Cappamore Kilmallock Municipal District</span>
 <span data-pagefind-meta="date" style="display:none;">2020-06-23</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
 # Annual Meeting of the Cappamore Kilmallock Municipal District
+
+**Date and Time:** 2020-06-23 15:30:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/annual-meeting-cappamore-kilmallock-municipal-district)**
 

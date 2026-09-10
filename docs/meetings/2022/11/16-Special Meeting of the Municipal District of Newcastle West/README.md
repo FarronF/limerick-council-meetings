@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Special Meeting of the Municipal District of Newcastle West"
 date: 2022-11-16
 council_body: "Newcastle West"
 category: "Municipal District"
@@ -7,7 +7,7 @@ meeting_type: "Special"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Special Meeting of the Municipal District of Newcastle West</span>
 <span data-pagefind-meta="date" style="display:none;">2022-11-16</span>
 <span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
 # Special Meeting of the Municipal District of Newcastle West
+
+**Date and Time:** 2022-11-16 10:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-municipal-district-newcastle-west-11)**
 

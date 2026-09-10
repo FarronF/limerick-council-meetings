@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee"
 date: 2025-04-14
 council_body: "Economic Development & Planning SPC"
 category: "Committee"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee</span>
 <span data-pagefind-meta="date" style="display:none;">2025-04-14</span>
 <span data-pagefind-filter="Category" style="display:none;">Committee</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
 # Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee
+
+**Date and Time:** 2025-04-14 14:15:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-2)**
 

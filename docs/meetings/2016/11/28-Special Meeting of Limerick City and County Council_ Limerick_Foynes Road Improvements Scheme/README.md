@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Special Meeting of Limerick City and County Council: Limerick/Foynes Road Improvements Scheme"
 date: 2016-11-28
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -7,7 +7,7 @@ meeting_type: "Special"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Special Meeting of Limerick City and County Council: Limerick/Foynes Road Improvements Scheme</span>
 <span data-pagefind-meta="date" style="display:none;">2016-11-28</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-11</span>
 
 # Special Meeting of Limerick City and County Council: Limerick/Foynes Road Improvements Scheme
+
+**Date and Time:** 2016-11-28 17:30:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/special-meeting-limerick-city-and-county-council-limerick-foynes-road-improvements)**
 

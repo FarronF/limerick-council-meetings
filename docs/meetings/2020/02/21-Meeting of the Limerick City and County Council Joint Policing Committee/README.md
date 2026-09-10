@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Meeting of the Limerick City and County Council Joint Policing Committee"
 date: 2020-02-21
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">Meeting of the Limerick City and County Council Joint Policing Committee</span>
 <span data-pagefind-meta="date" style="display:none;">2020-02-21</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
 # Meeting of the Limerick City and County Council Joint Policing Committee
+
+**Date and Time:** 2020-02-21 10:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-limerick-city-and-county-council-joint-policing-committee-1)**
 

@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "A Full Meeting of Limerick City and County Council"
 date: 2019-01-28
 council_body: "Limerick City and County Council"
 category: "Full Council"
@@ -7,7 +7,7 @@ meeting_type: "Regular"
 file_type: "Meeting Overview"
 ---
 
-<span data-pagefind-meta="title" style="display:none;">README</span>
+<span data-pagefind-meta="title" style="display:none;">A Full Meeting of Limerick City and County Council</span>
 <span data-pagefind-meta="date" style="display:none;">2019-01-28</span>
 <span data-pagefind-filter="Category" style="display:none;">Full Council</span>
 <span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
@@ -17,6 +17,8 @@ file_type: "Meeting Overview"
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
 # A Full Meeting of Limerick City and County Council
+
+**Date and Time:** 2019-01-28 15:00:00
 
 **[Link to Meeting](https://www.limerick.ie/council/whats-on/full-meeting-limerick-city-and-county-council-27)**
 
