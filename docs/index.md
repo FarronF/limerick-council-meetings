@@ -9,7 +9,6 @@
   .pf-container {
     display: flex;
     gap: 1.5rem;
-    margin-top: 1.5rem;
   }
   
   .pf-sidebar {
@@ -183,6 +182,14 @@
     .pf-main-filter-inner {
       padding: 0.75rem 0.5rem 0.25rem 0.5rem;
     }
+  }
+
+  .md-typeset summary::after, .md-typeset summary::before{
+    top: unset;
+  }
+
+  .pf-sidebar-title {
+    margin: unset;
   }
 </style>
 
